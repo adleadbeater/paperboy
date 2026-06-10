@@ -317,7 +317,7 @@ def cluster_items(items: List[dict]) -> List[dict]:
                 best_cluster = c
         if best_cluster:
             best_cluster["items"].append(item)
-            best_cluster["_keywords"] |= kw
+            # Keywords frozen at seed — prevents snowball clustering on generic platform words
             best_cluster["sources"].add(item["source_name"])
             best_cluster["published_dts"].append(item["published_dt"])
             if item["source_tier"] == 1 and item["title"] > best_cluster["headline"]:
@@ -636,7 +636,7 @@ def _parse_assessments(text: str, expected: int, clusters: list) -> List[dict]:
         angle    = clean(get_field(block, "ANGLE"))
         topic    = clean(get_field(block, "TOPIC"))
 
-        if not clean(get_field(block, "HEADLINE")):
+        if not clean(get_field(block, "HEADLINE")) and tier != "skip":
             log.warning(f"Cluster {n}: blank/malformed HEADLINE — using raw cluster headline")
 
         results.append({
