@@ -26,7 +26,7 @@ from paperboy import (
 # ── Debug settings ──────────────────────────────────────────────────────────────
 IGNORE_SEEN       = True
 LOOKBACK_MINS_DBG = 120
-POST_TO_SLACK_DBG = False
+POST_TO_SLACK_DBG = True
 
 
 def probe_feeds():
