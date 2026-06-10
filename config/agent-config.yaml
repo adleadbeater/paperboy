@@ -1,0 +1,24 @@
+# Polygon News Scout — Runtime Configuration
+# Secrets come from ~/.claude/.env — never hardcode here
+
+claude:
+  model: claude-sonnet-4-20250514
+  call1_max_tokens: 600
+  call2_max_tokens: 5000
+
+scoring:
+  mw_relevance_min: 6          # minimum polygon_relevance to post
+  legolas_pick_min_relevance: 7 # minimum for polygon_pick tier
+  article_cache_hours: 4
+  recently_posted_hours: 24
+  lookback_minutes: 35
+
+sheets:
+  # Optional — leave blank if not using a Polygon performance sheet
+  sheet_id: ""
+  seen_tab: Seen
+  feedback_log_tab: FeedbackLog
+
+slack:
+  channel_id: ""        # FILL IN: Polygon Slack channel ID
+  post_enabled: true

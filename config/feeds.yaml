@@ -1,0 +1,52 @@
+# Polygon News Scout — RSS Sources
+# X/Bluesky feeds (DiscussingFilm, Wario64, Schreier) require separate integration — not included yet
+# Bloomberg author pages are not RSS-accessible — not included yet
+
+tier1:
+  # Core gaming press
+  - name: IGN
+    url: https://feeds.ign.com/ign/articles
+  - name: VGC
+    url: https://www.videogameschronicle.com/category/news/feed/
+  - name: Eurogamer
+    url: https://www.eurogamer.net/feed/news
+  - name: Kotaku
+    url: https://kotaku.com/feed/rss
+  - name: Anime News Network
+    url: https://www.animenewsnetwork.com/newsfeed/
+  # Entertainment crossover
+  - name: Deadline
+    url: https://deadline.com/feed/
+  - name: Variety
+    url: https://variety.com/feed/
+  - name: Hollywood Reporter
+    url: https://www.hollywoodreporter.com/feed/
+
+tier2:
+  # Gaming press
+  - name: GamesRadar
+    url: https://www.gamesradar.com/rss/
+  - name: Automaton
+    url: https://automaton-media.com/en/feed/
+  - name: Crunchyroll News
+    url: https://feeds.feedburner.com/crunchyroll/
+  - name: Otakukart
+    url: https://otakukart.com/feed/
+  # Tabletop / RPG
+  - name: Bell of Lost Souls
+    url: https://www.belloflostsouls.net/category/rpgs/feed
+  - name: ENWorld
+    url: https://www.enworld.org/ewr-porta/index.rss
+  - name: Goonhammer
+    url: https://www.goonhammer.com/feed/
+  - name: Tribality
+    url: https://www.tribality.com/feed/
+  # Leaks / forums — lower trust, used for corroboration
+  - name: ResetEra Gaming
+    url: https://www.resetera.com/forums/gaming-headlines.54/index.rss
+  - name: Famiboards
+    url: https://famiboards.com/forums/-/index.rss
+  - name: Reddit GamingLeaks
+    url: https://www.reddit.com/r/GamingLeaksAndRumours/.rss
+  - name: Reddit MarvelStudios
+    url: https://www.reddit.com/r/MarvelStudiosSpoilers/.rss

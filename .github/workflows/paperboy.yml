@@ -1,0 +1,45 @@
+name: Polygon News Scout
+
+on:
+  schedule:
+    # Every 30 min, 9am–11pm UTC (5am–7pm EDT)
+    - cron: '*/30 9-23 * * *'
+    # Once at 2am UTC (10pm EDT)
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Polygon Scout
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          POLYGON_SLACK_WEBHOOK: ${{ secrets.POLYGON_SLACK_WEBHOOK }}
+          POLYGON_SLACK_BOT_TOKEN: ${{ secrets.POLYGON_SLACK_BOT_TOKEN }}
+        run: python paperboy.py
+
+      - name: Commit updated learnings and seen GUIDs
+        run: |
+          git config user.name "Polygon Scout Bot"
+          git config user.email "polygon-bot@users.noreply.github.com"
+          git add data/learnings.json data/seen_guids.json
+          git diff --staged --quiet || git commit -m "chore: update learnings [skip ci]"
+          git push
