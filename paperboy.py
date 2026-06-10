@@ -262,7 +262,9 @@ _SKIP_TITLE_RE = re.compile(
     r'every\s+game\s+(coming|releasing)|complete\s+guide|all\s+the\s+details|'
     r'everything\s+you\s+need\s+to\s+know|explained|what\s+to\s+expect|'
     r'release\s+date.*details|how\s+to\s+watch|where\s+to\s+watch|'
-    r'deals?\s+of\s+the\s+(day|week)|buying\s+guide|review\s+round\s*up)\b',
+    r'deals?\s+of\s+the\s+(day|week)|buying\s+guide|review\s+round\s*up|'
+    r'where\s+to\s+(pre\s*order|buy)|save\s+\$\d+|(pre\s*order|pre\-order)s?\s+(now|at|available)|'
+    r'up\s+for\s+pre\s*order|knocks?\s+\$\d+\s+off|price\s+drop)\b',
     re.IGNORECASE,
 )
 
