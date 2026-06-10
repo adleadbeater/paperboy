@@ -5,7 +5,7 @@
 tier1:
   # Core gaming press
   - name: IGN
-    url: https://feeds.ign.com/ign/articles
+    url: https://www.ign.com/rss/articles/feed
   - name: VGC
     url: https://www.videogameschronicle.com/category/news/feed/
   - name: Eurogamer

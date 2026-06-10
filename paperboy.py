@@ -222,8 +222,8 @@ def fetch_rss_items(sources: dict, lookback_mins: int) -> List[dict]:
     items  = []
     for name, url in sources.items():
         try:
-            headers = {"User-Agent": "PolygonScout/1.0"}
-            # Reddit requires a descriptive User-Agent
+            # Use a browser UA — some publishers (IGN) block bot UAs with 403/501
+            headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
             if "reddit.com" in url:
                 headers["User-Agent"] = "PolygonScout/1.0 (news aggregator)"
             r = requests.get(url, timeout=20, headers=headers)
