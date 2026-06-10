@@ -386,6 +386,11 @@ SAME EVENT RULE — It's a dupe if:
 Format: DUPE: [id]
 
 SPLIT: If a cluster mixes articles from clearly different stories, mark it for splitting.
+This is the most common error — look carefully for:
+- Same franchise/IP but different news beats (e.g. a game port announcement + a lore controversy about that same franchise)
+- One article about a game, another about merchandise/toys/collectibles inspired by that property
+- One article about a creative decision, another about a business/sales milestone for the same series
+- A gaming article grouped with an entertainment industry article that only shares a franchise name
 Format: SPLIT: [id]
 
 NONE: If nothing to do, write NONE.
@@ -668,8 +673,8 @@ def enforce_tier(story: dict, cluster: dict) -> str:
         if s not in _TIER2_SET:
             t1_pubs.add(s)
 
-    # Validate trending: needs 3+ T1 sources or 4+ total
-    if tier == "trending" and len(t1_pubs) < 3 and total < 4:
+    # Validate trending: needs 2+ T1 sources or 3+ total
+    if tier == "trending" and len(t1_pubs) < 2 and total < 3:
         log.info(f"Demote trending→polygon_pick ({len(t1_pubs)} T1, {total} total): {story['headline'][:60]}")
         tier = "polygon_pick"
 
