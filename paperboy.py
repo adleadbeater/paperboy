@@ -694,10 +694,13 @@ def enforce_tier(story: dict, cluster: dict) -> str:
         log.info(f"Demote single-source proven_topic→skip (relevance={relevance}): {story['headline'][:60]}")
         tier = "skip"
 
-    # Forum-only clusters (all sources are T2 forum sites): require 3+ forum posts or demote
+    # Forum-only clusters: require 2+ sources unless Claude is highly confident
     forum_sources = {"Reddit GamingLeaks", "Reddit MarvelStudios", "ResetEra Gaming", "Famiboards"}
-    if all(s in forum_sources for s in cluster["sources"]) and total < 3:
+    if all(s in forum_sources for s in cluster["sources"]) and total < 2:
         log.info(f"Demote forum-only cluster (only {total} forum sources): {story['headline'][:60]}")
+        tier = "skip"
+    elif all(s in forum_sources for s in cluster["sources"]) and total < 3 and relevance < POLYGON_PICK_MIN:
+        log.info(f"Demote forum-only cluster (low confidence, {total} sources, rel={relevance}): {story['headline'][:60]}")
         tier = "skip"
 
     # Global relevance gate
