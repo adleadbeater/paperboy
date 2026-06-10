@@ -467,8 +467,7 @@ def claude_assess_clusters(clusters: list, learnings: dict) -> List[dict]:
         return results
 
     cluster_blocks = []
-    for c in clusters:
-        local_id = c.get("_local_id", c["id"])
+    for seq, c in enumerate(clusters, 1):
         n_t1 = sum(1 for i in c["items"] if i["source_tier"] == 1)
         n_t2 = sum(1 for i in c["items"] if i["source_tier"] == 2)
         sorted_items = sorted(c["items"], key=lambda x: x["published_dt"])
@@ -479,7 +478,7 @@ def claude_assess_clusters(clusters: list, learnings: dict) -> List[dict]:
             cache = " [cached]" if it.get("_from_cache") else ""
             articles.append(f"  [{tier}] {it['source_name']:<22} {age:>3}m ago | {it['title']}{cache}")
         cluster_blocks.append(
-            f"CLUSTER {local_id} | T1: {n_t1}  T2: {n_t2}  Total: {n_t1 + n_t2}\n"
+            f"CLUSTER {seq} | T1: {n_t1}  T2: {n_t2}  Total: {n_t1 + n_t2}\n"
             f"Sources: {', '.join(c['sources'])}\n"
             + "\n".join(articles)
         )
