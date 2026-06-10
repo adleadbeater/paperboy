@@ -312,7 +312,7 @@ def cluster_items(items: List[dict]) -> List[dict]:
         best_overlap = 0
         for c in clusters:
             overlap = len(kw & c["_keywords"])
-            if overlap >= 2 and overlap > best_overlap:
+            if overlap >= 3 and overlap > best_overlap:
                 best_overlap = overlap
                 best_cluster = c
         if best_cluster:
@@ -682,6 +682,11 @@ def enforce_tier(story: dict, cluster: dict) -> str:
             log.info(f"Demote polygon_pick→skip (single T2-only source): {story['headline'][:60]}")
             tier = "skip"
 
+    # Single-source proven_topic needs higher confidence — corroborated stories only
+    if tier == "proven_topic" and total == 1 and relevance < POLYGON_PICK_MIN:
+        log.info(f"Demote single-source proven_topic→skip (relevance={relevance}): {story['headline'][:60]}")
+        tier = "skip"
+
     # Forum-only clusters (all sources are T2 forum sites): require 3+ forum posts or demote
     forum_sources = {"Reddit GamingLeaks", "Reddit MarvelStudios", "ResetEra Gaming", "Famiboards"}
     if all(s in forum_sources for s in cluster["sources"]) and total < 3:
@@ -911,15 +916,19 @@ def post_to_slack(cluster: dict, assessment: dict, tier: str) -> bool:
         [it for it in items if it["source_tier"] == 1 and not it.get("_from_cache")],
         key=lambda x: x["published_dt"],
     )
+    display_items = t1_items or sorted(
+        [it for it in items if not it.get("_from_cache")],
+        key=lambda x: x["published_dt"],
+    )
     article_lines = []
-    for it in t1_items[:4]:
+    for it in display_items[:4]:
         article_lines.append(f"  › [{it['source_name']}] {it['title'][:90]}")
     if article_lines:
         lines.append("In this cluster:")
         lines.extend(article_lines)
 
     best_url = ""
-    for it in t1_items:
+    for it in display_items:
         if it.get("url"):
             best_url = it["url"]
             break
