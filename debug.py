@@ -24,7 +24,8 @@ from paperboy import (
 )
 
 # ── Debug settings ──────────────────────────────────────────────────────────────
-IGNORE_SEEN       = True
+IGNORE_SEEN       = True    # True = reprocess all items regardless of seen file
+IGNORE_RECENT     = False   # True = skip dupe suppression (repush without blocking past posts)
 LOOKBACK_MINS_DBG = 120
 POST_TO_SLACK_DBG = True
 
@@ -124,7 +125,9 @@ def run_debug():
             print(f"         [{tier}] {it['source_name']:<22} {age:>3}m ago | {it['title'][:60]}{cache}")
 
     # ── Claude Call 1 ──────────────────────────────────────────────
-    recently_posted = load_recently_posted(learnings)
+    recently_posted = [] if IGNORE_RECENT else load_recently_posted(learnings)
+    if IGNORE_RECENT:
+        print(f"\n  ⚠️  IGNORE_RECENT=True — dupe suppression disabled")
     print(f"\n  Claude call 1: {len(clusters)} clusters, {len(recently_posted)} recently posted...")
     for i, c in enumerate(clusters, 1):
         c["_local_id"] = i
