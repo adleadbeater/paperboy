@@ -749,14 +749,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/crimson-desert-sales-6-million",
-      "title": "Crimson Desert passes another big sales milestone as demand continues three months after release",
-      "url": "https://www.eurogamer.net/crimson-desert-sales-6-million",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T13:27:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000705537",
       "title": "Spyro\u2019s Big Comeback Wouldn\u2019t Be Possible Without First Escaping The Call Of Duty Mines",
       "url": "https://kotaku.com/spyros-big-comeback-wouldnt-be-possible-without-first-escaping-the-call-of-duty-mines-2000705537",
@@ -803,22 +795,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236772354",
-      "title": "Politico Relaunches Magazine With New Weekend Focus on Examining Power",
-      "url": "https://variety.com/2026/biz/news/politico-relaunches-magazine-weekend-jonathan-greenberger-1236772354/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T13:30:00+00:00"
-    },
-    {
-      "guid": "5vZLjHzWDKq2ZknSAkPooN",
-      "title": "From budget-friendly pairs to premium-sounding powerhouses: these are my top-rated gaming headset picks for 2026",
-      "url": "https://www.gamesradar.com/hardware/headsets-headphones/from-budget-friendly-pairs-to-premium-sounding-powerhouses-these-are-my-top-rated-gaming-headset-picks-for-2026/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:28:48+00:00"
     },
     {
       "guid": "https://automaton-media.com/en/?p=68130",
@@ -963,14 +939,6 @@
       "source_name": "Famiboards",
       "source_tier": 2,
       "published_dt": "2026-06-11T13:32:49+00:00"
-    },
-    {
-      "guid": "17721",
-      "title": "R(h)ate the Direct (June, 2026): The Nintendo Direct Review Thread\u2122 -- SUMMER EVENT",
-      "url": "https://famiboards.com/threads/r-h-ate-the-direct-june-2026-the-nintendo-direct-review-thread%E2%84%A2-summer-event.17721/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:28:12+00:00"
     },
     {
       "guid": "6720f989-40de-4140-ac8d-d76c30d796b8",
@@ -2443,6 +2411,166 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-11T16:42:10+00:00"
+    },
+    {
+      "guid": "1033327e-6173-47db-8add-2e09d3c871c4",
+      "title": "The Marvel Zombies Rise From the Grave Again in Marvel Zombies: War Zone",
+      "url": "https://www.ign.com/articles/the-marvel-zombies-rise-from-the-grave-again-in-marvel-zombies-war-zone",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:01:31+00:00"
+    },
+    {
+      "guid": "e28889d6-6bbf-4c51-a167-d7fa8d656aee",
+      "title": "Whatever Happens This World Cup, It Won\u2019t Be As Fun as Playing FIFA: Road to World Cup 98",
+      "url": "https://www.ign.com/articles/whatever-happens-this-world-cup-it-wont-be-as-fun-as-playing-fifa-road-to-world-cup-98",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000705567",
+      "title": "Watch What Happens When A Game Dev Doesn\u2019t Have An Answer To A Tough Question",
+      "url": "https://kotaku.com/tomb-raider-legacy-of-atlantis-gen-ai-crystal-dynamics-interview-2000705567",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:15:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236951893",
+      "title": "HBO Max Developing Family Drama \u2018Six Days To Sunday\u2019 From Marta Kauffman & \u2018Grace And Frankie\u2019 Team",
+      "url": "https://deadline.com/2026/06/hbo-max-family-drama-marta-kauffman-grace-and-frankie-team-1236951893/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236953874",
+      "title": "Clive Owen Lining Up Projects With Ukraine\u2019s Myroslav Slaboshpytskyi & A Big Name Italian Director \u2013 Taormina",
+      "url": "https://deadline.com/2026/06/clive-owen-ukraine-myroslav-slaboshpytskyi-italian-director-1236953874/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:00:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778076",
+      "title": "Taylor Swift\u2019s Stevie Knicks T-Shirt Is the New Must-Have Merch of the NBA Finals \u2014 And You Can Shop Your Own Version Online",
+      "url": "https://variety.com/2026/shopping/news/taylor-swift-stevie-knicks-t-shirt-knicks-game-buy-online-1236778076/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:28:55+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778800",
+      "title": "Giovanni Entertainment Hires Ted Horning as Creative Executive (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/giovanni-entertainment-hires-ted-horning-creative-executive-1236778800/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:23:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778803",
+      "title": "Sylvia Rhone to Receive \u2018Ultimate Icon\u2019 Award at BET Awards",
+      "url": "https://variety.com/2026/music/news/sylvia-rhone-ultimate-icon-bet-awards-1236778803/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:20:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778777",
+      "title": "\u2018Love Story\u2019 Star Paul Anthony Kelly Joins \u2018Housemaid\u2019s Secret\u2019",
+      "url": "https://variety.com/2026/film/news/housemaids-secret-paul-anthony-kelly-1236778777/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:18:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778703",
+      "title": "Clive Owen Teases Film With \u2018The Tribe\u2019 Director Myroslav Slaboshpytskyi, Promises \u2018Sensitivity\u2019 to Series on JonBen\u00e9t Ramsey: \u2018People Treat It Like a Murder Mystery\u2019",
+      "url": "https://variety.com/2026/film/global/clive-owen-the-tribe-director-jonbenet-ramsey-taormina-1236778703/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:17:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236771465",
+      "title": "\u2018The Pitt\u2019 Star Supriya Ganesh Tapped Into Her Own Anxiety to Play Dr. Mohan\u2019s Panic Attacks: \u2018I Felt This Deep Sense of Sadness\u2019",
+      "url": "https://variety.com/2026/tv/news/supriya-ganesh-the-pitt-panic-attack-anxiety-1236771465/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236619524",
+      "title": "Jeff Shell Settles Lawsuit From Whistleblower Who Forced His Paramount Exit",
+      "url": "https://www.hollywoodreporter.com/business/business-news/jeff-shell-settles-lawsuit-whistleblower-paramount-exit-1236619524/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:25:03+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236619523",
+      "title": "Larry David Is in \u2018Pursuit of Unhappiness\u2019 in First Look at New HBO Comedy",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/larry-david-pursuit-of-unhappiness-new-hbo-comedy-trailer-1236619523/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:22:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236619487",
+      "title": "\u2018Die Hard\u2019 Screenwriter Steven de Souza Lands Deal for 3 Graphic Novels With Gungnir (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/steven-de-souza-three-graphic-novels-gungnir-sheena-1236619487/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:12:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236618946",
+      "title": "\u2018Love Story\u2019 Breakout Paul Anthony Kelly Joins Sydney Sweeney in \u2018The Housemaid 2\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/love-story-paul-anthony-kelly-sydney-sweeney-housemaid-2-1236618946/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236619363",
+      "title": "\u2018Mr. & Mrs. Smith\u2019 Adds Levon Hawke to Season 2 Cast (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/mr-and-mrs-smith-levon-hawke-season-2-1236619363/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236619424",
+      "title": "\u2018Love Island USA\u2019 App Users Were Up Nearly 350 Percent When Season 8 Fan Vote Crashed",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/love-island-usa-app-users-all-time-high-season-8-fan-vote-1236619424/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:00:00+00:00"
+    },
+    {
+      "guid": "rMCbaK5zwCvTBzcsLhtTCM",
+      "title": "After saying the first game is better than Nier Automata, Yoko Taro reckons he's gotta buy Stellar Blade: Blood Rain too",
+      "url": "https://www.gamesradar.com/games/action-rpg/after-saying-the-first-game-is-better-than-nier-automata-yoko-taro-reckons-hes-gotta-buy-stellar-blade-blood-rain-too/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-11T17:17:38+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=609835",
+      "title": "D&D: Five Places To Sneak In Secret Lore",
+      "url": "https://www.belloflostsouls.net/2026/06/dd-five-places-to-sneak-in-secret-lore.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-06-11T17:00:00+00:00"
+    },
+    {
+      "guid": "t3_1u35er2",
+      "title": "Dusk Golem says RE0 remake is being handled by the main Capcom devs division",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u35er2/dusk_golem_says_re0_remake_is_being_handled_by/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-11T17:22:58+00:00"
     }
   ]
 }
