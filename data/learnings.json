@@ -749,198 +749,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000705537",
-      "title": "Spyro\u2019s Big Comeback Wouldn\u2019t Be Possible Without First Escaping The Call Of Duty Mines",
-      "url": "https://kotaku.com/spyros-big-comeback-wouldnt-be-possible-without-first-escaping-the-call-of-duty-mines-2000705537",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T13:53:19+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000704982",
-      "title": "Everything We Know About Xbox\u2019s Big Halo 1 Remake",
-      "url": "https://kotaku.com/everything-we-know-about-xboxs-big-halo-1-remake-2000704982",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T13:30:59+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236953632",
-      "title": "Cartoon Saloon-Produced Annecy Picture \u2018Juli\u00e1n\u2019 Acquired For France + First Clip",
-      "url": "https://deadline.com/2026/06/cartoon-saloon-annecy-julian-acquisition-france-clip-1236953632/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T13:40:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236770634",
-      "title": "The Micro Pitch: Why Brands Are Flocking to Microseries",
-      "url": "https://variety.com/2026/tv/news/microdramas-brands-cannes-lions-preview-1236770634/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236770820",
-      "title": "\u2018Only Murders in the Building\u2019 Season 6 Adds 8 to Cast, Including Martin Freeman, Geri Halliwell Horner, Jamie Demetriou (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/only-murders-in-the-building-season-6-cast-martin-freeman-1236770820/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236772258",
-      "title": "\u2018Peaky Blinders\u2019 Sequel Series Adds Conleth Hill, Lucie Shorthouse, Cal O\u2019Driscoll to Cast",
-      "url": "https://variety.com/2026/tv/global/peaky-blinders-sequel-series-cast-conleth-hill-lucie-shorthouse-1236772258/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=68130",
-      "title": "Resident Evil Veronica\u00a0devs\u00a0plan to restructure the story\u00a0to strengthen continuity with the modern series",
-      "url": "https://automaton-media.com/en/news/resident-evil-veronica-devs-plan-to-restructure-the-story-to-strengthen-continuity-with-the-modern-series/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T14:00:00+00:00"
-    },
-    {
-      "guid": "1548535",
-      "title": "Preview: Yep, Rhythm Paradise Groove Is Another Rhythm Heaven Game (Good)",
-      "url": "https://www.resetera.com/threads/preview-yep-rhythm-paradise-groove-is-another-rhythm-heaven-game-good.1548535/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:33:06+00:00"
-    },
-    {
-      "guid": "1548532",
-      "title": "Everything We Know About Xbox\u2019s Big Halo 1 Remake",
-      "url": "https://www.resetera.com/threads/everything-we-know-about-xbox%E2%80%99s-big-halo-1-remake.1548532/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:59+00:00"
-    },
-    {
-      "guid": "1548529",
-      "title": "The Legend of Heroes: Trails from Zero and The Legend of Heroes: Trails to Azure for PS5, Switch 2 launch September 10",
-      "url": "https://www.resetera.com/threads/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10.1548529/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:57+00:00"
-    },
-    {
-      "guid": "1548523",
-      "title": "Apidya\u2019 Special launches August 25",
-      "url": "https://www.resetera.com/threads/apidya%E2%80%99-special-launches-august-25.1548523/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:56+00:00"
-    },
-    {
-      "guid": "1548517",
-      "title": "Tomb Raider Devs Aren\u2019t Trying To Appeal To \u201cEither Side\u201d Of Culture War Surrounding Lara\u2019s Design",
-      "url": "https://www.resetera.com/threads/tomb-raider-devs-aren%E2%80%99t-trying-to-appeal-to-%E2%80%9Ceither-side%E2%80%9D-of-culture-war-surrounding-lara%E2%80%99s-design.1548517/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:51+00:00"
-    },
-    {
-      "guid": "1548514",
-      "title": "Resident Evil: Veronica\u2019s Biggest Rewrite Could Be Its Villain",
-      "url": "https://www.resetera.com/threads/resident-evil-veronica%E2%80%99s-biggest-rewrite-could-be-its-villain.1548514/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:50+00:00"
-    },
-    {
-      "guid": "1548511",
-      "title": "Crimson Desert passes another big sales milestone as demand continues three months after release",
-      "url": "https://www.resetera.com/threads/crimson-desert-passes-another-big-sales-milestone-as-demand-continues-three-months-after-release.1548511/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:47+00:00"
-    },
-    {
-      "guid": "1548508",
-      "title": "All specialist locations in Fortnite Chapter 7, season 3",
-      "url": "https://www.resetera.com/threads/all-specialist-locations-in-fortnite-chapter-7-season-3.1548508/",
-      "source_name": "ResetEra Gaming",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:44+00:00"
-    },
-    {
-      "guid": "17779",
-      "title": "After FF Resonance, we're one step closer to FF6 remake in HD 2D",
-      "url": "https://famiboards.com/threads/after-ff-resonance-were-one-step-closer-to-ff6-remake-in-hd-2d.17779/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T14:00:14+00:00"
-    },
-    {
-      "guid": "8429",
-      "title": "Kiseki/Trails Community |ST| Waiting Beyond The Horizon - Tag your Spoilers!",
-      "url": "https://famiboards.com/threads/kiseki-trails-community-st-waiting-beyond-the-horizon-tag-your-spoilers.8429/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:59:11+00:00"
-    },
-    {
-      "guid": "17778",
-      "title": "Famitsu Sales: 6/1/26 \u2013 6/7/26",
-      "url": "https://famiboards.com/threads/famitsu-sales-6-1-26-%E2%80%93-6-7-26.17778/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:58:35+00:00"
-    },
-    {
-      "guid": "17777",
-      "title": "Rhythm Heaven Groove Previews",
-      "url": "https://famiboards.com/threads/rhythm-heaven-groove-previews.17777/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:55:16+00:00"
-    },
-    {
-      "guid": "17701",
-      "title": "Nintendo Direct Announced | 6.9.2026 | 7AM PT, 10AM ET, 4PM CEST, 11PM JST | 50 minutes long | 95 minute Treehouse Live after the Direct",
-      "url": "https://famiboards.com/threads/nintendo-direct-announced-6-9-2026-7am-pt-10am-et-4pm-cest-11pm-jst-50-minutes-long-95-minute-treehouse-live-after-the-direct.17701/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:55:09+00:00"
-    },
-    {
-      "guid": "17774",
-      "title": "Remakes are OK, actually",
-      "url": "https://famiboards.com/threads/remakes-are-ok-actually.17774/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:50:06+00:00"
-    },
-    {
-      "guid": "16970",
-      "title": "The Amazing Digital Circus |ST| Adventure Awaits!",
-      "url": "https://famiboards.com/threads/the-amazing-digital-circus-st-adventure-awaits.16970/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:43:00+00:00"
-    },
-    {
-      "guid": "14028",
-      "title": "Persona 4 Revival | Tune in February 18th, 2027 for this Revival!",
-      "url": "https://famiboards.com/threads/persona-4-revival-tune-in-february-18th-2027-for-this-revival.14028/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:39:00+00:00"
-    },
-    {
-      "guid": "17737",
-      "title": "Summer of Gaming 2026 (a.k.a Not-E3) is over. Favourite announcement? Overall thoughts?",
-      "url": "https://famiboards.com/threads/summer-of-gaming-2026-a-k-a-not-e3-is-over-favourite-announcement-overall-thoughts.17737/?utm_source=rss&utm_medium=rss",
-      "source_name": "Famiboards",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T13:32:49+00:00"
-    },
-    {
       "guid": "6720f989-40de-4140-ac8d-d76c30d796b8",
       "title": "Dead by Daylight the 'Most-Played Horror Game in History,' Its Developer Has Said",
       "url": "https://www.ign.com/articles/dead-by-daylight-the-most-played-horror-game-in-history-its-developer-has-said",
@@ -955,22 +763,6 @@
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-06-11T14:20:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236951890",
-      "title": "\u2018Duppy Detective Tashia\u2019 Video Game Composer Chase Bethea On Crafting The Unique Sounds Of Caribbean Noir",
-      "url": "https://deadline.com/2026/06/duppy-detective-tashia-chase-bethea-1236951890/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236953611",
-      "title": "\u2018Peaky Blinders\u2019 Sequel Series Casts \u2018Game Of Thrones\u2019 & \u2018All Her Fault\u2019 Stars; Ned Dennehy & Packy Lee Reprising Roles",
-      "url": "https://deadline.com/2026/06/peaky-blinders-sequel-casts-conleth-hill-daniel-monks-1236953611/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T14:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236772240",
@@ -995,14 +787,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-11T14:09:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236771125",
-      "title": "Former \u201860 Minutes\u2019 Staffers Unload on Bari Weiss: \u2018Everything She\u2019s Touched Has Turned to S\u2014\u2019",
-      "url": "https://variety.com/2026/tv/features/60-minutes-staffers-bari-weiss-scott-pelley-trump-1236771125/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T14:00:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236619268",
@@ -1059,22 +843,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-11T14:09:57+00:00"
-    },
-    {
-      "guid": "BQJLFPeTRCtkx4PQAJfRpb",
-      "title": "Saw: Genesis is a bloody blend of Dead by Daylight, The Outlast Trials, and nu-metal music video death scenes, and I need to play it immediately",
-      "url": "https://www.gamesradar.com/games/survival-horror/saw-genesis-is-a-bloody-blend-of-dead-by-daylight-the-outlast-trials-and-nu-metal-music-video-death-scenes-and-i-need-to-play-it-immediately/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T14:00:00+00:00"
-    },
-    {
-      "guid": "UwKZLFpopbAbNRSbgwmyUf",
-      "title": "Stranger Than Heaven preview: Immaculate vibes collide with a static combat system",
-      "url": "https://www.gamesradar.com/games/rpg/stranger-than-heaven-first-hands-on-preview-summer-game-fest-2026/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T14:00:00+00:00"
     },
     {
       "guid": "1548580",
@@ -2571,6 +2339,102 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-11T17:22:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236953950",
+      "title": "\u2018The Love Hypothesis\u2019 Sets September Streaming Date On Prime Video",
+      "url": "https://deadline.com/2026/06/the-love-hypothesis-movie-release-date-prime-video-1236953950/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:56:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236953832",
+      "title": "UFC Previews Unprecedented White House Event \u2014 With An Eye On D.C.\u2019s Tempestuous Summer Weather",
+      "url": "https://deadline.com/2026/06/ufc-preview-white-house-event-trump-weather-1236953832/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:53:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236886171",
+      "title": "Larry David & Jerry Seinfeld Reunite As Fur-Hatted Pioneers in \u2018Life, Larry And The Pursuit Of Unhappiness\u2019 Trailer",
+      "url": "https://deadline.com/2026/06/larry-david-barack-obama-hbo-series-photo-teaser-trailer-1236886171/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:40:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236953813",
+      "title": "\u2018Best Medicine\u2019 Ups Jason Veasey & Stephen Spinella To Series Regulars For Season 2",
+      "url": "https://deadline.com/2026/06/best-medicine-jason-veasey-stephen-spinella-season-2-1236953813/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:30:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236952481",
+      "title": "Hawco Productions Hires Philip Riccio As \u2018Saint Pierre\u2019 Maker Plots \u201cStructured\u201d Development Push",
+      "url": "https://deadline.com/2026/06/hawco-productions-philip-riccio-development-push-1236952481/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778702",
+      "title": "LISTEN: David Harbour Finds a Port in the Storm in \u2018DTF St. Louis\u2019; \u2018Toy Story 5\u2019 Red Carpet Rundown",
+      "url": "https://variety.com/2026/tv/news/david-harbour-dtf-st-louis-stranger-things-toy-story-5-1236778702/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:56:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236771861",
+      "title": "Chase Infiniti on Hiding \u2018One Battle After Another\u2019 Role From \u2018The Testaments\u2019 Co-Stars and Becoming Elisabeth Moss\u2019 Daughter for Gilead\u2019s Teen-Girl Wasteland",
+      "url": "https://variety.com/2026/awards/news/chase-infiniti-testaments-one-battle-elisabeth-moss-1236771861/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:54:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236772139",
+      "title": "Brothers Behind Mexico\u2019s First Stop Motion Feature \u2018I Am Frankelda\u2019 Were Told \u2018We Should Quit Our Dreams\u2019",
+      "url": "https://variety.com/2026/artisans/news/mexican-animators-arturo-roy-ambriz-i-am-frankelda-1236772139/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778726",
+      "title": "Inside Summer Game Fest: Gaming Industry Happily Braces for \u2018GTA 6\u2019 Success With Stuffed September, Early 2027 Releases",
+      "url": "https://variety.com/2026/gaming/news/gta-6-impact-september-release-schedule-summer-game-fest-recap-1236778726/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:37:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778787",
+      "title": "From \u2018Widow\u2019s Bay\u2019 to \u2018Creep Tapes,\u2019 These Scary Shows Deserve Emmy Voters\u2019 Attention",
+      "url": "https://variety.com/2026/awards/awards/widows-bay-creep-tapes-horror-series-emmys-1236778787/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:32:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778761",
+      "title": "\u2018The Bold and the Beautiful\u2019 Producer Bradley Bell Producing Microseries \u2018Hollywood Starlet\u2019 for aTwist (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/bold-and-the-beautiful-bradley-bell-microseries-atwist-1236778761/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236616569",
+      "title": "\u2018Obsession\u2019 Star Michael Johnston Signs With Gersh (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-star-michael-johnston-signs-gersh-exclusive-1236616569/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-11T17:36:44+00:00"
     }
   ]
 }
