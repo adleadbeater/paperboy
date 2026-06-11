@@ -272,7 +272,7 @@ _SKIP_SOURCE_PATTERNS = re.compile(
     r'\b(reddit\.com|resetera\.com|famiboards\.com)\b', re.IGNORECASE
 )
 
-_FORUM_SOURCES = {"Reddit GamingLeaks", "Reddit MarvelStudios", "ResetEra Gaming", "Famiboards"}
+_FORUM_SOURCES = {"Reddit GamingLeaks", "Reddit MarvelStudios"}
 
 def filter_items(items: List[dict]) -> List[dict]:
     out = []
@@ -688,13 +688,13 @@ def enforce_tier(story: dict, cluster: dict) -> str:
             log.info(f"Demote polygon_pick→skip (single T2-only source): {story['headline'][:60]}")
             tier = "skip"
 
-    # Single-source proven_topic needs higher confidence — corroborated stories only
-    if tier == "proven_topic" and total == 1 and relevance < POLYGON_PICK_MIN:
-        log.info(f"Demote single-source proven_topic→skip (relevance={relevance}): {story['headline'][:60]}")
+    # Single-source proven_topic: T2-only sources need corroboration; T1 sources can post solo
+    if tier == "proven_topic" and total == 1 and len(t1_pubs) == 0 and relevance < POLYGON_PICK_MIN:
+        log.info(f"Demote single-source proven_topic→skip (T2-only, relevance={relevance}): {story['headline'][:60]}")
         tier = "skip"
 
     # Forum-only clusters: require 2+ sources unless Claude is highly confident
-    forum_sources = {"Reddit GamingLeaks", "Reddit MarvelStudios", "ResetEra Gaming", "Famiboards"}
+    forum_sources = {"Reddit GamingLeaks", "Reddit MarvelStudios"}
     if all(s in forum_sources for s in cluster["sources"]) and total < 2:
         log.info(f"Demote forum-only cluster (only {total} forum sources): {story['headline'][:60]}")
         tier = "skip"

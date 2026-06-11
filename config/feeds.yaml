@@ -42,10 +42,6 @@ tier2:
   - name: Tribality
     url: https://www.tribality.com/feed/
   # Leaks / forums — lower trust, used for corroboration
-  - name: ResetEra Gaming
-    url: https://www.resetera.com/forums/gaming-headlines.54/index.rss
-  - name: Famiboards
-    url: https://famiboards.com/forums/-/index.rss
   - name: Reddit GamingLeaks
     url: https://www.reddit.com/r/GamingLeaksAndRumours/.rss
   - name: Reddit MarvelStudios
