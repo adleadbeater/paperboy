@@ -955,86 +955,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236954431",
-      "title": "\u2018The Night Agent\u2019: Luciane Buchanan To Return For Rose & Peter Reunion In Fourth & Final Season",
-      "url": "https://deadline.com/2026/06/the-night-agent-luciane-buchanan-return-rose-peter-season-4-1236954431/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236954818",
-      "title": "Joe Negri Dies: Guitar-Playing Handyman Of \u2018Mister Rogers\u2019 Neighborhood\u2019 Was 99",
-      "url": "https://deadline.com/2026/06/joe-negri-dead-mister-rogers-neighborhood-1236954818/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T16:57:52+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236954790",
-      "title": "\u2018Heated Rivalry\u2019, \u2018Industry\u2019 & \u2018Widow\u2019s Bay\u2019 Lead 2026 TCA Awards Nominations",
-      "url": "https://deadline.com/2026/06/tca-awards-nominations-heated-rivalry-widows-bay-the-pitt-1236954790/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T16:44:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236771859",
-      "title": "\u2018There\u2019s No Toxicity\u2019: Mariska Hargitay and the \u2018Law & Order: SVU\u2019 Team on How the First Female Showrunner in 26 Years Changed Everything",
-      "url": "https://variety.com/2026/tv/news/law-and-order-svu-less-toxic-women-bosses-mariska-hargitay-1236771859/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236779875",
-      "title": "Wanda Sykes Turned Down Kevin Hart\u2019s Netflix Roast and Says \u2018Thank God\u2019: It\u2019s \u2018Lazy Writing\u2019 With \u2018Recycled Sexist, Racist, Gay Jokes\u2019",
-      "url": "https://variety.com/2026/tv/news/wanda-sykes-turned-down-kevin-hart-roast-slams-racist-jokes-1236779875/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T16:59:20+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236779824",
-      "title": "Sofia Coppola Is Rooting for the Knicks and Fighting for Women\u2019s Rights: \u2018Everyone Needs to Focus on Being Vocal\u2019",
-      "url": "https://variety.com/2026/politics/news/sofia-coppola-knicks-planned-parenthood-1236779824/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T16:56:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236771865",
-      "title": "\u2018Euphoria\u2019 Creator Sam Levinson on Pitching Rue\u2019s Death to Zendaya: \u2018It Was a Very Emotional Reaction\u2019 and \u2018Tough Discussion\u2019",
-      "url": "https://variety.com/2026/tv/news/euphoria-sam-levinson-pitching-rues-death-zendaya-1236771865/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T16:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236779869",
-      "title": "Blake Lively Wins Partial Victory in Final \u2018It Ends With Us\u2019 Ruling",
-      "url": "https://variety.com/2026/film/news/blake-lively-attorney-fees-justin-baldoni-it-ends-with-us-1236779869/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T16:40:32+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236619917",
-      "title": "How \u2018The Madison\u2019 Pulled Off Michelle Pfeiffer\u2019s Freezing Montana Creek Scene",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-madison-michelle-pfeiffer-creek-scene-1236619917/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=610106",
-      "title": "RPG: \u2018Hell\u2019s Destiny\u2019 Brings High Level Adventure To Pathfinder \u2013 Available Now",
-      "url": "https://www.belloflostsouls.net/2026/06/rpg-hells-destiny-brings-high-level-adventure-to-pathfinder-available-now.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-06-12T16:47:11+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000706006",
       "title": "The Call Of Duty Of It All",
       "url": "https://kotaku.com/the-call-of-duty-of-it-all-2000706006",
@@ -1545,6 +1465,38 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-12T20:10:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236780234",
+      "title": "Justice Department Approves Paramount\u2019s Warner Bros. Discovery Takeover Without Any Strings Attached",
+      "url": "https://variety.com/2026/tv/news/doj-approves-paramount-warner-bros-discovery-merger-1236780234/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T20:46:54+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236620385",
+      "title": "My Paternal Instinct Should\u2019ve Warned Me About Netflix\u2019s \u2018Maternal Instinct\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/netflix-maternal-instinct-documentary-taylor-parker-murder-1236620385/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T20:51:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236620438",
+      "title": "The Most Watched Shows of 2025-26, This Time Including Sports",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/7-day-multi-platform-ratings-2025-26-1236620438/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T20:49:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236620756",
+      "title": "Ronnie Schell, Actor on \u2018Gomer Pyle: USMC,\u2019 Dies at 94",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ronnie-schell-dead-actor-gomer-pyle-usmc-1236620756/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T20:36:56+00:00"
     }
   ]
 }
