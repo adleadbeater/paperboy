@@ -797,62 +797,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236779039",
-      "title": "Elisabeth Hasselbeck Slated to Guest Host \u2018CBS Mornings\u2019 Next Week",
-      "url": "https://variety.com/2026/tv/news/elisabeth-hasselbeck-cbs-mornings-guest-host-1236779039/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T20:28:50+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000705633",
-      "title": "Everything We Know About Gears Of War: E-Day, Xbox\u2019s Big Exclusive For 2026",
-      "url": "https://kotaku.com/everything-we-know-about-gears-of-war-e-day-xboxs-big-exclusive-for-2026-2000705633",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T20:40:24+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236953151",
-      "title": "\u2018The Death Of Robin Hood\u2019 Review: Hugh Jackman As You Have Never Seen Him Before In Michael Sarnoski\u2019s Brutal Take On A Legendary Figure As It Has Never Been Told",
-      "url": "https://deadline.com/2026/06/the-death-of-robin-hood-review-hugh-jackman-jodie-comer-1236953151/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T20:59:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236779098",
-      "title": "Maggie Gyllenhaal to Adapt Rachel Kushner\u2019s \u2018Creation Lake\u2019 for Warner Bros.",
-      "url": "https://variety.com/2026/film/news/maggie-gyllenhaal-warner-bros-rachel-kushner-creation-lake-1236779098/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T20:40:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236778773",
-      "title": "Jennifer Lopez Says Oscar Winner \u2018Nomadland\u2019 Is Her \u2018Worst Type of Film\u2019 Because It\u2019s a \u2018Slow-Moving Thing About Grief and There\u2019s No Escapism\u2019",
-      "url": "https://variety.com/2026/film/news/jennifer-lopez-nomadland-worst-type-of-movie-1236778773/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T20:35:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236778920",
-      "title": "Orlando Senna, Co-Director of Milestone Brazilian Feature \u2018Iracema,\u2019 Dies at 86",
-      "url": "https://variety.com/2026/film/obituaries-people-news/orlando-senna-iracema-dies-86-hector-babenco-gilberto-gil-1236778920/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T20:34:29+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/d-d-beyond-enables-content-sharing-for-drops-content.719487/",
-      "title": "D&D Beyond enables content sharing for Drops content",
-      "url": "https://www.enworld.org/threads/d-d-beyond-enables-content-sharing-for-drops-content.719487/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-06-11T20:52:00+00:00"
-    },
-    {
       "guid": "b602673a-c3eb-49b6-9931-329ef0561d1b",
       "title": "Jason Momoa Won't Make a Lobo Movie Unless It's R-Rated",
       "url": "https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated",
@@ -907,6 +851,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-12T00:13:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236954420",
+      "title": "\u2018Shrinking\u2019 Cast Wins Newport Beach TV Festival Outstanding Comedy Ensemble Award; Jason Segel Gives Clues To Season 4",
+      "url": "https://deadline.com/2026/06/shrinking-cast-wins-newport-beach-fest-outstanding-ensemble-1236954420/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T01:08:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236779380",
+      "title": "\u2018Adults\u2019 Prequel Episode to Debut on Hulu Ahead of Season 2",
+      "url": "https://variety.com/2026/tv/news/adults-prequel-episode-1236779380/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T01:27:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236619872",
+      "title": "FX to Release \u2018Adults\u2019 Prequel Episode",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/adults-prequel-episode-paul-baker-origin-story-1236619872/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T01:00:00+00:00"
+    },
+    {
+      "guid": "t3_1u3h5o8",
+      "title": "Xbox is floating the idea of in-game ads",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u3h5o8/xbox_is_floating_the_idea_of_ingame_ads/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-12T01:09:52+00:00"
     }
   ]
 }
