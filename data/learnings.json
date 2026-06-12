@@ -918,22 +918,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/rpg-maker-forum-shutting-down",
-      "title": "RPG Maker forum users are racing to archive almost 15 years of valuable resources, as game engine maker announces impending move",
-      "url": "https://www.eurogamer.net/rpg-maker-forum-shutting-down",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T13:29:36+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000705991",
-      "title": "In An Incredibly On-Brand Move, Kingdom Hearts IV Has Characters From A Game You Can\u2019t Play Anymore",
-      "url": "https://kotaku.com/kingdom-hearts-4-new-trailer-characters-union-x-dark-road-2000705991",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T13:38:17+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236779676",
       "title": "Netflix Smash \u2018The Platform\u2019 and Iciar Bolla\u00edn\u2019s \u2018Rosa\u2019s Wedding\u2019 Set to Pitch at Spain\u2019s Shanghai Market Remakes Showcase",
       "url": "https://variety.com/2026/film/global/netflix-platform-iciar-bollain-joaquin-oristrell-remakes-1236779676/",
@@ -1628,6 +1612,62 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-06-12T16:47:11+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000706006",
+      "title": "The Call Of Duty Of It All",
+      "url": "https://kotaku.com/the-call-of-duty-of-it-all-2000706006",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T17:42:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236954869",
+      "title": "Blake Gets Baldoni\u2019s Bucks For Lawyers, Not Damages \u2013 Yet",
+      "url": "https://deadline.com/2026/06/blake-lively-attorney-fees-justin-baldoni-defamation-suit-1236954869/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T17:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236779681",
+      "title": "Olivia Rodrigo Releases Special-Edition Vinyl for \u2018You Seem Pretty Sad for a Girl So in Love\u2019",
+      "url": "https://variety.com/2026/music/news/olivia-rodrigo-you-seem-pretty-sad-vinyl-buy-online-1236779681/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T17:33:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236779861",
+      "title": "LISTEN: Mike Hopkins on Prime Video\u2019s Evolution, the Bundling Boom, How MGM Changed Amazon, the Future of Bond and No Regrets on \u2018Melania\u2019",
+      "url": "https://variety.com/2026/tv/news/mike-hopkins-amazon-prime-video-mgm-bond-melania-strictly-business-1236779861/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T17:32:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236779812",
+      "title": "Jacob Soboroff Aims to \u2018Connect\u2019 New MS NOW Weekend Show With Social-Media Energy",
+      "url": "https://variety.com/2026/tv/news/jacob-soboroff-ms-now-connectc-weekend-creator-media-1236779812/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T17:20:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236779959",
+      "title": "Kathryn Newton Joins Cooper Hoffman in Hulu Pilot \u2018Durango\u2019",
+      "url": "https://variety.com/2026/tv/news/kathryn-newton-cooper-hoffman-hulu-pilot-durango-1236779959/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T17:14:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236620329",
+      "title": "5 Takeaways From SerienCamp 2026",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/seriencamp-2026-audience-award-1236620329/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-12T17:41:25+00:00"
     }
   ]
 }
