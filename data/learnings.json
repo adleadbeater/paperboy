@@ -791,98 +791,80 @@
       "article_titles": [
         "Fable drops the original games' good and evil binary for a \"subjective and multifaceted\" reputation system, which is why you don't have horns or halos"
       ]
+    },
+    {
+      "headline": "Kingdom Hearts IV Features Characters From Discontinued Mobile Game",
+      "tag": "kingdom hearts iv",
+      "posted_at": "2026-06-12T13:54:01.984273+00:00",
+      "urls": [
+        "https://kotaku.com/kingdom-hearts-4-new-trailer-characters-union-x-dark-road-2000705991"
+      ],
+      "article_titles": [
+        "In An Incredibly On-Brand Move, Kingdom Hearts IV Has Characters From A Game You Can\u2019t Play Anymore"
+      ]
+    },
+    {
+      "headline": "RPG Maker Community Races to Archive 15 Years of Resources Before Forum Shutdown",
+      "tag": "rpg maker",
+      "posted_at": "2026-06-12T13:54:02.173469+00:00",
+      "urls": [
+        "https://www.eurogamer.net/rpg-maker-forum-shutting-down"
+      ],
+      "article_titles": [
+        "RPG Maker forum users are racing to archive almost 15 years of valuable resources, as game engine maker announces impending move"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "b602673a-c3eb-49b6-9931-329ef0561d1b",
-      "title": "Jason Momoa Won't Make a Lobo Movie Unless It's R-Rated",
-      "url": "https://www.ign.com/articles/jason-momoa-wont-make-a-lobo-movie-unless-its-r-rated",
-      "source_name": "IGN",
+      "guid": "https://www.eurogamer.net/rpg-maker-forum-shutting-down",
+      "title": "RPG Maker forum users are racing to archive almost 15 years of valuable resources, as game engine maker announces impending move",
+      "url": "https://www.eurogamer.net/rpg-maker-forum-shutting-down",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-06-11T23:54:53+00:00"
+      "published_dt": "2026-06-12T13:29:36+00:00"
     },
     {
-      "guid": "bc8ee606-7a33-46c9-b6e1-d8be41cf9d71",
-      "title": "Save 60% the Wolfbox 4,000A Cordless Jump Starter, Tire Inflator, and 24,000mAh Power Bank in One",
-      "url": "https://www.ign.com/articles/wolfbox-megavolt24-air-cordless-car-jump-starter-tire-inflator-deal-for-fathers-day",
-      "source_name": "IGN",
+      "guid": "https://kotaku.com/?p=2000705991",
+      "title": "In An Incredibly On-Brand Move, Kingdom Hearts IV Has Characters From A Game You Can\u2019t Play Anymore",
+      "url": "https://kotaku.com/kingdom-hearts-4-new-trailer-characters-union-x-dark-road-2000705991",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-06-11T23:50:00+00:00"
+      "published_dt": "2026-06-12T13:38:17+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236954393",
-      "title": "\u2018Rain Reign\u2019 Review: Paul Rudd And Jeremy Sisto In A Tender And Heartwarming Girl And Her Dog Story \u2013 Tribeca Festival",
-      "url": "https://deadline.com/2026/06/rain-reign-review-paul-rudd-jeremy-sisto-tribeca-festival-1236954393/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T00:02:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236954400",
-      "title": "Ariana Grande Slams Trump\u2019s ICE Video Using Her Song As \u201cBarbaric, Inhumane, Heinous Nonsense\u201d",
-      "url": "https://deadline.com/2026/06/ariana-grande-slams-ice-video-using-her-song-1236954400/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-11T23:53:21+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236779365",
-      "title": "Emmy Voting Begins: First Look at Submission Tallies and More",
-      "url": "https://variety.com/2026/tv/awards/emmy-voting-begins-submission-tallies-first-look-awards-hq-1236779365/",
+      "guid": "https://variety.com/?p=1236779676",
+      "title": "Netflix Smash \u2018The Platform\u2019 and Iciar Bolla\u00edn\u2019s \u2018Rosa\u2019s Wedding\u2019 Set to Pitch at Spain\u2019s Shanghai Market Remakes Showcase",
+      "url": "https://variety.com/2026/film/global/netflix-platform-iciar-bollain-joaquin-oristrell-remakes-1236779676/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-06-12T00:23:00+00:00"
+      "published_dt": "2026-06-12T13:45:19+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236779352",
-      "title": "Spotify Reverts iPhone App Icon to Original Version, Dropping Controversial Disco-Ball Logo",
-      "url": "https://variety.com/2026/digital/news/spotify-reverts-iphone-app-icon-original-disco-ball-1236779352/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T00:21:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236620005",
-      "title": "How Much Did Ex-Paramount President Jeff Shell Pay to Settle Gambler\u2019s Suit? Nothing.",
-      "url": "https://www.hollywoodreporter.com/business/business-news/jeff-shell-rj-cipriani-lawsuit-settled-1236620005/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236620227",
+      "title": "Elizabeth Marvel Signs With Verve (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/elizabeth-marvel-verve-representation-1236620227/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-06-12T00:13:19+00:00"
+      "published_dt": "2026-06-12T13:45:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236954420",
-      "title": "\u2018Shrinking\u2019 Cast Wins Newport Beach TV Festival Outstanding Comedy Ensemble Award; Jason Segel Gives Clues To Season 4",
-      "url": "https://deadline.com/2026/06/shrinking-cast-wins-newport-beach-fest-outstanding-ensemble-1236954420/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T01:08:40+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236779380",
-      "title": "\u2018Adults\u2019 Prequel Episode to Debut on Hulu Ahead of Season 2",
-      "url": "https://variety.com/2026/tv/news/adults-prequel-episode-1236779380/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T01:27:05+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236619872",
-      "title": "FX to Release \u2018Adults\u2019 Prequel Episode",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/adults-prequel-episode-paul-baker-origin-story-1236619872/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-12T01:00:00+00:00"
-    },
-    {
-      "guid": "t3_1u3h5o8",
-      "title": "Xbox is floating the idea of in-game ads",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u3h5o8/xbox_is_floating_the_idea_of_ingame_ads/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "LGWp6MdsX8RCSiYVfeQpYG",
+      "title": "Crimson Desert DLC \"will be substantively different\" to the main game, Pearl Abyss PR lead teases",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-will-be-substantively-different-to-the-main-game-pearl-abyss-pr-lead-teases/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-06-12T01:09:52+00:00"
+      "published_dt": "2026-06-12T13:48:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1738307",
+      "title": "My Adventures With Superman Season 3, Episode 1 Recap and Review: A Strong Return That Balances Heart, Identity, and Rising Threats",
+      "url": "https://otakukart.com/my-adventures-with-superman-season-3-episode-1-recap-and-review-a-strong-return-that-balances-heart-identity-and-rising-threats/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-12T13:49:20+00:00"
     }
   ]
 }
