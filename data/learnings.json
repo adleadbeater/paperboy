@@ -986,58 +986,53 @@
       "article_titles": [
         "Xbox reportedly given green light to fast-track new Fallout, as Microsoft considers spinning off business"
       ]
+    },
+    {
+      "headline": "Microsoft reportedly considering making Xbox a separate subsidiary while accelerating first-party game releases",
+      "tag": "xbox",
+      "posted_at": "2026-06-13T20:51:01.109186+00:00",
+      "urls": [
+        "https://www.eurogamer.net/microsoft-restructuring-xbox"
+      ],
+      "article_titles": [
+        "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236955117",
-      "title": "Donald Trump\u2019s Name Removed From Kennedy Center Facade",
-      "url": "https://deadline.com/2026/06/trump-kennedy-center-name-removed-1236955117/",
+      "guid": "https://www.eurogamer.net/microsoft-restructuring-xbox",
+      "title": "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games",
+      "url": "https://www.eurogamer.net/microsoft-restructuring-xbox",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-13T20:30:47+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000706250",
+      "title": "Tough Talk And Confronting Slop In Third Manifesto Game Jam",
+      "url": "https://kotaku.com/tough-talk-and-confronting-slop-in-third-manifesto-game-jam-2000706250",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-13T20:40:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236950686",
+      "title": "Remembering Actor James Handy For The Right Reasons \u2013 Guest Column",
+      "url": "https://deadline.com/2026/06/remembering-actor-james-handy-commentary-1236950686/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-06-13T15:34:00+00:00"
+      "published_dt": "2026-06-13T20:45:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236780647",
-      "title": "Box Office: \u2018Disclosure Day\u2019 Makes First Contact With $19 Million",
-      "url": "https://variety.com/2026/film/news/box-office-disclosure-day-scary-movie-obsession-1236780647/",
-      "source_name": "Variety",
+      "guid": "https://deadline.com/?p=1236955763",
+      "title": "Matt Damon Is Open To Reviving The \u2018Bourne\u2019 Franchise: \u201cWe\u2019re Always Looking To Try To Get Another One\u201d",
+      "url": "https://deadline.com/2026/06/matt-damon-open-to-reviving-the-bourne-franchise-1236955763/",
+      "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-06-13T15:54:10+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236780644",
-      "title": "Michelle Yeoh, Tony Leung Lead Shanghai Film Festival\u2019s Star-Studded Opening",
-      "url": "https://variety.com/2026/film/festivals/michelle-yeoh-tony-leung-shanghai-film-festival-opening-1236780644/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-13T15:42:57+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236620959",
-      "title": "Rex Reed Hated Everything. Someone Had to Edit Him",
-      "url": "https://www.hollywoodreporter.com/news/general-news/rex-reed-hated-everything-someone-had-to-edit-him-1236620959/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-13T15:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1738601",
-      "title": "God of War Laufey Theory: Did Faye Help Athena Escape the \u201cEverywhen\u201d?",
-      "url": "https://otakukart.com/god-of-war-laufey-theory-did-faye-help-athena-escape-the-everywhen/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-13T15:39:35+00:00"
-    },
-    {
-      "guid": "t3_1u4u8zg",
-      "title": "Everything we know about the upcoming Black Ops 1 & 2 ports",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u4u8zg/everything_we_know_about_the_upcoming_black_ops_1/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-06-13T15:44:45+00:00"
+      "published_dt": "2026-06-13T20:37:21+00:00"
     }
   ]
 }
