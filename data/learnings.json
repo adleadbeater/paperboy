@@ -1003,20 +1003,20 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236780812",
-      "title": "Virginia Woolf Inspires Yan Siyu\u2019s Shanghai Project \u2018Outside the Room of My Own\u2019",
-      "url": "https://variety.com/2026/film/markets-festivals/virginia-woolf-shanghai-project-outside-the-room-of-my-own-1236780812/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-14T08:53:12+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236780842",
       "title": "Berlin, Toronto and Hong Kong Film Festival Chiefs Gather at Shanghai to Champion New Talent",
       "url": "https://variety.com/2026/film/festivals/berlin-toronto-hong-kong-film-festival-chief-shanghai-new-talent-1236780842/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-14T11:01:25+00:00"
+    },
+    {
+      "guid": "t3_1u5mtsa",
+      "title": "NateTheHate says GTA VI is still on track for its planned November release window",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u5mtsa/natethehate_says_gta_vi_is_still_on_track_for_its/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-14T14:37:31+00:00"
     }
   ]
 }
