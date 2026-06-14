@@ -1003,20 +1003,52 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236780842",
-      "title": "Berlin, Toronto and Hong Kong Film Festival Chiefs Gather at Shanghai to Champion New Talent",
-      "url": "https://variety.com/2026/film/festivals/berlin-toronto-hong-kong-film-festival-chief-shanghai-new-talent-1236780842/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-14T11:01:25+00:00"
-    },
-    {
       "guid": "t3_1u5mtsa",
       "title": "NateTheHate says GTA VI is still on track for its planned November release window",
       "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u5mtsa/natethehate_says_gta_vi_is_still_on_track_for_its/",
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-14T14:37:31+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/forza-horizon-6-lost-save-issues",
+      "title": "Forza Horizon 6 players advised to apply new patch to avoid losing save data and progress",
+      "url": "https://www.eurogamer.net/forza-horizon-6-lost-save-issues",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T15:14:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236955936",
+      "title": "Taormina 2026 Winners: Jane Campion-Led Jury Fetes Turkish Drama \u2018Hear The Yellow\u2019",
+      "url": "https://deadline.com/2026/06/taormina-2026-winners-jane-campion-hear-the-yellow-1236955936/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T15:28:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236954426",
+      "title": "Steven Spielberg\u2019s \u2018Disclosure Day\u2019 Beams Up $44M U.S. Opening & $93M WW; \u2018Obsession\u2019 Bests \u2018Get Out\u2019 \u2013 Sunday Box Office Update",
+      "url": "https://deadline.com/2026/06/box-office-disclosure-day-1236954426/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T15:03:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236780872",
+      "title": "Box Office: Spielberg\u2019s \u2018Disclosure Day\u2019 Opens to $44 Million, \u2018Masters of the Universe\u2019 Suffers 71% Drop, \u2018Obsession\u2019 Keeps Shattering Expectations",
+      "url": "https://variety.com/2026/film/box-office/spielberg-disclosure-day-box-office-opening-masters-of-the-universe-huge-drop-obsession-shatters-expectations-1236780872/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T15:04:24+00:00"
+    },
+    {
+      "guid": "gJtjNWiCFFNX3qYYJyAG67",
+      "title": "Toy Story 5 director Andrew Stanton thinks Buzz and Woody have seen each other since they parted ways in Toy Story 4: \"I hope you don't spend that long waiting till you see your old friend again\"",
+      "url": "https://www.gamesradar.com/entertainment/animation-movies/toy-story-5-director-andrew-stanton-thinks-buzz-and-woody-have-seen-each-other-since-they-parted-ways-in-toy-story-4-i-hope-you-dont-spend-that-long-waiting-till-you-see-your-old-friend-again/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-14T15:00:00+00:00"
     }
   ]
 }
