@@ -997,6 +997,17 @@
       "article_titles": [
         "Microsoft reportedly considering restructuring Xbox into its own \"wholly-owned subsidiary\" and \"moving faster\" on releasing first-party games"
       ]
+    },
+    {
+      "headline": "Dragon's Dogma 2 pulls controversial microtransactions and discontinues deluxe edition",
+      "tag": "dragon's dogma 2",
+      "posted_at": "2026-06-14T21:00:33.394045+00:00",
+      "urls": [
+        "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions"
+      ],
+      "article_titles": [
+        "Dragon's Dogma 2 discontinues deluxe edition - and withdraws many of its controversial time-saving microtransactions"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1049,6 +1060,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-14T20:21:23+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions",
+      "title": "Dragon's Dogma 2 discontinues deluxe edition - and withdraws many of its controversial time-saving microtransactions",
+      "url": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T20:56:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236780996",
+      "title": "An NYPD Officer Said I Could Climb A Street Sign After The Knicks Won The NBA Finals: \u2018This Is Your Chance\u2019",
+      "url": "https://variety.com/2026/scene/news/new-york-knicks-win-streets-chaos-1236780996/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T20:51:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781010",
+      "title": "Jimmy Kimmel Wishes Donald Trump Happy Birthday With Jeffrey Epstein-Inspired Birthday Card",
+      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-donald-trump-birthday-jeffrey-epstein-card-1236781010/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T20:40:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236780874",
+      "title": "Zeeko Zaki on Whether Dick Wolf Would Make a Show About ICE \u2013 and Leading \u2018FBI\u2019 as an Arab-American Muslim: \u2018I\u2019m Still the Only One\u2019",
+      "url": "https://variety.com/2026/tv/global/zeeko-zaki-dick-wolf-ice-fbi-arab-american-muslim-1236780874/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-14T20:32:34+00:00"
     }
   ]
 }
