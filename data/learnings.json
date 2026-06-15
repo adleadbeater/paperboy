@@ -1325,36 +1325,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000706625",
-      "title": "Fans Worry About Gross \u2018Buy Now, Pay Later\u2019 Language On The Xbox Website Backend As Prices Skyrocket",
-      "url": "https://kotaku.com/xbox-series-x-klarna-paypal-pay-later-financing-microsoft-2000706625",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T14:50:17+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000706632",
-      "title": "Trump Uses Persona 5, A Game About Fighting Corrupt Politicians And Sex Offenders, To Spread Propaganda",
-      "url": "https://kotaku.com/donald-trump-white-house-meme-persona-5-all-out-attack-2000706632",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T14:38:56+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236956272",
       "title": "Both Sides Of Fox\u2019s $22B Roku Acquisition Call It A Streaming Win-Win, But Wall Street Has Questions",
       "url": "https://deadline.com/2026/06/fox-roku-acquisition-streaming-wall-street-1236956272/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-06-15T15:00:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236950437",
-      "title": "Disney, Adobe, New York Times Among Members Of New AI Content Coalition Led By Netflix Alum Victoria Furniss",
-      "url": "https://deadline.com/2026/06/disney-adobe-new-ai-content-coalition-netflix-victoria-furniss-1236950437/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T14:39:19+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236780335",
@@ -1389,44 +1365,12 @@
       "published_dt": "2026-06-15T14:58:06+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236781321",
-      "title": "Hiam Abbass Set for Timely Dark Comedy \u2018Occupational Hazards,\u2019 About a Palestinian Family in Jerusalem (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/hiam-abbass-occupational-hazards-1236781321/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T14:31:42+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236620995",
       "title": "\u2018House of the Dragon\u2019 Season 3 Review: Is HBO\u2019s \u2018Game of Thrones\u2019 Prequel Finally Starting to Get Somewhere Good?",
       "url": "https://www.hollywoodreporter.com/tv/tv-reviews/house-of-the-dragon-season-3-review-hbo-1236620995/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236620020",
-      "title": "Quenlin Blackwell Sets the Record Straight: \u201cI Don\u2019t Think I\u2019m a Creator. I\u2019m an Entertainer\u201d",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/quenlin-blackwell-feeding-starving-celebrities-youtube-acting-1236620020/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T14:45:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236621997",
-      "title": "How That Major (and Unexpected) \u2018Power Book III: Raising Kanan\u2019 Death Sets Up Fifth and Final Season: \u201cIt Hangs Over Everything\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/power-book-iii-raising-kanan-lou-lou-death-season-5-interview-1236621997/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T14:38:35+00:00"
-    },
-    {
-      "guid": "Ex4RroXrNTMQmo6VhmJ3E6",
-      "title": "Fable is harder than the demo made it seem, devs promise: \"Other difficulty levels will ensure the guards remember their training and are less... polite\"",
-      "url": "https://www.gamesradar.com/games/rpg/fable-is-harder-than-the-demo-made-it-seem-devs-promise-other-difficulty-levels-will-ensure-the-guards-remember-their-training-and-are-less-polite/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T14:49:00+00:00"
     },
     {
       "guid": "https://automaton-media.com/en/?p=68236",
@@ -2451,6 +2395,62 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-06-15T18:00:36+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000706693",
+      "title": "Santa Ragione Reveals That Horses Has Left The Studio In $42,000 Worth Of Debt",
+      "url": "https://kotaku.com/horses-game-steam-banned-epic-store-santa-ragione-debt-2000706693",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T18:49:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956632",
+      "title": "Gavin Newsom Says He & Wife Being Investigated By Justice Department At Direction Of Donald Trump",
+      "url": "https://deadline.com/2026/06/gavin-newsom-doj-investigation-trump-1236956632/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T18:41:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781789",
+      "title": "Taylor Swift\u2019s \u2018Toy Story 5\u2019 Song \u2018I Knew It, I Knew You\u2019 Bows at No. 1, Becoming Her 15th Hot 100 Topper",
+      "url": "https://variety.com/2026/music/news/taylor-swift-hot-100-chart-debut-i-knew-it-knew-you-no-1-1236781789/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T18:39:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622085",
+      "title": "Taylor Swift\u2019s \u2018Toy Story\u2019 Song \u201cI Knew It, I Knew You\u201d Debuts at No. 1",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/taylor-swift-i-knew-it-i-knew-you-toy-story-tops-charts-1236622085/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T18:41:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622293",
+      "title": "Greta Lee, Wagner Moura Spend Years Trapped at Home in Trailer for Netflix Thriller \u2018Last House\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-last-house-trailer-greta-lee-wagner-moura-netflix-1236622293/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T18:38:53+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622267",
+      "title": "Michael J. Fox to Voice Lead Role in \u2018Dragoons\u2019 Animated Movie",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-j-fox-star-dragoons-animated-movie-1236622267/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T18:33:20+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622033",
+      "title": "With Roku Acquisition, Fox Keeps Running Its Own Streaming Race",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/fox-roku-acquisition-analysis-run-your-own-streaming-race-1236622033/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T18:30:14+00:00"
     }
   ]
 }
