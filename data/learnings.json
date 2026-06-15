@@ -1342,166 +1342,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
-      "title": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
-      "url": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:23:57+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/xbox-game-studios-craig-duncan-leaves-company",
-      "title": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
-      "url": "https://www.eurogamer.net/xbox-game-studios-craig-duncan-leaves-company",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:07:31+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/ea-advertising-ads-in-game-content-integrations",
-      "title": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
-      "url": "https://www.eurogamer.net/ea-advertising-ads-in-game-content-integrations",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:02:05+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000706612",
-      "title": "Marvel Vs. Capcom 3 Gets A Surprise Update Years Later And It\u2019s Broken A Top-Tier Character",
-      "url": "https://kotaku.com/marvel-vs-capcom-3-mvc3-phoenix-dark-steam-patch-broken-2000706612",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:04:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236956178",
-      "title": "Tech Giants Slam UK Social Media Ban For Pushing Teens To \u201cUnregulated\u201d Wild West Of The Internet",
-      "url": "https://deadline.com/2026/06/uk-social-media-ban-slammed-tech-giants-youtube-meta-snap-1236956178/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:19:04+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236956307",
-      "title": "\u2018The Last Druid\u2019: Drew McIntyre, Stacy Clausen, Pablo Derqui & Tennyson Crowe Join Russell Crowe In Action Movie Filming In Spain",
-      "url": "https://deadline.com/2026/06/drew-mcintyre-stacy-clausen-join-russell-crowe-last-druid-1236956307/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:18:56+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236956322",
-      "title": "World Cup Referee Accused Of Making White Supremacist Hand Gesture During Broadcast",
-      "url": "https://deadline.com/2026/06/world-cup-referee-white-supremacist-shaun-evans-1236956322/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:10:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236781284",
-      "title": "Jordan\u2019s Beefed Up Incentives, Studio Partnership With U.S. Group Shadowbox Set to Scale Up International Productions",
-      "url": "https://variety.com/2026/film/global/jordan-incentives-olivewood-film-studios-shadowbox-1236781284/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:29:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236780992",
-      "title": "How \u2018Scary Movie\u2019 Conquered the International Box Office: \u2018Let\u2019s Cross Every Line, and Let\u2019s Cross It Locally in Each Territory\u2019",
-      "url": "https://variety.com/2026/film/box-office/scary-movie-international-box-office-success-1236780992/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:26:29+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236781448",
-      "title": "Netflix Inks Exclusive Deals for Video Podcasts From Martha Stewart, Lele Pons, Kate and Oliver Hudson",
-      "url": "https://variety.com/2026/tv/news/netflix-podcasts-martha-stewart-lele-pons-kate-hudson-1236781448/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:12:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236617122",
-      "title": "\u201cAll the Lines Are Blurring\u201d at Banff",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/hockey-dramas-youtube-films-trump-threats-banff-festival-1236617122/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236622008",
-      "title": "Boy George Wants to Use AI to Reclaim \u2018Karma Chameleon\u2019",
-      "url": "https://www.hollywoodreporter.com/music/music-news/boy-george-ai-karma-chameleon-artists-included-1236622008/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:12:08+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236622030",
-      "title": "How Mary Harron\u2019s\u00a0\u2018I Shot Andy Warhol\u2019\u00a0Predicted 2026",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/mary-harron-i-shot-andy-warhol-podcast-1236622030/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-15T15:04:43+00:00"
-    },
-    {
-      "guid": "GvqvRMxs7AkBNE9bqyHnS8",
-      "title": "Xbox Game Studios head leaves after less than 2 years: \"I'm proud to say we delivered many flawless launches\"",
-      "url": "https://www.gamesradar.com/games/xbox-game-studios-head-leaves-after-less-than-2-years-im-proud-to-say-we-delivered-many-flawless-launches/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T15:22:59+00:00"
-    },
-    {
-      "guid": "B6C6WwauoGsK2zFArn6RqQ",
-      "title": "How to find Assimilated Demolishers in Destiny 2",
-      "url": "https://www.gamesradar.com/games/destiny/destiny-2-assimilated-demolishers/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T15:16:35+00:00"
-    },
-    {
-      "guid": "S9vC64BawcS66R9tWLiTeG",
-      "title": "How to get Fine Wood in Witchspire",
-      "url": "https://www.gamesradar.com/games/survival/witchspire-fine-wood/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T15:05:43+00:00"
-    },
-    {
-      "guid": "bjkoE9FdgLNR6fGs4KgNDB",
-      "title": "Clair Obscur: Expedition 33 is still coming to Switch 2 in 2026, says leaker who called Ocarina of Time and Star Fox remakes",
-      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-is-still-coming-to-switch-2-in-2026-says-leaker-who-called-ocarina-of-time-and-star-fox-remakes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T15:05:40+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1738799",
-      "title": "God of War Laufey Theory: Hidden lightning clue\u2026 could Thor be in the Everywhen after Ragnar\u00f6k?",
-      "url": "https://otakukart.com/god-of-war-laufey-theory-hidden-lightning-clue-could-thor-be-in-the-everywhen-after-ragnarok/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T15:28:27+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1738797",
-      "title": "\u201cPlayers Have Expressed a Desire to See More Backstories\u201d \u2013 Crimson Desert Dev Hints at Expanding Companion Characters",
-      "url": "https://otakukart.com/players-have-expressed-a-desire-to-see-more-backstories-crimson-desert-dev-hints-at-expanding-companion-characters/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T15:15:12+00:00"
-    },
-    {
-      "guid": "t3_1u6jg5m",
-      "title": "Mike Straw Of Insider Gaming: two Studios at Xbox risk of closing, one will shock everybody",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u6jg5m/mike_straw_of_insider_gaming_two_studios_at_xbox/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-06-15T15:14:36+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236956089",
       "title": "Joe Biden & Jay Leno Put Pedal To The L.A. Metal, Talk Trump On \u2018Garage\u2019s POTUS Corvette Episode",
       "url": "https://deadline.com/2026/06/joe-biden-trump-jay-leno-car-show-youtube-1236956089/",
@@ -2420,6 +2260,118 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-06-15T18:55:54+00:00"
+    },
+    {
+      "guid": "de68e3d6-de0e-4fa1-9f06-cbbce98a2723",
+      "title": "The Wolfbox MF60 Cordless Electric Air Duster Features Great Build Quality and Tons of Airflow for $28",
+      "url": "https://www.ign.com/articles/wolfbox-mega-flow-mf60-cordless-electric-air-duster-deal-amazon-fathers-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:05:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000706695",
+      "title": "Exploring Steam Next Fest With An AI-Blocking Extension Is Very Depressing",
+      "url": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:14:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956654",
+      "title": "Rosie O\u2019Donnell Brings Solo Show \u2018Common Knowledge\u2019 To NYC This Summer",
+      "url": "https://deadline.com/2026/06/rosie-odonnell-common-knowledge-nyc-off-broadway-1236956654/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:18:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236953143",
+      "title": "Comedian Jeff Ross Talks Roast Culture Evolution, Lessons In Manifesting From Jim Carrey & How Broadway Debut With \u2018Take A Banana For The Ride\u2019 \u201cHelped Cure\u201d Him Of Cancer",
+      "url": "https://deadline.com/2026/06/jeff-ross-talks-jim-carrey-cancer-kevin-hart-broadway-debut-1236953143/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:10:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236950375",
+      "title": "From \u2018Imperfect Women\u2019 to Ben Affleck\u2019s \u2018Animals\u2019,\u00a0Kerry Washington is On The Hunt For Nuanced Female Roles",
+      "url": "https://deadline.com/2026/06/kerry-washington-interview-imperfect-women-animals-1236950375/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:01:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781817",
+      "title": "Spain\u2019s Animayo Gran Canaria Awards Top Prizes to Family-Themed \u201918 Months\u2019 and \u2018Because Today is Saturday\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/animayo-gran-canaria-awards-18-months-porque-hoy-es-sabado-1236781817/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:27:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781886",
+      "title": "BTS Sets Slate of Book Releases, Including Korean Cookbook and Lyric Breakdown Collection",
+      "url": "https://variety.com/2026/shopping/news/bts-cookbook-lyric-breakdown-collection-shop-online-1236781886/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:27:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781857",
+      "title": "CMX Cinemas Acquires iPic Locations in Texas, Georgia, Florida, Maryland and New Jersey",
+      "url": "https://variety.com/2026/film/news/cmx-cinemas-ipic-texas-georgia-florida-maryland-new-jersey-1236781857/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:22:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781874",
+      "title": "Anya Taylor-Joy to Star in \u2018The Lord of the Rings: The Hunt For Gollum\u2019 as an Elf",
+      "url": "https://variety.com/2026/film/news/anya-taylor-joy-lord-of-the-rings-hunt-for-gollum-1236781874/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:15:43+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781867",
+      "title": "Cash Money and No Limit Records Team Up for Arena Tour: Master P, Birdman, Juvenile and More (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/cash-money-no-limit-records-2026-arena-tour-master-p-birdman-1236781867/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:15:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781868",
+      "title": "Derek Yee on Mentoring Young Hong Kong Directors at Shanghai Forum: \u2018Stay Positive\u2019",
+      "url": "https://variety.com/2026/film/festivals/derek-yee-shanghai-hong-kong-directors-succession-scheme-forum-1236781868/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:14:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781564",
+      "title": "Adam McKay on Producing the Climate Documentary \u2018Just Look Up\u2019 and Why the Democrats Are \u2018Corrupt From Head to Toe\u2019",
+      "url": "https://variety.com/2026/film/news/adam-mckay-climate-documentary-just-look-up-corrupt-democrats-donald-trump-1236781564/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:01:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236778871",
+      "title": "Why All FX Series Are Now Simultaneously Premiering on Linear Network and Streaming on Hulu \u2013 Just in Time for Emmys Noms (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/fx-series-premiering-both-cable-hulu-1236778871/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622298",
+      "title": "New York Is Kicking Los Angeles Around Right Now",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/new-york-knicks-finals-win-parade-taylor-swift-msg-1236622298/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T19:23:46+00:00"
     }
   ]
 }
