@@ -1120,6 +1120,49 @@
       "article_titles": [
         "Microsoft CEO admits \"there's more monetization of Xbox games happening on YouTube\" than the company as it tries to \"turn this into a sustainable business\""
       ]
+    },
+    {
+      "headline": "Nintendo Deletes Hidden Zelda: Ocarina of Time Remake Info After Fans Discover It",
+      "tag": "the legend of zelda: ocarina of time",
+      "posted_at": "2026-06-15T15:31:05.529553+00:00",
+      "urls": [
+        "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
+        "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626"
+      ],
+      "article_titles": [
+        "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
+        "Fans Find Hidden Info On Zelda: Ocarina Of Time Remake, Nintendo Promptly Deletes It"
+      ]
+    },
+    {
+      "headline": "Xbox Game Studios Boss Resigns After 18 Months Amid Growing Layoff Concerns",
+      "tag": "xbox game studios",
+      "posted_at": "2026-06-15T15:31:05.676669+00:00",
+      "urls": [
+        "https://www.ign.com/articles/xbox-game-studios-boss-departs-amid-growing-concern-over-layoffs-and-possible-studio-shutdowns",
+        "https://www.eurogamer.net/xbox-game-studios-craig-duncan-leaves-company",
+        "https://www.gamesradar.com/games/xbox-game-studios-head-leaves-after-less-than-2-years-im-proud-to-say-we-delivered-many-flawless-launches/",
+        "https://kotaku.com/the-head-of-xbox-game-studios-resigns-ahead-of-mass-layoffs-2000706634",
+        "https://www.videogameschronicle.com/news/xbox-studios-boss-confirms-hes-leaving-after-18-months/"
+      ],
+      "article_titles": [
+        "Xbox Game Studios Boss Departs Amid Growing Concern Over Layoffs and Possible Studio Shutdowns",
+        "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
+        "Xbox Game Studios head leaves after less than 2 years: \"I'm proud to say we delivered many flawless launches\"",
+        "The Head Of Xbox Game Studios Resigns Ahead Of Mass Layoffs",
+        "Xbox studios boss confirms he\u2019s leaving, after 18 months"
+      ]
+    },
+    {
+      "headline": "Dr. Stone Anime Comes to Fortnite Through Crunchyroll Partnership",
+      "tag": "dr. stone / fortnite",
+      "posted_at": "2026-06-15T15:31:05.747872+00:00",
+      "urls": [
+        "https://www.ign.com/articles/exclusive-dr-stone-comes-to-fortnite-with-crunchyroll-anime-island"
+      ],
+      "article_titles": [
+        "EXCLUSIVE: Dr. Stone Comes to Fortnite With Crunchyroll Anime Island"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1460,6 +1503,190 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-15T14:51:17+00:00"
+    },
+    {
+      "guid": "bba68de5-9d8d-4cbb-b4ed-4457e16ed545",
+      "title": "EXCLUSIVE: Dr. Stone Comes to Fortnite With Crunchyroll Anime Island",
+      "url": "https://www.ign.com/articles/exclusive-dr-stone-comes-to-fortnite-with-crunchyroll-anime-island",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:00:00+00:00"
+    },
+    {
+      "guid": "de7140e6-add3-4a24-97a1-ca6e8d7f67b4",
+      "title": "Hot Wheels: Infinite Rush Is All About Exploring an Open-World Toy Box | IGN Preview",
+      "url": "https://www.ign.com/articles/hot-wheels-infinite-rush-is-all-about-exploring-an-open-world-toy-box-ign-preview",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:00:00+00:00"
+    },
+    {
+      "guid": "9d5a5f48-b3c9-40ae-9878-82d767c4853d",
+      "title": "Xbox Game Studios Boss Departs Amid Growing Concern Over Layoffs and Possible Studio Shutdowns",
+      "url": "https://www.ign.com/articles/xbox-game-studios-boss-departs-amid-growing-concern-over-layoffs-and-possible-studio-shutdowns",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:58:13+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
+      "title": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer",
+      "url": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:23:57+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/xbox-game-studios-craig-duncan-leaves-company",
+      "title": "Microsoft's Xbox Game Studios boss steps down after less than two years, amid major changes for the platform",
+      "url": "https://www.eurogamer.net/xbox-game-studios-craig-duncan-leaves-company",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:07:31+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ea-advertising-ads-in-game-content-integrations",
+      "title": "EA launches new advertising platform enabling brands to \"integrate directly into gameplay\"",
+      "url": "https://www.eurogamer.net/ea-advertising-ads-in-game-content-integrations",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:02:05+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000706612",
+      "title": "Marvel Vs. Capcom 3 Gets A Surprise Update Years Later And It\u2019s Broken A Top-Tier Character",
+      "url": "https://kotaku.com/marvel-vs-capcom-3-mvc3-phoenix-dark-steam-patch-broken-2000706612",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:04:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956178",
+      "title": "Tech Giants Slam UK Social Media Ban For Pushing Teens To \u201cUnregulated\u201d Wild West Of The Internet",
+      "url": "https://deadline.com/2026/06/uk-social-media-ban-slammed-tech-giants-youtube-meta-snap-1236956178/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:19:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956307",
+      "title": "\u2018The Last Druid\u2019: Drew McIntyre, Stacy Clausen, Pablo Derqui & Tennyson Crowe Join Russell Crowe In Action Movie Filming In Spain",
+      "url": "https://deadline.com/2026/06/drew-mcintyre-stacy-clausen-join-russell-crowe-last-druid-1236956307/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:18:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956322",
+      "title": "World Cup Referee Accused Of Making White Supremacist Hand Gesture During Broadcast",
+      "url": "https://deadline.com/2026/06/world-cup-referee-white-supremacist-shaun-evans-1236956322/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:10:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781284",
+      "title": "Jordan\u2019s Beefed Up Incentives, Studio Partnership With U.S. Group Shadowbox Set to Scale Up International Productions",
+      "url": "https://variety.com/2026/film/global/jordan-incentives-olivewood-film-studios-shadowbox-1236781284/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:29:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236780992",
+      "title": "How \u2018Scary Movie\u2019 Conquered the International Box Office: \u2018Let\u2019s Cross Every Line, and Let\u2019s Cross It Locally in Each Territory\u2019",
+      "url": "https://variety.com/2026/film/box-office/scary-movie-international-box-office-success-1236780992/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:26:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781448",
+      "title": "Netflix Inks Exclusive Deals for Video Podcasts From Martha Stewart, Lele Pons, Kate and Oliver Hudson",
+      "url": "https://variety.com/2026/tv/news/netflix-podcasts-martha-stewart-lele-pons-kate-hudson-1236781448/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:12:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236617122",
+      "title": "\u201cAll the Lines Are Blurring\u201d at Banff",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/hockey-dramas-youtube-films-trump-threats-banff-festival-1236617122/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622008",
+      "title": "Boy George Wants to Use AI to Reclaim \u2018Karma Chameleon\u2019",
+      "url": "https://www.hollywoodreporter.com/music/music-news/boy-george-ai-karma-chameleon-artists-included-1236622008/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:12:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622030",
+      "title": "How Mary Harron\u2019s\u00a0\u2018I Shot Andy Warhol\u2019\u00a0Predicted 2026",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/mary-harron-i-shot-andy-warhol-podcast-1236622030/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T15:04:43+00:00"
+    },
+    {
+      "guid": "GvqvRMxs7AkBNE9bqyHnS8",
+      "title": "Xbox Game Studios head leaves after less than 2 years: \"I'm proud to say we delivered many flawless launches\"",
+      "url": "https://www.gamesradar.com/games/xbox-game-studios-head-leaves-after-less-than-2-years-im-proud-to-say-we-delivered-many-flawless-launches/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-15T15:22:59+00:00"
+    },
+    {
+      "guid": "B6C6WwauoGsK2zFArn6RqQ",
+      "title": "How to find Assimilated Demolishers in Destiny 2",
+      "url": "https://www.gamesradar.com/games/destiny/destiny-2-assimilated-demolishers/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-15T15:16:35+00:00"
+    },
+    {
+      "guid": "S9vC64BawcS66R9tWLiTeG",
+      "title": "How to get Fine Wood in Witchspire",
+      "url": "https://www.gamesradar.com/games/survival/witchspire-fine-wood/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-15T15:05:43+00:00"
+    },
+    {
+      "guid": "bjkoE9FdgLNR6fGs4KgNDB",
+      "title": "Clair Obscur: Expedition 33 is still coming to Switch 2 in 2026, says leaker who called Ocarina of Time and Star Fox remakes",
+      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-is-still-coming-to-switch-2-in-2026-says-leaker-who-called-ocarina-of-time-and-star-fox-remakes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-15T15:05:40+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1738799",
+      "title": "God of War Laufey Theory: Hidden lightning clue\u2026 could Thor be in the Everywhen after Ragnar\u00f6k?",
+      "url": "https://otakukart.com/god-of-war-laufey-theory-hidden-lightning-clue-could-thor-be-in-the-everywhen-after-ragnarok/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-15T15:28:27+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1738797",
+      "title": "\u201cPlayers Have Expressed a Desire to See More Backstories\u201d \u2013 Crimson Desert Dev Hints at Expanding Companion Characters",
+      "url": "https://otakukart.com/players-have-expressed-a-desire-to-see-more-backstories-crimson-desert-dev-hints-at-expanding-companion-characters/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-15T15:15:12+00:00"
+    },
+    {
+      "guid": "t3_1u6jg5m",
+      "title": "Mike Straw Of Insider Gaming: two Studios at Xbox risk of closing, one will shock everybody",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u6jg5m/mike_straw_of_insider_gaming_two_studios_at_xbox/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-15T15:14:36+00:00"
     }
   ]
 }
