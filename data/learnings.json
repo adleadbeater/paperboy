@@ -1019,6 +1019,50 @@
       "article_titles": [
         "Honkai: Star Rail news blog in Japan shuts down and issues public apology to HoYoverse for sharing leaked content"
       ]
+    },
+    {
+      "headline": "Nintendo Removes Hidden Ocarina of Time Remake References After Fans Discover Them",
+      "tag": "the legend of zelda: ocarina of time",
+      "posted_at": "2026-06-15T14:30:45.977828+00:00",
+      "urls": [
+        "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626"
+      ],
+      "article_titles": [
+        "Fans Find Hidden Info On Zelda: Ocarina Of Time Remake, Nintendo Promptly Deletes It"
+      ]
+    },
+    {
+      "headline": "Head of Xbox Game Studios Resigns Ahead of Planned Mass Layoffs",
+      "tag": "xbox game studios",
+      "posted_at": "2026-06-15T14:30:46.056891+00:00",
+      "urls": [
+        "https://kotaku.com/the-head-of-xbox-game-studios-resigns-ahead-of-mass-layoffs-2000706634"
+      ],
+      "article_titles": [
+        "The Head Of Xbox Game Studios Resigns Ahead Of Mass Layoffs"
+      ]
+    },
+    {
+      "headline": "Dead by Daylight Adds Modding Support and Scooby-Doo Collaboration for 10th Anniversary",
+      "tag": "dead by daylight",
+      "posted_at": "2026-06-15T14:30:46.132972+00:00",
+      "urls": [
+        "https://www.eurogamer.net/dead-by-daylight-year-11-roadmap-unveiled"
+      ],
+      "article_titles": [
+        "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations"
+      ]
+    },
+    {
+      "headline": "Vampire Survivors Getting Comic Book Adaptation This Fall",
+      "tag": "vampire survivors",
+      "posted_at": "2026-06-15T14:30:46.201470+00:00",
+      "urls": [
+        "https://www.ign.com/articles/vampire-survivors-comic-book-adaptation-launches-this-fall"
+      ],
+      "article_titles": [
+        "Vampire Survivors Comic Book Adaptation Launches This Fall"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1134,6 +1178,94 @@
       "url": "https://automaton-media.com/en/news/robot-hospice-heartwarming-japanese-indie-game-where-you-provide-end-of-life-care-for-five-terminally-ill-robots-releases-for-free-on-steam/",
       "source_name": "Automaton",
       "source_tier": 2,
+      "published_dt": "2026-06-15T14:00:00+00:00"
+    },
+    {
+      "guid": "a4e688b4-138c-46d8-ae21-8896d3656cbf",
+      "title": "Epilogue SN Operator Review",
+      "url": "https://www.ign.com/articles/epilogue-sn-operator-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:00:00+00:00"
+    },
+    {
+      "guid": "ef76812e-a013-46d4-b1b8-a895d905c5a0",
+      "title": "Vampire Survivors Comic Book Adaptation Launches This Fall",
+      "url": "https://www.ign.com/articles/vampire-survivors-comic-book-adaptation-launches-this-fall",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/dead-by-daylight-year-11-roadmap-unveiled",
+      "title": "Dead by Daylight unveils modding support, a visual overhaul, and a Scooby-Doo collaboration during 10th anniversary celebrations",
+      "url": "https://www.eurogamer.net/dead-by-daylight-year-11-roadmap-unveiled",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:05:42+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000706626",
+      "title": "Fans Find Hidden Info On Zelda: Ocarina Of Time Remake, Nintendo Promptly Deletes It",
+      "url": "https://kotaku.com/hidden-info-zelda-ocarina-of-time-remake-nintendo-deleted-store-html-info-switch-2-2000706626",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:28:47+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000706634",
+      "title": "The Head Of Xbox Game Studios Resigns Ahead Of Mass Layoffs",
+      "url": "https://kotaku.com/the-head-of-xbox-game-studios-resigns-ahead-of-mass-layoffs-2000706634",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:20:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956290",
+      "title": "Donald Trump Plans To Turn D.C.\u2019s Signature 250th Event Into His Own Rally",
+      "url": "https://deadline.com/2026/06/trump-july-4-rally-america-250-1236956290/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:11:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956281",
+      "title": "Bell Media & Blink49 Studios Strike First-Look Deal With Showrunner Celeste Parr & Punctuation Media; Romantic Thriller \u2018We Never Happened\u2019 First Project From Pact",
+      "url": "https://deadline.com/2026/06/bell-media-blink49-celeste-parr-punctuation-media-deal-1236956281/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:09:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781418",
+      "title": "\u2018Only Murders in the Building\u2019 Season 6 Adds David Tennant, Nicola Coughlan, Jodie Whittaker, Jim Broadbent, and More",
+      "url": "https://variety.com/2026/tv/news/only-murders-building-season-6-david-tennant-1236781418/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:18:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236781372",
+      "title": "Will Fox\u2019s Roku Buy Help Lachlan Murdoch Leapfrog Rivals in Streaming Wars?",
+      "url": "https://variety.com/2026/tv/news/fox-roku-lachlan-murdoch-streaming-wars-leapfrog-rivals-1236781372/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:15:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236621922",
+      "title": "What You Didn\u2019t See On TV: Inside the UFC Thunderdome on the White House Lawn",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/inside-ufc-white-house-fight-paramount-spectacle-1236621922/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-15T14:24:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236620968",
+      "title": "TV\u2019s Top Showrunners Are Reading Your Comments",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/producers-roundtable-dan-levy-erin-foster-david-e-kelley-1236620968/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
       "published_dt": "2026-06-15T14:00:00+00:00"
     }
   ]
