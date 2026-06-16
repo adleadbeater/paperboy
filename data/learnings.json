@@ -1617,150 +1617,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000707117",
-      "title": "Shrek And Donkey Are So Detailed In The New Trailer And It\u2019s Breaking My Brain",
-      "url": "https://kotaku.com/shrek-and-donkey-are-so-detailed-in-the-new-trailer-and-its-breaking-my-brain-2000707117",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:54:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236957402",
-      "title": "\u2018Funny AF With Kevin Hart\u2019 Renewed For Second Season At Netflix",
-      "url": "https://deadline.com/2026/06/funny-af-with-kevin-hart-renewed-netflix-season-2-1236957402/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236782772",
-      "title": "\u2018The View\u2019 Hosts Grill JD Vance on Epstein Files, ICE and Trump: \u2018Are You His Interpreter or His Vice President?\u2019",
-      "url": "https://variety.com/2026/tv/news/jd-vance-the-view-grilled-epstein-files-ice-trump-1236782772/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:57:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1235042889",
-      "title": "Audible Is $1/Month For 3 Months With This Summer Deal",
-      "url": "https://variety.com/shop/audible-plus-deal-2-1235042889/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:48:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236782422",
-      "title": "Venice Film Festival Takes Shape: \u2018The Social Reckoning,\u2019 \u2018Here Comes the Flood\u2019 With Denzel Washington, Florian Zeller\u2019s \u2018Bunker\u2019 and \u2018The Studio\u2019 Season 2 Among Potential Titles",
-      "url": "https://variety.com/2026/film/festivals/venice-film-festival-potential-titles-social-reckoning-bunker-studio-1236782422/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:47:05+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236782622",
-      "title": "Warner Bros. Acquires Tahereh Mafi\u2019s Bestselling Dystopian YA Series \u2018Shatter Me\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/warner-bros-tahereh-mafi-ya-series-shatter-me-1236782622/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:45:10+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236782069",
-      "title": "Entertainment Partners Reflects on 50 Years Powering Hollywood\u2019s Back Office From \u2018Little House on the Prairie\u2019 to \u2018The Pitt\u2019",
-      "url": "https://variety.com/2026/film/focus/entertainment-partners-50-years-1236782069/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1235292744",
-      "title": "A Paramount+ Subscription Is $1 a Month With This Summer Deal",
-      "url": "https://variety.com/shop/paramount-plus-deal-summer-sale-1235292744/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:40:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236781305",
-      "title": "\u2018Sound of Freedom\u2019 Director Alejandro Monteverde Sets Gaud\u00ed Biopic With Onza, F\u00e1brica de Cine, Methos Media (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/alejandro-monteverde-gaudi-biopic-onza-fabrica-de-cine-1236781305/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T16:32:46+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236622616",
-      "title": "Hollywood Reporter Critics Pick the 10 Best TV Shows of 2026 So Far",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-10-best-tv-shows-2026-so-far-1236622616/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236622806",
-      "title": "Why Richard Nixon Has Suddenly Gone Viral",
-      "url": "https://www.hollywoodreporter.com/news/politics-news/why-richard-nixon-viral-1236622806/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236622812",
-      "title": "In the Hamptons, Even the Dogs Have Staff",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/live-in-dog-nannies-trend-hamptons-1236622812/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236622827",
-      "title": "Is Dean Cain Right About Supergirl\u2019s Earrings?",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/dean-cain-supergirl-earrings-1236622827/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T17:00:00+00:00"
-    },
-    {
-      "guid": "eyYb2TohVEKvKZzuSbmDT5",
-      "title": "EU rules against Stop Killing Games, but after 2 years of campaigning founder insists change is coming: \"Our position almost seems too good to be true\"",
-      "url": "https://www.gamesradar.com/games/eu-rules-against-stop-killing-games-but-after-2-years-of-campaigning-founder-insists-change-is-coming-our-position-almost-seems-too-good-to-be-true/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T16:56:58+00:00"
-    },
-    {
-      "guid": "Z99sYQPRnieL8L4FUNPSPF",
-      "title": "How to complete the Forgotten Relics event in Arc Raiders and Converging Paths project",
-      "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-forgotten-relics-converging-paths/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T16:47:29+00:00"
-    },
-    {
-      "guid": "SvaBa5ErMDB9uaKFeYbjcR",
-      "title": "Solo dev plans to \"beat the real GTA 6 to launch\" with their own, AI-fueled version of Rockstar's upcoming game",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/solo-dev-plans-to-beat-the-real-gta-6-to-launch-with-their-own-ai-fueled-version-of-rockstars-upcoming-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T16:47:09+00:00"
-    },
-    {
-      "guid": "o9b4vEbQh7gdYof6SwNyng",
-      "title": "Don't wait for Prime Day - my favorite Meta Quest 3 charging dock has already dropped to its lowest-ever price, and you don't even need a Prime subscription",
-      "url": "https://www.gamesradar.com/hardware/vr/dont-wait-for-prime-day-my-favorite-meta-quest-3-charging-dock-has-already-dropped-to-its-lowest-ever-price-and-you-dont-even-need-a-prime-subscription/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T16:31:44+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=610455",
-      "title": "D&D: Five Spells That Prove Darklords Aren\u2019t The Only Ones With Terrible Powers",
-      "url": "https://www.belloflostsouls.net/2026/06/dd-five-spells-that-prove-darklords-arent-the-only-ones-with-terrible-powers.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T17:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236957470",
       "title": "Disney Taps Into Spirit Of Macaulay Culkin-Starring Classic For \u2018Mickey\u2019s Home Alone\u2019 Christmas Special",
       "url": "https://deadline.com/2026/06/disney-mickey-home-alone-christmas-special-1236957470/",
@@ -2359,6 +2215,86 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-06-16T20:09:40+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=240061",
+      "title": "Nintendo says hacker group\u2019s stolen employee data is \u2018limited and old\u2019 despite $2M ransom threat",
+      "url": "https://www.videogameschronicle.com/news/nintendo-says-hacker-groups-stolen-employee-data-is-limited-and-old-despite-2m-ransom-threat/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T20:44:33+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000707175",
+      "title": "SanDisk\u2019s New, \u2018Officially Licensed\u2019 $3,800 PS5 SSD Is A Surefire Sign We Are Completely Screwed",
+      "url": "https://kotaku.com/sandisk-ps5-ssd-8tb-heatsink-optimus-gx-pro-2000707175",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T20:52:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000707180",
+      "title": "Epic Shows GenAI Riddling Fortnite Characters And Buildings With Mistakes Its Artists Then Have To Fix",
+      "url": "https://kotaku.com/epic-games-generative-ai-fortnite-mistakes-2000707180",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T20:36:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236951256",
+      "title": "\u2018The Paper\u2019s Self-Confessed \u201cDrama Queen\u201d Sabrina Impacciatore Recalls Her \u2018White Lotus\u2019 Friendship With Jennifer Coolidge",
+      "url": "https://deadline.com/2026/06/sabrina-impacciatore-interview-the-paper-the-white-lotus-1236951256/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T21:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236783145",
+      "title": "\u2018Rocky Horror Picture Show\u2019 Set to Screen at Sphere Las Vegas in 2027",
+      "url": "https://variety.com/2026/film/news/rocky-horror-picture-show-sphere-las-vegas-1236783145/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T21:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236783094",
+      "title": "Rapper Mystikal Sentenced to 20 Years in Rape Case",
+      "url": "https://variety.com/2026/music/news/rapper-mystikal-sentenced-20-years-prison-rape-case-1236783094/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T20:47:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236623394",
+      "title": "The Sphere\u2019s Next Big Movie After \u2018Oz\u2019 to Be \u2018Rocky Horror Picture Show\u2019",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sphere-oz-rocky-horror-picture-show-movie-vegas-1236623394/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T21:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236619898",
+      "title": "\u2018Awards Chatter\u2019 Pod: Ali Larter on \u2018Landman,\u2019 How It \u201cRaised Me to the Next Level\u201d and the \u201cFalse Narrative\u201d Around Taylor Sheridan",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ali-larter-landman-taylor-sheridan-false-narrative-awards-chatter-1236619898/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T20:51:14+00:00"
+    },
+    {
+      "guid": "aVVCLdBjUj9naWrxffW68Y",
+      "title": "The most popular Soulslike in Steam Next Fest makes a very powerful argument for adding a shotgun to Dark Souls",
+      "url": "https://www.gamesradar.com/games/action-rpg/the-most-popular-soulslike-in-steam-next-fest-makes-a-very-powerful-argument-for-adding-a-shotgun-to-dark-souls/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-16T20:39:41+00:00"
+    },
+    {
+      "guid": "t3_1u7pi5o",
+      "title": "All ID Software job offers have been permanently removed from ZeniMax website",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u7pi5o/all_id_software_job_offers_have_been_permanently/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-16T20:40:25+00:00"
     }
   ]
 }
