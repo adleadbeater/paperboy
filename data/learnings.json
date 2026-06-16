@@ -1555,148 +1555,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/mark-gordon-treyarch-call-of-duty-departure",
-      "title": "In a week of Xbox leadership changes, longtime Treyarch boss Mark Gordon is retiring from the Call of Duty studio to \"focus on his next chapter\"",
-      "url": "https://www.eurogamer.net/mark-gordon-treyarch-call-of-duty-departure",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T13:49:44+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/xbox-game-pass-more-games-june",
-      "title": "Here's your next batch of Xbox Game Pass games for June",
-      "url": "https://www.eurogamer.net/xbox-game-pass-more-games-june",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T13:45:36+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000707074",
-      "title": "The Elder Scrolls Online Devs Talk About Moving To Seasons, The Thieves Guild, And Player Trust: \u2018It\u2019s Not Won Or Earned With A Single Act, And Yet It\u2019s Easily Broken And Lost\u2019",
-      "url": "https://kotaku.com/the-elder-scrolls-online-devs-talk-about-moving-to-seasons-the-thieves-guild-and-player-trust-its-not-won-or-earned-with-a-single-act-and-yet-its-easily-broken-and-lost-2000707074",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T13:45:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236957022",
-      "title": "\u2018Star Trek: Strange New Worlds\u2019 Season 4 Trailer Reveals A Roaring Tyrannosaurus Rex In A Prehistoric World & More",
-      "url": "https://deadline.com/2026/06/star-trek-strange-new-worlds-season-4-trailer-1236957022/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236957156",
-      "title": "Former Just For Laughs Prez Bruce Hills Joins Canada\u2019s Attraction In International Push",
-      "url": "https://deadline.com/2026/06/bruce-hills-just-for-laughs-joins-attraction-canada-1236957156/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236957253",
-      "title": "CBS News Hires Josh Boswell\u00a0and\u00a0Cho Park For Investigative Reporting Team",
-      "url": "https://deadline.com/2026/06/cbs-news-josh-boswell-cho-park-investigative-reporting-team-1236957253/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T13:45:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236957271",
-      "title": "Kecia Lewis, Dominique Fishback & Danielle Pinnock Join Lincoln Center Theater\u2019s \u2018The Whoopi Monologues\u2019",
-      "url": "https://deadline.com/2026/06/whoopi-monologues-off-broadway-cast-1236957271/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T13:42:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236957259",
-      "title": "Edinburgh International Film Festival To Launch UK Film Conference; BFI Head Ben Roberts Set As Inaugural Keynote Speaker",
-      "url": "https://deadline.com/2026/06/edinburgh-international-film-festival-uk-film-ben-roberts-1236957259/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T13:35:09+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236782386",
-      "title": "\u2018Rivals\u2019 Renewed for Season 3 at Disney+",
-      "url": "https://variety.com/2026/tv/global/rivals-renewed-season-3-disney-1236782386/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236623017",
-      "title": "\u2018Rivals\u2019 Season 3 Is a Go at Disney+, Hulu",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/rivals-season-3-disney-plus-hulu-12-episodes-official-1236623017/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236623084",
-      "title": "\u2018Star Trek: Strange New Worlds\u2019 Season 4 Trailer Emphasizes Action-Adventure",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/star-trek-strange-new-worlds-season-4-trailer-1236623084/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236623067",
-      "title": "Tom Holland Finally Confirms He Secretly Married Zendaya",
-      "url": "https://www.hollywoodreporter.com/news/general-news/tom-holland-zendaya-married-wedding-1236623067/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T13:35:47+00:00"
-    },
-    {
-      "guid": "bcZoqiMz55Pm933AikFCnJ",
-      "title": "Final Fantasy Resonance lead says games like Clair Obscur: Expedition 33 are leading a turn-based resurgence because \"creators who grew up playing JRPGs\" are now making them themselves",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-lead-says-games-like-clair-obscur-expedition-33-are-leading-a-turn-based-resurgence-because-creators-who-grew-up-playing-jrpgs-are-now-making-them-themselves/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T13:55:08+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=68264",
-      "title": "Capcom\u00a0to\u00a0celebrate Father\u2019s Day\u00a0in Japan with\u00a0special\u00a0Pragmata\u00a0stream starring Hugh and Diana\u2019s voice actors",
-      "url": "https://automaton-media.com/en/news/capcom-to-celebrate-fathers-day-in-japan-with-special-pragmata-stream-starring-hugh-and-dianas-voice-actors/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1738859",
-      "title": "Arc Raiders Devs Crack Down on Cheaters With Strong Anti-Cheat Measures and Denuvo Expansion",
-      "url": "https://otakukart.com/arc-raiders-devs-crack-down-on-cheaters-with-strong-anti-cheat-measures-and-denuvo-expansion/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T13:59:32+00:00"
-    },
-    {
-      "guid": "t3_1u7dzep",
-      "title": "Jez Corden: \"It's fanfic that Microsoft wants to \"reverse course\" on Xbox exclusives right now, or that it was some kind of weird PR slight of hand just for the showcase.\"",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1u7dzep/jez_corden_its_fanfic_that_microsoft_wants_to/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T13:44:41+00:00"
-    },
-    {
       "guid": "7297a971-ec2a-4200-bb88-faff14f7d389",
       "title": "Tom Holland Suggests Adolescence Star Owen Cooper as His Spider-Man Successor",
       "url": "https://www.ign.com/articles/tom-holland-suggests-adolescence-star-owen-cooper-as-his-spider-man-successor",
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-06-16T14:10:34+00:00"
-    },
-    {
-      "guid": "829af952-4c50-44af-90c9-00e86bcd98dc",
-      "title": "Stern\u2019s New Transformers G1 Pinball Table Is Approachable and Packed With Nostalgic Fun",
-      "url": "https://www.ign.com/articles/sterns-new-transformers-g1-pinball-table-is-approachable-and-packed-with-nostalgic-fun",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/overwatch-season-3-shion-hero",
@@ -1737,30 +1601,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-06-16T14:03:38+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236956258",
-      "title": "\u2018The Reluctant Traveler With Eugene Levy\u2019 Renewed For Season 4 At Apple TV",
-      "url": "https://deadline.com/2026/06/the-reluctant-traveler-eugene-levy-renewed-season-4-apple-1236956258/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236956926",
-      "title": "Magician-Comedian Stephen Bargatze Sets Debut Special \u2018Out In A Minute\u2019",
-      "url": "https://deadline.com/2026/06/stephen-bargatze-special-out-in-a-minute-release-date-1236956926/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236957194",
-      "title": "\u2018Rivals\u2019 Renewed For Season 3 At Disney+",
-      "url": "https://deadline.com/2026/06/rivals-season-3-disney-plus-hulu-david-tennant-danny-dyer-1236957194/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-16T14:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236782602",
@@ -1841,22 +1681,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-16T14:05:00+00:00"
-    },
-    {
-      "guid": "fhXgLVAaboANpJy2MDWmDF",
-      "title": "Spidey Tracker is a meta ARG featuring Ned Leeds, officially launches alongside second Spider-Man: Brand New Day trailer tomorrow",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spidey-tracker-is-a-meta-arg-featuring-ned-leeds-officially-launches-alongside-second-spider-man-brand-new-day-trailer-tomorrow/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T14:00:00+00:00"
-    },
-    {
-      "guid": "FUfkoPGSZXrwfQDAfo7XJB",
-      "title": "Onimusha: Way of the Sword brings God of War's blockbuster action to horror-tinged feudal Japan",
-      "url": "https://www.gamesradar.com/games/action-rpg/onimusha-way-of-the-sword-brings-god-of-wars-blockbuster-action-to-horror-tinged-feudal-japan/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-16T14:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1738860",
@@ -2649,6 +2473,118 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-16T17:11:58+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000707150",
+      "title": "I Would Like To Drink The Forbidden Cheeto Tube",
+      "url": "https://kotaku.com/i-would-like-to-drink-the-forbidden-cheeto-tube-2000707150",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:55:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236956595",
+      "title": "\u2018A Quiet Place\u2019s Millicent Simmonds Co-Writes, Will Star In Crime Thriller \u2018Grace\u2019 For Inevitable Studios",
+      "url": "https://deadline.com/2026/06/millicent-simmonds-to-star-grace-inevitable-studios-1236956595/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236957572",
+      "title": "Rachel Bloom To Receive Freedom Of Expression Award At 2026 San Francisco Jewish Film Festival Screening Of \u2018Hollywood Does Abortion\u2019",
+      "url": "https://deadline.com/2026/06/rachel-bloom-award-san-francisco-jewish-film-festival-1236957572/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:57:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236957372",
+      "title": "Amazon MGM Snaps Up Ariana Greenblatt Rom-Com \u2018Egg Baby\u2019",
+      "url": "https://deadline.com/2026/06/egg-baby-ariana-greenblatt-amazon-streaming-deal-1236957372/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236766353",
+      "title": "How Animation Shingle Viva Disrupts Distribution Model and Uses AI to Analyze Projects for Success",
+      "url": "https://variety.com/2026/film/focus/animation-shingle-viva-1236766353/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236782729",
+      "title": "Louis C.K.\u2019s New Netflix Special Sets June Release Date",
+      "url": "https://variety.com/2026/tv/news/louis-ck-netflix-special-release-date-1236782729/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:43:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236782040",
+      "title": "\u2018Fallout\u2019 Cast on Filming Season 2 in Los Angeles and Bringing the Video Game World to Life: \u2018I Still Can\u2019t Believe Amazon\u2019s Letting Us Make This Show\u2019",
+      "url": "https://variety.com/2026/tv/news/walton-goggins-fallout-season-2-los-angeles-amazon-1236782040/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236782581",
+      "title": "Inside ESPN\u2019s Big Bet on Women\u2019s Sports for Sunday Nights (When Baseball Once Ruled)",
+      "url": "https://variety.com/2026/tv/news/inside-espn-women-sports-sunday-boost-wnba-nwsl-1236782581/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236782601",
+      "title": "WIF and ReFrame Release Emmys \u2018Who to Watch\u2019 FYC Guide Highlighting Women, Nonbinary and Trans Individuals in the Least Gender-Diverse Categories (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/wif-reframe-emmys-who-to-watch-fyc-guide-1236782601/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236622373",
+      "title": "Why \u2018Ugly Betty\u2019 Still Stands Out in TV History",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/ugly-betty-tv-legacy-emmys-1236622373/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236623171",
+      "title": "UCP, Universal International Studios Combining Under Beatrice Springborn",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbcuniversal-combines-ucp-international-studios-1236623171/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236623247",
+      "title": "Emmys to Reveal All Nominations on July 8 After Initially Splitting Announcement",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-nominations-date-july-8-all-categories-1236623247/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-16T17:54:58+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1738901",
+      "title": "Prime Video Confirms August Release for The Chosen in the Wild with Bear Grylls",
+      "url": "https://otakukart.com/prime-video-confirms-august-release-for-the-chosen-in-the-wild-with-bear-grylls/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-16T17:51:16+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1738900",
+      "title": "From TikTok to the Tent: bbno$ Turns Up the Heat at Bonnaroo 2026",
+      "url": "https://otakukart.com/from-tiktok-to-the-tent-bbno-turns-up-the-heat-at-bonnaroo-2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-16T17:46:39+00:00"
     }
   ]
 }
