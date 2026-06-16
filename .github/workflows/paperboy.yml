@@ -2,10 +2,10 @@ name: Polygon News Scout
 
 on:
   schedule:
-    # Every 30 min, 9am–11pm UTC (5am–7pm EDT)
-    - cron: '*/30 9-23 * * *'
-    # Once at 2am UTC (10pm EDT)
-    - cron: '0 2 * * *'
+    # Every 30 min, 7am–8pm EST (noon–1am UTC)
+    - cron: '*/30 12-23 * * *'
+    - cron: '0,30 0 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
