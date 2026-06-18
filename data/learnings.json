@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Fable ditches good and evil binary for complex reputation system",
-      "tag": "fable",
-      "posted_at": "2026-06-11T20:30:44.573223+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/rpg/fable-drops-the-original-games-good-and-evil-binary-for-a-subjective-and-multifaceted-reputation-system-which-is-why-you-dont-have-horns-or-halos/"
-      ],
-      "article_titles": [
-        "Fable drops the original games' good and evil binary for a \"subjective and multifaceted\" reputation system, which is why you don't have horns or halos"
-      ]
-    },
-    {
       "headline": "Kingdom Hearts IV Features Characters From Discontinued Mobile Game",
       "tag": "kingdom hearts iv",
       "posted_at": "2026-06-12T13:54:01.984273+00:00",
@@ -1209,19 +1198,41 @@
         "Black Bear Sets Fall Release For Sundance Acquisition \u2018Wicker\u2019 Starring Olivia Colman & Alexander Skarsg\u00e5rd",
         "\u2018Wicker,\u2019 Olivia Colman and Alexander Skarsg\u00e5rd Sundance Hit, Sets Theatrical Release Date"
       ]
+    },
+    {
+      "headline": "Celebrity Presence At Obama Presidential Center Opening Gives A Reminder Of Hollywood\u2019s Embrace Of 44: \u201cA-Listers All Over The Place\u201d",
+      "tag": "",
+      "posted_at": "2026-06-18T20:42:03.594549+00:00",
+      "urls": [
+        "https://deadline.com/2026/06/barack-obama-opens-presidential-center-by-calling-out-perpetual-anger-and-division-ceremony-focuses-on-legacy-and-doesnt-mention-trump-1236959595/",
+        "https://deadline.com/2026/06/obama-presidential-center-celebrity-turnout-1236959451/",
+        "https://deadline.com/2026/06/barack-obama-opens-presidential-center-by-calling-out-perpetual-anger-and-division-ceremony-focuses-on-legacy-and-doesnt-mention-trump-1236959595/"
+      ],
+      "article_titles": [
+        "Barack Obama Opens Presidential Center By Calling Out \u201cPerpetual Anger And Division\u201d; Ceremony Focuses On Legacy And Doesn\u2019t Mention Trump",
+        "Celebrity Presence At Obama Presidential Center Opening Gives A Reminder Of Hollywood\u2019s Embrace Of 44: \u201cA-Listers All Over The Place\u201d",
+        "Barack Obama Opens Presidential Center By Calling Out \u201cPerpetual Anger And Division\u201d; Ceremony Focuses On Legacy And Doesn\u2019t Mention Trump"
+      ]
+    },
+    {
+      "headline": "Taylor Swift Wrote \u2018Toy Story\u2019 Song \u201cI Knew It, I Knew You\u201d in a Day: \u201cGot the Songwriter Zoomies\u201d",
+      "tag": "",
+      "posted_at": "2026-06-18T20:42:03.791117+00:00",
+      "urls": [
+        "https://www.hollywoodreporter.com/music/film-tv-music-news/taylor-swift-wrote-toy-story-song-in-a-day-1236625485/",
+        "https://variety.com/2026/music/news/taylor-swift-wrote-recorded-toy-story-song-eight-hours-1236785352/",
+        "https://www.hollywoodreporter.com/music/film-tv-music-news/taylor-swift-wrote-toy-story-song-in-a-day-1236625485/"
+      ],
+      "article_titles": [
+        "Taylor Swift Wrote \u2018Toy Story\u2019 Song \u201cI Knew It, I Knew You\u201d in a Day: \u201cGot the Songwriter Zoomies\u201d",
+        "Taylor Swift Wrote and Recorded \u2018I Knew It, I Knew You\u2019 in 8 Hours Right After Watching \u2018Toy Story 5\u2019: \u2018One of the Most Fun Days of My Life\u2019",
+        "Taylor Swift Wrote \u2018Toy Story\u2019 Song \u201cI Knew It, I Knew You\u201d in a Day: \u201cGot the Songwriter Zoomies\u201d"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/dispatch-nintendo-switch-censorship-penis",
-      "title": "Dispatch tackles Nintendo's Switch censorship requirements with a brilliantly named HR Violations update and an oozing jam donut where the dong should be",
-      "url": "https://www.eurogamer.net/dispatch-nintendo-switch-censorship-penis",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-18T16:40:32+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000708110",
       "title": "Holy Crap, Vice City Looks Amazing In This New GTA 6 Clip",
@@ -1237,14 +1248,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-06-18T16:45:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236959020",
-      "title": "PMC Acquires Remaining Vox Media Brands, Sets PMX Subsidiary To House Combined Publishing Titles",
-      "url": "https://deadline.com/2026/06/pmc-vox-media-acquisition-pmx-subsidiary-sb-nation-1236959020/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-18T16:37:33+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236784654",
@@ -1279,14 +1282,6 @@
       "published_dt": "2026-06-18T16:51:28+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236784682",
-      "title": "PMC Acquires Vox Media Brands, Creating Digital Publishing Giant",
-      "url": "https://variety.com/2026/biz/news/pmc-vox-media-ryan-pauley-verge-eater-1236784682/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-18T16:36:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236625177",
       "title": "Ryan Coogler Moves TV Deal From Disney to Netflix",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/ryan-coogler-proximity-media-netflix-tv-deal-1236625177/",
@@ -1303,14 +1298,6 @@
       "published_dt": "2026-06-18T16:45:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236624828",
-      "title": "Eater, The Verge and SB Nation Sold to Penske Media",
-      "url": "https://www.hollywoodreporter.com/business/business-news/eater-verge-sbnation-sold-penske-media-1236624828/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-18T16:35:16+00:00"
-    },
-    {
       "guid": "https://automaton-media.com/en/?p=68405",
       "title": "Co-op comedy horror game Yandere Virus gets\u00a0Steam demo",
       "url": "https://automaton-media.com/en/news/co-op-comedy-horror-game-yandere-virus-gets-steam-demo/",
@@ -1325,14 +1312,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-18T16:41:52+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1739092",
-      "title": "My Hero Academia: All\u2019s Justice Confirmed for Nintendo Switch 2 Release This September",
-      "url": "https://otakukart.com/my-hero-academia-alls-justice-confirmed-for-nintendo-switch-2-release-this-september/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-18T16:34:51+00:00"
     },
     {
       "guid": "https://www.belloflostsouls.net/?p=610666",
@@ -2165,6 +2144,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-18T20:14:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236785398",
+      "title": "Chris Pratt to Star in America 250 Comedy Shorts Series With Historian Doris Kearns Goodwin; U.S. Government Funding Project From ATTN: (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/chris-pratt-america-250-doris-kearns-goodwin-attn-1236785398/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-18T20:36:18+00:00"
     }
   ]
 }
