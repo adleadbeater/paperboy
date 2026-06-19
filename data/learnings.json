@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Guild Wars 3 Timeline Revealed, But Still No Actual Guild Wars in Sight",
-      "tag": "guild wars 3",
-      "posted_at": "2026-06-12T15:31:03.996834+00:00",
-      "urls": [
-        "https://www.eurogamer.net/guild-wars-3-timeline-setting-no-guild-war"
-      ],
-      "article_titles": [
-        "We now know when Guild Wars 3 takes place, but even 20 years after the series began, it doesn't sound like we'll see an actual storied guild war"
-      ]
-    },
-    {
       "headline": "Little Nightmares III Gets New DLC Adding Character and Story Content",
       "tag": "little nightmares iii",
       "posted_at": "2026-06-12T16:31:01.270649+00:00",
@@ -1207,6 +1196,21 @@
         "\u2018Toy Story 5\u2019 Previews Ring Up $17.5M: Best For Franchise, 2026 YTD & 2nd Best For Animated Pic",
         "Box Office: \u2018Toy Story 5\u2019 Opens to $17.5 Million, Best Preview Performance of 2026"
       ]
+    },
+    {
+      "headline": "Stark Picture Emerges of Paramount-Warner Bros. Job Loss Risk In L.A. County",
+      "tag": "",
+      "posted_at": "2026-06-19T16:00:42.955959+00:00",
+      "urls": [
+        "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-job-losses-la-county-1236626074/",
+        "https://deadline.com/2026/06/senators-fcc-paramount-warner-bros-1236961390/",
+        "https://variety.com/2026/biz/news/senators-fcc-paramount-warner-bros-merger-closing-foreign-investment-review-1236785963/"
+      ],
+      "article_titles": [
+        "Stark Picture Emerges of Paramount-Warner Bros. Job Loss Risk In L.A. County",
+        "Democratic Senators Call On FCC To Prevent Paramount-Warner Bros. Discovery Merger From Closing While Foreign Ownership Review Is Pending",
+        "Democratic Senators Urge FCC to Block Closing of Paramount-Warner Bros. Merger Until Review of Deal\u2019s Foreign Investment Concludes"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1221,28 +1225,12 @@
       "published_dt": "2026-06-19T12:10:30+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000708151",
-      "title": "8 Things To Know Before Playing The Adventures Of Elliot: The Millennium Tales",
-      "url": "https://kotaku.com/tips-adventures-of-elliot-the-millennium-tales-2000708151",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-19T12:00:06+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236962748",
       "title": "Jason Alexander-Narrated Doc \u2018To Kill A Nazi\u2019, About Entebbe Raid, Gets Sales Deal & Trailer Before Fest Launch",
       "url": "https://deadline.com/2026/06/jason-alexander-film-kill-a-nazi-entebbe-raid-trailer-1236962748/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-06-19T12:20:06+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236959089",
-      "title": "International Insider: Deep BBC Cuts; Previewing Annecy Animation; L\u00e9on Marchand Interview",
-      "url": "https://deadline.com/2026/06/bbc-cuts-annecy-animation-international-insider-1236959089/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-19T12:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236785781",
@@ -1285,14 +1273,6 @@
       "published_dt": "2026-06-19T12:01:12+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236623037",
-      "title": "The Can\u2019t Miss Premieres, Showcases and Sneak Peeks at Annecy Animation Festival",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/annecy-animation-festival-2026-highlights-lineup-1236623037/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-19T12:00:00+00:00"
-    },
-    {
       "guid": "5AP2BirJaYVgepZNAiezUH",
       "title": "How to find the Forza Horizon 6 Evolving World Car Meet",
       "url": "https://www.gamesradar.com/games/forza-horizon/forza-horizon-6-evolving-world-car-meet/",
@@ -1307,14 +1287,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-19T12:13:29+00:00"
-    },
-    {
-      "guid": "t3_1ua01pg",
-      "title": "New information, a new trailer, and more surprises for Resident Evil Veronica set to be unveiled at Gamescom 2026",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ua01pg/new_information_a_new_trailer_and_more_surprises/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-06-19T11:58:34+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/amazon-fallout-season-three-cast-update",
@@ -1707,6 +1679,110 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-19T15:21:22+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236955215",
+      "title": "All The Songs In \u2018Voicemails For Isabelle\u2019: Robyn, Taylor Swift & More",
+      "url": "https://deadline.com/2026/06/voicemails-for-isabelle-soundtrack-songs-robyn-taylor-swift-1236955215/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236962786",
+      "title": "Judith Sheldon, Daughter Of Director William Wyler, Found Dead With Husband In Running Car On California Highway Roadside",
+      "url": "https://deadline.com/2026/06/judith-sheldon-dead-william-wyler-1236962786/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:41:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236962827",
+      "title": "Sam Register On How Webtoon Partnership Will Fuel Warner Bros. Animation\u2019s Push For YA Streaming Hits",
+      "url": "https://deadline.com/2026/06/warner-bros-animation-webtoon-partnership-ya-streaming-hits-1236962827/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:37:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236785783",
+      "title": "\u2018Slow Horses\u2019 Star Christopher Chung on Balancing Ego and Empathy as Fan-Favorite Roddy Ho: \u2018You Never Play It for the Joke, Everything Is Just Genuine\u2019",
+      "url": "https://variety.com/2026/awards/global/slow-horses-christopher-chung-roddy-ho-emmys-1236785783/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:59:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786001",
+      "title": "Shanghai Film Festival\u2019s Mobile Filmmaking Camp Wraps With 10 iPhone-Shot Short Films",
+      "url": "https://variety.com/2026/film/festivals/shanghai-mobile-filmmaking-camp-iphone-short-films-1236786001/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:33:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236785161",
+      "title": "H.E.R., Bini, Lea Salonga, Katseye\u2019s Sophia Laforteza Lead Dreamworks Animation\u2019s \u2018Forgotten Island\u2019 Soundtrack (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/her-bini-lea-salonga-forgotten-island-soundtrack-1236785161/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236624575",
+      "title": "When Your Dad Is Bono \u2014 and Your Audience Is Obama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/eve-hewson-spielberg-disclosure-day-bono-1236624575/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236626074",
+      "title": "Stark Picture Emerges of Paramount-Warner Bros. Job Loss Risk In L.A. County",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-job-losses-la-county-1236626074/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:41:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236626141",
+      "title": "Anne Hathaway Announces Pregnancy, Expecting Third Child With Husband Adam Shulman",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/anne-hathaway-pregnant-third-child-1236626141/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T15:36:14+00:00"
+    },
+    {
+      "guid": "M8UAgX599aN439HsfzekKE",
+      "title": "10 years ago, Sega said \"we're done with Sonic,\" and it was up to Takashi Iizuka to save the series: \"Sonic was really at a low point\"",
+      "url": "https://www.gamesradar.com/games/sonic-the-hedgehog/10-years-ago-sega-said-were-done-with-sonic-and-it-was-up-to-takashi-iizuka-to-save-the-series-sonic-was-really-at-a-low-point/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-19T15:31:47+00:00"
+    },
+    {
+      "guid": "irAADeVi3MQgQV7EugFTBN",
+      "title": "I'm glad Resident Evil Veronica will have a \"reimagined story\" \u2013 remakes need reinvention to survive",
+      "url": "https://www.gamesradar.com/games/resident-evil/im-glad-resident-evil-veronica-will-have-a-reimagined-story-remakes-need-reinvention-to-survive/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-19T15:30:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=68501",
+      "title": "Level-5\u00a0CEO says modern quality demands have made fast game development\u00a0like back in the day extremely difficult",
+      "url": "https://automaton-media.com/en/news/level-5-ceo-says-modern-quality-demands-have-made-fast-game-development-like-back-in-the-day-extremely-difficult/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-06-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=610854",
+      "title": "D&D: The Updated Circle Of The Titan Druid Feels Bigger And Better",
+      "url": "https://www.belloflostsouls.net/2026/06/dd-the-updated-circle-of-the-titan-druid-feels-bigger-and-better.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-06-19T15:53:33+00:00"
     }
   ]
 }
