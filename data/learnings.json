@@ -1217,14 +1217,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "e9793068-ca58-488b-9e2d-3c9ab3727ae1",
-      "title": "Gungrave G.O.R.E. Blood Heat Looks to Refine a Solid Action-Game Foundation | IGN Preview",
-      "url": "https://www.ign.com/articles/gungrave-gore-blood-heat-looks-to-refine-a-solid-action-game-foundation-ign-preview",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-06-19T15:01:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236962807",
       "title": "Netflix Swoops For Latest Ricky Gervais Stand-Up Special",
       "url": "https://deadline.com/2026/06/netflix-ricky-gervais-stand-up-special-legend-1236962807/",
@@ -1239,22 +1231,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-19T15:24:20+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236785600",
-      "title": "Alfonso Ribeiro on Social Media Fueling \u2018Dancing With the Stars\u2019 Success and Urging Contestants to Ignore the Trolls: \u2018Why Are We So Mean to One Another?",
-      "url": "https://variety.com/2026/tv/columns/alfonso-ribeiro-social-media-dancing-with-the-stars-1236785600/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-19T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236625209",
-      "title": "Winners & Losers: Netflix Knifes the Duffer Brothers, \u2018Supergirl\u2019 Wows Influencers",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/supergirl-reviews-boroughs-canceled-1236625209/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-19T15:14:05+00:00"
     },
     {
       "guid": "EBpvdJkiqCD8t7cUQbo3BY",
@@ -1551,6 +1527,38 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-19T18:55:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236962934",
+      "title": "James Burrows Dies: Legendary TV Comedy Director & \u2018Cheers\u2019 Co-Creator Was 85",
+      "url": "https://deadline.com/2026/06/james-burrows-dead-tv-comedy-director-cheers-friends-1236962934/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T19:14:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786118",
+      "title": "YouTube Creators are Making a Splash This Awards Season. Here\u2019s a Guide to the Platform\u2019s Top Contenders",
+      "url": "https://variety.com/2026/tv/news/youtube-awards-season-guide-emmys-top-contenders-1236786118/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T19:16:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236784277",
+      "title": "Randy Newman on Scoring \u2018Toy Story 5,\u2019 Using a Male Choir for Buzz Lightyear and Having Less Than an Hour\u2019s Notice to Duet With Taylor Swift",
+      "url": "https://variety.com/2026/film/news/randy-newman-toy-story-5-music-taylor-swift-song-1236784277/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T19:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786130",
+      "title": "James Burrows, \u2018Cheers\u2019 Co-Creator and Prolific TV Director, Dies at 85",
+      "url": "https://variety.com/2026/tv/news/james-burrows-dead-cheers-taxi-will-and-grace-1236786130/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-19T19:06:58+00:00"
     }
   ]
 }
