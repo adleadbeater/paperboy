@@ -1179,12 +1179,36 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236786197",
-      "title": "\u2018Game of Thrones\u2019 Star Aidan Gillen on Golden Age of \u2018F\u2014ing Brilliant\u2019 British Drama and Why There\u2019s \u2018Too Much\u2019 Stuff on TV",
-      "url": "https://variety.com/2026/tv/global/game-of-thrones-aidan-gillen-golden-age-british-drama-1236786197/",
+      "guid": "https://kotaku.com/?p=2000708674",
+      "title": "Doom, Duke Nukem Composer And Overall MIDI Maestro Bobby Prince Dies At 81",
+      "url": "https://kotaku.com/doom-duke-nukem-composer-and-overall-midi-maestro-bobby-prince-dies-at-81-2000708674",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T16:44:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963284",
+      "title": "George Lucas Lends Voice To \u2018Minions & Monsters\u2019",
+      "url": "https://deadline.com/2026/06/george-lucas-minions-monsters-1236963284/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T17:07:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786349",
+      "title": "Ben Wheatley on How Blockbuster Success of \u2018Backrooms,\u2019 \u2018Obsession\u2019 Proves \u2018It\u2019s a Great Time to Be a Young Filmmaker\u2019",
+      "url": "https://variety.com/2026/film/global/ben-wheatley-backrooms-obsession-1236786349/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-06-20T10:13:31+00:00"
+      "published_dt": "2026-06-20T16:42:28+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=610908",
+      "title": "D&D: Five Ways To Build Your Bastion",
+      "url": "https://www.belloflostsouls.net/2026/06/dd-five-ways-to-build-your-bastion.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-06-20T17:00:00+00:00"
     }
   ]
 }
