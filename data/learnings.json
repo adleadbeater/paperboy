@@ -1179,38 +1179,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000708674",
-      "title": "Doom, Duke Nukem Composer And Overall MIDI Maestro Bobby Prince Dies At 81",
-      "url": "https://kotaku.com/doom-duke-nukem-composer-and-overall-midi-maestro-bobby-prince-dies-at-81-2000708674",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-20T16:44:05+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236963284",
-      "title": "George Lucas Lends Voice To \u2018Minions & Monsters\u2019",
-      "url": "https://deadline.com/2026/06/george-lucas-minions-monsters-1236963284/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-20T17:07:19+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236786349",
-      "title": "Ben Wheatley on How Blockbuster Success of \u2018Backrooms,\u2019 \u2018Obsession\u2019 Proves \u2018It\u2019s a Great Time to Be a Young Filmmaker\u2019",
-      "url": "https://variety.com/2026/film/global/ben-wheatley-backrooms-obsession-1236786349/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-20T16:42:28+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=610908",
-      "title": "D&D: Five Ways To Build Your Bastion",
-      "url": "https://www.belloflostsouls.net/2026/06/dd-five-ways-to-build-your-bastion.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-06-20T17:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236786427",
       "title": "George Lucas Has a Voice Role in \u2018Minions & Monsters\u2019",
       "url": "https://variety.com/2026/film/news/george-lucas-role-minions-and-monsters-illumination-1236786427/",
@@ -1241,6 +1209,54 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-20T20:03:17+00:00"
+    },
+    {
+      "guid": "699001e7-b2db-443e-bb63-3f0a5e9d4da6",
+      "title": "Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day",
+      "url": "https://www.ign.com/articles/bambu-lab-3d-printer-deals-best-buy-prime-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "guid": "99855be6-28ba-407e-9c9c-8ea8532f390d",
+      "title": "Save 50% Off a 12-Month Walmart+ Membership for Prime Day and Stream the 2026 FIFA World Cup",
+      "url": "https://www.ign.com/articles/walmart-plus-membership-prime-day-deal-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "guid": "4e33f5b5-e888-4429-8a5f-466554bb7dad",
+      "title": "The Complete Calvin and Hobbes Hardcover Book Set Is Already on Sale Ahead of Amazon Prime Day",
+      "url": "https://www.ign.com/articles/complete-calvin-and-hobbes-hardcover-book-deal-amazon-fathers-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T21:25:00+00:00"
+    },
+    {
+      "guid": "557a9fe0-f4fa-470d-ace7-f7b360e5cb86",
+      "title": "Beat the Summer Heat With This $8 Portable Turbo Fan",
+      "url": "https://www.ign.com/articles/portable-fan-deals-amazon-fathers-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T21:20:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963331",
+      "title": "Lilly Wachowski Sets Reading Of \u2018The Hunted\u2019 At Dynasty Typewriter, Film In Development With Producer Natasha Lyonne",
+      "url": "https://deadline.com/2026/06/the-hunted-development-lilly-wachowski-producer-natasha-lyonne-1236963331/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T21:13:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236785989",
+      "title": "\u2018Minions & Monsters\u2019 Director Pierre Coffin on His Tribute to Hollywood, the Exhausting Work of Voicing the Yellow Creatures and Crafting Comedy That\u2019s \u2018More Irreverent Than Some of the Competition\u2019",
+      "url": "https://variety.com/2026/film/global/minions-monsters-director-pierre-coffin-hollywood-voicing-1236785989/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-20T21:20:18+00:00"
     }
   ]
 }
