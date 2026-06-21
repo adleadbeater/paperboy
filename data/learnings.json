@@ -1137,76 +1137,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236962629",
-      "title": "\u2018Toy Story 5\u2019 Has A Best Friend At The Box Office: $160M U.S. Opening Reps Record For Franchise, Best YTD \u2013 Update",
-      "url": "https://deadline.com/2026/06/box-office-toy-story-5-1236962629/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T15:11:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236786574",
-      "title": "Box Office: \u2018Toy Story 5\u2019 Scores Year\u2019s Biggest Debut With $160 Million, Shattering Franchise Opening Weekend Record",
-      "url": "https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T15:13:09+00:00"
-    },
-    {
-      "guid": "XvZCtcottzP2Di29zTVMKD",
-      "title": "Luxury mechanical keyboards can cost hundreds, check your deck for this cheaper upgrade",
-      "url": "https://www.gamesradar.com/hardware/gaming-keyboards/luxury-mechanical-keyboards-can-cost-hundreds-check-your-deck-for-this-cheaper-upgrade/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T15:00:00+00:00"
-    },
-    {
-      "guid": "t6aCPmuuUcSzkziFg382Lg",
-      "title": "Mojang says that Minecraft Dungeons 2 has more overt \"callbacks to vanilla Minecraft\" than the last ARPG it released",
-      "url": "https://www.gamesradar.com/games/minecraft/mojang-says-that-minecraft-dungeons-2-has-more-overt-callbacks-to-vanilla-minecraft-than-the-last-arpg-it-released/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T15:00:00+00:00"
-    },
-    {
       "guid": "76617f95-6028-463c-a117-f763e1f459b8",
       "title": "Avengers: Doomsday 'Leak' Pulled Offline Just as it Spreads Across Social Media",
       "url": "https://www.ign.com/articles/avengers-doomsday-leak-pulled-offline-just-as-it-spreads-across-social-media",
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-06-21T16:16:19+00:00"
-    },
-    {
-      "guid": "0968f025-6bc4-4442-90da-30107905dd71",
-      "title": "Gundam: Rogue Orbit Interview: A Gundam Game with a Focus on How it Feels to be the Pilot",
-      "url": "https://www.ign.com/articles/gundam-rogue-orbit-interview-a-gundam-game-with-a-focus-on-how-it-feels-to-be-the-pilot",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T16:00:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000708774",
-      "title": "My Most Beloved PSP-Era Lost Gem Finally Returns In R-Type Tactics I \u2022 II Cosmos",
-      "url": "https://kotaku.com/my-most-beloved-psp-era-lost-gem-finally-returns-in-r-type-tactics-i-ii-cosmos-2000708774",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T16:03:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236963411",
-      "title": "\u2018Legally Blonde\u2019s Jennifer Coolidge Admits She \u201cStupidly\u201d Thought She Was Auditioning To Play Elle",
-      "url": "https://deadline.com/2026/06/legally-blonde-jennifer-coolidge-thought-auditioning-elle-1236963411/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T16:03:34+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236963295",
-      "title": "\u2018Toy Story 5\u2019 Reaches For The Sky With $312M WW Opening, Second Best For Pixar  \u2013 Global Box Office Update",
-      "url": "https://deadline.com/2026/06/global-box-office-toy-story-5-1236963295/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T15:58:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236786623",
@@ -1241,14 +1177,6 @@
       "published_dt": "2026-06-21T16:21:14+00:00"
     },
     {
-      "guid": "nELx3cbBNKKA4WZHLwntXJ",
-      "title": "RPG veteran Josh Sawyer says sometimes game designers \"go overboard in removing friction\"",
-      "url": "https://www.gamesradar.com/games/rpg/rpg-veteran-josh-sawyer-says-sometimes-game-designers-go-overboard-in-removing-friction/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T15:56:47+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1739459",
       "title": "Pok\u00e9mon Scarlet and Violet 7-Star Inteleon Tera Raid Guide: Best Counters and How to Beat the Unrivaled Boss",
       "url": "https://otakukart.com/pokemon-scarlet-and-violet-7-star-inteleon-tera-raid-guide-best-counters-and-how-to-beat-the-unrivaled-boss/",
@@ -1271,30 +1199,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-21T16:12:21+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1739457",
-      "title": "Sony Quietly Removes PC Port Commitment and Highlights AI Focus in New SEC Filing",
-      "url": "https://otakukart.com/sony-quietly-removes-pc-port-commitment-and-highlights-ai-focus-in-new-sec-filing/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T16:00:49+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1739398",
-      "title": "Star Detective Precure! Movie (2026): Title, Plot & Main Visual officially Revealed Ahead of Premiere",
-      "url": "https://otakukart.com/star-detective-precure-movie-2026-title-plot-main-visual-officially-revealed-ahead-of-premiere/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T15:58:41+00:00"
-    },
-    {
-      "guid": "t3_1ubtpgg",
-      "title": "Walmart has broken street date for Sonic Frontiers",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ubtpgg/walmart_has_broken_street_date_for_sonic_frontiers/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T16:01:32+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000708782",
@@ -1407,6 +1311,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-21T18:12:31+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
+      "title": "CD Projekt Red co-CEO admits it \"indefinitely\" \"lost the faith\" of some fans after Cyberpunk 2077",
+      "url": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T19:42:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000708811",
+      "title": "Founding Xbox Member Says Her Early Skepticisms Are Coming True 25 Years Later",
+      "url": "https://kotaku.com/founding-xbox-member-says-her-early-skepticisms-are-coming-true-25-years-later-2000708811",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T20:03:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963546",
+      "title": "Paget Brewster Apologizes For Telling TV Journalist \u201cYou Suck\u201d: \u201cShame On Me\u201d",
+      "url": "https://deadline.com/2026/06/paget-brewster-apologizes-telling-tv-journalist-you-suck-1236963546/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T19:59:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236626845",
+      "title": "Netflix, Focus Pass on Luca Guadagnino\u2019s \u2018Artificial\u2019 After Amazon MGM Studios Dropped Sam Altman-OpenAI Movie",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-focus-pass-openai-sam-altman-movie-luca-guadagnino-1236626845/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T19:44:50+00:00"
     }
   ]
 }
