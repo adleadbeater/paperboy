@@ -1137,22 +1137,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000708221",
-      "title": "I Am Looking For My Father In Blue Prince\u2019s Spiral Of Stars",
-      "url": "https://kotaku.com/i-am-looking-for-my-father-in-blue-princes-spiral-of-stars-2000708221",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T13:00:13+00:00"
-    },
-    {
-      "guid": "Wuw3FdTzMjmuKN87EsSFXU",
-      "title": "Active Reload may be an \"iconic\" Gears of War feature, but that isn't going to stop The Coalition from making changes to it for E-Day",
-      "url": "https://www.gamesradar.com/games/gears-of-war/active-reload-may-be-an-iconic-gears-of-war-feature-but-that-isnt-going-to-stop-the-coalition-from-making-changes-to-it-for-e-day/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T13:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236962629",
       "title": "\u2018Toy Story 5\u2019 Has A Best Friend At The Box Office: $160M U.S. Opening Reps Record For Franchise, Best YTD \u2013 Update",
       "url": "https://deadline.com/2026/06/box-office-toy-story-5-1236962629/",
@@ -1375,6 +1359,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-21T16:39:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963464",
+      "title": "Aardman Unveils Mossy Bottom-Set Show \u2018Let\u2019s Go Timmy!\u2019; \u2018The Almost (Untold) Story Of Danger Delilah\u2019 & Fresh Details On \u2018Pok\u00e9mon Tales\u2019- Annecy",
+      "url": "https://deadline.com/2026/06/aardman-mossy-bottom-go-timmy-danger-delilah-annecy-1236963464/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T16:58:51+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739462",
+      "title": "The First Descendant Publisher Nexon Says AI Isn\u2019t Enough, \u201cContext\u201d Will Decide Winners",
+      "url": "https://otakukart.com/the-first-descendant-publisher-nexon-says-ai-isnt-enough-context-will-decide-winners/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-21T16:59:28+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=369164",
+      "title": "\u2018Swords and Spells\u2019, D&D\u2019s Official Diceless Wargame That is Too Much For Too Little",
+      "url": "https://www.belloflostsouls.net/2026/06/swords-and-spells-dds-official-diceless-wargame-is-just-okay.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-06-21T17:00:00+00:00"
     }
   ]
 }
