@@ -1179,30 +1179,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236784958",
-      "title": "\u2018Yugly\u2019 Sells Wide Ahead of Annecy World Premiere, as nWave Team Enthuses at Quirky Characters, European CG With Heart (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/yugly-nwave-snd-animation-annecy-2026-1236784958/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T11:02:00+00:00"
-    },
-    {
-      "guid": "8EUPWziJ6rtitC27BKqqH5",
-      "title": "Joint The Witcher 4 and CD Projekt Red CEO says fully AI-generated games are coming, but he has \"some doubts whether this is really the path to follow\"",
-      "url": "https://www.gamesradar.com/games/the-witcher/joint-the-witcher-4-and-cd-projekt-red-ceo-says-fully-ai-generated-games-are-coming-but-he-has-some-doubts-whether-this-is-really-the-path-to-follow/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T11:11:03+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1739420",
-      "title": "Netflix Stock Could Hit $100 by September 2026 as Ad Revenue Booms, Analysts Predict Strong Rebound",
-      "url": "https://otakukart.com/netflix-stock-could-hit-100-by-september-2026-as-ad-revenue-booms-analysts-predict-strong-rebound/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-21T11:02:23+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000708221",
       "title": "I Am Looking For My Father In Blue Prince\u2019s Spiral Of Stars",
       "url": "https://kotaku.com/i-am-looking-for-my-father-in-blue-princes-spiral-of-stars-2000708221",
@@ -1217,6 +1193,38 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-21T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236962629",
+      "title": "\u2018Toy Story 5\u2019 Has A Best Friend At The Box Office: $160M U.S. Opening Reps Record For Franchise, Best YTD \u2013 Update",
+      "url": "https://deadline.com/2026/06/box-office-toy-story-5-1236962629/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T15:11:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786574",
+      "title": "Box Office: \u2018Toy Story 5\u2019 Scores Year\u2019s Biggest Debut With $160 Million, Shattering Franchise Opening Weekend Record",
+      "url": "https://variety.com/2026/film/box-office/toy-story-5-box-office-opening-weekend-record-franchise-1236786574/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T15:13:09+00:00"
+    },
+    {
+      "guid": "XvZCtcottzP2Di29zTVMKD",
+      "title": "Luxury mechanical keyboards can cost hundreds, check your deck for this cheaper upgrade",
+      "url": "https://www.gamesradar.com/hardware/gaming-keyboards/luxury-mechanical-keyboards-can-cost-hundreds-check-your-deck-for-this-cheaper-upgrade/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-21T15:00:00+00:00"
+    },
+    {
+      "guid": "t6aCPmuuUcSzkziFg382Lg",
+      "title": "Mojang says that Minecraft Dungeons 2 has more overt \"callbacks to vanilla Minecraft\" than the last ARPG it released",
+      "url": "https://www.gamesradar.com/games/minecraft/mojang-says-that-minecraft-dungeons-2-has-more-overt-callbacks-to-vanilla-minecraft-than-the-last-arpg-it-released/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-21T15:00:00+00:00"
     }
   ]
 }
