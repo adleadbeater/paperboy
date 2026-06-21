@@ -1137,30 +1137,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236963475",
-      "title": "Bentonville Film Festival: \u2018If I Go They Will Miss Me,\u2019 \u2018Jane Elliott Against The World\u2019 Win Top Awards \u2013 Full List",
-      "url": "https://deadline.com/2026/06/2026-bentonville-film-festival-awards-1236963475/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T18:04:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236786332",
-      "title": "\u2018Peter Asher: Everywhere Man\u2019 Review: The Beatles-Era Pop Singer Turned Star Producer Gets His Own Boomer-centric Documentary",
-      "url": "https://variety.com/2026/film/reviews/peter-asher-everywhere-man-review-1236786332/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T17:50:57+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236626816",
-      "title": "\u2018Legally Blonde\u2019 Stars Reunite for First Time in 25 Years Ahead of \u2018Elle\u2019 Prequel Series",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/legally-blonde-reunite-25-years-elle-prequel-series-1236626816/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T18:12:31+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
       "title": "CD Projekt Red co-CEO admits it \"indefinitely\" \"lost the faith\" of some fans after Cyberpunk 2077",
       "url": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
@@ -1207,6 +1183,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-21T21:42:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786726",
+      "title": "Bob Dylan Erects a Watchtower in the Desert With Moody, Magisterial Show at Palm Springs\u2019 Acrisure Arena: Concert Review",
+      "url": "https://variety.com/2026/music/concert-reviews/bob-dylan-tour-acrisure-arena-concert-review-1236786726/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T22:54:00+00:00"
     }
   ]
 }
