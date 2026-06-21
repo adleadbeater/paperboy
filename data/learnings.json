@@ -1116,6 +1116,21 @@
         "\u2018Toy Story 5\u2019 Has A Best Friend At The Box Office: $160M U.S. Opening Reps Record For Franchise, Best YTD \u2013 Update",
         "Box Office: \u2018Toy Story 5\u2019 Scores Year\u2019s Biggest Debut With $160 Million, Shattering Franchise Opening Weekend Record"
       ]
+    },
+    {
+      "headline": "Goose Concertgoer Falls To Death From Madison Square Garden Upper Level",
+      "tag": "",
+      "posted_at": "2026-06-21T16:59:21.973902+00:00",
+      "urls": [
+        "https://deadline.com/2026/06/goose-concertgoer-falls-death-madison-square-garden-1236963450/",
+        "https://variety.com/2026/music/news/concertgoer-falls-to-death-goose-madison-square-garden-1236786659/",
+        "https://www.hollywoodreporter.com/news/general-news/man-dies-apparent-fall-msg-goose-concert-1236626802/"
+      ],
+      "article_titles": [
+        "Goose Concertgoer Falls To Death From Madison Square Garden Upper Level",
+        "Concertgoer Falls to His Death During Goose Show at Madison Square Garden",
+        "Concertgoer Dies After Apparent Fall at Madison Square Garden"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1296,6 +1311,70 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-21T16:01:32+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000708782",
+      "title": "Naruto To Receive First Official Trading Card Game In Over A Decade",
+      "url": "https://kotaku.com/naruto-to-receive-first-official-trading-card-game-in-over-a-decade-2000708782",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T16:50:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963450",
+      "title": "Goose Concertgoer Falls To Death From Madison Square Garden Upper Level",
+      "url": "https://deadline.com/2026/06/goose-concertgoer-falls-death-madison-square-garden-1236963450/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T16:55:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963400",
+      "title": "\u2018Maddie\u2019s Secret\u2019 Cooks At IFC Center With Gregg Allman Doc, \u2018Girls Like Girls\u2019, \u2018Leviticus\u2019 In Upbeat Indie Weekend \u2013 Specialty Box Office",
+      "url": "https://deadline.com/2026/06/indie-film-maddies-secret-gregg-allman-robin-hood-leviticus-1236963400/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T16:35:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786659",
+      "title": "Concertgoer Falls to His Death During Goose Show at Madison Square Garden",
+      "url": "https://variety.com/2026/music/news/concertgoer-falls-to-death-goose-madison-square-garden-1236786659/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T16:57:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236786337",
+      "title": "Aardman Teases New Pokemon Series, Upcoming Lego Short, Aardman Academy and Looks Back at 50 Years of Clay Animation at Annecy",
+      "url": "https://variety.com/2026/tv/global/new-pokemon-series-upcoming-lego-short-aardman-annecy-1236786337/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T16:51:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236626802",
+      "title": "Concertgoer Dies After Apparent Fall at Madison Square Garden",
+      "url": "https://www.hollywoodreporter.com/news/general-news/man-dies-apparent-fall-msg-goose-concert-1236626802/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T16:48:35+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739461",
+      "title": "Crimson Desert Quest Progression Bug Blocks Players as Pearl Abyss Lists Known Issues",
+      "url": "https://otakukart.com/crimson-desert-quest-progression-bug-blocks-players-as-pearl-abyss-lists-known-issues/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-21T16:46:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739460",
+      "title": "Capcom Removes Paid DLC in Dragon\u2019s Dogma 2, Could Monster Hunter Be Next?",
+      "url": "https://otakukart.com/capcom-removes-paid-dlc-in-dragons-dogma-2-could-monster-hunter-be-next/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-21T16:39:24+00:00"
     }
   ]
 }
