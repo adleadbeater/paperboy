@@ -1137,36 +1137,116 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236786124",
-      "title": "Trafalgar Releasing Launches Korean Entity, Names Hybe Veteran as Asia Acquisitions Head (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/trafalgar-korea-launches-asia-acquisitions-hybe-1236786124/",
-      "source_name": "Variety",
+      "guid": "https://www.eurogamer.net/wallace-and-gromit-studios-long-awaited-stop-motion-pokemon-series-is-heading-to-a-particularly-fitting-region-when-it-releases-next-year",
+      "title": "Wallace and Gromit studio's long-awaited stop-motion Pok\u00e9mon series is heading to a particularly \"fitting\" region when it releases next year",
+      "url": "https://www.eurogamer.net/wallace-and-gromit-studios-long-awaited-stop-motion-pokemon-series-is-heading-to-a-particularly-fitting-region-when-it-releases-next-year",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-06-22T05:00:00+00:00"
+      "published_dt": "2026-06-22T13:13:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236963659",
-      "title": "France\u2019s Good Hero Expands \u2018Ballerina\u2019 Animated Feature Universe With Sequel & TV Series \u2013 Annecy",
-      "url": "https://deadline.com/2026/06/good-hero-expands-ballerina-universe-sequel-tv-series-1236963659/",
+      "guid": "https://kotaku.com/?p=2000708934",
+      "title": "Resident Evil Director Shinji Mikami Believes If Viewers Are \u2018Satisfied\u2019 With Watching A Playthrough Of His Game, Then It Wasn\u2019t \u2018That Good Of A Game\u2019",
+      "url": "https://kotaku.com/resident-evil-twitch-streaming-spoilers-mikami-dragon-quest-yuji-horii-2000708934",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T13:30:01+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000708933",
+      "title": "CD Projkect Red Boss Feels The Studio Still Needs To Right The Wrongs Of Cyberpunk 2077\u2018s Terrible Launch",
+      "url": "https://kotaku.com/cd-projkect-red-boss-feels-the-studio-still-needs-to-right-the-wrongs-of-cyberpunk-2077s-terrible-launch-2000708933",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T13:00:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963820",
+      "title": "Nadia Parkes Leading Sex Industry Dark Comedy About Stripper & Dominatrix, Filming To Begin In London This Month",
+      "url": "https://deadline.com/2026/06/nadia-parkes-sex-industry-comedy-stripper-dominatrix-london-1236963820/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-06-22T06:00:00+00:00"
+      "published_dt": "2026-06-22T13:27:52+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236626756",
-      "title": "\u2018Ballerina\u2019 (aka \u2018Leap!\u2019) Sequel Greenlit as Good Hero Expands Animated Franchise",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/leap-sequel-greenlit-french-animated-ballerina-feature-1236626756/",
+      "guid": "https://deadline.com/?p=1236963514",
+      "title": "Ricky Gervais & His Cartoon Feline Friends Have Finally Arrived In Trailer For Netflix\u2019s \u2018Alley Cats\u2019",
+      "url": "https://deadline.com/2026/06/ricky-gervais-alley-cats-trailer-netflix-animation-1236963514/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236787171",
+      "title": "Fully AI-Generated Series \u2018Journey to the West\u2019 in Development by Utopai Studios and Huace",
+      "url": "https://variety.com/2026/tv/news/fully-ai-generated-journey-to-the-west-utopai-studios-huace-1236787171/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T13:11:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236784387",
+      "title": "Sony\u2019s Bestselling OLED TVs Are All Up to $300 on Best Buy Right Now",
+      "url": "https://variety.com/2026/shopping/news/sony-oled-tv-deals-best-buy-shop-online-1236784387/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236785976",
+      "title": "\u2018Alley Cats\u2019 Trailer: Ricky Gervais Unveils Family of Foul-Mouthed Felines in Netflix Animated Series",
+      "url": "https://variety.com/2026/tv/global/alley-cats-trailer-ricky-gervais-feral-felines-netflix-1236785976/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236627059",
+      "title": "Obamas\u2019 Higher Ground Adds \u2018Expense Account\u2019 Podcast to Slate (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/obamas-higher-ground-expense-account-podcast-1236627059/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-06-22T06:00:00+00:00"
+      "published_dt": "2026-06-22T13:00:00+00:00"
     },
     {
-      "guid": "https://automaton-media.com/en/?p=68538",
-      "title": "Suikoden\u2019s first mobile mainline entry will launch in Japan first, with global and Steam versions to follow, devs confirm",
-      "url": "https://automaton-media.com/en/news/suikodens-first-mobile-mainline-entry-will-launch-in-japan-first-with-global-and-steam-versions-to-follow-devs-confirm/",
+      "guid": "ACK5dr5KREKBszX3roFCB4",
+      "title": "Meccha Chameleon flies by 7 million sales in under 2 weeks as Steam's latest viral hit continues to go to the moon, devs celebrate by teasing a \"Japan-themed map\"",
+      "url": "https://www.gamesradar.com/games/co-op/meccha-chameleon-flies-by-7-million-sales-in-under-2-weeks-as-steams-latest-viral-hit-continues-to-go-to-the-moon-devs-celebrate-by-teasing-a-japan-themed-map/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T13:03:08+00:00"
+    },
+    {
+      "guid": "djkeZqW9pG6XErjpfuwWzA",
+      "title": "God of War Laufey proves women are still gaining ground in gaming, and I'm thrilled Kratos is sitting this one out",
+      "url": "https://www.gamesradar.com/games/god-of-war/god-of-war-laufey-proves-women-are-still-gaining-ground-in-gaming-and-im-thrilled-kratos-is-sitting-this-one-out/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=68539",
+      "title": "Epic CEO\u00a0Tim Sweeney says new multiplayer games are failing because players\u00a0have no reason to\u00a0leave their friend groups,\u00a0touts\u00a0Unreal Engine 6\u2019s cross-game features as a solution",
+      "url": "https://automaton-media.com/en/news/epic-ceo-tim-sweeney-says-new-multiplayer-games-are-failing-because-players-have-no-reason-to-leave-their-friend-groups-touts-unreal-engine-6s-cross-game-features-as-a-solu/",
       "source_name": "Automaton",
       "source_tier": 2,
-      "published_dt": "2026-06-22T06:13:35+00:00"
+      "published_dt": "2026-06-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739526",
+      "title": "The Witcher 4 Studio CEO Says AI Can Build Games in Weeks, But Questions If It\u2019s the Right Direction for Industry",
+      "url": "https://otakukart.com/the-witcher-4-studio-ceo-says-ai-can-build-games-in-weeks-but-questions-if-its-the-right-direction-for-industry/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T13:07:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739513",
+      "title": "Minecraft Dungeons 2 Dev Says It\u2019s Becoming a More Faithful \u201cVanilla Minecraft\u201d Experience Than the First Game",
+      "url": "https://otakukart.com/minecraft-dungeons-2-dev-says-its-becoming-a-more-faithful-vanilla-minecraft-experience-than-the-first-game/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T12:56:27+00:00"
     }
   ]
 }
