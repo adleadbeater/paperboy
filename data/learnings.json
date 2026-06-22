@@ -1,58 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Civilization 7 Getting Hotseat Multiplayer and New Features Next Week",
-      "tag": "civilization 7",
-      "posted_at": "2026-06-15T17:38:51.352454+00:00",
-      "urls": [
-        "https://www.eurogamer.net/civilization-7-new-update-hotseat-multiplayer"
-      ],
-      "article_titles": [
-        "As Civilization 7's lengthy revitalisation continues, much-requested hotseat multiplayer is one of several new features arriving next week"
-      ]
-    },
-    {
-      "headline": "Ubisoft Releases Final Story Update for Assassin's Creed Shadows",
-      "tag": "assassin's creed shadows",
-      "posted_at": "2026-06-15T17:38:51.601039+00:00",
-      "urls": [
-        "https://www.ign.com/articles/ubisoft-bids-farewell-to-assassins-creed-shadows-with-final-story-update"
-      ],
-      "article_titles": [
-        "Ubisoft Bids Farewell to Assassin's Creed Shadows With Final Story Update"
-      ]
-    },
-    {
-      "headline": "Janet Yang, Producer and Former Film Academy President, Will Chair Board of Committee of 100 (Exclusive)",
-      "tag": "",
-      "posted_at": "2026-06-15T18:00:42.643576+00:00",
-      "urls": [
-        "https://variety.com/2026/film/awards/oscars-academy-board-governors-2026-2027-guillermo-del-toro-1236781704/",
-        "https://www.hollywoodreporter.com/movies/movie-news/oscars-board-of-governors-guillermo-del-toro-kris-bowers-1236622103/",
-        "https://www.hollywoodreporter.com/news/general-news/janet-yang-committee-of-100-board-chair-1236621211/"
-      ],
-      "article_titles": [
-        "Guillermo del Toro, Kris Bowers and More Elected to Expanded 60-Member Film Academy Board of Governors",
-        "Film Academy Board Elections: Guillermo del Toro and Kris Bowers Among Nine Elected for First Time",
-        "Janet Yang, Producer and Former Film Academy President, Will Chair Board of Committee of 100 (Exclusive)"
-      ]
-    },
-    {
-      "headline": "White House Praises UFC Fighter\u2019s Victory, Doesn\u2019t Condemn Michelle Obama Comment",
-      "tag": "",
-      "posted_at": "2026-06-15T18:00:42.719645+00:00",
-      "urls": [
-        "https://deadline.com/2026/06/ufc-michelle-obama-trump-white-house-1236956442/",
-        "https://variety.com/2026/tv/news/dana-white-condemns-ufc-josh-hokit-michelle-obama-comment-1236781457/",
-        "https://deadline.com/2026/06/ufc-michelle-obama-trump-white-house-1236956442/"
-      ],
-      "article_titles": [
-        "White House Praises UFC Fighter\u2019s Victory, Doesn\u2019t Condemn Michelle Obama Comment",
-        "UFC Boss Dana White Condemns Fighter Josh Hokit for Saying \u2018Michelle Obama Is a Man\u2019: \u2018I Hate That Kind of Nonsense\u2019",
-        "White House Praises UFC Fighter\u2019s Victory But Doesn\u2019t Condemn Michelle Obama Comment"
-      ]
-    },
-    {
       "headline": "\u2018Love Island USA\u2019 Executive Producer James Barker Dies in Fiji During Season 8 Production",
       "tag": "",
       "posted_at": "2026-06-15T18:30:45.315893+00:00",
@@ -944,67 +892,38 @@
         "Steam Machine Price and Release Date Officially Confirmed By Valve",
         "Valve says Steam Machine's price is \"significantly more\" than it originally envisaged, and the launch quantity is \"less than we wanted to be able to make\""
       ]
+    },
+    {
+      "headline": "Valve finally announces the price of Steam Machine and a sort of release date, but the console-like PC might cost more than you're expecting",
+      "tag": "",
+      "posted_at": "2026-06-22T18:00:49.975484+00:00",
+      "urls": [
+        "https://kotaku.com/valve-wants-you-to-know-the-steam-machine-isnt-a-video-game-console-we-think-of-it-as-an-extension-of-pc-gaming-2000709032",
+        "https://www.siliconera.com/valves-steam-machine-pc-pre-order-starts-at-1049/",
+        "https://www.eurogamer.net/valve-steam-machine-subsidise-price-console-helix",
+        "https://www.eurogamer.net/steam-machine-price-launch-pre-order-reservation-date",
+        "https://kotaku.com/valve-confirms-steam-machine-will-cost-over-1000-2000709028",
+        "https://www.pcgamer.com/hardware/gaming-pcs/valve-confirms-its-working-with-amd-on-fsr-4-support-for-steam-machine/",
+        "https://www.pcgamer.com/hardware/gaming-pcs/steam-machine-reservations/",
+        "https://www.gamesradar.com/hardware/i-cant-afford-usd1-049-for-a-steam-machine-but-valve-has-already-graced-your-pc-with-the-ability-to-be-a-high-spec-living-room-rig-from-afar/",
+        "https://www.gamespot.com/articles/steam-machine-price-and-release-date-officially-confirmed-by-valve/"
+      ],
+      "article_titles": [
+        "Valve Wants You To Know The Steam Machine Isn\u2019t A Video Game Console: \u2018We Think Of It As An Extension Of PC Gaming\u2019",
+        "Valve\u2019\u2019s Steam Machine PC Pre-order Starts at $1,049",
+        "\"We don't lock our hardware down\" - Valve takes a swing at consoles while explaining why it doesn't subsidise the price of Steam Machine",
+        "Valve finally announces the price of Steam Machine and a sort of release date, but the console-like PC might cost more than you're expecting",
+        "Valve Confirms Steam Machine Will Cost Over $1,000",
+        "Valve confirms it's 'working with AMD on FSR 4 support for Steam Machine'",
+        "Sign up for a Steam Machine before June 25: Valve running one-time randomized queue due to limited availability and to 'limit resellers'",
+        "I can't afford $1,049 for a Steam Machine, but Valve has already graced your PC with the ability to be a high-spec living room rig from afar",
+        "Steam Machine Price and Release Date Officially Confirmed By Valve"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://variety.com/?p=1236777455",
-      "title": "Benedict Cumberbatch, Claire Foy to Voice Animated Special \u2018Mog\u2019s Bad Thing\u2019 for Channel 4, Lupus Films (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/benedict-cumberbatch-claire-foy-mogs-bad-thing-1236777455/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-22T13:31:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236625661",
-      "title": "It\u2019s Not TV. It\u2019s Instagram: App Is Testing Longform, Episodic Storytelling on TV",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/instagram-testing-longform-episodic-storytelling-tv-1236625661/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-22T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236627088",
-      "title": "Disney\u2019s New Asia Streaming Boss on K-Drama, Sports and the Untapped Japan Opportunity",
-      "url": "https://www.hollywoodreporter.com/business/business-news/disney-new-asia-streaming-boss-korean-drama-sports-japan-1236627088/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-22T13:58:17+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236626962",
-      "title": "Timoth\u00e9e Chalamet, Selena Gomez to Voice Star in Universal and Illumination\u2019s \u2018Not Alone\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/timothee-chalamet-selena-gomez-not-alone-animation-annecy-1236626962/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-22T13:55:46+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236627114",
-      "title": "Louis C.K., Stephen A. Smith to Honor Bill Maher at Kennedy Center Event",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/louis-ck-stephen-smith-to-honor-bill-maher-kennedy-center-1236627114/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-22T13:54:37+00:00"
-    },
-    {
-      "guid": "UBmP6cHycs8pV3zLzRbY9c",
-      "title": "Gaming laptops are more expensive than ever, and it's not Amazon solving the problem this Prime Day",
-      "url": "https://www.gamesradar.com/hardware/laptops/gaming-laptops-are-more-expensive-than-ever-and-its-not-amazon-solving-the-problem-this-prime-day/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-22T13:39:10+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=68558",
-      "title": "Anime\u2019s growing commoditization could lead to a future where the medium itself no longer matters, Japanese critic warns",
-      "url": "https://automaton-media.com/en/news/animes-growing-commoditization-could-lead-to-a-future-where-the-medium-itself-no-longer-matters-japanese-critic-warns/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-06-22T14:00:00+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236786222",
       "title": "PrizePicks Founder Adam Wexler Launches EightState Studios (EXCLUSIVE)",
@@ -1068,14 +987,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-22T14:09:26+00:00"
-    },
-    {
-      "guid": "nixSKPvsfSDvLAYKmEyGKB",
-      "title": "IT: Welcome to Derry artist calls his new Resident Evil-like horror \"a cinematic experience\" \u2013 and it's not a zombie game",
-      "url": "https://www.gamesradar.com/games/horror/it-welcome-to-derry-artist-calls-his-new-resident-evil-like-horror-a-cinematic-experience-and-its-not-a-zombie-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-22T14:00:00+00:00"
     },
     {
       "guid": "t3_1uclooq",
@@ -1900,6 +1811,166 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-22T17:08:58+00:00"
+    },
+    {
+      "guid": "f1ff4344-3c3e-48f8-97bf-e56a6192e903",
+      "title": "Love and Deepspace Drops New Wolfy Love Interest And I'm Not Well",
+      "url": "https://www.ign.com/articles/love-and-deepspace-drops-new-wolfy-love-interest",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:28:48+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000709032",
+      "title": "Valve Wants You To Know The Steam Machine Isn\u2019t A Video Game Console: \u2018We Think Of It As An Extension Of PC Gaming\u2019",
+      "url": "https://kotaku.com/valve-wants-you-to-know-the-steam-machine-isnt-a-video-game-console-we-think-of-it-as-an-extension-of-pc-gaming-2000709032",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:34:14+00:00"
+    },
+    {
+      "guid": "6gXkoDMYKd6Nm2qJT5Qidk",
+      "title": "Eidos Montreal founder says modern execs are driven more by spreadsheets than passion for games",
+      "url": "https://www.pcgamer.com/gaming-industry/eidos-montreal-founder-says-modern-execs-are-driven-more-by-spreadsheets-than-passion-for-games/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:46:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236964024",
+      "title": "Eddy Cue & Jerry Bruckheimer \u201cHopeful\u201d On \u2018F1: The Movie\u2019 Sequel, Latter Teases UFO Thriller \u2014 Cannes Lions",
+      "url": "https://deadline.com/2026/06/eddy-cue-jerry-bruckheimer-f1-movie-sequel-update-1236964024/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:48:53+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236964119",
+      "title": "Paramount Skydance Elevates Nicole Lang & Sheldon Kasdan To Lead Restructured Industrial Relations Division",
+      "url": "https://deadline.com/2026/06/paramount-nicole-lang-sheldon-kasdan-industrial-relations-1236964119/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:48:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236964065",
+      "title": "Michael Uppendahl To Direct Prime Video\u2019s \u2018Bishop\u2019 Pilot Episode",
+      "url": "https://deadline.com/2026/06/michael-uppendahl-direct-prime-video-bishop-pilot-1236964065/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:34:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236964059",
+      "title": "Instagram Expands To Samsung Smart TVs Joining Amazon Fire & Google TV",
+      "url": "https://deadline.com/2026/06/instagram-samsung-smart-tvs-amazon-fire-google-tv-1236964059/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:32:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236787413",
+      "title": "\u2018Freddy the 13th\u2019 Animated Movie Set at Paramount With \u2018Predator: Badlands\u2019 Director Dan Trachtenberg",
+      "url": "https://variety.com/2026/film/news/freddy-13th-movie-paramount-1236787413/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:59:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236787428",
+      "title": "Keanu Reeves Set to Star in New Lego Movie From \u2018Toy Story 4\u2019 Director Josh Cooley",
+      "url": "https://variety.com/2026/film/news/keanu-reeves-lego-movie-toy-story-4-director-josh-cooley-1236787428/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:46:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236787438",
+      "title": "Paramount Promotes Two to Lead Industrial Relations Team",
+      "url": "https://variety.com/2026/film/news/paramount-industrial-relations-nicole-lang-sheldon-kasdan-1236787438/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236624301",
+      "title": "Derek Hough Teases \u2018Dancing With the Stars\u2019 Season 35 After Milestone 20th Anniversary Tribute",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/derek-hough-dancing-with-the-stars-season-35-1236624301/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236627385",
+      "title": "\u2018Predator: Badlands\u2019 Director Dan Trachtenberg Tackling \u2018Freddy the 13th\u2019 Animated Movie",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/predator-badlands-dan-trachtenberg-animated-movie-1236627385/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:43:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236627369",
+      "title": "Olivia Rodrigo Is Launching a Music Festival Featuring Chappell Roan and Stevie Nicks",
+      "url": "https://www.hollywoodreporter.com/music/music-news/olivia-rodrigo-announces-daisy-chain-fields-music-festival-1236627369/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:37:53+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236627346",
+      "title": "Madonna Reveals Why Her Biopic Fell Apart at Universal and Then Netflix: \u201cI Needed a Big Budget\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/madonna-biopic-julia-garner-universal-netflix-budget-1236627346/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-22T17:36:46+00:00"
+    },
+    {
+      "guid": "1798976",
+      "title": "Play As Nicolas Cage In Call of Duty For Season 4 Reloaded",
+      "url": "https://www.gamespot.com/articles/play-as-nicolas-cage-in-call-of-duty-for-season-4-reloaded/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T17:44:48+00:00"
+    },
+    {
+      "guid": "1798961",
+      "title": "Someone Made A Single-Player Version Of World Of Warcraft, Powered By AI",
+      "url": "https://www.gamespot.com/articles/someone-made-a-single-player-version-of-world-of-warcraft-powered-by-ai/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T17:43:44+00:00"
+    },
+    {
+      "guid": "1798628",
+      "title": "Steam Machine Impressions: A Tiny Box With Big Trade-Offs",
+      "url": "https://www.gamespot.com/articles/steam-machine-impressions-a-tiny-box-with-big-trade-offs/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T17:43:04+00:00"
+    },
+    {
+      "guid": "1798840",
+      "title": "Xbox Is Working On A Dozen Movies And TV Shows, Including Sea Of Thieves",
+      "url": "https://www.gamespot.com/articles/xbox-is-working-on-a-dozen-movies-and-tv-shows-including-sea-of-thieves/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T17:40:08+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-202887",
+      "title": "Valve's New Steam Machine Costs Almost Twice as Much as a PS5",
+      "url": "https://www.pushsquare.com/news/2026/06/valves-new-steam-machine-costs-almost-twice-as-much-as-a-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118359",
+      "title": "Valve\u2019\u2019s Steam Machine PC Pre-order Starts at $1,049",
+      "url": "https://www.siliconera.com/valves-steam-machine-pc-pre-order-starts-at-1049/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-06-22T18:00:00+00:00"
     }
   ]
 }
