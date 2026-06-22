@@ -257,14 +257,16 @@ def fetch_rss_items(sources: dict, lookback_mins: int) -> List[dict]:
 
 # ── Hard filter ────────────────────────────────────────────────────────────────
 _SKIP_TITLE_RE = re.compile(
-    r'\b(best\s+\d+|top\s+\d+|ranked|ranking|tier\s+list|listicle|'
+    r'\b(best\s+\d+|\d+\s+best|top\s+\d+|ranked|ranking|tier\s+list|listicle|'
     r'what\s+to\s+watch|leaving\s+(this|next)\s+month|streaming\s+calendar|'
     r'every\s+game\s+(coming|releasing)|complete\s+guide|all\s+the\s+details|'
     r'everything\s+you\s+need\s+to\s+know|explained|what\s+to\s+expect|'
     r'release\s+date.*details|how\s+to\s+watch|where\s+to\s+watch|'
     r'deals?\s+of\s+the\s+(day|week)|buying\s+guide|review\s+round\s*up|'
     r'where\s+to\s+(pre\s*order|buy)|save\s+\$\d+|(pre\s*order|pre\-order)s?\s+(now|at|available)|'
-    r'up\s+for\s+pre\s*order|knocks?\s+\$\d+\s+off|price\s+drop)\b',
+    r'up\s+for\s+pre\s*order|knocks?\s+\$\d+\s+off|price\s+drop|'
+    r'drops?\s+to\s+a\s+(new\s+)?price|just\s+\$\d+\s+at|new\s+price\s+low|'
+    r'father.s\s+day\s+gift|subscription\s+service)\b',
     re.IGNORECASE,
 )
 
@@ -662,6 +664,9 @@ def _fallback_assessment(cluster: dict) -> dict:
         "note":      f"fallback — Claude unavailable ({n_t1} T1 sources)",
     }
 
+# Entertainment trade outlets — corroborate each other on non-gaming stories
+_TRADE_SOURCES = {"Deadline", "Variety", "Hollywood Reporter"}
+
 # ── Tier enforcement ───────────────────────────────────────────────────────────
 def enforce_tier(story: dict, cluster: dict) -> str:
     tier      = story["tier"]
@@ -691,6 +696,12 @@ def enforce_tier(story: dict, cluster: dict) -> str:
     # Single-source proven_topic: T2-only sources need corroboration; T1 sources can post solo
     if tier == "proven_topic" and total == 1 and len(t1_pubs) == 0 and relevance < POLYGON_PICK_MIN:
         log.info(f"Demote single-source proven_topic→skip (T2-only, relevance={relevance}): {story['headline'][:60]}")
+        tier = "skip"
+
+    # Trades-only clusters: Deadline/Variety/Hollywood Reporter move in lockstep.
+    # Without a gaming/nerd-culture source in the mix, require very high confidence.
+    if all(s in _TRADE_SOURCES for s in cluster["sources"]) and relevance < 9:
+        log.info(f"Demote trades-only cluster (rel={relevance}): {story['headline'][:60]}")
         tier = "skip"
 
     # Forum-only clusters: require 2+ sources unless Claude is highly confident
