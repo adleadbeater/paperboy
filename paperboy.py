@@ -380,13 +380,11 @@ def claude_find_merges(clusters: list, recently_posted: List[dict]) -> Tuple[dic
 
 Tasks:
 
-MERGE: If two clusters clearly cover the same breaking event, merge them. List pairs to merge.
+MERGE: If two or more clusters cover the same product, announcement, or news event — merge them, even if the articles approach it from different angles. A price reveal, a feature confirmation, and a "what it means" reaction piece about the same product are all the SAME story.
 Format: MERGE: [id1] + [id2]
+You may chain: MERGE: [id1] + [id2], then MERGE: [id1] + [id3] to pull a third cluster in.
 
-DUPE: If a cluster covers the same event as something in RECENTLY POSTED, mark it as a duplicate.
-SAME EVENT RULE — It's a dupe if:
-- Same game/show/franchise AND same specific development (same announcement, same news beat)
-- New articles are follow-up coverage, not a new angle
+DUPE: If a cluster covers the same product/announcement as something in RECENTLY POSTED, mark it as a duplicate. Same product launch = dupe even if the new articles add a new angle or quote.
 Format: DUPE: [id]
 
 SPLIT: If a cluster mixes articles from clearly different stories, mark it for splitting.
@@ -399,8 +397,7 @@ Format: SPLIT: [id]
 
 NONE: If nothing to do, write NONE.
 
-Be conservative with merges — only merge if it's clearly the same story.
-Only mark dupes if the specific news event already ran, not just the same franchise."""
+Merge aggressively when it's the same product or event. Be conservative with dupes — only mark as dupe if the core news beat (not just the franchise) already ran."""
 
     result = _call_claude(prompt, max_tokens=_CLAUDE_CFG["call1_max_tokens"])
     if not result:
