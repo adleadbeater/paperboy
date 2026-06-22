@@ -667,10 +667,18 @@ def _fallback_assessment(cluster: dict) -> dict:
 # Entertainment trade outlets — corroborate each other on non-gaming stories
 _TRADE_SOURCES = {"Deadline", "Variety", "Hollywood Reporter"}
 
+# Gaming press sources — get a relevance boost
+_GAMING_SOURCES = {"IGN", "VGC", "Eurogamer", "Kotaku", "GamesRadar", "Automaton"}
+
 # ── Tier enforcement ───────────────────────────────────────────────────────────
 def enforce_tier(story: dict, cluster: dict) -> str:
     tier      = story["tier"]
     relevance = story["relevance"]
+
+    # Gaming press boost: +1 relevance if any gaming source is in the cluster
+    if any(s in _GAMING_SOURCES for s in cluster["sources"]):
+        relevance = min(relevance + 1, 10)
+        log.info(f"Gaming boost applied → relevance={relevance}: {story['headline'][:60]}")
 
     t1_pubs = set()
     total   = 0
