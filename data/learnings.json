@@ -1137,38 +1137,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
-      "title": "CD Projekt Red co-CEO admits it \"indefinitely\" \"lost the faith\" of some fans after Cyberpunk 2077",
-      "url": "https://www.eurogamer.net/cd-projekt-red-admits-it-lost-the-faith-of-some-fans-indefinitely",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T19:42:49+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000708811",
-      "title": "Founding Xbox Member Says Her Early Skepticisms Are Coming True 25 Years Later",
-      "url": "https://kotaku.com/founding-xbox-member-says-her-early-skepticisms-are-coming-true-25-years-later-2000708811",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T20:03:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236963546",
-      "title": "Paget Brewster Apologizes For Telling TV Journalist \u201cYou Suck\u201d: \u201cShame On Me\u201d",
-      "url": "https://deadline.com/2026/06/paget-brewster-apologizes-telling-tv-journalist-you-suck-1236963546/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T19:59:49+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236626845",
-      "title": "Netflix, Focus Pass on Luca Guadagnino\u2019s \u2018Artificial\u2019 After Amazon MGM Studios Dropped Sam Altman-OpenAI Movie",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-focus-pass-openai-sam-altman-movie-luca-guadagnino-1236626845/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-21T19:44:50+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000708831",
       "title": "Order Of The Sinking Star\u2019s Solid Puzzle Work Is Shadowed By That Sinking Feeling",
       "url": "https://kotaku.com/order-of-the-sinking-stars-solid-puzzle-work-is-shadowed-by-that-sinking-feeling-2000708831",
@@ -1191,6 +1159,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-21T22:54:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236963571",
+      "title": "Mayor Calls For Cancellation Of Kanye\u2019s July 4th Concert In San Antonio",
+      "url": "https://deadline.com/2026/06/kanye-concert-san-antonio-mayor-cancellation-1236963571/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-21T23:43:51+00:00"
     }
   ]
 }
