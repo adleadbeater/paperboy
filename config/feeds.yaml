@@ -12,6 +12,10 @@ tier1:
     url: https://www.eurogamer.net/feed/news
   - name: Kotaku
     url: https://kotaku.com/feed/rss
+  - name: PC Gamer
+    url: https://www.pcgamer.com/rss/
+  - name: Ars Technica Games
+    url: https://feeds.arstechnica.com/arstechnica/gaming
   - name: Anime News Network
     url: https://www.animenewsnetwork.com/newsfeed/
   # Entertainment crossover
@@ -26,6 +30,18 @@ tier2:
   # Gaming press
   - name: GamesRadar
     url: https://www.gamesradar.com/rss/
+  - name: GameSpot
+    url: https://www.gamespot.com/feeds/news
+  - name: Nintendo Life
+    url: https://www.nintendolife.com/feeds/news
+  - name: Push Square
+    url: https://www.pushsquare.com/feeds/news
+  - name: Siliconera
+    url: https://www.siliconera.com/feed/
+  - name: Time Extension
+    url: https://www.timeextension.com/feeds/news
+  - name: Gematsu
+    url: https://www.gematsu.com/feed
   - name: Automaton
     url: https://automaton-media.com/en/feed/
   - name: Crunchyroll News

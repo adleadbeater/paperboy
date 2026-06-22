@@ -668,7 +668,9 @@ def _fallback_assessment(cluster: dict) -> dict:
 _TRADE_SOURCES = {"Deadline", "Variety", "Hollywood Reporter"}
 
 # Gaming press sources — get a relevance boost
-_GAMING_SOURCES = {"IGN", "VGC", "Eurogamer", "Kotaku", "GamesRadar", "Automaton"}
+_GAMING_SOURCES = {"IGN", "VGC", "Eurogamer", "Kotaku", "PC Gamer", "Ars Technica Games",
+                   "GamesRadar", "GameSpot", "Nintendo Life", "Push Square",
+                   "Siliconera", "Time Extension", "Gematsu", "Automaton"}
 
 # ── Tier enforcement ───────────────────────────────────────────────────────────
 def enforce_tier(story: dict, cluster: dict) -> str:
