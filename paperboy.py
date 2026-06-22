@@ -708,7 +708,7 @@ def enforce_tier(story: dict, cluster: dict) -> str:
 
     # Trades-only clusters: Deadline/Variety/Hollywood Reporter move in lockstep.
     # Without a gaming/nerd-culture source in the mix, require very high confidence.
-    if all(s in _TRADE_SOURCES for s in cluster["sources"]) and relevance < 9:
+    if all(s in _TRADE_SOURCES for s in cluster["sources"]) and relevance < 8:
         log.info(f"Demote trades-only cluster (rel={relevance}): {story['headline'][:60]}")
         tier = "skip"
 

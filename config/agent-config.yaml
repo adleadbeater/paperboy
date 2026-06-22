@@ -7,7 +7,7 @@ claude:
   call2_max_tokens: 5000
 
 scoring:
-  mw_relevance_min: 7          # minimum polygon_relevance to post
+  mw_relevance_min: 6          # minimum polygon_relevance to post
   legolas_pick_min_relevance: 7 # minimum for polygon_pick tier
   article_cache_hours: 4
   recently_posted_hours: 24

@@ -44,5 +44,10 @@ tier2:
   # Leaks / forums — lower trust, used for corroboration
   - name: Reddit GamingLeaks
     url: https://www.reddit.com/r/GamingLeaksAndRumours/.rss
+  - name: Reddit LeaksAndRumors
+    url: https://www.reddit.com/r/LeaksAndRumors/.rss
   - name: Reddit MarvelStudios
     url: https://www.reddit.com/r/MarvelStudiosSpoilers/.rss
+  # Journalist feeds
+  - name: Jason Schreier
+    url: https://bsky.app/profile/jasonschreier.bsky.social/rss
