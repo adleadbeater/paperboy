@@ -1,23 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Nintendo Finally Did It: The eShop On Switch Isn\u2019t A Slow, Horrible Mess Anymore",
-      "tag": "",
-      "posted_at": "2026-06-16T16:32:29.911004+00:00",
-      "urls": [
-        "https://www.eurogamer.net/nintendo-switch-eshop-update",
-        "https://www.gamesradar.com/games/new-nintendo-switch-update-makes-the-eshop-run-better-only-took-9-years/",
-        "https://kotaku.com/nintendo-finally-did-it-the-eshop-on-switch-isnt-a-slow-horrible-mess-anymore-2000707097",
-        "https://www.eurogamer.net/nintendo-switch-eshop-update"
-      ],
-      "article_titles": [
-        "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update",
-        "New Nintendo Switch update makes the eShop run better, only took 9 years",
-        "Nintendo Finally Did It: The eShop On Switch Isn\u2019t A Slow, Horrible Mess Anymore",
-        "Nearly a decade later, the original Switch finally has an eShop that isn't painfully slow, thanks to a new system update"
-      ]
-    },
-    {
       "headline": "Audible Is $1/Month For 3 Months With This Summer Deal",
       "tag": "",
       "posted_at": "2026-06-16T17:00:53.949735+00:00",
@@ -811,6 +794,21 @@
         "Star Wars: Galactic Racer proves that roguelikes and racing are \"a match made in heaven,\" and it's bringing white knuckle consequences back to the genre",
         "Preview: 5 Things That Surprised Me Playing Star Wars: Galactic Racer on PS5"
       ]
+    },
+    {
+      "headline": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
+      "tag": "",
+      "posted_at": "2026-06-23T17:00:50.889832+00:00",
+      "urls": [
+        "https://www.eurogamer.net/microsoft-films-gears-war-sea-thieves-halo-tv",
+        "https://deadline.com/2026/06/magic-school-bus-movie-legendary-developing-elizabeth-banks-1236964353/",
+        "https://www.eurogamer.net/microsoft-films-gears-war-sea-thieves-halo-tv"
+      ],
+      "article_titles": [
+        "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
+        "Legendary Developing Live-Action \u2018Magic School Bus\u2019 Movie With Elizabeth Banks As Ms. Frizzle; \u2018Detective Pikachu\u2019s Rob Letterman To Direct",
+        "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -849,30 +847,6 @@
       "published_dt": "2026-06-23T13:19:44+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236962732",
-      "title": "French Animation \u2018Submarine Jim\u2019 Swims To Annecy With Hopes Of Echoing The Cult Success Of \u2018Space Goofs\u2019: \u201cThe Characters Are Literally Fish Out Of Water\u201d",
-      "url": "https://deadline.com/2026/06/france-submarine-jim-global-breakout-annecy-space-goofs-1236962732/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236964489",
-      "title": "\u2018The Debut\u2019 Trailer: First Look At Jesse Eisenberg\u2019s \u2018A Real Pain\u2019 Follow-Up For A24 With Julianne Moore & Paul Giamatti",
-      "url": "https://deadline.com/2026/06/the-debut-trailer-jesse-eisenberg-a24-film-gets-first-look-1236964489/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236964794",
-      "title": "Michael Caine\u2019s AI Clone Voices \u2018The Odyssey\u2019 Audiobook For ElevenLabs",
-      "url": "https://deadline.com/2026/06/michael-caine-ai-clone-voice-the-odyssey-audiobook-1236964794/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236787900",
       "title": "Shivani Pandya Malhotra, Former Managing Director of Saudi Arabia\u2019s Red Sea Film Festival, on Expanding Her Dubai-Based Ta Films Shingle (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/global/shivani-pandya-malhotra-red-sea-ta-films-1236787900/",
@@ -905,38 +879,6 @@
       "published_dt": "2026-06-23T13:11:04+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236784367",
-      "title": "The New Kindle Is Down to $85 for Prime Day",
-      "url": "https://variety.com/2026/shopping/news/prime-day-2026-kindle-deals-shop-online-1236784367/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236787620",
-      "title": "Michael Caine\u2019s AI-Generated Voice to Narrate \u2018The Odyssey\u2019 Audiobook Ahead of Christopher Nolan\u2019s Movie",
-      "url": "https://variety.com/2026/biz/news/michael-caine-ai-odyssey-audiobook-1236787620/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236628049",
-      "title": "Absolute Batman Getting the Funko Treatment as Comic-Con Exclusive",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/absolute-batman-funko-comic-con-exclusive-1236628049/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236628090",
-      "title": "Jake Johnson, Ben Stiller Catch Pickleball Fever in Apple\u2019s \u2018The Dink\u2019 Trailer",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-dink-trailer-jake-johnson-ben-stiller-pickleball-apple-1236628090/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
       "guid": "Fv8oiB2i8yA9TTMGQTmAQc",
       "title": "Better value than the Steam Machine: I'm determined to find you gaming PC deals this Prime Day that show why a traditional build is better in the long run, even in a RAMpocalypse",
       "url": "https://www.gamesradar.com/news/live/prime-day-gaming-pc-deals-live/",
@@ -953,36 +895,12 @@
       "published_dt": "2026-06-23T13:08:43+00:00"
     },
     {
-      "guid": "sfRZ3Dm9HLJQNGgaUv8FHf",
-      "title": "Netflix's Gears of War movie sounds like it will be set just before the events of the first game",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/netflixs-gears-of-war-movie-sounds-like-it-will-be-set-just-before-the-events-of-the-first-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-23T12:58:11+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-202925",
       "title": "See So Many More AA PS5 Games in THQ Nordic's Showcase This August",
       "url": "https://www.pushsquare.com/news/2026/06/see-so-many-more-aa-ps5-games-in-thq-nordics-showcase-this-august",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-06-23T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1118299",
-      "title": "Demeo x Dungeons & Dragons: Battlemarked Switch 2 Port Is Accessible and a Little Awkward",
-      "url": "https://www.siliconera.com/demeo-x-dungeons-dragons-battlemarked-switch-2-port-is-accessible-and-a-little-awkward/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-06-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-202916",
-      "title": "Super ZSNES Just Got Even Better, With A New Update Adding Initial Super FX Support, Fixes, & Quality Of Life Features",
-      "url": "https://www.timeextension.com/news/2026/06/super-zsnes-just-got-even-better-with-a-new-update-adding-initial-super-fx-support-fixes-and-quality-of-life-features",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-06-23T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1060416",
@@ -1015,14 +933,6 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-06-23T13:05:11+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=68602",
-      "title": "Japanese crowdfunding platform that owes funds to Shibuya Scramble Stories and other game projects breaks two-month silence, says\u00a0it\u2019s\u00a0\u201crelocating its servers and address\u201d",
-      "url": "https://automaton-media.com/en/news/japanese-crowdfunding-platform-that-owes-funds-to-shibuya-scramble-stories-and-other-game-projects-breaks-two-month-silence/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-06-23T13:00:00+00:00"
     },
     {
       "guid": "https://www.enworld.org/threads/free-rpg-day-2026-offerings-from-famous-properties-to-new-games-and-more.719188/",
@@ -1983,6 +1893,126 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-06-23T16:35:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000709565",
+      "title": "God Of War Laufey\u2019s Star Just Sent Fans On A Scavenger Hunt",
+      "url": "https://kotaku.com/god-of-war-laufey-deborah-ann-woll-ragnarok-interview-2000709565",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:54:58+00:00"
+    },
+    {
+      "guid": "4kPatxE8GMtpuoYaWuqUz7",
+      "title": "Grand Theft Auto 6 'VIP early access' scam sites are already popping up, Malwarebytes warns",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-vip-early-access-scam-sites-are-already-popping-up-malwarebytes-warns/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:48:46+00:00"
+    },
+    {
+      "guid": "Am366sxDSeFjxiUJjyPaub",
+      "title": "Fan revolt forces RPG studio to kill its new launcher just 19 hours after release",
+      "url": "https://www.pcgamer.com/games/rpg/fan-revolt-forces-rpg-studio-to-kill-its-new-launcher-just-19-hours-after-release/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:47:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236964353",
+      "title": "Legendary Developing Live-Action \u2018Magic School Bus\u2019 Movie With Elizabeth Banks As Ms. Frizzle; \u2018Detective Pikachu\u2019s Rob Letterman To Direct",
+      "url": "https://deadline.com/2026/06/magic-school-bus-movie-legendary-developing-elizabeth-banks-1236964353/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236964575",
+      "title": "\u2018The Summer I Turned Pretty\u2019s Sean Kaufman To Star Opposite Matt Damon In Daniels Event Pic",
+      "url": "https://deadline.com/2026/06/the-summer-you-turned-pretty-sean-kaufman-matt-damon-daniels-1236964575/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236964555",
+      "title": "\u2018Little House On The Prairie\u2019 Showrunner Teases Season 2 & Unpacks How Women Settled The West",
+      "url": "https://deadline.com/2026/06/little-house-on-the-prairie-season-2-production-bentonville-1236964555/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:46:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236900306",
+      "title": "\u2018Big Bang\u2019 Spinoff \u2018Stuart Fails To Save The Universe\u2019 Reveals Quick Glimpses Of Familiar Faces In Trailer",
+      "url": "https://deadline.com/2026/06/big-bang-spinoff-stuart-fails-to-save-the-universe-trailer-1236900306/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236627989",
+      "title": "\u2018Magic School Bus\u2019 Movie in the Works at Legendary with Elizabeth Banks Playing Ms. Frizzle",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/magic-school-bus-movie-elizabeth-banks-1236627989/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236628413",
+      "title": "Stephen Colbert Writers Post FYC Ad Claiming \u201cCBS Isn\u2019t Doing an Emmy Campaign for Us\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/stephen-colbert-emmys-ad-cbs-1236628413/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:58:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236628465",
+      "title": "Bob Iger Says Disney Held Talks With Apple About a Deal But They \u201cDidn\u2019t Show That Much Interest\u201d",
+      "url": "https://www.hollywoodreporter.com/business/business-news/bob-iger-exit-interview-disney-apple-twitter-james-bond-1236628465/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:54:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236627554",
+      "title": "Cannes Lions Feels More Hollywood Than the Film Festival This Year",
+      "url": "https://www.hollywoodreporter.com/business/business-news/how-cannes-lions-differs-from-cannes-film-festival-1236627554/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T16:45:40+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118400",
+      "title": "Rhythm Heaven Groove Starter Demo Drops on Switch",
+      "url": "https://www.siliconera.com/rhythm-heaven-groove-starter-demo-drops-on-switch/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739630",
+      "title": "One Piece: Heroines Anime Premieres July 5, New Trailer Reveals Theme Song by AiNA THE END",
+      "url": "https://otakukart.com/one-piece-heroines-anime-premieres-july-5-new-trailer-reveals-theme-song-by-aina-the-end/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739501",
+      "title": "New Apothecary Diaries Seasonal Visual Brings a Two-Year Tradition to an End",
+      "url": "https://otakukart.com/new-apothecary-diaries-seasonal-visual-brings-a-two-year-tradition-to-an-end/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T16:48:32+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=611025",
+      "title": "D&D: Five Magic Items For A Season Of Horrors",
+      "url": "https://www.belloflostsouls.net/2026/06/dd-five-magic-items-for-a-season-of-horrors.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T17:00:00+00:00"
     }
   ]
 }
