@@ -1018,7 +1018,36 @@ def run():
     if len(clusters) != len(clusters_to_assess):
         log.info(f"Suppressed {len(clusters) - len(clusters_to_assess)} clusters → {len(clusters_to_assess)} to assess")
 
-    # 6b. Claude Call 2: editorial assessment
+    # 6b. Hard dupe gate — Python-level cross-run check before spending Claude tokens
+    def _cross_run_dupe(cluster: dict) -> bool:
+        cluster_urls  = {it["url"] for it in cluster["items"] if it.get("url")}
+        cluster_words = set()
+        for w in cluster["headline"].lower().split():
+            if len(w) > 4: cluster_words.add(w)
+        for it in cluster["items"]:
+            for w in it["title"].lower().split():
+                if len(w) > 4: cluster_words.add(w)
+        for prev in recently_posted:
+            if cluster_urls & set(prev.get("urls", [])):
+                log.info(f"Cross-run dupe (URL match): {cluster['headline'][:60]}")
+                return True
+            prev_words = set()
+            for w in prev["headline"].lower().split():
+                if len(w) > 4: prev_words.add(w)
+            for title in prev.get("article_titles", []):
+                for w in title.lower().split():
+                    if len(w) > 4: prev_words.add(w)
+            if len(cluster_words & prev_words) >= 3:
+                log.info(f"Cross-run dupe (word overlap): {cluster['headline'][:60]}")
+                return True
+        return False
+
+    pre_dupe = len(clusters_to_assess)
+    clusters_to_assess = [c for c in clusters_to_assess if not _cross_run_dupe(c)]
+    if len(clusters_to_assess) < pre_dupe:
+        log.info(f"Cross-run dupe gate: {pre_dupe - len(clusters_to_assess)} suppressed → {len(clusters_to_assess)} remain")
+
+    # 6c. Claude Call 2: editorial assessment
     log.info(f"Claude call 2: assessing {len(clusters_to_assess)} clusters...")
     assessments = claude_assess_clusters(clusters_to_assess, learnings)
 
