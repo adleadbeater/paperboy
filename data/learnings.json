@@ -815,52 +815,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000709512",
-      "title": "Rhythm Heaven Groove Isn\u2019t Even Out Yet, But I Already Hate The Smarmy Person Throwing Frisbees",
-      "url": "https://kotaku.com/rhythm-heaven-groove-demo-disc-dog-2000709512",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T14:39:25+00:00"
-    },
-    {
-      "guid": "VrimB63wdxXcumqNBRyZ6G",
-      "title": "The grim industry summer continues as EA lays off staff ahead of $55 billion sale to Saudi Arabia, likely to soothe the sting of its $20 billion debt",
-      "url": "https://www.pcgamer.com/gaming-industry/the-grim-industry-summer-continues-as-ea-lays-off-staff-ahead-of-usd55-billion-sale-to-saudi-arabia-likely-to-soothe-the-sting-of-its-usd20-billion-debt/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T14:47:06+00:00"
-    },
-    {
-      "guid": "6ooGtYTAEHwidTNaNNiaRf",
-      "title": "Final Fantasy 14 has done something I did not expect\u2014it's actually fixed one of the most annoying things about its newest ultimate raid",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-has-done-something-i-did-not-expect-its-actually-fixed-one-of-the-most-annoying-things-about-its-newest-ultimate-raid/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T14:42:55+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236964943",
       "title": "\u2018The Sound Of Music\u2019, \u2018A Few Good Men\u2019 Heading To Broadway In Lincoln Center Theater Revivals; Matthew Rhys To Play Richard Burton In New Play",
       "url": "https://deadline.com/2026/06/sound-of-music-few-good-matthew-rhys-broadway-1236964943/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-06-23T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236964978",
-      "title": "Cinema Admissions Dropped Across Europe In 2025",
-      "url": "https://deadline.com/2026/06/cinema-admissions-europe-2025-1236964978/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T14:35:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236788242",
-      "title": "Walmart to Acquire Vibe.co in Bid to Win More Advertising to Its Platforms",
-      "url": "https://variety.com/2026/tv/news/walmart-acquire-vibe-advertising-1236788242/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-23T14:54:54+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236627100",
@@ -877,30 +837,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-23T15:00:00+00:00"
-    },
-    {
-      "guid": "nttSbxaEBHSJFJEjrZLtS5",
-      "title": "Want cheaper gaming on the go? Prime Day tablet deals could hold the answer",
-      "url": "https://www.gamesradar.com/platforms/mobile-gaming/want-cheaper-gaming-on-the-go-prime-day-tablet-deals-could-hold-the-answer/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-23T14:53:01+00:00"
-    },
-    {
-      "guid": "vRbaKPbJcESeiuUfU6Uoc4",
-      "title": "Hideo Kojima says his pitch for OD sounded \"crazy\" to every publisher except Xbox",
-      "url": "https://www.gamesradar.com/games/horror/hideo-kojima-says-his-pitch-for-od-sounded-crazy-to-every-publisher-except-xbox/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-23T14:38:46+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1739696",
-      "title": "God of War Laufey Lead Deborah Ann Woll Says Faye\u2019s Story Goes Beyond Gender and Highlights the Need for Greater Diversity",
-      "url": "https://otakukart.com/god-of-war-laufey-lead-deborah-ann-woll-says-fayes-story-goes-beyond-gender-and-highlights-the-need-for-greater-diversity/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-23T14:30:49+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/call-of-duty-nicolas-cage-black-ops-7-warzone-skin-season-4",
@@ -1933,6 +1869,118 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-06-23T18:00:32+00:00"
+    },
+    {
+      "guid": "d37e785b-8204-4d58-8d09-eac3a081a645",
+      "title": "Batman: Knightfall Part 1: Knightfall Exclusive Trailer and Voice Cast Revealed",
+      "url": "https://www.ign.com/articles/batman-knightfall-part-1-trailer-voice-cast",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T18:30:00+00:00"
+    },
+    {
+      "guid": "7c8663ba-bae2-43cc-a497-726322604515",
+      "title": "Disney Wanted to Buy Twitter and James Bond, Considered Merger With Apple",
+      "url": "https://www.ign.com/articles/disney-wanted-to-buy-twitter-and-james-bond-considered-merger-with-apple",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T18:25:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000709586",
+      "title": "Call Of Duty\u2019s Persona 5 Skins Are The Stuff Of Crossover Nightmares",
+      "url": "https://kotaku.com/call-of-duty-mobile-persona-5-royal-skins-crossover-event-2000709586",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T18:46:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236965274",
+      "title": "Gersh Hires Three, Promotes Three In Digital Division",
+      "url": "https://deadline.com/2026/06/gersh-digital-division-sets-promotions-new-hires-1236965274/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T18:34:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236788554",
+      "title": "Muni Long Had a Double Lung Transplant After Doctors Said She Only Had One Week to Live: \u2018You Can Either Go to Hospice or Get These Lungs\u2019",
+      "url": "https://variety.com/2026/music/news/muni-long-double-lung-transplant-saved-life-1236788554/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T18:55:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236628691",
+      "title": "Broadway Box Office: \u2018Chess\u2019 Hits $1.8 Million In Final Week",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-chess-3-1236628691/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-23T18:33:31+00:00"
+    },
+    {
+      "guid": "3y5kgUrSUEBwpYJxzeRusC",
+      "title": "If there's any reason to upgrade your gaming setup it's GTA 6, and Prime Day deals have you completely covered",
+      "url": "https://www.gamesradar.com/hardware/handhelds/if-theres-any-reason-to-upgrade-your-gaming-setup-its-gta-6-and-prime-day-deals-have-you-completely-covered/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:41:20+00:00"
+    },
+    {
+      "guid": "1800744",
+      "title": "EA Exec Says There Has Been A \u201cReal Rise Of Creativity\u201d After Developers Embraced AI",
+      "url": "https://www.gamespot.com/articles/ea-exec-says-there-has-been-a-real-rise-of-creativity-after-developers-embraced-ai/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:37:47+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-202938",
+      "title": "PS5 Shovelware Dev Confirms 'Stricter' Publishing Guidelines from Sony",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5-shovelware-dev-confirms-stricter-publishing-guidelines-from-sony",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:45:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1060667",
+      "title": "Lords of the Fallen II delayed to Q1 2027",
+      "url": "https://www.gematsu.com/2026/06/lords-of-the-fallen-ii-delayed-to-q1-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:44:10+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1060655",
+      "title": "Sonic Racing: CrossWorlds free character updates Classic Sonic, Axel, and Amigo announced",
+      "url": "https://www.gematsu.com/2026/06/sonic-racing-crossworlds-free-character-updates-classic-sonic-axel-and-amigo-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:32:37+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739734",
+      "title": "THE ONE PIECE Reveals Episode 1 Art as Netflix Confirms February 2027 Release, Teaser Trailer Drops Tomorrow",
+      "url": "https://otakukart.com/the-one-piece-reveals-episode-1-art-as-netflix-confirms-february-2027-release-teaser-trailer-drops-tomorrow/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:56:23+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739733",
+      "title": "Netflix Officially Announces the Anime Adaptation of Fool Night: Teaser Trailer, Key Art, and First Images Revealed",
+      "url": "https://otakukart.com/netflix-officially-announces-the-anime-adaptation-of-fool-night-teaser-trailer-key-art-and-first-images-revealed/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:44:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1739732",
+      "title": "Netflix Reveales New Visuals and Director Interview for Sparks of Tomorrow Ahead of Its July Premiere",
+      "url": "https://otakukart.com/netflix-reveales-new-visuals-and-director-interview-for-sparks-of-tomorrow-ahead-of-its-july-premiere/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-23T18:37:39+00:00"
     }
   ]
 }
