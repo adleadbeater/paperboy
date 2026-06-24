@@ -219,6 +219,10 @@ def _call_claude(prompt: str, max_tokens: int = 1000) -> Optional[str]:
         except requests.exceptions.Timeout:
             log.warning(f"Claude timeout (attempt {attempt + 1})")
             time.sleep(5 * (attempt + 1))
+        except requests.exceptions.HTTPError as e:
+            body_text = e.response.text[:300] if e.response is not None else "no body"
+            log.warning(f"Claude call failed (attempt {attempt + 1}): {e} | body: {body_text}")
+            time.sleep(3)
         except Exception as e:
             log.warning(f"Claude call failed (attempt {attempt + 1}): {e}")
             time.sleep(3)
