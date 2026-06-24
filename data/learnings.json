@@ -731,38 +731,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000710085",
-      "title": "Forget The Heists, I Can\u2019t Wait To Spend Hours Dressing Up GTA 6\u2032s Protagonists",
-      "url": "https://kotaku.com/gta-6-dress-up-simulator-2000710085",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-24T14:08:40+00:00"
-    },
-    {
-      "guid": "rfakv4ycp6Td4xx9tq8eBJ",
-      "title": "Nothing has killed my GTA 6 hype faster than locking a core part of its identity behind a $20 upgrade",
-      "url": "https://www.pcgamer.com/games/action/nothing-has-killed-my-gta-6-hype-faster-than-locking-a-core-part-of-its-identity-behind-a-usd20-upgrade/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-24T14:10:10+00:00"
-    },
-    {
-      "guid": "wtVuFQoNqduqpNRP4Cnix5",
-      "title": "The one thing Valve would change about the Steam Machine? 'Make it cheaper'",
-      "url": "https://www.pcgamer.com/hardware/steam-machines/the-one-thing-valve-would-change-about-the-steam-machine-make-it-cheaper/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-24T14:09:47+00:00"
-    },
-    {
-      "guid": "gVrd4cSmxtKdwqiACyERAA",
-      "title": "GTA 6 is a 'singleplayer experience', leaving me to question what's going on with GTA Online",
-      "url": "https://www.pcgamer.com/games/action/gta-6-is-a-singleplayer-experience-leaving-me-to-question-whats-going-on-with-gta-online/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-24T14:03:50+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236789202",
       "title": "Netflix\u2019s \u2018La Bola Negra\u2019 Sets Four-Week Theatrical Run Before Streaming Debut",
       "url": "https://variety.com/2026/film/news/la-bola-negra-theatrical-release-netflix-debut-1236789202/",
@@ -785,30 +753,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-06-24T14:24:36+00:00"
-    },
-    {
-      "guid": "95urj6Lws6xZmVUEtCHXd6",
-      "title": "These are the best PS5 RPG deals this Prime Day, picked by someone who has spent thousands of hours questing",
-      "url": "https://www.gamesradar.com/games/rpg/these-are-the-best-ps5-rpg-deals-this-prime-day-picked-by-someone-who-has-spent-thousands-of-hours-questing/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-24T14:08:56+00:00"
-    },
-    {
-      "guid": "8tha2EABd2jTYXkZHGh947",
-      "title": "How to find Coral Chunks and Weird Coral in Sand Raiders of Sophie",
-      "url": "https://www.gamesradar.com/games/fps/sand-raiders-of-sophie-coral-chunks-weird-coral/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-06-24T14:07:01+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-202986",
-      "title": "Pok\u00e9mon TCG Pocket's Next Expansion Might Be Its Cutest Yet",
-      "url": "https://www.nintendolife.com/news/2026/06/pokemon-tcg-pockets-next-expansion-might-be-its-cutest-yet",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-06-24T14:15:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000709962",
@@ -1913,6 +1857,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-24T17:50:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236966246",
+      "title": "Sony Pictures Entertainment Invests $100M In Cosm, Operator Of \u201cShared Reality\u201d Venues For Movies & Sports",
+      "url": "https://deadline.com/2026/06/sony-pictures-entertainment-invests-cosm-shared-reality-1236966246/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-24T18:10:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236789562",
+      "title": "Neon\u2019s Palme d\u2019Or Winner \u2018Fjord\u2019 Sets October Release Date (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/fjord-october-release-date-neon-1236789562/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-24T18:00:50+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236789422",
+      "title": "Sony Pictures Invests $100 Million in Cosm, Shared-Reality Venue Owner",
+      "url": "https://variety.com/2026/biz/news/sony-pictures-100-million-cosm-shared-reality-venue-owner-1236789422/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-24T18:00:00+00:00"
+    },
+    {
+      "guid": "Ag9r9xEaiVVd5teoRLT7yY",
+      "title": "This PlayStation Gift Card deal is your best tool to fight back against the GTA 6 prices, but not for US fans",
+      "url": "https://www.gamesradar.com/hardware/this-playstation-gift-card-deal-is-your-best-tool-to-fight-back-against-the-gta-6-prices-but-not-for-us-fans/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-24T18:08:28+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-202987",
+      "title": "'Above $1,000 Is the Floor': Analysts Predict PS6 Price, and It's Not Good",
+      "url": "https://www.pushsquare.com/news/2026/06/above-usd1000-is-the-floor-analysts-predict-ps6-price-and-its-not-good",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740030",
+      "title": "God of War Laufey Could Target February-March 2027 Release as Industry Faces Major Game Launch Crunch",
+      "url": "https://otakukart.com/god-of-war-laufey-could-target-february-march-2027-release-as-industry-faces-major-game-launch-crunch/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-24T18:10:37+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740043",
+      "title": "President Curtis Expands Rick and Morty Universe With New Adult Swim Spin-Off Premiering July 26",
+      "url": "https://otakukart.com/president-curtis-expands-rick-and-morty-universe-with-new-adult-swim-spin-off-premiering-july-26/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-24T18:03:02+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/aos-competitive-innovations-in-the-mortal-realms-2026-06-wk4/",
+      "title": "[AoS] Competitive Innovations in the Mortal Realms: 2026-06 wk4",
+      "url": "https://www.tabletopbattles.com/aos-competitive-innovations-in-the-mortal-realms-2026-06-wk4/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-06-24T18:00:01+00:00"
+    },
+    {
+      "guid": "t3_1uelaid",
+      "title": "Portuguese YouTuber Ricfazeres, who has several media, retail and PlayStation partnerships lists (EU) prices for Grand Theft Auto VI and claims there will be a Collector's Edition that costs 199.99\u20ac",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uelaid/portuguese_youtuber_ricfazeres_who_has_several/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-24T18:14:30+00:00"
     }
   ]
 }
