@@ -2,7 +2,7 @@
 # Secrets come from ~/.claude/.env — never hardcode here
 
 claude:
-  model: claude-sonnet-4-20250514
+  model: claude-sonnet-4-6
   call1_max_tokens: 600
   call2_max_tokens: 5000
 
