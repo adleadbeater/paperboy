@@ -659,14 +659,20 @@ def _parse_assessments(text: str, expected: int, clusters: list) -> List[dict]:
     return results
 
 def _fallback_assessment(cluster: dict) -> dict:
-    n_pubs = len({i["source_name"] for i in cluster["items"]})
+    # Only trend when Claude is down if there's broad coverage AND a gaming source.
+    # Prevents entertainment-only trade clusters (Deadline + Variety + Otakukart
+    # covering a Netflix TV show) from posting to the gaming channel unchecked.
+    sources    = {i["source_name"] for i in cluster["items"]}
+    n_pubs     = len(sources)
+    has_gaming = bool(sources & _GAMING_SOURCES)
+    should_trend = n_pubs >= 3 and has_gaming
     return {
-        "tier":      "trending" if n_pubs >= 3 else "skip",
-        "relevance": 7 if n_pubs >= 3 else 3,
+        "tier":      "trending" if should_trend else "skip",
+        "relevance": 7 if should_trend else 3,
         "headline":  cluster["headline"],
         "angle":     "",
         "topic":     "",
-        "note":      f"fallback — Claude unavailable ({n_pubs} publishers)",
+        "note":      f"fallback — Claude unavailable ({n_pubs} pubs, gaming={'yes' if has_gaming else 'no'})",
     }
 
 # Entertainment trade outlets — corroborate each other on non-gaming stories
