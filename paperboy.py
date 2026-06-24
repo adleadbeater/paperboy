@@ -709,12 +709,12 @@ def enforce_tier(story: dict, cluster: dict) -> str:
         if relevance < POLYGON_PICK_MIN:
             log.info(f"Demote polygon_pick→skip (relevance={relevance}): {story['headline'][:60]}")
             tier = "skip"
-        elif len(t1_pubs) == 0 and total < 2:
+        elif len(t1_pubs) == 0 and weighted_total < 2:
             log.info(f"Demote polygon_pick→skip (single T2-only source): {story['headline'][:60]}")
             tier = "skip"
 
     # Single-source proven_topic: T2-only sources need corroboration; T1 sources can post solo
-    if tier == "proven_topic" and total == 1 and len(t1_pubs) == 0 and relevance < POLYGON_PICK_MIN:
+    if tier == "proven_topic" and weighted_total < 2 and len(t1_pubs) == 0 and relevance < POLYGON_PICK_MIN:
         log.info(f"Demote single-source proven_topic→skip (T2-only, relevance={relevance}): {story['headline'][:60]}")
         tier = "skip"
 
@@ -726,11 +726,11 @@ def enforce_tier(story: dict, cluster: dict) -> str:
 
     # Forum-only clusters: require 2+ sources unless Claude is highly confident
     forum_sources = {"Reddit GamingLeaks", "Reddit MarvelStudios"}
-    if all(s in forum_sources for s in cluster["sources"]) and total < 2:
-        log.info(f"Demote forum-only cluster (only {total} forum sources): {story['headline'][:60]}")
+    if all(s in forum_sources for s in cluster["sources"]) and weighted_total < 2:
+        log.info(f"Demote forum-only cluster (only {weighted_total:g} weighted sources): {story['headline'][:60]}")
         tier = "skip"
-    elif all(s in forum_sources for s in cluster["sources"]) and total < 3 and relevance < POLYGON_PICK_MIN:
-        log.info(f"Demote forum-only cluster (low confidence, {total} sources, rel={relevance}): {story['headline'][:60]}")
+    elif all(s in forum_sources for s in cluster["sources"]) and weighted_total < 3 and relevance < POLYGON_PICK_MIN:
+        log.info(f"Demote forum-only cluster (low confidence, {weighted_total:g} wt, rel={relevance}): {story['headline'][:60]}")
         tier = "skip"
 
     # Global relevance gate
