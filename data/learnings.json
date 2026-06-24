@@ -731,14 +731,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236789202",
-      "title": "Netflix\u2019s \u2018La Bola Negra\u2019 Sets Four-Week Theatrical Run Before Streaming Debut",
-      "url": "https://variety.com/2026/film/news/la-bola-negra-theatrical-release-netflix-debut-1236789202/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-24T14:30:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000709962",
       "title": "Star Fox Reviews Say The Remake Of An N64 Classic Sticks The Landing, But Just Barely",
       "url": "https://kotaku.com/star-fox-reviews-say-the-remake-of-an-n64-classic-sticks-the-landing-but-just-barely-2000709962",
@@ -785,14 +777,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-06-24T14:36:50+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236966032",
-      "title": "Netflix Sets 28-Day Theatrical Window For Cannes Acquisition \u2018La Bola Negra\u2019",
-      "url": "https://deadline.com/2026/06/netflix-la-bola-negra-release-date-1236966032/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-24T14:30:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236789316",
@@ -1929,6 +1913,14 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-24T18:26:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236966297",
+      "title": "Jacob Elordi, Josh O\u2019Connor, Jenna Ortega, Safdies, Zach Cregger Among 529 New Oscar Voters As Academy Invites Class Of 2026",
+      "url": "https://deadline.com/2026/06/jacob-elordi-josh-oconnor-jenna-ortega-529-new-oscar-voters-1236966297/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-24T18:30:00+00:00"
     }
   ]
 }
