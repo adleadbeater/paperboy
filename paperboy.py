@@ -30,6 +30,14 @@ import feedparser
 import yaml
 from dotenv import load_dotenv
 
+try:
+    import google.auth
+    import google.auth.transport.requests
+    from googleapiclient.discovery import build as _goog_build
+    _GOOGLE_AVAILABLE = True
+except ImportError:
+    _GOOGLE_AVAILABLE = False
+
 # ── Bootstrap ──────────────────────────────────────────────────────────────────
 load_dotenv(Path.home() / ".claude" / ".env", override=True)
 
@@ -63,9 +71,78 @@ _HALF_WEIGHT_SOURCE = {
     for src in srcs
 }
 
+# ── Google Sheets (optional — priority topic tags) ─────────────────────────────
+def _sheets_service():
+    creds, _ = google.auth.default(scopes=["https://www.googleapis.com/auth/spreadsheets"])
+    creds.refresh(google.auth.transport.requests.Request())
+    return _goog_build("sheets", "v4", credentials=creds)
+
+def load_tag_performance(svc) -> dict:
+    """Load priority topics from the Polygon performance sheet."""
+    sheet_id  = _CFG.get("sheets", {}).get("sheet_id", "")
+    tab_names = _CFG.get("sheets", {}).get("tag_tab_names", ["Tags", "Tag", "tag", "tags"])
+    if not sheet_id:
+        return {}
+    rows = []
+    for tab in tab_names:
+        try:
+            rows = (svc.spreadsheets().values()
+                    .get(spreadsheetId=sheet_id, range=f"'{tab}'")
+                    .execute().get("values", []))
+            if rows:
+                break
+        except Exception:
+            continue
+    if not rows:
+        log.warning("No Tag tab found in Polygon sheet")
+        return {}
+    headers = [h.strip().lower() for h in rows[0]]
+    def col(name):
+        for i, h in enumerate(headers):
+            if name in h:
+                return i
+        return None
+    tag_col = col("tag")
+    sa_col  = col("s/a") or col("sa") or col("search")
+    fr_col  = col("fr") or col("fail") or col("rate")
+    if tag_col is None:
+        return {}
+    priority = {}
+    for row in rows[1:]:
+        if len(row) <= tag_col:
+            continue
+        tag = row[tag_col].strip().lower()
+        if not tag or len(tag) <= 2:
+            continue
+        try:
+            sa = float(str(row[sa_col]).replace(",", "")) if sa_col and sa_col < len(row) else 0
+            fr = float(str(row[fr_col]).replace("%", "")) if fr_col and fr_col < len(row) else 0
+        except (ValueError, TypeError):
+            continue
+        if sa >= TAG_SA_MIN and fr < TAG_FR_MAX:
+            priority[tag] = {"sa": sa, "fr": fr}
+    log.info(f"Loaded {len(priority)} Polygon priority tags (S/A ≥ {TAG_SA_MIN:,}, FR < {TAG_FR_MAX}%)")
+    return priority
+
+def match_cluster_tags(cluster: dict, priority_tags: dict) -> list:
+    """Return sheet tags that appear in this cluster's headlines/titles."""
+    if not priority_tags:
+        return []
+    text = " ".join([
+        cluster.get("headline", ""),
+        *[it["title"] for it in cluster.get("items", [])],
+    ]).lower()
+    matches = []
+    for tag, data in priority_tags.items():
+        pattern = r"(?<![a-z0-9])" + re.escape(tag) + r"(?![a-z0-9])"
+        if re.search(pattern, text):
+            matches.append({"tag": tag, **data})
+    return sorted(matches, key=lambda m: m["sa"], reverse=True)
+
 _CLAUDE_CFG     = _CFG["claude"]
 _SCORING        = _CFG["scoring"]
 _SLACK_CFG      = _CFG["slack"]
+_SHEETS_CFG     = _CFG.get("sheets", {})
 
 CLAUDE_MODEL          = _CLAUDE_CFG["model"]
 RELEVANCE_MIN         = _SCORING["mw_relevance_min"]
@@ -73,6 +150,8 @@ POLYGON_PICK_MIN      = _SCORING["legolas_pick_min_relevance"]
 CACHE_HOURS           = _SCORING["article_cache_hours"]
 RECENTLY_POSTED_HRS   = _SCORING["recently_posted_hours"]
 LOOKBACK_MINS         = _SCORING["lookback_minutes"]
+TAG_SA_MIN            = _SCORING.get("tag_sa_min", 5000)
+TAG_FR_MAX            = _SCORING.get("tag_fr_max", 25)
 SLACK_CHANNEL_ID      = _SLACK_CFG["channel_id"]
 POST_TO_SLACK         = _SLACK_CFG["post_enabled"]
 
@@ -462,9 +541,11 @@ def apply_merges(clusters: list, merges: dict) -> list:
     return merged
 
 # ── Claude Call 2: Polygon editorial assessment ────────────────────────────────
-def claude_assess_clusters(clusters: list, learnings: dict) -> List[dict]:
+def claude_assess_clusters(clusters: list, learnings: dict, priority_tags: dict = None) -> List[dict]:
     if not clusters:
         return []
+    if priority_tags is None:
+        priority_tags = {}
 
     CHUNK_SIZE = 40
     if len(clusters) > CHUNK_SIZE:
@@ -474,7 +555,7 @@ def claude_assess_clusters(clusters: list, learnings: dict) -> List[dict]:
             for j, c in enumerate(chunk, 1):
                 c["_local_id"] = j
             log.info(f"  Assessing chunk {i // CHUNK_SIZE + 1} ({len(chunk)} clusters)...")
-            results.extend(claude_assess_clusters(chunk, learnings))
+            results.extend(claude_assess_clusters(chunk, learnings, priority_tags))
         return results
 
     cluster_blocks = []
@@ -488,10 +569,16 @@ def claude_assess_clusters(clusters: list, learnings: dict) -> List[dict]:
             tier = "T1" if it["source_tier"] == 1 else "T2"
             cache = " [cached]" if it.get("_from_cache") else ""
             articles.append(f"  [{tier}] {it['source_name']:<22} {age:>3}m ago | {it['title']}{cache}")
+        matched = match_cluster_tags(c, priority_tags)
+        tag_line = ""
+        if matched:
+            top = matched[0]
+            tag_line = f"\nPOLYGON TOPIC MATCH: '{top['tag']}' (S/A {top['sa']:,.0f}) — use this exact name in TOPIC if posting as proven_topic"
         cluster_blocks.append(
             f"CLUSTER {seq} | T1: {n_t1}  T2: {n_t2}  Total: {n_t1 + n_t2}\n"
             f"Sources: {', '.join(c['sources'])}\n"
             + "\n".join(articles)
+            + tag_line
         )
 
     # Inject editorial notes from feedback if present
@@ -687,9 +774,11 @@ _GAMING_SOURCES = {"IGN", "VGC", "Eurogamer", "Kotaku", "PC Gamer", "Ars Technic
                    "Siliconera", "Time Extension", "Gematsu", "Automaton"}
 
 # ── Tier enforcement ───────────────────────────────────────────────────────────
-def enforce_tier(story: dict, cluster: dict) -> str:
+def enforce_tier(story: dict, cluster: dict, priority_tags: dict = None) -> str:
     tier      = story["tier"]
     relevance = story["relevance"]
+    if priority_tags is None:
+        priority_tags = {}
 
     # Gaming press boost: +1 relevance if any gaming source is in the cluster
     if any(s in _GAMING_SOURCES for s in cluster["sources"]):
@@ -705,6 +794,24 @@ def enforce_tier(story: dict, cluster: dict) -> str:
         if s not in _TIER2_SET:
             t1_pubs.add(s)
             weighted_t1 += w
+
+    # Validate proven_topic: check Claude's TOPIC against the Polygon performance sheet.
+    # If the sheet is loaded, the topic must match a tag with sufficient S/A.
+    # If sheet is empty (not yet set up), trust Claude's judgment unconditionally.
+    if tier == "proven_topic" and priority_tags:
+        claude_topic = (story.get("topic") or "").strip().lower()
+        matched_tags = match_cluster_tags(cluster, priority_tags)
+        valid = None
+        if claude_topic and claude_topic in priority_tags:
+            valid = {"tag": claude_topic, **priority_tags[claude_topic]}
+        if valid is None:
+            valid = next((m for m in matched_tags), None)
+        if not valid:
+            log.info(f"Demote proven_topic→polygon_pick (topic '{claude_topic}' not in sheet): {story['headline'][:60]}")
+            tier = "polygon_pick"
+        else:
+            story["_validated_tag"] = valid
+            log.info(f"proven_topic validated: '{valid['tag']}' S/A={valid['sa']:,.0f}")
 
     # Validate trending: needs 2+ weighted T1 sources or 3+ weighted total.
     # Corporate half-weighting means two PMC mastheads = 1.0 weighted T1, not 2 —
@@ -1001,7 +1108,16 @@ def run():
 
     learnings = load_learnings()
 
-    # 1. Process feedback
+    # 1. Load priority topic tags from Polygon performance sheet (optional)
+    priority_tags: dict = {}
+    if _GOOGLE_AVAILABLE and _SHEETS_CFG.get("sheet_id"):
+        try:
+            svc = _sheets_service()
+            priority_tags = load_tag_performance(svc)
+        except Exception as e:
+            log.warning(f"Could not load Polygon priority tags: {e}")
+
+    # 2. Process feedback
     process_feedback(learnings)
     synthesize_editorial_notes(learnings)
     save_learnings(learnings)
@@ -1071,7 +1187,7 @@ def run():
 
     # 6c. Claude Call 2: editorial assessment
     log.info(f"Claude call 2: assessing {len(clusters_to_assess)} clusters...")
-    assessments = claude_assess_clusters(clusters_to_assess, learnings)
+    assessments = claude_assess_clusters(clusters_to_assess, learnings, priority_tags)
 
     # 7. Tier enforcement + post
     posted           = 0
@@ -1087,7 +1203,7 @@ def run():
         return False
 
     for cluster, assessment in zip(clusters_to_assess, assessments):
-        tier = enforce_tier(assessment, cluster)
+        tier = enforce_tier(assessment, cluster, priority_tags)
 
         if tier == "skip":
             log.info(f"⏭ Skip (rel={assessment['relevance']}, claude_tier={assessment['tier']}): {assessment['headline'][:60]}")

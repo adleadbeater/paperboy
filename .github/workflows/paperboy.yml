@@ -29,11 +29,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Write Google service account key
+        run: echo '${{ secrets.GOOGLE_CREDENTIALS_JSON }}' > paperboy-key.json
+
       - name: Run Polygon Scout
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           POLYGON_SLACK_WEBHOOK: ${{ secrets.POLYGON_SLACK_WEBHOOK }}
           POLYGON_SLACK_BOT_TOKEN: ${{ secrets.POLYGON_SLACK_BOT_TOKEN }}
+          GOOGLE_APPLICATION_CREDENTIALS: paperboy-key.json
         run: python paperboy.py
 
       - name: Commit updated learnings and seen GUIDs
