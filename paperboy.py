@@ -55,6 +55,14 @@ TIER_1_SOURCES, TIER_2_SOURCES = _load_feeds()
 ALL_SOURCES     = {**TIER_1_SOURCES, **TIER_2_SOURCES}
 _TIER2_SET      = set(TIER_2_SOURCES.keys())
 
+# Corporate half-weighting: outlets owned by the same parent count as 0.5 toward
+# trending thresholds so one company can't manufacture a "Breaking Story" alone.
+_HALF_WEIGHT_SOURCE = {
+    src: parent
+    for parent, srcs in _CFG.get("corporate_half_weight", {}).items()
+    for src in srcs
+}
+
 _CLAUDE_CFG     = _CFG["claude"]
 _SCORING        = _CFG["scoring"]
 _SLACK_CFG      = _CFG["slack"]
@@ -651,14 +659,14 @@ def _parse_assessments(text: str, expected: int, clusters: list) -> List[dict]:
     return results
 
 def _fallback_assessment(cluster: dict) -> dict:
-    n_t1 = sum(1 for i in cluster["items"] if i["source_tier"] == 1)
+    n_pubs = len({i["source_name"] for i in cluster["items"]})
     return {
-        "tier":      "trending" if n_t1 >= 3 else "skip",
-        "relevance": 7 if n_t1 >= 3 else 3,
+        "tier":      "trending" if n_pubs >= 3 else "skip",
+        "relevance": 7 if n_pubs >= 3 else 3,
         "headline":  cluster["headline"],
         "angle":     "",
         "topic":     "",
-        "note":      f"fallback — Claude unavailable ({n_t1} T1 sources)",
+        "note":      f"fallback — Claude unavailable ({n_pubs} publishers)",
     }
 
 # Entertainment trade outlets — corroborate each other on non-gaming stories
@@ -679,16 +687,21 @@ def enforce_tier(story: dict, cluster: dict) -> str:
         relevance = min(relevance + 1, 10)
         log.info(f"Gaming boost applied → relevance={relevance}: {story['headline'][:60]}")
 
-    t1_pubs = set()
-    total   = 0
+    t1_pubs        = set()
+    weighted_t1    = 0.0
+    weighted_total = 0.0
     for s in cluster["sources"]:
-        total += 1
+        w = 0.5 if s in _HALF_WEIGHT_SOURCE else 1.0
+        weighted_total += w
         if s not in _TIER2_SET:
             t1_pubs.add(s)
+            weighted_t1 += w
 
-    # Validate trending: needs 2+ T1 sources or 3+ total
-    if tier == "trending" and len(t1_pubs) < 2 and total < 3:
-        log.info(f"Demote trending→polygon_pick ({len(t1_pubs)} T1, {total} total): {story['headline'][:60]}")
+    # Validate trending: needs 2+ weighted T1 sources or 3+ weighted total.
+    # Corporate half-weighting means two PMC mastheads = 1.0 weighted T1, not 2 —
+    # so a pair of trades alone can't trigger trending without independent coverage.
+    if tier == "trending" and weighted_t1 < 2 and weighted_total < 3:
+        log.info(f"Demote trending→polygon_pick (T1={weighted_t1:g} wt, total={weighted_total:g} wt): {story['headline'][:60]}")
         tier = "polygon_pick"
 
     # Validate polygon_pick: needs at least 1 T1 source or 2+ total

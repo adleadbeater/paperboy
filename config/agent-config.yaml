@@ -22,3 +22,19 @@ sheets:
 slack:
   channel_id: "C0B9K83B6TX"
   post_enabled: true
+
+corporate_half_weight:
+  # Outlets owned by the same corporate parent count as 0.5 each toward the
+  # trending source threshold — so one company publishing the same story across
+  # its mastheads can't manufacture a "Breaking Story" on its own.
+  PMC:            # Penske Media — entertainment trades
+    - Deadline
+    - Variety
+    - Hollywood Reporter
+  Future:         # Future plc — gaming press
+    - PC Gamer
+    - GamesRadar
+  Hookshot:       # Hookshot Media — platform-specific Nintendo/PlayStation sites
+    - Nintendo Life
+    - Push Square
+    - Time Extension
