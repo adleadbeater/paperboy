@@ -238,6 +238,16 @@ def load_watched_topics(svc) -> dict:
     return topics
 
 
+# Syndication aggregators — block from Google News results
+_GNEWS_SOURCE_BLOCKLIST = {
+    s.lower() for s in [
+        "AOL", "AOL.com", "Yahoo", "Yahoo Entertainment", "Yahoo News",
+        "Yahoo Movies", "Yahoo Finance", "MSN", "MSN.com",
+        "Newser", "Flipboard", "SmartNews",
+    ]
+}
+
+
 def fetch_google_news_topics(topics: dict) -> list:
     """
     Fetch Google News RSS for each watched topic specific enough to search.
@@ -245,6 +255,7 @@ def fetch_google_news_topics(topics: dict) -> list:
     """
     skip_types = set(_PERENNIALS_CFG.get("skip_search_types", ["Genre", "Service", "Other"]))
     lookback   = _PERENNIALS_CFG.get("gnews_lookback", "2h")
+    cutoff     = datetime.now(timezone.utc) - timedelta(minutes=LOOKBACK_MINS)
     items: list = []
 
     searchable = {k: v for k, v in topics.items() if v["type"] not in skip_types}
@@ -272,14 +283,27 @@ def fetch_google_news_topics(topics: dict) -> list:
                 else:
                     title = title_raw
 
+                # Block syndication aggregators
+                if source_name.lower() in _GNEWS_SOURCE_BLOCKLIST:
+                    continue
+
                 pub = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
                 if pub:
                     pub_dt = datetime(*pub[:6], tzinfo=timezone.utc)
                 else:
                     pub_dt = datetime.now(timezone.utc)
 
+                # Enforce same lookback window as regular RSS
+                if pub_dt < cutoff:
+                    continue
+
                 guid = getattr(entry, "id", None) or getattr(entry, "link", None) or title
                 link  = getattr(entry, "link", "")
+
+                # Strip Google News redirect URLs
+                if link and "news.google.com" in link:
+                    link = ""
+
                 items.append({
                     "guid":         guid,
                     "title":        title,
@@ -973,18 +997,21 @@ def enforce_tier(story: dict, cluster: dict, priority_tags: dict = None,
         relevance = min(relevance + 1, 10)
         log.info(f"Gaming boost applied → relevance={relevance}: {story['headline'][:60]}")
 
-    # Watched-topic relevance boost (perennial +1, new release +1/+2 near launch)
+    # Watched-topic relevance boost — only when Claude's TOPIC matches a watched
+    # topic. Mechanical substring matching is too loose (a story mentioning a topic
+    # in passing isn't *about* that topic). Claude decides; Python validates.
     if watched_topics and tier != "skip":
-        topic_matches = match_watched_topics(cluster, watched_topics)
-        if topic_matches:
-            best_boost = max(m["boost"] for m in topic_matches)
-            if best_boost > 0:
-                old_rel = relevance
-                relevance = min(relevance + best_boost, 10)
-                names = ", ".join(m["name"] for m in topic_matches)
-                log.info(f"Topic boost +{best_boost} (rel {old_rel}→{relevance}): {names} — {story['headline'][:50]}")
-                best_cat = next((m["category"] for m in topic_matches if m["boost"] == best_boost), "perennial")
-                story["_topic_boost"] = {"topics": [m["name"] for m in topic_matches], "boost": best_boost, "category": best_cat}
+        claude_topic = (story.get("topic") or "").strip().lower()
+        matched_topic = watched_topics.get(claude_topic)
+        if matched_topic and matched_topic["boost"] > 0:
+            old_rel = relevance
+            relevance = min(relevance + matched_topic["boost"], 10)
+            log.info(f"Topic boost +{matched_topic['boost']} (rel {old_rel}→{relevance}): {matched_topic['name']} — {story['headline'][:50]}")
+            story["_topic_boost"] = {
+                "topics":   [matched_topic["name"]],
+                "boost":    matched_topic["boost"],
+                "category": matched_topic["category"],
+            }
 
     t1_pubs        = set()
     weighted_t1    = 0.0
@@ -1019,6 +1046,12 @@ def enforce_tier(story: dict, cluster: dict, priority_tags: dict = None,
     # so a pair of trades alone can't trigger trending without independent coverage.
     if tier == "trending" and weighted_t1 < 2 and weighted_total < 3:
         log.info(f"Demote trending→polygon_pick (T1={weighted_t1:g} wt, total={weighted_total:g} wt): {story['headline'][:60]}")
+        tier = "polygon_pick"
+
+    # Topic-boosted clusters cannot trend — watched topics should only surface
+    # as proven_topic or polygon_pick, never as "Breaking Story."
+    if tier == "trending" and story.get("_topic_boost"):
+        log.info(f"Demote trending→polygon_pick (topic-boosted clusters cannot trend): {story['headline'][:60]}")
         tier = "polygon_pick"
 
     # Validate polygon_pick: needs at least 1 T1 source or 2+ total
