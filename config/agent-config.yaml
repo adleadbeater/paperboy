@@ -25,6 +25,23 @@ slack:
   channel_id: "C0B9K83B6TX"
   post_enabled: true
 
+perennials:
+  sheet_id: "1xn1Ksy_ObO4o95rfuUZSIVHku2b5Ix5PsME9eU7J4MM"
+  perennials_tab: "Perennials Performance Tracking"
+  new_release_tab: "New Release Performance Tracking"
+  data_start_row: 7
+  boost_perennial: 1
+  boost_new_release: 1
+  boost_new_release_hot: 2
+  hot_window_days: 3
+  release_window_before: 14
+  release_window_after: 42
+  gnews_lookback: "2h"
+  skip_search_types:
+    - Genre
+    - Service
+    - Other
+
 corporate_half_weight:
   # Outlets owned by the same corporate parent count as 0.5 each toward the
   # trending source threshold — so one company publishing the same story across
