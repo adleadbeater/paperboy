@@ -720,70 +720,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.videogameschronicle.com/?p=240679",
-      "title": "Olivia Rodrigo is the latest musician to arrive in Fortnite as a playable character",
-      "url": "https://www.videogameschronicle.com/news/olivia-rodrigo-is-the-latest-musician-to-arrive-in-fortnite-as-a-playable-character/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-06-25T11:50:14+00:00"
-    },
-    {
-      "guid": "nhZenEQ94VBBNa6MHBfGaY",
-      "title": "Valve wasn't sure it was gonna have any Steam Machines to sell at the start of 2026: 'Things looked really dire'",
-      "url": "https://www.pcgamer.com/hardware/steam-machines/valve-wasnt-sure-it-was-gonna-have-any-steam-machines-to-sell-at-the-start-of-2026-things-looked-really-dire/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-25T11:37:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236964904",
-      "title": "\u2018Ghostbusters\u2019 Animated Series Team Say Their Show Sticks To Canon While Being \u201cAs Funny & Scary As Anything You\u2019ve Ever Seen\u201d From The Franchise",
-      "url": "https://deadline.com/2026/06/ghostbusters-team-netflix-animated-series-dan-aykroyd-1236964904/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-25T12:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236967208",
-      "title": "Ajay Devgn To Star In Jio Studios & Colour Yellow Action Pic \u2018Chauhaan\u2019; October 2027 Release Date Set",
-      "url": "https://deadline.com/2026/06/ajay-devgn-chauhaan-jio-studios-colour-yellow-productions-1236967208/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-25T11:25:42+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236789991",
-      "title": "LISTEN: \u2018Abbott Elementary\u2019 Exec Producer Justin Halpern Juggles Multiple Series and His Debut Novel",
-      "url": "https://variety.com/2026/tv/news/justin-halpern-get-lost-abbott-elementary-daily-variety-1236789991/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-25T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-202294",
-      "title": "Guide: Star Fox Routes Walkthrough And Alternate Routes Map For Every Stage",
-      "url": "https://www.nintendolife.com/guides/star-fox-walkthrough-routes-map-alternate-paths-switch-2",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-06-25T11:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-202872",
-      "title": "Here Are The Specs & Launch Prices For The Retroid Pocket Nova, Retroid's New 4:3 Handheld",
-      "url": "https://www.timeextension.com/news/2026/06/here-are-the-specs-and-launch-prices-for-the-retroid-pocket-nova-retroids-new-43-handheld",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-06-25T11:30:00+00:00"
-    },
-    {
-      "guid": "https://www.tribality.com/?p=37775",
-      "title": "Free RPG Day 2026 is on June 27",
-      "url": "https://www.tribality.com/2026/06/25/free-rpg-day-2026-is-on-june-27/",
-      "source_name": "Tribality",
-      "source_tier": 2,
-      "published_dt": "2026-06-25T11:38:56+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000710491",
       "title": "Grand Theft Auto 6\u2019s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It",
       "url": "https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491",
@@ -1046,6 +982,254 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-25T13:50:43+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000710535",
+      "title": "The Internet Reacts To Mass Cuts At Bungie After The End Of Destiny 2",
+      "url": "https://kotaku.com/destiny-2-bungie-marathon-layoffs-sony-playstation-react-2000710535",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T15:46:03+00:00"
+    },
+    {
+      "guid": "kSg7kqg7x9t7o8KczWkBz5",
+      "title": "Valve says Steam Machine won't have 'as long of a timeframe' as Steam Deck, and new models are 'just a matter of when it makes sense'",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/valve-says-steam-machine-wont-have-as-long-of-a-timeframe-as-steam-deck-and-new-models-are-just-a-matter-of-when-it-makes-sense/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:11:11+00:00"
+    },
+    {
+      "guid": "PdanRefYjgkznk7KqwAdMj",
+      "title": "We should all be happy that GTA 6 isn't launching with multiplayer",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/we-should-all-be-happy-that-gta-6-isnt-launching-with-multiplayer/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:09:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967255",
+      "title": "Harold Wheeler Dies: Longtime \u2018Dancing With The Stars\u2019 Musical Director & Prolific Broadway Tony Winner Was 82",
+      "url": "https://deadline.com/2026/06/harold-wheeler-dead-1236967255/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:02:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967374",
+      "title": "Neon Sets Oscar Season Release Dates For James Gray\u2019s \u2018Paper Tiger\u2019, Cannes Palme D\u2019Or Winner \u2018Fjord\u2019",
+      "url": "https://deadline.com/2026/06/scarlett-johansson-paper-tiger-sebastian-stan-fjord-release-date-1236967374/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:00:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967092",
+      "title": "Ben Feldman Upped To Series Regular For \u2018Ghosts\u2019 Season 6",
+      "url": "https://deadline.com/2026/06/ben-feldman-upped-series-regular-ghosts-season-6-1236967092/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967169",
+      "title": "\u2018Remake\u2019 Trailer: In Father-Son Story, Director Ross McElwee Explores \u201cUneasy Space Between Documenting Life And Understanding It\u201d",
+      "url": "https://deadline.com/2026/06/remake-trailer-exclusive-1236967169/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236915108",
+      "title": "Everything We Know About Prime Video\u2019s \u2018Boys Of Tommen\u2019 Adaptation So Far",
+      "url": "https://deadline.com/feature/boys-of-tommen-news-updates-adaptation-prime-video-1236915108/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T15:55:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967269",
+      "title": "Director John Herzfeld Teams With Producers Chase Vergari & Eric Handler On Horror-Thriller \u2018Specimen\u2019",
+      "url": "https://deadline.com/2026/06/john-herzfeld-chase-vergari-eric-handler-specimen-film-1236967269/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T15:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236790029",
+      "title": "James Gray\u2019s Cannes Title \u2018Paper Tiger,\u2019 Starring Adam Driver and Scarlett Johansson, Gets November Release Date From Neon",
+      "url": "https://variety.com/2026/film/news/james-gray-paper-tiger-release-date-neon-1236790029/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236790522",
+      "title": "Jay-Z Documentary Series Set at HBO",
+      "url": "https://variety.com/2026/music/news/jay-z-documentary-series-rick-rubin-hbo-jay-z-in-8-1236790522/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236790528",
+      "title": "Prosecutors Drop Harvey Weinstein Rape Charge After Two Juries Deadlocked",
+      "url": "https://variety.com/2026/film/news/harvey-weinstein-rape-charge-dropped-1236790528/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T15:52:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236790285",
+      "title": "\u2018Coffin Confessor\u2019 TV Series in the Works at Fifth Season, Based on True Story of Man Paid to Crash Funerals and Reveal Secrets of the Dead (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/coffin-confessor-tv-series-fifth-season-bill-edgar-1236790285/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T15:50:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236629968",
+      "title": "Maite Perroni\u2019s \u2018Belleza\u2019 Lands at Lionsgate For Foreign TV Sales",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/maite-perronis-belleza-lionsgate-1236629968/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236630534",
+      "title": "Jalen Brunson, Lionel Messi, Mikaela Shiffrin and Shohei Ohtani Among ESPY Nominees",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-espy-nominees-1236630534/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236630588",
+      "title": "Lionel Richie Abruptly Ends Concert After Falling Ill On Stage",
+      "url": "https://www.hollywoodreporter.com/music/music-news/lionel-richie-ends-concert-ill-1236630588/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T15:47:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236630585",
+      "title": "Harold Wheeler, Legendary Broadway Orchestrator, Dies at 83",
+      "url": "https://www.hollywoodreporter.com/music/music-news/harold-wheeler-dead-broadway-orchestrator-1236630585/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T15:42:24+00:00"
+    },
+    {
+      "guid": "6eixBKDQ5zXeKZRpJsyvGN",
+      "title": "New Path of Exile 2 update adds yet another skill tree on top of making unique items easier to use in order to \"open up a whole bunch of builds\" in the action RPG",
+      "url": "https://www.gamesradar.com/games/action-rpg/new-path-of-exile-2-update-adds-yet-another-skill-tree-on-top-of-making-unique-items-easier-to-use-in-order-to-open-up-a-whole-bunch-of-builds-in-the-action-rpg/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:10:51+00:00"
+    },
+    {
+      "guid": "CiG8QLCo4wYb22PGbJcVvg",
+      "title": "From the Prequel Trilogy to The Mandalorian and Grogu, here are the Lego Star Wars Prime Day deals I'd grab",
+      "url": "https://www.gamesradar.com/hardware/from-the-prequel-trilogy-to-the-mandalorian-and-grogu-here-are-the-lego-star-wars-prime-day-deals-id-grab/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:05:04+00:00"
+    },
+    {
+      "guid": "NEAwccDBTTkJAPh5XzVUAQ",
+      "title": "1 month after launch, my favorite indie Sims 4 competitor has sold 1 million copies \u2013 and only 170 \"naked Charlies\" showed up uninvited",
+      "url": "https://www.gamesradar.com/games/simulation/1-month-after-launch-my-favorite-indie-sims-4-competitor-has-sold-1-million-copies-and-only-170-naked-charlies-showed-up-uninvited/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:02:36+00:00"
+    },
+    {
+      "guid": "kCWpf2KZKbnoLN6UDiYpTM",
+      "title": "The DCU gets its first Rotten Tomatoes score failure after 2 movies with Supergirl, something that took the MCU 13 years and 26 movies",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/the-dcu-gets-its-first-rotten-tomatoes-score-failure-after-2-movies-with-supergirl-something-that-took-the-mcu-13-years-and-26-movies/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:02:03+00:00"
+    },
+    {
+      "guid": "ifGDpndLsEHetzjpifQtBL",
+      "title": "All of the GTA 6 weapons we've seen so far",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapons/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T15:52:03+00:00"
+    },
+    {
+      "guid": "RfMAjd9bc4pDcQBdUby5df",
+      "title": "I'm a PC gamer with GTA 6 FOMO, so I've found 9 peripherals you can buy for the same price or less \u2013 while they're on sale",
+      "url": "https://www.gamesradar.com/platforms/pc-gaming/im-a-pc-gamer-with-gta-6-fomo-so-ive-found-9-peripherals-you-can-buy-for-the-same-price-or-less-while-theyre-on-sale/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T15:49:15+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-202778",
+      "title": "Guide: How Star Fox amiibo Unlocks Work On Switch 2",
+      "url": "https://www.nintendolife.com/guides/star-fox-amiibo-unlocks-rewards-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T15:50:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203049",
+      "title": "Japanese Charts: Combined Console Sales Put The Adventures Of Elliot On Top",
+      "url": "https://www.nintendolife.com/news/2026/06/japanese-charts-combined-console-sales-put-the-adventures-of-elliot-on-top",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118542",
+      "title": "Star Fox Day One Patch Adds Campaign Easy Difficulty and Battle Mode",
+      "url": "https://www.siliconera.com/star-fox-day-one-patch-adds-campaign-easy-difficulty-and-battle-mode/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1061262",
+      "title": "Voyagers of Nera coming to PS5, Xbox Series in early 2027",
+      "url": "https://www.gematsu.com/2026/06/voyagers-of-nera-coming-to-ps5-xbox-series-in-early-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T15:42:38+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=68804",
+      "title": "Japanese indie roguelite ENDLESS SAMURAI adds a turn-based twist to Soulslike parrying mechanics",
+      "url": "https://automaton-media.com/en/news/japanese-indie-roguelite-endless-samurai-adds-a-turn-based-twist-to-soulslike-parrying-mechanics/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740151",
+      "title": "Dragon Striker Creators Say the Show Was Originally Pitched as a Magical Rugby Series",
+      "url": "https://otakukart.com/dragon-striker-creators-say-the-show-was-originally-pitched-as-a-magical-rugby-series/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:01:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740145",
+      "title": "ARC Raiders Replaces Expedition Skill Points With Blueprints and Raider Tokens in Fourth Expedition",
+      "url": "https://otakukart.com/arc-raiders-fourth-expedition-revealed-new-mystery-rewards-zenith-outfit-blueprints-and-july-departure-schedule-confirmed/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T15:46:46+00:00"
+    },
+    {
+      "guid": "t3_1ufeb20",
+      "title": "Mike Straw (Insider-Gaming.com): ID@Xbox team hit by layoffs",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ufeb20/mike_straw_insidergamingcom_idxbox_team_hit_by/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T16:05:30+00:00"
     }
   ]
 }
