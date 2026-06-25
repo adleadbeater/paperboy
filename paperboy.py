@@ -300,10 +300,6 @@ def fetch_google_news_topics(topics: dict) -> list:
                 guid = getattr(entry, "id", None) or getattr(entry, "link", None) or title
                 link  = getattr(entry, "link", "")
 
-                # Strip Google News redirect URLs
-                if link and "news.google.com" in link:
-                    link = ""
-
                 items.append({
                     "guid":         guid,
                     "title":        title,
@@ -1290,25 +1286,41 @@ def post_to_slack(cluster: dict, assessment: dict, tier: str) -> bool:
     span          = int((max(published_dts) - oldest).total_seconds() / 60)
 
     sources_str = " · ".join(sorted(cluster["sources"]))
-    span_str    = f"  |  Coverage window: {span} mins" if span > 5 else ""
+    span_str    = f"  ·  Coverage window: {span} mins" if span > 5 else ""
 
-    lines = [
-        f"{tier_label} — {assessment['headline']}",
-        f"Sources: {sources_str}",
-        f"First Seen: {mins_ago} mins ago{span_str}",
-    ]
+    # ── Build Slack Block Kit payload ──
+    blocks = []
+
+    # Main headline
+    blocks.append({"type": "section", "text": {
+        "type": "mrkdwn",
+        "text": f"{tier_label} — *{assessment['headline']}*",
+    }})
+
+    # Sources + angle (primary info)
+    body_lines = [f"*Sources:* {sources_str}"]
     if assessment.get("angle"):
-        lines.append(f"Angle: {assessment['angle']}")
+        body_lines.append(f"*Angle:* {assessment['angle']}")
+    blocks.append({"type": "section", "text": {
+        "type": "mrkdwn",
+        "text": "\n".join(body_lines),
+    }})
+
+    # Smaller metadata — context block
+    meta_parts = [f"First seen {mins_ago} mins ago{span_str}"]
     if assessment.get("topic"):
-        lines.append(f"Topic: {assessment['topic']}")
+        meta_parts.append(f"Topic: {assessment['topic']}")
     topic_boost = assessment.get("_topic_boost")
     if topic_boost:
         names = ", ".join(topic_boost["topics"])
-        if topic_boost.get("category") == "new_release":
-            lines.append(f"🆕 *New Release:* {names} _(+{topic_boost['boost']} boost)_")
-        else:
-            lines.append(f"📌 *Perennial Topic:* {names} _(+{topic_boost['boost']} boost)_")
+        category = topic_boost.get("category", "perennial")
+        label = "New Release" if category == "new_release" else "Perennial Topic"
+        meta_parts.append(f"{label}: {names}")
+    blocks.append({"type": "context", "elements": [
+        {"type": "mrkdwn", "text": "  ·  ".join(meta_parts)}
+    ]})
 
+    # Articles in cluster
     t1_items = sorted(
         [it for it in items if it["source_tier"] == 1 and not it.get("_from_cache")],
         key=lambda x: x["published_dt"],
@@ -1317,24 +1329,36 @@ def post_to_slack(cluster: dict, assessment: dict, tier: str) -> bool:
         [it for it in items if not it.get("_from_cache")],
         key=lambda x: x["published_dt"],
     )
-    article_lines = []
-    for it in display_items[:4]:
-        article_lines.append(f"  › [{it['source_name']}] {it['title'][:90]}")
+    article_lines = [f"  › [{it['source_name']}] {it['title'][:90]}" for it in display_items[:4]]
     if article_lines:
-        lines.append("In this cluster:")
-        lines.extend(article_lines)
+        blocks.append({"type": "section", "text": {
+            "type": "mrkdwn",
+            "text": "*In this cluster:*\n" + "\n".join(article_lines),
+        }})
 
+    # Best URL — show Google News redirects as "Search Link"
     best_url = ""
     for it in display_items:
         if it.get("url"):
             best_url = it["url"]
             break
     if best_url:
-        lines.append(best_url)
-    lines.append("—" * 44)
+        if "news.google.com" in best_url:
+            url_text = f"<{best_url}|Search Link>"
+        else:
+            url_text = best_url
+        blocks.append({"type": "section", "text": {
+            "type": "mrkdwn", "text": url_text,
+        }})
 
+    blocks.append({"type": "divider"})
+
+    fallback_text = f"{tier_label} — {assessment['headline']}"
     try:
-        r = requests.post(SLACK_WEBHOOK, json={"text": "\n".join(lines)}, timeout=15)
+        r = requests.post(SLACK_WEBHOOK, json={
+            "text":   fallback_text,
+            "blocks": blocks,
+        }, timeout=15)
         r.raise_for_status()
         return True
     except Exception as e:
