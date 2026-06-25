@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Richard Linklater to Get Lifetime Achievement Honor at Zurich Film Fest",
-      "tag": "",
-      "posted_at": "2026-06-18T13:30:49.399453+00:00",
-      "urls": [
-        "https://deadline.com/2026/06/richard-linklater-zurich-honorary-award-1236959110/",
-        "https://variety.com/2026/film/global/richard-linklater-zurich-film-festival-1236784901/",
-        "https://www.hollywoodreporter.com/movies/movie-news/richard-linklater-zurich-lifetime-honor-boyhood-hit-man-1236624095/"
-      ],
-      "article_titles": [
-        "Richard Linklater Set For Zurich Film Festival Honorary Award",
-        "Richard Linklater to Be Honored at Zurich Film Festival",
-        "Richard Linklater to Get Lifetime Achievement Honor at Zurich Film Fest"
-      ]
-    },
-    {
       "headline": "\u2018Brothers\u2019 First Look: Matthew McConaughey and Woody Harrelson Reunite After \u2018True Detective\u2019 as Apple TV Comedy Sets September Release",
       "tag": "",
       "posted_at": "2026-06-18T14:00:51.411070+00:00",
@@ -696,6 +681,17 @@
       "article_titles": [
         "PSA: Deltarune Chapter 5 Is Now Available For Switch 1 & 2, Crash Issue Identified"
       ]
+    },
+    {
+      "headline": "GTA 6's Physical Code-in-a-Box Is Already Sold Out and Scalpers Are Circling",
+      "tag": "grand theft auto 6",
+      "posted_at": "2026-06-25T13:33:22.957142+00:00",
+      "urls": [
+        "https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491"
+      ],
+      "article_titles": [
+        "Grand Theft Auto 6\u2019s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -764,6 +760,190 @@
       "source_name": "Tribality",
       "source_tier": 2,
       "published_dt": "2026-06-25T11:38:56+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000710491",
+      "title": "Grand Theft Auto 6\u2019s Code In A Box Is Somehow Already Selling Out On PS5, And Scalpers Have Their Eye On It",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-pre-orders-physical-disc-scalper-2000710491",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:26:48+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000710479",
+      "title": "My Crush On Star Fox 64 Explains Why Nintendo Keeps Remaking It",
+      "url": "https://kotaku.com/my-crush-on-star-fox-64-explains-why-nintendo-keeps-remaking-it-2000710479",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967251",
+      "title": "\u2018Boys Of Tommen\u2019: Prime Video\u2019s Latest Big YA Bet Adds More Cast",
+      "url": "https://deadline.com/2026/06/boys-of-tommen-prime-video-adds-cast-chloe-walsh-adaptation-1236967251/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:31:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967245",
+      "title": "\u2018Sense And Sensibility\u2019 Trailer: Daisy Edgar-Jones Leads The Latest Jane Austen Revival",
+      "url": "https://deadline.com/2026/06/sense-and-sensibility-trailer-daisy-edgar-jones-jane-austen-1236967245/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:11:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236790361",
+      "title": "Blood, Sweat & Tears Singer David Clayton-Thomas Dies at 84",
+      "url": "https://variety.com/2026/music/news/david-clayton-thomas-dead-blood-sweat-tears-1236790361/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:32:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236783764",
+      "title": "\u2018Jackass: Best and Last\u2019 Review: Boys Will Still Be Boys, but Only Just, in an Amusing, Somewhat Wistful Farewell",
+      "url": "https://variety.com/2026/film/reviews/jackass-best-and-last-review-1236783764/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236789668",
+      "title": "\u2018Jet Lag: The Game\u2019 Season 19 to Premiere at Picturehouse Cinemas in London (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/jet-lag-season-19-premiere-picturehouse-cinemas-london-1236789668/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236790011",
+      "title": "\u2018The Hawk\u2019 Trailer: Will Ferrell Stars as a Washed-Up Golf Pro in New Netflix Comedy Series",
+      "url": "https://variety.com/2026/tv/news/the-hawk-trailer-will-ferrell-golf-netflix-comedy-series-1236790011/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236790015",
+      "title": "Massive Joy Division Boxed Set of Concert Recordings Due in September",
+      "url": "https://variety.com/2026/music/news/joy-division-live-boxed-set-september-1236790015/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236627339",
+      "title": "IFC Acquires Rupert Grint Horror Film \u2018Nightborn\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ifc-buys-rupert-grint-horror-film-nightborn-1236627339/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236629628",
+      "title": "\u2018Jackass: Best and Last\u2019 Review: Johnny Knoxville and Gang Reunite for One Final (Fingers Crossed) High-Risk Hurrah",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/jackass-best-and-last-review-johnny-knoxville-steve-o-1236629628/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236630318",
+      "title": "Televerse Sets \u2018Revenge\u2019 and \u2018My So-Called Life\u2019 Reunions, Additional Programming (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/televerse-revenge-my-so-called-life-reunions-1236630318/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "pWrGWUQATYMdwQof54oKCd",
+      "title": "Deltarune Chapter 5 update stops flirting from freezing the game and makes the final boss easier if you suck",
+      "url": "https://www.gamesradar.com/games/rpg/deltarune-chapter-5-update-stops-flirting-from-freezing-the-game-and-makes-the-final-boss-easier-if-you-suck/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:17:57+00:00"
+    },
+    {
+      "guid": "P5kxfM3MagTEQai97uViiX",
+      "title": "Epic Games boss calls Steam AI disclosures \"really irresponsible of Valve\" as they make it \"much, much, much harder for a game developer to have a chance of success\"",
+      "url": "https://www.gamesradar.com/games/epic-games-boss-calls-steam-ai-disclosures-really-irresponsible-of-valve-as-they-make-it-much-much-much-harder-for-a-game-developer-to-have-a-chance-of-success/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:07:49+00:00"
+    },
+    {
+      "guid": "HdB2cx9GjkbMpz9hDAyPaF",
+      "title": "Want a gaming set-up on the go? These Prime Day portable monitor deals are ready to help",
+      "url": "https://www.gamesradar.com/hardware/want-a-gaming-set-up-on-the-go-these-prime-day-portable-monitor-deals-are-ready-to-help/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:06:12+00:00"
+    },
+    {
+      "guid": "1802983",
+      "title": "Deltarune Chapter 5 Is Going Off On Steam",
+      "url": "https://www.gamespot.com/articles/deltarune-chapter-5-is-going-off-on-steam/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:19:57+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203039",
+      "title": "Sony's Japan-Exclusive PS5 Is Losing Money, Cheaper Than a Switch 2",
+      "url": "https://www.pushsquare.com/news/2026/06/sonys-japan-exclusive-ps5-is-losing-money-cheaper-than-a-switch-2",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118329",
+      "title": "Rare Edition Super Pocket is a Banjo-Kazooie Showpiece",
+      "url": "https://www.siliconera.com/rare-edition-super-pocket-is-a-banjo-kazooie-showpiece/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203033",
+      "title": "Konami's International Superstar Soccer Gets Updated For The 2026 World Cup",
+      "url": "https://www.timeextension.com/news/2026/06/konamis-international-superstar-soccer-gets-updated-for-the-2026-world-cup",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1061163",
+      "title": "Enshrouded launches October 15 for PS5 and PC, in spring 2027 for Xbox Series",
+      "url": "https://www.gematsu.com/2026/06/enshrouded-launches-october-15-for-ps5-and-pc-in-spring-2027-for-xbox-series",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:20:47+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1061135",
+      "title": "Famitsu Sales: 6/15/26 \u2013 6/21/26",
+      "url": "https://www.gematsu.com/2026/06/famitsu-sales-6-15-26-6-21-26",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:16:07+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=68773",
+      "title": "\u201cHer breasts are huge, but I\u2019m about to get killed.\u201d SAEKO: Giantess Dating Sim devs on striking balance between terror and arousal",
+      "url": "https://automaton-media.com/en/news/her-breasts-are-huge-but-im-about-to-get-killed-saeko-giantess-dating-sim-devs-on-striking-balance-between-terror-and-arousal/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T13:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740100",
+      "title": "Taimanin Squad\u2019s June 25 Update Adds Arena Tower, New Character Francis, and More Rewards",
+      "url": "https://otakukart.com/taimanin-squads-june-25-update-adds-arena-tower-new-character-francis-and-more-rewards/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-25T12:58:28+00:00"
     }
   ]
 }
