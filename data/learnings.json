@@ -526,14 +526,6 @@
       "published_dt": "2026-06-26T20:00:13+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236968654",
-      "title": "Everything We Know About Netflix\u2019s New \u2018Pride & Prejudice\u2019 Series So Far",
-      "url": "https://deadline.com/feature/netflix-pride-amp-prejudice-series-news-updates-1236968654/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-26T19:42:39+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236789903",
       "title": "Chef Sean Brock Reveals the 5 Fats That Flavor the Essential Fried Chicken at Darling Restaurant, Why He\u2019s Obsessed With Vinyl and His Scary Dolly Parton Story",
       "url": "https://variety.com/2026/music/features/darling-restaurant-sean-brock-dolly-parton-1236789903/",
@@ -556,22 +548,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-26T20:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236791507",
-      "title": "\u2018Five Nights at Freddy\u2019s 3\u2019 Lands \u2018It\u2019 and \u2018Annabelle\u2019 Screenwriter Gary Dauberman",
-      "url": "https://variety.com/2026/film/news/five-nights-at-freddys-3-it-annabelle-screenwriter-gary-dauberman-1236791507/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-26T19:52:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236631856",
-      "title": "\u2018Five Nights at Freddy\u2019s 3\u2019 Taps Gary Dauberman to Pen Script",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/five-nights-at-freddys-3-gary-dauberman-write-script-1236631856/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-26T19:45:22+00:00"
     },
     {
       "guid": "UaeM5B9uAdRaDvqBG97oYU",
@@ -708,6 +684,54 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-06-26T23:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236968254",
+      "title": "\u2018Toy Story 5\u2019 Looks To Cross $300M, \u2018Supergirl\u2019 Flying Low With $40M Opening \u2013 U.S. Box Office Update",
+      "url": "https://deadline.com/2026/06/box-office-supergirl-toy-story-5-1236968254/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T23:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236795673",
+      "title": "Luca Guadagnino Says He Can\u2019t Discuss Amazon Dropping \u2018Artificial\u2019 Because \u2018We Are Right in the Middle of This Situation,\u2019 But AI Is \u2018Changing the Identity of the World\u2019",
+      "url": "https://variety.com/2026/film/news/luca-guadagnino-ai-amazon-artificial-1236795673/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T23:51:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236791018",
+      "title": "\u2018Camp\u2019 Director Avalon Fast on Making a Visually Dazzling Witchcraft Movie: Evoke \u2018Sacredness\u2019 and \u2018Magic\u2019 From the Remote Shoot",
+      "url": "https://variety.com/2026/film/features/camp-witchcraft-movie-director-magic-forest-shoot-1236791018/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T23:44:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236632000",
+      "title": "\u2018Euphoria\u2019 Star Chloe Cherry to Release Memoir",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/euphoria-chloe-cherry-memoir-1236632000/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T23:50:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236631623",
+      "title": "Justin Bieber Makes Appearance at 2026 NHL Draft to Announce No. 1 Pick",
+      "url": "https://www.hollywoodreporter.com/news/general-news/2026-nhl-draft-justin-bieber-1236631623/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T23:30:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236631975",
+      "title": "Ending Tonight: Fox One\u2019s Prime Day Deal Lets Fans Stream the World Cup for Less",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/fox-one-free-trial-best-promo-discount-subscription-cost-1236631975/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T23:28:23+00:00"
     }
   ]
 }
