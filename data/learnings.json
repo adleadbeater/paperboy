@@ -634,20 +634,108 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://automaton-media.com/en/?p=68852",
-      "title": "Japanese content platform\u00a0Fantia\u00a0apologizes for censorship controversy, says police inquiry caused rushed guideline changes",
-      "url": "https://automaton-media.com/en/news/japanese-content-platform-fantia-apologizes-for-censorship-controversy-says-police-inquiry-caused-rushed-guideline-changes/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-06-26T03:46:46+00:00"
+      "guid": "https://kotaku.com/?p=2000710963",
+      "title": "Supergirl Has Some Scenes That May Be Hard For Dog Lovers",
+      "url": "https://kotaku.com/supergirl-krypto-does-the-dog-die-poison-kara-james-gunn-2000710963",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T13:28:33+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236630627",
-      "title": "\u2018Secret Lives of Mormon Wives\u2019 Star Miranda Hope Releases Debut Country Song \u201cFU4THAT\u201d",
-      "url": "https://www.hollywoodreporter.com/music/music-news/secret-lives-of-mormon-wives-miranda-hope-country-song-1236630627/",
+      "guid": "ogtJRR7RB35McyYS3t3Eoe",
+      "title": "Resident Evil 2 fans end 'years of searching' for identity of Jill Valentine's photo boyfriend",
+      "url": "https://www.pcgamer.com/games/resident-evil/resident-evil-2-fans-end-years-of-searching-for-identity-of-jill-valentines-photo-boyfriend/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T13:42:32+00:00"
+    },
+    {
+      "guid": "ane9hKWbFyZ9C2cVdgsa8A",
+      "title": "I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T13:33:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236967125",
+      "title": "Lionel Richie \u201cHeartbroken\u201d As He Postpones Concerts After Feeling Unwell On Stage",
+      "url": "https://deadline.com/2026/06/lionel-richie-falls-ill-cuts-short-tour-first-night-1236967125/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T13:44:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236968172",
+      "title": "GK Barry Set To Turn \u201cPart-Investigative Sleuth, Part-Accidental Detective\u201d In BBC Doc About Online Gossip Forum Tattle Life",
+      "url": "https://deadline.com/2026/06/gk-barry-toxic-gossip-bbc-tattle-life-1236968172/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-26T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236630713",
+      "title": "Winners & Losers: \u2018Supergirl\u2019 Crashes Out, \u2018House of the Dragon\u2019 Remains Meh",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/supergirl-box-office-house-of-the-dragon-review-1236630713/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-06-26T04:35:23+00:00"
+      "published_dt": "2026-06-26T13:32:40+00:00"
+    },
+    {
+      "guid": "BjTcswaGx87KGqdUdGnke",
+      "title": "GTA 6 deserves more than Vice City, and I hope Rockstar takes cues from Red Dead Redemption 2",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-deserves-more-than-vice-city-and-i-hope-rockstar-takes-cues-from-red-dead-redemption-2/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-26T13:30:00+00:00"
+    },
+    {
+      "guid": "h3FZ3JCjCvDvYHrAqwHfwQ",
+      "title": "I asked our hardware experts for the five best Prime Day deals you shouldn't miss",
+      "url": "https://www.gamesradar.com/hardware/i-asked-our-hardware-experts-for-the-five-best-prime-day-deals-you-shouldnt-miss/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-26T13:22:10+00:00"
+    },
+    {
+      "guid": "rJXi7RabYnAcGazS7vc5TF",
+      "title": "Here's the perfect board game starter set for anyone wanting to get into the hobby",
+      "url": "https://www.gamesradar.com/games/board-games/heres-the-perfect-board-game-starter-set-for-anyone-wanting-to-get-into-the-hobby/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-26T13:21:44+00:00"
+    },
+    {
+      "guid": "4owh6iorPeDEbVwie86Zk7",
+      "title": "Palworld 1.0 sounds massive as lead teases \"27 pdf pages\" of patch notes coming to Pocketpair's early access survival game",
+      "url": "https://www.gamesradar.com/games/survival/palworld-1-0-sounds-massive-as-lead-teases-27-pdf-pages-of-patch-notes-coming-to-pocketpairs-early-access-survival-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-26T13:19:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740205",
+      "title": "Zenless Zone Zero Launches En-Nah Gang Initiation Trial on Discord With Exclusive Rewards",
+      "url": "https://otakukart.com/zenless-zone-zero-launches-en-nah-gang-initiation-trial-on-discord-with-exclusive-rewards/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-26T13:42:54+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740204",
+      "title": "The First Descendant Bans 400 Players in Latest Anti-Cheat Crackdown, Details Enforcement Actions",
+      "url": "https://otakukart.com/the-first-descendant-bans-400-players-in-latest-anti-cheat-crackdown-details-enforcement-actions/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-26T13:38:51+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740199",
+      "title": "Dune: Awakening Releases New Client Update to Reduce PSO Stutters",
+      "url": "https://otakukart.com/dune-awakening-releases-new-client-update-to-reduce-pso-stutters/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-26T13:29:30+00:00"
     }
   ]
 }
