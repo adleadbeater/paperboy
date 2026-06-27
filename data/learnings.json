@@ -584,22 +584,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236969046",
-      "title": "Margaret Atwood Details Her First & Only Encounter With AI & Shares Her Assessment: \u201cIt\u2019s Garbage In, Garbage Out\u201d \u2014\u00a0Babell Literary Festival",
-      "url": "https://deadline.com/2026/06/margaret-atwood-ai-claude-babell-literary-festival-1236969046/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T17:34:22+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740455",
-      "title": "Nintendo Workforce Grows to Nearly 6,000 Employees as Company Adds Over 300 Permanent Jobs in FY2026",
-      "url": "https://otakukart.com/nintendo-workforce-grows-to-nearly-6000-employees-as-company-adds-over-300-permanent-jobs-in-fy2026/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-27T17:32:14+00:00"
-    },
-    {
       "guid": "a1ee739c-fcb9-43ae-99e0-c839fde469b0",
       "title": "Steam Machine Scalpers on eBay Are Selling Reservations at Double the Price Valve Is Asking for",
       "url": "https://www.ign.com/articles/steam-machine-scalpers-on-ebay-are-selling-reservations-at-double-the-price-valve-is-asking-for",
@@ -686,6 +670,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-27T19:55:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969093",
+      "title": "Elon Musk Made Armie Hammer\u2019s German-Banned \u2018Citizen Vigilante\u2019 Briefly Available To Stream On X",
+      "url": "https://deadline.com/2026/06/elon-musk-armie-hammer-citizen-vigilante-stream-x-1236969093/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T21:31:55+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1045579",
+      "title": "Guilty Gear: Strive DLC character Robo=Ky launches July 2",
+      "url": "https://www.gematsu.com/2026/06/guilty-gear-strive-dlc-character-roboky-launches-july-2",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-27T21:19:30+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1061593",
+      "title": "Under Night In-Birth II Sys:Celes DLC character Zohar reveal trailer",
+      "url": "https://www.gematsu.com/2026/06/under-night-in-birth-ii-sysceles-dlc-character-zohar-reveal-trailer",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-27T21:19:04+00:00"
     }
   ]
 }
