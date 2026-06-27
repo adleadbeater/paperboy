@@ -584,38 +584,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "a1ee739c-fcb9-43ae-99e0-c839fde469b0",
-      "title": "Steam Machine Scalpers on eBay Are Selling Reservations at Double the Price Valve Is Asking for",
-      "url": "https://www.ign.com/articles/steam-machine-scalpers-on-ebay-are-selling-reservations-at-double-the-price-valve-is-asking-for",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T18:33:08+00:00"
-    },
-    {
-      "guid": "jD8X7iq6J42skx4PvLkvSh",
-      "title": "Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead",
-      "url": "https://www.pcgamer.com/games/survival-crafting/palworld-1-0-update-has-27-pdf-pages-of-changes-and-additions-says-publishing-lead/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T18:45:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236969053",
-      "title": "Emmy-Winning \u2018The Young And The Restless\u2019\u00a0Head Writer Josh Griffith Is Leaving CBS Soap",
-      "url": "https://deadline.com/2026/06/the-young-and-the-restless-josh-griffith-1236969053/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T18:31:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236796037",
-      "title": "Christopher Nolan Says Playing it Safe With Mainstream Movies \u2018Doesn\u2019t Work\u2019: \u2018The Audience Is Looking for Something New\u2019",
-      "url": "https://variety.com/2026/film/news/christopher-nolan-safe-mainstream-movies-doesnt-work-1236796037/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T18:42:45+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries",
       "title": "PlayStation is pulling \"previously purchased\" digital movies from users' libraries",
       "url": "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries",
@@ -694,6 +662,38 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-06-27T21:19:04+00:00"
+    },
+    {
+      "guid": "3e1f32f1-ce87-4554-b581-722034240e3e",
+      "title": "GTA 6 Scalpers Are Finding Buyers on eBay Despite Rockstar's Commitment to a Digital Release",
+      "url": "https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T22:28:33+00:00"
+    },
+    {
+      "guid": "exFu7TsQhakwrhopPJeUnh",
+      "title": "To get Thief Remastered's cutscenes right, Nightdive brought on the dev behind the 1998 originals",
+      "url": "https://www.pcgamer.com/games/fps/to-get-thief-remastereds-cutscenes-right-nightdive-brought-on-the-dev-behind-the-1998-originals/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T22:37:29+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203120",
+      "title": "Granblue Fantasy Versus: Rising Announced For Switch 2, Out September",
+      "url": "https://www.nintendolife.com/news/2026/06/granblue-fantasy-versus-rising-announced-for-switch-2-out-september",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-06-27T22:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203119",
+      "title": "Rumour: PS6 Costs Sony Almost $1,000 to Make Right Now",
+      "url": "https://www.pushsquare.com/news/2026/06/rumour-ps6-costs-sony-almost-usd1000-to-make-right-now",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-27T23:00:00+00:00"
     }
   ]
 }
