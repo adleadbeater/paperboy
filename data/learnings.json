@@ -567,83 +567,22 @@
       "article_titles": [
         "Steam Machine Scalpers on eBay Are Selling Reservations at Double the Price Valve Is Asking for"
       ]
+    },
+    {
+      "headline": "PlayStation Is Deleting Purchased Digital Movies From Users' Libraries",
+      "tag": "playstation",
+      "posted_at": "2026-06-27T20:07:03.952253+00:00",
+      "urls": [
+        "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries"
+      ],
+      "article_titles": [
+        "PlayStation is pulling \"previously purchased\" digital movies from users' libraries"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000711181",
-      "title": "A24\u2019s Bad Excuse For Its Controversial Google AI Partnership Isn\u2019t Impressing Fans: \u2018We\u2019d Rather Have A Seat At The Table\u2019",
-      "url": "https://kotaku.com/a24s-bad-excuse-for-its-controversial-google-ai-partnership-isnt-impressing-fans-wed-rather-have-a-seat-at-the-table-2000711181",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T16:00:04+00:00"
-    },
-    {
-      "guid": "fLq3arDDdvfSrjHSgQLCWW",
-      "title": "Riot teases League of Legends Classic, with a full reveal coming in two weeks",
-      "url": "https://www.pcgamer.com/games/moba/riot-teases-league-of-legends-classic-with-a-full-reveal-coming-in-two-weeks/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T15:29:56+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236969005",
-      "title": "Hollywood Production House Shadowcast Pictures Shuttering Amidst Industry Challenges",
-      "url": "https://deadline.com/2026/06/shadowcast-pictures-closing-1236969005/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T16:00:12+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236968254",
-      "title": "\u2018Toy Story 5\u2019 Rules Weekend As \u2018Supergirl\u2019 Loses Superpowers With $40M Opening \u2013 U.S. Box Office Update",
-      "url": "https://deadline.com/2026/06/box-office-supergirl-toy-story-5-1236968254/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T15:34:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236789996",
-      "title": "Box Office: \u2018Supergirl\u2019 Flies to $18 Million on Opening Day",
-      "url": "https://variety.com/2026/film/box-office/box-office-supergirl-milly-alcock-toy-story-5-1236789996/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T15:43:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236631810",
-      "title": "How John Cena Became the Go-to Star to Help Comedy Movies Get Made",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-netflix-little-brother-comedy-interview-1236631810/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T15:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740436",
-      "title": "Former Skyrim Lead Warns Xbox Against Rushing Elder Scrolls and Fallout Releases, Says It Could Cause Fan Fatigue and More Bugs",
-      "url": "https://otakukart.com/former-skyrim-lead-warns-xbox-against-rushing-elder-scrolls-and-fallout-releases-says-it-could-cause-fan-fatigue-and-more-bugs/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-27T15:57:55+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740435",
-      "title": "PlayStation CEO Says Sony Still Sees a Future for Live Service Games Despite Concord\u2019s Failure",
-      "url": "https://otakukart.com/playstation-ceo-says-sony-still-sees-a-future-for-live-service-games-despite-concords-failure/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-27T15:51:15+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740434",
-      "title": "PlayStation CEO Says Future PlayStation Hardware Could Take \u201cDifferent Forms\u201d, But Sony Still Believes Dedicated Consoles Are Essential",
-      "url": "https://otakukart.com/playstation-ceo-says-future-playstation-hardware-could-take-different-forms-but-sony-still-believes-dedicated-consoles-are-essential/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-27T15:42:35+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1236969046",
       "title": "Margaret Atwood Details Her First & Only Encounter With AI & Shares Her Assessment: \u201cIt\u2019s Garbage In, Garbage Out\u201d \u2014\u00a0Babell Literary Festival",
@@ -691,6 +630,62 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-27T18:42:45+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries",
+      "title": "PlayStation is pulling \"previously purchased\" digital movies from users' libraries",
+      "url": "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T19:57:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969001",
+      "title": "Annecy Winners: \u2018The Violinist\u2019 & SPC-Acquired \u2018Iron Boy\u2019 Take Top Prizes",
+      "url": "https://deadline.com/2026/06/annecy-winners-violinist-iron-boy-top-prizes-1236969001/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236796087",
+      "title": "Annecy Winners: \u2019The Violinist\u2019 Takes Top Prize, \u2019Iron Boy\u2019 Sweeps Three Awards and Don Hertzfeldt Scores Best Short",
+      "url": "https://variety.com/2026/film/global/annecy-top-winners-the-violinist-iron-boy-don-hertzfeldt-1236796087/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T20:00:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236796016",
+      "title": "Vanilla Ice\u2019s Freedom 250 Concert in D.C. Canceled Due to \u2018Inclement Weather\u2019 That Doesn\u2019t Materialize",
+      "url": "https://variety.com/2026/music/news/vanilla-ice-freedom-250-concert-canceled-weather-1236796016/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T19:37:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236632103",
+      "title": "Singapore Period Drama \u2018The Violinist\u2019 Wins Annecy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-violinist-singapore-animation-wins-annecy-1236632103/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T20:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740380",
+      "title": "Record of Ragnarok Season 4 Officially Announced: The Ultimate Sword Duel and History\u2019s Deadliest Sniper Enter the Arena",
+      "url": "https://otakukart.com/record-of-ragnarok-season-4-officially-announced-the-ultimate-sword-duel-and-historys-deadliest-sniper-enter-the-arena/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-27T20:04:05+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740374",
+      "title": "Rent-A-Girlfriend Season 6 Officially Confirmed, Will Adapt the Highly Anticipated Cohabitation Arc",
+      "url": "https://otakukart.com/rent-a-girlfriend-season-6-officially-confirmed-will-adapt-the-highly-anticipated-cohabitation-arc/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-27T19:55:40+00:00"
     }
   ]
 }
