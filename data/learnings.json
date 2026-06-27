@@ -551,46 +551,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000708149",
-      "title": "9 Games To Play After Slay The Spire 2",
-      "url": "https://kotaku.com/9-games-to-play-after-slay-the-spire-2-2000708149",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T13:00:04+00:00"
-    },
-    {
-      "guid": "vNfs2VmMDJX2vZ3MvAhaRA",
-      "title": "Helldivers 2's next warbond is delayed, as Arrowhead says it 'needs more time to cook' following the shooter's massive progression rework",
-      "url": "https://www.pcgamer.com/games/action/helldivers-2s-next-warbond-is-delayed-as-arrowhead-says-it-needs-more-time-to-cook-following-the-shooters-massive-progression-rework/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236968965",
-      "title": "K. Bhagyaraj Dies: Veteran Indian Filmmaker And A Defining Figure In Tamil Cinema Was 73",
-      "url": "https://deadline.com/2026/06/k-bhagyaraj-dead-1236968965/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-27T12:45:33+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1118428",
-      "title": "Wanderstop Switch 2 Performance Is Solid",
-      "url": "https://www.siliconera.com/wanderstop-switch-2-performance-is-solid/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-06-27T13:00:00+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=68895",
-      "title": "This Japanese visual novel is a time-bending mystery that offers a chilling look into an AI dominated future. A look at Dusk Index: Gion",
-      "url": "https://automaton-media.com/en/reviews/this-japanese-visual-novel-is-a-time-bending-mystery-that-offers-a-chilling-look-into-an-ai-dominated-future-a-look-at-dusk-index-gion/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-06-27T13:00:00+00:00"
-    },
-    {
       "guid": "443324d0-fa14-4353-bf62-b9240270c354",
       "title": "Supergirl and the Debate at the Heart of the New Movie",
       "url": "https://www.ign.com/articles/supergirl-and-the-debate-at-the-heart-of-the-new-movie",
@@ -725,6 +685,22 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-27T15:42:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969046",
+      "title": "Margaret Atwood Details Her First & Only Encounter With AI & Shares Her Assessment: \u201cIt\u2019s Garbage In, Garbage Out\u201d \u2014\u00a0Babell Literary Festival",
+      "url": "https://deadline.com/2026/06/margaret-atwood-ai-claude-babell-literary-festival-1236969046/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-27T17:34:22+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740455",
+      "title": "Nintendo Workforce Grows to Nearly 6,000 Employees as Company Adds Over 300 Permanent Jobs in FY2026",
+      "url": "https://otakukart.com/nintendo-workforce-grows-to-nearly-6000-employees-as-company-adds-over-300-permanent-jobs-in-fy2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-27T17:32:14+00:00"
     }
   ]
 }
