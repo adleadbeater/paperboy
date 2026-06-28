@@ -584,12 +584,44 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "t3_1uho9ye",
-      "title": "Prototype 3 might be in the work",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uho9ye/prototype_3_might_be_in_the_work/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "oBMKkZf3YhySvogtNowbVE",
+      "title": "Creative Assembly wants to know which factions you wish to play as in Total War: Medieval 3, but whatever you do, don't ask to play as the Pope",
+      "url": "https://www.pcgamer.com/games/strategy/creative-assembly-wants-to-know-which-factions-you-wish-to-play-as-in-total-war-medieval-3-but-whatever-you-do-dont-ask-to-play-as-the-pope/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236795928",
+      "title": "Prime Video Reveals Young Stars of German-Language Original Series \u2018Superior,\u2019 Set in the World of Luxury Hotels (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/prime-video-german-original-series-superior-set-1236795928/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118436",
+      "title": "Review: and Roger Takes Advantage of Switch 2 Features",
+      "url": "https://www.siliconera.com/review-and-roger-takes-advantage-of-switch-2-features/",
+      "source_name": "Siliconera",
       "source_tier": 2,
-      "published_dt": "2026-06-28T05:08:49+00:00"
+      "published_dt": "2026-06-28T13:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740518",
+      "title": "GTA 6 Scalpers Find Buyers on eBay Despite Rockstar\u2019s Digital-First Launch Strategy",
+      "url": "https://otakukart.com/gta-6-scalpers-find-buyers-on-ebay-despite-rockstars-digital-first-launch-strategy/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-28T12:53:23+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740517",
+      "title": "Ubisoft Barcelona Employees Announce Strike After 51 Layoffs, Demand Job Security and Remote Work",
+      "url": "https://otakukart.com/ubisoft-barcelona-employees-announce-strike-after-51-layoffs-demand-job-security-and-remote-work/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-28T12:35:27+00:00"
     }
   ]
 }
