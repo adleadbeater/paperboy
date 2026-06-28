@@ -598,22 +598,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236969249",
-      "title": "John Early Doesn\u2019t Consider His \u2018Maddie\u2019s Secret\u2019 Role To Be Drag: \u201cIt\u2019s A Different Skill\u201d",
-      "url": "https://deadline.com/2026/06/john-early-doesnt-consider-maddies-secret-role-drag-1236969249/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T18:57:12+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/cd-projekt-rebrands-as-cd-projekt-red",
-      "title": "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red",
-      "url": "https://www.eurogamer.net/cd-projekt-rebrands-as-cd-projekt-red",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T19:55:14+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000711267",
       "title": "For 25th Anniversary Tom Hall Unlocks The Vault On Classic Too Weird To Live",
       "url": "https://kotaku.com/for-25th-anniversary-tom-hall-unlocks-the-vault-on-classic-too-weird-to-live-2000711267",
@@ -628,30 +612,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-28T20:05:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236797898",
-      "title": "Sam Worthington on \u2018I Will Find You,\u2019 Being the Show\u2019s \u2018Damsel in Distress\u2019 and Pushing Back on a David and Rachel \u2018Telenovela\u2019 Romance",
-      "url": "https://variety.com/2026/tv/columns/sam-worthington-i-will-find-you-david-rachel-romance-netflix-1236797898/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T19:36:44+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236632414",
-      "title": "\u2018Zoey 101\u2019 Alum Alexa Nikolas Settles Defamation Suit Against Former NBC News Reporter Kat Tenbarge",
-      "url": "https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-settles-defamation-suit-kat-tenbarge-1236632414/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T19:52:38+00:00"
-    },
-    {
-      "guid": "t3_1ui6zei",
-      "title": "Modern Warfare 2 and 3 might get ported to ps4/5",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ui6zei/modern_warfare_2_and_3_might_get_ported_to_ps45/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-06-28T19:54:12+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/tetris-world-builders-animated-series",
@@ -756,6 +716,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-06-28T23:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969307",
+      "title": "Salman Rushdie Discusses His 2022 Knife Attack & Explains Why He Isn\u2019t Interested In \u201cPolemical Fiction\u201d At The Babell Literary Festival",
+      "url": "https://deadline.com/2026/06/salman-rushdie-babell-porto-2026-1236969307/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T23:37:11+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740615",
+      "title": "Blue Lock Chapter 352: Spoilers & Summary",
+      "url": "https://otakukart.com/blue-lock-chapter-352-spoilers-summary/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-28T23:55:41+00:00"
     }
   ]
 }
