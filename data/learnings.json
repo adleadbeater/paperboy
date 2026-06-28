@@ -559,59 +559,44 @@
       "article_titles": [
         "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red"
       ]
+    },
+    {
+      "headline": "Tetris Is Getting a Kids' Animated Series Called Tetris: World Builders",
+      "tag": "tetris",
+      "posted_at": "2026-06-28T21:34:39.467946+00:00",
+      "urls": [
+        "https://www.eurogamer.net/tetris-world-builders-animated-series"
+      ],
+      "article_titles": [
+        "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\""
+      ]
+    },
+    {
+      "headline": "Mina the Hollower Is Crossing Over Into a Fighting Game in 2026",
+      "tag": "mina the hollower",
+      "posted_at": "2026-06-28T21:34:39.758587+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/fighting/mina-the-hollower-will-make-her-fighting-game-debut-in-a-crossover-next-year/"
+      ],
+      "article_titles": [
+        "Mina the Hollower will make her fighting game debut in a crossover next year"
+      ]
+    },
+    {
+      "headline": "Dead or Alive 6 Last Round Forces Players to Rebuy DLC They Already Own Across 400+ Packs",
+      "tag": "dead or alive 6",
+      "posted_at": "2026-06-28T21:34:40.035223+00:00",
+      "urls": [
+        "https://kotaku.com/dead-or-alive-6-last-round-releases-with-over-400-dlcs-and-forces-owners-to-repurchase-content-they-already-own-2000711242"
+      ],
+      "article_titles": [
+        "Dead Or Alive 6 Last Round Releases With Over 400 DLCs And Forces Owners To Repurchase Content They Already Own"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000711251",
-      "title": "Study Uses Age Of Empires Scenario Editor To Illustrate Why It\u2019s Farcical To Treat AI As Cognizant",
-      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T17:28:19+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000711249",
-      "title": "Companies Warn RAM Prices Will Keep Spiking At Least Through 2028",
-      "url": "https://kotaku.com/companies-warn-ram-prices-will-keep-spiking-at-least-through-2028-2000711249",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T17:25:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236969203",
-      "title": "Madonna Says AI Is \u201cOpposite Of Making Art,\u201d Prefers \u201cConnecting To Nature\u201d",
-      "url": "https://deadline.com/2026/06/madonna-ai-opposite-making-art-1236969203/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T17:26:01+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236795841",
-      "title": "Olivia Wilde Says Her Last Movie\u2019s 38% Rotten Tomatoes Score \u2018Liberated\u2019 Her to Make \u2018The Invite\u2019 and Gives Her Take on the Film\u2019s Ending",
-      "url": "https://variety.com/2026/film/awards/olivia-wilde-the-invite-rotten-tomatoes-dont-worry-darling-1236795841/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T17:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236797833",
-      "title": "Gracie Abrams Says \u2018I Get It\u2019 When People Call Her a Nepo Baby Online: \u2018I Think About the Privilege There\u2019",
-      "url": "https://variety.com/2026/music/news/gracie-abrams-get-it-nepo-baby-online-privilege-1236797833/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T17:18:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236797821",
-      "title": "Box Office: \u2018Supergirl\u2019 Sputters Overseas With $30 Million, \u2018Jackass: Best and Last\u2019 Limps to $1.9 Million Internationally",
-      "url": "https://variety.com/2026/film/box-office/box-office-supergirl-jackass-5-misfire-overseas-1236797821/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T17:15:31+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1236969249",
       "title": "John Early Doesn\u2019t Consider His \u2018Maddie\u2019s Secret\u2019 Role To Be Drag: \u201cIt\u2019s A Different Skill\u201d",
@@ -667,6 +652,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-28T19:54:12+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/tetris-world-builders-animated-series",
+      "title": "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\"",
+      "url": "https://www.eurogamer.net/tetris-world-builders-animated-series",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T21:21:54+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711270",
+      "title": "New Indie Text Adventure Hides A Eerie Vaporwave Labyrinth",
+      "url": "https://kotaku.com/new-indie-text-adventure-hides-a-eerie-vaporwave-labyrinth-2000711270",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T21:06:19+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711242",
+      "title": "Dead Or Alive 6 Last Round Releases With Over 400 DLCs And Forces Owners To Repurchase Content They Already Own",
+      "url": "https://kotaku.com/dead-or-alive-6-last-round-releases-with-over-400-dlcs-and-forces-owners-to-repurchase-content-they-already-own-2000711242",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T21:00:35+00:00"
+    },
+    {
+      "guid": "xcmSHkBTEGrLJLeniEz9QL",
+      "title": "Fallout: New Vegas director Josh Sawyer says Obsidian has 'Karma Police' who go through games making sure every skill gets enough cool stuff to do: 'We're not gonna leave you out to dry'",
+      "url": "https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-josh-sawyer-says-obsidian-has-karma-police-who-go-through-the-game-making-sure-every-skill-gets-enough-cool-stuff-to-do-were-not-gonna-leave-you-out-to-dry/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T21:02:33+00:00"
+    },
+    {
+      "guid": "Aycbk7sHDCUDQzgZJuTQq9",
+      "title": "Mina the Hollower will make her fighting game debut in a crossover next year",
+      "url": "https://www.pcgamer.com/games/fighting/mina-the-hollower-will-make-her-fighting-game-debut-in-a-crossover-next-year/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T21:01:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969270",
+      "title": "\u2018Love Island UK\u2019 Removes Casa Amor\u2019s Gabriel Garland After Reported Involvement In Stabbing Incident",
+      "url": "https://deadline.com/2026/06/love-island-uk-removes-casa-amor-gabriel-garland-1236969270/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T21:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236797997",
+      "title": "U.K. Ratings Body Used AI For First Time to Classify HBO Max\u2019s Entire Library",
+      "url": "https://variety.com/2026/tv/global/uk-ratings-body-used-ai-for-first-time-classify-hbo-max-1236797997/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T21:30:21+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203129",
+      "title": "This PS5 Open World Game Is Adding an Entire Fantasy RPG as an Extra Activity",
+      "url": "https://www.pushsquare.com/news/2026/06/this-ps5-open-world-game-is-adding-an-entire-fantasy-rpg-as-an-extra-activity",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-28T23:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203130",
+      "title": "PS5 Dominates Xbox for Single Player Games, New Data Suggests",
+      "url": "https://www.pushsquare.com/news/2026/06/ps5-dominates-xbox-for-single-player-games-new-data-suggests",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-28T23:00:00+00:00"
     }
   ]
 }
