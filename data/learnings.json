@@ -584,38 +584,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236632260",
-      "title": "Famke Janssen on Nerve-Wracking Bond Audition, Breaking Ribs During Pierce Brosnan Fight Scene",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/famke-janssen-x-men-bond-acting-interview-malta-film-festival-1236632260/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T14:49:43+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236632242",
-      "title": "Katie Holmes, Joshua Jackson on Creating \u201ca Sense of Hope\u201d With \u2018Happy Hours\u2019 Reunion: \u201cLove Is Possible; Life Is Long; There\u2019s No Given Path\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/katie-holmes-joshua-jackson-reunion-happy-hours-hope-love-1236632242/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T14:45:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740549",
-      "title": "Dragon Striker Creators Say They Wanted to Create a \u201cNew Genre of Anime\u201d by Mixing Soccer With Magic",
-      "url": "https://otakukart.com/dragon-striker-creators-say-they-wanted-to-create-a-new-genre-of-anime-by-mixing-soccer-with-magic/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-28T14:49:44+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740548",
-      "title": "Sekiro: No Defeat Anime Director Says the Film Recreates the Game\u2019s Guard System",
-      "url": "https://otakukart.com/sekiro-no-defeat-anime-director-says-the-film-recreates-the-games-guard-system/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-28T14:38:52+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000711241",
       "title": "Xbox Tells People To \u2018Wait For Real Data\u2019 Over Speculation About GTA 6 Selling Way More Pre-Orders On PS5",
       "url": "https://kotaku.com/xbox-tells-people-to-wait-for-real-data-over-speculation-about-gta-6-selling-way-more-pre-orders-on-ps5-2000711241",
@@ -726,6 +694,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-06-28T17:15:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969249",
+      "title": "John Early Doesn\u2019t Consider His \u2018Maddie\u2019s Secret\u2019 Role To Be Drag: \u201cIt\u2019s A Different Skill\u201d",
+      "url": "https://deadline.com/2026/06/john-early-doesnt-consider-maddies-secret-role-drag-1236969249/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T18:57:12+00:00"
     }
   ]
 }
