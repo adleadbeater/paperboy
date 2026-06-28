@@ -584,46 +584,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "oBMKkZf3YhySvogtNowbVE",
-      "title": "Creative Assembly wants to know which factions you wish to play as in Total War: Medieval 3, but whatever you do, don't ask to play as the Pope",
-      "url": "https://www.pcgamer.com/games/strategy/creative-assembly-wants-to-know-which-factions-you-wish-to-play-as-in-total-war-medieval-3-but-whatever-you-do-dont-ask-to-play-as-the-pope/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236795928",
-      "title": "Prime Video Reveals Young Stars of German-Language Original Series \u2018Superior,\u2019 Set in the World of Luxury Hotels (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/prime-video-german-original-series-superior-set-1236795928/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-06-28T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1118436",
-      "title": "Review: and Roger Takes Advantage of Switch 2 Features",
-      "url": "https://www.siliconera.com/review-and-roger-takes-advantage-of-switch-2-features/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-06-28T13:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740518",
-      "title": "GTA 6 Scalpers Find Buyers on eBay Despite Rockstar\u2019s Digital-First Launch Strategy",
-      "url": "https://otakukart.com/gta-6-scalpers-find-buyers-on-ebay-despite-rockstars-digital-first-launch-strategy/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-28T12:53:23+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740517",
-      "title": "Ubisoft Barcelona Employees Announce Strike After 51 Layoffs, Demand Job Security and Remote Work",
-      "url": "https://otakukart.com/ubisoft-barcelona-employees-announce-strike-after-51-layoffs-demand-job-security-and-remote-work/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-28T12:35:27+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236632260",
       "title": "Famke Janssen on Nerve-Wracking Bond Audition, Breaking Ribs During Pierce Brosnan Fight Scene",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/famke-janssen-x-men-bond-acting-interview-malta-film-festival-1236632260/",
@@ -718,6 +678,54 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-28T15:40:22+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711251",
+      "title": "Study Uses Age Of Empires Scenario Editor To Illustrate Why It\u2019s Farcical To Treat AI As Cognizant",
+      "url": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T17:28:19+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711249",
+      "title": "Companies Warn RAM Prices Will Keep Spiking At Least Through 2028",
+      "url": "https://kotaku.com/companies-warn-ram-prices-will-keep-spiking-at-least-through-2028-2000711249",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T17:25:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969203",
+      "title": "Madonna Says AI Is \u201cOpposite Of Making Art,\u201d Prefers \u201cConnecting To Nature\u201d",
+      "url": "https://deadline.com/2026/06/madonna-ai-opposite-making-art-1236969203/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T17:26:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236795841",
+      "title": "Olivia Wilde Says Her Last Movie\u2019s 38% Rotten Tomatoes Score \u2018Liberated\u2019 Her to Make \u2018The Invite\u2019 and Gives Her Take on the Film\u2019s Ending",
+      "url": "https://variety.com/2026/film/awards/olivia-wilde-the-invite-rotten-tomatoes-dont-worry-darling-1236795841/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236797833",
+      "title": "Gracie Abrams Says \u2018I Get It\u2019 When People Call Her a Nepo Baby Online: \u2018I Think About the Privilege There\u2019",
+      "url": "https://variety.com/2026/music/news/gracie-abrams-get-it-nepo-baby-online-privilege-1236797833/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T17:18:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236797821",
+      "title": "Box Office: \u2018Supergirl\u2019 Sputters Overseas With $30 Million, \u2018Jackass: Best and Last\u2019 Limps to $1.9 Million Internationally",
+      "url": "https://variety.com/2026/film/box-office/box-office-supergirl-jackass-5-misfire-overseas-1236797821/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-28T17:15:31+00:00"
     }
   ]
 }
