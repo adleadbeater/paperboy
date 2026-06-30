@@ -1,25 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Steam\u2019s Latest Viral Multiplayer Game Is A $6 Janky Indie Game That Is Like Prop Hunt, But Good",
-      "tag": "",
-      "posted_at": "2026-06-23T15:30:59.774731+00:00",
-      "urls": [
-        "https://www.eurogamer.net/burnout-paradise-galactic-racer-interview-lightning-in-a-bottle",
-        "https://kotaku.com/steams-latest-viral-multiplayer-game-is-a-6-janky-indie-game-that-is-like-prop-hunt-but-good-2000709515",
-        "https://kotaku.com/star-wars-galactic-racer-looks-and-feels-awesome-2000709494",
-        "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-proves-that-roguelikes-and-racing-are-a-match-made-in-heaven-and-its-bringing-white-knuckle-consequences-back-to-the-genre/",
-        "https://www.pushsquare.com/previews/5-things-that-surprised-me-playing-star-wars-galactic-racer-on-ps5"
-      ],
-      "article_titles": [
-        "\"It's like lightning in a bottle\" - Star Wars Galactic Racer devs spill the beans on why it's so hard to make a game as good as Burnout Paradise",
-        "Steam\u2019s Latest Viral Multiplayer Game Is A $6 Janky Indie Game That Is Like Prop Hunt, But Good",
-        "Star Wars: Galactic Racer Looks And Feels Awesome",
-        "Star Wars: Galactic Racer proves that roguelikes and racing are \"a match made in heaven,\" and it's bringing white knuckle consequences back to the genre",
-        "Preview: 5 Things That Surprised Me Playing Star Wars: Galactic Racer on PS5"
-      ]
-    },
-    {
       "headline": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
       "tag": "",
       "posted_at": "2026-06-23T17:00:50.889832+00:00",
@@ -524,6 +505,30 @@
       "article_titles": [
         "Modern Warfare 4 Facebook ads want to make sure everyone understands this year's Call of Duty won't be on Xbox Game Pass"
       ]
+    },
+    {
+      "headline": "Oblivion Remastered Is Coming to Switch 2 on August 11 With a Physical Edition",
+      "tag": "the elder scrolls iv: oblivion remastered",
+      "posted_at": "2026-06-30T15:31:12.256754+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/06/elder-scrolls-iv-oblivion-remastered-launches-august-physical-edition-confirmed",
+        "https://www.gematsu.com/2026/06/the-elder-scrolls-iv-oblivion-remastered-for-switch-2-launches-august-11"
+      ],
+      "article_titles": [
+        "Elder Scrolls IV: Oblivion Remastered Launches August, Physical Edition Confirmed",
+        "The Elder Scrolls IV: Oblivion Remastered for Switch 2 launches August 11"
+      ]
+    },
+    {
+      "headline": "Lobbyist Claims Minecraft and Call of Duty Community Servers Are 'Illegal' at Stop Killing Games Hearing",
+      "tag": "stop killing games / minecraft / call of duty",
+      "posted_at": "2026-06-30T15:31:12.396909+00:00",
+      "urls": [
+        "https://kotaku.com/gaming-industry-lobbyist-claims-minecraft-and-call-of-duty-community-servers-are-illegal-during-stop-killing-games-hearing-2000711650"
+      ],
+      "article_titles": [
+        "Gaming Industry Lobbyist Claims Minecraft And Call Of Duty Community Servers Are \u2018Illegal\u2019 During \u2018Stop Killing Games\u2019 Hearing"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -832,6 +837,142 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-30T14:28:06+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711650",
+      "title": "Gaming Industry Lobbyist Claims Minecraft And Call Of Duty Community Servers Are \u2018Illegal\u2019 During \u2018Stop Killing Games\u2019 Hearing",
+      "url": "https://kotaku.com/gaming-industry-lobbyist-claims-minecraft-and-call-of-duty-community-servers-are-illegal-during-stop-killing-games-hearing-2000711650",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:09:38+00:00"
+    },
+    {
+      "guid": "9VFq9mkGret2iiUQehSf3n",
+      "title": "Russian politician says GTA 6 carries 'the stench of Americanism,' but it's not so bad because the games are all about Americans killing each other",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/russian-politician-says-gta-6-carries-the-stench-of-americanism-but-its-not-so-bad-because-the-games-are-all-about-americans-killing-each-other/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:26:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971145",
+      "title": "Marlee Matlin Signs With Gilbertson Entertainment",
+      "url": "https://deadline.com/2026/06/marlee-matlin-signs-gilbertson-entertainment-1236971145/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:22:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236969853",
+      "title": "Eric Christian Olsen Returns To \u2018NCIS\u2019 Franchise, Joins \u2018Origins\u2019 As Executive Producer",
+      "url": "https://deadline.com/2026/06/eric-christian-olsen-ncis-origins-executive-producer-1236969853/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971102",
+      "title": "Sadie Frost\u2019s \u2018Twiggy\u2019 Documentary Gets North American Deal",
+      "url": "https://deadline.com/2026/06/twiggy-documentary-sadie-frost-gets-north-american-deal-1236971102/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:13:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799191",
+      "title": "Does California Attorney General Want to Force Paramount to Sell Off CNN? Rob Bonta Claims \u2018I Have No Idea\u2019 Where That Speculation \u2018Comes From\u2019",
+      "url": "https://variety.com/2026/tv/news/california-attorney-general-force-paramount-sell-cnn-rob-bonta-1236799191/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:28:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799254",
+      "title": "\u2018Reacher\u2019 Spinoff \u2018Neagley\u2019 Sets Amazon Release Date, Drops First-Look Images",
+      "url": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-release-date-amazon-1236799254/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:17:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799190",
+      "title": "\u2018Nemesis\u2019 Renewed for Season 2 at Netflix",
+      "url": "https://variety.com/2026/tv/news/nemesis-renewed-season-2-netflix-1236799190/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T15:00:00+00:00"
+    },
+    {
+      "guid": "LYBBBiXKgPdyudu9GEMe7R",
+      "title": "There's a new anime series on the way, but I can't stop thinking about these Ghost in the Shell edition keyboards",
+      "url": "https://www.gamesradar.com/hardware/gaming-keyboards/theres-a-new-anime-series-on-the-way-but-i-cant-stop-thinking-about-these-ghost-in-the-shell-edition-keyboards/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:15:12+00:00"
+    },
+    {
+      "guid": "xB7SxBN8Qq795g3iUtD6Dm",
+      "title": "Baldur's Gate 4 could've been headed by a Baldur's Gate 2 veteran, but the RPG legend \"wouldn't want to compete\" against Larian: \"That would be insanity\"",
+      "url": "https://www.gamesradar.com/games/baldur-s-gate/baldurs-gate-4-couldve-been-headed-by-a-baldurs-gate-2-veteran-but-the-rpg-legend-wouldnt-want-to-compete-against-larian-that-would-be-insanity/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:07:50+00:00"
+    },
+    {
+      "guid": "dkpiPLEhYJJTBjre9zbSFk",
+      "title": "This working Lego pinball machine beats all the best new Lego sets in July 2026, no questions asked",
+      "url": "https://www.gamesradar.com/toys-collectibles/best-new-lego-sets-july-2026/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:07:16+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203213",
+      "title": "Elder Scrolls IV: Oblivion Remastered Launches August, Physical Edition Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/06/elder-scrolls-iv-oblivion-remastered-launches-august-physical-edition-confirmed",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:25:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203212",
+      "title": "Atari's Rise Continues as It Acquires SteamWorld Maker Thunderful",
+      "url": "https://www.pushsquare.com/news/2026/06/ataris-rise-continues-as-it-acquires-steamworld-maker-thunderful",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=991465",
+      "title": "The Elder Scrolls IV: Oblivion Remastered for Switch 2 launches August 11",
+      "url": "https://www.gematsu.com/2026/06/the-elder-scrolls-iv-oblivion-remastered-for-switch-2-launches-august-11",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:08:25+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740938",
+      "title": "Xbox Confirms Call of Duty: Modern Warfare 4 Won\u2019t Launch on Game Pass as \u2018Not on Game Pass This Year\u2019 Ads Spark Fan Discussion",
+      "url": "https://otakukart.com/xbox-confirms-call-of-duty-modern-warfare-4-wont-launch-on-game-pass-as-not-on-game-pass-this-year-ads-spark-fan-discussion/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:19:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740937",
+      "title": "Bethesda Officially Shuts Down The Elder Scrolls: Blades After Nearly Six Years of Service",
+      "url": "https://otakukart.com/bethesda-officially-shuts-down-the-elder-scrolls-blades-after-nearly-six-years-of-service/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:11:00+00:00"
+    },
+    {
+      "guid": "t3_1ujrv5e",
+      "title": "Rumored PS6 Handheld Zen 6 Low Power CPU Core leaked through official Linux kernel patch",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ujrv5e/rumored_ps6_handheld_zen_6_low_power_cpu_core/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T15:08:34+00:00"
     }
   ]
 }
