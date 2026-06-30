@@ -657,68 +657,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "6b7c2e06-83f2-48cf-be5e-34c0c3e58c1a",
-      "title": "Today\u2019s Top Deals: LEGO Polaroid Camera, Pok\u00e9mon Prismatic Evolutions ETB, Metroid Prime 4, and More",
-      "url": "https://www.ign.com/articles/best-deals-for-june-30-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T17:33:52+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000711729",
-      "title": "Report Says Dishonored, Blade Developer Is Also On Xbox\u2019s Chopping Block",
-      "url": "https://kotaku.com/report-says-dishonored-blade-developer-is-also-on-xboxs-chopping-block-2000711729",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T17:34:10+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000711624",
-      "title": "Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: \u2018We Understand That Businesses Have To Business, But The Uncertainty Is Maddening\u2019",
-      "url": "https://kotaku.com/xbox-unions-layoffs-help-2000711624",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T17:30:57+00:00"
-    },
-    {
-      "guid": "miqy2N8r2fvqttBhGCvMZ6",
-      "title": "Open source game engine Godot will no longer accept AI-authored code contributions: 'We can\u2019t trust heavy users of AI to understand their code enough to fix it'",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T17:36:09+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236971337",
       "title": "Mark Harmon Returning To \u2018NCIS: Origins\u2019 As Gibbs For Season 3",
       "url": "https://deadline.com/2026/06/mark-harmon-ncis-origins-season-3-cast-1236971337/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-06-30T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236970995",
-      "title": "Simu Liu Joins Allison Williams & Michelle Randolph In Xavier Gens Sci-Fi Thriller \u2018Homewrecker\u2019; France Shoot Date Set",
-      "url": "https://deadline.com/2026/06/simu-liu-allison-williams-michelle-randolph-homewrecker-1236970995/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T17:40:06+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236971349",
-      "title": "Red Sage Studios Taps \u2018Culpa M\u00eda\u2019s Domingo Gonz\u00e1lez To Direct Film Adaptation Of Jessica Cunsolo Bestseller \u2018She\u2019s With Me,\u2019 Hires CAA Vet Nick Lafferty As Chief Operating Officer",
-      "url": "https://deadline.com/2026/06/red-sage-studios-sets-shes-with-me-film-hires-nick-lafferty-1236971349/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T17:33:46+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236971335",
-      "title": "Amanda Righetti, William Mapother & Spencer Locke Among Cast For Horror \u2018Shed\u2019, Filming Wraps In Nashville",
-      "url": "https://deadline.com/2026/06/amanda-righetti-william-mapother-spencer-locke-horror-shed-1236971335/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T17:33:33+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236799407",
@@ -751,30 +695,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-30T17:52:29+00:00"
-    },
-    {
-      "guid": "1806096",
-      "title": "Helldivers 2 Gets Closer To Modern Politics With Campaign To Build A Wall",
-      "url": "https://www.gamespot.com/articles/helldivers-2-gets-closer-to-modern-politics-with-campaign-to-build-a-wall/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T17:41:57+00:00"
-    },
-    {
-      "guid": "1806085",
-      "title": "Microsoft Could Cancel Marvel\u2019s Blade And Close Its Developer",
-      "url": "https://www.gamespot.com/articles/microsoft-could-cancel-marvels-blade-and-close-its-developer/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T17:32:44+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203221",
-      "title": "Super Mario Galaxy Movie Streaming Release Date Confirmed (US)",
-      "url": "https://www.nintendolife.com/news/2026/06/super-mario-galaxy-movie-streaming-release-date-confirmed-us",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T17:45:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1118745",
@@ -1423,6 +1343,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-30T21:06:16+00:00"
+    },
+    {
+      "guid": "548e7cee-96e4-4901-a2eb-7e3d4a1aae83",
+      "title": "Daigo Says 'Random' State of Street Fighter 6 is Good for Casuals, but Makes it Hard to Crown a GOAT",
+      "url": "https://www.ign.com/articles/daigo-says-random-state-of-street-fighter-6-is-good-for-casuals-but-makes-it-hard-to-crown-a-goat",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T21:31:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711714",
+      "title": "OG Baldur\u2019s Gate Lead Designer Turned Down Opportunity To Make Baldur\u2019s Gate 4: \u2018I Wouldn\u2019t Want To Compete Against That\u2019",
+      "url": "https://kotaku.com/baldurs-gate-3-4-1-2-remake-original-larian-swen-vincke-james-ohlen-archetype-exodus-2000711714",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T21:30:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799598",
+      "title": "Netflix\u2019s Horror Game \u2018Unhinged\u2019 Is Funny, Scary and Points to a Future Without Second Screens",
+      "url": "https://variety.com/2026/film/opinion/unhinged-netflix-game-scary-choose-your-own-adventure-1236799598/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T21:39:11+00:00"
     }
   ]
 }
