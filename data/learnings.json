@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
-      "tag": "",
-      "posted_at": "2026-06-23T17:00:50.889832+00:00",
-      "urls": [
-        "https://www.eurogamer.net/microsoft-films-gears-war-sea-thieves-halo-tv",
-        "https://deadline.com/2026/06/magic-school-bus-movie-legendary-developing-elizabeth-banks-1236964353/",
-        "https://www.eurogamer.net/microsoft-films-gears-war-sea-thieves-halo-tv"
-      ],
-      "article_titles": [
-        "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back",
-        "Legendary Developing Live-Action \u2018Magic School Bus\u2019 Movie With Elizabeth Banks As Ms. Frizzle; \u2018Detective Pikachu\u2019s Rob Letterman To Direct",
-        "Sea of Thieves is becoming a live-action movie, the Gears of War film apparently has a plot, and Microsoft's considering bringing the Halo TV show back"
-      ]
-    },
-    {
       "headline": "Disney Wanted to Buy Twitter and James Bond, Considered Merger With Apple",
       "tag": "",
       "posted_at": "2026-06-23T20:00:54.900782+00:00",
@@ -541,6 +526,43 @@
       "article_titles": [
         "Love And Deepspace Devs Decide To Cancel New Werewolf Love Interest After Fans Reportedly Send Them Cow Shit",
         "Infold Canceled Love and Deepspace 6th Love Interest Valko"
+      ]
+    },
+    {
+      "headline": "Viktor Antonov's Final Game Revealed: A Wild West Soulslike FPS From the Half-Life 2 Art Director",
+      "tag": "viktor antonov / untitled wild west fps",
+      "posted_at": "2026-06-30T17:01:26.097606+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/fps/before-his-death-in-2025-half-life-2-art-director-viktor-antonov-worked-on-one-last-game-a-wild-west-fps-roguelike-thats-coming-soon-to-steam/",
+        "https://www.gamesradar.com/games/fps/the-final-game-from-half-life-2-and-dishonoreds-late-art-director-has-been-revealed-the-worlds-first-soulslike-fps-an-apocalyptic-western-at-the-end-of-america/"
+      ],
+      "article_titles": [
+        "Before his death in 2025, Half-Life 2 art director Viktor Antonov worked on one last game: A Wild West FPS roguelike that's 'coming soon' to Steam",
+        "The \"final game\" from Half-Life 2 and Dishonored's late art director has been revealed: \"The world's first Soulslike FPS,\" an apocalyptic Western at \"the end of America\""
+      ]
+    },
+    {
+      "headline": "Xbox Layoffs Begin Now: Contracts Already Being Cut Ahead of Reported Mass Layoff Wave",
+      "tag": "xbox / microsoft",
+      "posted_at": "2026-06-30T17:01:26.376694+00:00",
+      "urls": [
+        "https://kotaku.com/contracts-already-cut-xbox-eve-mass-layoffs-2000711688",
+        "https://otakukart.com/we-will-not-be-treated-as-disposable-xbox-union-responds-to-reported-mass-layoffs-with-strong-warning-to-microsoft/"
+      ],
+      "article_titles": [
+        "Contracts Are Already Being Cut At Xbox On The Eve Of Mass Layoffs",
+        "\u201cWe Will Not Be Treated as Disposable\u201d: Xbox Union Responds to Reported Mass Layoffs With Strong Warning to Microsoft"
+      ]
+    },
+    {
+      "headline": "Valve Is \"Definitely\" Exploring Arm-Based Gaming Hardware Future",
+      "tag": "valve / steam deck",
+      "posted_at": "2026-06-30T17:01:26.634118+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/steam-machines/valve-says-it-is-definitely-investigating-an-arm-based-gaming-future-on-top-of-its-work-on-fex/"
+      ],
+      "article_titles": [
+        "Valve says it is 'definitely' investigating an Arm-based gaming future on top of its work on FEX"
       ]
     }
   ],
@@ -1354,6 +1376,182 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-30T16:26:16+00:00"
+    },
+    {
+      "guid": "67df4e05-32a2-412c-b05f-7e658628d0c5",
+      "title": "ESA Claims Private Minecraft Servers Are 'Illegal' and 'Piracy' in Stop Killing Games Hearing",
+      "url": "https://www.ign.com/articles/esa-claims-private-minecraft-servers-are-illegal-and-piracy-in-stop-killing-games-hearing",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:32:02+00:00"
+    },
+    {
+      "guid": "b9deaec6-28a1-4935-82db-710c7d4335b4",
+      "title": "Minions & Monsters Review",
+      "url": "https://www.ign.com/articles/minions-monsters-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:28:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711688",
+      "title": "Contracts Are Already Being Cut At Xbox On The Eve Of Mass Layoffs",
+      "url": "https://kotaku.com/contracts-already-cut-xbox-eve-mass-layoffs-2000711688",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:37:23+00:00"
+    },
+    {
+      "guid": "XCoyniNjRHptbps5GExuCf",
+      "title": "Before his death in 2025, Half-Life 2 art director Viktor Antonov worked on one last game: A Wild West FPS roguelike that's 'coming soon' to Steam",
+      "url": "https://www.pcgamer.com/games/fps/before-his-death-in-2025-half-life-2-art-director-viktor-antonov-worked-on-one-last-game-a-wild-west-fps-roguelike-thats-coming-soon-to-steam/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:46:18+00:00"
+    },
+    {
+      "guid": "Fgk9Ai6bTjBsFDrDpyZPVL",
+      "title": "Valve says it is 'definitely' investigating an Arm-based gaming future on top of its work on FEX",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/valve-says-it-is-definitely-investigating-an-arm-based-gaming-future-on-top-of-its-work-on-fex/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:32:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236966855",
+      "title": "Netflix Games Dials Up The Dread For \u2018Unhinged\u2019 Starring Zo\u00eb Kravitz, Sadie Sink & Troy Baker",
+      "url": "https://deadline.com/2026/06/netflix-games-unhinged-interview-troy-baker-sadie-sink-zoe-kravitz-1236966855/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971207",
+      "title": "\u2018The Pitt\u2019 Adds 6 To Recurring Cast For Season 3",
+      "url": "https://deadline.com/2026/06/the-pitt-recurring-cast-season-3-1236971207/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971303",
+      "title": "Benjamin Cavell Joins \u2018Dutton Ranch\u2019 As Showrunner Following Chad Feehan Exit",
+      "url": "https://deadline.com/2026/06/benjamin-cavell-dutton-ranch-showrunner-chad-feehan-exit-1236971303/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:52:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236970772",
+      "title": "Dylan O\u2019Brien To Headline Hulu Comedy Pilot \u2018Lex\u2019",
+      "url": "https://deadline.com/2026/06/dylan-obrien-hulu-comedy-pilot-lex-cast-1236970772/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799327",
+      "title": "Gene Wilder\u2019s Voice Resurrected by AI for Netflix\u2019s Willy Wonka Competition Series; Late Actor\u2019s Wife Gives Blessing",
+      "url": "https://variety.com/2026/tv/news/gene-wilder-voice-ai-willy-wonka-netflix-series-1236799327/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:53:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236798461",
+      "title": "Northwoods Opens Luxury Emagine Parker Theater in Denver Area \u2013 Film News in Brief",
+      "url": "https://variety.com/2026/film/news/film-news-in-brief-june-29-2026-1236798461/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:53:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799362",
+      "title": "\u2018Dutton Ranch\u2019 Taps \u2018SEAL Team\u2019 Creator Benjamin Cavell as Season 2 Showrunner",
+      "url": "https://variety.com/2026/tv/news/dutton-ranch-season-2-showrunner-benjamin-cavell-1236799362/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:43:10+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236633772",
+      "title": "Two Films Share Top Jury Prize at 50th San Francisco Frameline Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/frameline-festival-leviticus-test-camp-miasma-1236633772/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236633774",
+      "title": "Los Angeles Soundstage Complex On the Market",
+      "url": "https://www.hollywoodreporter.com/business/business-news/los-angeles-soundstage-complex-atwater-village-1236633774/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T16:30:24+00:00"
+    },
+    {
+      "guid": "dmPf7YNNeQWDE7coYwHnn7",
+      "title": "Assassin's Creed Black Flag Resynced has \"modernized the combat\" of the original but is more \"action-oriented\" than Shadows",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-has-modernized-the-combat-of-the-original-but-is-more-action-oriented-than-shadows/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T16:50:35+00:00"
+    },
+    {
+      "guid": "NuPfC2bcqJuvFoXSjgfyGW",
+      "title": "After a disastrous Skyrim launch, Switch 2 getting Oblivion Remastered in August is less exciting \u2013 especially when Bethesda won't show much gameplay footage or fix the existing versions of this RPG",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/after-a-disastrous-skyrim-launch-switch-2-getting-oblivion-remastered-in-august-is-less-exciting-especially-when-bethesda-wont-show-much-gameplay-footage-or-fix-the-existing-versions-of-this-rpg/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T16:43:38+00:00"
+    },
+    {
+      "guid": "aAkqoJcVs9KHhHcKrXsBk5",
+      "title": "Planescape: Torment 2 could've happened, Baldur's Gate 2 veteran says \u2013 but Wizards of the Coast didn't want to fund the RPG even though \"they were really into what we were doing\"",
+      "url": "https://www.gamesradar.com/games/rpg/planescape-torment-2-couldve-happened-baldurs-gate-2-veteran-says-but-wizards-of-the-coast-didnt-want-to-fund-the-rpg-even-though-they-were-really-into-what-we-were-doing/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T16:35:39+00:00"
+    },
+    {
+      "guid": "1806024",
+      "title": "The RAM Crisis Is One Big Price-Fixing Monopoly, New Lawsuit Claims",
+      "url": "https://www.gamespot.com/articles/the-ram-crisis-is-one-big-price-fixing-monopoly-new-lawsuit-claims/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T16:46:38+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203219",
+      "title": "Oblivion Remastered's Switch 2 News Is a Sad Reminder That the Game's Still a Mess on PS5",
+      "url": "https://www.pushsquare.com/news/2026/06/oblivion-remastereds-switch-2-news-is-a-sad-reminder-that-the-games-still-a-mess-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118738",
+      "title": "Persona 30th Anniversary Lawson Campaign Launches in Japan",
+      "url": "https://www.siliconera.com/persona-30th-anniversary-lawson-campaign-launches-in-japan/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740971",
+      "title": "Nintendo Shareholders Re-Elect Entire Board During 2026 Annual Meeting",
+      "url": "https://otakukart.com/nintendo-shareholders-re-elect-entire-board-during-2026-annual-meeting/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T16:56:41+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740941",
+      "title": "\u201cWe Will Not Be Treated as Disposable\u201d: Xbox Union Responds to Reported Mass Layoffs With Strong Warning to Microsoft",
+      "url": "https://otakukart.com/we-will-not-be-treated-as-disposable-xbox-union-responds-to-reported-mass-layoffs-with-strong-warning-to-microsoft/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T16:45:04+00:00"
     }
   ]
 }
