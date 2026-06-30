@@ -10,7 +10,7 @@ scoring:
   mw_relevance_min: 6          # minimum polygon_relevance to post
   legolas_pick_min_relevance: 7 # minimum for polygon_pick tier
   article_cache_hours: 4
-  recently_posted_hours: 24
+  recently_posted_hours: 48
   lookback_minutes: 35
   tag_sa_min: 5000              # minimum S/A for a tag to validate proven_topic
   tag_fr_max: 25                # maximum failure rate % for proven_topic tags

@@ -244,8 +244,20 @@ _GNEWS_SOURCE_BLOCKLIST = {
         "AOL", "AOL.com", "Yahoo", "Yahoo Entertainment", "Yahoo News",
         "Yahoo Movies", "Yahoo Finance", "MSN", "MSN.com",
         "Newser", "Flipboard", "SmartNews",
+        # Regional / non-English outlets that appear in English Google News
+        "Sportskeeda", "Republic World",
+        "Daily Asian Age", "dailyasianage.com",
+        "Cumnock Chronicle", "Victoria Buzz",
+        "The Astana Times", "Business Today Malaysia",
     ]
 }
+
+# Domain-suffix patterns that indicate regional / non-English outlets.
+_GNEWS_REGIONAL_SUFFIX_RE = re.compile(
+    r'\.(co\.id|co\.ke|co\.za|co\.kr|com\.my|com\.pk|com\.bd|com\.ng|'
+    r'com\.ph|com\.gh|com\.tr|com\.eg|co\.tz|co\.zw|lk|pk|bd|ke|ng|'
+    r'gh|tz|zw|eg)$', re.IGNORECASE
+)
 
 
 def fetch_google_news_topics(topics: dict) -> list:
@@ -289,6 +301,10 @@ def fetch_google_news_topics(topics: dict) -> list:
 
                 # Block non-English / non-legit sources (non-ASCII in name)
                 if not all(ord(c) < 128 for c in source_name):
+                    continue
+
+                # Block regional domain-style source names (.co.id, .com.my, etc.)
+                if _GNEWS_REGIONAL_SUFFIX_RE.search(source_name):
                     continue
 
                 pub = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
@@ -644,6 +660,49 @@ def claude_find_merges(clusters: list, recently_posted: List[dict]) -> Tuple[dic
     if not clusters:
         return {}, set(), set()
 
+    # URL-based pre-suppression: clusters sharing a URL with a recently posted story
+    posted_urls: set = set()
+    for s in recently_posted:
+        posted_urls.update(s.get("urls", []))
+    url_dupes: set = set()
+    if posted_urls:
+        for c in clusters:
+            local_id = c.get("_local_id", c["id"])
+            if {it["url"] for it in c["items"] if it.get("url")} & posted_urls:
+                url_dupes.add(local_id)
+
+    # Headline word-overlap pre-suppression: checks full recently_posted history
+    headline_dupes: set = set()
+    for c in clusters:
+        local_id = c.get("_local_id", c["id"])
+        if local_id in url_dupes:
+            continue
+        cluster_words = set(w for w in c.get("headline", "").lower().split() if len(w) > 4)
+        if len(cluster_words) < 2:
+            continue
+        for s in recently_posted:
+            prev_words = set(w for w in s["headline"].lower().split() if len(w) > 4)
+            if len(cluster_words & prev_words) >= 3:
+                headline_dupes.add(local_id)
+                log.info(f"Headline dupe pre-suppressed: '{c['headline'][:60]}' ≈ '{s['headline'][:60]}'")
+                break
+            for title in s.get("article_titles", []):
+                title_words = set(w for w in title.lower().split() if len(w) > 4)
+                if len(cluster_words & title_words) >= 3:
+                    headline_dupes.add(local_id)
+                    log.info(f"Article-title dupe pre-suppressed: '{c['headline'][:60]}' ≈ article '{title[:60]}'")
+                    break
+            if local_id in headline_dupes:
+                break
+
+    pre_suppressed = url_dupes | headline_dupes
+    clusters = [c for c in clusters if c.get("_local_id", c["id"]) not in pre_suppressed]
+    if pre_suppressed:
+        log.info(f"Pre-suppression: {len(url_dupes)} URL dupes + {len(headline_dupes)} headline dupes removed before Claude call 1")
+
+    if not clusters:
+        return {}, pre_suppressed, set()
+
     cluster_lines = []
     for c in clusters:
         local_id = c.get("_local_id", c["id"])
@@ -690,10 +749,10 @@ Merge aggressively when it's the same product or event. Be conservative with dup
 
     result = _call_claude(prompt, max_tokens=_CLAUDE_CFG["call1_max_tokens"])
     if not result:
-        return {}, set(), set()
+        return {}, pre_suppressed, set()
 
     merges: Dict[int, List[int]] = {}
-    dupes:  Set[int] = set()
+    dupes:  Set[int] = set(pre_suppressed)  # seed with Python-caught dupes
     splits: Set[int] = set()
 
     for line in result.splitlines():
@@ -889,7 +948,7 @@ TIER: trending/proven_topic/polygon_pick/skip
 RELEVANCE: [1-10]
 HEADLINE: [punchy headline — must name the specific game/show/franchise]
 ANGLE: [one sentence — what specifically happened?]
-TOPIC: [specific game/franchise/series name, or blank if skip]
+TOPIC: [The single game, franchise, or series this story is primarily about — e.g. "Elden Ring", "GTA 6", "Nintendo". Only fill in when the story has one clear subject. Leave blank if the story spans multiple subjects, is a general industry story, or is a skip.]
 NOTE: [one sentence — which pre-check passed/failed, or why posting/skipping]
 
 Post threshold: RELEVANCE >= {RELEVANCE_MIN} and tier is not skip.
@@ -1145,7 +1204,12 @@ def process_feedback(learnings: dict):
             params={"channel": SLACK_CHANNEL_ID, "limit": 50},
             timeout=15,
         )
-        msgs         = resp.json().get("messages", [])
+        data = resp.json()
+        if not data.get("ok"):
+            log.warning(f"Slack conversations.history failed: {data.get('error', 'unknown')} — feedback loop disabled this run")
+            return
+        msgs         = data.get("messages", [])
+        log.info(f"Feedback: scanning {len(msgs)} Slack messages for reactions/replies")
         processed_r  = set(learnings.get("processed_reactions", []))
         processed_re = set(learnings.get("processed_replies", []))
 
@@ -1176,7 +1240,8 @@ def process_feedback(learnings: dict):
                     story_headline = ""
                     story_topic    = ""
                     headline_match = re.search(r'\*(.*?)\*', text)
-                    topic_match    = re.search(r'Topic:\s*([^\n_(]+)', text)
+                    # Topic is in fallback text as "[topic]" at end, or in blocks as "Topic: ..."
+                    topic_match = re.search(r'\[([^\]]+)\]\s*$', text) or re.search(r'Topic:\s*([^\n_(]+)', text)
                     if headline_match:
                         story_headline = headline_match.group(1).strip()
                     if topic_match:
@@ -1208,7 +1273,9 @@ def process_feedback(learnings: dict):
 
         learnings["processed_reactions"] = list(processed_r)
         learnings["processed_replies"]   = list(processed_re)
-        log.info("Processed Slack feedback")
+        n_reactions = len(learnings.get("learnings_log", []))
+        log.info(f"Feedback complete: {len(msgs)} messages scanned, {n_reactions} total log entries, "
+                 f"{len(learnings.get('tag_boosts', {}))} tag boosts active")
     except Exception as e:
         log.warning(f"Feedback processing failed: {e}")
 
