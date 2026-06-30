@@ -564,19 +564,50 @@
       "article_titles": [
         "Valve says it is 'definitely' investigating an Arm-based gaming future on top of its work on FEX"
       ]
+    },
+    {
+      "headline": "Dragon Age's Former Lead Writer Calls AI a \"Virulent Plague\" Being Forced on Games Too Soon",
+      "tag": "dragon age / game development ai",
+      "posted_at": "2026-06-30T17:31:14.092944+00:00",
+      "urls": [
+        "https://kotaku.com/genai-ai-david-gaider-dragon-age-bioware-virulent-plague-2000711678",
+        "https://otakukart.com/its-not-ready-for-prime-time-former-dragon-age-lead-writer-says-game-executives-are-forcing-ai-too-soon/"
+      ],
+      "article_titles": [
+        "Dragon Age Lead Writer Condemns AI As A \u2018Virulent Plague\u2019",
+        "\u201cIt\u2019s not ready for prime time\u201d: Former Dragon Age Lead Writer Says Game Executives Are Forcing AI Too Soon"
+      ]
+    },
+    {
+      "headline": "Xbox Reportedly Planning to Close Arkane Studios and Cancel Marvel's Blade",
+      "tag": "xbox / arkane studios / marvel's blade",
+      "posted_at": "2026-06-30T17:31:14.222982+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/06/xbox-wants-to-cancel-marvels-blade-close-arkane-studios",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ujv1rx/tom_warren_microsoft_could_shut_at_least_five/"
+      ],
+      "article_titles": [
+        "Xbox Wants to Cancel Marvel's Blade, Close Arkane Studios",
+        "Tom Warren: Microsoft could shut at least five studios as part of big Xbox layoffs starting next week, Weighing up canceling BLADE"
+      ]
+    },
+    {
+      "headline": "Netflix's Secret Horror Game Unhinged Stars Zo\u00eb Kravitz, Sadie Sink, and Troy Baker",
+      "tag": "unhinged (netflix games)",
+      "posted_at": "2026-06-30T17:31:14.346823+00:00",
+      "urls": [
+        "https://deadline.com/2026/06/netflix-games-unhinged-interview-troy-baker-sadie-sink-zoe-kravitz-1236966855/",
+        "https://deadline.com/2026/06/netflix-games-unhinged-interview-troy-baker-sadie-sink-zoe-kravitz-1236966855/"
+      ],
+      "article_titles": [
+        "Netflix Games Dials Up The Dread For \u2018Unhinged\u2019 Starring Zo\u00eb Kravitz, Sadie Sink & Troy Baker",
+        "Netflix Games Dials Up The Dread For \u2018Unhinged\u2019 Starring Zo\u00eb Kravitz, Sadie Sink & Troy Baker"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/rockstar-games-union-push-before-gta-6-launch",
-      "title": "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\"",
-      "url": "https://www.eurogamer.net/rockstar-games-union-push-before-gta-6-launch",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T13:15:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000711616",
       "title": "A Cyberpunk: Edgerunners Fan Is Finding Scenes From The Second Season\u2019s Trailer In 2077",
@@ -594,52 +625,12 @@
       "published_dt": "2026-06-30T13:31:32+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236970972",
-      "title": "Paramount-Warner Merger: UK Government \u201cMinded To Intervene\u201d In $110B Deal",
-      "url": "https://deadline.com/2026/06/paramount-warner-merger-uk-government-minded-to-intervene-1236970972/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T13:18:38+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236633743",
       "title": "U.K. Government Likely to Intervene in Paramount\u2019s Warner Bros. Discovery Takeover",
       "url": "https://www.hollywoodreporter.com/business/business-news/uk-may-try-stop-paramount-warner-bros-discovery-deal-1236633743/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-06-30T13:31:44+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236631830",
-      "title": "The Savannah Bananas Hit Roku City In July 4 Banana Ball Push (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/digital/savannah-bananas-roku-city-experience-july-4-1236631830/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T13:18:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236616404",
-      "title": "What Makes Karlovy Vary So Special and the $27M Bonanza That Is KVIFF. A Chat With the Mayor.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/karlovy-vary-mayor-interview-film-festival-economy-kviff-1236616404/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T13:15:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203140",
-      "title": "Watch: Splatoon Raiders Nintendo Direct - Live!",
-      "url": "https://www.nintendolife.com/news/2026/06/watch-splatoon-raiders-nintendo-direct-live",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203200",
-      "title": "The Polymega App Now Lets You Play Your Digitised Retro Games On Steam Deck",
-      "url": "https://www.timeextension.com/news/2026/06/the-polymega-app-now-lets-you-play-your-digitised-retro-games-on-steam-deck",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T13:30:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1061881",
@@ -656,22 +647,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-30T13:43:32+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740893",
-      "title": "ESRB Listing Suggests Warhammer 40,000: Space Marine \u2013 Master Crafted Edition Is Coming to Nintendo Switch 2",
-      "url": "https://otakukart.com/esrb-listing-suggests-warhammer-40000-space-marine-master-crafted-edition-is-coming-to-nintendo-switch-2/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T13:28:49+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740892",
-      "title": "Dune: Awakening Announces Hotfix 1.4.10.1 Maintenance for July 1 With 60-Minute Downtime",
-      "url": "https://otakukart.com/dune-awakening-announces-hotfix-1-4-10-1-maintenance-for-july-1-with-60-minute-downtime/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T13:20:17+00:00"
     },
     {
       "guid": "cba76714-2caa-47b9-8503-1389a47bcbb0",
@@ -1552,6 +1527,126 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-06-30T16:45:04+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711675",
+      "title": "Splatoon Raiders Feels Like It\u2019s Shaping Up To Be The Single-Player Nintendo Shooter We Sickos Have Been Waiting For",
+      "url": "https://kotaku.com/splatoon-raiders-feels-like-its-shaping-up-to-be-the-single-player-nintendo-shooter-we-sickos-have-been-waiting-for-2000711675",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:19:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711678",
+      "title": "Dragon Age Lead Writer Condemns AI As A \u2018Virulent Plague\u2019",
+      "url": "https://kotaku.com/genai-ai-david-gaider-dragon-age-bioware-virulent-plague-2000711678",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:15:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971124",
+      "title": "Artists First Launches Music Division Led By Carmen Murray",
+      "url": "https://deadline.com/2026/06/carmen-murray-joins-artists-first-lead-music-division-1236971124/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799166",
+      "title": "Inside Netflix\u2019s \u2018Unhinged\u2019 Horror Game, Made in Secret Collaboration With David Fincher and \u2018Weapons\u2019 Director Zach Cregger",
+      "url": "https://variety.com/2026/gaming/news/unhinged-netflix-video-game-ending-fincher-zach-cregger-1236799166/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236790662",
+      "title": "The Best Movies of 2026 (So Far)",
+      "url": "https://variety.com/lists/best-movies-of-2026-so-far/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:01:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236633893",
+      "title": "Moody\u2019s Puts Comcast Debt Rating Under Review Amid NBCUniversal Spin-Off Plans",
+      "url": "https://www.hollywoodreporter.com/business/business-news/moodys-comcast-debt-rating-downgrade-1236633893/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:24:31+00:00"
+    },
+    {
+      "guid": "iWo4RHBq3dCbpBCwaZzi5N",
+      "title": "Rockstar, please drop GTA 6 trailer 3 soon, people are starting to analyze Jason's muscles for clues about the game",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-please-drop-gta-6-trailer-3-soon-people-are-starting-to-analyze-jasons-muscles-for-clues-about-the-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:00:28+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203225",
+      "title": "Xbox Wants to Cancel Marvel's Blade, Close Arkane Studios",
+      "url": "https://www.pushsquare.com/news/2026/06/xbox-wants-to-cancel-marvels-blade-close-arkane-studios",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203224",
+      "title": "This FPS Soulslike Is the Last Ever Project from One of Gaming's Greatest Art Directors",
+      "url": "https://www.pushsquare.com/news/2026/06/this-fps-soulslike-is-the-last-ever-project-from-one-of-gamings-greatest-art-directors",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1061809",
+      "title": "The Last Hour of an Epic TO THE MOON RPG debut trailer, new screenshots",
+      "url": "https://www.gematsu.com/2026/06/the-last-hour-of-an-epic-to-the-moon-rpg-debut-trailer-new-screenshots",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:00:40+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1740972",
+      "title": "Splatoon Raiders Direct Reveals 100+ Weapons, New Gadgets, and Deep Customization Ahead of Nintendo Switch 2 Launch",
+      "url": "https://otakukart.com/splatoon-raiders-direct-reveals-100-weapons-new-gadgets-and-deep-customization-ahead-of-nintendo-switch-2-launch/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:16:41+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=611828",
+      "title": "D&D: Five Schools Of Magic That Are Actual Schools",
+      "url": "https://www.belloflostsouls.net/2026/06/dd-five-schools-of-magic-that-are-actual-schools.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/londons-d-d-fan-expo-2026-has-been-postponed-until-next-year.719720/",
+      "title": "London's D&D Fan Expo 2026 has been postponed until next year",
+      "url": "https://www.enworld.org/threads/londons-d-d-fan-expo-2026-has-been-postponed-until-next-year.719720/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:02:00+00:00"
+    },
+    {
+      "guid": "t3_1ujv1rx",
+      "title": "Tom Warren: Microsoft could shut at least five studios as part of big Xbox layoffs starting next week, Weighing up canceling BLADE",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ujv1rx/tom_warren_microsoft_could_shut_at_least_five/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:06:15+00:00"
+    },
+    {
+      "guid": "t3_1ujvfcf",
+      "title": "IOI starting layoffs after Project Fantasy is affected by ending relationship with an external partner (rumored to be published by Xbox)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ujvfcf/ioi_starting_layoffs_after_project_fantasy_is/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:19:55+00:00"
     }
   ]
 }
