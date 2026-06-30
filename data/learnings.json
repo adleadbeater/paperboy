@@ -603,51 +603,59 @@
         "Netflix Games Dials Up The Dread For \u2018Unhinged\u2019 Starring Zo\u00eb Kravitz, Sadie Sink & Troy Baker",
         "Netflix Games Dials Up The Dread For \u2018Unhinged\u2019 Starring Zo\u00eb Kravitz, Sadie Sink & Troy Baker"
       ]
+    },
+    {
+      "headline": "Xbox Abandons IO Interactive's Project Fantasy, Studio Hit by Layoffs",
+      "tag": "project fantasy / io interactive",
+      "posted_at": "2026-06-30T18:01:35.166991+00:00",
+      "urls": [
+        "https://kotaku.com/io-interactive-still-100-committed-to-new-fantasy-game-despite-layoffs-after-external-partner-abandons-it-2000711733",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ujwj2s/jason_schreier_xbox_pulls_out_of_project_fantasy/",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ujvfcf/ioi_starting_layoffs_after_project_fantasy_is/"
+      ],
+      "article_titles": [
+        "Hitman Studio Still \u2018100%\u2019 Committed To New Fantasy Game Despite Layoffs After Xbox Abandons It",
+        "Jason Schreier: Xbox Pulls Out of Project Fantasy Video Game from IO Interactive",
+        "IOI starting layoffs after Project Fantasy is affected by ending relationship with an external partner (rumored to be published by Xbox)"
+      ]
+    },
+    {
+      "headline": "Godot Engine Bans AI-Generated Code Contributions Over Quality and Accountability Concerns",
+      "tag": "godot",
+      "posted_at": "2026-06-30T18:01:35.414763+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/"
+      ],
+      "article_titles": [
+        "Open source game engine Godot will no longer accept AI-authored code contributions: 'We can\u2019t trust heavy users of AI to understand their code enough to fix it'"
+      ]
+    },
+    {
+      "headline": "Xbox Is Reportedly Closing Arkane Austin, the Studio Behind Dishonored and Blade",
+      "tag": "arkane austin / dishonored / blade",
+      "posted_at": "2026-06-30T18:01:35.674651+00:00",
+      "urls": [
+        "https://kotaku.com/report-says-dishonored-blade-developer-is-also-on-xboxs-chopping-block-2000711729"
+      ],
+      "article_titles": [
+        "Report Says Dishonored, Blade Developer Is Also On Xbox\u2019s Chopping Block"
+      ]
+    },
+    {
+      "headline": "Xbox Unions Say They Were Kept in the Dark on Layoffs Despite Months of Negotiations",
+      "tag": "xbox / microsoft gaming",
+      "posted_at": "2026-06-30T18:01:35.930773+00:00",
+      "urls": [
+        "https://kotaku.com/xbox-unions-layoffs-help-2000711624"
+      ],
+      "article_titles": [
+        "Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: \u2018We Understand That Businesses Have To Business, But The Uncertainty Is Maddening\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000711616",
-      "title": "A Cyberpunk: Edgerunners Fan Is Finding Scenes From The Second Season\u2019s Trailer In 2077",
-      "url": "https://kotaku.com/cyberpunk-edgerunners-season-2-2077-night-city-locations-2000711616",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T13:32:52+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236970966",
-      "title": "London \u2018Golden Boy\u2019 Revival With Josh O\u2019Connor Sets Full Cast, Releases Trailer",
-      "url": "https://deadline.com/2026/06/golden-boy-josh-oconnor-trailer-1236970966/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T13:31:32+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236633743",
-      "title": "U.K. Government Likely to Intervene in Paramount\u2019s Warner Bros. Discovery Takeover",
-      "url": "https://www.hollywoodreporter.com/business/business-news/uk-may-try-stop-paramount-warner-bros-discovery-deal-1236633743/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-06-30T13:31:44+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1061881",
-      "title": "Against the Storm survival game in development",
-      "url": "https://www.gematsu.com/2026/06/against-the-storm-survival-game-in-development",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T13:37:10+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1740894",
-      "title": "Palworld 1.0 Will Completely Revamp Wildlife Sanctuaries, Pocketpair Confirms",
-      "url": "https://otakukart.com/palworld-1-0-will-completely-revamp-wildlife-sanctuaries-pocketpair-confirms/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-06-30T13:43:32+00:00"
-    },
     {
       "guid": "cba76714-2caa-47b9-8503-1389a47bcbb0",
       "title": "UK Daily Deals: PlayStation Portal, PS5 Pro, Corsair Gaming Headsets, and More Discounts",
@@ -1647,6 +1655,166 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-06-30T17:19:55+00:00"
+    },
+    {
+      "guid": "6b7c2e06-83f2-48cf-be5e-34c0c3e58c1a",
+      "title": "Today\u2019s Top Deals: LEGO Polaroid Camera, Pok\u00e9mon Prismatic Evolutions ETB, Metroid Prime 4, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-june-30-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:33:52+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711729",
+      "title": "Report Says Dishonored, Blade Developer Is Also On Xbox\u2019s Chopping Block",
+      "url": "https://kotaku.com/report-says-dishonored-blade-developer-is-also-on-xboxs-chopping-block-2000711729",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:34:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711624",
+      "title": "Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: \u2018We Understand That Businesses Have To Business, But The Uncertainty Is Maddening\u2019",
+      "url": "https://kotaku.com/xbox-unions-layoffs-help-2000711624",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:30:57+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000711733",
+      "title": "Hitman Studio Still \u2018100%\u2019 Committed To New Fantasy Game Despite Layoffs After Xbox Abandons It",
+      "url": "https://kotaku.com/io-interactive-still-100-committed-to-new-fantasy-game-despite-layoffs-after-external-partner-abandons-it-2000711733",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:30:34+00:00"
+    },
+    {
+      "guid": "miqy2N8r2fvqttBhGCvMZ6",
+      "title": "Open source game engine Godot will no longer accept AI-authored code contributions: 'We can\u2019t trust heavy users of AI to understand their code enough to fix it'",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:36:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971337",
+      "title": "Mark Harmon Returning To \u2018NCIS: Origins\u2019 As Gibbs For Season 3",
+      "url": "https://deadline.com/2026/06/mark-harmon-ncis-origins-season-3-cast-1236971337/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236970995",
+      "title": "Simu Liu Joins Allison Williams & Michelle Randolph In Xavier Gens Sci-Fi Thriller \u2018Homewrecker\u2019; France Shoot Date Set",
+      "url": "https://deadline.com/2026/06/simu-liu-allison-williams-michelle-randolph-homewrecker-1236970995/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:40:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971349",
+      "title": "Red Sage Studios Taps \u2018Culpa M\u00eda\u2019s Domingo Gonz\u00e1lez To Direct Film Adaptation Of Jessica Cunsolo Bestseller \u2018She\u2019s With Me,\u2019 Hires CAA Vet Nick Lafferty As Chief Operating Officer",
+      "url": "https://deadline.com/2026/06/red-sage-studios-sets-shes-with-me-film-hires-nick-lafferty-1236971349/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:33:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236971335",
+      "title": "Amanda Righetti, William Mapother & Spencer Locke Among Cast For Horror \u2018Shed\u2019, Filming Wraps In Nashville",
+      "url": "https://deadline.com/2026/06/amanda-righetti-william-mapother-spencer-locke-horror-shed-1236971335/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:33:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799407",
+      "title": "Mark Harmon Returning as Gibbs in \u2018NCIS: Origins\u2019 Season 3 Story Arc",
+      "url": "https://variety.com/2026/tv/news/mark-harmon-gibbs-return-ncis-origins-season-3-1236799407/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799413",
+      "title": "\u2018Last Kids on Earth\u2019 TV Series Gets Disney Pilot Order",
+      "url": "https://variety.com/2026/tv/news/last-kids-on-earth-tv-show-disney-pilot-order-1236799413/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236633891",
+      "title": "Live-Action \u2018Last Kids on Earth\u2019 Snags Pilot Order From Disney",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/last-kids-on-earth-live-action-disney-pilot-1236633891/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236633899",
+      "title": "Timoth\u00e9e Chalamet, Selena Gomez Fall for Each Other as Aliens Fall to Earth in Animated \u2018Not Alone\u2019 Trailer",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/not-alone-trailer-timothee-chalamet-selena-gomez-aliens-1236633899/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-06-30T17:52:29+00:00"
+    },
+    {
+      "guid": "SnzSik36KDujsNqBVVQ8dj",
+      "title": "\"When Arc Raiders was at its peak,\" Embark was burning 30 terabytes of data per day tracking every single bullet fired: \"We want to know who shot first\"",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/when-arc-raiders-was-at-its-peak-embark-was-burning-30-terabytes-of-data-per-day-tracking-every-single-bullet-fired-we-want-to-know-who-shot-first/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:28:34+00:00"
+    },
+    {
+      "guid": "1806096",
+      "title": "Helldivers 2 Gets Closer To Modern Politics With Campaign To Build A Wall",
+      "url": "https://www.gamespot.com/articles/helldivers-2-gets-closer-to-modern-politics-with-campaign-to-build-a-wall/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:41:57+00:00"
+    },
+    {
+      "guid": "1806085",
+      "title": "Microsoft Could Cancel Marvel\u2019s Blade And Close Its Developer",
+      "url": "https://www.gamespot.com/articles/microsoft-could-cancel-marvels-blade-and-close-its-developer/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:32:44+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203221",
+      "title": "Super Mario Galaxy Movie Streaming Release Date Confirmed (US)",
+      "url": "https://www.nintendolife.com/news/2026/06/super-mario-galaxy-movie-streaming-release-date-confirmed-us",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118745",
+      "title": "UGREEN Honkai: Star Rail Yao Guang Merchandise Debuts",
+      "url": "https://www.siliconera.com/ugreen-honkai-star-rail-yao-guang-merchandise-debuts/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1061970",
+      "title": "The Verge: Microsoft weighing Arkane Studios closure, Marvel\u2019s Blade cancelation",
+      "url": "https://www.gematsu.com/2026/06/the-verge-microsoft-weighing-arkane-studios-closure-marvels-blade-cancelation",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T17:59:23+00:00"
+    },
+    {
+      "guid": "t3_1ujwj2s",
+      "title": "Jason Schreier: Xbox Pulls Out of Project Fantasy Video Game from IO Interactive",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ujwj2s/jason_schreier_xbox_pulls_out_of_project_fantasy/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-06-30T18:00:01+00:00"
     }
   ]
 }
