@@ -757,86 +757,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000712005",
-      "title": "PS Plus\u2019s Monthly Games Include An Excellent RPG And A Not So Great Call Of Duty",
-      "url": "https://kotaku.com/ps-pluss-monthly-games-include-an-excellent-rpg-and-a-not-so-great-call-of-duty-2000712005",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:23:34+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236634756",
-      "title": "Fox Nation Is About to Premiere a Documentary on the UFC White House Event",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/fox-nation-documentary-ufc-freedom-250-1236634756/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:22:09+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1062023",
-      "title": "Code Vein II expansion \u2018Mask of Idris\u2019 announced",
-      "url": "https://www.gematsu.com/2026/07/code-vein-ii-expansion-mask-of-idris-announced",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-01T16:21:41+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741172",
-      "title": "\u201cExtremely Popular on Our Platform\u201d: Nintendo President Says Indie Games Continue to Drive Growth on Switch, Encourages Earlier Launches",
-      "url": "https://otakukart.com/extremely-popular-on-our-platform-nintendo-president-says-indie-games-continue-to-drive-growth-on-switch-encourages-earlier-launches/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-01T16:23:26+00:00"
-    },
-    {
-      "guid": "Dv35YLmFcKL3KADsiUihtQ",
-      "title": "Netflix has finally figured out how to get viewers off their phones with its newest horror game, but it doesn't quite stick the landing",
-      "url": "https://www.pcgamer.com/games/horror/netflix-has-finally-figured-out-how-to-get-viewers-off-their-phones-with-its-newest-horror-game-but-it-doesnt-quite-stick-the-landing/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:28:36+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236971420",
-      "title": "Robbie Pickering, Alysa Nahmias & Harry Yoon To Receive Film Independent\u2019s Changemaker Award At 23rd Artist Development Showcase",
-      "url": "https://deadline.com/2026/07/film-independent-sets-changemaker-award-recipients-2026-1236971420/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236972341",
-      "title": "\u2018Project Hail Mary\u2019 Arriving On Prime Video After 105-Day Theatrical Window",
-      "url": "https://deadline.com/2026/07/project-hail-mary-prime-video-release-date-1236972341/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:26:43+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236634819",
-      "title": "\u2018Passion of the Christ\u2019 Set For Theatrical Return",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/passion-of-the-christ-theatrical-return-1236634819/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:30:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236971574",
-      "title": "Lola Tung Joins Halina Reijn\u2019s A24 Film \u2018Please\u2019",
-      "url": "https://deadline.com/2026/07/lola-tung-joins-please-a24-halina-reijn-1236971574/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236971812",
-      "title": "Starz Boards Bella Ramsey-Led Channel 4 Drama \u2018Maya\u2019",
-      "url": "https://deadline.com/2026/07/starz-bella-ramsey-channel-4-drama-maya-1236971812/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:30:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236799766",
       "title": "Could Luca Guadagnino\u2019s \u2018Artificial\u2019 Be This Oscar Season\u2019s \u2018The Apprentice\u2019?",
       "url": "https://variety.com/2026/film/awards/artificial-luca-guadagnino-oscars-apprentice-1236799766/",
@@ -851,14 +771,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-01T16:49:03+00:00"
-    },
-    {
-      "guid": "https://variety.com/?post_type=pmc_list&p=1236798849",
-      "title": "The Best TV Shows of 2026 (So Far)",
-      "url": "https://variety.com/lists/best-tv-shows-of-2026-so-far/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T16:30:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236634217",
@@ -1763,6 +1675,14 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-07-01T20:02:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236972596",
+      "title": "Morgan Kohan On \u2018Sullivan\u2019s Crossing\u2019 Without Scott Patterson\u2019s Sully: \u201cIt Shakes Things Up In A Nice Way\u201d",
+      "url": "https://deadline.com/2026/07/morgan-kohan-sullivans-crossing-scott-patterson-1236972596/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T20:30:00+00:00"
     }
   ]
 }
