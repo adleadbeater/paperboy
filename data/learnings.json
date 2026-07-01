@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Disney Wanted to Buy Twitter and James Bond, Considered Merger With Apple",
-      "tag": "",
-      "posted_at": "2026-06-23T20:00:54.900782+00:00",
-      "urls": [
-        "https://variety.com/2026/film/news/disney-failed-buy-james-bond-twitter-apple-bob-iger-1236788523/",
-        "https://www.hollywoodreporter.com/business/business-news/bob-iger-exit-interview-disney-apple-twitter-james-bond-1236628465/",
-        "https://www.ign.com/articles/disney-wanted-to-buy-twitter-and-james-bond-considered-merger-with-apple"
-      ],
-      "article_titles": [
-        "Disney Failed to Buy James Bond Franchise, Walked Away From Owning Twitter Hours Before the Deal Closed and Held Apple Merger Talks",
-        "Bob Iger Says Disney Held Talks With Apple About a Deal But They \u201cDidn\u2019t Show That Much Interest\u201d",
-        "Disney Wanted to Buy Twitter and James Bond, Considered Merger With Apple"
-      ]
-    },
-    {
       "headline": "\u2018My Life With the Walter Boys\u2019 Season 3 to Premiere on Netflix in August (TV News Roundup)",
       "tag": "",
       "posted_at": "2026-06-24T17:00:48.754644+00:00",
@@ -651,26 +636,119 @@
       "article_titles": [
         "Xbox Unions In The Dark Despite Negotiating Layoff Protections For Months: \u2018We Understand That Businesses Have To Business, But The Uncertainty Is Maddening\u2019"
       ]
+    },
+    {
+      "headline": "PlayStation Is Planning to Stop Releasing Games on Physical Discs",
+      "tag": "playstation",
+      "posted_at": "2026-07-01T14:00:03.270934+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/07/just-15percent-of-all-ps5-software-was-purchased-physically-last-quarter",
+        "https://variety.com/2026/gaming/news/playstation-ending-games-physical-discs-2028-1236799978/"
+      ],
+      "article_titles": [
+        "Just 15% of All PS5 Software Was Purchased Physically Last Quarter",
+        "Sony\u2019s PlayStation to Stop Releasing Games on Physical Discs"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.nintendolife.com/#article-203232",
-      "title": "Tomb Raider: Definitive Edition Switch 2 Limited Run Physical Release Announced",
-      "url": "https://www.nintendolife.com/news/2026/07/tomb-raider-definitive-edition-switch-2-limited-run-physical-release-announced",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-01T01:15:00+00:00"
+      "guid": "https://kotaku.com/?p=2000711937",
+      "title": "Nintendo\u2019s Reported 10-Percent Salary Increase Took Place Over Three Years Ago",
+      "url": "https://kotaku.com/nintendo-shareholder-qa-salary-10-percent-raise-confusion-2000711937",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:50:04+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-203234",
-      "title": "Round Up: The Final Previews Are In For Splatoon Raiders",
-      "url": "https://www.nintendolife.com/news/2026/07/round-up-the-final-previews-are-in-for-splatoon-raiders",
-      "source_name": "Nintendo Life",
+      "guid": "https://deadline.com/?p=1236972159",
+      "title": "Unifrance President Gilles P\u00e9lisson Re-elected",
+      "url": "https://deadline.com/2026/07/unifrance-president-gilles-pelisson-re-elected-three-years-1236972159/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:49:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236972155",
+      "title": "Harvey Weinstein In Hospital Following \u201cSevere Breathing Issues\u201d",
+      "url": "https://deadline.com/2026/07/harvey-weinstein-in-hospital-severe-breathing-issues-1236972155/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:42:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236972132",
+      "title": "Danny Glover Reveals Alzheimer\u2019s Diagnosis",
+      "url": "https://deadline.com/2026/07/danny-glover-alzheimers-1236972132/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:27:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799984",
+      "title": "Danny Glover Reveals Alzheimer\u2019s Diagnosis: \u2018Things Are Going to Be Different and Changing\u2019",
+      "url": "https://variety.com/2026/film/news/danny-glover-alzheimers-diagnosis-1236799984/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:39:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236799978",
+      "title": "Sony\u2019s PlayStation to Stop Releasing Games on Physical Discs",
+      "url": "https://variety.com/2026/gaming/news/playstation-ending-games-physical-discs-2028-1236799978/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:28:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236634552",
+      "title": "Canada to Compete in 2027 Eurovision Song Contest",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/canada-eurovision-song-contest-2027-1236634552/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:56:21+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236634547",
+      "title": "Paramount to Exit Universal Joint Venture In Order to Win EU Approval for Warner Bros. Merger",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-to-exit-uip-to-win-eu-approval-for-warner-merger-1236634547/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-01T13:52:38+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203269",
+      "title": "Just 15% of All PS5 Software Was Purchased Physically Last Quarter",
+      "url": "https://www.pushsquare.com/news/2026/07/just-15percent-of-all-ps5-software-was-purchased-physically-last-quarter",
+      "source_name": "Push Square",
       "source_tier": 2,
-      "published_dt": "2026-07-01T04:55:00+00:00"
+      "published_dt": "2026-07-01T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203247",
+      "title": "Warhammer 40k: Space Marine Remaster Is Heading for PS5 After a Year of Xbox Exclusivity",
+      "url": "https://www.pushsquare.com/news/2026/07/warhammer-40k-space-marine-remaster-is-heading-for-ps5-after-a-year-of-xbox-exclusivity",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-01T13:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741142",
+      "title": "Zenless Zone Zero Confirms Advanced Bounty and Tales of the Hobbling Crow Events for July",
+      "url": "https://otakukart.com/zenless-zone-zero-confirms-advanced-bounty-and-tales-of-the-hobbling-crow-events-for-july/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-01T13:41:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741141",
+      "title": "The First Descendant Homepage to Go Offline for One Hour on July 1 Due to Scheduled Maintenance",
+      "url": "https://otakukart.com/the-first-descendant-homepage-to-go-offline-for-one-hour-on-july-1-due-to-scheduled-maintenance/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-01T13:35:35+00:00"
     }
   ]
 }
