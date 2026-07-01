@@ -4,7 +4,7 @@
 claude:
   model: claude-sonnet-4-6
   call1_max_tokens: 600
-  call2_max_tokens: 5000
+  call2_max_tokens: 20000
 
 scoring:
   mw_relevance_min: 6          # minimum polygon_relevance to post
