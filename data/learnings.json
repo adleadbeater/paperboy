@@ -657,28 +657,20 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236971931",
-      "title": "Disneyland Summer Special: Tickets For $59",
-      "url": "https://deadline.com/2026/06/disneyland-tickets-59-dollars-1236971931/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T01:13:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236799769",
-      "title": "Jury Says Chris Brown Owes Housekeeper $13 Million for Disfigurement in Dog Mauling Attack",
-      "url": "https://variety.com/2026/music/news/chris-brown-verdict-dog-mauling-housekeeper-13-million-1236799769/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T01:13:48+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-203232",
       "title": "Tomb Raider: Definitive Edition Switch 2 Limited Run Physical Release Announced",
       "url": "https://www.nintendolife.com/news/2026/07/tomb-raider-definitive-edition-switch-2-limited-run-physical-release-announced",
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-07-01T01:15:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203234",
+      "title": "Round Up: The Final Previews Are In For Splatoon Raiders",
+      "url": "https://www.nintendolife.com/news/2026/07/round-up-the-final-previews-are-in-for-splatoon-raiders",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-01T04:55:00+00:00"
     }
   ]
 }
