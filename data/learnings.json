@@ -852,139 +852,24 @@
       "article_titles": [
         "Amnesia studio delays its new game into 2027"
       ]
+    },
+    {
+      "headline": "Rhythm Heaven Is Back: Nintendo Announces Rhythm Heaven Groove With 100+ Games",
+      "tag": "rhythm heaven groove",
+      "posted_at": "2026-07-02T20:00:56.455391+00:00",
+      "urls": [
+        "https://variety.com/2026/gaming/news/rhythm-heaven-groove-video-game-1236800585/",
+        "https://www.siliconera.com/rhythm-heaven-groove-merchandise-and-nintendo-music-soundtrack-songs-debut/"
+      ],
+      "article_titles": [
+        "\u2018Rhythm Heaven Groove\u2019 Is Back After a Decade to Test Your Reflexes With Over 100 Games",
+        "Rhythm Heaven Groove Merchandise and Nintendo Music Soundtrack Songs Debut"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "sHxVngs2A58V9ztLFucYVW",
-      "title": "'Meta will need to reduce or possibly stop AI investment in datacenters, as it already has excess capacity': The AI infrastructure bubble feels the heat",
-      "url": "https://www.pcgamer.com/software/ai/meta-will-need-to-reduce-or-possibly-stop-ai-investment-in-datacenters-as-it-already-has-excess-capacity-the-ai-infrastructure-bubble-feels-the-heat/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:30:51+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236972754",
-      "title": "\u2018Minions & Monsters\u2019 Munches On $14M+ Opening Day, Lands A- CinemaScore \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/07/box-office-minions-monsters-1236972754/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:32:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236800877",
-      "title": "UTA Partner Jeremy Barber on Joining UNICEF Board and Enlisting Hollywood to Tell Organization\u2019s Stories: \u2018I Believe We\u2019re Here to Take Care of Each Other\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/biz/columns/uta-jeremy-barber-unicef-1236800877/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:36:26+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236635846",
-      "title": "Telemundo Expected a World Cup Ratings Boost, But Not One This Big",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/telemundo-world-cup-2026-ratings-boost-1236635846/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:36:34+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/steam-machine-arrived-unboxing",
-      "title": "The first wave of Steam Machines has arrived at long last, but those without are left watching the waitlist",
-      "url": "https://www.eurogamer.net/steam-machine-arrived-unboxing",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:43:45+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000712263",
-      "title": "The Video Game Industry\u2019s Trade Body Doesn\u2019t Want To Talk About Digital Ownership",
-      "url": "https://kotaku.com/video-game-industry-esa-digital-ownership-2000712263",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:41:30+00:00"
-    },
-    {
-      "guid": "nYwQVdds7riUdFVbMCuTqK",
-      "title": "Ubisoft hires former Take-Two and Amazon vet to head up its Tom Clancy games",
-      "url": "https://www.pcgamer.com/gaming-industry/ubisoft-hires-former-take-two-and-amazon-vet-to-head-up-its-tom-clancy-games/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:46:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236800890",
-      "title": "Crunchyroll Founder Launches AniBiz, New Global Anime Licensing Platform With Offerings From Aniplex, Toei and More Top IP Holders (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/crunchyroll-founder-new-anime-website-anibiz-1236800890/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T16:00:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236799670",
-      "title": "\u2018Dutton Ranch\u2019 Season Finale Sneak Peek: Watch Rip Punch a Dude Who Foolishly Puts His Hands on Beth (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/dutton-ranch-season-finale-preview-rip-punches-guy-beth-1236799670/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236616469",
-      "title": "Why Stars Love Karlovy Vary and Vice Versa. Just Ask Dakota Johnson or Russell Crowe",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/why-stars-love-karlovy-vary-dakota-johnson-johnny-depp-1236616469/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:45:00+00:00"
-    },
-    {
-      "guid": "1807637",
-      "title": "PlayStation\u2019s Digital-Only Future Makes Sony\u2019s Dynamic Pricing Harder To Ignore",
-      "url": "https://www.gamespot.com/articles/playstations-digital-only-future-makes-sonys-dynamic-pricing-harder-to-ignore/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T15:49:36+00:00"
-    },
-    {
-      "guid": "1807648",
-      "title": "Call Of Duty: Black Ops 7, Diablo 4, And More Games Are Free On Xbox This Weekend",
-      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-7-diablo-4-and-more-games-are-free-on-xbox-this-weekend/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T15:49:29+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1118923",
-      "title": "Onimusha: Way of the Sword Release Date Bumped Up",
-      "url": "https://www.siliconera.com/onimusha-way-of-the-sword-release-date-bumped-up/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T16:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741302",
-      "title": "Nintendo Weekly Update Adds Rhythm Heaven Groove, Oblivion Remastered, and New Switch Content",
-      "url": "https://otakukart.com/nintendo-weekly-update-adds-rhythm-heaven-groove-oblivion-remastered-and-new-switch-content/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T15:52:58+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741276",
-      "title": "ANKI: Nikko Kegon Falls Arc Confirms October Premiere With Eight New Cast Members and Oni Brigade Visual Reveal",
-      "url": "https://otakukart.com/anki-nikko-kegon-falls-arc-confirms-october-premiere-with-eight-new-cast-members-and-oni-brigade-visual-reveal/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T15:46:37+00:00"
-    },
-    {
-      "guid": "t3_1ullqn7",
-      "title": "GTA 6 will Feature Community Hosted Servers.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ullqn7/gta_6_will_feature_community_hosted_servers/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T15:40:16+00:00"
-    },
     {
       "guid": "etAinq4khiFNxS5LShHErN",
       "title": "World of Warcraft's on the quality-of-life boost warpath, with fixes including an auto-loot setting that's been mildly inconveniencing alt-lovers for years",
@@ -1040,14 +925,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-02T16:10:51+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203323",
-      "title": "\"Like Having A Dead Body Handcuffed To You\" - Co-Founder Of Codemasters Predicted The Death Of Physical Media 13 Years Ago",
-      "url": "https://www.timeextension.com/news/2026/07/like-having-a-dead-body-handcuffed-to-you-co-founder-of-codemasters-predicted-the-death-of-physical-media-13-years-ago",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T16:00:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/ontos-delayed-to-2027",
@@ -1552,6 +1429,62 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-02T19:16:21+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000712281",
+      "title": "This Is The Most Expensive It\u2019s Ever Been To Buy A New GTA And A PlayStation To Play It On",
+      "url": "https://kotaku.com/this-is-the-most-expensive-its-ever-been-to-buy-a-new-gta-and-a-playstation-to-play-it-on-2000712281",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T19:30:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236973350",
+      "title": "\u2018The Jeffersons\u2019 Actor Marla Gibbs Given Honorary Day By City Of Chicago",
+      "url": "https://deadline.com/2026/07/marla-gibbs-the-jeffersons-honorary-day-chicago-1236973350/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T19:50:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236800585",
+      "title": "\u2018Rhythm Heaven Groove\u2019 Is Back After a Decade to Test Your Reflexes With Over 100 Games",
+      "url": "https://variety.com/2026/gaming/news/rhythm-heaven-groove-video-game-1236800585/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801010",
+      "title": "John Oliver\u2019s Gun-Toting \u2018General Hospital\u2019 Turn Wowed His Co-Star: \u2018It Was Incredible\u2019",
+      "url": "https://variety.com/2026/tv/news/john-oliver-general-hospital-acting-laura-wright-1236801010/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236800942",
+      "title": "Is Harbor Fund Participant 2.0? Movie Stars Hope So",
+      "url": "https://variety.com/2026/film/news/harbor-fund-participant-social-impact-1236800942/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T19:52:11+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118946",
+      "title": "Voltage Switch Otome Even if Tempest Heads to PC via Steam",
+      "url": "https://www.siliconera.com/voltage-switch-otome-even-if-tempest-heads-to-pc-via-steam/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T20:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741318",
+      "title": "Park Gyu-jeong Confirms Plans for Fall Marriage Following Bandmate\u2019s Engagement",
+      "url": "https://otakukart.com/park-gyu-jeong-confirms-plans-for-fall-marriage-following-bandmates-engagement/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T19:31:50+00:00"
     }
   ]
 }
