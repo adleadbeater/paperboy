@@ -858,22 +858,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236800361",
-      "title": "Questlove Teams Up With North Road for Digital Talk Show \u2018The Next Move\u2019",
-      "url": "https://variety.com/2026/tv/news/questlove-north-road-talk-show-the-next-move-1236800361/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T15:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741273",
-      "title": "Avatar: The Last Airbender Live-Action Mai Actress Faces Bullying From Toxic Fanbase as Others Rally in Her Defense",
-      "url": "https://otakukart.com/avatar-the-last-airbender-live-action-mai-actress-faces-bullying-from-toxic-fanbase-as-others-rally-in-her-defense/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T15:00:32+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/shuhei-yoshida-steam-machine",
       "title": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed",
       "url": "https://www.eurogamer.net/shuhei-yoshida-steam-machine",
@@ -960,22 +944,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-02T15:00:51+00:00"
-    },
-    {
-      "guid": "F5LNoSXG3TTRqP7CerNu9e",
-      "title": "Did you spend $80 for the PS5 Disc Drive? Well, by 2028 you'll have a nice white paper weight on your hands",
-      "url": "https://www.gamesradar.com/hardware/accessories/did-you-spend-usd80-for-the-ps5-disc-drive-well-by-2028-youll-have-a-nice-white-paper-weight-on-your-hands/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:58:32+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203162",
-      "title": "Opinion: What's The Best Star Fox Stage, And Why Is It Sector X?",
-      "url": "https://www.nintendolife.com/features/opinion-whats-the-best-star-fox-stage-and-why-is-it-sector-x",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T15:00:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1118910",
@@ -1648,6 +1616,22 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-02T18:41:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236972753",
+      "title": "Everything We Know About \u2018Elle\u2019 Season 2 So Far",
+      "url": "https://deadline.com/feature/elle-season-2-news-updates-legally-blonde-prequel-show-1236972753/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:55:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741346",
+      "title": "Everything Coming to Netflix in July 2026: Full Release Schedule, Top Shows, and Must-Watch",
+      "url": "https://otakukart.com/everything-coming-to-netflix-in-july-2026-full-release-schedule-top-shows-and-must-watch/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T18:57:10+00:00"
     }
   ]
 }
