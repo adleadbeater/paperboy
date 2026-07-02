@@ -865,19 +865,22 @@
         "\u2018Rhythm Heaven Groove\u2019 Is Back After a Decade to Test Your Reflexes With Over 100 Games",
         "Rhythm Heaven Groove Merchandise and Nintendo Music Soundtrack Songs Debut"
       ]
+    },
+    {
+      "headline": "Thick as Thieves Studio Is Nearly Empty After Fresh Wave of Layoffs",
+      "tag": "thick as thieves",
+      "posted_at": "2026-07-02T20:13:23.504228+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/fewer-than-10-employees-remain-at-thick-as-thieves-studio-following-another-round-of-layoffs/"
+      ],
+      "article_titles": [
+        "'Fewer than 10' employees remain at Thick as Thieves studio following another round of layoffs"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "etAinq4khiFNxS5LShHErN",
-      "title": "World of Warcraft's on the quality-of-life boost warpath, with fixes including an auto-loot setting that's been mildly inconveniencing alt-lovers for years",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcrafts-on-the-quality-of-life-boost-warpath-with-fixes-including-an-auto-loot-setting-thats-been-mildly-inconveniencing-alt-lovers-for-years/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T16:04:38+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1236972797",
       "title": "\u2018Chicago P.D.\u2019 Star LaRoyce Hawkins To Leave NBC Series In Season 14",
@@ -917,14 +920,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-02T16:21:50+00:00"
-    },
-    {
-      "guid": "mJKtrbh7PM65TpfA8m3MBV",
-      "title": "Assassin's Creed Black Flag Resynced is hiding \"a lot of new shipwrecks\" and secrets to explore using the newly added \"dive anywhere\" feature, teases tech lead",
-      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-is-hiding-a-lot-of-new-shipwrecks-and-secrets-to-explore-using-the-newly-added-dive-anywhere-feature-teases-tech-lead/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T16:10:51+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/ontos-delayed-to-2027",
@@ -1485,6 +1480,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-02T19:31:50+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000712337",
+      "title": "Captain America\u2019s Bulge Won\u2019t Stop Jiggling In His New Marvel Rivals Summer Skin",
+      "url": "https://kotaku.com/marvel-rivals-captain-america-summer-skin-physics-2000712337",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:00:36+00:00"
+    },
+    {
+      "guid": "fWQU3eaRzZg44wAVCqoWfQ",
+      "title": "'Fewer than 10' employees remain at Thick as Thieves studio following another round of layoffs",
+      "url": "https://www.pcgamer.com/gaming-industry/fewer-than-10-employees-remain-at-thick-as-thieves-studio-following-another-round-of-layoffs/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:06:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236973425",
+      "title": "NewFilmmakers Los Angeles Announces Winners Of 14th NFMLA Awards; Nani Sahra Walker Claims Best New Filmmaker Prize",
+      "url": "https://deadline.com/2026/07/newfilmmakers-los-angeles-2026-best-of-nfmla-awards-winners-1236973425/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:08:24+00:00"
     }
   ]
 }
