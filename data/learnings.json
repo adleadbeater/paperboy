@@ -909,14 +909,6 @@
       "published_dt": "2026-07-02T17:59:39+00:00"
     },
     {
-      "guid": "1807840",
-      "title": "Amazon Prime Members Get 12 Games For Free In July",
-      "url": "https://www.gamespot.com/articles/amazon-prime-members-get-12-games-for-free-in-july/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T17:32:13+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-203335",
       "title": "SOMA Dev Pushes PS5 Thriller ONTOS to 2027",
       "url": "https://www.pushsquare.com/news/2026/07/soma-dev-pushes-ps5-thriller-ontos-to-2027",
@@ -1427,6 +1419,22 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-02T21:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000712351",
+      "title": "Hollywood Is Desperate For The Next Backrooms As Studios Buy Up Film Rights To More Creepy Online Media",
+      "url": "https://kotaku.com/hollywood-is-desperate-for-the-next-backrooms-2000712351",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T21:30:33+00:00"
+    },
+    {
+      "guid": "YzZMYkjhjqZ7KSZ7hVPppP",
+      "title": "Donkey Kong 64 PC recompilation rejects \"AI vibe coding\" as devs try to build a port of \"actually good quality before our competitor releases their poorly made one\"",
+      "url": "https://www.gamesradar.com/games/donkey-kong/donkey-kong-64-pc-recompilation-rejects-ai-vibe-coding-as-devs-try-to-build-a-port-of-actually-good-quality-before-our-competitor-releases-their-poorly-made-one/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T21:29:38+00:00"
     }
   ]
 }
