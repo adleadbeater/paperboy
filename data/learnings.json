@@ -768,30 +768,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000712068",
-      "title": "This Terrifying New Horror Game Wants You To Dig Up That Which Should Stay Buried",
-      "url": "https://kotaku.com/horror-game-mole-steam-review-2000712068",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T20:12:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236800043",
-      "title": "How Path\u00e9\u2019s \u2018De Gaulle\u2019 Fought Its Way Back at the French Box Office With a Push from YouTuber  Inoxtag That Lured Younger Crowds",
-      "url": "https://variety.com/2026/film/global/pathe-de-gaulle-french-box-office-youtuber-inoxtag-1236800043/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T20:09:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236972596",
-      "title": "Morgan Kohan On \u2018Sullivan\u2019s Crossing\u2019 Without Scott Patterson\u2019s Sully: \u201cIt Shakes Things Up In A Nice Way\u201d",
-      "url": "https://deadline.com/2026/07/morgan-kohan-sullivans-crossing-scott-patterson-1236972596/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T20:30:00+00:00"
-    },
-    {
       "guid": "4a74d9ba-36a4-4133-b1de-28454bfeea9c",
       "title": "Ex-Modern Warfare Creative Strategist Launches New Studio, Pushing Back Against Live Service Trends",
       "url": "https://www.ign.com/articles/ex-modern-warfare-creative-strategist-launches-new-studio-pushing-back-against-live-service-trends",
@@ -814,14 +790,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-07-01T20:45:12+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000712074",
-      "title": "GameStop Is Inflating Pok\u00e9mon\u2019s 30th Anniversary Card Prices By Insane Amounts",
-      "url": "https://kotaku.com/pokemon-30-anniversary-gamestop-cards-prices-tcg-etb-2000712074",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-01T20:30:01+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1236972654",
@@ -1070,6 +1038,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-01T23:39:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236972808",
+      "title": "\u2018The Gunfighter\u2019: RXM Entertainment Vigilante Movie Sets Patrick Perez Vidauri To Direct",
+      "url": "https://deadline.com/2026/07/the-gunfighter-mario-kassar-vanessa-vasquez-1236972808/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T00:23:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236635456",
+      "title": "As U.S.-Bosnia Kicks Off, Here Are the Money Winners and Losers of the 2026 World Cup",
+      "url": "https://www.hollywoodreporter.com/business/business-news/world-cup-us-fox-sports-zlatan-results-watch-1236635456/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T00:25:05+00:00"
+    },
+    {
+      "guid": "9bVMfnaCDyNSc5oRJedbUM",
+      "title": "After layoffs and Destiny 2's abrupt end, Bungie \"can't promise a fix\" to reported issues: \"We will get this out when possible\"",
+      "url": "https://www.gamesradar.com/games/destiny/after-layoffs-and-destiny-2s-abrupt-end-bungie-cant-promise-a-fix-to-reported-issues-we-will-get-this-out-when-possible/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T00:10:25+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1062264",
+      "title": "Onimusha: Way of the Sword release date moved up to September 4",
+      "url": "https://www.gematsu.com/2026/07/onimusha-way-of-the-sword-release-date-moved-up-to-september-4",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T00:16:26+00:00"
     }
   ]
 }
