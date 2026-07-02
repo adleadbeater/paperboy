@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox Raises X and S Console Prices by Over $100, Kills 2TB Model",
-      "tag": "xbox",
-      "posted_at": "2026-06-25T18:30:23.275134+00:00",
-      "urls": [
-        "https://variety.com/2026/gaming/news/xbox-price-hike-x-s-consoles-discontinue-2-tb-model-1236790767/"
-      ],
-      "article_titles": [
-        "Xbox Hikes X and S Consoles Price by More Than $100, Discontinues 2 TB Model"
-      ]
-    },
-    {
-      "headline": "Keanu Reeves' Stop-Motion Samurai Film 'Hidari' Is Wowing Annecy \u2014 Think John Wick in Feudal Japan",
-      "tag": "hidari",
-      "posted_at": "2026-06-25T18:30:23.507919+00:00",
-      "urls": [
-        "https://variety.com/2026/artisans/global/keanu-reeves-stop-motion-samurai-animation-hidari-annecy-1236790711/"
-      ],
-      "article_titles": [
-        "Keanu Reeves-Voiced Stop-Motion Samurai Animation \u2018Hidari\u2019 Steals the Show at Annecy: \u2018Imagine \u2018John Wick\u2019 Set in Feudal Japan and Performed by Wooden Puppets on Steroids\u2019"
-      ]
-    },
-    {
-      "headline": "Hasbro Allegedly Trying to Force Child Actors Into Signing AI Voice Contracts",
-      "tag": "hasbro",
-      "posted_at": "2026-06-25T18:30:23.736444+00:00",
-      "urls": [
-        "https://kotaku.com/hasbro-force-child-actors-ai-voice-contracts-peppa-pig-2000710552"
-      ],
-      "article_titles": [
-        "Hasbro Tries To Force Child Actors Into Signing AI Voice Contracts"
-      ]
-    },
-    {
       "headline": "Switch 2 Is the Second Fastest-Selling Console in US History \u2014 While Xbox Has Its Worst May Ever",
       "tag": "nintendo switch 2 / playstation / xbox",
       "posted_at": "2026-06-26T16:05:00.589614+00:00",
@@ -874,123 +841,22 @@
         "Soma dev's next game, Ontos, delayed to 2027 in order to deliver on studio's \"ambitious\" vision",
         "ONTOS delayed to 2027"
       ]
+    },
+    {
+      "headline": "Frictional Games Delays Its New Horror Title to 2027",
+      "tag": "frictional games",
+      "posted_at": "2026-07-02T18:31:09.644723+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/horror/amnesia-studio-delays-its-new-game-into-2027/"
+      ],
+      "article_titles": [
+        "Amnesia studio delays its new game into 2027"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "6TwcfC6iPUmpxe4NVHf4Wg",
-      "title": "WoW's bug-filled April patch was actually from trying to fix too much too fast, says director Ion Hazzikostas\u2014like an elevator from 13 years ago that blew up housing",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wows-bug-filled-april-patch-was-actually-from-trying-to-fix-too-much-too-fast-says-director-ion-hazzikostas-like-an-elevator-from-13-years-ago-that-blew-up-housing/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T14:21:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236973099",
-      "title": "As Paramount-Warner Merger Enters Antitrust Crunch Time In Europe, Britain Holds Key To David Ellison Hitting His September Deadline",
-      "url": "https://deadline.com/2026/07/paramount-warner-merger-antitrust-crunch-time-europe-1236973099/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T14:25:05+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236973115",
-      "title": "Armani Group & Family Distance Themselves From Movie Biopic",
-      "url": "https://deadline.com/2026/07/armani-group-family-biopic-1236973115/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T14:13:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236973092",
-      "title": "Canal+ Removes TF1 Channels In Pay-TV Carriage Spat",
-      "url": "https://deadline.com/2026/07/canal-plus-removes-tf1-channels-carriage-row-1236973092/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T14:02:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236800007",
-      "title": "Peyton Manning\u2019s Omaha Productions Builds Line-Up Tied to Women\u2019s Sports",
-      "url": "https://variety.com/2026/tv/news/omaha-productions-womens-sports-peyton-manning-1236800007/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T14:25:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236800827",
-      "title": "Gary Glitter Charged With \u2018Historic\u2019 Sexual Offenses, Including Alleged Intercourse With Girl Under 13 Years Old",
-      "url": "https://variety.com/2026/music/global/gary-glitter-charged-historic-sexual-offenses-girl-under-13-1236800827/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T14:08:12+00:00"
-    },
-    {
-      "guid": "1807579",
-      "title": "Xbox May Shut Down Obsidian Entertainment, Too",
-      "url": "https://www.gamespot.com/articles/xbox-may-shut-down-obsidian-entertainment-too/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:09:42+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203277",
-      "title": "Sony Abandons Social Media for 24 Hours+ After Controversially Killing Physical Games",
-      "url": "https://www.pushsquare.com/news/2026/07/sony-abandons-social-media-for-24-hoursplus-after-controversially-killing-physical-games",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:15:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1062431",
-      "title": "Biped 2 version 2.0 update now available",
-      "url": "https://www.gematsu.com/2026/07/biped-2-version-2-0-update-now-available",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:25:12+00:00"
-    },
-    {
-      "guid": "t3_1ulj9wk",
-      "title": "Sony's Been Planning All-Digital Future for 'Some Time', Unlikely to Reverse Decision on Game Discs",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ulj9wk/sonys_been_planning_alldigital_future_for_some/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:06:20+00:00"
-    },
-    {
-      "guid": "t3_1uljbvm",
-      "title": "Jordan Middler on potential Obsidian closure: This is the one that made the least sense to me... they were early on a Fallout project",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uljbvm/jordan_middler_on_potential_obsidian_closure_this/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:08:28+00:00"
-    },
-    {
-      "guid": "t3_1uljdfg",
-      "title": "The Game Business: Asha Sharma has brought a \"start-up mentality\" to Xbox",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uljdfg/the_game_business_asha_sharma_has_brought_a/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:10:13+00:00"
-    },
-    {
-      "guid": "t3_1uljslw",
-      "title": "Jason Schreier: Obsidian is NOT in negotiations to be shut down. They're safe for now.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uljslw/jason_schreier_obsidian_is_not_in_negotiations_to/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:26:37+00:00"
-    },
-    {
-      "guid": "baa7346b-777b-4c1b-80b6-9a220dc31834",
-      "title": "The Most OP Players in Football Game History",
-      "url": "https://www.ign.com/articles/the-most-op-players-in-football-game-history",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T14:30:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/is-yet-another-microsoft-studio-obsidian-negotiating-with-xbox-to-avoid-closure-conflicting-reports-emerge",
       "title": "Is yet another Microsoft studio, Obsidian, negotiating with Xbox to avoid closure? Conflicting reports emerge",
@@ -1054,14 +920,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-07-02T14:30:54+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203286",
-      "title": "Nintendo Download: 2nd July (North America)",
-      "url": "https://www.nintendolife.com/news/2026/07/nintendo-download-2nd-july-north-america",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T14:30:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1062438",
@@ -1710,6 +1568,110 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-02T17:41:16+00:00"
+    },
+    {
+      "guid": "b8ZkeYLeydxpj8dqXzpqKk",
+      "title": "Amnesia studio delays its new game into 2027",
+      "url": "https://www.pcgamer.com/games/horror/amnesia-studio-delays-its-new-game-into-2027/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:00:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236973272",
+      "title": "\u2018Death Boom\u2019 Review: Eli Roth And Leonardo DiCaprio Among Producers Of Docu Warning Baby Boomers To Be Ready: The End Is Coming And It Is Not Pretty",
+      "url": "https://deadline.com/2026/07/death-boom-review-eli-roth-leonardo-dicaprio-baby-boomers-1236973272/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:19:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236973259",
+      "title": "Scott Stuber\u2019s United Artists, Steven Spielberg & Amazon MGM Studios Land Next Big YouTube Horror Franchise For Big Screen: \u2018The Mandela Catalogue\u2019",
+      "url": "https://deadline.com/2026/07/youtube-mandela-catalog-steven-spielberg-scott-stuber-1236973259/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:02:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236800998",
+      "title": "Taylor Swift Wedding Frenzy: The Power Guest List, the NDAs and A-List Panic Over Lack of Details",
+      "url": "https://variety.com/2026/film/news/taylor-swift-wedding-invites-harry-styles-guests-1236800998/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:25:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236685167",
+      "title": "Final Emmy Predictions: \u2018Pluribus\u2019 and \u2018The Pitt\u2019 Lead the Pack as \u2018Widow\u2019s Bay\u2019 Surges and Netflix Looks to Rule the Day",
+      "url": "https://variety.com/lists/2026-emmys-predictions/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236235124",
+      "title": "\u2018Moana 3\u2019 in the Works at Disney, According to Dwayne Johnson",
+      "url": "https://variety.com/2026/film/news/moana-3-disney-1236235124/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:09:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236636060",
+      "title": "Academy Vet Teni Melidonian Exits Role Ahead of Oscars\u2019 Move to YouTube",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/teni-melidonian-exits-academy-changes-oscars-youtube-1236636060/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T18:00:35+00:00"
+    },
+    {
+      "guid": "1807850",
+      "title": "Why Is Sony Killing Discs? It\u2019s \u201cAll About Profitability And Control,\u201d Expert Says",
+      "url": "https://www.gamespot.com/articles/why-is-sony-killing-discs-its-all-about-profitability-and-control-expert-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T18:22:39+00:00"
+    },
+    {
+      "guid": "1807881",
+      "title": "Assassin\u2019s Creed: Black Flag Resynced Launch Times And Preload Schedule Revealed",
+      "url": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-launch-times-and-preload-schedule-revealed/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T18:12:52+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741330",
+      "title": "K-Pop Rising: Dream to Shine Announced for Nintendo Switch, Blending Rhythm Gameplay and Idol Life Simulation",
+      "url": "https://otakukart.com/k-pop-rising-dream-to-shine-announced-for-nintendo-switch-blending-rhythm-gameplay-and-idol-life-simulation/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T18:13:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741329",
+      "title": "Final Fantasy VII: Revelation Store Page Leak Hints at Major Story Expansion and 9 DLC Packs",
+      "url": "https://otakukart.com/final-fantasy-vii-revelation-store-page-leak-hints-at-major-story-expansion-and-9-dlc-packs/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T18:04:18+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/warmachine-tournament-report-bytown-beatdown-igq-2026/",
+      "title": "Warmachine Tournament Report: Bytown Beatdown IGQ 2026",
+      "url": "https://www.tabletopbattles.com/warmachine-tournament-report-bytown-beatdown-igq-2026/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T18:00:50+00:00"
+    },
+    {
+      "guid": "t3_1ulq5gc",
+      "title": "Extremely early footage of Outlast trials vindicate the guilty level has leaked in an outlast trials community discord map was not in the breach",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ulq5gc/extremely_early_footage_of_outlast_trials/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T18:20:06+00:00"
     }
   ]
 }
