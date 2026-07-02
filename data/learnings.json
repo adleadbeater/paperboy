@@ -882,46 +882,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236972797",
-      "title": "\u2018Chicago P.D.\u2019 Star LaRoyce Hawkins To Leave NBC Series In Season 14",
-      "url": "https://deadline.com/2026/07/chicago-pd-laroyce-hawkins-leaving-show-1236972797/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T16:25:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236973046",
-      "title": "Patty Jenkins To Produce Rom-Com \u2018Best Men\u2019 About Unexpected Wedding Romance",
-      "url": "https://deadline.com/2026/07/patty-jenkins-produce-rom-com-best-men-gay-romance-novel-1236973046/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T16:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236800905",
-      "title": "Taylor Swift and Travis Kelce Donated $26 Million to Charities Ahead of Wedding",
-      "url": "https://variety.com/2026/music/news/taylor-swift-travis-kelce-donate-26-million-charity-wedding-1236800905/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T16:19:09+00:00"
-    },
-    {
-      "guid": "xnhvVtUVjKnHTMNSjcwHxm",
-      "title": "Rockstar devs allege crunch is so common at the GTA 6 studio that it's \"built into\" contracts and you have to \"opt out\" of it",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-devs-allege-crunch-is-so-common-at-the-gta-6-studio-that-its-built-into-contracts-and-you-have-to-opt-out-of-it/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T16:29:37+00:00"
-    },
-    {
-      "guid": "QjPNXSEqkC9QSTzumeKLX5",
-      "title": "Final Fantasy 7 Revelation DLC includes \"Story Expansion Pass,\" according to Epic Games Store database listings",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-dlc-includes-story-expansion-pass-according-to-epic-games-store-database-listings/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T16:21:50+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/ontos-delayed-to-2027",
       "title": "Soma dev's next game, Ontos, delayed to 2027 in order to deliver on studio's \"ambitious\" vision",
       "url": "https://www.eurogamer.net/ontos-delayed-to-2027",
@@ -984,14 +944,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-02T16:34:39+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203337",
-      "title": "I Waited All Gen for a K-pop Game, Then Got Two on PS5 at Once",
-      "url": "https://www.pushsquare.com/news/2026/07/i-waited-all-gen-for-a-k-pop-game-then-got-two-on-ps5-at-once",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T16:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1118927",
@@ -1504,6 +1456,38 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-02T20:08:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236972773",
+      "title": "\u2018The Hunting Party\u2019 Journey Officially Ends As Cast Options Expire",
+      "url": "https://deadline.com/2026/07/the-hunting-party-dead-cast-options-expire-1236972773/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:23:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801002",
+      "title": "\u2018Young Washington\u2019\u00a0Director Jon Erwin Breaks Down Film\u2019s Use of AI: Tech Made Production \u2018Safer and More Affordable\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/young-washington-director-jon-erwin-ai-1236801002/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:22:46+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236800902",
+      "title": "Midjourney Seeks to Reveal Studios\u2019 Use of AI in High-Stakes Copyright Battle",
+      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:13:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236636172",
+      "title": "Streaming Ratings: \u2018Love Island USA\u2019 Has Its Biggest Premiere Week Ever",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-june-1-7-2026-1236636172/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T20:12:46+00:00"
     }
   ]
 }
