@@ -768,28 +768,180 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236972910",
-      "title": "Chief Oscars Officer Teni Melidonian Steps Down From AMPAS",
-      "url": "https://deadline.com/2026/07/chief-oscars-officer-teni-melidonian-steps-down-ampas-1236972910/",
+      "guid": "https://kotaku.com/?p=2000712230",
+      "title": "PlayStation Veteran Gives A Harsh Review Of The Steam Machine: \u2018Am I Going Back To PS4 Days?\u2019",
+      "url": "https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T12:57:10+00:00"
+    },
+    {
+      "guid": "BT5wXCxLnJSZJdQyzTMd3F",
+      "title": "AMD is reportedly bumping the price of its GPU and VRAM bundles to graphics card makers and you can expect to feel the sting soon",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-is-reportedly-bumping-the-price-of-its-gpu-and-vram-bundles-to-graphics-card-makers-and-you-can-expect-to-feel-the-sting-soon/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T13:07:06+00:00"
+    },
+    {
+      "guid": "uUtmEycKXioEeh8BgfoCpF",
+      "title": "I'm learning to love autobattlers and it's because this Steam demo let me build a gnarly squad of combat freaks out of weird meat and goblin blood",
+      "url": "https://www.pcgamer.com/games/roguelike/im-learning-to-love-autobattlers-and-its-because-this-steam-demo-let-me-build-a-gnarly-squad-of-combat-freaks-out-of-weird-meat-and-goblin-blood/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236973074",
+      "title": "POTUS Posts AI Deepfake Video Of Rosie O\u2019Donnell, Robert De Niro And Other Celebrities Lamenting Their \u2018Trump Derangement Syndrome\u2019",
+      "url": "https://deadline.com/2026/07/trump-derangement-syndrome-ai-video-rosie-odonnell-1236973074/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-07-02T04:02:56+00:00"
+      "published_dt": "2026-07-02T13:08:03+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236800583",
-      "title": "Chief Oscars Officer Teni Melidonian Transitions to AMPAS Consultant as Awards Production Moves Under Jennifer Davidson",
-      "url": "https://variety.com/2026/awards/awards/oscars-officer-teni-melidonian-exits-ampas-1236800583/",
+      "guid": "https://variety.com/?p=1236800625",
+      "title": "Variety Toasts French Cinema With Post-Cannes Summer Dinner at Paris\u2019 Laperouse With Thierry Fremaux, Guillaume Canet, Pierre-Antoine Capton, Rebecca Zlotowski and Anamaria Vartolomei",
+      "url": "https://variety.com/2026/film/global/variety-french-cinema-summer-dinner-paris-laperouse-1236800625/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-07-02T03:39:46+00:00"
+      "published_dt": "2026-07-02T13:15:08+00:00"
     },
     {
-      "guid": "https://automaton-media.com/en/?p=69088",
-      "title": "Story of Seasons\u00a0creator\u2019s studio\u00a0has a new cozy\u00a0but hardcore\u00a0fishing game, due out on October 8 in Japan\u00a0for\u00a0Switch",
-      "url": "https://automaton-media.com/en/news/story-of-seasons-creators-studio-has-a-new-cozy-but-hardcore-fishing-game-due-out-on-october-8-in-japan-for-switch/",
+      "guid": "https://variety.com/?p=1236799587",
+      "title": "Bryan Fuller\u2019s \u2018Dust Bunny,\u2019 \u201928 Years Later: The Bone Temple\u2019 Lead Fangoria Chainsaw Awards 2026 Nominees (EXCLUSIVE)",
+      "url": "https://variety.com/2026/awards/news/fangoria-chainsaw-awards-2026-nominees-dust-bunny-1236799587/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236800605",
+      "title": "\u2018Your Name,\u2019 \u2018Ghost in the Shell 2\u2019 Lead Disney+ and Anime Limited\u2019s U.K., France Film Deal as Animayhem Returns (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/your-name-ghost-in-the-shell-2-disney-anime-limited-uk-france-deal-1236800605/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236800663",
+      "title": "\u2018Doctor\u2019 Donald Trump Posts AI Video Dragging Rosie O\u2019Donnell, Whoopi Goldberg, Robert De Niro and More for Suffering From \u2018Trump Derangement Syndrome\u2019",
+      "url": "https://variety.com/2026/digital/news/dr-trump-fake-ai-video-trump-derangement-syndrome-rosie-odonnell-whoopi-goldberg-robert-de-niro-1236800663/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T12:55:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236800767",
+      "title": "Bad Bunny, \u2018Despacito\u2019 and the End of English as Pop\u2019s Global Currency: Manuel Abud on Latin Music\u2019s Transformation",
+      "url": "https://variety.com/2026/music/news/bad-bunny-despacito-latin-music-manuel-abud-golden-melody-festival-1236800767/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T12:52:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236633759",
+      "title": "\u2018The Guest\u2019 Takes a \u201cNuanced\u201d Dive Into Family, Forgiveness and Mental Health Without \u201cShaming\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/karlovy-vary-the-guest-family-mental-health-trine-dyrholm-1236633759/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T13:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236634300",
+      "title": "A Look Back at Taylor Swift and Travis Kelce\u2019s Love Story, From a Friendship Bracelet to an Engagement",
+      "url": "https://www.hollywoodreporter.com/lists/taylor-swift-travis-kelces-love-story-timeline/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-02T13:00:00+00:00"
+    },
+    {
+      "guid": "1807531",
+      "title": "Christopher Nolan\u2019s The Odyssey Now Has Its Own Game",
+      "url": "https://www.gamespot.com/articles/christopher-nolans-the-odyssey-now-has-its-own-game/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:12:25+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203307",
+      "title": "Indie Physical Game Publishers 'Deeply Saddened' by PlayStation's All-Digital Gambit",
+      "url": "https://www.pushsquare.com/news/2026/07/indie-physical-game-publishers-deeply-saddened-by-playstations-all-digital-gambit",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1118723",
+      "title": "UGREEN Honkai: Star Rail Yao Guang Items Are Prettier Than the Genshin Impact Ones",
+      "url": "https://www.siliconera.com/ugreen-honkai-star-rail-yao-guang-items-are-prettier-than-the-genshin-impact-ones/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1062343",
+      "title": "Remothered: Broken Porcelain Remastered announced for PS5, Xbox Series, Switch 2, and PC",
+      "url": "https://www.gematsu.com/2026/07/remothered-broken-porcelain-remastered-announced-for-ps5-xbox-series-switch-2-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:20:29+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1062319",
+      "title": "Remothered: Tormented Fathers Remastered announced for PS5, Xbox Series, Switch 2, and PC",
+      "url": "https://www.gematsu.com/2026/07/remothered-tormented-fathers-remastered-announced-for-ps5-xbox-series-switch-2-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:20:05+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1062263",
+      "title": "Famitsu Sales: 6/22/26 \u2013 6/28/26",
+      "url": "https://www.gematsu.com/2026/07/famitsu-sales-6-22-26-6-28-26",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:11:58+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1062406",
+      "title": "Panzer Knights: Commander\u2019s Edition launches August 13",
+      "url": "https://www.gematsu.com/2026/07/panzer-knights-commanders-edition-launches-august-13",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T12:53:47+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69116",
+      "title": "Level-5\u00a0gives employees \u201csignificant\u201d pay raises for acing quizzes about its own games, according to CEO",
+      "url": "https://automaton-media.com/en/news/level-5-gives-employees-significant-pay-raises-for-acing-quizzes-about-its-own-games-according-to-ceo/",
       "source_name": "Automaton",
       "source_tier": 2,
-      "published_dt": "2026-07-02T03:52:22+00:00"
+      "published_dt": "2026-07-02T13:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741272",
+      "title": "\u201cScummiest thing Sony has done so far\u201d \u2013 Gamers Call for Sony Boycott as Anger Grows Over PlayStation Ending Physical Disc Production",
+      "url": "https://otakukart.com/scummiest-thing-sony-has-done-so-far-gamers-call-for-sony-boycott-as-anger-grows-over-playstation-ending-physical-disc-production/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:09:48+00:00"
+    },
+    {
+      "guid": "t3_1ulhefq",
+      "title": "Final Fantasy VII Revelatiom - Multiple DLCs and a Story Expansion pass has been added to Epic games database",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ulhefq/final_fantasy_vii_revelatiom_multiple_dlcs_and_a/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T12:51:10+00:00"
+    },
+    {
+      "guid": "t3_1uli3r3",
+      "title": "Obsidian is also in negotiations with Xbox to avoid closure, according to The Game Business",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uli3r3/obsidian_is_also_in_negotiations_with_xbox_to/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T13:20:20+00:00"
     }
   ]
 }
