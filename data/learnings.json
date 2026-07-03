@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Switch 2 Is the Second Fastest-Selling Console in US History \u2014 While Xbox Has Its Worst May Ever",
-      "tag": "nintendo switch 2 / playstation / xbox",
-      "posted_at": "2026-06-26T16:05:00.589614+00:00",
-      "urls": [
-        "https://www.eurogamer.net/us-hardware-sales-may-2026-ps5-xbox-switch"
-      ],
-      "article_titles": [
-        "Switch 2 is the second fastest-selling console in US history, as PlayStation records its worst May in decades - and Xbox its worst May ever"
-      ]
-    },
-    {
       "headline": "PlayStation Is Deleting 551 Movies From Customers' Libraries \u2014 A Stark Reminder That Digital Ownership Is a Lie",
       "tag": "playstation",
       "posted_at": "2026-06-26T18:09:01.765897+00:00",
@@ -909,6 +898,34 @@
       "article_titles": [
         "Saudi Arabia-owned Scopely continues its mobile investment spree with Umamusame: Pretty Derby director's new company Studio AuKnow"
       ]
+    },
+    {
+      "headline": "PlayStation's All-Digital Future Is \"Fairly Dramatic,\" Says Former Sony Boss Shawn Layden",
+      "tag": "playstation",
+      "posted_at": "2026-07-03T16:30:57.463230+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/playstations-disc-less-future-could-heavily-influence-xbox-and-nintendos-approach-to-physical-games-former-sony-boss-says-calling-the-decision-dramatic/",
+        "https://www.pushsquare.com/news/2026/07/its-a-fairly-dramatic-decision-shawn-layden-reacts-to-playstations-all-digital-plan",
+        "https://otakukart.com/sonys-largest-playstation-disc-factory-begins-shift-to-micro-optics-ahead-of-physical-games-phase-out/"
+      ],
+      "article_titles": [
+        "PlayStation's disc-less future could \"heavily influence\" Xbox and Nintendo's approach to physical games, former Sony boss says, calling the decision \"dramatic\"",
+        "'It's a Fairly Dramatic Decision': Shawn Layden Reacts to PlayStation's All-Digital Plan",
+        "Sony\u2019s Largest PlayStation Disc Factory Begins Shift to Micro Optics Ahead of Physical Games Phase-Out"
+      ]
+    },
+    {
+      "headline": "Deltarune Chapter 5 Confirmed to Focus on Character Relationships",
+      "tag": "deltarune",
+      "posted_at": "2026-07-03T16:30:57.592263+00:00",
+      "urls": [
+        "https://www.siliconera.com/deltarune-chapter-5-focuses-on-relationships/",
+        "https://www.siliconera.com/deltarune-chapter-5-focuses-on-relationships/"
+      ],
+      "article_titles": [
+        "Deltarune Chapter 5 Focuses on Relationships",
+        "Deltarune Chapter 5 Focuses on Relationships"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1289,6 +1306,54 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000712393",
+      "title": "I Can Never Remember The Actual Name Of Naughty Dog\u2019s New Space Game",
+      "url": "https://kotaku.com/i-can-never-remember-the-actual-name-of-naughty-dogs-new-space-game-2000712393",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T16:00:43+00:00"
+    },
+    {
+      "guid": "xPG2zXZbNUnwU8EZv2LxzB",
+      "title": "Where to find the Festival Loop speed zone in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-festival-loop-speed-zone-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T16:00:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236800135",
+      "title": "Biggest Celebrity Weddings: 22 Ceremonies That Dominated Buzz Before Taylor Swift and Travis Kelce",
+      "url": "https://variety.com/lists/biggest-celebrity-weddings-taylor-swift-travis-kelce/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T16:15:00+00:00"
+    },
+    {
+      "guid": "wRe4qYhqe3HYaCAwNtUSWc",
+      "title": "PlayStation's disc-less future could \"heavily influence\" Xbox and Nintendo's approach to physical games, former Sony boss says, calling the decision \"dramatic\"",
+      "url": "https://www.gamesradar.com/games/playstations-disc-less-future-could-heavily-influence-xbox-and-nintendos-approach-to-physical-games-former-sony-boss-says-calling-the-decision-dramatic/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-03T16:16:15+00:00"
+    },
+    {
+      "guid": "PNRVshxJceVb8i3C54owKE",
+      "title": "Tom Holland reveals how Peter 2 and Peter 3 influenced the new MCU Spider-Man suit in Brand New Day",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/tom-holland-reveals-how-peter-2-and-peter-3-influenced-the-new-mcu-spider-man-suit-in-brand-new-day/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-03T16:14:18+00:00"
+    },
+    {
+      "guid": "XzH7gAo7FzeShkjB6wS3u3",
+      "title": "MCU fans aren't sure the villain of Spider-Man: Far From Home actually thought his plan through, but there might be an easy answer",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/mcu-fans-arent-sure-the-villain-of-spider-man-far-from-home-actually-thought-his-plan-through-but-there-might-be-an-easy-answer/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-03T16:02:52+00:00"
     }
   ]
 }
