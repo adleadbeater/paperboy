@@ -932,22 +932,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/cinder-city-64-gb-ram-requirement-new-gpu-update",
-      "title": "As the memory crisis continues and players begin to complain, Cinder City drops 64GB RAM requirement and ups GPU requirement instead",
-      "url": "https://www.eurogamer.net/cinder-city-64-gb-ram-requirement-new-gpu-update",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-03T13:02:55+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000712487",
-      "title": "Happy 250th Indie-Penance Day! Here Are 10 Incredible Indie Games To Wishlist Now",
-      "url": "https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-rpg-roguelite-2000712487",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-03T13:00:39+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236973822",
       "title": "Patti LuPone \u201cFurious\u201d That LGBTQ+ Cruise Ship Banned From Turkey Ports: \u201cI Am Ready To Perform\u201d",
       "url": "https://deadline.com/2026/07/patti-lupone-lgbtq-cruise-ship-turkey-1236973822/",
@@ -994,14 +978,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-03T13:12:41+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741459",
-      "title": "Disney Renews Anime-Inspired Series Dragon Striker for Season 2, Sets Early 2027 Release",
-      "url": "https://otakukart.com/disney-renews-anime-inspired-series-dragon-striker-for-season-2-sets-early-2027-release/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-03T13:06:43+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/scopely-investment-studio-auknow-saudi",
@@ -1354,6 +1330,22 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-07-03T16:30:00+00:00"
+    },
+    {
+      "guid": "4xYs7Uz8kZ5rhSxxoQraiW",
+      "title": "Get ready to set sail with these 6 games to play before Assassin's Creed Black Flag Resynced",
+      "url": "https://www.gamesradar.com/games-to-play-before-assassins-creed-black-flag-resynced/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-03T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203383",
+      "title": "Sony Rewarded with Soaring Stocks After Revealing All-Digital Future",
+      "url": "https://www.pushsquare.com/news/2026/07/sony-rewarded-with-soaring-stocks-after-revealing-all-digital-future",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-03T17:00:00+00:00"
     }
   ]
 }
