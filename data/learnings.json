@@ -945,30 +945,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236973926",
-      "title": "London Calling Indeed: Prince William Isn\u2019t Going To Taylor Swift & Travis Kelce\u2019s Wedding, But Heir Hung With Groom To Talk Eras Tour, World Cup",
-      "url": "https://deadline.com/2026/07/taylor-swift-wedding-prince-william-1236973926/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-03T19:36:55+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236801509",
-      "title": "AI \u2018Organisms\u2019 Come Alive in Kuala Lumpur as Dutch Artist Unveils Immersive Show",
-      "url": "https://variety.com/2026/digital/news/algorithmic-organisms-2-0-opens-kuala-lumpur-1236801509/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-03T19:40:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236637019",
-      "title": "Taylor Swift and Travis Kelce Wedding Arrivals at Madison Square Garden: Watch the Live Stream",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-travis-kelce-wedding-arrivals-watch-live-stream-1236637019/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-03T19:41:17+00:00"
-    },
-    {
       "guid": "p4JsAJnFmfzZMBmBVQCAtK",
       "title": "\"They're usually just really boring\" \u2013 Clair Obscur: Expedition 33 lead says \"perfect\" games are like people with \"no personality\"",
       "url": "https://www.gamesradar.com/games/rpg/theyre-usually-just-really-boring-clair-obscur-expedition-33-lead-says-perfect-games-are-like-people-with-no-personality/",
@@ -983,14 +959,6 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-03T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=612145",
-      "title": "D&D Beyond\u2019s July Drop \u2013 New Fighting Styles, Para-Elementals, And More",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-beyonds-july-drop-new-fighting-styles-para-elementals-and-more.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-03T19:44:37+00:00"
     },
     {
       "guid": "4ezZqmJKgNG7eBQh9nPzEf",
@@ -1047,6 +1015,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-03T22:28:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236974086",
+      "title": "It\u2019s Official! Taylor Swift & Travis Kelce Are Married",
+      "url": "https://deadline.com/2026/07/taylor-swift-travis-kelce-married-1236974086/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T23:40:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236972754",
+      "title": "\u2018Minions & Monsters\u2019 Coming Up Short With $63M 5-Day U.S. \u2013 Friday Box Office Update",
+      "url": "https://deadline.com/2026/07/box-office-minions-monsters-1236972754/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T23:24:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801598",
+      "title": "Sienna Spiro\u2019s \u2018The Visitor\u2019 Introduces an Electrifying Voice That\u2019s Here to Stay: Album Review",
+      "url": "https://variety.com/2026/music/album-reviews/sienna-spiro-visitor-album-review-1236801598/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T23:51:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801619",
+      "title": "Ed Sheeran, Bradley Cooper, Dakota Johnson and More Pictured Heading to Taylor Swift and Travis Kelce\u2019s Wedding",
+      "url": "https://variety.com/2026/music/news/ed-sheeran-dakota-johnson-guests-taylor-swift-wedding-1236801619/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T23:30:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236615469",
+      "title": "Taylor Swift and Travis Kelce Are Married",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-travis-kelce-married-1236615469/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T23:37:21+00:00"
     }
   ]
 }
