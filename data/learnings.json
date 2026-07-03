@@ -893,20 +893,28 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236973354",
-      "title": "Hong Kong Box Office Up 25% In 2026 First Half Topped By Local Hit \u2018Night King\u2019",
-      "url": "https://deadline.com/2026/07/hong-kong-box-office-night-king-avatar-cold-war-1994-1236973354/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-03T00:00:00+00:00"
-    },
-    {
       "guid": "https://automaton-media.com/en/?p=69134",
       "title": "Square Enix shareholders ask for the company\u2019s stance on NieR Reincarnation EOS and game preservation policy",
       "url": "https://automaton-media.com/en/news/square-enix-shareholders-ask-for-the-companys-stance-on-nier-reincarnation-eos-and-game-preservation-policy/",
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-07-03T03:29:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801149",
+      "title": "Madonna\u2019s Dance Floor-Dominating \u2018Confessions II\u2019 Is Her Best Album in Decades: Album Review",
+      "url": "https://variety.com/2026/music/album-reviews/madonna-confessions-ii-album-review-1236801149/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T04:00:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69142",
+      "title": "Persona 5:\u00a0The Phantom X to feature P3P\u2019s female protagonist",
+      "url": "https://automaton-media.com/en/news/persona-5-the-phantom-x-to-feature-p3ps-female-protagonist/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-03T04:05:40+00:00"
     }
   ]
 }
