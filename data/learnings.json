@@ -893,30 +893,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236800585",
-      "title": "\u2018Rhythm Heaven Groove\u2019 Is Back After a Decade to Test Your Reflexes With Over 100 Games",
-      "url": "https://variety.com/2026/gaming/news/rhythm-heaven-groove-video-game-1236800585/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T20:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236801010",
-      "title": "John Oliver\u2019s Gun-Toting \u2018General Hospital\u2019 Turn Wowed His Co-Star: \u2018It Was Incredible\u2019",
-      "url": "https://variety.com/2026/tv/news/john-oliver-general-hospital-acting-laura-wright-1236801010/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-02T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1118946",
-      "title": "Voltage Switch Otome Even if Tempest Heads to PC via Steam",
-      "url": "https://www.siliconera.com/voltage-switch-otome-even-if-tempest-heads-to-pc-via-steam/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-02T20:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000712337",
       "title": "Captain America\u2019s Bulge Won\u2019t Stop Jiggling In His New Marvel Rivals Summer Skin",
       "url": "https://kotaku.com/marvel-rivals-captain-america-summer-skin-physics-2000712337",
@@ -1227,6 +1203,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-02T23:35:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236973354",
+      "title": "Hong Kong Box Office Up 25% In 2026 First Half Topped By Local Hit \u2018Night King\u2019",
+      "url": "https://deadline.com/2026/07/hong-kong-box-office-night-king-avatar-cold-war-1994-1236973354/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-03T00:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203350",
+      "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America)",
+      "url": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-02T23:45:00+00:00"
     }
   ]
 }
