@@ -888,54 +888,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/playstation-limits-attachable-disc-drive-sales",
-      "title": "Sony still has to ration attachable disc drives sales to \"1 per order\" due to \"high demand\" despite plans to end production of physical discs for PlayStation games",
-      "url": "https://www.eurogamer.net/playstation-limits-attachable-disc-drive-sales",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-04T14:21:05+00:00"
-    },
-    {
-      "guid": "wyPMBvtFCpmY8WNMbELgPU",
-      "title": "Dragon Age setting creator David Gaider is pitching a heist RPG that's 'make or break' for his studio",
-      "url": "https://www.pcgamer.com/games/rpg/dragon-age-setting-creator-david-gaider-is-pitching-a-heist-rpg-thats-make-or-break-for-his-studio/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-04T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236801687",
-      "title": "Dustin Hoffman Says America Is as \u2018Divided\u2019 as During Vietnam War \u2026 and Jokes He Is Still Trying to Figure Out Who He Is",
-      "url": "https://variety.com/2026/film/global/dustin-hoffman-america-divided-vietnam-war-1236801687/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-04T14:11:24+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203332",
-      "title": "Poll: Vote for Your PS5 Game of the Month (June 2026)",
-      "url": "https://www.pushsquare.com/features/poll-vote-for-your-ps5-game-of-the-month-june-2026",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T14:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741621",
-      "title": "Nintendo President Shuntaro Furukawa Says It Will \u201cRespond Appropriately\u201d to AI-Related IP Infringement",
-      "url": "https://otakukart.com/nintendo-president-shuntaro-furukawa-says-it-will-respond-appropriately-to-ai-related-ip-infringement/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T14:13:19+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=611988",
-      "title": "RPG: So That Edgerunners 2 Trailer Made You Think About Cyberpunk Again, Huh?",
-      "url": "https://www.belloflostsouls.net/2026/07/rpg-so-that-edgerunners-2-trailer-made-you-think-about-cyberpunk-again-huh.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T14:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236637648",
       "title": "Joby Baker, Star of \u2018Good Morning World,\u2019 Dies at 92",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/joby-baker-dead-good-morning-world-elvis-presley-1236637648/",
@@ -1102,6 +1054,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-04T17:44:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236974217",
+      "title": "Joey Chestnut Stuffs Face For 18th Coney Island Hot Dog Contest Victory; Miki Sudo Tops Among Women",
+      "url": "https://deadline.com/2026/07/joey-chestnut-hot-dog-contest-1236974217/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-04T18:34:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801759",
+      "title": "Inside Taylor Swift and Travis Kelce\u2019s Wedding: Everything We Learned About the Star-Studded Ceremony at Madison Square Garden",
+      "url": "https://variety.com/2026/music/news/taylor-swift-travis-kelce-wedding-guest-gifts-stevie-nicks-1236801759/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-04T18:15:31+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203405",
+      "title": "\"I Almost Left Sony Over That One\" - Meet The Unreleased PlayStation Pad With A PS1 Inside",
+      "url": "https://www.timeextension.com/news/2026/07/i-almost-left-sony-over-that-one-meet-the-unreleased-playstation-pad-with-a-ps1-inside",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-04T18:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741715",
+      "title": "Final Fantasy 14 Mobile Faces Uncertain Future as Official Site Has Been Offline for Weeks",
+      "url": "https://otakukart.com/final-fantasy-14-mobile-faces-uncertain-future-as-official-site-goes-offline-for-weeks/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-04T18:21:00+00:00"
+    },
+    {
+      "guid": "t3_1ungptn",
+      "title": "New leaked screenshots of The Angry Birds Movie 3 have surfaced, including storyboards, animatics, and unfinished animation",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ungptn/new_leaked_screenshots_of_the_angry_birds_movie_3/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-04T18:44:01+00:00"
     }
   ]
 }
