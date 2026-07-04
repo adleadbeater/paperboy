@@ -888,54 +888,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236636727",
-      "title": "Jesse Eisenberg on Why He Doesn\u2019t Want to Be Associated With Mark Zuckerberg",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-mark-zuckerberg-film-acid-karlovy-vary-2026-1236636727/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-04T17:29:01+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203404",
-      "title": "\"Our Biggest Launch\" - Commodore Callback Smashes First-Month Sales Of C64 Ultimate In Just Three Days",
-      "url": "https://www.timeextension.com/news/2026/07/our-biggest-launch-commodore-callback-smashes-first-month-sales-of-c64-ultimate-in-just-three-days",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T17:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741692",
-      "title": "Street Fighter 6 Director Says Season 4 Focuses on New Characters Over Old Characters to Attract Younger Players",
-      "url": "https://otakukart.com/street-fighter-6-director-says-season-4-focuses-on-new-characters-over-old-characters-to-attract-younger-players/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T17:48:27+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741696",
-      "title": "Sand Raiders of Sophie Hits 300,000 Sales, TinyBuild CEO Celebrates with \u201cHalf Hour of Air Conditioning Tonight\u201d Joke",
-      "url": "https://otakukart.com/sand-raiders-of-sophie-hits-300000-sales-tinybuild-ceo-celebrates-with-half-hour-of-air-conditioning-tonight-joke/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T17:36:33+00:00"
-    },
-    {
-      "guid": "t3_1unetrk",
-      "title": "Chris Kramer, VP of Off Base Productions suggests Xbox suspending 3rd party deals is not true.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1unetrk/chris_kramer_vp_of_off_base_productions_suggests/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T17:27:24+00:00"
-    },
-    {
-      "guid": "t3_1unf8xb",
-      "title": "Microsoft Approaching Smaller Developers to Offer Small Publishing Deals for Smaller Game Pass Experiences",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1unf8xb/microsoft_approaching_smaller_developers_to_offer/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T17:44:25+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236974217",
       "title": "Joey Chestnut Stuffs Face For 18th Coney Island Hot Dog Contest Victory; Miki Sudo Tops Among Women",
       "url": "https://deadline.com/2026/07/joey-chestnut-hot-dog-contest-1236974217/",
@@ -944,28 +896,12 @@
       "published_dt": "2026-07-04T18:34:28+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236801759",
-      "title": "Inside Taylor Swift and Travis Kelce\u2019s Wedding: Everything We Learned About the Star-Studded Ceremony at Madison Square Garden",
-      "url": "https://variety.com/2026/music/news/taylor-swift-travis-kelce-wedding-guest-gifts-stevie-nicks-1236801759/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-04T18:15:31+00:00"
-    },
-    {
       "guid": "https://www.timeextension.com/#article-203405",
       "title": "\"I Almost Left Sony Over That One\" - Meet The Unreleased PlayStation Pad With A PS1 Inside",
       "url": "https://www.timeextension.com/news/2026/07/i-almost-left-sony-over-that-one-meet-the-unreleased-playstation-pad-with-a-ps1-inside",
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-07-04T18:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741715",
-      "title": "Final Fantasy 14 Mobile Faces Uncertain Future as Official Site Has Been Offline for Weeks",
-      "url": "https://otakukart.com/final-fantasy-14-mobile-faces-uncertain-future-as-official-site-goes-offline-for-weeks/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-04T18:21:00+00:00"
     },
     {
       "guid": "t3_1ungptn",
@@ -1014,6 +950,46 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-04T21:01:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000712600",
+      "title": "Seven Games To Download From PlayStation 3\u2019s Storefront Before It Closes",
+      "url": "https://kotaku.com/seven-games-to-download-from-playstation-3s-storefront-before-it-closes-2000712600",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-04T22:16:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236974254",
+      "title": "Russell T. Davies Praises Starz For Picking Up \u2018Tip Toe\u2019 LGBTQ Series In U.S. Despite Trump\u2019s \u201cHatred, Bile & Anger\u201d",
+      "url": "https://deadline.com/2026/07/russell-t-davies-praises-starz-tip-toe-lgbtq-series-us-1236974254/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-04T22:02:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236973883",
+      "title": "Muhammad Ali Series \u2018The Greatest\u2019 Sets Prime Video Release Date; First-Look Teaser",
+      "url": "https://deadline.com/2026/07/muhammad-ali-series-the-greatest-sets-prime-video-release-date-first-look-teaser-1236973883/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-04T22:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236637851",
+      "title": "Cynthia Nixon\u2019s Wife Reportedly Lands NYC Public Schools Job Amid \u2018Sex and the City\u2019 Star\u2019s Mamdani Support",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/cynthia-nixon-wife-christine-marinoni-ny-schools-job-report-1236637851/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-04T22:00:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741730",
+      "title": "The Anime \u201cDelicious in Dungeon Season 2\u201d Set to Start Streaming in October 2027 Only on Netflix!",
+      "url": "https://otakukart.com/the-anime-delicious-in-dungeon-season-2-set-to-start-streaming-in-october-2027-only-on-netflix/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-04T22:10:30+00:00"
     }
   ]
 }
