@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "CD Projekt Is Rebranding \u2014 But the CD Projekt Red Name Gets to Stay Too, Somehow",
-      "tag": "cd projekt / cd projekt red",
-      "posted_at": "2026-06-28T20:09:24.527052+00:00",
-      "urls": [
-        "https://www.eurogamer.net/cd-projekt-rebrands-as-cd-projekt-red"
-      ],
-      "article_titles": [
-        "CD Projekt is rebranding as CD Projekt Red, but confusingly, CD Projekt Red is still CD Projekt Red"
-      ]
-    },
-    {
       "headline": "Tetris Is Getting a Kids' Animated Series Called Tetris: World Builders",
       "tag": "tetris",
       "posted_at": "2026-06-28T21:34:39.467946+00:00",
@@ -849,91 +838,22 @@
       "article_titles": [
         "Nintendo President Promises To Tackle Pok\u00e9mon Card Scalpers After Billions Printed Fail To Satisfy Market"
       ]
+    },
+    {
+      "headline": "Half-Life 2 mod Black Mesa Guard is getting a stealth prequel where you play as a Combine assassin",
+      "tag": "half-life 2",
+      "posted_at": "2026-07-05T21:31:24.036055+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/fps/one-of-our-favorite-half-life-2-mods-is-getting-a-stealth-game-prequel-where-youre-a-combine-assassin-preying-on-the-human-resistance/"
+      ],
+      "article_titles": [
+        "One of our favorite Half-Life 2 mods is getting a stealth game prequel where you're a Combine assassin preying on the human resistance"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/meccha-chameleon-15-million-sales",
-      "title": "Meccha Chameleon tops another milestone, selling 15 million copies in less than 30 days",
-      "url": "https://www.eurogamer.net/meccha-chameleon-15-million-sales",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T16:37:42+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000712671",
-      "title": "The First English Trailer For Yoko Taro\u2019s Evangelion Series Is Here To Remind You It\u2019s Coming And Looks Great",
-      "url": "https://kotaku.com/the-first-english-trailer-for-yoko-taros-evangelion-series-is-here-to-remind-you-its-coming-and-looks-great-2000712671",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T17:00:46+00:00"
-    },
-    {
-      "guid": "t66pgsDiT9RTvgqwdV7BMX",
-      "title": "What was the first videogame song that you ever heard?",
-      "url": "https://www.pcgamer.com/games/what-was-the-first-videogame-song-that-you-ever-heard/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T17:00:00+00:00"
-    },
-    {
-      "guid": "diK4B8GyPSz3MFVoZiQVPb",
-      "title": "Meccha Chameleon celebrates 15 million sales by teasing a 'collaboration with a famous Japanese star'",
-      "url": "https://www.pcgamer.com/games/sports/meccha-chameleon-celebrates-15-million-sales-by-teasing-a-collaboration-with-a-famous-japanese-star/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T16:47:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236801925",
-      "title": "Box Office: \u2018Minions & Monsters\u2019 Nears $100 Million Overseas, \u2018Toy Story 5\u2019 Climbs to $764 Million Globally",
-      "url": "https://variety.com/2026/film/box-office/box-office-minions-and-monsters-international-success-toy-story-5-milestone-1236801925/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T16:36:31+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638097",
-      "title": "Harvey Keitel Sees Film as a Force of \u201cChange\u201d and Tool to \u201cCure Our Biases\u201d \u2014 and Quotes Aristotle",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/harvey-keitel-film-change-bias-movie-with-wife-1236638097/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T16:57:39+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742250",
-      "title": "Dragon Age Creator David Gaider Says His New Airship Heist RPG Is \u201cMake or Break\u201d for Summerfall Studios as Funding Crisis Deepens",
-      "url": "https://otakukart.com/dragon-age-creator-david-gaider-says-his-new-airship-heist-rpg-is-make-or-break-for-summerfall-studios-as-funding-crisis-deepens/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T16:56:18+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741686",
-      "title": "Ghost of Tsushima: Legends Anime Reveals First Character Visuals at Anime Expo 2026",
-      "url": "https://otakukart.com/ghost-of-tsushima-legends-anime-reveals-first-character-visuals-at-anime-expo-2026/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T16:54:51+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741678",
-      "title": "My S-Rank Adventurer Daughters Light Novel Officially Gets TV Anime Adaptation",
-      "url": "https://otakukart.com/my-s-rank-adventurer-daughters-light-novel-officially-gets-tv-anime-adaptation/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T16:47:49+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742249",
-      "title": "Halo Studios Confirms Physical Disc Release for Halo: Campaign Evolved Amid Industry Shift Away From Physical Media",
-      "url": "https://otakukart.com/halo-studios-confirms-physical-disc-release-for-halo-campaign-evolved-amid-industry-shift-away-from-physical-media/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T16:41:31+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000712688",
       "title": "Nintendo President Promises To Tackle Pok\u00e9mon Card Scalpers After Billions Printed Fail To Satisfy Market",
@@ -1029,6 +949,22 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-05T19:40:21+00:00"
+    },
+    {
+      "guid": "NgHrNUfR7H3yv6foYcesRE",
+      "title": "One of our favorite Half-Life 2 mods is getting a stealth game prequel where you're a Combine assassin preying on the human resistance",
+      "url": "https://www.pcgamer.com/games/fps/one-of-our-favorite-half-life-2-mods-is-getting-a-stealth-game-prequel-where-youre-a-combine-assassin-preying-on-the-human-resistance/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T21:20:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236974395",
+      "title": "Jesse Eisenberg Is Eager To Make \u2018Now You See Me 4\u2019: \u201cIt\u2019s My Happiest Place\u201d",
+      "url": "https://deadline.com/2026/07/jesse-eisenberg-eager-make-now-you-see-me-4-1236974395/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T21:06:42+00:00"
     }
   ]
 }
