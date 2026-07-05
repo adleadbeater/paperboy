@@ -855,54 +855,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000712688",
-      "title": "Nintendo President Promises To Tackle Pok\u00e9mon Card Scalpers After Billions Printed Fail To Satisfy Market",
-      "url": "https://kotaku.com/nintendo-president-promises-to-tackle-pokemon-card-scalpers-after-billions-printed-fail-to-satisfy-market-2000712688",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T18:31:05+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236974374",
-      "title": "\u2018Young Washington\u2019 Sequel \u20181776\u2019 In The Works After $20M+ Angel Studios Live-Action Opening Record",
-      "url": "https://deadline.com/2026/07/young-washington-sequel-1776-box-office-1236974374/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T18:16:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236801929",
-      "title": "Harvey Keitel Shooting Film Written by Wife Daphna Kastner, Calls Out \u2018Danger\u2019 of AI When Mentioning Michael Caine AI-Narrated \u2018The Odyssey\u2019 Audiobook",
-      "url": "https://variety.com/2026/film/global/harvey-keitel-daphna-kastner-ai-michael-caine-1236801929/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T18:12:46+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236599187",
-      "title": "\u2018Love Island USA\u2019 Season 8 Cast Revealed",
-      "url": "https://www.hollywoodreporter.com/lists/love-island-usa-season-8-cast/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T18:12:19+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638243",
-      "title": "Donna Kelce Reacts to Taylor Swift and Travis Kelce\u2019s Wedding",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/donna-kelce-reacts-taylor-swift-travis-kelces-wedding-1236638243/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T18:00:44+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742108",
-      "title": "Re:bel Robotica Anime Confirms 2027 Debut With Yuki Kajiura Theme Song at Anime Expo 2026",
-      "url": "https://otakukart.com/rebel-robotica-anime-confirms-2027-debut-with-yuki-kajiura-theme-song-at-anime-expo-2026/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T18:17:59+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236801979",
       "title": "Tom Holland Thought Christopher Nolan Hated His \u2018Odyssey\u2019 Performance on His First Day Filming: \u2018I Thought I Was Totally S\u2014-ing the Bed\u2019",
       "url": "https://variety.com/2026/film/news/tom-holland-christopher-nolan-hated-odyssey-performance-1236801979/",
@@ -965,6 +917,30 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-05T21:06:42+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000712700",
+      "title": "Mob Psycho 100 Director Reflects On That Final Episode: \u2018I Thought The way It Ended Was Great\u2019",
+      "url": "https://kotaku.com/mob-psycho-100-director-reflects-on-that-final-episode-i-thought-the-way-it-ended-was-great-2000712700",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T22:21:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236802109",
+      "title": "Bruce Springsteen Says He\u2019s a \u2018Patriot\u2019 for Standing Up to Trump: \u2018I Believe in Critical Patriotism\u2019",
+      "url": "https://variety.com/2026/music/news/bruce-springsteen-patriot-standing-up-to-trump-1236802109/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T22:41:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236638398",
+      "title": "Mark Hamill Jokes About Why He Wasn\u2019t at Taylor Swift and Travis Kelce\u2019s Wedding",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mark-hamill-taylor-swift-travis-kelce-wedding-1236638398/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T22:41:26+00:00"
     }
   ]
 }
