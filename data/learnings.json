@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Tetris Is Getting a Kids' Animated Series Called Tetris: World Builders",
-      "tag": "tetris",
-      "posted_at": "2026-06-28T21:34:39.467946+00:00",
-      "urls": [
-        "https://www.eurogamer.net/tetris-world-builders-animated-series"
-      ],
-      "article_titles": [
-        "Tetris: World Builders is a new animated series for kids \"inspired by the iconic falling blocks that have captivated players for generations\""
-      ]
-    },
-    {
-      "headline": "Mina the Hollower Is Crossing Over Into a Fighting Game in 2026",
-      "tag": "mina the hollower",
-      "posted_at": "2026-06-28T21:34:39.758587+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/fighting/mina-the-hollower-will-make-her-fighting-game-debut-in-a-crossover-next-year/"
-      ],
-      "article_titles": [
-        "Mina the Hollower will make her fighting game debut in a crossover next year"
-      ]
-    },
-    {
-      "headline": "Dead or Alive 6 Last Round Forces Players to Rebuy DLC They Already Own Across 400+ Packs",
-      "tag": "dead or alive 6",
-      "posted_at": "2026-06-28T21:34:40.035223+00:00",
-      "urls": [
-        "https://kotaku.com/dead-or-alive-6-last-round-releases-with-over-400-dlcs-and-forces-owners-to-repurchase-content-they-already-own-2000711242"
-      ],
-      "article_titles": [
-        "Dead Or Alive 6 Last Round Releases With Over 400 DLCs And Forces Owners To Repurchase Content They Already Own"
-      ]
-    },
-    {
       "headline": "Baldur's Gate 2's Co-Lead Designer Was Asked to Make Baldur's Gate 4 After Larian Said No",
       "tag": "baldur's gate",
       "posted_at": "2026-06-29T15:23:33.459270+00:00",
@@ -849,59 +816,22 @@
       "article_titles": [
         "One of our favorite Half-Life 2 mods is getting a stealth game prequel where you're a Combine assassin preying on the human resistance"
       ]
+    },
+    {
+      "headline": "Danganronpa 2x2 Remaster Gets New \"Slayhem\" Story Mode \u2014 But It's Slipping to 2027",
+      "tag": "danganronpa",
+      "posted_at": "2026-07-05T23:52:33.784543+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/visual-novel/danganronpa-2x2-remaster-will-include-a-slayhem-alternate-story-mode-with-20-percent-more-content-and-a-3d-world-map-but-its-been-delayed-to-2027/"
+      ],
+      "article_titles": [
+        "Danganronpa 2x2 remaster will include a 'slayhem' alternate story mode with '20% more content' and a 3D world map, but it's been delayed to 2027"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://variety.com/?p=1236801979",
-      "title": "Tom Holland Thought Christopher Nolan Hated His \u2018Odyssey\u2019 Performance on His First Day Filming: \u2018I Thought I Was Totally S\u2014-ing the Bed\u2019",
-      "url": "https://variety.com/2026/film/news/tom-holland-christopher-nolan-hated-odyssey-performance-1236801979/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T19:48:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236801984",
-      "title": "Ateez Lands Third No. 1 on Albums Chart With \u2018Golden Hour : Part.5\u2019",
-      "url": "https://variety.com/2026/music/news/ateez-lands-third-no-1-albums-chart-golden-hour-part-5-1236801984/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T19:44:42+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236791484",
-      "title": "How Filmmaker Tonia Mishiali Tackles Immigration, Patriarchy and Women\u2019s Resilience in \u2019The Lion at My Back\u2019",
-      "url": "https://variety.com/2026/film/festivals/tonia-mishiali-lion-at-my-back-1236791484/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T19:30:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638281",
-      "title": "Taylor Caps 20 Years, America Marks 250 (While Trump Muscles In)",
-      "url": "https://www.hollywoodreporter.com/news/general-news/taylor-swift-wedding-donald-trump-mall-speech-watch-1236638281/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T19:33:31+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1741948",
-      "title": "Yuuri Performs Opening Theme Song for Thunder 3 Anime",
-      "url": "https://otakukart.com/yuuri-performs-opening-theme-song-for-thunder-3-anime/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T19:44:47+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742125",
-      "title": "Saitama vs. Justice League: 6 DC Heroes He Would Beat and 6 Who Could Defeat Him",
-      "url": "https://otakukart.com/saitama-vs-justice-league-6-dc-heroes-he-would-beat-and-6-who-could-defeat-him/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T19:40:21+00:00"
-    },
     {
       "guid": "NgHrNUfR7H3yv6foYcesRE",
       "title": "One of our favorite Half-Life 2 mods is getting a stealth game prequel where you're a Combine assassin preying on the human resistance",
@@ -941,6 +871,30 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-05T22:41:26+00:00"
+    },
+    {
+      "guid": "b90bb06e-5b9d-47da-a2cd-e22f7e7dcf03",
+      "title": "Supergirl Inches Past $100 Million at the Global Box Office After One of the Biggest Second Weekend Drops in Superhero Movie History",
+      "url": "https://www.ign.com/articles/supergirl-inches-past-100-million-at-the-global-box-office-after-one-of-the-biggest-second-weekend-drops-in-superhero-movie-history",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T23:25:35+00:00"
+    },
+    {
+      "guid": "cR24eAbeqz2Lg42DxvmWSk",
+      "title": "Danganronpa 2x2 remaster will include a 'slayhem' alternate story mode with '20% more content' and a 3D world map, but it's been delayed to 2027",
+      "url": "https://www.pcgamer.com/games/visual-novel/danganronpa-2x2-remaster-will-include-a-slayhem-alternate-story-mode-with-20-percent-more-content-and-a-3d-world-map-but-its-been-delayed-to-2027/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T23:29:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742138",
+      "title": "Blue Lock Chapter 353: Spoilers & Summary",
+      "url": "https://otakukart.com/blue-lock-chapter-353-spoilers-summary/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-05T23:26:31+00:00"
     }
   ]
 }
