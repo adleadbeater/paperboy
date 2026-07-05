@@ -1,61 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6 Won't Get a Physical Release \u2014 Not at Launch, Not Ever, New Report Claims",
-      "tag": "grand theft auto vi",
-      "posted_at": "2026-06-27T14:58:37.124040+00:00",
-      "urls": [
-        "https://www.eurogamer.net/gta-6-no-physical-release"
-      ],
-      "article_titles": [
-        "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report"
-      ]
-    },
-    {
-      "headline": "Riot Is Bringing Back League of Legends Classic \u2014 Full Reveal in Two Weeks",
-      "tag": "league of legends",
-      "posted_at": "2026-06-27T16:01:14.584108+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/moba/riot-teases-league-of-legends-classic-with-a-full-reveal-coming-in-two-weeks/"
-      ],
-      "article_titles": [
-        "Riot teases League of Legends Classic, with a full reveal coming in two weeks"
-      ]
-    },
-    {
-      "headline": "Palworld's 1.0 Update Is a Monster \u2014 27 Pages of Changes Incoming",
-      "tag": "palworld",
-      "posted_at": "2026-06-27T18:58:54.573618+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/survival-crafting/palworld-1-0-update-has-27-pdf-pages-of-changes-and-additions-says-publishing-lead/"
-      ],
-      "article_titles": [
-        "Palworld 1.0 update has '27 pdf pages of changes and additions,' says publishing lead"
-      ]
-    },
-    {
-      "headline": "Steam Machine Scalpers Are Already Flipping Reservations on eBay for Double the Price",
-      "tag": "steam machine",
-      "posted_at": "2026-06-27T18:58:54.775402+00:00",
-      "urls": [
-        "https://www.ign.com/articles/steam-machine-scalpers-on-ebay-are-selling-reservations-at-double-the-price-valve-is-asking-for"
-      ],
-      "article_titles": [
-        "Steam Machine Scalpers on eBay Are Selling Reservations at Double the Price Valve Is Asking for"
-      ]
-    },
-    {
-      "headline": "PlayStation Is Deleting Purchased Digital Movies From Users' Libraries",
-      "tag": "playstation",
-      "posted_at": "2026-06-27T20:07:03.952253+00:00",
-      "urls": [
-        "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries"
-      ],
-      "article_titles": [
-        "PlayStation is pulling \"previously purchased\" digital movies from users' libraries"
-      ]
-    },
-    {
       "headline": "CD Projekt Is Rebranding \u2014 But the CD Projekt Red Name Gets to Stay Too, Somehow",
       "tag": "cd projekt / cd projekt red",
       "posted_at": "2026-06-28T20:09:24.527052+00:00",
@@ -882,43 +827,22 @@
       "article_titles": [
         "Dragon Age setting creator David Gaider is pitching a heist RPG that's 'make or break' for his studio"
       ]
+    },
+    {
+      "headline": "Yoko Taro's Evangelion Anime Series Gets Its First English Trailer",
+      "tag": "neon genesis evangelion",
+      "posted_at": "2026-07-05T17:04:11.776449+00:00",
+      "urls": [
+        "https://kotaku.com/the-first-english-trailer-for-yoko-taros-evangelion-series-is-here-to-remind-you-its-coming-and-looks-great-2000712671"
+      ],
+      "article_titles": [
+        "The First English Trailer For Yoko Taro\u2019s Evangelion Series Is Here To Remind You It\u2019s Coming And Looks Great"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/final-fantasy-15-switch-2",
-      "title": "Final Fantasy 15, and others, could come to Nintendo Switch 2 \u2013 \"it's not entirely impossible\"",
-      "url": "https://www.eurogamer.net/final-fantasy-15-switch-2",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T12:53:25+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1118890",
-      "title": "Review: Court of Darkness: Captivation\u2019s Kiss Suffers the Same Fate as Its Predecessor",
-      "url": "https://www.siliconera.com/review-court-of-darkness-captivations-kiss-suffers-the-same-fate-as-its-predecessor/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742143",
-      "title": "New Nintendo Switch 2 eShop File Sizes Revealed: Granblue Fantasy Relink Hits 39.1GB, while Digimon Story takes 15.8GB",
-      "url": "https://otakukart.com/new-nintendo-switch-2-eshop-file-sizes-revealed-granblue-fantasy-relink-hits-39-1gb-while-digimon-story-takes-15-8gb/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T12:42:41+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742142",
-      "title": "Dragon Quest 11 S Switch 2 Upgrade Reveals 60FPS Performance Mode and 1440p Visual Quality Option",
-      "url": "https://otakukart.com/dragon-quest-11-s-switch-2-upgrade-reveals-60fps-performance-mode-and-1440p-visual-quality-option/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-05T12:29:41+00:00"
-    },
     {
       "guid": "2wiKuergeXU99JNBYk4tED",
       "title": "Halo: Campaign Evolved pays tribute to the hugely popular Red vs. Blue series with a new Machinima mode",
@@ -1006,6 +930,86 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-07-05T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/meccha-chameleon-15-million-sales",
+      "title": "Meccha Chameleon tops another milestone, selling 15 million copies in less than 30 days",
+      "url": "https://www.eurogamer.net/meccha-chameleon-15-million-sales",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T16:37:42+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000712671",
+      "title": "The First English Trailer For Yoko Taro\u2019s Evangelion Series Is Here To Remind You It\u2019s Coming And Looks Great",
+      "url": "https://kotaku.com/the-first-english-trailer-for-yoko-taros-evangelion-series-is-here-to-remind-you-its-coming-and-looks-great-2000712671",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T17:00:46+00:00"
+    },
+    {
+      "guid": "t66pgsDiT9RTvgqwdV7BMX",
+      "title": "What was the first videogame song that you ever heard?",
+      "url": "https://www.pcgamer.com/games/what-was-the-first-videogame-song-that-you-ever-heard/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T17:00:00+00:00"
+    },
+    {
+      "guid": "diK4B8GyPSz3MFVoZiQVPb",
+      "title": "Meccha Chameleon celebrates 15 million sales by teasing a 'collaboration with a famous Japanese star'",
+      "url": "https://www.pcgamer.com/games/sports/meccha-chameleon-celebrates-15-million-sales-by-teasing-a-collaboration-with-a-famous-japanese-star/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T16:47:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801925",
+      "title": "Box Office: \u2018Minions & Monsters\u2019 Nears $100 Million Overseas, \u2018Toy Story 5\u2019 Climbs to $764 Million Globally",
+      "url": "https://variety.com/2026/film/box-office/box-office-minions-and-monsters-international-success-toy-story-5-milestone-1236801925/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T16:36:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236638097",
+      "title": "Harvey Keitel Sees Film as a Force of \u201cChange\u201d and Tool to \u201cCure Our Biases\u201d \u2014 and Quotes Aristotle",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/harvey-keitel-film-change-bias-movie-with-wife-1236638097/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-05T16:57:39+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742250",
+      "title": "Dragon Age Creator David Gaider Says His New Airship Heist RPG Is \u201cMake or Break\u201d for Summerfall Studios as Funding Crisis Deepens",
+      "url": "https://otakukart.com/dragon-age-creator-david-gaider-says-his-new-airship-heist-rpg-is-make-or-break-for-summerfall-studios-as-funding-crisis-deepens/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-05T16:56:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741686",
+      "title": "Ghost of Tsushima: Legends Anime Reveals First Character Visuals at Anime Expo 2026",
+      "url": "https://otakukart.com/ghost-of-tsushima-legends-anime-reveals-first-character-visuals-at-anime-expo-2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-05T16:54:51+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1741678",
+      "title": "My S-Rank Adventurer Daughters Light Novel Officially Gets TV Anime Adaptation",
+      "url": "https://otakukart.com/my-s-rank-adventurer-daughters-light-novel-officially-gets-tv-anime-adaptation/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-05T16:47:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742249",
+      "title": "Halo Studios Confirms Physical Disc Release for Halo: Campaign Evolved Amid Industry Shift Away From Physical Media",
+      "url": "https://otakukart.com/halo-studios-confirms-physical-disc-release-for-halo-campaign-evolved-amid-industry-shift-away-from-physical-media/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-05T16:41:31+00:00"
     }
   ]
 }
