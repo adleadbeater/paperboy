@@ -888,28 +888,36 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236974274",
-      "title": "Donald Trump Says He\u2019s Delivering Speech \u201cNo Matter What Happens\u201d As National Mall Evacuated Due To Severe Weather \u2014 Update",
-      "url": "https://deadline.com/2026/07/trump-speech-july-4-weather-evacuation-1236974274/",
-      "source_name": "Deadline",
+      "guid": "https://www.eurogamer.net/final-fantasy-15-switch-2",
+      "title": "Final Fantasy 15, and others, could come to Nintendo Switch 2 \u2013 \"it's not entirely impossible\"",
+      "url": "https://www.eurogamer.net/final-fantasy-15-switch-2",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-07-05T01:04:00+00:00"
+      "published_dt": "2026-07-05T12:53:25+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236637926",
-      "title": "Taylor Swift-Travis Kelce Wedding Details Emerge: An Original Adam Sandler Song, \u201cBlank Space\u201d Handkerchiefs at \u201cIntimate\u201d Garden Ceremony",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-travis-kelce-wedding-blank-space-hankies-1236637926/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-05T00:49:02+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203407",
-      "title": "Dragon Quest XI S Switch 2 Version Performance And Resolution Revealed",
-      "url": "https://www.nintendolife.com/news/2026/07/dragon-quest-xi-s-switch-2-version-performance-and-resolution-revealed",
-      "source_name": "Nintendo Life",
+      "guid": "https://www.siliconera.com/?p=1118890",
+      "title": "Review: Court of Darkness: Captivation\u2019s Kiss Suffers the Same Fate as Its Predecessor",
+      "url": "https://www.siliconera.com/review-court-of-darkness-captivations-kiss-suffers-the-same-fate-as-its-predecessor/",
+      "source_name": "Siliconera",
       "source_tier": 2,
-      "published_dt": "2026-07-05T04:30:00+00:00"
+      "published_dt": "2026-07-05T13:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742143",
+      "title": "New Nintendo Switch 2 eShop File Sizes Revealed: Granblue Fantasy Relink Hits 39.1GB, while Digimon Story takes 15.8GB",
+      "url": "https://otakukart.com/new-nintendo-switch-2-eshop-file-sizes-revealed-granblue-fantasy-relink-hits-39-1gb-while-digimon-story-takes-15-8gb/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-05T12:42:41+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742142",
+      "title": "Dragon Quest 11 S Switch 2 Upgrade Reveals 60FPS Performance Mode and 1440p Visual Quality Option",
+      "url": "https://otakukart.com/dragon-quest-11-s-switch-2-upgrade-reveals-60fps-performance-mode-and-1440p-visual-quality-option/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-05T12:29:41+00:00"
     }
   ]
 }
