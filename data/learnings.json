@@ -954,46 +954,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236974851",
-      "title": "Job Cuts, Content Sharing, Exec Rejigs & Protracted Antitrust Scrutiny: Five Things You Need To Know About Sky\u2019s \u201cHistoric\u201d Takeover Of ITV",
-      "url": "https://deadline.com/2026/07/itv-sky-deal-what-you-need-to-know-1236974851/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-06T17:17:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236974833",
-      "title": "Juan De Dios & Pablo Larra\u00edn\u2019s Pijama Platform Moving Into Acquisitions With \u201cThree Big Films With Great Talent\u201d \u2014 Karlovy Vary",
-      "url": "https://deadline.com/2026/07/juan-de-dios-pablo-larrain-pijama-acquisitions-karlovy-vary-1236974833/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-06T17:11:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236802547",
-      "title": "\u2018Succession\u2019 Duo Peter Friedman and David Rasche Reunite in Short Film \u2018Elderwood\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/succession-peter-friedman-david-rasche-reunite-short-film-1236802547/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-06T17:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638801",
-      "title": "Virtual Production Has Arrived at Television City",
-      "url": "https://www.hollywoodreporter.com/business/business-news/virtual-production-arrived-television-city-1236638801/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-06T17:17:17+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638805",
-      "title": "Brooke Shields \u201cAmbushes\u201d \u2018South Park\u2019 Creators Over Casa Bonita Working Conditions",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/brooke-shields-south-park-casa-bonita-1236638805/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-06T17:16:34+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000712945",
       "title": "With Arkane For Sale And Blade At Risk, Original Founder Asks Xbox CEO: \u2018How Much?\u2019",
       "url": "https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945",
@@ -1048,14 +1008,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-06T17:31:30+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203432",
-      "title": "Guilty Gear Strive Shocks Players with Confirmation of a Second Guest Character",
-      "url": "https://www.pushsquare.com/news/2026/07/guilty-gear-strive-shocks-players-with-confirmation-of-a-second-guest-character",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-06T17:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1119084",
@@ -1544,6 +1496,46 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-06T21:04:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236974825",
+      "title": "Dennis Quaid-Led AMC NASCAR Drama \u2018Thunder Road\u2019 Casts Matt Barr",
+      "url": "https://deadline.com/2026/07/amc-nascar-series-thunder-road-matt-barr-cast-1236974825/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-06T21:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236802817",
+      "title": "V/H/S Franchise Sets New Roy Lee-Produced Movie Based on SCP Foundation Universe (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/vhs-anthology-film-scp-foundation-universe-roy-lee-1236802817/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-06T21:14:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236638804",
+      "title": "TV Ratings: Fourth of July Specials Boom for NBC, Fox News",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/july-4-tv-ratings-nbc-fox-news-america-250-1236638804/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-06T21:28:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236639149",
+      "title": "\u2018Terrifier\u2019 Actress Had Deal for 1 Percent of Profits. A Court Will Decide If That\u2019s for One Movie \u2014 Or the Whole Series",
+      "url": "https://www.hollywoodreporter.com/business/business-news/terrifier-lawsuit-profits-1236639149/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-06T21:20:48+00:00"
+    },
+    {
+      "guid": "p8iE9vLYHqayexLgqCJAhj",
+      "title": "Nirvana and Foo Fighters' Dave Grohl says Kurt Cobain would've loved this new anime about gay girls",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/nirvana-and-foo-fighters-dave-grohl-says-kurt-cobain-wouldve-loved-this-new-anime-about-gay-girls/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-06T21:09:35+00:00"
     }
   ]
 }
