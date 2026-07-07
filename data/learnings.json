@@ -1001,158 +1001,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "d598d147-13f3-4c67-91b4-4385268cce89",
-      "title": "Matt Damon Says Christopher Nolan Filmed a 60-Foot Cyclops Puppet in a Real-Life Cave for The Odyssey, Rather Than Just Relying on CGI",
-      "url": "https://www.ign.com/articles/matt-damon-says-christopher-nolan-filmed-a-60-foot-cyclops-puppet-in-a-real-life-cave-for-the-odyssey-rather-than-just-relying-on-cgi",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:43:55+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000713384",
-      "title": "After Unprecedented Leak, The New Avatar Movie Looks Great In First Official Trailer",
-      "url": "https://kotaku.com/avatar-aang-last-airbender-movie-trailer-date-paramount-2000713384",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:34:37+00:00"
-    },
-    {
-      "guid": "HkU58NdnvG83wqjzpuLyyJ",
-      "title": "A classic Daedalic adventure is free on GOG, and it's not one I particularly like but you can't beat the price",
-      "url": "https://www.pcgamer.com/games/adventure/a-classic-daedalic-adventure-is-free-on-gog-and-its-not-one-i-particularly-like-but-you-cant-beat-the-price/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:53:15+00:00"
-    },
-    {
-      "guid": "yyUABSciVrZjbWXFRKZxZZ",
-      "title": "Arc Raiders reveals it's been successfully targeting item duplication exploits as the percentage of players with 'unusually high profit per minute' drops below 1% for the first time in months",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-reveals-its-been-successfully-targeting-item-duplication-exploits-as-the-percentage-of-players-with-unusually-high-profit-per-minute-drops-below-1-percent-for-the-first-time-in-months/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:53:00+00:00"
-    },
-    {
-      "guid": "zLuBgQpZzPVTzsfeb3ertb",
-      "title": "This free software aims to turn Sony headphones into a head tracker for '200+ PC games'",
-      "url": "https://www.pcgamer.com/hardware/gaming-headsets/this-free-software-aims-to-turn-sony-headphones-into-a-head-tracker-for-200-pc-games/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:45:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975778",
-      "title": "Mariska Hargitay To Host 2026 Emmy Awards On NBC",
-      "url": "https://deadline.com/2026/07/mariska-hargitay-host-2026-emmy-awards-nbc-1236975778/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:03+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975236",
-      "title": "Marie Sheehy Promoted To EVP Corporate Communications For WME Group",
-      "url": "https://deadline.com/2026/07/marie-sheehy-evp-corporate-communications-wme-group-1236975236/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975387",
-      "title": "Danny McBride\u2019s Debut Novel \u2018Thrilling Tales Of Modern Men\u2019 Hits New York Times Best-Seller List In First Week",
-      "url": "https://deadline.com/2026/07/danny-mcbrides-thrilling-tales-of-modern-men-new-york-timnes-1236975387/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975751",
-      "title": "Producer Greg Shapiro Teases \u2018Harold & Kumar 4\u2019 At Karlovy Vary: \u201cHopefully We\u2019ll Be Shooting It Soon\u201d",
-      "url": "https://deadline.com/2026/07/producer-greg-shapiro-teases-harold-kumar-4-karlovy-vary-1236975751/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:57:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803622",
-      "title": "Mariska Hargitay to Host Emmys; First Woman to Emcee the Show In 15 Years",
-      "url": "https://variety.com/2026/tv/news/mariska-hargitay-host-emmys-nbc-first-woman-in-15-years-1236803622/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803706",
-      "title": "\u2018Shark Tank\u2019 Sets Season 18 Guest Sharks: MrBeast, Mindy Kaling, \u2018Diary of a CEO\u2019 Host and More",
-      "url": "https://variety.com/2026/tv/news/shark-tank-season-18-sharks-1236803706/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?post_type=pmc_list&p=1236802906",
-      "title": "\u2018Big Brother 28\u2019 Cast Revealed: \u2018Drag Race\u2019 Star Jason De Puy, MMA Fighter Kamuela \u2018Kamu\u2019 Kirk and More",
-      "url": "https://variety.com/lists/big-brother-28-cast-drag-race-mma-fighter/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:56:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236801418",
-      "title": "Diljit Dosanjh Speaks Out After \u2018Satluj\u2019 Pulled From ZEE5 in India: \u2018It Wasn\u2019t a Surprise to Me\u2019",
-      "url": "https://variety.com/2026/tv/news/diljit-dosanjh-satluj-punjab-95-uncut-zee5-global-1236801418/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:50:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803166",
-      "title": "\u2018The Sopranos\u2019 Creator David Chase on Making a Movie About LSD Alongside MKUltra Series and Being Concerned About \u2018Censorship\u2019 Under Trump",
-      "url": "https://variety.com/2026/film/festivals/the-sopranos-david-chase-lsd-movie-trump-concerns-1236803166/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T16:37:25+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236639376",
-      "title": "WME Group Promotes Marie Sheehy to C-Suite",
-      "url": "https://www.hollywoodreporter.com/business/business-news/marie-sheehy-named-head-corporate-communications-wme-group-1236639376/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "LBAtZvy7GTx3eszoN9dMiT",
-      "title": "Warhammer 40,000: Space Marine 2 \"literally changed everything\" for Saber Interactive, Tim Willits says the studio's had to \"turn down\" more offers than it can possibly accept",
-      "url": "https://www.gamesradar.com/games/action/warhammer-40-000-space-marine-2-literally-changed-everything-for-saber-interactive-tim-willits-says-the-studios-had-to-turn-down-more-offers-than-it-can-possibly-accept/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T16:36:25+00:00"
-    },
-    {
-      "guid": "om5vH2AbAUFvynRbAZJ78E",
-      "title": "I'm ready for the Nintendo Switch to join my DS Lite and PS2 in retro retirement",
-      "url": "https://www.gamesradar.com/games/im-ready-for-the-nintendo-switch-to-join-my-ds-lite-and-ps2-in-retro-retirement/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T16:35:18+00:00"
-    },
-    {
-      "guid": "gevCsFP8tvqrU99agVGhVS",
-      "title": "After nearly 15 years, Minecraft finally lets us camp anywhere in its ever-generating worlds without resetting our spawn",
-      "url": "https://www.gamesradar.com/games/minecraft/after-nearly-15-years-minecraft-finally-lets-us-camp-anywhere-in-its-ever-generating-worlds-without-resetting-our-spawn/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T16:33:11+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742716",
-      "title": "Pearl Abyss CEO Confirms Crimson Desert Is Being Developed for Nintendo Switch 2, Says More Work Is Needed",
-      "url": "https://otakukart.com/pearl-abyss-ceo-confirms-crimson-desert-is-being-developed-for-nintendo-switch-2-says-more-work-is-needed/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T16:52:18+00:00"
-    },
-    {
       "guid": "z2i7tVqMQPyxJFRVPoA4zN",
       "title": "Obsession star Inde Navarrette built her gaming PC just like you and me: By watching Henry Cavill do it first",
       "url": "https://www.pcgamer.com/movies-tv/obsession-star-inde-navarrette-built-her-gaming-pc-just-like-you-and-me-by-watching-henry-cavill-do-it-first/",
@@ -1175,22 +1023,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-07T17:26:31+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975250",
-      "title": "Geena Davis To Star In Dorothea Puente True Crime Drama In Works At HBO From Joshua Michael Stern, Michael Rosenbaum & Jeff Frost",
-      "url": "https://deadline.com/2026/07/geena-davis-dorothea-puente-true-crime-drama-hbo-1236975250/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975679",
-      "title": "MrBeast, Mindy Kaling, Erin & Sara Foster Among Guest Sharks For \u2018Shark Tank\u2019 Season 18",
-      "url": "https://deadline.com/2026/07/mrbeast-mindy-kaling-guest-sharks-shark-tank-season-18-1236975679/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236803391",
@@ -1217,44 +1049,12 @@
       "published_dt": "2026-07-07T17:15:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236640005",
-      "title": "Mariska Hargitay to Host 2026 Emmy Awards",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/mariska-hargitay-host-2026-emmys-1236640005/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
       "guid": "R2zs3fTDP7UQ2X9Qa4VkzT",
       "title": "John Romero has a private collection of \"critically important\" id Software history \"including materials and assets that, as far as I know, id itself no longer has\"",
       "url": "https://www.gamesradar.com/games/fps/john-romero-has-a-private-collection-of-critically-important-id-software-history-including-materials-and-assets-that-as-far-as-i-know-id-itself-no-longer-has/",
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-07T17:12:35+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203487",
-      "title": "Feature: \"A Great Idea Only Matters If You're Able To Finish It\" - Atlantis Studio On Learning From The Past For Its Exclusive Switch 2 Horror",
-      "url": "https://www.nintendolife.com/features/a-great-idea-only-matters-if-youre-able-to-finish-it-atlantis-studio-on-learning-from-the-past-for-its-exclusive-switch-2-horror",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203508",
-      "title": "Control Resonant's Fancy PS5 Steelbook Edition Flaunted in the Wake of Sony Ditching Discs",
-      "url": "https://www.pushsquare.com/news/2026/07/control-resonants-fancy-ps5-steelbook-edition-flaunted-in-the-wake-of-sony-ditching-discs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119166",
-      "title": "Yami Yugi Hair Turned Into a Yu-Gi-Oh Hat",
-      "url": "https://www.siliconera.com/yami-yugi-hair-turned-into-a-yu-gi-oh-hat/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T17:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1062859",
@@ -1303,14 +1103,6 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-07-07T17:11:53+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=612262",
-      "title": "D&D: Five More Campaign Styles You Should Give A Whirl",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-five-more-campaign-styles-you-should-give-a-whirl.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T17:00:00+00:00"
     },
     {
       "guid": "49b45656-88fb-4126-929c-34523111c53a",
@@ -1991,6 +1783,102 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-07T20:26:30+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713407",
+      "title": "9 Rhythm Heaven Groove Games That Made Me Want To Put A Controller Through My TV",
+      "url": "https://kotaku.com/rhythm-heaven-groove-games-frustrating-worst-best-2000713407",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T20:30:29+00:00"
+    },
+    {
+      "guid": "KAUwCsp3Eo3qs8ipvzpoPV",
+      "title": "Bernie Sanders is mad about the Xbox layoffs",
+      "url": "https://www.pcgamer.com/gaming-industry/bernie-sanders-is-mad-about-the-xbox-layoffs/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T20:58:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976108",
+      "title": "Jennifer Beals Joins LL Cool J & Scott Caan In \u2018NCIS: New York\u2019; Three Others Cast In CBS Spinoff Series",
+      "url": "https://deadline.com/2026/07/jennifer-beals-ncis-new-york-cast-ll-cool-j-scott-caan-1236976108/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T21:00:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975954",
+      "title": "Karlovy Vary\u2019s Promises Industry Section Announces Award Winners",
+      "url": "https://deadline.com/2026/07/karlovy-vary-promises-industry-award-winners-1236975954/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T20:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803556",
+      "title": "Christopher Nolan Says \u2018The Odyssey\u2019s\u2019 Modern English Dialogue \u2018Was a No-Brainer\u2019 Even If \u2018It Might Bite Me on the Ass\u2019 and \u2018I Was Maybe Being Na\u00efve\u2019",
+      "url": "https://variety.com/2026/film/news/christopher-nolan-defends-odyssey-accents-english-dialogue-1236803556/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T20:38:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236640479",
+      "title": "Taylor Swift Fans Eagerly Await First Look at Her Wedding Dress",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/taylor-swift-wedding-dress-reveal-dior-couture-1236640479/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T20:58:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236640354",
+      "title": "Karlovy Vary Unveils KVIFF Promises Winners, Including Ukraine Film Project \u2018Reminiscence\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/karlovy-vary-2026-kviff-promises-winners-unveiled-1236640354/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T20:40:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236640152",
+      "title": "Don\u2019t Call Annette Bening\u2019s Character the \u2018Dutton Ranch\u2019 Villain \u2014 Even After That Finale",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/dutton-ranch-finale-beulah-jackson-annette-bening-interview-1236640152/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T20:35:00+00:00"
+    },
+    {
+      "guid": "ykCfaN4B4YgZmYsiYa5wjK",
+      "title": "Steam is more than 50% larger than PlayStation according to expert's estimate, which puts Valve's store around 200 million monthly active users",
+      "url": "https://www.gamesradar.com/games/steam-is-more-than-50-percent-larger-than-playstation-according-to-experts-estimate-which-puts-valves-store-around-200-million-monthly-active-users/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T20:36:21+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119191",
+      "title": "Fields of Mistria Engine Migration Patch Affects Mod Compatibility",
+      "url": "https://www.siliconera.com/fields-of-mistria-engine-migration-patch-affects-mod-compatibility/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T21:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742798",
+      "title": "Xbox Reportedly Targeted 77 Million Game Pass Subscribers by 2026 but Has Only Around 30 Million",
+      "url": "https://otakukart.com/xbox-reportedly-targeted-77-million-game-pass-subscribers-by-2026-but-has-only-around-30-million/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T20:59:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742797",
+      "title": "007 First Light Confirms Layoffs and Istanbul Studio Closure, but Says Project Fantasy Will Continue Independently",
+      "url": "https://otakukart.com/007-first-light-confirms-layoffs-and-istanbul-studio-closure-but-says-project-fantasy-will-continue-independently/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T20:39:00+00:00"
     }
   ]
 }
