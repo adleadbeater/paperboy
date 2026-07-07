@@ -1001,94 +1001,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "uvGhwoTgb2YiNKNsZNzyri",
-      "title": "Arc Raiders has finally added 'one of the most requested matchmaking features' meaning players can now Jekyll and Hyde their way through lobbies",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-finally-added-one-of-the-most-requested-matchmaking-features-meaning-players-can-now-jekyll-and-hyde-their-way-through-lobbies/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:23:57+00:00"
-    },
-    {
-      "guid": "cWER2tBBNonTqZcc3dRfri",
-      "title": "John Romero commiserates with ousted id devs as around half the studio reported axed, says he hopes someone is preserving its work like he did before he left",
-      "url": "https://www.pcgamer.com/gaming-industry/john-romero-commiserates-with-ousted-id-devs-as-around-half-the-company-reported-axed-says-he-hopes-someone-is-preserving-its-work-like-he-did-before-he-left/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:18:29+00:00"
-    },
-    {
-      "guid": "bjMuDi7WELhJkrF84EY2wS",
-      "title": "IO Interactive says Project Fantasy isn't dead, but confirms that layoffs are happening",
-      "url": "https://www.pcgamer.com/gaming-industry/io-interactive-says-project-fantasy-isnt-dead-but-confirms-that-layoffs-are-happening/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:13:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803287",
-      "title": "Gucci Family Series \u2018Game Over\u2019 Reveals First-Look Images as Sky Italia Announces Further Cast",
-      "url": "https://variety.com/2026/tv/global/gucci-family-series-game-over-first-look-images-1236803287/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:23:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803281",
-      "title": "Ncuti Gatwa to Executive Produce \u2018Doctor Who\u2019 Actor Niamh Marie Smith\u2019s Short Film \u2018Passing Through\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/ncuti-gatwa-produce-doctor-who-niamh-marie-smith-short-film-1236803281/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:02:39+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236639815",
-      "title": "Prince Harry Loses London Privacy Invasion Trial Against Daily Mail Publisher",
-      "url": "https://www.hollywoodreporter.com/news/general-news/prince-harry-daily-mail-publisher-legal-case-1236639815/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:13:18+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236639801",
-      "title": "Apple TV\u2019s Stephen Graham Series Gets a Release Date \u2014 and New Title",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-stephen-graham-series-retitled-nocturne-release-1236639801/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:02:03+00:00"
-    },
-    {
-      "guid": "1812865",
-      "title": "Xbox Game Pass New Games For July Revealed",
-      "url": "https://www.gamespot.com/articles/xbox-game-pass-new-games-for-july-revealed/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T14:02:13+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119059",
-      "title": "Preview: Captain Tsubasa 2: World Fighters Gets More Dynamic",
-      "url": "https://www.siliconera.com/preview-captain-tsubasa-2-world-fighters-gets-more-dynamic/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T14:01:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1062865",
-      "title": "Flesh & Wire second trailer",
-      "url": "https://www.gematsu.com/2026/07/flesh-wire-second-trailer",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T14:17:42+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1062977",
-      "title": "Captain Tsubasa II: World Fighters \u2018Modes\u2019 trailer",
-      "url": "https://www.gematsu.com/2026/07/captain-tsubasa-ii-world-fighters-modes-trailer",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T14:10:24+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/io-interactive-regains-control-project-fantasy",
       "title": "IO Interactive regains full ownership of Project Fantasy following end of Xbox deal, shuts down Istanbul studio and lays off developers \"to find a new balance\"",
       "url": "https://www.eurogamer.net/io-interactive-regains-control-project-fantasy",
@@ -2127,6 +2039,102 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-07T17:39:48+00:00"
+    },
+    {
+      "guid": "n6c4bYn4GufoeiK4QFgmuK",
+      "title": "You still can't kill fish in Subnautica 2, but starting tomorrow you'll at least be able to 'stun' them",
+      "url": "https://www.pcgamer.com/games/survival-crafting/you-still-cant-kill-fish-in-subnautica-2-but-starting-tomorrow-youll-at-least-be-able-to-stun-them/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:20:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975832",
+      "title": "Big Money! Jobs! Newsom Boasts Big Bucks Film/TV Tax Credits \u201cDelivering Results\u201d; Eddie Murphy\u2019s \u2018Donkey,\u2019 Disney & Ben Affleck Flicks Get Incentives",
+      "url": "https://deadline.com/2026/07/newsom-california-film-tax-credits-1236975832/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:10:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803121",
+      "title": "\u2018Black Money for White Nights\u2019 Review: A Cycle of Corruption Endangers a Marriage in a Bitter, Gripping Bulgarian Tragicomedy",
+      "url": "https://variety.com/2026/film/reviews/black-money-for-white-nights-review-1236803121/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:19:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803794",
+      "title": "Ali G Returns: Sacha Baron Cohen Wraps Filming Secret Movie Reviving Beloved Character",
+      "url": "https://variety.com/2026/film/news/sacha-baron-cohen-ali-g-new-movie-1236803794/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:13:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803809",
+      "title": "Netflix Confirms Ana Mar\u00eda Londo\u00f1o as Head of Content, Colombia (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/netflix-ana-maria-londono-head-of-content-colombia-1236803809/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:11:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803800",
+      "title": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties",
+      "url": "https://variety.com/2026/music/news/jermaine-dupri-sues-sony-music-mariah-carey-usher-royalties-1236803800/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:04:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803178",
+      "title": "Buyer Beware: Why Sun Valley Has Been a Disaster for the Media Business",
+      "url": "https://variety.com/2026/biz/news/sun-valley-conference-destroy-media-business-deals-1236803178/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:02:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236640200",
+      "title": "Brian Potter, \u201cOne Tin Soldier\u201d and \u201cAin\u2019t No Woman (Like the One I\u2019ve Got)\u201d Songwriter, Dies at 87",
+      "url": "https://www.hollywoodreporter.com/music/music-news/brian-potter-dead-one-tin-soldier-aint-no-woman-rhinestone-cowboy-1236640200/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:26:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236639834",
+      "title": "Dwayne Johnson to Star as Motorcycle Stuntman Hiding His Dementia in \u2018Free Byrd\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-free-byrd-drama-1236639834/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:25:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236638982",
+      "title": "Who\u2019s at the Sun Valley Moguls Retreat This Year",
+      "url": "https://www.hollywoodreporter.com/lists/sun-valley-moguls-retreat-this-year/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:10:52+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742728",
+      "title": "Netflix Partners With Billboard to Bring Music Video Series to Subscribers Starting August 3",
+      "url": "https://otakukart.com/netflix-partners-with-billboard-to-bring-music-video-series-to-subscribers-starting-august-3/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T18:22:08+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/how-to-paint-everything-starcraft-the-miniatures-game-zerglings/",
+      "title": "How to Paint Everything: StarCraft The Miniatures Game Zerglings",
+      "url": "https://www.tabletopbattles.com/how-to-paint-everything-starcraft-the-miniatures-game-zerglings/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T18:00:34+00:00"
     }
   ]
 }
