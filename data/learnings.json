@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Netflix Is Reportedly Making a Live-Action Persona Series With the Deadpool Director",
-      "tag": "persona",
-      "posted_at": "2026-06-29T22:34:42.393885+00:00",
-      "urls": [
-        "https://kotaku.com/netflix-reportedly-making-live-action-persona-series-nobody-asked-for-with-deadpool-director-and-star-trek-picard-writer-2000711527"
-      ],
-      "article_titles": [
-        "Netflix Reportedly Making Live-Action Persona Series Nobody Asked For With Deadpool Director And Star Trek Picard Writer"
-      ]
-    },
-    {
-      "headline": "GTA 6 Developers at Rockstar Are Pushing for Union Recognition After 2025 Layoffs",
-      "tag": "gta 6 / rockstar games",
-      "posted_at": "2026-06-30T13:48:34.627658+00:00",
-      "urls": [
-        "https://www.eurogamer.net/rockstar-games-union-push-before-gta-6-launch"
-      ],
-      "article_titles": [
-        "GTA 6 developers at Rockstar Games pushing to pursue official union recognition following 2025 sackings: \"The union is now stronger than ever\""
-      ]
-    },
-    {
       "headline": "Super Mario Galaxy Movie Gets Peacock Release Date",
       "tag": "super mario galaxy / super mario",
       "posted_at": "2026-06-30T15:01:21.169460+00:00",
@@ -959,6 +937,32 @@
       "article_titles": [
         "CD Projekt Red thanks 6000 Edgerunners 2 advance viewers for not spoiling the show in stunning display of opsec: 'Thank you so much for keeping your promise properly'"
       ]
+    },
+    {
+      "headline": "Doom Co-Creator John Romero Calls for Preservation of id Software's History After Xbox Cuts",
+      "tag": "id software",
+      "posted_at": "2026-07-07T13:59:44.388517+00:00",
+      "urls": [
+        "https://www.eurogamer.net/doom-creator-john-romero-on-xbox-layoffs-id-software",
+        "https://kotaku.com/doom-designer-john-romero-says-he-hopes-people-are-preserving-id-softwares-history-amid-reported-xbox-bloodbath-2000713308"
+      ],
+      "article_titles": [
+        "Doom co-creator John Romero weighs in on Xbox's cuts to id Software, underlines the importance of digital preservation and the studio's history",
+        "Doom Designer John Romero Says He Hopes People Are Preserving id Software\u2019s History Amid Reported Xbox Bloodbath"
+      ]
+    },
+    {
+      "headline": "Over 170,000 People Have Signed a Petition Against Sony Killing PlayStation Disc Support",
+      "tag": "playstation",
+      "posted_at": "2026-07-07T13:59:44.483856+00:00",
+      "urls": [
+        "https://www.eurogamer.net/petition-against-sony-killing-playstation-physical-media",
+        "https://kotaku.com/playstation-breaks-six-day-silence-after-announcing-the-end-of-discs-and-gets-immediately-roasted-physical-forever-you-cowards-2000713322"
+      ],
+      "article_titles": [
+        "The petition against Sony's decision to kill PlayStation physical discs has over 170,000 signatures",
+        "PlayStation Breaks Six-Day Silence After Announcing The End Of Discs And Gets Immediately Roasted: \u2018Physical Forever You Cowards\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1107,6 +1111,78 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-07-07T13:14:33+00:00"
+    },
+    {
+      "guid": "4b2d4043-3827-4ed0-912a-5a2301fe6fa2",
+      "title": "PlayStation's First Tweet Since It Announced Plans to Kill Discs Is Going About as Well as You'd Expect",
+      "url": "https://www.ign.com/articles/playstations-first-tweet-since-it-announced-plans-to-kill-discs-is-going-about-as-well-as-youd-expect",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T13:42:38+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=241430",
+      "title": "New games and updates coming to Xbox Game Pass in July 2026",
+      "url": "https://www.videogameschronicle.com/news/new-games-and-updates-coming-to-xbox-game-pass-in-july-2026/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T13:36:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/doom-creator-john-romero-on-xbox-layoffs-id-software",
+      "title": "Doom co-creator John Romero weighs in on Xbox's cuts to id Software, underlines the importance of digital preservation and the studio's history",
+      "url": "https://www.eurogamer.net/doom-creator-john-romero-on-xbox-layoffs-id-software",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T13:51:20+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/petition-against-sony-killing-playstation-physical-media",
+      "title": "The petition against Sony's decision to kill PlayStation physical discs has over 170,000 signatures",
+      "url": "https://www.eurogamer.net/petition-against-sony-killing-playstation-physical-media",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T13:49:46+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713322",
+      "title": "PlayStation Breaks Six-Day Silence After Announcing The End Of Discs And Gets Immediately Roasted: \u2018Physical Forever You Cowards\u2019",
+      "url": "https://kotaku.com/playstation-breaks-six-day-silence-after-announcing-the-end-of-discs-and-gets-immediately-roasted-physical-forever-you-cowards-2000713322",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T13:45:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803196",
+      "title": "\u2018Narcos\u2019 Star Dami\u00e1n Alc\u00e1zar Set for Buzzy Latino Gumshoe Thriller-Comedy \u2018Rookies\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/damian-alcazar-christian-tappan-jose-luis-rugeles-1236803196/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T13:41:49+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203493",
+      "title": "James Bond, Hitman Studio's Project Fantasy Still Coming After Xbox Cuts",
+      "url": "https://www.pushsquare.com/news/2026/07/james-bond-hitman-studios-project-fantasy-still-coming-after-xbox-cuts",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203495",
+      "title": "\"We Have Very Exciting Things In The Pipeline\" - Atari Announces New President For Its European Division",
+      "url": "https://www.timeextension.com/news/2026/07/we-have-very-exciting-things-in-the-pipeline-atari-announces-new-president-for-its-european-division",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1062970",
+      "title": "Echobreaker launches August 6",
+      "url": "https://www.gematsu.com/2026/07/echobreaker-launches-august-6",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T13:30:27+00:00"
     }
   ]
 }
