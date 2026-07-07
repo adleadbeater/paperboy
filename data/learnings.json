@@ -1001,150 +1001,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "4b2d4043-3827-4ed0-912a-5a2301fe6fa2",
-      "title": "PlayStation's First Tweet Since It Announced Plans to Kill Discs Is Going About as Well as You'd Expect",
-      "url": "https://www.ign.com/articles/playstations-first-tweet-since-it-announced-plans-to-kill-discs-is-going-about-as-well-as-youd-expect",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T13:42:38+00:00"
-    },
-    {
-      "guid": "https://www.videogameschronicle.com/?p=241430",
-      "title": "New games and updates coming to Xbox Game Pass in July 2026",
-      "url": "https://www.videogameschronicle.com/news/new-games-and-updates-coming-to-xbox-game-pass-in-july-2026/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T13:36:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/doom-creator-john-romero-on-xbox-layoffs-id-software",
-      "title": "Doom co-creator John Romero weighs in on Xbox's cuts to id Software, underlines the importance of digital preservation and the studio's history",
-      "url": "https://www.eurogamer.net/doom-creator-john-romero-on-xbox-layoffs-id-software",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T13:51:20+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/petition-against-sony-killing-playstation-physical-media",
-      "title": "The petition against Sony's decision to kill PlayStation physical discs has over 170,000 signatures",
-      "url": "https://www.eurogamer.net/petition-against-sony-killing-playstation-physical-media",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T13:49:46+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000713322",
-      "title": "PlayStation Breaks Six-Day Silence After Announcing The End Of Discs And Gets Immediately Roasted: \u2018Physical Forever You Cowards\u2019",
-      "url": "https://kotaku.com/playstation-breaks-six-day-silence-after-announcing-the-end-of-discs-and-gets-immediately-roasted-physical-forever-you-cowards-2000713322",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T13:45:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803196",
-      "title": "\u2018Narcos\u2019 Star Dami\u00e1n Alc\u00e1zar Set for Buzzy Latino Gumshoe Thriller-Comedy \u2018Rookies\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/damian-alcazar-christian-tappan-jose-luis-rugeles-1236803196/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T13:41:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975564",
-      "title": "TIFF 51st Edition Sets Si\u00e2n Heder\u2019s \u2018Being Heumann\u2019 As Opening Night Film",
-      "url": "https://deadline.com/2026/07/tiff-2026-being-heumann-prima-facie-cynthia-erivo-1236975564/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975426",
-      "title": "Oscar Winner David Borenstein Joins \u2018A Fox Under A Pink Moon\u2019 As E.P., Calls Film\u2019s Courageous Afghan Heroine \u201cPunk Rock\u201d",
-      "url": "https://deadline.com/2026/07/a-fox-under-a-pink-moon-david-borenstein-executive-producer-1236975426/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236802904",
-      "title": "Sian Heder\u2019s \u2018Being Heumann\u2019 to Open TIFF 2026, Cynthia Erivo\u2019s \u2018Prima Facie\u2019 to World Premiere",
-      "url": "https://variety.com/2026/film/news/toronto-film-festival-opening-night-film-sian-heder-being-heumann-prima-facie-world-premiere-1236802904/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638903",
-      "title": "Kering Foundation\u2019s Caring for Women Gala Sets Co-Hosts",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/kering-foundation-caring-for-women-gala-co-hosts-2026-1236638903/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236639765",
-      "title": "\u2018CODA\u2019 Director Sian Heder\u2019s \u2018Being Heumann\u2019 to Open Toronto Film Festival",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/coda-director-sian-heder-being-heumann-toronto-1236639765/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
-      "guid": "mrQ9KzdPhLABSEwu3ok3aY",
-      "title": "Hitman and 007 First Light dev IO Interactive regains \"full ownership\" of its mysterious online RPG project after Xbox reportedly pulled funding",
-      "url": "https://www.gamesradar.com/games/rpg/hitman-and-007-first-light-dev-io-interactive-regains-full-ownership-of-its-mysterious-online-rpg-project-after-xbox-reportedly-pulled-funding/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T13:58:14+00:00"
-    },
-    {
-      "guid": "KR3x8ZBvnd4sNb93XE5rj8",
-      "title": "Spyro: Reignited Trilogy devs used an open-source emulator to look at the original platformer and measure \"all the metrics\" of gem placements, enemy paths, and more for their remake",
-      "url": "https://www.gamesradar.com/games/platformer/spyro-reignited-trilogy-devs-used-an-open-source-emulator-to-look-at-the-original-platformer-and-measure-all-the-metrics-of-gem-placements-enemy-paths-and-more-for-their-remake/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T13:56:48+00:00"
-    },
-    {
-      "guid": "3oxP2ttwRNVVH7EiE4tuVN",
-      "title": "The best Replay clips for June",
-      "url": "https://www.gamesradar.com/games/the-best-replay-clips-for-june/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T13:50:37+00:00"
-    },
-    {
-      "guid": "aoyvEEyHon2pCAX6PDxUUQ",
-      "title": "Doom developer id Software \"is essentially dead,\" Duke Nukem 3D co-creator says after layoffs reportedly cut almost half of the studio",
-      "url": "https://www.gamesradar.com/games/fps/doom-developer-id-software-is-essentially-dead-duke-nukem-3d-co-creator-says-after-layoffs-reportedly-cut-almost-half-of-the-studio/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T13:37:27+00:00"
-    },
-    {
-      "guid": "hcSLJgXQMV4u3JBz5jZtzA",
-      "title": "Doom creator John Romero praises the devs who carried on id Software's legacy as Microsoft reportedly lays off half of the studio: \"The last few games showed real care, skill, and respect\"",
-      "url": "https://www.gamesradar.com/games/fps/doom-creator-john-romero-praises-the-devs-who-carried-on-id-softwares-legacy-as-microsoft-reportedly-lays-off-half-of-the-studio-the-last-few-games-showed-real-care-skill-and-respect/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T13:34:17+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=69306",
-      "title": "Narcissu creator\u2019s new visual novel Be Missed and Remembered: The Letter from\u00a0Mayoiga\u00a0is a supernatural tale set in Showa-era Japan,\u00a0designed with old-school VN lovers in mind",
-      "url": "https://automaton-media.com/en/news/narcissu-creators-new-visual-novel-be-missed-and-remembered-the-letter-from-mayoiga-is-a-supernatural-tale-set-in-showa-era-japan/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000713324",
-      "title": "Pok\u00e9mon\u2019s Next Lego Sets Are Cool But Good Lord, Those Prices",
-      "url": "https://kotaku.com/pokemon-lego-rayquaza-arcanine-munchlax-red-professor-oak-2000713324",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:15+00:00"
-    },
-    {
       "guid": "uvGhwoTgb2YiNKNsZNzyri",
       "title": "Arc Raiders has finally added 'one of the most requested matchmaking features' meaning players can now Jekyll and Hyde their way through lobbies",
       "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-has-finally-added-one-of-the-most-requested-matchmaking-features-meaning-players-can-now-jekyll-and-hyde-their-way-through-lobbies/",
@@ -1169,14 +1025,6 @@
       "published_dt": "2026-07-07T14:13:49+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236975407",
-      "title": "Liev Schreiber, Zazie Beetz & Stephen Graham-Led Apple TV Drama \u2018Nocturne\u2019 Sets Premiere Date",
-      "url": "https://deadline.com/2026/07/liev-schreiber-zazie-beetz-stephen-graham-nocturne-premiere-1236975407/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236803287",
       "title": "Gucci Family Series \u2018Game Over\u2019 Reveals First-Look Images as Sky Italia Announces Further Cast",
       "url": "https://variety.com/2026/tv/global/gucci-family-series-game-over-first-look-images-1236803287/",
@@ -1191,22 +1039,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-07T14:02:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236802593",
-      "title": "Salma Hayek, Dakota Johnson, Pamela Anderson and Benicio Del Toro Among Kering Foundation\u2019s Caring for Women Dinner Co-Hosts (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/salma-hayek-dakota-johnson-pamela-anderson-kering-caring-for-women-dinner-1236802593/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803139",
-      "title": "Jason Isaacs to Lead Cuba Pictures Scripted Series Based on U.K.\u2019s Maternity Death Scandal (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/jason-isaacs-series-ockenden-maternity-review-1236803139/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-07T14:00:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236639815",
@@ -1233,28 +1065,12 @@
       "published_dt": "2026-07-07T14:02:13+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-203463",
-      "title": "Exclusive: Warhammer 40,000: Rogue Trader Receives Massive Patch On Switch 2, All DLC Now Free",
-      "url": "https://www.nintendolife.com/news/2026/07/exclusive-warhammer-40000-rogue-trader-receives-massive-patch-on-switch-2-all-dlc-now-free",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T14:00:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1119059",
       "title": "Preview: Captain Tsubasa 2: World Fighters Gets More Dynamic",
       "url": "https://www.siliconera.com/preview-captain-tsubasa-2-world-fighters-gets-more-dynamic/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-07T14:01:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203488",
-      "title": "The Quest To Preserve The 'Tales' Series's Mobile Spin-Offs Just Took Another Impressive Step Forward",
-      "url": "https://www.timeextension.com/news/2026/07/the-quest-to-preserve-the-tales-seriess-mobile-spin-offs-just-took-another-impressive-step-forward",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-07T14:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1062865",
@@ -2183,6 +1999,134 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-07-07T17:00:00+00:00"
+    },
+    {
+      "guid": "49b45656-88fb-4126-929c-34523111c53a",
+      "title": "Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System",
+      "url": "https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-for-july",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:45:00+00:00"
+    },
+    {
+      "guid": "f6bc0dbf-a963-4188-91ff-a713c89541b8",
+      "title": "Upcoming Nintendo Switch 2 Games: Release Dates for 2026 and Beyond",
+      "url": "https://www.ign.com/articles/all-upcoming-nintendo-switch-2-games",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:32:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713388",
+      "title": "Overwatch Embraces Chaos And Turns The Cat Into A Heavy Artillery Drone",
+      "url": "https://kotaku.com/overwatch-community-created-april-fools-mode-patch-notes-2000713388",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:46:54+00:00"
+    },
+    {
+      "guid": "C46mLy4qD5A2myi3SuEGVG",
+      "title": "My first 40 days in Moonlight Peaks started off with juicy feuds, but its anemic character writing is starting to show through",
+      "url": "https://www.pcgamer.com/games/life-sim/my-first-40-days-in-moonlight-peaks-started-off-with-juicy-feuds-but-its-anemic-character-writing-is-starting-to-show-through/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:33:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975421",
+      "title": "Prince Harry Loses Landmark Privacy Case Against Daily Mail Publisher; Duke Slams \u201cWhitewash\u201d Ruling",
+      "url": "https://deadline.com/2026/07/prince-harry-verdict-daily-mail-loses-1236975421/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:47:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975272",
+      "title": "Viola Davis & Julius Tennon\u2019s Juvee Productions Inks First-Look Deal With Universal Global Television; \u2018Pawn\u2019 Series Adaptation Set As First Project",
+      "url": "https://deadline.com/2026/07/viola-davis-julius-tennon-juvee-productions-deal-universal-1236975272/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236639328",
+      "title": "\u2018Love and Other Words\u2019 Adaptation Set With the Newly Formed Magic Hour Entertainment (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/love-and-other-words-christina-lauren-film-magic-hour-1236639328/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236639875",
+      "title": "Viola Davis and Julius Tennon\u2019s JuVee Productions Inks First-Look Deal With Universal Global TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/viola-davis-julius-tennon-first-look-deal-universal-global-tv-1236639875/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236639979",
+      "title": "\u2018Godzilla Minus One\u2019 Director to Direct 20th Century Sci-Fi Movie \u2018Nue\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-one-director-nue-1236639979/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-07T17:30:00+00:00"
+    },
+    {
+      "guid": "WwmBHkvkEBoNynsx7HiSmD",
+      "title": "Id Software veteran of over 20 years absolutely rips and tears into Microsoft after devastating layoffs: \"XBOX decided half the team was no longer needed\"",
+      "url": "https://www.gamesradar.com/games/fps/id-software-veteran-of-over-20-years-absolutely-rips-and-tears-into-microsoft-after-devastating-layoffs-xbox-decided-half-the-team-was-no-longer-needed/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T17:37:55+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203512",
+      "title": "Enjoying the World Cup? This Anime Soccer Game Looks Like a PS5 Must Play",
+      "url": "https://www.pushsquare.com/news/2026/07/enjoying-the-world-cup-this-anime-soccer-game-looks-like-a-ps5-must-play",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T17:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203510",
+      "title": "Round Up: Ridiculously Positive Dawnwalker Previews Claim It's a Game of the Year Candidate",
+      "url": "https://www.pushsquare.com/features/round-up-ridiculously-positive-dawnwalker-previews-claim-its-a-game-of-the-year-candidate",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119177",
+      "title": "New Pokemon Lego Sets Include Red, Rayquaza, and Oak\u2019s Lab",
+      "url": "https://www.siliconera.com/new-pokemon-lego-sets-include-red-rayquaza-and-oaks-lab/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T18:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742726",
+      "title": "Escape the Backrooms Launches on Switch 2 With 30+ Levels, Four-Player Co-Op and Proximity Voice Chat",
+      "url": "https://otakukart.com/escape-the-backrooms-launches-on-switch-2-with-30-levels-four-player-co-op-and-proximity-voice-chat/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T17:56:06+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742725",
+      "title": "ARC Raiders Update 1.36.0 Adds Long-Requested Solo, Duo, and Trio Matchmaking System",
+      "url": "https://otakukart.com/arc-raiders-update-1-36-0-adds-long-requested-solo-duo-and-trio-matchmaking-system/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T17:39:05+00:00"
+    },
+    {
+      "guid": "t3_1uq263w",
+      "title": "Recreation of the Assassin Creed Invictus logo",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uq263w/recreation_of_the_assassin_creed_invictus_logo/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-07T17:39:48+00:00"
     }
   ]
 }
