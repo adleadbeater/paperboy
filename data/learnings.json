@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6 Staff Accuse Rockstar of a Growing Gender Pay Gap, Bonus Secrecy, and Normalized Crunch",
-      "tag": "gta 6",
-      "posted_at": "2026-07-01T15:01:49.879459+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/gta-6-staff-accuse-rockstar-of-growing-gender-pay-gap-no-bonus-transparency-and-mandatory-crunch/"
-      ],
-      "article_titles": [
-        "GTA 6 staff accuse Rockstar of growing gender pay gap, no bonus transparency and normalizing crunch"
-      ]
-    },
-    {
-      "headline": "The Subnautica 2 Legal Drama Is Over \u2014 the Fired CEO Is Now Walking Away Voluntarily",
-      "tag": "subnautica 2",
-      "posted_at": "2026-07-01T15:01:49.954729+00:00",
-      "urls": [
-        "https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969"
-      ],
-      "article_titles": [
-        "The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily"
-      ]
-    },
-    {
       "headline": "Total War: Warhammer Finally Gives Archaon His Apocalypse \u2014 10 Years in the Making",
       "tag": "total war: warhammer",
       "posted_at": "2026-07-01T15:31:21.060684+00:00",
@@ -952,6 +930,39 @@
       "article_titles": [
         "Another Final Fantasy VII Mobile Game Bites The Dust"
       ]
+    },
+    {
+      "headline": "Uwe Boll Is Getting a Video Game Tie-In for His Anti-Immigration Movie",
+      "tag": "uwe boll",
+      "posted_at": "2026-07-08T15:31:19.588395+00:00",
+      "urls": [
+        "https://kotaku.com/uwe-boll-citizen-vigilante-armie-hammer-video-game-tie-in-2000713708"
+      ],
+      "article_titles": [
+        "Uwe Boll\u2019s Atrocious Anti-Immigration Movie Is Getting A Video Game Tie-In"
+      ]
+    },
+    {
+      "headline": "Valve's Proton Gets a Major Rebase \u2014 Resident Evil Games Now Playable on Linux",
+      "tag": "proton",
+      "posted_at": "2026-07-08T15:31:19.749425+00:00",
+      "urls": [
+        "https://www.pcgamer.com/software/linux/valves-magical-play-windows-games-on-linux-tech-is-rebased-updated-and-ready-to-play-resident-evil/"
+      ],
+      "article_titles": [
+        "Valve's magical play-Windows-games-on-Linux tech is rebased, updated, and ready to play Resident Evil"
+      ]
+    },
+    {
+      "headline": "Workers at MindsEye Studio Are Protesting a Fan Event After Multiple Layoff Rounds",
+      "tag": "mindseye",
+      "posted_at": "2026-07-08T15:31:19.912490+00:00",
+      "urls": [
+        "https://www.eurogamer.net/mindseye-build-a-rocket-boy-protests-fan-event"
+      ],
+      "article_titles": [
+        "Workers at MindsEye studio protesting controversial fan event this weekend after multiple rounds of layoffs"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1668,6 +1679,182 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-08T14:32:50+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/doom-the-dark-ages-revelations-spear-reactions",
+      "title": "Doom's new Chain Spear weapon seems to be dividing The Dark Ages' audience - \"I'm like an hour in and I can't wait to get the shield back\"",
+      "url": "https://www.eurogamer.net/doom-the-dark-ages-revelations-spear-reactions",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:19:40+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-protests-fan-event",
+      "title": "Workers at MindsEye studio protesting controversial fan event this weekend after multiple rounds of layoffs",
+      "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-protests-fan-event",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:00:38+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713708",
+      "title": "Uwe Boll\u2019s Atrocious Anti-Immigration Movie Is Getting A Video Game Tie-In",
+      "url": "https://kotaku.com/uwe-boll-citizen-vigilante-armie-hammer-video-game-tie-in-2000713708",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:21:00+00:00"
+    },
+    {
+      "guid": "SJJu9LQWx5EwgJwYVgid7R",
+      "title": "'Slopfix': A software team is charging up to $10,000 to clean up AI-generated code, with the help of *checks notes* AI",
+      "url": "https://www.pcgamer.com/software/ai/slopfix-a-software-team-is-charging-up-to-usd10-000-to-clean-up-ai-generated-code-with-the-help-of-checks-notes-ai/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:22:46+00:00"
+    },
+    {
+      "guid": "bGoiG5H9WRtadaQdCjvK3F",
+      "title": "Valve's magical play-Windows-games-on-Linux tech is rebased, updated, and ready to play Resident Evil",
+      "url": "https://www.pcgamer.com/software/linux/valves-magical-play-windows-games-on-linux-tech-is-rebased-updated-and-ready-to-play-resident-evil/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:07:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236959202",
+      "title": "Watch The Emmy Nominations Livestream",
+      "url": "https://deadline.com/2026/07/liza-colon-zayas-jeff-hiller-emmy-nominations-1236959202/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:23:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976944",
+      "title": "AGC Sets New Sales Leadership With Nat McCormick & Diane Ferrandez",
+      "url": "https://deadline.com/2026/07/agc-sales-hires-nat-mccormick-diane-ferrandez-1236976944/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:12:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975614",
+      "title": "Controversial New York Strip Club Scores & FBI Informant Co-Founder Get Movie Close-Up",
+      "url": "https://deadline.com/2026/07/new-york-strip-club-scores-michael-d-blutrich-movie-1236975614/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:10:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976405",
+      "title": "Netflix Bolsters History Slate With Josh Brolin-Narrated WWII Series & New \u2018Turning Point\u2019 Doc",
+      "url": "https://deadline.com/2026/07/netflix-history-slate-josh-brolin-wwii-series-turning-point-1236976405/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236791417",
+      "title": "Bone Thugs-n-Harmony Honored With Walk of Fame Star: \u2018Anybody Harmonizing, Rapping Fast, People Know Where That Came From\u2019",
+      "url": "https://variety.com/2026/music/focus/bone-thugs-n-harmony-hollywood-walk-of-fame-1236791417/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803797",
+      "title": "Box Office: \u2018Moana\u2019 Could Be Headed for Choppy Waters",
+      "url": "https://variety.com/2026/film/box-office/moana-remake-box-office-opening-weekend-tracking-1236803797/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:09:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236802858",
+      "title": "\u2018Moana\u2019 Review: The First Disney Live-Action Remake That Works 100%",
+      "url": "https://variety.com/2026/film/reviews/moana-live-action-review-dwayne-johnson-1236802858/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:00:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236802297",
+      "title": "Pure Flix Founder Michael Scott Teams With \u2018Duck Dynasty\u2019 Stars Willie and Korie Robertson on Faith-Based Company EKKL Entertainment (EXCLUSIVE)",
+      "url": "https://variety.com/2026/biz/news/duck-dynasty-stars-willie-and-korie-robertson-ekkl-entertainment-1236802297/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641404",
+      "title": "BBC \u201cDiscussing\u201d Partnership With Channel 4 in Streaming Race for Scale",
+      "url": "https://www.hollywoodreporter.com/business/business-news/bbc-channel-4-streaming-partnership-matt-brittin-sky-itv-1236641404/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:25:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641054",
+      "title": "Emmy Awards: Nominations List (Updating)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/emmys-nominations-2026-nominees-list-1236641054/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:23:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641453",
+      "title": "Netflix Sets \u2018Heartstopper: Ending on a Hi\u2019 Special",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-heartstopper-ending-on-a-hi-special-1236641453/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:20:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641458",
+      "title": "Jason Brenek Tapped as New CEO of Fathom Entertainment",
+      "url": "https://www.hollywoodreporter.com/business/business-news/fathom-entertainment-new-ceo-jason-brenek-1236641458/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:07:03+00:00"
+    },
+    {
+      "guid": "VrFq6mvbUi8vqpHCmFULrA",
+      "title": "Rather than rip and tear id Software apart, Xbox should have put the FPS pioneers on Gears of War",
+      "url": "https://www.gamesradar.com/games/fps/rather-than-rip-and-tear-id-software-apart-xbox-should-have-put-the-fps-pioneers-on-gears-of-war/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T15:27:56+00:00"
+    },
+    {
+      "guid": "9Y8SS4VR7CEy9xD4sMCsWG",
+      "title": "A current Valve designer recreated Half-Life 2's Ravenholm in the Source 2 engine, and says he was \"blown away at how powerful these tools are\"",
+      "url": "https://www.gamesradar.com/games/fps/a-current-valve-designer-recreated-half-life-2s-ravenholm-in-the-source-2-engine-and-says-he-was-blown-away-at-how-powerful-these-tools-are/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T15:16:59+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203165",
+      "title": "Back Page: After 40 Years, It's High Time Link Got Some Pyjamas",
+      "url": "https://www.nintendolife.com/features/back-page-after-40-years-its-high-time-link-got-some-pyjamas",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203549",
+      "title": "Lenovo Kills Controversial Emulation Handheld That Came Pre-Loaded With Nintendo And Sega ROMs",
+      "url": "https://www.timeextension.com/news/2026/07/lenovo-kills-controversial-emulation-handheld-that-came-pre-loaded-with-nintendo-and-sega-roms",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1063025",
+      "title": "Buckshot Roulette now available for Xbox Series, Xbox One",
+      "url": "https://www.gematsu.com/2026/07/buckshot-roulette-now-available-for-xbox-series-xbox-one",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T15:03:59+00:00"
     }
   ]
 }
