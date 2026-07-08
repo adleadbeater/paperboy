@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Code Vein 2 Gets Its First DLC Expansion, 'Mask of Idris'",
-      "tag": "code vein 2",
-      "posted_at": "2026-07-01T16:26:22.235168+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/07/code-vein-ii-expansion-mask-of-idris-announced",
-        "https://www.siliconera.com/code-vein-2-dlc-expansion-features-liv-voda-and-lou-magmell/"
-      ],
-      "article_titles": [
-        "Code Vein II expansion \u2018Mask of Idris\u2019 announced",
-        "Code Vein 2 DLC Expansion Features Liv Voda and Lou MagMell"
-      ]
-    },
-    {
-      "headline": "Dragon Age Setting Creator Calls AI Push a 'Virulent Plague' on Game Development",
-      "tag": "dragon age",
-      "posted_at": "2026-07-01T16:26:22.309739+00:00",
-      "urls": [
-        "https://www.pcgamer.com/software/ai/dragon-age-setting-creator-says-ai-push-is-a-delusion-of-the-executive-class-thats-a-virulent-plague-on-games/"
-      ],
-      "article_titles": [
-        "Dragon Age setting creator says AI push is a delusion of the executive class that's a 'virulent plague' on games"
-      ]
-    },
-    {
       "headline": "Metroid Ravenous Seemingly Leaked via Brazilian Rating Database",
       "tag": "metroid",
       "posted_at": "2026-07-01T17:31:11.054473+00:00",
@@ -928,75 +904,57 @@
         "You're invited to Destiny's cursed unofficial final raid: Pete Carsons' Vault of Cars",
         "Fed Up Destiny 2 Fans Make A Game To Throw Tomatoes At Ex-Bungie CEO Pete Parsons"
       ]
+    },
+    {
+      "headline": "Assassin's Creed Black Flag Resynced Is Already Outperforming Shadows on Steam",
+      "tag": "assassin's creed black flag resynced",
+      "posted_at": "2026-07-08T16:31:39.425352+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/assassin-s-creed/black-flag-resynced-naval-convoys/",
+        "https://www.eurogamer.net/assassins-creed-black-flag-resynced-early-sales-shadows"
+      ],
+      "article_titles": [
+        "How to destroy Naval Convoys in Black Flag Resynced",
+        "Assassin's Creed Black Flag Resynced hasn't set sail yet, but it's already doing better than Shadows on Steam"
+      ]
+    },
+    {
+      "headline": "Persona 4 Revival Looks Like It's Scrubbing the Game's Notorious Homophobia",
+      "tag": "persona 4 revival",
+      "posted_at": "2026-07-08T16:31:39.585450+00:00",
+      "urls": [
+        "https://kotaku.com/persona-4-revival-yosuke-romance-homophobia-changes-2000713780"
+      ],
+      "article_titles": [
+        "It Sure Sounds Like Persona 4 Revival Is Getting Rid Of The Homophobia"
+      ]
+    },
+    {
+      "headline": "Xbox Layoffs Hit id Software Hard \u2014 136 Jobs Cut at the Studio Behind Doom",
+      "tag": "id software",
+      "posted_at": "2026-07-08T16:31:39.804178+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/07/136-jobs-lost-at-legendary-dev-id-software-after-xbox-layoffs"
+      ],
+      "article_titles": [
+        "136 Jobs Lost at Legendary Dev id Software After Xbox Layoffs"
+      ]
+    },
+    {
+      "headline": "Final Fantasy VII Ever Crisis Is Shutting Down This October",
+      "tag": "final fantasy vii ever crisis",
+      "posted_at": "2026-07-08T16:31:39.985422+00:00",
+      "urls": [
+        "https://otakukart.com/square-enix-confirms-final-fantasy-vii-ever-crisis-will-shut-down-on-october-6-ending-service-after-three-years/"
+      ],
+      "article_titles": [
+        "Square Enix Confirms Final Fantasy VII Ever Crisis Will Shut Down on October 6, Ending Service After Three Years"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/microsoft-making-more-xbox-games-exclusive-to-give-reason-to-buy-the-console",
-      "title": "Microsoft is reportedly considering making more of its first-party games exclusive to Xbox",
-      "url": "https://www.eurogamer.net/microsoft-making-more-xbox-games-exclusive-to-give-reason-to-buy-the-console",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T12:08:31+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000713693",
-      "title": "Mario Kart Tour Will Be Gone Forever September 29",
-      "url": "https://kotaku.com/mario-kart-tour-service-ending-september-nintendo-mobile-2000713693",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T12:07:04+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975168",
-      "title": "Stephen Colbert, Jimmy Kimmel, John Oliver, Jon Stewart & \u2018SNL\u2019 To Battle It Out For Bumper Late-Night Emmy, Or Emmys",
-      "url": "https://deadline.com/2026/07/colbert-kimmel-john-oliver-jon-stewart-snl-late-night-emmys-1236975168/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T12:26:38+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236976786",
-      "title": "David Chase On Why It Took Him Almost Two Decades To Return To TV With CIA Series \u2018Project: MKUltra\u2019 & The \u201cMistake\u201d He Made With \u2018The Many Saints Of Newark\u2019",
-      "url": "https://deadline.com/2026/07/david-chase-project-mkultra-sopranos-karlovy-vary-1236976786/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T12:25:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236804242",
-      "title": "Tony Rayns, British Critic and Champion of East Asian Cinema, Dies at 78",
-      "url": "https://variety.com/2026/film/obituaries-people-news/tony-rayns-dead-east-asian-cinema-champion-1236804242/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T12:05:07+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742928",
-      "title": "Pok\u00e9mon Champions Surpasses 10 Million Downloads Worldwide Across Switch and Mobile",
-      "url": "https://otakukart.com/pokemon-champions-surpasses-10-million-downloads-worldwide-across-switch-and-mobile/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T12:26:22+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1742927",
-      "title": "Moonlight Peaks Launches on Nintendo Switch and Switch 2 With Vampire Farming, Spellcasting, and Supernatural Romance",
-      "url": "https://otakukart.com/moonlight-peaks-launches-on-nintendo-switch-and-switch-2-with-vampire-farming-spellcasting-and-supernatural-romance/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T12:11:21+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dragonbane-shadowdark-mausritter-and-more.719741/",
-      "title": "RPG Print News \u2013 Dragonbane, Shadowdark, Mausritter, and More",
-      "url": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dragonbane-shadowdark-mausritter-and-more.719741/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T12:25:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-early-sales-shadows",
       "title": "Assassin's Creed Black Flag Resynced hasn't set sail yet, but it's already doing better than Shadows on Steam",
@@ -2044,6 +2002,318 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-08T15:39:38+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/minecraft-preview-update-cushion",
+      "title": "17 years later, Minecraft is finally adding somewhere to sit",
+      "url": "https://www.eurogamer.net/minecraft-preview-update-cushion",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:15:25+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713780",
+      "title": "It Sure Sounds Like Persona 4 Revival Is Getting Rid Of The Homophobia",
+      "url": "https://kotaku.com/persona-4-revival-yosuke-romance-homophobia-changes-2000713780",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:16:47+00:00"
+    },
+    {
+      "guid": "BUKznhjjRVRXatb4RRuENW",
+      "title": "This Chrome extension hides 'knockoff' brands on Amazon: 'Sorry to brands like WNPETHOME, EHEYCIGA, YXY'",
+      "url": "https://www.pcgamer.com/hardware/this-chrome-extension-hides-knockoff-brands-on-amazon-sorry-to-brands-like-wnpethome-eheyciga-yxy/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:20:02+00:00"
+    },
+    {
+      "guid": "74wWM4f8JebSDZj7RERSUU",
+      "title": "Asus ProArt Mouse MD301",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/asus-proart-mouse-md301/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:12:04+00:00"
+    },
+    {
+      "guid": "hNjNHPVyMqV8XEAgGMCVsi",
+      "title": "Arkheron, a competitive PvPvE action RPG, will open its closed beta next week\u2014and I'm getting that Battlerite nostalgia just looking at this thing",
+      "url": "https://www.pcgamer.com/games/action/arkheron-a-competitive-pvpve-action-rpg-will-open-its-closed-beta-next-week-and-im-getting-that-battlerite-nostalgia-just-looking-at-this-thing/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:00:00+00:00"
+    },
+    {
+      "guid": "9iY7sHJDQTpExj3thpXA6T",
+      "title": "Players prove Destiny 2 can still produce wonders with discovery of poopy pants transmog",
+      "url": "https://www.pcgamer.com/games/fps/players-prove-destiny-2-can-still-produce-wonders-with-discovery-of-poopy-pants-transmog/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T15:58:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976110",
+      "title": "Emmys Snub Taylor Sheridan Shows, \u2018Half Man,\u2019 \u2018Hot Ones\u2019 In Nominations; Riz Ahmed & YouTube\u2019s \u2018Subway Takes\u2019 Score Surprise TV Academy Nods",
+      "url": "https://deadline.com/2026/07/2026-emmy-nominations-snubs-surprises-1236976110/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:27:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977052",
+      "title": "Ariana Madix Earns First Emmy Nomination As \u2018Love Island USA\u2019 Host",
+      "url": "https://deadline.com/2026/07/ariana-madix-emmy-nomination-love-island-usa-host-1236977052/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:23:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977011",
+      "title": "Afreximbank Officially Launches $1 Billion Pan-African Film Fund; Lavaille Lavette Set As CEO Of Fund",
+      "url": "https://deadline.com/2026/07/afreximbank-1-billion-film-fund-lavaille-lavette-1236977011/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:15:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975615",
+      "title": "Elle Fanning Pulls Off Rare Oscar-Emmy Nomination Double With \u2018Margo\u2019s Got Money Troubles\u2019 Mention",
+      "url": "https://deadline.com/2026/07/elle-fanning-emmy-oscar-nomination-margos-got-money-troubles-1236975615/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:11:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977044",
+      "title": "Ron Perlman & Daniel Stisen Join Cuba Gooding Jr. In \u2018Angels In Darkness\u2019",
+      "url": "https://deadline.com/2026/07/ron-perlman-cuba-gooding-jr-angels-in-darkness-1236977044/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:07:36+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976911",
+      "title": "Fathom Entertainment Names Disney And Imax Alum Jason Brenek CEO",
+      "url": "https://deadline.com/2026/07/fathom-entertainment-names-disney-imax-jason-brenek-ceo-1236976911/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:06:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975392",
+      "title": "Emmys: \u2018Hacks\u2019 Breaks Comedy Series Record In Final Season; Fellow Departing Shows \u2018Euphoria\u2019, \u2018Stranger Things\u2019 & \u2018The Boys\u2019 Also Get Nominations",
+      "url": "https://deadline.com/2026/07/hacks-emmy-nominations-record-comedy-series-final-season-1236975392/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:03:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976898",
+      "title": "Emmy Centenarian Club: David Attenborough Breaks Record For Oldest Nominee, Mel Brooks Doc Earns Recognition",
+      "url": "https://deadline.com/2026/07/david-attenborough-emmy-record-nomination-2026-1236976898/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:01:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803903",
+      "title": "Brent Montgomery\u2019s Wheelhouse, Social Platform Zigazoo Launch Studio to Develop Content From Young Creators (EXCLUSIVE)",
+      "url": "https://variety.com/2026/digital/news/zigazoo-studio-young-creators-wheelhouse-1236803903/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803839",
+      "title": "Emmy Snubs and Surprises: \u2018Stranger Things\u2019 Shut Out of Major Races, Sydney Sweeney Misses and \u2018Widow\u2019s Bay\u2019 Shocks With 19 Nods",
+      "url": "https://variety.com/2026/awards/news/emmy-snubs-surprises-sydney-sweeney-stranger-things-1236803839/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:24:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804507",
+      "title": "Connor Storrie Scores First Emmy Nomination Despite \u2018Heated Rivalry\u2019 Not Being Eligible",
+      "url": "https://variety.com/2026/tv/news/connor-storrie-emmy-nomination-not-heated-rivalry-1236804507/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:15:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236802737",
+      "title": "\u2018Evil Dead Burn\u2019 Review: The Gonzo Comedy Is Gone, but the Series\u2019 Sixth Entry Is an Effective Piece of Gross-Out Guignol",
+      "url": "https://variety.com/2026/film/reviews/evil-dead-burn-review-1236802737/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:00:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803768",
+      "title": "\u2018Terrifier\u2019 Star David Howard Thornton Joins \u2018Behind the Mask II: The Return of Leslie Vernon\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/terrifier-david-howard-thornton-behind-the-mask-sequel-leslie-vernon-1236803768/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803835",
+      "title": "Michael Strahan and Constance Schwartz-Morini\u2019s SMAC Productions to Launch Podcast Network, Featuring a Show They\u2019re Co-Hosting",
+      "url": "https://variety.com/2026/digital/news/michael-strahan-constance-schwartz-morini-smac-podcast-network-1236803835/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804288",
+      "title": "Sundance Film Festival, International Federation of Film Critics Establish Jury to Assess Movies From First-Time Foreign Directors (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/sundance-international-federation-film-critics-jury-1236804288/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236638449",
+      "title": "How \u2018Off Campus\u2019 Helped The Beaches\u2019 Queer Anthem \u201cEdge of the Earth\u201d Get Its Second Wind",
+      "url": "https://www.hollywoodreporter.com/music/music-features/the-beaches-off-campus-no-hard-feelings-deluxe-interview-1236638449/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641588",
+      "title": "Rob Reiner Earns Posthumous Emmy Nomination For \u2018The Bear\u2019 Guest Role",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/posthumous-2026-emmy-nomination-rob-reiner-1236641588/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:18:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641320",
+      "title": "\u2018Fruit Gathering\u2019 Explores Dreams of Intimacy and Escape of Young Female Textile Factory Workers in Myanmar (Exclusive Trailer)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/fruit-gathering-film-trailer-first-myanmar-karlovy-vary-1236641320/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:18:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641556",
+      "title": "Emmys: \u2018Widow\u2019s Bay\u2019 Leads All New Shows With 19 Nominations",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/widows-bay-2026-emmy-nominations-1236641556/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:13:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641509",
+      "title": "\u2018Dancing With the Stars\u2019 Scores First Reality Competition Emmy Nomination in a Decade",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-emmy-nomination-2026-reality-tv-1236641509/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:00:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641526",
+      "title": "Netflix\u2019s Will Ferrell Golf Comedy \u2018The Hawk\u2019 Adds to Its Creative Partnerships (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/the-hawk-will-ferrell-netflix-partnerships-1236641526/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:00:00+00:00"
+    },
+    {
+      "guid": "oRZmgDMU777HEBTmzQNA3g",
+      "title": "How to destroy Naval Convoys in Black Flag Resynced",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/black-flag-resynced-naval-convoys/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:25:29+00:00"
+    },
+    {
+      "guid": "bndnGrWWBNUaezEAtEcDCm",
+      "title": "The rarest items in Clair Obscur: Expedition 33 include an extremely French weapon that only 6% of players found, data from over 4,000 completionists show",
+      "url": "https://www.gamesradar.com/games/rpg/the-rarest-items-in-clair-obscur-expedition-33-include-an-extremely-french-weapon-that-only-6-percent-of-players-found-data-from-over-4-000-completionists-show/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:16:11+00:00"
+    },
+    {
+      "guid": "8vbesxQG6fnruYGZ2UpJUW",
+      "title": "Newegg's Nintendo eShop gift card deal is back, and it could help you prepare for the rest of 2026's stellar game lineup",
+      "url": "https://www.gamesradar.com/games/neweggs-nintendo-eshop-gift-card-deal-is-back-and-it-could-help-you-prepare-for-the-rest-of-2026s-stellar-game-lineup/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:14:09+00:00"
+    },
+    {
+      "guid": "fzwj5yPkowKTFEDTMWgo3P",
+      "title": "Dragon Ball Super: Beerus release date speculation, story, and everything else we know so far",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/dragon-ball-super-beerus-release-date-story-trailer-news/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:05:00+00:00"
+    },
+    {
+      "guid": "1814107",
+      "title": "Bernie Sanders Rips Microsoft For Xbox Layoffs And Price Hikes",
+      "url": "https://www.gamespot.com/articles/bernie-sanders-rips-microsoft-for-xbox-layoffs-and-price-hikes/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:21:38+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203556",
+      "title": "Capcom Producer Remains Coy On A Potential 'Super Street Fighter 6' Update",
+      "url": "https://www.nintendolife.com/news/2026/07/capcom-producer-remains-coy-on-a-potential-super-street-fighter-6-update",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203492",
+      "title": "136 Jobs Lost at Legendary Dev id Software After Xbox Layoffs",
+      "url": "https://www.pushsquare.com/news/2026/07/136-jobs-lost-at-legendary-dev-id-software-after-xbox-layoffs",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:15:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119040",
+      "title": "Review: Echoes of Aincrad Has Pacing Issues",
+      "url": "https://www.siliconera.com/review-echoes-of-aincrad-has-pacing-issues/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:01:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742992",
+      "title": "GTA Trilogy Developer Says Fans Were Right About the Backlash but Believes the Launch Strategy Made the Situation Worse",
+      "url": "https://otakukart.com/gta-trilogy-developer-says-fans-were-right-about-the-backlash-but-believes-the-launch-strategy-made-the-situation-worse/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:25:51+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742975",
+      "title": "Two Brothers Plead Guilty After Stealing Over \u00a371,000 Worth of Rare Pok\u00e9mon TCG Cards From Multiple Small UK Stores",
+      "url": "https://otakukart.com/two-brothers-plead-guilty-after-stealing-over-71000-worth-of-rare-pokemon-tcg-cards-from-multiple-small-uk-stores/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:25:31+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742991",
+      "title": "Square Enix Confirms Final Fantasy VII Ever Crisis Will Shut Down on October 6, Ending Service After Three Years",
+      "url": "https://otakukart.com/square-enix-confirms-final-fantasy-vii-ever-crisis-will-shut-down-on-october-6-ending-service-after-three-years/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:13:49+00:00"
+    },
+    {
+      "guid": "t3_1uqxjxr",
+      "title": "The Crew Motorfest releases Oct 8th on Switch 2",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uqxjxr/the_crew_motorfest_releases_oct_8th_on_switch_2/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:22:58+00:00"
     }
   ]
 }
