@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Sadie Sink Reveals She Never Auditioned or Read the Script Before Joining Spider-Man: Brand New Day",
-      "tag": "spider-man: brand new day",
-      "posted_at": "2026-07-01T19:30:57.939523+00:00",
-      "urls": [
-        "https://deadline.com/2026/07/sadie-sink-working-tom-holland-spider-man-brand-new-day-1236972577/",
-        "https://variety.com/2026/film/news/sadie-sink-spider-man-brand-new-day-role-audition-1236800062/"
-      ],
-      "article_titles": [
-        "Sadie Sink On Working With Tom Holland In \u2018Spider-Man: Brand New Day\u2019: \u201cHe Was Just So Relaxed And Open\u201d",
-        "Sadie Sink\u2019s \u2018Spider-Man: Brand New Day\u2019 Role Is So Secretive That She Didn\u2019t Have an Audition and Never Saw the Script Until Flying to London"
-      ]
-    },
-    {
-      "headline": "Frostpunk 2 Developer Announces a Survival Game Set in the Same World",
-      "tag": "frostpunk",
-      "posted_at": "2026-07-01T19:30:58.041026+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/survival-crafting/theres-something-weve-been-dying-to-tell-you-the-best-city-builder-of-2023-is-getting-a-survival-game-set-in-the-same-world/"
-      ],
-      "article_titles": [
-        "'There\u2019s something we\u2019ve been dying to tell you': The best city builder of 2023 is getting a survival game set in the same world"
-      ]
-    },
-    {
       "headline": "A Major Distributor Says It's \"Profoundly Disappointed\" by Sony's Decision to End Disc Support",
       "tag": "playstation",
       "posted_at": "2026-07-01T20:20:57.463249+00:00",
@@ -1053,155 +1029,22 @@
         "Noah Wyle, Lisa Kudrow, Jamie Lee Curtis and More: Variety\u2019s \u2018Actors on Actors,\u2019 Cover Stars and Podcast Guests Score Emmy Nominations",
         "\u2018Sean Combs: The Reckoning\u2019 Scores Three Emmy Nominations, Including for Best Documentary or Nonfiction Series"
       ]
+    },
+    {
+      "headline": "Sony's Disc-Free Future Is Already Affecting Third-Party Games \u2014 And Developers Are Noticing",
+      "tag": "playstation",
+      "posted_at": "2026-07-08T19:31:08.152538+00:00",
+      "urls": [
+        "https://kotaku.com/even-games-playstation-doesnt-make-are-getting-caught-in-the-crossfire-over-sony-killing-discs-retweeting-doom-will-not-save-you-sony-2000713751"
+      ],
+      "article_titles": [
+        "Even Games PlayStation Doesn\u2019t Make Are Getting Caught In The Crossfire Over Sony Killing Discs: \u2018Retweeting Doom Will NOT Save You Sony\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/doom-the-dark-ages-revelations-spear-reactions",
-      "title": "Doom's new Chain Spear weapon seems to be dividing The Dark Ages' audience - \"I'm like an hour in and I can't wait to get the shield back\"",
-      "url": "https://www.eurogamer.net/doom-the-dark-ages-revelations-spear-reactions",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:19:40+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-protests-fan-event",
-      "title": "Workers at MindsEye studio protesting controversial fan event this weekend after multiple rounds of layoffs",
-      "url": "https://www.eurogamer.net/mindseye-build-a-rocket-boy-protests-fan-event",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:00:38+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000713708",
-      "title": "Uwe Boll\u2019s Atrocious Anti-Immigration Movie Is Getting A Video Game Tie-In",
-      "url": "https://kotaku.com/uwe-boll-citizen-vigilante-armie-hammer-video-game-tie-in-2000713708",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:21:00+00:00"
-    },
-    {
-      "guid": "SJJu9LQWx5EwgJwYVgid7R",
-      "title": "'Slopfix': A software team is charging up to $10,000 to clean up AI-generated code, with the help of *checks notes* AI",
-      "url": "https://www.pcgamer.com/software/ai/slopfix-a-software-team-is-charging-up-to-usd10-000-to-clean-up-ai-generated-code-with-the-help-of-checks-notes-ai/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:22:46+00:00"
-    },
-    {
-      "guid": "bGoiG5H9WRtadaQdCjvK3F",
-      "title": "Valve's magical play-Windows-games-on-Linux tech is rebased, updated, and ready to play Resident Evil",
-      "url": "https://www.pcgamer.com/software/linux/valves-magical-play-windows-games-on-linux-tech-is-rebased-updated-and-ready-to-play-resident-evil/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:07:08+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236959202",
-      "title": "Watch The Emmy Nominations Livestream",
-      "url": "https://deadline.com/2026/07/liza-colon-zayas-jeff-hiller-emmy-nominations-1236959202/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:23:44+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236976944",
-      "title": "AGC Sets New Sales Leadership With Nat McCormick & Diane Ferrandez",
-      "url": "https://deadline.com/2026/07/agc-sales-hires-nat-mccormick-diane-ferrandez-1236976944/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:12:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975614",
-      "title": "Controversial New York Strip Club Scores & FBI Informant Co-Founder Get Movie Close-Up",
-      "url": "https://deadline.com/2026/07/new-york-strip-club-scores-michael-d-blutrich-movie-1236975614/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:10:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236791417",
-      "title": "Bone Thugs-n-Harmony Honored With Walk of Fame Star: \u2018Anybody Harmonizing, Rapping Fast, People Know Where That Came From\u2019",
-      "url": "https://variety.com/2026/music/focus/bone-thugs-n-harmony-hollywood-walk-of-fame-1236791417/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803797",
-      "title": "Box Office: \u2018Moana\u2019 Could Be Headed for Choppy Waters",
-      "url": "https://variety.com/2026/film/box-office/moana-remake-box-office-opening-weekend-tracking-1236803797/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:09:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236802858",
-      "title": "\u2018Moana\u2019 Review: The First Disney Live-Action Remake That Works 100%",
-      "url": "https://variety.com/2026/film/reviews/moana-live-action-review-dwayne-johnson-1236802858/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:00:34+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236641404",
-      "title": "BBC \u201cDiscussing\u201d Partnership With Channel 4 in Streaming Race for Scale",
-      "url": "https://www.hollywoodreporter.com/business/business-news/bbc-channel-4-streaming-partnership-matt-brittin-sky-itv-1236641404/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:25:37+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236641054",
-      "title": "Emmy Awards: Nominations List (Updating)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/emmys-nominations-2026-nominees-list-1236641054/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:23:43+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236641453",
-      "title": "Netflix Sets \u2018Heartstopper: Ending on a Hi\u2019 Special",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-heartstopper-ending-on-a-hi-special-1236641453/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:20:37+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236641458",
-      "title": "Jason Brenek Tapped as New CEO of Fathom Entertainment",
-      "url": "https://www.hollywoodreporter.com/business/business-news/fathom-entertainment-new-ceo-jason-brenek-1236641458/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T15:07:03+00:00"
-    },
-    {
-      "guid": "VrFq6mvbUi8vqpHCmFULrA",
-      "title": "Rather than rip and tear id Software apart, Xbox should have put the FPS pioneers on Gears of War",
-      "url": "https://www.gamesradar.com/games/fps/rather-than-rip-and-tear-id-software-apart-xbox-should-have-put-the-fps-pioneers-on-gears-of-war/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T15:27:56+00:00"
-    },
-    {
-      "guid": "9Y8SS4VR7CEy9xD4sMCsWG",
-      "title": "A current Valve designer recreated Half-Life 2's Ravenholm in the Source 2 engine, and says he was \"blown away at how powerful these tools are\"",
-      "url": "https://www.gamesradar.com/games/fps/a-current-valve-designer-recreated-half-life-2s-ravenholm-in-the-source-2-engine-and-says-he-was-blown-away-at-how-powerful-these-tools-are/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T15:16:59+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1063025",
-      "title": "Buckshot Roulette now available for Xbox Series, Xbox One",
-      "url": "https://www.gematsu.com/2026/07/buckshot-roulette-now-available-for-xbox-series-xbox-one",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T15:03:59+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1236976414",
       "title": "Lisa Kudrow\u2019s Emmy \u2018Comeback\u2019: Third Nomination 20 Years After Her First For HBO Comedy",
@@ -1217,22 +1060,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-08T15:37:10+00:00"
-    },
-    {
-      "guid": "MMfkbYpmZd6UWudQDxLQzH",
-      "title": "Chilling Michael Myers action figure revealed for Halloween: The Game Limited Collectors Edition, and it's made by horror legends",
-      "url": "https://www.gamesradar.com/toys-collectibles/chilling-michael-myers-action-figure-revealed-for-halloween-the-game-limited-collectors-edition-and-its-made-by-horror-legends/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T15:28:19+00:00"
-    },
-    {
-      "guid": "1814041",
-      "title": "Palworld Reaches A Huge Player Milestone Ahead Of 1.0 Launch",
-      "url": "https://www.gamespot.com/articles/palworld-reaches-a-huge-player-milestone-ahead-of-1-0-launch/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T15:14:06+00:00"
     },
     {
       "guid": "a60ccd20-b570-496d-9853-9745e2a411d7",
@@ -1433,22 +1260,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-08T15:44:49+00:00"
-    },
-    {
-      "guid": "1813995",
-      "title": "Paralives Isn\u2019t Interested In Taking Down The Sims",
-      "url": "https://www.gamespot.com/articles/paralives-isnt-interested-in-taking-down-the-sims/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T15:30:00+00:00"
-    },
-    {
-      "guid": "1813963",
-      "title": "Paralives\u2019 Success Shows Being Generous To Players Isn\u2019t Unreasonable",
-      "url": "https://www.gamespot.com/articles/paralives-success-shows-being-generous-to-players-isnt-unreasonable/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T15:30:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1063147",
@@ -2585,6 +2396,206 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-08T19:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713751",
+      "title": "Even Games PlayStation Doesn\u2019t Make Are Getting Caught In The Crossfire Over Sony Killing Discs: \u2018Retweeting Doom Will NOT Save You Sony\u2019",
+      "url": "https://kotaku.com/even-games-playstation-doesnt-make-are-getting-caught-in-the-crossfire-over-sony-killing-discs-retweeting-doom-will-not-save-you-sony-2000713751",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:00:36+00:00"
+    },
+    {
+      "guid": "2iVMLso7F92PH9ahLfG4nC",
+      "title": "Obsidian is reportedly making a new Fallout game headed by Josh Sawyer after Microsoft pulled the plug on an Avowed sequel",
+      "url": "https://www.pcgamer.com/games/fallout/obsidian-is-reportedly-making-a-new-fallout-game-headed-by-josh-sawyer-after-microsoft-pulled-the-plug-on-an-avowed-sequel/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:15:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977274",
+      "title": "\u2018The Pitt\u2019 Stars Noah Wyle, Katherine LaNasa & Shawn Hatosy Lead Emmy Acting Nods As Medical Drama Racks Up 25 Nominations",
+      "url": "https://deadline.com/2026/07/the-pitt-emmy-acting-nominations-season-2-cast-reactions-1236977274/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:29:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977366",
+      "title": "Lady Gaga Scores Emmy Nomination For \u2018The Dead Dance\u2019 From Netflix\u2019s \u2018Wednesday\u2019",
+      "url": "https://deadline.com/2026/07/lady-gaga-emmy-nomination-dead-dance-1236977366/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:21:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977453",
+      "title": "Kara Smith Named Head Of Drama; Jen Chambers, Michael McDonald & Odetta Watkins Leaving In Amazon MGM Studios Executive Restructuring",
+      "url": "https://deadline.com/2026/07/kara-smith-head-drama-jen-michael-mcdonald-leaving-amazon-1236977453/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:15:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977392",
+      "title": "Celebrity Docs Dominate Emmy Nonfiction Nominations: Marty Short, Mel Brooks, John Candy, Scorsese, Jayne Mansfield/Mariska Hargitay & More",
+      "url": "https://deadline.com/2026/07/celebrity-documentaries-2026-emmy-nominations-1236977392/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:15:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976070",
+      "title": "Emmy-Nominated \u2018Pluribus\u2019 Stars Rhea Seehorn & Karolina Wydra Talk Season 2, Sisterly Bonding & Details Of Seehorn\u2019s New Film \u2018Running\u2019",
+      "url": "https://deadline.com/2026/07/pluribus-season-2-rhea-seehorn-karolina-wydra-running-1236976070/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:02:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976920",
+      "title": "Justin Bieber To Join Madonna, Shakira & BTS In World Cup Final Halftime Show",
+      "url": "https://deadline.com/2026/07/justin-bieber-world-cup-halftime-show-1236976920/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236802978",
+      "title": "\u2018The Pitt\u2019 Stars Brittany Allen and Jeff Kober Scored Emmy Noms After Self-Submitting: \u2018A Week Ago I Couldn\u2019t Get a Good Agent\u2019",
+      "url": "https://variety.com/2026/tv/awards/the-pitt-emmys-brittany-allen-jeff-kober-self-submit-nominations-1236802978/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:29:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804858",
+      "title": "Justin Bieber Joins Madonna, BTS and Shakira for FIFA World Cup Final Halftime Show",
+      "url": "https://variety.com/2026/music/news/justin-bieber-joins-fifa-world-cup-final-haltime-show-1236804858/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:16:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804852",
+      "title": "Amazon MGM Studios Ups Kara Smith to Head of Drama TV as Jen Chambers, Michael McDonald and Odetta Watkins Exit",
+      "url": "https://variety.com/2026/tv/news/amazon-kara-smith-head-drama-tv-1236804852/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:14:56+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804771",
+      "title": "\u2018Cheetah Girls 4\u2019: Raven-Symon\u00e9 Confirms Her Return in \u2018Next Gen\u2019 Reboot",
+      "url": "https://variety.com/2026/tv/news/cheetah-girls-4-raven-symone-next-gen-reboot-1236804771/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:13:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804665",
+      "title": "Why \u2018Your Friends & Neighbors\u2019 Deserves Its Drama Emmy Nom",
+      "url": "https://variety.com/2026/awards/columns/your-friends-and-neighbors-deserves-its-drama-emmy-nomination-1236804665/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:04:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236641013",
+      "title": "Emmys: \u2018Love Story\u2019 Lands Seven Nominations, Including Best Limited or Anthology Series",
+      "url": "https://www.hollywoodreporter.com/lists/2026-emmys-love-story-jfk-jr-carolyn-bessette-nominations/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:24:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236639762",
+      "title": "The Get-Big-or-Die Era of European TV Has Arrived",
+      "url": "https://www.hollywoodreporter.com/business/business-news/get-big-or-die-era-european-tv-sky-itv-deal-1236639762/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:10:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641908",
+      "title": "\u2018All\u2019s Fair\u2019 Now Has as Many Emmy Noms as \u2018The Wire\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/alls-fair-tied-with-the-wire-emmy-nominations-1236641908/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T19:01:28+00:00"
+    },
+    {
+      "guid": "iaL6i5bnTP6zFQaVJC7PtN",
+      "title": "Fallout and Elder Scrolls union says Bethesda layoffs didn't hurt Microsoft's \"14 layers of management\" \u2013 \"We lost dozens of programmers, artists, designers and testers\"",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/fallout-and-elder-scrolls-union-says-bethesda-layoffs-didnt-hurt-microsofts-14-layers-of-management-we-lost-dozens-of-programmers-artists-designers-and-testers/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:23:29+00:00"
+    },
+    {
+      "guid": "1814209",
+      "title": "Xbox Kills Obsidian\u2019s Avowed Sequel In The Wake Of Layoffs \u2013 Report",
+      "url": "https://www.gamespot.com/articles/xbox-kills-obsidians-avowed-sequel-in-the-wake-of-layoffs-report/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T18:58:11+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203550",
+      "title": "Try Out Anime Tactical RPG Brigandine Abyss with a Free Demo on PS5 This Month",
+      "url": "https://www.pushsquare.com/news/2026/07/try-out-anime-tactical-rpg-brigandine-abyss-with-a-free-demo-on-ps5-this-month",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742950",
+      "title": "Seven Sleeping Beauties TV Anime Announced for 2027, Full Princess Cast Revealed",
+      "url": "https://otakukart.com/seven-sleeping-beauties-tv-anime-announced-for-2027-full-princess-cast-revealed/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:28:23+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742943",
+      "title": "Red River Anime Reunites Original Voice Actors as Yuri\u2019s Parents After 30 Years",
+      "url": "https://otakukart.com/red-river-anime-reunites-original-voice-actors-as-yuris-parents-after-30-years/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:24:34+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742980",
+      "title": "BanG Dream! YUME\u221eMITA and The 100 Girlfriends Season 3 Reveal Second Crossover Visual",
+      "url": "https://otakukart.com/bang-dream-yume%e2%88%9emita-and-the-100-girlfriends-season-3-reveal-second-crossover-visual/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:21:56+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742968",
+      "title": "Jun Wakatsuki\u2019s Promise Me the Spotlight Manga Gets TV Anime Adaptation",
+      "url": "https://otakukart.com/jun-wakatsukis-promise-me-the-spotlight-manga-gets-tv-anime-adaptation/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:10:42+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=612503",
+      "title": "RPG: The ENNIES Emporium 2026 On BackerKit \u2013 Find Your New Favorite Game",
+      "url": "https://www.belloflostsouls.net/2026/07/rpg-the-ennies-emporium-2026-on-backerkit-find-your-new-favorite-game.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:25:40+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=612476",
+      "title": "D&D: Steinhardt\u2019s Guide Has An Electric New Barbarian Subclass \u2013 The Lightning Vessel",
+      "url": "https://www.belloflostsouls.net/2026/07/dd-steinhardts-guide-has-an-electric-new-barbarian-subclass-the-lightning-vessel.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T19:15:00+00:00"
     }
   ]
 }
