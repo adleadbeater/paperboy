@@ -899,50 +899,152 @@
       "article_titles": [
         "Before Crisis Joins FFVII Ever Crisis Before Shutdown"
       ]
+    },
+    {
+      "headline": "Microsoft reportedly weighing a return to Xbox exclusivity for its first-party games",
+      "tag": "xbox",
+      "posted_at": "2026-07-08T12:31:01.939755+00:00",
+      "urls": [
+        "https://www.eurogamer.net/microsoft-making-more-xbox-games-exclusive-to-give-reason-to-buy-the-console"
+      ],
+      "article_titles": [
+        "Microsoft is reportedly considering making more of its first-party games exclusive to Xbox"
+      ]
+    },
+    {
+      "headline": "Mario Kart Tour is shutting down permanently on September 29",
+      "tag": "mario kart tour",
+      "posted_at": "2026-07-08T12:31:02.080188+00:00",
+      "urls": [
+        "https://kotaku.com/mario-kart-tour-service-ending-september-nintendo-mobile-2000713693"
+      ],
+      "article_titles": [
+        "Mario Kart Tour Will Be Gone Forever September 29"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236976499",
-      "title": "Robert Pattinson Explains His \u2018The Odyssey\u2019 Role Is \u201cKind Of Like Jacob In \u2018Twilight'\u201d",
-      "url": "https://deadline.com/2026/07/robert-pattinson-the-odyssey-role-like-jacob-twilight-1236976499/",
+      "guid": "https://www.eurogamer.net/microsoft-making-more-xbox-games-exclusive-to-give-reason-to-buy-the-console",
+      "title": "Microsoft is reportedly considering making more of its first-party games exclusive to Xbox",
+      "url": "https://www.eurogamer.net/microsoft-making-more-xbox-games-exclusive-to-give-reason-to-buy-the-console",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T12:08:31+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713693",
+      "title": "Mario Kart Tour Will Be Gone Forever September 29",
+      "url": "https://kotaku.com/mario-kart-tour-service-ending-september-nintendo-mobile-2000713693",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T12:07:04+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713408",
+      "title": "Star Fox Rule Of Cools Its Way To Becoming A Switch 2 Must-Have",
+      "url": "https://kotaku.com/star-fox-review-nintendo-switch-2-2000713408",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T12:00:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236975168",
+      "title": "Stephen Colbert, Jimmy Kimmel, John Oliver, Jon Stewart & \u2018SNL\u2019 To Battle It Out For Bumper Late-Night Emmy, Or Emmys",
+      "url": "https://deadline.com/2026/07/colbert-kimmel-john-oliver-jon-stewart-snl-late-night-emmys-1236975168/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-07-08T03:19:02+00:00"
+      "published_dt": "2026-07-08T12:26:38+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236640992",
-      "title": "Wes Anderson Was Trapped in Academy Museum\u00a0Elevator After \u2018Bottle Rocket\u2019 Anniversary Event",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/wes-anderson-trapped-academy-museum-elevator-1236640992/",
+      "guid": "https://deadline.com/?p=1236976786",
+      "title": "David Chase On Why It Took Him Almost Two Decades To Return To TV With CIA Series \u2018Project: MKUltra\u2019 & The \u201cMistake\u201d He Made With \u2018The Many Saints Of Newark\u2019",
+      "url": "https://deadline.com/2026/07/david-chase-project-mkultra-sopranos-karlovy-vary-1236976786/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T12:25:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976781",
+      "title": "\u2018Bake Off\u2019 Back On The BBC? Bosses In Talks With \u201cSubscale\u201d Channel 4 To Host Its Content On iPlayer",
+      "url": "https://deadline.com/2026/07/bbc-channel-4-iplayer-great-british-bake-off-1236976781/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T11:55:43+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804242",
+      "title": "Tony Rayns, British Critic and Champion of East Asian Cinema, Dies at 78",
+      "url": "https://variety.com/2026/film/obituaries-people-news/tony-rayns-dead-east-asian-cinema-champion-1236804242/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T12:05:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804194",
+      "title": "Vittorio Angelone and Hannah McClean Lead Care Work Comedy Series \u2018Rewarding\u2019 From BBC, Wonder Project (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/bbc-rewarding-comedy-vittorio-angelone-1236804194/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T12:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236640091",
+      "title": "Three Questions With Kylie Jenner About Revisiting King Kylie Era for Pink-Drenched Dunkin\u2019 Collab",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/kylie-jenner-dunkin-collab-king-kylie-era-interview-1236640091/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-07-08T03:17:28+00:00"
+      "published_dt": "2026-07-08T12:00:00+00:00"
     },
     {
-      "guid": "https://www.siliconera.com/?p=1119217",
-      "title": "Before Crisis Joins FFVII Ever Crisis Before Shutdown",
-      "url": "https://www.siliconera.com/before-crisis-joins-ffvii-ever-crisis-before-shutdown/",
-      "source_name": "Siliconera",
+      "guid": "https://www.pushsquare.com/#article-203518",
+      "title": "This Cozy Horror Puzzle Game Is Creeping to PS5 Later This Year",
+      "url": "https://www.pushsquare.com/news/2026/07/this-cozy-horror-puzzle-game-is-creeping-to-ps5-later-this-year",
+      "source_name": "Push Square",
       "source_tier": 2,
-      "published_dt": "2026-07-08T03:15:00+00:00"
+      "published_dt": "2026-07-08T12:00:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1063047",
-      "title": "Never Grave: The Witch and The Curse coming to Android",
-      "url": "https://www.gematsu.com/2026/07/never-grave-the-witch-and-the-curse-coming-to-android",
-      "source_name": "Gematsu",
+      "guid": "https://automaton-media.com/en/?p=69339",
+      "title": "Former\u00a0GungHo\u00a0employee\u00a0arrested after allegedly issuing fake work orders to himself\u00a0to siphon company funds",
+      "url": "https://automaton-media.com/en/news/former-gungho-employee-arrested-after-allegedly-issuing-fake-work-orders-to-himself-to-siphon-company-funds/",
+      "source_name": "Automaton",
       "source_tier": 2,
-      "published_dt": "2026-07-08T03:43:04+00:00"
+      "published_dt": "2026-07-08T12:00:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1063043",
-      "title": "Tokyo Game Show 2026 exhibitors list announced",
-      "url": "https://www.gematsu.com/2026/07/tokyo-game-show-2026-exhibitors-list-announced",
-      "source_name": "Gematsu",
+      "guid": "https://otakukart.com/?p=1742928",
+      "title": "Pok\u00e9mon Champions Surpasses 10 Million Downloads Worldwide Across Switch and Mobile",
+      "url": "https://otakukart.com/pokemon-champions-surpasses-10-million-downloads-worldwide-across-switch-and-mobile/",
+      "source_name": "Otakukart",
       "source_tier": 2,
-      "published_dt": "2026-07-08T03:35:33+00:00"
+      "published_dt": "2026-07-08T12:26:22+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742927",
+      "title": "Moonlight Peaks Launches on Nintendo Switch and Switch 2 With Vampire Farming, Spellcasting, and Supernatural Romance",
+      "url": "https://otakukart.com/moonlight-peaks-launches-on-nintendo-switch-and-switch-2-with-vampire-farming-spellcasting-and-supernatural-romance/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T12:11:21+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742926",
+      "title": "Nintendo Switch Online Adds Wario Land, Fortified Zone, and More Classic Games in July 2026 Update",
+      "url": "https://otakukart.com/nintendo-switch-online-adds-wario-land-fortified-zone-and-more-classic-games-in-july-2026-update/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T11:59:19+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dragonbane-shadowdark-mausritter-and-more.719741/",
+      "title": "RPG Print News \u2013 Dragonbane, Shadowdark, Mausritter, and More",
+      "url": "https://www.enworld.org/threads/rpg-print-news-%E2%80%93-dragonbane-shadowdark-mausritter-and-more.719741/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T12:25:00+00:00"
     }
   ]
 }
