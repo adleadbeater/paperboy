@@ -1011,14 +1011,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "a4d6b1ec-ff3a-4963-ace3-528aafc85633",
-      "title": "Today\u2019s Top Deals: iPad Air M3, Super Mario Bros. Wonder amiibo, and Limited Edition 4K TMNT Trilogy",
-      "url": "https://www.ign.com/articles/best-deals-for-july-8-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T17:35:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000713811",
       "title": "Obsidian Reportedly Working On New Fallout Game After Xbox Cancels Avowed Sequel",
       "url": "https://kotaku.com/obsidian-reportedly-working-on-new-fallout-game-after-xbox-cancels-avowed-sequel-2000713811",
@@ -1089,14 +1081,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-08T17:36:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236804080",
-      "title": "Lego Releases Five New Pok\u00e9mon Sets, Including Arcanine, Rayquaza and Munchlax Builds",
-      "url": "https://variety.com/2026/shopping/news/pokemon-lego-sets-arcanine-rayquaza-order-online-1236804080/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T17:34:58+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236641456",
@@ -2025,6 +2009,38 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-08T21:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236977741",
+      "title": "Jimmy Tatro Circling Major Role In \u2018Superman\u2019 Spinoff Jimmy Olsen Series",
+      "url": "https://deadline.com/2026/07/jimmy-tatro-cast-superman-spinoff-series-dc-crime-1236977741/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T21:35:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804893",
+      "title": "Anonymous Content\u2019s Darren Walker on Company\u2019s 10 Emmy Nominations and Nominee Sally Field\u2019s \u2018Motherly\u2019 Dating Advice",
+      "url": "https://variety.com/2026/biz/columns/anonymous-contents-darren-walker-10-emmy-nominations-sally-field-1236804893/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T21:35:20+00:00"
+    },
+    {
+      "guid": "fA3m99xYUfnH33iwmNBebc",
+      "title": "Xbox just laid off a core Bethesda artist who worked on Skyrim, Oblivion, Morrowind, Fallout 3, and Fallout 4 \u2013 27-year veteran Christiane Meister",
+      "url": "https://www.gamesradar.com/games/rpg/xbox-just-laid-off-a-core-bethesda-artist-who-worked-on-skyrim-oblivion-morrowind-fallout-3-and-fallout-4-27-year-veteran-christiane-meister/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T21:19:51+00:00"
+    },
+    {
+      "guid": "trsdpWjtcmjK8UjhJi6UFE",
+      "title": "The Boys season 5 gets 0 Emmy nominations for acting despite submitting 28 people",
+      "url": "https://www.gamesradar.com/entertainment/superhero-shows/the-boys-season-5-gets-0-emmy-nominations-for-acting-despite-submitting-28-people/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T21:01:23+00:00"
     }
   ]
 }
