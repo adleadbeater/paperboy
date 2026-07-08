@@ -950,6 +950,28 @@
       "article_titles": [
         "Square Enix Confirms Final Fantasy VII Ever Crisis Will Shut Down on October 6, Ending Service After Three Years"
       ]
+    },
+    {
+      "headline": "Mario Kart Tour Is Shutting Down This September",
+      "tag": "mario kart tour",
+      "posted_at": "2026-07-08T17:01:29.541295+00:00",
+      "urls": [
+        "https://www.siliconera.com/mario-kart-tour-mobile-game-shuts-down-in-september/"
+      ],
+      "article_titles": [
+        "Mario Kart Tour Mobile Game Shuts Down in September"
+      ]
+    },
+    {
+      "headline": "Bethesda HR Ordered Staff to Tear Down Memorial for Laid-Off Colleagues",
+      "tag": "bethesda",
+      "posted_at": "2026-07-08T17:01:29.706795+00:00",
+      "urls": [
+        "https://kotaku.com/bethesda-hr-forced-staff-to-remove-small-memorial-to-laid-off-colleagues-2000713777"
+      ],
+      "article_titles": [
+        "Bethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -980,84 +1002,12 @@
       "published_dt": "2026-07-08T13:16:18+00:00"
     },
     {
-      "guid": "CtffvP3WJrYVZmTBLEQTZm",
-      "title": "Two men plead guilty to stealing over \u00a371,000 worth of Pok\u00e9mon TCG in a string of burglaries targeting small card stores",
-      "url": "https://www.pcgamer.com/games/card-games/two-men-plead-guilty-to-stealing-over-gbp71-000-worth-of-pokemon-tcg-in-a-string-of-burglaries-targeting-small-card-stores/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T12:56:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236975531",
-      "title": "\u2018Elize: Shadows Of A Woman\u2019 Trailer: Netflix Brazil Feature Based On Case Explored In \u2018Elize Matsunaga: Once Upon a Crime\u2019",
-      "url": "https://deadline.com/2026/07/elize-shadows-of-a-woman-trailer-netflix-film-matsunaga-1236975531/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T13:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236804264",
       "title": "\u2018Rent\u2019 West End Revival Reveals Cast Joining Gaten Matarazzo: Travis Ross as Roger, Bella Brown as Mimi and More",
       "url": "https://variety.com/2026/theater/global/rent-west-end-revival-full-cast-gaten-matarazzo-1236804264/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-08T13:04:33+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236803914",
-      "title": "AI Start-Up Kaon AI Raises $60 Million in Funding Round in Quest to Build a \u2018Personalized Story Engine\u2019\u00a0for Users",
-      "url": "https://variety.com/2026/digital/news/ai-startup-kaon-ai-raises-60-million-funding-round-1236803914/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236804028",
-      "title": "Rosie O\u2019Donnell \u2018Horrified\u2019 by Trump\u2019s World Cup Intervention and AI Video of Her: \u2018A Failure at Everything He\u2019s Ever Tried\u2019",
-      "url": "https://variety.com/2026/politics/news/rosie-o-donnell-horrified-trump-world-cup-folarin-balogun-ai-video-1236804028/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236804051",
-      "title": "Nexstar\u2019s \u2018The Hill\u2019 Launches \u2018Insider\u2019 Subscription Tier",
-      "url": "https://variety.com/2026/tv/news/nexstar-the-hill-launch-insider-subscription-tier-1236804051/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236804256",
-      "title": "\u2018Succession\u2019 Director Andrij Parekh to Helm \u2018The Retrievals,\u2019 Netflix Series About Real-Life IVF Scandal  From \u2018Maid\u2019 Creator",
-      "url": "https://variety.com/2026/film/global/succession-andrij-parekh-netflix-the-retrievals-1236804256/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T12:56:24+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638944",
-      "title": "The Hill Launching Premium Subscription Product (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/digital/the-hill-launching-premium-subscription-hill-insider-1236638944/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236638969",
-      "title": "Chelsea Handler to Launch Podcast Network With New Show From Yamaneika Saunders (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/digital/chelsea-handler-podcast-network-yamaneika-saunders-1236638969/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236640089",
-      "title": "Tom Holland\u2019s Non-Alcoholic Beer Brand BERO Debuts Collab With Christopher Nolan\u2019s \u2018The Odyssey\u2019",
-      "url": "https://www.hollywoodreporter.com/news/general-news/tom-holland-beer-collab-bero-christopher-nolan-the-odyssey-1236640089/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-08T13:00:00+00:00"
     },
     {
       "guid": "q3bcgakES8aXoLz2f3NCSD",
@@ -1084,36 +1034,12 @@
       "published_dt": "2026-07-08T13:11:12+00:00"
     },
     {
-      "guid": "1813972",
-      "title": "Was This Duck Trying To Get Secrets About The Witcher 4?",
-      "url": "https://www.gamespot.com/articles/was-this-duck-trying-to-get-secrets-about-the-witcher-4/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T12:51:07+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119200",
-      "title": "Noto Satoyama Pokemon With You Airport Now Open",
-      "url": "https://www.siliconera.com/noto-satoyama-pokemon-with-you-airport-now-open/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T13:00:03+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1063038",
       "title": "Mortal Shell II launches August 20",
       "url": "https://www.gematsu.com/2026/07/mortal-shell-ii-launches-august-20",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-07-08T13:07:31+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=69326",
-      "title": "Blue Reflection\u2019s all-female cast was actually a result of budget restrictions, with early plans for the series involving male characters too, according to devs",
-      "url": "https://automaton-media.com/en/news/blue-reflections-all-female-cast-was-actually-a-result-of-budget-restrictions-with-early-plans-for-the-series-involving-male-characters-too-according-to-devs/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-07-08T13:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1742944",
@@ -2314,6 +2240,214 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-08T16:22:58+00:00"
+    },
+    {
+      "guid": "c5682487-4dcf-4a53-9df9-5e65d507d3c9",
+      "title": "More Than 8 Years on From Its Announcement, The Elder Scrolls 6 Is Reportedly Still at Least 2 More Years From Release",
+      "url": "https://www.ign.com/articles/more-than-8-years-on-from-its-announcement-the-elder-scrolls-6-is-reportedly-still-at-least-2-more-years-from-release",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:43:27+00:00"
+    },
+    {
+      "guid": "e4e496de-907a-4ada-8a40-76982d64b6e7",
+      "title": "Beat the Summer Heat With This $7 Portable Turbo Fan",
+      "url": "https://www.ign.com/articles/lerat-portable-turbo-fan-deal",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:30:00+00:00"
+    },
+    {
+      "guid": "fc079afc-fb9e-4e4e-a076-20f3e4ff77e2",
+      "title": "The Alienware 18 Area-51 RTX 5090 Gaming Laptop With 64GB of RAM Drops to $3,080 at Dell Outlet",
+      "url": "https://www.ign.com/articles/alienware-area-51-18-gaming-laptop-deal-at-dell-outlet-in-july",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000713777",
+      "title": "Bethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues",
+      "url": "https://kotaku.com/bethesda-hr-forced-staff-to-remove-small-memorial-to-laid-off-colleagues-2000713777",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:30:10+00:00"
+    },
+    {
+      "guid": "2qAqHHjnuV53uUoBoEnpVa",
+      "title": "Marvel Rivals' Season 9 update will affect 80% of its roster as NetEase throws balance out the window for a more 'fun' approach to the game",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-season-9-update-will-affect-80-percent-of-its-roster-as-netease-throws-balance-out-the-window-for-a-more-fun-approach-to-the-game/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:38:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236976428",
+      "title": "\u2018Hacks\u2019 & \u2018The Pitt\u2019s Help HBO Max Take Emmy Noms Crown Over Netflix As Apple Lands Most Nominations Ever",
+      "url": "https://deadline.com/2026/07/2026-emmy-nominations-netflix-hbo-apple-winners-losers-1236976428/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:39:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803788",
+      "title": "Union Video Game Workers \u2018Extremely Disappointed\u2019 With Xbox Leadership Following Layoffs (Gaming News Roundup)",
+      "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-july-6-1236803788/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:56:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236802891",
+      "title": "Bad Bunny\u2019s Super Bowl Halftime Show and Taylor Swift\u2019s \u2018Eras Tour\u2019 Concert Film Land Emmy Nominations",
+      "url": "https://variety.com/2026/artisans/news/bad-bunny-taylor-swift-emmy-nominations-1236802891/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:46:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803938",
+      "title": "Noah Wyle, Lisa Kudrow, Jamie Lee Curtis and More: Variety\u2019s \u2018Actors on Actors,\u2019 Cover Stars and Podcast Guests Score Emmy Nominations",
+      "url": "https://variety.com/2026/tv/awards/emmy-2026-nominees-actors-on-actors-awards-circuit-podcast-1236803938/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:42:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804524",
+      "title": "Michael J. Fox Lands Emmy Nom for \u2018Shrinking\u2019 After Ending His Five-Year Acting Retirement",
+      "url": "https://variety.com/2026/tv/news/michael-j-fox-emmy-nomination-retirement-ends-1236804524/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:31:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236639558",
+      "title": "\u2018Love Island USA\u2019 Week 5 Recap: Movie Night Causes More Chaos and the Villa Has Its Own Red Wedding",
+      "url": "https://www.hollywoodreporter.com/lists/love-island-usa-season-8-week-5-best-worst-moments/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236640445",
+      "title": "Kathy Hochul Nabs Three Entertainment Union Endorsements In New York Governor\u2019s Race (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/kathy-hochul-new-york-governors-endorsements-1236640445/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641644",
+      "title": "Michael J. Fox Lands Emmy Nomination for \u2018Shrinking\u2019 Guest Role",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/michael-j-fox-emmy-nomination-shrinking-guest-role-1236641644/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:34:20+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641578",
+      "title": "Katie Couric Thought She Suffered a Stroke. Then She Was Diagnosed With Temporary Amnesia",
+      "url": "https://www.hollywoodreporter.com/news/general-news/katie-couric-temporary-amnesia-health-scare-stroke-1236641578/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:32:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641594",
+      "title": "\u2018Hacks\u2019 Sets Record for Most Comedy Emmy Nominations in a Single Year",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hacks-record-most-comedy-emmy-nominations-single-year-1236641594/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:32:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641575",
+      "title": "Ariana Madix Earns First Emmy Nomination for Hosting \u2018Love Island USA\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ariana-madix-first-emmy-nom-love-island-usa-host-1236641575/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:31:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236641549",
+      "title": "\u2018Taylor Swift: The Eras Tour: The Final Show\u2019 Lands 5 Emmy Noms, Including One for Namesake",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/taylor-swift-2026-emmy-nominations-1236641549/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-08T16:30:25+00:00"
+    },
+    {
+      "guid": "HYjgqCVHVd9Rj3TxgFsvH7",
+      "title": "Mortal Kombat 2 director says working closely with video game co-creator Ed Boon made the creative process this time around \"a lot easier, more satisfying\"",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/mortal-kombat-2-director-says-working-closely-with-video-game-co-creator-ed-boon-made-the-creative-process-this-time-around-a-lot-easier-more-satisfying/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:54:53+00:00"
+    },
+    {
+      "guid": "epEtL6MmhVpVV3oFQ3Phw6",
+      "title": "Terrible GTA Trilogy remasters were actually enjoyed by \"a lot of people,\" says studio boss who \"agreed with most of the people's reactions\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/terrible-gta-trilogy-remasters-were-actually-enjoyed-by-a-lot-of-people-says-studio-boss-who-agreed-with-most-of-the-peoples-reactions/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:35:17+00:00"
+    },
+    {
+      "guid": "Wvou6aWy5bbKEkLdDxUNuQ",
+      "title": "Blizzard knows World of Warcraft's removal of raid add-ons is \"controversial,\" but the MMO's lead says its new UI \"has been successful so far\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-knows-world-of-warcrafts-removal-of-raid-add-ons-is-controversial-but-the-mmos-lead-says-its-new-ui-has-been-successful-so-far/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:31:29+00:00"
+    },
+    {
+      "guid": "QWgcCihq6eTtCXBLGMz6sP",
+      "title": "Persona 4 Revival changes some of Yosuke's controversial scenes: \"We wanted to lighten that up and make it a little bit more fitting for the world we live in now\"",
+      "url": "https://www.gamesradar.com/games/persona/persona-4-revival-changes-some-of-yosukes-controversial-scenes-we-wanted-to-lighten-that-up-and-make-it-a-little-bit-more-fitting-for-the-world-we-live-in-now/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:29:36+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119237",
+      "title": "Mario Kart Tour Mobile Game Shuts Down in September",
+      "url": "https://www.siliconera.com/mario-kart-tour-mobile-game-shuts-down-in-september/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1063145",
+      "title": "The Crew Motorfest coming to Switch 2 on October 8",
+      "url": "https://www.gematsu.com/2026/07/the-crew-motorfest-coming-to-switch-2-on-october-8",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:51:29+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69322",
+      "title": "Princess Maker: Children of Revelation\u00a0rises to\u00a0\u201cOverwhelmingly Positive\u201d\u00a0rating on Steam\u00a0as Early Access build shapes up",
+      "url": "https://automaton-media.com/en/news/princess-maker-children-of-revelation-rises-to-overwhelmingly-positive-rating-on-steam-as-early-access-build-shapes-up/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742976",
+      "title": "Steam Survey Finds Majority Players Accept AI in Game Development, but 31% Still Oppose AI-Generated Content",
+      "url": "https://otakukart.com/steam-survey-finds-majority-players-accept-ai-in-game-development-but-31-still-oppose-ai-generated-content/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T16:56:33+00:00"
+    },
+    {
+      "guid": "t3_1uqymmq",
+      "title": "end of doom",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uqymmq/end_of_doom/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-08T17:00:16+00:00"
     }
   ]
 }
