@@ -918,44 +918,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "1186b97a-c5b1-4cfd-a3d0-d8555ede0094",
-      "title": "Today\u2019s Best Deals: Mortal Kombat 4K Box Set, Cronos: The New Dawn for Switch 2, and MTG x Marvel",
-      "url": "https://www.ign.com/articles/best-deals-for-july-9-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T17:40:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236978180",
       "title": "\u2018American Doctor\u2019 Unveils Trailer, Sets Theatrical Release Date; Award-Winning Film Follows U.S. Physicians Who Treated Children Badly Wounded In Gaza",
       "url": "https://deadline.com/2026/07/american-doctor-trailer-exclusive-1236978180/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-09T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236978565",
-      "title": "Trevor Donovan Signs To Play Time Traveling Cowboy In \u2018The Devil\u2019s Train\u2019",
-      "url": "https://deadline.com/2026/07/trevor-donovan-time-traveling-cowboy-devils-train-1236978565/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T17:55:13+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236978537",
-      "title": "\u2018The Gentlemen\u2019 Sets Season 2 Release Date At Netflix",
-      "url": "https://deadline.com/2026/07/the-gentlemen-season-2-release-date-teaser-netflix-1236978537/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T17:44:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236978502",
-      "title": "Harris Katleman Dies: TV Exec Who Helped Develop \u2018The Simpsons\u2019, \u2018CHiPS\u2019, \u2018Medical Center\u2019 & \u2018L.A. Law\u2019 Was 97",
-      "url": "https://deadline.com/2026/07/harris-katleman-dead-1236978502/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T17:38:03+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236804646",
@@ -966,52 +934,12 @@
       "published_dt": "2026-07-09T18:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236805831",
-      "title": "\u2018Free Willy\u2019 Reboot in the Works at Warner Bros.",
-      "url": "https://variety.com/2026/film/news/free-willy-reboot-warner-bros-1236805831/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T17:42:16+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236643263",
-      "title": "Broadway Cleaners Reach Tentative Agreement After Holding Strike Vote",
-      "url": "https://www.hollywoodreporter.com/business/business-news/broadway-cleaners-agreement-strike-vote-1236643263/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T17:53:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236643036",
-      "title": "Karlovy Vary: Juliette Binoche Revisits Her Oscar Upset \u2014 and Teases Her Next Move",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/juliette-binoche-direct-fiction-film-oscar-win-karlovy-vary-1236643036/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T17:35:16+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203618",
-      "title": "God of War Laufey, Wolverine Reveals Locked in for Comic-Con Panels",
-      "url": "https://www.pushsquare.com/news/2026/07/god-of-war-laufey-wolverine-reveals-locked-in-for-comic-con-panels",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T17:45:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1119279",
       "title": "Dragon Ball Xenoverse 3 Gameplay Appears Alongside Road Tour",
       "url": "https://www.siliconera.com/dragon-ball-xenoverse-3-gameplay-appears-alongside-road-tour/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-09T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1063337",
-      "title": "Sony Interactive Entertainment announces San Diego Comic-Con 2026 panels, activities",
-      "url": "https://www.gematsu.com/2026/07/sony-interactive-entertainment-announces-san-diego-comic-con-2026-panels-activities",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T17:47:50+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000714210",
@@ -1612,6 +1540,62 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-09T21:10:39+00:00"
+    },
+    {
+      "guid": "e2296ad4-d6ff-4922-b611-969e4a789665",
+      "title": "Xbox CEO Asha Sharma Is Advising the Federal Reserve on the Economic Impact of AI as Part of a 'Productivity and Jobs' Taskforce",
+      "url": "https://www.ign.com/articles/xbox-ceo-asha-sharma-is-advising-the-federal-reserve-on-the-economic-impact-of-ai-as-part-of-a-productivity-and-jobs-taskforce",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T21:44:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714247",
+      "title": "Bethesda Union Workers Will Hold Rallies Next Week Protesting Mass Layoffs",
+      "url": "https://kotaku.com/bethesda-workers-rallies-next-week-protesting-mass-layoffs-2000714247",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T21:31:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236978818",
+      "title": "Bonnie Tyler Tributes: Kevin Bacon, Johnny Knoxville & Rod Stewart Remember \u201cOne Of The Greatest Voices Of Rock\u201d",
+      "url": "https://deadline.com/2026/07/bonnie-tyler-tributes-kevin-bacon-johnny-knoxville-rod-stewart-1236978818/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T21:43:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236978814",
+      "title": "Fubu Change-o: Disney Swaps In One Of Its Own As CEO, Replacing Co-Founder David Gandler",
+      "url": "https://deadline.com/2026/07/fubu-disney-ceo-streaming-co-founder-david-gandler-1236978814/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T21:42:14+00:00"
+    },
+    {
+      "guid": "Fx7gtmXvFRk2QREZUKrSN7",
+      "title": "GTA Online is getting its first big heist update in 6 years next week with The Kortz Center Heist",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-online-is-getting-its-first-big-heist-update-in-6-years-next-week-with-the-kortz-center-heist/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T21:54:41+00:00"
+    },
+    {
+      "guid": "pwo4oU8KkSu2k2Ehb7jkPA",
+      "title": "4 years after it was shelved by Warner Bros, Batgirl star J.K. Simmons also wants to know why it was never released",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/4-years-after-it-was-shelved-by-warner-bros-batgirl-star-j-k-simmons-also-wants-to-know-why-it-was-never-released/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T21:53:34+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/d-ds-gen-con-keynote-featuring-new-announcements-will-be-livestreamed-on-youtube.719833/",
+      "title": "D&D's Gen Con keynote, featuring new announcements, will be livestreamed on YouTube",
+      "url": "https://www.enworld.org/threads/d-ds-gen-con-keynote-featuring-new-announcements-will-be-livestreamed-on-youtube.719833/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T21:39:00+00:00"
     }
   ]
 }
