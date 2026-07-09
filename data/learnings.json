@@ -1005,6 +1005,58 @@
       "article_titles": [
         "Elder Scrolls VI Devs Say Xbox Layoffs Will Have \u2018Substantial And Cascading Effect\u2019 On The Game\u2019s Already Long Development"
       ]
+    },
+    {
+      "headline": "New Godzilla Minus Zero Trailer Shows Humanity Dropping a Nuke on the King of Monsters",
+      "tag": "godzilla minus zero",
+      "posted_at": "2026-07-09T14:22:35.925570+00:00",
+      "urls": [
+        "https://variety.com/2026/film/news/godzilla-minus-zero-trailer-1236801188/",
+        "https://www.gamesradar.com/entertainment/action-movies/epic-new-godzilla-minus-zero-trailer-sees-mankind-resort-to-extreme-measures-to-win-against-the-kaiju/"
+      ],
+      "article_titles": [
+        "\u2018Godzilla Minus Zero\u2019 Trailer: Soldiers Drop Nuclear Bomb on Godzilla as the Monster Rampages Again",
+        "Epic new Godzilla Minus Zero trailer sees mankind resort to extreme measures to win against the kaiju"
+      ]
+    },
+    {
+      "headline": "EA Sports College Football 27 Locks Single-Player Content Behind Microtransactions, Earns 'Mostly Negative' on Steam Within 24 Hours",
+      "tag": "ea sports college football 27",
+      "posted_at": "2026-07-09T14:22:36.117675+00:00",
+      "urls": [
+        "https://kotaku.com/ea-college-football-27-26-microtransactions-xp-dynasty-road-glory-2000714120"
+      ],
+      "article_titles": [
+        "$70 EA Sports College Football 27 Locks Single-Player Content Behind Microtransactions And Earns \u2018Mostly Negative\u2019 Rating On Steam Within 24 Hours Of Release"
+      ]
+    },
+    {
+      "headline": "Xbox Layoffs Reportedly Killed a New Perfect Dark Reboot and a John Wick-Style Gun-Fu Game at id Software",
+      "tag": "perfect dark",
+      "posted_at": "2026-07-09T14:22:36.283188+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/xbox-layoffs-have-likely-killed-another-perfect-dark-reboot-from-the-hollowed-out-id-software-as-well-as-a-john-wick-style-gun-fu-game/",
+        "https://www.pcgamer.com/gaming-industry/xbox-layoffs-have-likely-killed-another-perfect-dark-reboot-from-the-hollowed-out-id-software-as-well-as-a-john-wick-style-gun-fu-game/",
+        "https://www.gamespot.com/articles/new-perfect-dark-co-op-doom-were-reportedly-in-the-works-at-id-software-before-mass-layoffs/"
+      ],
+      "article_titles": [
+        "Xbox layoffs have likely killed another Perfect Dark reboot from the hollowed-out id Software, as well as a John Wick-style gun fu game",
+        "Xbox layoffs have likely killed another Perfect Dark reboot from the hollowed-out id Software, as well as a John Wick-style gun fu game",
+        "New Perfect Dark, Co-Op Doom Were Reportedly In The Works At Id Software Before Mass Layoffs"
+      ]
+    },
+    {
+      "headline": "Physical Games Are Almost Always Cheaper Than Digital \u2014 Right as Sony Kills PlayStation Disc Support",
+      "tag": "playstation",
+      "posted_at": "2026-07-09T14:22:36.536787+00:00",
+      "urls": [
+        "https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs",
+        "https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs"
+      ],
+      "article_titles": [
+        "Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question",
+        "Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1353,6 +1405,118 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-09T13:40:19+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714120",
+      "title": "$70 EA Sports College Football 27 Locks Single-Player Content Behind Microtransactions And Earns \u2018Mostly Negative\u2019 Rating On Steam Within 24 Hours Of Release",
+      "url": "https://kotaku.com/ea-college-football-27-26-microtransactions-xp-dynasty-road-glory-2000714120",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:00:26+00:00"
+    },
+    {
+      "guid": "gMMyXZ3W33VP7x47WdfXeU",
+      "title": "AI data center servers predicted to glug more power than 'conventional servers' by 2027",
+      "url": "https://www.pcgamer.com/software/ai/ai-data-center-servers-predicted-to-glug-more-power-than-conventional-servers-by-2027/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:01:37+00:00"
+    },
+    {
+      "guid": "iCRq57j9Whzg3YJnDsZQXn",
+      "title": "Black Flag's combat may have been a total cakewalk, but at least it had its novelty",
+      "url": "https://www.pcgamer.com/games/assassins-creed/black-flags-combat-may-have-been-a-total-cakewalk-but-at-least-it-had-its-novelty/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236801188",
+      "title": "\u2018Godzilla Minus Zero\u2019 Trailer: Soldiers Drop Nuclear Bomb on Godzilla as the Monster Rampages Again",
+      "url": "https://variety.com/2026/film/news/godzilla-minus-zero-trailer-1236801188/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:09:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236805596",
+      "title": "\u2018Hope\u2019 Trailer: Giant Alien Monsters, Crashing Spaceships and Wild Gun Battles Create Carnage in Neon\u2019s Insane Korean Sci-Fi Action-Thriller",
+      "url": "https://variety.com/2026/film/global/hope-trailer-michael-fassbender-alicia-vikander-1236805596/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:06:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236796247",
+      "title": "Karol G to Give Away Free Concert Tickets in Cocktail-Making Challenge",
+      "url": "https://variety.com/2026/music/news/karol-g-free-concert-tickets-cocktail-making-challenge-1236796247/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236804905",
+      "title": "WNBA Trailblazers Including Sheryl Swoopes and Skylar Diggins-Smith to Front \u2018Gamechangers: Mother/Athlete\u2019 Docuseries on Roku (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/wnba-sheryl-swoopes-gamechanges-mother-athlete-docuseries-roku-1236804905/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236805134",
+      "title": "Nickelodeon Announces \u2018Fun-ergy Factory\u2019 Experience at San Diego Comic-Con 2026",
+      "url": "https://variety.com/2026/tv/news/nickelodeon-fun-ergy-factory-san-diego-comic-con-2026-1236805134/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236643087",
+      "title": "Na Hong-jin\u2019s Korean Monster Movie \u2018Hope\u2019 Goes Full Sci-Fi Freakout in Wild New Trailer",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/na-hong-jin-korean-monster-movie-hope-trailer-1236643087/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T14:00:26+00:00"
+    },
+    {
+      "guid": "e3cEeifka4RaCQKEcDVYAJ",
+      "title": "Blizzard is already patching Diablo 4 Season 14 after players proved Mythics got screwed up, update coming next week will address complaints",
+      "url": "https://www.gamesradar.com/games/diablo/blizzard-is-already-patching-diablo-4-season-14-after-players-proved-mythics-got-screwed-up-update-coming-next-week-will-address-complaints/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T14:15:23+00:00"
+    },
+    {
+      "guid": "EtTiLkS2jZMJ9VHjgnMZzb",
+      "title": "Epic new Godzilla Minus Zero trailer sees mankind resort to extreme measures to win against the kaiju",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/epic-new-godzilla-minus-zero-trailer-sees-mankind-resort-to-extreme-measures-to-win-against-the-kaiju/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T14:11:44+00:00"
+    },
+    {
+      "guid": "1815177",
+      "title": "Boy Shocked By Electrical Current While Playing Video Games After House Is Struck By Lightning",
+      "url": "https://www.gamespot.com/articles/boy-shocked-by-electrical-current-while-playing-video-games-after-house-is-struck-by-lightning/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T14:15:16+00:00"
+    },
+    {
+      "guid": "1815160",
+      "title": "The Elder Scrolls 6 Devs Fear \u201cMore Delays\u201d After Layoffs Have \u201cCrushing Effect On Morale\u201d",
+      "url": "https://www.gamespot.com/articles/the-elder-scrolls-6-devs-fear-more-delays-after-layoffs-have-crushing-effect-on-morale/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T13:51:01+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1063268",
+      "title": "Dragon Ball Xenoverse 3 \u2018Gameplay First Look\u2019 video",
+      "url": "https://www.gematsu.com/2026/07/dragon-ball-xenoverse-3-gameplay-first-look-video",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T14:07:05+00:00"
     }
   ]
 }
