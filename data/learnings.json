@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Frictional Games Delays Its New Horror Title to 2027",
-      "tag": "frictional games",
-      "posted_at": "2026-07-02T18:31:09.644723+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/horror/amnesia-studio-delays-its-new-game-into-2027/"
-      ],
-      "article_titles": [
-        "Amnesia studio delays its new game into 2027"
-      ]
-    },
-    {
       "headline": "Rhythm Heaven Is Back: Nintendo Announces Rhythm Heaven Groove With 100+ Games",
       "tag": "rhythm heaven groove",
       "posted_at": "2026-07-02T20:00:56.455391+00:00",
@@ -934,107 +923,22 @@
       "article_titles": [
         "Roughly 192 Subnautica 2 players have drowned every minute since launch"
       ]
+    },
+    {
+      "headline": "Deltarune's Latest Update Hides a Secret Conversation That Connects Three Major Mysteries",
+      "tag": "deltarune",
+      "posted_at": "2026-07-09T19:00:57.972506+00:00",
+      "urls": [
+        "https://kotaku.com/deltarunes-latest-update-secret-conversation-chapter-5-2000714214"
+      ],
+      "article_titles": [
+        "Deltarune Sneakily Added A Hidden Conversation Tying Together Three Of The Game\u2019s Biggest Mysteries"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "j5WqrEf9BifSGewcmuVJai",
-      "title": "Ubisoft has added a cash shop and weekly challenges to its 'faithful' remake of the 13-year-old Black Flag, because of course it has",
-      "url": "https://www.pcgamer.com/games/assassins-creed/ubisoft-has-added-a-cash-shop-and-weekly-challenges-to-its-faithful-remake-of-the-13-year-old-black-flag-because-of-course-it-has/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T14:54:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236978281",
-      "title": "\u2018Artificial\u2019 Not Expected To Play The Festival Circuit \u2014 The Dish",
-      "url": "https://deadline.com/2026/07/artificial-not-getting-traditional-fall-festival-rollout-1236978281/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T14:52:38+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236805407",
-      "title": "Tony Nominee Lila Neugebauer Boards Netflix Drama Series \u2018The Retrievals\u2019 as Pilot Director (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/lila-neugebauer-netflix-the-retrievals-1236805407/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236805622",
-      "title": "Michael Fassbender\u2019s Production Company DMC Expands in Ireland Following Investment From Fine Point Films",
-      "url": "https://variety.com/2026/film/global/michael-fassbender-dmc-expands-ireland-fine-point-films-1236805622/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236643082",
-      "title": "Joanna Pettet, Actress in \u2018The Group\u2019 and \u2018Casino Royale,\u2019 Dies at 83",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/joanna-pettet-dead-the-group-casino-royale-1236643082/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T14:52:16+00:00"
-    },
-    {
-      "guid": "JcbGwgBDgoaBxY38uVLcaQ",
-      "title": "\"Great job Microsoft\": Former id Software artist says the legendary dev has been \"relegated to support studio size\" after Xbox's strategy of \"nuking a team into the dirt\"",
-      "url": "https://www.gamesradar.com/games/fps/great-job-microsoft-former-id-software-artist-says-the-legendary-dev-has-been-relegated-to-support-studio-size-after-xboxs-strategy-of-nuking-a-team-into-the-dirt/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T14:51:59+00:00"
-    },
-    {
-      "guid": "S3zQvZppFt85xBq7x7MUQU",
-      "title": "How long does it take to beat Black Flag Resynced?",
-      "url": "https://www.gamesradar.com/games/assassin-s-creed/black-flag-resynced-how-long-length/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T14:51:41+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119274",
-      "title": "FFVII Ever Crisis Before Crisis Trailer Shares 2 Turks\u2019 Names",
-      "url": "https://www.siliconera.com/ffvii-ever-crisis-before-crisis-trailer-shares-2-turks-names/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=69419",
-      "title": "Indie developer says Steam\u00a0helped fix their\u00a0game in time for Next Fest instead or rejecting last-minute\u00a0unbootable\u00a0build",
-      "url": "https://automaton-media.com/en/news/indie-developer-says-steam-helped-fix-their-game-in-time-for-next-fest-instead-or-rejecting-last-minute-unbootable-build/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743166",
-      "title": "MindsEye Developers to Protest Studio\u2019s Fan Playtest Event Following Layoffs and Labor Dispute",
-      "url": "https://otakukart.com/mindseye-developers-to-protest-studios-fan-playtest-event-following-layoffs-and-labor-dispute/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T14:56:47+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743058",
-      "title": "You, Fireworks, and Our Promise Releases New Mashup Music Video Ahead of July 17 Theatrical Debut",
-      "url": "https://otakukart.com/you-fireworks-and-our-promise-releases-new-mashup-music-video-ahead-of-july-17-theatrical-debut/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T14:53:27+00:00"
-    },
-    {
-      "guid": "t3_1ursqjs",
-      "title": "(Tom Henderson) 51 Employees Laid Off at Ubisoft after AC Black Flag Resynced Launch",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1ursqjs/tom_henderson_51_employees_laid_off_at_ubisoft/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T14:59:05+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/destiny-2-farewell-gift-emblem-final-update",
       "title": "Bungie gives Destiny 2 players a final farewell gift as the game enters maintenance mode",
@@ -1082,14 +986,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-09T15:07:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236978141",
-      "title": "Disney Entertainment Television Unveils Comic-Con 2026 Plans And Programming With \u2018Percy Jackson,\u2019 \u2018King Of The Hill & \u2018The Rookie\u2019 Returning",
-      "url": "https://deadline.com/2026/07/comic-con-2026-disney-entertainment-tv-panels-activations-1236978141/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-09T15:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236805648",
@@ -1140,36 +1036,12 @@
       "published_dt": "2026-07-09T15:18:06+00:00"
     },
     {
-      "guid": "WbLMgwBwQF5kmtwkFCVLgg",
-      "title": "The best Donkey Kong merch, with choices you'd be bananas not to love",
-      "url": "https://www.gamesradar.com/hardware/accessories/best-donkey-kong-merch/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T14:59:45+00:00"
-    },
-    {
       "guid": "1815197",
       "title": "GTA Online\u2019s Next Big Heist, The First Since 2020, Is Coming Soon And It Looks Great",
       "url": "https://www.gamespot.com/articles/gta-onlines-next-big-heist-the-first-since-2020-is-coming-soon-and-it-looks-great/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-07-09T15:02:17+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203608",
-      "title": "Dragon Ball XenoVerse 3 Gets PS5 Gameplay Deep Dive, and It Looks Like a Real Step Up",
-      "url": "https://www.pushsquare.com/news/2026/07/dragon-ball-xenoverse-3-gets-ps5-gameplay-deep-dive-and-it-looks-like-a-real-step-up",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203594",
-      "title": "Feature: I'm Really Not Sure How I Feel About Sony Killing Physical Media",
-      "url": "https://www.timeextension.com/features/im-really-not-sure-how-i-feel-about-sony-killing-physical-media",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-09T15:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1063301",
@@ -2122,6 +1994,78 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-09T18:45:55+00:00"
+    },
+    {
+      "guid": "abfc6c36-baa2-4791-83db-2d43415b0a0c",
+      "title": "The Adorable LEGO Eevee Pok\u00e9mon Got Its First Price Cut",
+      "url": "https://www.ign.com/articles/lego-pokemon-eevee-on-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T18:45:00+00:00"
+    },
+    {
+      "guid": "aa50be90-5ab5-4b30-a04b-2a94173505b5",
+      "title": "Save 63% Off the LG xboom Grab Core Waterproof Portable Speaker, Now Just $51.77",
+      "url": "https://www.ign.com/articles/lg-xboom-grab-core-waterproof-portable-speaker-deal-amazon-july",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T18:35:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714214",
+      "title": "Deltarune Sneakily Added A Hidden Conversation Tying Together Three Of The Game\u2019s Biggest Mysteries",
+      "url": "https://kotaku.com/deltarunes-latest-update-secret-conversation-chapter-5-2000714214",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T18:59:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236978452",
+      "title": "Jeff Zucker Says Scale Is Key As Banijay-All3Media Deal Closes; Marco Bassetti Outlines Growth Plans",
+      "url": "https://deadline.com/2026/07/jeff-zucker-marco-bassetti-on-banijay-all3media-merger-plan-1236978452/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T18:55:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236978613",
+      "title": "FCC Says iHeartMedia Will Implement Compliance Plan After Payola Investigation",
+      "url": "https://deadline.com/2026/07/iheartmedia-fcc-payola-1236978613/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T18:50:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236642398",
+      "title": "The Hollywood Reporter Announces Inaugural A-List Aesthetics Event and Digital Issue",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/the-hollywood-reporter-a-list-aesthetics-event-digital-issue-1236642398/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T18:56:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236643322",
+      "title": "FKA Twigs Backed by Ex-California Lawmaker in Lawsuit Against Shia LaBeouf Over NDA",
+      "url": "https://www.hollywoodreporter.com/news/general-news/fka-twigs-shia-labeouf-nda-1236643322/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-09T18:54:39+00:00"
+    },
+    {
+      "guid": "1815390",
+      "title": "Call Of Duty: Black Ops 1 And 2 Ports Are Out Now On PS5, But DLC Costs Extra",
+      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-1-and-2-ports-are-out-now-on-ps5-but-dlc-costs-extra/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T18:56:29+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119282",
+      "title": "Honkai: Nexus Anima Trailers Introduce Nanafey and Story Cinematics",
+      "url": "https://www.siliconera.com/honkai-nexus-anima-trailers-introduce-nanafey-and-story-cinematics/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-09T19:00:00+00:00"
     }
   ]
 }
