@@ -995,62 +995,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236979107",
-      "title": "Music Industry Introduces Labels For Works That Use AI In Sound Recordings",
-      "url": "https://deadline.com/2026/07/music-ai-labels-recording-industry-1236979107/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T13:24:37+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236643582",
-      "title": "Jeffrey Wright: \u201cAmerica Wants to Be a Beacon of Real Freedom, Not Hypocritical Freedom\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jeffrey-wright-america-beacon-real-freedom-karlovy-vary-1236643582/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T13:01:42+00:00"
-    },
-    {
-      "guid": "ofWtARhk5cAsaiQYz5AHuh",
-      "title": "Xbox confirms there isn't just \"1 person left in Texas\" working on id Software's engine following mass layoffs, but \"dozens\" across \"multiple locations\"",
-      "url": "https://www.gamesradar.com/games/fps/xbox-confirms-there-isnt-just-1-person-left-in-texas-working-on-id-softwares-engine-following-mass-layoffs-but-dozens-across-multiple-locations/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:15:10+00:00"
-    },
-    {
-      "guid": "96DjHvKahzof26LV9jLgUP",
-      "title": "Garfield Kart slams Nintendo over Mario Kart Tour shutdown, jokingly takes its place as the \"better\" racing game: \"We will not randomly kill your game license\"",
-      "url": "https://www.gamesradar.com/games/racing/garfield-kart-slams-nintendo-over-mario-kart-tour-shutdown-jokingly-takes-its-place-as-the-better-racing-game-we-will-not-randomly-kill-your-game-license/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:07:18+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743396",
-      "title": "God of War Laufey Set for Major San Diego Comic-Con 2026 Panel as Santa Monica Studio Teases New Hero Details",
-      "url": "https://otakukart.com/god-of-war-laufey-set-for-major-san-diego-comic-con-2026-panel-as-santa-monica-studio-teases-new-hero-details/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:22:17+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743395",
-      "title": "Monster Fantasy Developer Responds to Monster Hunter Comparisons, Says Hunting Large Monsters Is \u201cOnly One Part\u201d of a Game That Goes \u201cBeyond Hunting and Combat\u201d",
-      "url": "https://otakukart.com/monster-fantasy-developer-responds-to-monster-hunter-comparisons-says-hunting-large-monsters-is-only-one-part-of-a-game-that-goes-beyond-hunting-and-combat/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:05:12+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743315",
-      "title": "ARC Raiders Players Report Item Duplication Glitch Following Update 1.36, Raising Fresh Economy Concerns",
-      "url": "https://otakukart.com/arc-raiders-players-report-item-duplication-glitch-following-update-1-36-raising-fresh-economy-concerns/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:03:16+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236806379",
       "title": "Netflix in Talks to Buy Letterboxd: Report",
       "url": "https://variety.com/2026/digital/news/letterboxd-sales-talks-netflix-sony-paramount-1236806379/",
@@ -1065,14 +1009,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-10T13:32:40+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203651",
-      "title": "Prepare for GTA 6 by Robbing an Art Gallery in GTA Online on PS5 Next Week",
-      "url": "https://www.pushsquare.com/news/2026/07/prepare-for-gta-6-by-robbing-an-art-gallery-in-gta-online-on-ps5-next-week",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1743397",
@@ -1961,6 +1897,78 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-10T16:35:53+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714670",
+      "title": "Everything We Know About Fire Emblem: Fortune\u2019s Weave, The Switch 2\u2019s Big Strategy RPG",
+      "url": "https://kotaku.com/fire-emblem-fortunes-weave-characters-combat-three-houses-sequel-2000714670",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:00:50+00:00"
+    },
+    {
+      "guid": "WzZCc7tDWGURB8rAzDHbm",
+      "title": "Indie dev defends criticism of Steam refund abuse amid review bombing of his game: 'It's wrong to refund a game after having fun with it and completing it'",
+      "url": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:08:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979243",
+      "title": "Death Of Former MP & UK Reality Star Ann Widdecombe Being Investigated As Murder",
+      "url": "https://deadline.com/2026/07/ann-widdecombe-death-homicide-1236979243/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:26:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979230",
+      "title": "Elle Fanning And Julianne Moore To Star In Rebecca Miller\u2019s Next Film On Acclaimed Children\u2019s Book Author Margaret Wise Brown",
+      "url": "https://deadline.com/2026/07/elle-fanning-julianne-moore-margaret-wise-brown-1236979230/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806513",
+      "title": "Christopher Nolan Dedicates \u2018The Odyssey\u2019 to Late Imax Pioneer David Keighley",
+      "url": "https://variety.com/2026/film/news/christopher-nolan-dedicates-the-odyssey-imax-david-keighley-1236806513/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:14:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806587",
+      "title": "\u2018House of David\u2019 Renewed for Season 3 at Amazon",
+      "url": "https://variety.com/2026/tv/news/house-of-david-renewed-season-3-amazon-1236806587/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236639331",
+      "title": "Don\u2019t Remind \u2018Moana\u2019 Star Catherine Laga\u2019aia That She\u2019s a Nepo Baby, She Already Knows It",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/catherine-lagaaia-moana-disney-nepo-baby-interview-1236639331/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:16:22+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203637",
+      "title": "Opinion: Help! I'm Obsessed With Rhythm Heaven Groove's Secret Beatspell Finale",
+      "url": "https://www.nintendolife.com/features/opinion-help-im-obsessed-with-rhythm-heaven-grooves-secret-beatspell-finale",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=612647",
+      "title": "A Look At D&D\u2019s New Living Spells Reveals Magical Mayhem",
+      "url": "https://www.belloflostsouls.net/2026/07/a-look-at-dds-new-living-spells-reveals-magical-mayhem.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T17:15:00+00:00"
     }
   ]
 }
