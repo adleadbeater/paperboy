@@ -1034,22 +1034,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000714728",
-      "title": "EU Can\u2019t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner",
-      "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:31:28+00:00"
-    },
-    {
-      "guid": "LF27P2tvoZpfeMHGSMn2gT",
-      "title": "How to unlock Samael's romance and begin dating the brooding bartender in Moonlight Peaks",
-      "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-date-samael-romance-unlock/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:34:20+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236805825",
       "title": "\u2018Moana\u2019 Director Thomas Kail on Dwayne Johnson\u2019s Live-Action Maui Look and Remaking a Beloved Hit: In Theater, \u2018We Do Revivals All the Time\u2019",
       "url": "https://variety.com/2026/film/news/moana-live-action-director-thomas-kail-dwayne-johnsons-wig-backlash-reviews-1236805825/",
@@ -1058,28 +1042,12 @@
       "published_dt": "2026-07-10T18:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236806677",
-      "title": "French Box Office Surges Nearly 20% in First Half of 2026 as Local Films and Hollywood Hits Drive Recovery",
-      "url": "https://variety.com/2026/film/global/french-box-office-first-half-2026-local-films-hollywood-hits-1236806677/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:34:43+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236643528",
       "title": "Aaron Sorkin and Guillermo del Toro to Receive Honorary Degrees at AFI Conservatory Graduation",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-guillermo-del-toro-honorary-degrees-afi-1236643528/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-10T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236643495",
-      "title": "Inside Wes Anderson\u2019s Hollywood Bowl Concerts: \u201cThe Music\u2019s Always Been Another Actor\u201d",
-      "url": "https://www.hollywoodreporter.com/music/film-tv-music-news/wes-anderson-hollywood-bowl-concerts-1236643495/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:41:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1119334",
@@ -1168,14 +1136,6 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-10T18:12:00+00:00"
-    },
-    {
-      "guid": "t3_1usv0z5",
-      "title": "idSoftware confirm reporting from Windows Central",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1usv0z5/idsoftware_confirm_reporting_from_windows_central/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T17:56:09+00:00"
     },
     {
       "guid": "d6d21680-2e25-463e-b8b8-c74f242a0e73",
@@ -1672,6 +1632,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-10T21:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236978951",
+      "title": "Morgan Spector In Talks To Play Robert Langdon, Rebecca Hall Eyed As Female Lead In Netflix Series Based On Dan Brown\u2019s \u2018The Secret of Secrets\u2019",
+      "url": "https://deadline.com/2026/07/morgan-spector-robert-langdon-rebecca-hall-dan-brown-netflix-1236978951/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:45:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979503",
+      "title": "New York Times Alleges Trump Administration\u2019s  Reverse Discrimination Lawsuit Was Retaliation For Its Reporting On EEOC",
+      "url": "https://deadline.com/2026/07/new-york-times-trump-eeoc-lawsuit-retaliation-1236979503/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:37:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979511",
+      "title": "\u2018Evil Dead Burn\u2019 Director Had To \u201cTrim\u201d A Scene To Avoid NC-17 Rating: \u201cStill Intense And Pretty Brutal\u201d",
+      "url": "https://deadline.com/2026/07/evil-dead-burn-director-trim-scene-avoid-nc-17-rating-1236979511/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:34:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236644221",
+      "title": "Randolph Mantooth, Firefighter-Paramedic Johnny Gage on \u2018Emergency!,\u2019 Dies at 80",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/randolph-mantooth-dead-emergency-1236644221/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:49:17+00:00"
     }
   ]
 }
