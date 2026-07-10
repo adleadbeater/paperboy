@@ -923,6 +923,39 @@
       "article_titles": [
         "\"We mean business\" - Bethesda union members to march in protest of sweeping Xbox job cuts"
       ]
+    },
+    {
+      "headline": "Persona 4 Revival's New UI Reveal Shows Atlus Has Completely Reimagined the Classic JRPG",
+      "tag": "persona 4 revival",
+      "posted_at": "2026-07-10T14:31:26.323561+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/persona/atlus-youve-done-it-again-new-look-at-persona-4-revivals-stylish-menu-ui-confirms-a-complete-transformation-for-the-og-jrpg/"
+      ],
+      "article_titles": [
+        "Atlus, you've done it again \u2013 new look at Persona 4 Revival's stylish menu UI confirms a complete transformation for the OG JRPG"
+      ]
+    },
+    {
+      "headline": "Third-Party E-Ink Faceplates Are Coming to the Steam Machine \u2014 Valve Isn't Making Them",
+      "tag": "steam machine",
+      "posted_at": "2026-07-10T14:31:26.443589+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/steam-machines/e-ink-faceplates-for-the-steam-machine-are-coming-but-not-from-valve/"
+      ],
+      "article_titles": [
+        "E-Ink faceplates for the Steam Machine are coming, but not from Valve"
+      ]
+    },
+    {
+      "headline": "PlayStation's \"No Disc, No Buy\" Boycott Immediately Collapses Over Black Ops Ports",
+      "tag": "playstation",
+      "posted_at": "2026-07-10T14:31:26.612573+00:00",
+      "urls": [
+        "https://kotaku.com/playstation-no-disc-no-buy-boycott-immediately-splinters-in-the-face-of-black-ops-ports-2000714620"
+      ],
+      "article_titles": [
+        "PlayStation \u2018No Disc, No Buy\u2019 Boycott Immediately Splinters In The Face Of Black Ops Ports"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1111,6 +1144,166 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-10T13:53:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714619",
+      "title": "GameStop\u2019s Australian Outlets Leave Pok\u00e9mon TCG Customers Furious After Insane Bait-N-Switch Pricing",
+      "url": "https://kotaku.com/gamestop-eb-games-australia-pokemon-tcg-30th-anniversary-scalpers-2000714619",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:30:02+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714620",
+      "title": "PlayStation \u2018No Disc, No Buy\u2019 Boycott Immediately Splinters In The Face Of Black Ops Ports",
+      "url": "https://kotaku.com/playstation-no-disc-no-buy-boycott-immediately-splinters-in-the-face-of-black-ops-ports-2000714620",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:03:42+00:00"
+    },
+    {
+      "guid": "2UfxDH85MUU7EdrZVmhbwZ",
+      "title": "E-Ink faceplates for the Steam Machine are coming, but not from Valve",
+      "url": "https://www.pcgamer.com/hardware/steam-machines/e-ink-faceplates-for-the-steam-machine-are-coming-but-not-from-valve/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:11:07+00:00"
+    },
+    {
+      "guid": "pKsnPNRwxEyc7F4Ps9emqk",
+      "title": "Legendary dad fixes their kid's dead RTX 3070 by ripping the capacitor out of an old radio and slapping it on the side, saving over $100 in the process",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/legendary-dad-fixes-their-kids-dead-rtx-3070-by-ripping-the-capacitor-out-of-an-old-radio-and-slapping-it-on-the-side-saving-over-usd100-in-the-process/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:09:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979102",
+      "title": "Louise Pedersen, CEO Of \u2018The Traitors\u2019 Distributor All3Media International, Exits After Banijay Merger; Cathy Payne Confirmed As Banijay Rights Sales Chief",
+      "url": "https://deadline.com/2026/07/all3media-louise-pedersen-exits-cathy-payne-banijay-1236979102/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:11:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236978586",
+      "title": "Keanu Reeves Motorcycle Racing Series \u2018Hooligans\u2019 Debuts As Samsung TV Plus Revs Up Live Programming",
+      "url": "https://deadline.com/2026/07/keanu-reeves-motorcycle-racing-samsung-tv-plus-live-streaming-1236978586/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:02:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806423",
+      "title": "Richard Gere-Produced Dalai Lama Documentary \u2018Wisdom of Happiness\u2019 Lands at Music Box Films (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/richard-gere-dalai-lama-docu-wisdom-happiness-music-box-1236806423/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:14:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806377",
+      "title": "RIAA, Grammys, SAG-AFTRA and Other Groups Launch New Labeling Program for AI Music",
+      "url": "https://variety.com/2026/music/news/ifpi-riaa-grammys-sag-aftra-labeling-program-ai-music-1236806377/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T14:09:43+00:00"
+    },
+    {
+      "guid": "iJcEMr6BgP6Phia2YhBDpB",
+      "title": "Final Fantasy 6 is halfway to a remake in this Final Fantasy Tactics mod that took 3 years of work, and it's beautiful",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-6-is-halfway-to-a-remake-in-this-final-fantasy-tactics-mod-that-took-3-years-of-work-and-its-beautiful/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:28:34+00:00"
+    },
+    {
+      "guid": "XfLGTATeZW2jDk6MS9TJUd",
+      "title": "\"We will continue till the last day\": Publisher protests Sony's digital-only future with a pledge to make as many physical PS5 games as possible",
+      "url": "https://www.gamesradar.com/games/we-will-continue-till-the-last-day-publisher-protests-sonys-digital-only-future-with-a-pledge-to-make-as-many-physical-ps5-games-as-possible/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:26:21+00:00"
+    },
+    {
+      "guid": "Y85yF5MDQkesamM4UoC7s7",
+      "title": "Atlus, you've done it again \u2013 new look at Persona 4 Revival's stylish menu UI confirms a complete transformation for the OG JRPG",
+      "url": "https://www.gamesradar.com/games/persona/atlus-youve-done-it-again-new-look-at-persona-4-revivals-stylish-menu-ui-confirms-a-complete-transformation-for-the-og-jrpg/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:21:57+00:00"
+    },
+    {
+      "guid": "V9rPVcAp8QEH7bkTziaaBC",
+      "title": "Cult of the Lamb is four years old, but its Collector's Edition is now available to pre-order for PS5 and Switch fans",
+      "url": "https://www.gamesradar.com/games/cult-of-the-lamb-is-four-years-old-but-its-collectors-edition-is-now-available-to-pre-order-for-ps5-and-switch-fans/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:16:22+00:00"
+    },
+    {
+      "guid": "nGSJkV7XHYj2gj9APG5jpT",
+      "title": "New Spider-Man: Brand New Day teaser sees Peter Parker fight Savage Hulk \u2013 and might have spoiled the return of a fan-favorite villain",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-teaser-sees-peter-parker-fight-savage-hulk-and-might-have-spoiled-the-return-of-a-fan-favorite-villain/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:11:31+00:00"
+    },
+    {
+      "guid": "ahtarNWgE2UqhhPsnqU9ui",
+      "title": "Edward Kenway is the biggest bastard in Assassin's Creed history",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/edward-kenway-is-the-biggest-bastard-in-assassins-creed-history/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T13:58:17+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119309",
+      "title": "Ultraman Mofusand Kiramekko Plush Pendants Appear",
+      "url": "https://www.siliconera.com/ultraman-mofusand-kiramekko-plush-pendants-appear/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:00:28+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203655",
+      "title": "\"It Is Not A Decision We Have Taken Lightly\" - Evercade Is The Next System To Get A Price Hike Thanks To AI",
+      "url": "https://www.timeextension.com/news/2026/07/it-is-not-a-decision-we-have-taken-lightly-evercade-is-the-next-system-to-get-a-price-hike-thanks-to-ai",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1063456",
+      "title": "Persona 4 Revival \u2013 Yosuke Hanamura trailer",
+      "url": "https://www.gematsu.com/2026/07/persona-4-revival-yosuke-hanamura-trailer",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:18:11+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743398",
+      "title": "Netflix Reportedly Among Companies in Talks to Acquire Letterboxd as Movie Platform Explores Sale",
+      "url": "https://otakukart.com/netflix-reportedly-among-companies-in-talks-to-acquire-letterboxd-as-movie-platform-explores-sale/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:23:19+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743414",
+      "title": "NCT\u2019s JAEHYUN Releases Emotional New Single \u201c99 Degrees\u201d Ahead of NCT 127\u2019s Upcoming Comeback",
+      "url": "https://otakukart.com/ncts-jaehyun-releases-emotional-new-single-99-degrees-ahead-of-nct-127s-upcoming-comeback/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:17:35+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743413",
+      "title": "Prime Video Reveals First Trailer for Sterling Point Ahead of Global Premiere on August 5",
+      "url": "https://otakukart.com/prime-video-reveals-first-trailer-for-sterling-point-ahead-of-global-premiere-on-august-5/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:05:35+00:00"
     }
   ]
 }
