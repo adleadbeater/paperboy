@@ -1,34 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "PlayStation's All-Digital Future Is \"Fairly Dramatic,\" Says Former Sony Boss Shawn Layden",
-      "tag": "playstation",
-      "posted_at": "2026-07-03T16:30:57.463230+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/playstations-disc-less-future-could-heavily-influence-xbox-and-nintendos-approach-to-physical-games-former-sony-boss-says-calling-the-decision-dramatic/",
-        "https://www.pushsquare.com/news/2026/07/its-a-fairly-dramatic-decision-shawn-layden-reacts-to-playstations-all-digital-plan",
-        "https://otakukart.com/sonys-largest-playstation-disc-factory-begins-shift-to-micro-optics-ahead-of-physical-games-phase-out/"
-      ],
-      "article_titles": [
-        "PlayStation's disc-less future could \"heavily influence\" Xbox and Nintendo's approach to physical games, former Sony boss says, calling the decision \"dramatic\"",
-        "'It's a Fairly Dramatic Decision': Shawn Layden Reacts to PlayStation's All-Digital Plan",
-        "Sony\u2019s Largest PlayStation Disc Factory Begins Shift to Micro Optics Ahead of Physical Games Phase-Out"
-      ]
-    },
-    {
-      "headline": "Deltarune Chapter 5 Confirmed to Focus on Character Relationships",
-      "tag": "deltarune",
-      "posted_at": "2026-07-03T16:30:57.592263+00:00",
-      "urls": [
-        "https://www.siliconera.com/deltarune-chapter-5-focuses-on-relationships/",
-        "https://www.siliconera.com/deltarune-chapter-5-focuses-on-relationships/"
-      ],
-      "article_titles": [
-        "Deltarune Chapter 5 Focuses on Relationships",
-        "Deltarune Chapter 5 Focuses on Relationships"
-      ]
-    },
-    {
       "headline": "Cyberpunk 2077 Hits 40 Million Copies Sold, CD Projekt's Redemption Arc Complete",
       "tag": "cyberpunk 2077",
       "posted_at": "2026-07-03T17:30:57.210344+00:00",
@@ -993,19 +965,35 @@
         "Palworld 1.0 Players Spot a Number of Pal Redesigns \u2014 and Some Say They Now Look Less Like the Pok\u00e9mon They Resembled",
         "Palworld 1.0 redesigns multiple Pals and makes them look less like Pokemon"
       ]
+    },
+    {
+      "headline": "Robert Yang Is Releasing a Free Collection of His Award-Winning Games on Steam and Itch \u2014 and Says Censorship Is the Fight",
+      "tag": "robert yang",
+      "posted_at": "2026-07-10T17:00:55.007882+00:00",
+      "urls": [
+        "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free"
+      ],
+      "article_titles": [
+        "\"Just too gay\" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free"
+      ]
+    },
+    {
+      "headline": "Ubisoft Defends Assassin's Creed Black Flag Remake Microtransactions, Calls DLC \"Never a Requirement\"",
+      "tag": "assassin's creed black flag",
+      "posted_at": "2026-07-10T17:00:55.081006+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/assassins-creed/ubisoft-tells-black-flag-microtransaction-critics-that-they-control-the-dlc-they-buy/",
+        "https://otakukart.com/ubisoft-responds-to-assassins-creed-black-flag-resynced-microtransaction-criticism-says-optional-dlc-is-never-a-requirement/"
+      ],
+      "article_titles": [
+        "Ubisoft tells Black Flag microtransaction critics that they control the DLC they buy",
+        "Ubisoft Responds to Assassin\u2019s Creed Black Flag Resynced Microtransaction Criticism, Says Optional DLC Is \u201cNever a Requirement\u201d"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000714611",
-      "title": "The Hunt For Naruto Live-Action Movie Cast Has Begun, According To Spider-Man: Brand New Day Director",
-      "url": "https://kotaku.com/naruto-movie-casting-destin-daniel-cretton-masashi-kishimoto-team-7-2000714611",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T12:59:27+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1236979107",
       "title": "Music Industry Introduces Labels For Works That Use AI In Sound Recordings",
@@ -1037,54 +1025,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-10T13:07:18+00:00"
-    },
-    {
-      "guid": "xQffEkbwapQBP6fAqh2g4g",
-      "title": "Last time PlayStation threatened to close PS3 and Vita digital stores, the players revolted: \"As gamers and collectors this is a hard pill to swallow\"",
-      "url": "https://www.gamesradar.com/platforms/playstation/last-time-playstation-threatened-to-close-ps3-and-vita-digital-stores-the-players-revolted-as-gamers-and-collectors-this-is-a-hard-pill-to-swallow/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:00:00+00:00"
-    },
-    {
-      "guid": "1816425",
-      "title": "Assassin\u2019s Creed Black Flag Resynced Has The Best Launch The Series Has Seen In Years",
-      "url": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-has-the-best-launch-the-series-has-seen-in-years/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T12:56:02+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203610",
-      "title": "This Developer Wants You to Pay Less for PS5 Survival Horror",
-      "url": "https://www.pushsquare.com/news/2026/07/this-developer-wants-you-to-pay-less-for-ps5-survival-horror",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119255",
-      "title": "Digimon Story: Time Stranger Switch 2 Port Was Worth the Wait",
-      "url": "https://www.siliconera.com/digimon-story-time-stranger-switch-2-port-was-worth-the-wait/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-202754",
-      "title": "Retro Rail Go! Dev Removes AI Assets & Rebrands Following \"Online Hate & Accusations\"",
-      "url": "https://www.timeextension.com/news/2026/07/retro-rail-go-dev-removes-ai-assets-and-rebrands-following-online-hate-and-accusations",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:00:00+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=69445",
-      "title": "Koei Tecmo has expanded its workforce from 2,500 to over 3,000 in two years,\u00a0remains\u00a0committed to target of 5,000",
-      "url": "https://automaton-media.com/en/news/koei-tecmo-has-expanded-its-workforce-from-2500-to-over-3000-in-two-years-remains-committed-to-target-of-5000/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T13:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1743396",
@@ -1901,6 +1841,126 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-10T16:24:46+00:00"
+    },
+    {
+      "guid": "4b61ed41-095f-4799-973d-e75181492003",
+      "title": "Dell Outlet Has an Alienware Aurora RTX 5080 Gaming PC With 64GB of RAM and a 4TB SSD for $2,908",
+      "url": "https://www.ign.com/articles/alienware-aurora-rtx-5080-gaming-pc-64gb-ram-4tb-ssd-deal-at-dell-outlet-in-july",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:50:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
+      "title": "\"Just too gay\" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free",
+      "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:50:45+00:00"
+    },
+    {
+      "guid": "BZsdd6rR5f3VvbJHhdRVH9",
+      "title": "Where to find the fallen tree and unblock the waterfall in Moonlight Peaks",
+      "url": "https://www.pcgamer.com/games/life-sim/moonlight-peaks-lift-the-fallen-tree-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:58:10+00:00"
+    },
+    {
+      "guid": "FLHxyv6SxFwzXBtQ2XHHK6",
+      "title": "Ubisoft tells Black Flag microtransaction critics that they control the DLC they buy",
+      "url": "https://www.pcgamer.com/games/assassins-creed/ubisoft-tells-black-flag-microtransaction-critics-that-they-control-the-dlc-they-buy/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:44:43+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236978963",
+      "title": "\u2018House Of David\u2019 Renewed For Season 3 By Prime Video",
+      "url": "https://deadline.com/2026/07/house-of-david-renewed-season-3-prime-video-1236978963/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806434",
+      "title": "Filmmakers Chike Ozah and Coodie Simmons Announce \u2018Who Is Ernie Barnes?\u2019 Documentary and Immersive Experience (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/chike-ozah-coodie-simmons-who-is-ernie-barnes-documentary-1236806434/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806268",
+      "title": "Dengue Fever, Rains Be Damned:  \u2018We Can\u2019t Wait to Go Back,\u2019 Say \u2018The Whistler\u2019 Producers on Shooting in Colombia",
+      "url": "https://variety.com/2026/film/global/the-whistler-shooting-colombia-hideout-pictures-64a-films-1236806268/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:35:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236643944",
+      "title": "YouTuber Ben Schneider Signs With CAA (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ben-schneider-signs-with-caa-1236643944/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:50:53+00:00"
+    },
+    {
+      "guid": "AoebEKPVwvgPnDyUh5pE65",
+      "title": "Steam has reportedly made Valve more money in the first half of 2026 than it did in all of 2020 \u2013 $11.1 billion and counting",
+      "url": "https://www.gamesradar.com/hardware/steam-has-reportedly-made-valve-more-money-in-the-first-half-of-2026-than-it-did-in-all-of-2020-usd11-1-billion-and-counting/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:54:07+00:00"
+    },
+    {
+      "guid": "TZcPiWugkSg9Genv37bZeQ",
+      "title": "New Zelda-like from Square Enix does what Nintendo didn't in Ocarina of Time, silencing 27 years of Navi trauma",
+      "url": "https://www.gamesradar.com/games/action-rpg/new-zelda-like-from-square-enix-does-what-nintendo-didnt-in-ocarina-of-time-silencing-27-years-of-navi-trauma/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:39:44+00:00"
+    },
+    {
+      "guid": "SDUgGpDKxVYkBFSg9bJkDa",
+      "title": "Resident Evil Requiem cut one of the Leon Kennedy actor's \"favorite\" lines, and fans agree Capcom has \"robbed\" us with its removal",
+      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-cut-one-of-the-leon-kennedy-actors-favorite-lines-and-fans-agree-capcom-has-robbed-us-with-its-removal/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:29:40+00:00"
+    },
+    {
+      "guid": "7MU84Zn8YHfkgfyNfV4eoG",
+      "title": "The Blood of Dawnwalker director compares the RPG's excellent fantasy combat to Max Payne and Guitar Hero: \"Oh god, it was a lot of iteration\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/the-blood-of-dawnwalker-director-compares-the-rpgs-excellent-fantasy-combat-to-max-payne-and-guitar-hero-oh-god-it-was-a-lot-of-iteration/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:28:27+00:00"
+    },
+    {
+      "guid": "1816601",
+      "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
+      "url": "https://www.gamespot.com/articles/gta-6-preloading-start-date-and-what-to-know-about-digital-and-physical-copies/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:42:48+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119325",
+      "title": "Uniqlo Selling One Piece Elbaph Arc Character Shirts",
+      "url": "https://www.siliconera.com/uniqlo-selling-one-piece-elbaph-arc-character-shirts/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1742884",
+      "title": "16 One Piece Characters Luffy Still Can\u2019t Defeat Alone, Even After Unlocking Gear 5",
+      "url": "https://otakukart.com/16-one-piece-characters-luffy-still-cant-defeat-alone-even-after-unlocking-gear-5/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:35:53+00:00"
     }
   ]
 }
