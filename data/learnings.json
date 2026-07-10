@@ -1021,54 +1021,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "99FEMVZdd7iEkz4E9L4QBQ",
-      "title": "'Valve isn't interested in a nuanced conversation' says indie dev suffering from Steam censorship",
-      "url": "https://www.pcgamer.com/software/platforms/valve-isnt-interested-in-a-nuanced-conversation-says-indie-dev-suffering-from-steam-censorship/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T15:56:35+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236806616",
-      "title": "\u2018Top Boy\u2019 Star Micheal Ward Found Not Guilty of Rape and Sexual Assault",
-      "url": "https://variety.com/2026/tv/global/top-boy-star-micheal-ward-found-not-guilty-rape-1236806616/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T15:59:42+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236642036",
-      "title": "\u2018Little House on the Prairie\u2019 Showrunner on the Spirit of the Netflix Adaptation and Its Parallels With \u2018The Boys\u2019: \u201cAmerica Is a Myth-Maker\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/netflix-little-house-on-the-prairie-adaptation-the-boys-1236642036/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203661",
-      "title": "Brazil Is Taking On Digital Games Ownership and Preservation After Sony Says No More Discs",
-      "url": "https://www.pushsquare.com/news/2026/07/brazil-is-taking-on-digital-games-ownership-and-preservation-after-sony-says-no-more-discs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119322",
-      "title": "Next Persona 4 Revival Character Trailer Stars Yosuke Hanamura",
-      "url": "https://www.siliconera.com/next-persona-4-revival-character-trailer-stars-yosuke-hanamura/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T16:00:00+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=69476",
-      "title": "Showa-era Japan visual novel Be Missed and Remembered: The Letter from Mayoiga launches on Steam at 10% off",
-      "url": "https://automaton-media.com/en/news/showa-era-japan-visual-novel-be-missed-and-remembered-the-letter-from-mayoiga-launches-on-steam-at-10-off/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T16:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000714677",
       "title": "Square Enix Finally Gives Up And Lets Players Turn Off Adventures Of Elliot\u2019s Annoying Fairy Entirely",
       "url": "https://kotaku.com/the-adventures-of-elliot-update-fairy-shut-up-2000714677",
@@ -1763,6 +1715,30 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-07-10T19:41:55+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714753",
+      "title": "Assassin\u2019s Creed Black Flag Resynced Unit Sales Figures Are The First Ubisoft Has Released In Many Years",
+      "url": "https://kotaku.com/ubisoft-actual-sales-figure-assassins-creed-black-flag-resynced-2000714753",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T19:57:50+00:00"
+    },
+    {
+      "guid": "yZ47Nqt5iBxbXuqBKVyVHm",
+      "title": "Palworld revises some of its most egregious creature designs for its 1.0 release",
+      "url": "https://www.pcgamer.com/games/survival-crafting/palworld-revises-some-of-its-most-egregious-creature-designs-for-its-1-0-release/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T19:53:18+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119341",
+      "title": "Splatoon 3 Splatoon Raiders Splatfest Starts Today",
+      "url": "https://www.siliconera.com/splatoon-3-splatoon-raiders-splatfest-starts-today/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T20:00:00+00:00"
     }
   ]
 }
