@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Cinder City Drops Its Absurd 64GB RAM Requirement After Player Backlash",
-      "tag": "cinder city",
-      "posted_at": "2026-07-03T13:27:02.540197+00:00",
-      "urls": [
-        "https://www.eurogamer.net/cinder-city-64-gb-ram-requirement-new-gpu-update"
-      ],
-      "article_titles": [
-        "As the memory crisis continues and players begin to complain, Cinder City drops 64GB RAM requirement and ups GPU requirement instead"
-      ]
-    },
-    {
       "headline": "Saudi-Owned Scopely Invests in Studio Founded by Umamusume: Pretty Derby Director",
       "tag": "umamusume: pretty derby",
       "posted_at": "2026-07-03T15:31:06.476688+00:00",
@@ -923,6 +912,17 @@
       "article_titles": [
         "\u2018Naruto\u2019 Movie Launches Global Casting Search to Find Actors to Play Live-Action Naruto, Sasuke and Sakura"
       ]
+    },
+    {
+      "headline": "Bethesda Union Members Are Marching in Protest Over Xbox's Latest Round of Job Cuts",
+      "tag": "bethesda",
+      "posted_at": "2026-07-10T14:00:52.046722+00:00",
+      "urls": [
+        "https://www.eurogamer.net/xbox-layoffs-bethesda-union-protest-plans"
+      ],
+      "article_titles": [
+        "\"We mean business\" - Bethesda union members to march in protest of sweeping Xbox job cuts"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1071,6 +1071,46 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-10T13:36:18+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/xbox-layoffs-bethesda-union-protest-plans",
+      "title": "\"We mean business\" - Bethesda union members to march in protest of sweeping Xbox job cuts",
+      "url": "https://www.eurogamer.net/xbox-layoffs-bethesda-union-protest-plans",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T13:52:02+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714624",
+      "title": "What The Hell Happened Between Negan And Maggie In The Walking Dead After I Stopped Looking?",
+      "url": "https://kotaku.com/walking-dead-city-maggie-negan-drunk-romance-relationship-2000714624",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T13:51:26+00:00"
+    },
+    {
+      "guid": "1816455",
+      "title": "Xbox CEO Joins Fed\u2019s Task Force To Help With Price Stability And Employment After She Raised Xbox Prices And Laid Of Staff",
+      "url": "https://www.gamespot.com/articles/xbox-ceo-joins-feds-task-force-to-help-with-price-stability-and-employment-after-she-raised-xbox-prices-and-laid-of-staff/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T13:32:22+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69456",
+      "title": "Hands-on preview:\u00a0Palworld\u2019s\u00a0official card game turns battles\u00a0and\u00a0Pal labor\u00a0into a surprisingly faithful TCG",
+      "url": "https://automaton-media.com/en/pr/hands-on-preview-palworlds-official-card-game-turns-battles-and-pal-labor-into-a-surprisingly-faithful-tcg/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743412",
+      "title": "Smilegate Recaps Successful Anime Expo 2026 Debut as MIRESI Draws Three-Hour Queues and Chaos Zero Nightmare Reveals New Season",
+      "url": "https://otakukart.com/smilegate-recaps-successful-anime-expo-2026-debut-as-miresi-draws-three-hour-queues-and-chaos-zero-nightmare-reveals-new-season/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T13:53:34+00:00"
     }
   ]
 }
