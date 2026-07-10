@@ -1001,14 +1001,6 @@
       "published_dt": "2026-07-10T14:30:02+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000714620",
-      "title": "PlayStation \u2018No Disc, No Buy\u2019 Boycott Immediately Splinters In The Face Of Black Ops Ports",
-      "url": "https://kotaku.com/playstation-no-disc-no-buy-boycott-immediately-splinters-in-the-face-of-black-ops-ports-2000714620",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T14:03:42+00:00"
-    },
-    {
       "guid": "2UfxDH85MUU7EdrZVmhbwZ",
       "title": "E-Ink faceplates for the Steam Machine are coming, but not from Valve",
       "url": "https://www.pcgamer.com/hardware/steam-machines/e-ink-faceplates-for-the-steam-machine-are-coming-but-not-from-valve/",
@@ -1031,14 +1023,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-10T14:11:04+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236978586",
-      "title": "Keanu Reeves Motorcycle Racing Series \u2018Hooligans\u2019 Debuts As Samsung TV Plus Revs Up Live Programming",
-      "url": "https://deadline.com/2026/07/keanu-reeves-motorcycle-racing-samsung-tv-plus-live-streaming-1236978586/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T14:02:22+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236806423",
@@ -1119,14 +1103,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-10T14:17:35+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743413",
-      "title": "Prime Video Reveals First Trailer for Sterling Point Ahead of Global Premiere on August 5",
-      "url": "https://otakukart.com/prime-video-reveals-first-trailer-for-sterling-point-ahead-of-global-premiere-on-august-5/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T14:05:35+00:00"
     },
     {
       "guid": "75c7a374-5da1-439a-9599-66eac51d17d3",
@@ -1951,6 +1927,38 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-10T17:58:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714747",
+      "title": "Doom Maker id Software Pushes Back Against Concerns About Its Future: \u2018We Still Have The Crew We Need To Build The Games And Tech We\u2019re Known For\u2019",
+      "url": "https://kotaku.com/doom-maker-id-software-pushes-back-against-concerns-about-its-future-we-still-have-the-crew-we-need-to-build-the-games-and-tech-were-known-for-2000714747",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T18:01:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979292",
+      "title": "Ariana Grande Will Not Be In \u2018American Horror Story\u2019 Season 13",
+      "url": "https://deadline.com/2026/07/ariana-grande-exits-ahs-season-13-1236979292/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T18:01:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806715",
+      "title": "Taylor Swift Paid NYC More Than $160,000 for Wedding Weekend Permit, Including Police Overtime",
+      "url": "https://variety.com/2026/music/news/taylor-swift-paid-nyc-police-overtime-wedding-1236806715/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T18:01:19+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/40k-competitive-innovations-in-11th-up-to-eleven-pt-2/",
+      "title": "[40k] Competitive Innovations in 11th: Up To Eleven pt.2",
+      "url": "https://www.tabletopbattles.com/40k-competitive-innovations-in-11th-up-to-eleven-pt-2/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T18:00:13+00:00"
     }
   ]
 }
