@@ -1034,22 +1034,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236978963",
-      "title": "\u2018House Of David\u2019 Renewed For Season 3 By Prime Video",
-      "url": "https://deadline.com/2026/07/house-of-david-renewed-season-3-prime-video-1236978963/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119325",
-      "title": "Uniqlo Selling One Piece Elbaph Arc Character Shirts",
-      "url": "https://www.siliconera.com/uniqlo-selling-one-piece-elbaph-arc-character-shirts/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T17:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000714670",
       "title": "Everything We Know About Fire Emblem: Fortune\u2019s Weave, The Switch 2\u2019s Big Strategy RPG",
       "url": "https://kotaku.com/fire-emblem-fortunes-weave-characters-combat-three-houses-sequel-2000714670",
@@ -1074,14 +1058,6 @@
       "published_dt": "2026-07-10T17:26:49+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236979230",
-      "title": "Elle Fanning And Julianne Moore To Star In Rebecca Miller\u2019s Next Film On Acclaimed Children\u2019s Book Author Margaret Wise Brown",
-      "url": "https://deadline.com/2026/07/elle-fanning-julianne-moore-margaret-wise-brown-1236979230/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236806513",
       "title": "Christopher Nolan Dedicates \u2018The Odyssey\u2019 to Late Imax Pioneer David Keighley",
       "url": "https://variety.com/2026/film/news/christopher-nolan-dedicates-the-odyssey-imax-david-keighley-1236806513/",
@@ -1090,28 +1066,12 @@
       "published_dt": "2026-07-10T17:14:02+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236806587",
-      "title": "\u2018House of David\u2019 Renewed for Season 3 at Amazon",
-      "url": "https://variety.com/2026/tv/news/house-of-david-renewed-season-3-amazon-1236806587/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236639331",
       "title": "Don\u2019t Remind \u2018Moana\u2019 Star Catherine Laga\u2019aia That She\u2019s a Nepo Baby, She Already Knows It",
       "url": "https://www.hollywoodreporter.com/movies/movie-features/catherine-lagaaia-moana-disney-nepo-baby-interview-1236639331/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-10T17:16:22+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203637",
-      "title": "Opinion: Help! I'm Obsessed With Rhythm Heaven Groove's Secret Beatspell Finale",
-      "url": "https://www.nintendolife.com/features/opinion-help-im-obsessed-with-rhythm-heaven-grooves-secret-beatspell-finale",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T17:00:00+00:00"
     },
     {
       "guid": "https://www.belloflostsouls.net/?p=612647",
@@ -1696,6 +1656,30 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-10T20:41:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979473",
+      "title": "Donald Trump Names Country Singer John Rich As Special Envoy For American Landowners; Focus Will Be On Fighting Large Wind And Solar Development",
+      "url": "https://deadline.com/2026/07/trump-john-rich-special-envoy-1236979473/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T20:59:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806835",
+      "title": "Dakota and Elle Fanning Starrer \u2018The Nightingale\u2019 Moves to March, Facing Off Against \u2018Sonic 4\u2019",
+      "url": "https://variety.com/2026/film/box-office/dakota-elle-fanning-nightingale-march-sonic-4-1236806835/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119347",
+      "title": "See the Danganronpa Celestia Ludenberg Nendoroid Prototype",
+      "url": "https://www.siliconera.com/see-the-danganronpa-celestia-ludenberg-nendoroid-prototype/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T21:00:00+00:00"
     }
   ]
 }
