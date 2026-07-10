@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Saudi-Owned Scopely Invests in Studio Founded by Umamusume: Pretty Derby Director",
-      "tag": "umamusume: pretty derby",
-      "posted_at": "2026-07-03T15:31:06.476688+00:00",
-      "urls": [
-        "https://www.eurogamer.net/scopely-investment-studio-auknow-saudi"
-      ],
-      "article_titles": [
-        "Saudi Arabia-owned Scopely continues its mobile investment spree with Umamusame: Pretty Derby director's new company Studio AuKnow"
-      ]
-    },
-    {
       "headline": "PlayStation's All-Digital Future Is \"Fairly Dramatic,\" Says Former Sony Boss Shawn Layden",
       "tag": "playstation",
       "posted_at": "2026-07-03T16:30:57.463230+00:00",
@@ -956,6 +945,54 @@
       "article_titles": [
         "PlayStation \u2018No Disc, No Buy\u2019 Boycott Immediately Splinters In The Face Of Black Ops Ports"
       ]
+    },
+    {
+      "headline": "Persona 4 Revival Gets a Yosuke Hanamura Character Trailer",
+      "tag": "persona 4 revival",
+      "posted_at": "2026-07-10T16:01:16.004902+00:00",
+      "urls": [
+        "https://www.siliconera.com/next-persona-4-revival-character-trailer-stars-yosuke-hanamura/",
+        "https://www.gematsu.com/2026/07/persona-4-revival-yosuke-hanamura-trailer"
+      ],
+      "article_titles": [
+        "Next Persona 4 Revival Character Trailer Stars Yosuke Hanamura",
+        "Persona 4 Revival \u2013 Yosuke Hanamura trailer"
+      ]
+    },
+    {
+      "headline": "Indie Dev Calls Out Valve for Opaque Steam Censorship: \"Not Interested in a Nuanced Conversation\"",
+      "tag": "steam",
+      "posted_at": "2026-07-10T16:01:16.089274+00:00",
+      "urls": [
+        "https://www.pcgamer.com/software/platforms/valve-isnt-interested-in-a-nuanced-conversation-says-indie-dev-suffering-from-steam-censorship/"
+      ],
+      "article_titles": [
+        "'Valve isn't interested in a nuanced conversation' says indie dev suffering from Steam censorship"
+      ]
+    },
+    {
+      "headline": "Steam Is Reportedly on Track for Yet Another Record Year as Xbox and PlayStation Stumble",
+      "tag": "steam",
+      "posted_at": "2026-07-10T16:01:16.215844+00:00",
+      "urls": [
+        "https://www.eurogamer.net/valve-steam-revenue-2026-record"
+      ],
+      "article_titles": [
+        "As Xbox and PlayStation flounder, Steam is reportedly having another record year"
+      ]
+    },
+    {
+      "headline": "Palworld 1.0 Is Quietly Redesigning Pals \u2014 and Fans Say They Look Less Like Pok\u00e9mon Now",
+      "tag": "palworld",
+      "posted_at": "2026-07-10T16:01:16.301905+00:00",
+      "urls": [
+        "https://www.ign.com/articles/better-late-than-never-palworld-10-quietly-changes-the-designs-of-some-creatures-to-look-less-like-the-pokemon-they-resembled",
+        "https://www.gamesradar.com/games/survival/palworld-1-0-redesigns-multiple-pals-and-makes-them-look-less-like-pokemon/"
+      ],
+      "article_titles": [
+        "Palworld 1.0 Players Spot a Number of Pal Redesigns \u2014 and Some Say They Now Look Less Like the Pok\u00e9mon They Resembled",
+        "Palworld 1.0 redesigns multiple Pals and makes them look less like Pokemon"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1576,6 +1613,198 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-07-10T15:00:00+00:00"
+    },
+    {
+      "guid": "bfc18b32-239b-4e2d-9ed3-662c5c8d0255",
+      "title": "Amazon Opens Invites for Rare Pok\u00e9mon TCG Boxes and Bundles in the UK",
+      "url": "https://www.ign.com/articles/amazon-uk-pokemon-tcg-invite-only-etbs",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:48:34+00:00"
+    },
+    {
+      "guid": "f3490464-54a6-4a6e-b191-3b9be776eae5",
+      "title": "The GTA 3 Mission That Reinvented It All",
+      "url": "https://www.ign.com/articles/the-gta-3-mission-that-reinvented-it-all",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:30:00+00:00"
+    },
+    {
+      "guid": "21ed58b0-399e-4000-9fa7-48dcc1adca2a",
+      "title": "Palworld 1.0 Players Spot a Number of Pal Redesigns \u2014 and Some Say They Now Look Less Like the Pok\u00e9mon They Resembled",
+      "url": "https://www.ign.com/articles/better-late-than-never-palworld-10-quietly-changes-the-designs-of-some-creatures-to-look-less-like-the-pokemon-they-resembled",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:28:17+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/valve-steam-revenue-2026-record",
+      "title": "As Xbox and PlayStation flounder, Steam is reportedly having another record year",
+      "url": "https://www.eurogamer.net/valve-steam-revenue-2026-record",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:52:57+00:00"
+    },
+    {
+      "guid": "99FEMVZdd7iEkz4E9L4QBQ",
+      "title": "'Valve isn't interested in a nuanced conversation' says indie dev suffering from Steam censorship",
+      "url": "https://www.pcgamer.com/software/platforms/valve-isnt-interested-in-a-nuanced-conversation-says-indie-dev-suffering-from-steam-censorship/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:56:35+00:00"
+    },
+    {
+      "guid": "uerTRP2xkLJ8DD2ks9GN9N",
+      "title": "Asus ZenBook A16 review",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/asus-zenbook-a16-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:44:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979194",
+      "title": "\u2018Obsession\u2019 Sets Mid-July Streaming Date On Peacock",
+      "url": "https://deadline.com/2026/07/obsession-peacock-date-1236979194/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:34:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806616",
+      "title": "\u2018Top Boy\u2019 Star Micheal Ward Found Not Guilty of Rape and Sexual Assault",
+      "url": "https://variety.com/2026/tv/global/top-boy-star-micheal-ward-found-not-guilty-rape-1236806616/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:59:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806455",
+      "title": "\u2018Star Trek\u2019 Sets 60th Anniversary & \u2018Strange New Worlds\u2019 Comic-Con Hall H Panels, Fan Screening, Activations (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/star-trek-60th-strange-new-worlds-comic-con-hall-h-1236806455/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236806523",
+      "title": "Cathy Payne to Lead Banijay\u2019s Combined Distribution Arm Following All3Media Merger as Louise Pedersen Steps Down",
+      "url": "https://variety.com/2026/tv/global/cathy-payne-banijay-all3media-merger-louise-pedersen-1236806523/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:35:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236642036",
+      "title": "\u2018Little House on the Prairie\u2019 Showrunner on the Spirit of the Netflix Adaptation and Its Parallels With \u2018The Boys\u2019: \u201cAmerica Is a Myth-Maker\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/netflix-little-house-on-the-prairie-adaptation-the-boys-1236642036/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236643045",
+      "title": "The Woman Who Cast 14 James Bonds Has Thoughts on Who Should Play 007 Next",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-casting-director-next-actor-karlovy-vary-1236643045/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T15:35:02+00:00"
+    },
+    {
+      "guid": "kaK7iDrYQUTrbcfagBRxP8",
+      "title": "Bethesda's last Skyrim concept artist has been laid off after \"almost 18 years of dedication to The Elder Scrolls, Fallout, and Starfield\" amid Xbox cuts: \"It has been my honor\"",
+      "url": "https://www.gamesradar.com/games/bethesdas-last-skyrim-concept-artist-has-been-laid-off-after-almost-18-years-of-dedication-to-the-elder-scrolls-fallout-and-starfield-amid-xbox-cuts-it-has-been-my-honor/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:50:09+00:00"
+    },
+    {
+      "guid": "STQswHMg5iUBzETjDaz3fM",
+      "title": "All Animal Pelt, Skin and Hide locations in Black Flag Resynced",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/black-flag-resynced-pelts-skin-hide/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:45:45+00:00"
+    },
+    {
+      "guid": "1816600",
+      "title": "Xbox Is Teasing Something Big For Next Week Amid Disc-To-Digital Rumors",
+      "url": "https://www.gamespot.com/articles/xbox-is-teasing-something-big-for-next-week-amid-disc-to-digital-rumors/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:47:48+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203661",
+      "title": "Brazil Is Taking On Digital Games Ownership and Preservation After Sony Says No More Discs",
+      "url": "https://www.pushsquare.com/news/2026/07/brazil-is-taking-on-digital-games-ownership-and-preservation-after-sony-says-no-more-discs",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119322",
+      "title": "Next Persona 4 Revival Character Trailer Stars Yosuke Hanamura",
+      "url": "https://www.siliconera.com/next-persona-4-revival-character-trailer-stars-yosuke-hanamura/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203148",
+      "title": "The AYANEO Pocket Micro 2 Is Coming Back In Stock, Adds New 6GB + 128GB Stardust Purple Edition",
+      "url": "https://www.timeextension.com/news/2026/07/the-ayaneo-pocket-micro-2-is-coming-back-in-stock-adds-new-6gb-plus-128gb-stardust-purple-edition",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:30:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69476",
+      "title": "Showa-era Japan visual novel Be Missed and Remembered: The Letter from Mayoiga launches on Steam at 10% off",
+      "url": "https://automaton-media.com/en/news/showa-era-japan-visual-novel-be-missed-and-remembered-the-letter-from-mayoiga-launches-on-steam-at-10-off/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743409",
+      "title": "Chitose Is in the Ramune Bottle Returns This October With Second Cour",
+      "url": "https://otakukart.com/chitose-is-in-the-ramune-bottle-returns-this-october-with-second-cour/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:51:57+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743445",
+      "title": "Dragon Age\u2019s Former Lead Writer Wants to Revive the RPG by Returning to Its \u201cDark and Dangerous\u201d Roots",
+      "url": "https://otakukart.com/dragon-ages-former-lead-writer-wants-to-revive-the-rpg-by-returning-to-its-dark-and-dangerous-roots/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:49:58+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743420",
+      "title": "HANABIE. Performs Opening Theme for Young Ladies Don\u2019t Play Fighting Games Anime",
+      "url": "https://otakukart.com/hanabie-performs-opening-theme-for-young-ladies-dont-play-fighting-games-anime/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:47:09+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743444",
+      "title": "Warhammer 40,000\u2019s Beloved Necron Novel The Infinite and the Divine Is Officially Getting a Sequel",
+      "url": "https://otakukart.com/warhammer-40000-the-infinite-and-the-divine-sequel-announced/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:41:56+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743435",
+      "title": "Sgt. Frog Stage Musical Reveals Full Key Visual Ahead of September Tokyo Run",
+      "url": "https://otakukart.com/sgt-frog-stage-musical-reveals-full-key-visual-ahead-of-september-tokyo-run/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-10T15:34:11+00:00"
     }
   ]
 }
