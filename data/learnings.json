@@ -1034,62 +1034,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000714670",
-      "title": "Everything We Know About Fire Emblem: Fortune\u2019s Weave, The Switch 2\u2019s Big Strategy RPG",
-      "url": "https://kotaku.com/fire-emblem-fortunes-weave-characters-combat-three-houses-sequel-2000714670",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:00:50+00:00"
-    },
-    {
-      "guid": "WzZCc7tDWGURB8rAzDHbm",
-      "title": "Indie dev defends criticism of Steam refund abuse amid review bombing of his game: 'It's wrong to refund a game after having fun with it and completing it'",
-      "url": "https://www.pcgamer.com/gaming-industry/indie-dev-defends-criticism-of-steam-refund-abuse-amid-review-bombing-of-his-game-its-wrong-to-refund-a-game-after-having-fun-with-it-and-completing-it/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:08:51+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236979243",
-      "title": "Death Of Former MP & UK Reality Star Ann Widdecombe Being Investigated As Murder",
-      "url": "https://deadline.com/2026/07/ann-widdecombe-death-homicide-1236979243/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:26:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236806513",
-      "title": "Christopher Nolan Dedicates \u2018The Odyssey\u2019 to Late Imax Pioneer David Keighley",
-      "url": "https://variety.com/2026/film/news/christopher-nolan-dedicates-the-odyssey-imax-david-keighley-1236806513/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:14:02+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236639331",
-      "title": "Don\u2019t Remind \u2018Moana\u2019 Star Catherine Laga\u2019aia That She\u2019s a Nepo Baby, She Already Knows It",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/catherine-lagaaia-moana-disney-nepo-baby-interview-1236639331/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:16:22+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=612647",
-      "title": "A Look At D&D\u2019s New Living Spells Reveals Magical Mayhem",
-      "url": "https://www.belloflostsouls.net/2026/07/a-look-at-dds-new-living-spells-reveals-magical-mayhem.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-10T17:15:00+00:00"
-    },
-    {
-      "guid": "ac75836d-028f-4f04-a8cf-9da291452c9f",
-      "title": "Save 50% Off Anker's Newly Released SOLIX S2000 2,048Wh 2,400W LiFePO4 Power Station",
-      "url": "https://www.ign.com/articles/new-release-anker-solix-s2000-lifepo4-power-station-deal",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T17:30:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000714728",
       "title": "EU Can\u2019t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner",
       "url": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728",
@@ -1679,6 +1623,54 @@
       "url": "https://www.siliconera.com/see-the-danganronpa-celestia-ludenberg-nendoroid-prototype/",
       "source_name": "Siliconera",
       "source_tier": 2,
+      "published_dt": "2026-07-10T21:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714776",
+      "title": "\u2018Gay As A Service\u2019 Game Bundle Impossible To Find On Steam Because \u2018Compliance-In-Advance Is Never Enough To Appease A Zealous Censor\u2019",
+      "url": "https://kotaku.com/robert-yang-radiator-forever-steam-censorship-collective-shout-2000714776",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:26:09+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714755",
+      "title": "Ubisoft Says Assassin\u2019s Creed Black Flag Resynced Is The \u2018Full, Complete Experience\u2019 As Negative Steam Reviews Pile Up Over Microtransactions",
+      "url": "https://kotaku.com/ubisoft-says-assassins-creed-black-flag-resynced-is-the-full-complete-experience-as-negative-steam-reviews-pile-up-over-microtransactions-2000714755",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:00:36+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979461",
+      "title": "\u2018Boston Blue\u2019 Promo Reveals Season 2 Release Date",
+      "url": "https://deadline.com/2026/07/boston-blue-season-2-release-date-promo-1236979461/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:11:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979469",
+      "title": "Christopher Nolan Dismisses \u2018The Odyssey\u2019 Casting Backlash As \u201cIrrelevant\u201d: \u201cThat\u2019s What Adaptation Is\u201d",
+      "url": "https://deadline.com/2026/07/christopher-nolan-dismisses-the-odyssey-casting-backlash-1236979469/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:10:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236979479",
+      "title": "Fanning Sisters WWII Movie \u2018The Nightingale\u2019 Flies Closer To Easter 2027",
+      "url": "https://deadline.com/2026/07/the-nightingale-releae-date-change-elle-fanning-dakota-fanning-1236979479/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-10T21:01:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236644174",
+      "title": "Dakota Fanning and Elle Fanning\u2019s \u2018The Nightingale\u2019 Shifts to March 2027",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dakota-fanning-and-elle-fannings-the-nightingale-1236644174/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
       "published_dt": "2026-07-10T21:00:00+00:00"
     }
   ]
