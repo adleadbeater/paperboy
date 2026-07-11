@@ -1032,5 +1032,78 @@
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": []
+  "article_cache": [
+    {
+      "guid": "https://www.eurogamer.net/eu-cannot-stop-sony-killing-physical-discs",
+      "title": "EU admits it cannot stop Sony killing physical discs \u2013 \"companies are free to offer games and services in the manner that they see fit\"",
+      "url": "https://www.eurogamer.net/eu-cannot-stop-sony-killing-physical-discs",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T14:10:55+00:00"
+    },
+    {
+      "guid": "iTMebftvNhSJAvPHBj2Qy6",
+      "title": "Star Citizen's next update will switch focus to fixing its bug-riddled previous update, with bigger changes shunted to a later patch",
+      "url": "https://www.pcgamer.com/games/mmo/star-citizens-next-update-will-switch-focus-to-fixing-its-bug-riddled-previous-update-with-bigger-changes-shunted-to-a-later-patch/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T14:00:00+00:00"
+    },
+    {
+      "guid": "5aiCRf4aQt5aSVhyFCY9q8",
+      "title": "After 17 years, a developer has finally revived the dream of Hannah Montana Linux, an open source operating system themed around Hannah Montana",
+      "url": "https://www.pcgamer.com/software/operating-systems/after-17-years-a-developer-has-finally-revived-the-dream-of-hannah-montana-linux-an-open-source-operating-system-themed-around-hannah-montana/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T13:51:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236644450",
+      "title": "Antoinette Bower, \u2018Star Trek,\u2019 \u2018Twilight Zone\u2019 and \u2018Prom Night\u2019 Actress, Dies at 93",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/antoinette-bower-dead-star-trek-twilight-zone-prom-night-1236644450/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T14:01:58+00:00"
+    },
+    {
+      "guid": "cDV6fVSrAo2AVCdmHfGczW",
+      "title": "\"Single-player, narrative-driven gaming is here to stay,\" ex-PlayStation boss says: \"It's how we built this business. That's what sustains it\"",
+      "url": "https://www.gamesradar.com/games/single-player-narrative-driven-gaming-is-here-to-stay-ex-playstation-boss-says-its-how-we-built-this-business-thats-what-sustains-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743614",
+      "title": "Fantasia 2026 Reveals Anime Lineup Featuring CloverWorks\u2019 GROTESQQQUE, Junji Ito\u2019s New Live-Action Series, and More",
+      "url": "https://otakukart.com/fantasia-2026-reveals-anime-lineup-featuring-cloverworks-grotesqqque-junji-itos-new-live-action-series-and-more/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T14:09:25+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1743612",
+      "title": "Newly Surfaced Pok\u00e9mon Company Document Shows Past Plans to Raise Pok\u00e9mon Game Prices Above $60 and Encourage Double-Version Purchases",
+      "url": "https://otakukart.com/newly-surfaced-pokemon-company-document-shows-past-plans-to-raise-pokemon-game-prices-above-60-and-encourage-double-version-purchases/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T13:59:14+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=612560",
+      "title": "\u2018Twilight Sword\u2019 The Zelda-Inspired TTRPG, Lands On DriveThruRPG",
+      "url": "https://www.belloflostsouls.net/2026/07/twilight-sword-the-zelda-inspired-ttrpg-lands-on-drivethrurpg.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T14:00:00+00:00"
+    },
+    {
+      "guid": "t3_1utl3kd",
+      "title": "Nathan Brown: Xbox\u2019s hardware and Advanced Technology departments have been hollowed out",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1utl3kd/nathan_brown_xboxs_hardware_and_advanced/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T14:08:16+00:00"
+    }
+  ]
 }
