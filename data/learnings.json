@@ -1034,46 +1034,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "RQEHb3Q5DKs4kMXL9zgeGc",
-      "title": "Steam has raked in an estimated $11.1 billion gross revenue so far this year, says market analyst\u2014its 'biggest-ever six months'",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-has-raked-in-an-estimated-usd11-1-billion-gross-revenue-so-far-this-year-says-market-analyst-its-biggest-ever-six-months/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T17:09:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236979843",
-      "title": "Larry Birkhead \u201cNot Involved\u201d With Anna Nicole Smith Movie Based On Dr. Sandeep Kapoor\u2019s Book, Filed Complaint With California Medical Board",
-      "url": "https://deadline.com/2026/07/larry-birkhead-anna-nicole-smith-movie-dr-kapoor-complaint-1236979843/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T17:22:39+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236644503",
-      "title": "\u2018Moana\u2019 Failing to Make Box Office Splash With $45M Opening",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/moana-box-office-disney-opening-evil-dead-burn-1236644503/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T16:58:13+00:00"
-    },
-    {
-      "guid": "uKT4aepYsK9w6xz85UoBfC",
-      "title": "Clair Obscur: Expedition 33 devs were told that \"no one\" would like one of the RPG's best systems before it launched, lead says: \"We didn't care\"",
-      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-devs-were-told-that-no-one-would-like-one-of-the-rpgs-best-systems-before-it-launched-lead-says-we-didnt-care/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=612530",
-      "title": "D&D: Five Monsters That Make Great Party Companions",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-five-monsters-that-make-great-party-companions.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T17:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000714972",
       "title": "EA Reverses Course On College Football 27 Microtransactions Following Player Revolt",
       "url": "https://kotaku.com/ea-sports-reverses-course-on-college-football-microtransactions-following-player-revolt-2000714972",
@@ -1224,6 +1184,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-11T20:34:28+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/soulframe-warsong-trailer-spiderman-3-edgy-mount-fishing",
+      "title": "\"This is our Spider-Man 3\" - Soulfame's Warsong update adds \"edgelord\" progression path later this year",
+      "url": "https://www.eurogamer.net/soulframe-warsong-trailer-spiderman-3-edgy-mount-fishing",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T21:27:08+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000714986",
+      "title": "Official Avengers: Doomsday Art Gives Clearest Look At Returning X-Men, Mystique\u2019s Awful New Haircut",
+      "url": "https://kotaku.com/official-avengers-doomsday-art-gives-clearest-look-at-returning-x-men-mystiques-awful-new-haircut-2000714986",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T21:27:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236644558",
+      "title": "Christopher Nolan Addresses \u2018The Odyssey\u2019 Backlash, Explains Why Film Uses Modern Dialogue",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-christopher-nolan-backlash-modern-dialogue-1236644558/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T21:14:14+00:00"
     }
   ]
 }
