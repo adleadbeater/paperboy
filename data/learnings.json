@@ -1034,62 +1034,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000714977",
-      "title": "Microsoft Responds To Racist Conspiracy Theories About Layoffs: \u2018They Were Not Made To Replace Employees With Foreign Workers\u2019",
-      "url": "https://kotaku.com/xbox-responds-to-racist-conspiracy-theories-about-layoffs-they-were-not-made-to-replace-employees-with-foreign-workers-2000714977",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T19:08:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236979877",
-      "title": "Barbara Ling Dead: \u2018Michael\u2019 & \u2018Once Upon a Time in Hollywood\u2019 Production Designer Was 73",
-      "url": "https://deadline.com/2026/07/barbara-ling-dead-michael-production-designer-1236979877/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T19:14:16+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203695",
-      "title": "Marvel Tokon's Single Player Penned by Kieron Gillen, Features Five Stories and Boss Fights",
-      "url": "https://www.pushsquare.com/news/2026/07/marvel-tokons-single-player-penned-by-kieron-gillen-features-five-stories-and-boss-fights",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T19:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743723",
-      "title": "Assassin\u2019s Creed Unity Lead Says the Game\u2019s Ambition Led to Its Rocky Launch: \u201cWe Pushed Too Many Things at Once\u201d",
-      "url": "https://otakukart.com/assassins-creed-unity-lead-says-the-games-ambition-led-to-its-rocky-launch-we-pushed-too-many-things-at-once/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T19:29:06+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743722",
-      "title": "Assassin\u2019s Creed Black Flag Resynced Breaks Steam Franchise Record With 2 Million Day-One Sales",
-      "url": "https://otakukart.com/assassins-creed-black-flag-resynced-breaks-steam-franchise-record-with-2-million-day-one-sales/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T19:22:53+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1743721",
-      "title": "EA Removes College Football 27 Paid Progression From Road to Glory and Online Dynasty After Massive Player Backlash",
-      "url": "https://otakukart.com/ea-removes-college-football-27-paid-progression-from-road-to-glory-and-online-dynasty-after-massive-player-backlash/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T19:13:27+00:00"
-    },
-    {
-      "guid": "t3_1uttfoo",
-      "title": "The next season of Fortnite will be all gaming characters with Crash Bandicoot, Sonic, Mega Man and Kingdom Hearts among the collabs",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uttfoo/the_next_season_of_fortnite_will_be_all_gaming/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T19:34:43+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1743724",
       "title": "Paddle Paddle Paddle Dev Says Steam\u2019s Two-Hour Refund Rule Makes It \u201cSuper Easy\u201d to Abuse Short Games",
       "url": "https://otakukart.com/paddle-paddle-paddle-dev-says-steams-two-hour-refund-rule-makes-it-super-easy-to-abuse-short-games/",
@@ -1192,6 +1136,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-11T22:06:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236807336",
+      "title": "Emmy Nominations Roundtable: \u2018The Pitt\u2019 and \u2018Hacks\u2019 Dominate, But \u2018Widow\u2019s Bay\u2019 and \u2018Pluribus\u2019 Are Waiting in the Wings",
+      "url": "https://variety.com/2026/tv/awards/emmy-nominations-roundtable-the-pitt-hacks-podcast-1236807336/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T23:22:38+00:00"
+    },
+    {
+      "guid": "t3_1utyqia",
+      "title": "New scrapped MultiVersus leak showcases original cartoon-based Beetlejuice appearance, along with a scrapped Samurai Jack stage",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1utyqia/new_scrapped_multiversus_leak_showcases_original/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T23:17:54+00:00"
     }
   ]
 }
