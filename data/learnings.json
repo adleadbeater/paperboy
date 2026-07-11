@@ -1034,36 +1034,20 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "XPk9rcxbEPr8jaa7vGcHwE",
-      "title": "Matthew Ball was hired to help fix Xbox. Will gamers like what he prescribes?",
-      "url": "https://www.pcgamer.com/gaming-industry/matthew-ball-was-hired-to-help-fix-xbox-will-gamers-like-what-he-prescribes/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T23:33:08+00:00"
-    },
-    {
-      "guid": "https://variety.com/?post_type=pmc_list&p=1236805906",
-      "title": "\u2018Moana\u2019 Cast Guide: Every Live-Action Character vs. the Original Animation",
-      "url": "https://variety.com/lists/moana-cast-characters-live-action-animated/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T23:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236643812",
-      "title": "Strawberries, Cream and A-Listers: Why Every Celebrity Wants to Be Seen at Wimbledon Right Now",
-      "url": "https://www.hollywoodreporter.com/news/general-news/wimbledon-final-tennis-celebrities-garfield-barbaro-sinner-1236643812/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-10T23:40:39+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236979775",
       "title": "Don Iwerks Dead: Former Disney Exec & Cinematic Innovator Was 96",
       "url": "https://deadline.com/2026/07/don-iwerks-dead-disney-exec-1236979775/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-11T03:04:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236644425",
+      "title": "Don Iwerks, Disney Camera and Projection Pioneer, Dies at 96",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/don-iwerks-dead-disney-camera-legend-1236644425/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T03:47:32+00:00"
     }
   ]
 }
