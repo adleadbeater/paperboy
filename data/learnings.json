@@ -1034,46 +1034,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000714972",
-      "title": "EA Reverses Course On College Football 27 Microtransactions Following Player Revolt",
-      "url": "https://kotaku.com/ea-sports-reverses-course-on-college-football-microtransactions-following-player-revolt-2000714972",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T18:01:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236979858",
-      "title": "Dwayne Johnson Tried To Revive \u2018The Odd Couple\u2019 On Broadway With Kevin Hart: \u201cNot Letting That Dream Go\u201d",
-      "url": "https://deadline.com/2026/07/dwayne-johnson-tried-revive-odd-couple-broadway-kevin-hart-1236979858/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T17:57:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236805828",
-      "title": "\u2018The Five-Star Weekend\u2019 Creator on Changes From the Book, Jennifer Garner\u2019s Input on the Infidelity Story and Wanting to Do More Seasons With the Same Cast",
-      "url": "https://variety.com/2026/tv/news/the-five-star-weekend-changes-from-book-doing-more-seasons-1236805828/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236807254",
-      "title": "World Cup Viewership Propels Telemundo and Peacock, Smashing TV Ratings Records",
-      "url": "https://variety.com/2026/tv/news/world-cup-telemundo-peacock-record-ratings-universo-1236807254/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T17:59:06+00:00"
-    },
-    {
-      "guid": "xrKMghExAzKaayuzYhyzan",
-      "title": "Famously buggy Assassin's Creed Unity \"is one of the most underestimated games in the series,\" says lead who admits its \"launch was a huge challenge\"",
-      "url": "https://www.gamesradar.com/games/assassin-s-creed/famously-buggy-assassins-creed-unity-is-one-of-the-most-underestimated-games-in-the-series-says-lead-who-admits-its-launch-was-a-huge-challenge/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-11T18:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000714977",
       "title": "Microsoft Responds To Racist Conspiracy Theories About Layoffs: \u2018They Were Not Made To Replace Employees With Foreign Workers\u2019",
       "url": "https://kotaku.com/xbox-responds-to-racist-conspiracy-theories-about-layoffs-they-were-not-made-to-replace-employees-with-foreign-workers-2000714977",
@@ -1208,6 +1168,30 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-11T21:14:14+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos",
+      "title": "Warframe's next major update blends Blade Runner, The Sopranos, and film noir in a whole new solar system, coming later this year",
+      "url": "https://www.eurogamer.net/warframe-tau-tennocon-reveal-blade-runner-sopranos",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-11T22:22:20+00:00"
+    },
+    {
+      "guid": "zE4sAuN5mdQHqU5giJpt6k",
+      "title": "Warframe lead Rebecca Ford says Destiny 2's death is \"horrible news\" for everyone: \"Not the first time it's happened, and it'll happen again\"",
+      "url": "https://www.gamesradar.com/games/destiny/warframe-lead-rebecca-ford-says-destiny-2s-death-is-horrible-news-for-everyone-not-the-first-time-its-happened-and-itll-happen-again/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T22:00:00+00:00"
+    },
+    {
+      "guid": "t3_1utx4m5",
+      "title": "Ryse: Son of Rome Had Plans To Be Xbox\u2019s Assassin\u2019s Creed",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1utx4m5/ryse_son_of_rome_had_plans_to_be_xboxs_assassins/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-11T22:06:32+00:00"
     }
   ]
 }
