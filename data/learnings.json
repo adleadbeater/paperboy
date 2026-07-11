@@ -1032,22 +1032,5 @@
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1236979775",
-      "title": "Don Iwerks Dead: Former Disney Exec & Cinematic Innovator Was 96",
-      "url": "https://deadline.com/2026/07/don-iwerks-dead-disney-exec-1236979775/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T03:04:19+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236644425",
-      "title": "Don Iwerks, Disney Camera and Projection Pioneer, Dies at 96",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/don-iwerks-dead-disney-camera-legend-1236644425/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-11T03:47:32+00:00"
-    }
-  ]
+  "article_cache": []
 }
