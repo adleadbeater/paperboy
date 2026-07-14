@@ -869,36 +869,20 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.pushsquare.com/#article-203749",
-      "title": "Gawrsh! Kingdom Hearts 'Deep Dive' Locked for D23 Next Month",
-      "url": "https://www.pushsquare.com/news/2026/07/gawrsh-kingdom-hearts-deep-dive-locked-for-d23-next-month",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-13T23:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236981051",
-      "title": "\u2018Moana\u2019 Doesn\u2019t Sing With $95M+ WW Opening; Stephen Chow Kicks Up $74M With \u2018Kung Fu Soccer\u2019 \u2013 Global Box Office Update",
-      "url": "https://deadline.com/2026/07/box-office-global-moana-kung-fu-soccer-evil-dead-burn-1236981051/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T23:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236981450",
-      "title": "Blake Garrett Cause Of Death Revealed",
-      "url": "https://deadline.com/2026/07/blake-garrett-cause-of-death-former-child-actor-1236981450/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T23:24:24+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236981542",
       "title": "State AGs Seek Temporary Restraining Order To Pause Paramount-Warner Bros. Discovery Merger",
       "url": "https://deadline.com/2026/07/paramount-warner-bros-merger-temporary-restraining-order-1236981542/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-14T03:08:13+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203751",
+      "title": "Rumour: Nintendo Is Reportedly Considering A Switch 2 OLED Model",
+      "url": "https://www.nintendolife.com/news/2026/07/rumour-nintendo-is-reportedly-considering-a-switch-2-oled-model",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-14T03:30:00+00:00"
     }
   ]
 }
