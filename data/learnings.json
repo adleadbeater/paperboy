@@ -807,70 +807,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "aYSNT3Myux2yd2TwYq2T4T",
-      "title": "A forgotten dungeon crawler from the Baldur's Gate era is coming to Steam and GOG for the first time ever",
-      "url": "https://www.pcgamer.com/games/rpg/a-forgotten-dungeon-crawler-from-the-baldurs-gate-era-is-coming-to-steam-and-gog-for-the-first-time-ever/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T18:30:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236977645",
-      "title": "E. Jean Carroll Receives $5.63 Million Payment From Donald Trump In Sex Abuse And Defamation Case",
-      "url": "https://deadline.com/2026/07/trump-e-jean-carroll-verdict-damages-1236977645/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T18:46:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236981998",
-      "title": "Keith Carradine Joins Brie Larson In Sony Pictures Horror Thriller \u2018Skeletons\u2019",
-      "url": "https://deadline.com/2026/07/keith-carradine-brie-larson-skeletons-1236981998/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T18:36:55+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236808982",
-      "title": "Federation Spain, Chile\u2019s Alma Films Board Dominican Queer Period Horror \u2018Echoes\u2019 by Fantastic Lab Winner Kryzz Gautier",
-      "url": "https://variety.com/2026/film/global/echoes-kryzz-gautier-federation-alma-larimar-crmm-1236808982/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T18:51:56+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236647939",
-      "title": "\u2018Backrooms\u2019 Producer Chris Ferguson Signs First Look Deal With Warner Bros. Clockwork",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/backrooms-producer-chris-ferguson-wb-clockwork-1st-look-deal-1236647939/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T18:51:36+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236647446",
-      "title": "\u2018Black Money for White Nights\u2019 Review: A Cruel but Hilarious Bulgarian Take on Greed and Family Dysfunction",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/black-money-for-white-nights-review-1236647446/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T18:39:09+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236646453",
-      "title": "How BBC Studios\u2019 CEO Thinks About Mega-Mergers  Reshaping the Media Landscape",
-      "url": "https://www.hollywoodreporter.com/business/business-news/bluey-doctor-who-britbox-vertical-bbc-studios-tom-fussell-1236646453/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T18:38:27+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1063879",
-      "title": "Final Boss: The Video Game announced for PC \u2013 adaptation of Image Comics series",
-      "url": "https://www.gematsu.com/2026/07/final-boss-the-video-game-announced-for-pc-adaptation-of-image-comics-series",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-14T18:45:04+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000715911",
       "title": "Shirtless Man Starts Butlerian Jihad Against Waymo In East Hollywood",
       "url": "https://kotaku.com/shirtless-man-starts-butlerian-jihad-against-waymo-in-east-hollywood-2000715911",
@@ -1093,6 +1029,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-14T22:08:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236982364",
+      "title": "Marvel Boss Kevin Feige Set For 2026 Pioneer of the Year Honor",
+      "url": "https://deadline.com/2026/07/marvel-kevin-feige-pioneer-of-the-year-award-1236982364/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T22:59:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236648553",
+      "title": "After Nearly Two Decades on \u2018Dancing With the Stars,\u2019 Mark Ballas Earns His Seat at the Table",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/dancing-with-the-stars-next-pro-mark-ballas-judge-season-35-1236648553/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T23:11:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236648290",
+      "title": "TV Ratings: World Cup Quarterfinals Smash Previous U.S. Highs",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-2026-quarterfinals-tv-ratings-1236648290/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T22:57:17+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203794",
+      "title": "'Millions of Gamers Value True Ownership': PS5, PS4 Represented Half of All UK Physical Game Revenue in 2025",
+      "url": "https://www.pushsquare.com/news/2026/07/millions-of-gamers-value-true-ownership-ps5-ps4-represented-half-of-all-uk-physical-game-revenue-in-2025",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-14T23:00:00+00:00"
     }
   ]
 }
