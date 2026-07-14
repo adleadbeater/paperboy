@@ -869,220 +869,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "484681e3-8679-4ee1-a48e-95e50be48dda",
-      "title": "Astro Bot for PS5 Drops to Its Lowest Price Ever",
-      "url": "https://www.ign.com/articles/astro-bot-for-ps5-drops-to-its-lowest-price-ever",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:45:00+00:00"
-    },
-    {
-      "guid": "CukWEkophVSZmEobuACDkj",
-      "title": "One week after going independent in the Xbox bloodbath, South of Midnight developer Compulsion Games is looking for work",
-      "url": "https://www.pcgamer.com/gaming-industry/one-week-after-going-independent-in-the-xbox-bloodbath-south-of-midnight-developer-compulsion-games-is-looking-for-work/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:40:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236981012",
-      "title": "Michael Waldron Developing \u2018Nova\u2019 Movie At Marvel Studios",
-      "url": "https://deadline.com/2026/07/michael-waldron-nova-movie-marvel-studios-1236981012/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236642118",
-      "title": "New \u2018KPop Demon Hunters\u2019 Merch Drop Includes Collectible Huntr/x Singing Dolls",
-      "url": "https://variety.com/2026/shopping/news/best-kpop-demon-hunters-merch-buy-online-1236642118/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:52:04+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236809705",
-      "title": "Christopher Nolan Slams \u2018AI Slop\u2019 and Disagrees With Matt Damon\u2019s \u2018Defeatist\u2019 Opinion That \u2018The Odyssey\u2019 Is the Last Movie of Its Kind",
-      "url": "https://variety.com/2026/film/news/christopher-nolan-ai-slop-matt-damon-odyssey-defeatist-1236809705/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:49:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236809988",
-      "title": "Shi Nansun, Hong Kong Producer Behind \u2018Infernal Affairs,\u2019 Dies at 75",
-      "url": "https://variety.com/2026/film/obituaries-people-news/shi-nansun-dead-hong-kong-producer-infernal-affairs-1236809988/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:48:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236806695",
-      "title": "Prime Video\u2019s Docuseries \u2018Murder 101\u2019 Moves Beyond Crime to Showcase the Power of Community: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/murder-101-review-prime-video-1236806695/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:43:08+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236646440",
-      "title": "Finally a Sports Event Actually Built for Netflix",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/home-run-derby-2026-netflix-ads-the-hawk-will-ferrell-1236646440/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:50:03+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236646353",
-      "title": "Netflix Earnings Preview: Is the Stock an Ad Growth or an Engagement Challenge Story?",
-      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-earnings-preview-q2-2026-advertising-engagement-1236646353/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:41:20+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236633299",
-      "title": "\u2018Sugar\u2019 Boss Sam Catlin on Importing the \u2018Breaking Bad\u2019 Universe to Los Angeles",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/sugar-season-2-breaking-bad-showrunner-interview-1236633299/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T19:40:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000715317",
-      "title": "Fans Begging Xbox To \u2018Stop The Cycle Of Layoffs\u2019 Start Trending On Player Voice Portal",
-      "url": "https://kotaku.com/fans-begging-xbox-to-stop-the-cycle-of-layoffs-start-trending-on-player-voice-portal-2000715317",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T20:30:52+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000715325",
-      "title": "Someone Trapped Zelda: Tears Of The Kingdom\u2019s Ganondorf Inside A Hamster Wheel",
-      "url": "https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T20:15:58+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236981169",
-      "title": "PinkPantheress Making Feature Acting Debut In Daniels\u2019 Secret Event Pic At Universal",
-      "url": "https://deadline.com/2026/07/pinkpantheress-daniels-secret-movie-1236981169/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T20:30:40+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236646844",
-      "title": "Movie Theaters\u2019 Group Backs Lawsuit to Block Paramount Merger With Warner Bros.",
-      "url": "https://www.hollywoodreporter.com/business/business-news/warner-bros-paramount-opponents-attorney-general-suit-1236646844/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T20:21:20+00:00"
-    },
-    {
-      "guid": "RtgyriTY2SKjGqgwTZvx2J",
-      "title": "\"Consumers would stop truly owning their video games\": Death of PlayStation discs prompts lawmakers and consumer rights groups to push back",
-      "url": "https://www.gamesradar.com/games/consumers-would-stop-truly-owning-their-video-games-death-of-playstation-discs-prompts-lawmakers-and-consumer-rights-groups-to-push-back/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-13T20:26:33+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000715363",
-      "title": "My Chemical Romance Fans Ask Gerard Way If He\u2019s Played Baldur\u2019s Gate 3, And Now Larian Is Involved",
-      "url": "https://kotaku.com/baldurs-gate-3-my-chemical-romance-gerard-way-larian-2000715363",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T21:30:07+00:00"
-    },
-    {
-      "guid": "Lh3ZKkVwpAkbjivk8FpD9J",
-      "title": "Fallout: New Vegas director Josh Sawyer reveals his optimal outcome for the Mojave Wasteland",
-      "url": "https://www.pcgamer.com/games/fallout/fallout-new-vegas-director-josh-sawyer-reveals-his-optimal-outcome-for-the-mojave-wasteland/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T21:07:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236810065",
-      "title": "\u2018Hotel Transylvania 5\u2019 Sets October 2027 Release Date",
-      "url": "https://variety.com/2026/film/news/hotel-transylvania-5-release-date-1236810065/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T21:37:10+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236646977",
-      "title": "\u2018Summer House\u2019 Season 11 Cast Revealed",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/summer-house-season-11-cast-revealed-1236646977/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T21:37:03+00:00"
-    },
-    {
-      "guid": "kWVd3jcL7y4gWKfsgNmtGP",
-      "title": "Ubisoft says \"releasing a game too late\" could \"hinder its success\" as Far Cry 7 wait settles into fifth year",
-      "url": "https://www.gamesradar.com/games/ubisoft-says-releasing-a-game-too-late-could-hinder-its-success-as-far-cry-7-wait-settles-into-fifth-year/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-13T21:10:51+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000715345",
-      "title": "Aerial Knight\u2019s MrFreezy Turns Chopping Off Heads Into An Absorbing Brain-Teaser",
-      "url": "https://kotaku.com/aerial-knights-mrfreezy-turns-chopping-off-heads-into-an-absorbing-brain-teaser-2000715345",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T22:30:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236810127",
-      "title": "\u2018Cats: The Jellicle Ball\u2019 Ending Broadway Run in August",
-      "url": "https://variety.com/2026/legit/news/cats-the-jellicle-ball-ending-broadway-run-early-1236810127/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T22:34:59+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236810084",
-      "title": "Hudson Williams Confronts Fans Who Followed Him Home in Viral Video: \u2018Please F\u2014ing Leave\u2019",
-      "url": "https://variety.com/2026/tv/news/hudson-williams-confronts-fans-followed-him-home-autograph-1236810084/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T22:19:29+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236647030",
-      "title": "\u2018Avengers: Doomsday\u2019 Tickets to Go On Sale Next Week, Runtime Revealed (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-tickets-theaters-runtime-1236647030/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T22:28:40+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-203749",
       "title": "Gawrsh! Kingdom Hearts 'Deep Dive' Locked for D23 Next Month",
       "url": "https://www.pushsquare.com/news/2026/07/gawrsh-kingdom-hearts-deep-dive-locked-for-d23-next-month",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-13T23:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203748",
-      "title": "PS5's Call of Duty: Black Ops Port Reportedly Riddled with Hackers",
-      "url": "https://www.pushsquare.com/news/2026/07/ps5s-call-of-duty-black-ops-port-reportedly-riddled-with-hackers",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-13T23:00:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000715380",
-      "title": "I Hate The Pok\u00e9mon Worlds 2026 Ticket Lottery",
-      "url": "https://kotaku.com/i-hate-pokemon-worlds-2026-ticket-lottery-2000715380",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-13T23:08:45+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1236981051",
@@ -1101,12 +893,12 @@
       "published_dt": "2026-07-13T23:24:24+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236981042",
-      "title": "TriStar Pictures Lands Feature Rights To Trevor Henderson\u2019s Viral Internet IP \u2018Cartoon Cat\u2019",
-      "url": "https://deadline.com/2026/07/tristar-pictures-trevor-henderson-cartoon-cat-1236981042/",
+      "guid": "https://deadline.com/?p=1236981542",
+      "title": "State AGs Seek Temporary Restraining Order To Pause Paramount-Warner Bros. Discovery Merger",
+      "url": "https://deadline.com/2026/07/paramount-warner-bros-merger-temporary-restraining-order-1236981542/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-07-13T23:06:25+00:00"
+      "published_dt": "2026-07-14T03:08:13+00:00"
     }
   ]
 }
