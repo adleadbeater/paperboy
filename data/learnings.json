@@ -869,20 +869,44 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236981542",
-      "title": "State AGs Seek Temporary Restraining Order To Pause Paramount-Warner Bros. Discovery Merger",
-      "url": "https://deadline.com/2026/07/paramount-warner-bros-merger-temporary-restraining-order-1236981542/",
-      "source_name": "Deadline",
+      "guid": "https://www.eurogamer.net/next-gen-console-delay-blood-of-dawnwalker-developer",
+      "title": "A delayed next generation of consoles is \"better for us\", says The Blood of Dawnwalker director, as price rises continue to plague the industry",
+      "url": "https://www.eurogamer.net/next-gen-console-delay-blood-of-dawnwalker-developer",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-07-14T03:08:13+00:00"
+      "published_dt": "2026-07-14T12:29:13+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-203751",
-      "title": "Rumour: Nintendo Is Reportedly Considering A Switch 2 OLED Model",
-      "url": "https://www.nintendolife.com/news/2026/07/rumour-nintendo-is-reportedly-considering-a-switch-2-oled-model",
-      "source_name": "Nintendo Life",
+      "guid": "https://variety.com/?p=1236810440",
+      "title": "Iron Maiden Sells Music Catalog, Name, Image and Likeness Rights to Pophouse",
+      "url": "https://variety.com/2026/music/news/iron-maiden-sells-music-catalog-to-pophouse-1236810440/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T12:49:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236809266",
+      "title": "Fronti\u00e8res Buzzy Zombie Romcom \u2018Cold Feet\u2019 Adds Co-Pro Partners, Cast (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/cold-feet-zombie-romcom-frontieres-apoorva-satish-1236809266/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T12:39:59+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744211",
+      "title": "ARC Raiders Store Update 1.37.0 Adds Free Driftcoat Colors, Addresses Seeker Grenade Bug and Duplication Glitch Abuse",
+      "url": "https://otakukart.com/arc-raiders-store-update-1-37-0-adds-free-driftcoat-colors-addresses-seeker-grenade-bug-and-duplication-glitch-abuse/",
+      "source_name": "Otakukart",
       "source_tier": 2,
-      "published_dt": "2026-07-14T03:30:00+00:00"
+      "published_dt": "2026-07-14T12:35:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744210",
+      "title": "The First Descendant Server Maintenance Scheduled for July 15 Ahead of Update 1.3.34, Temporarily Taking the Game Offline",
+      "url": "https://otakukart.com/the-first-descendant-server-maintenance-scheduled-for-july-15-ahead-of-update-1-3-34-temporarily-taking-the-game-offline/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-14T12:23:58+00:00"
     }
   ]
 }
