@@ -807,110 +807,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000715911",
-      "title": "Shirtless Man Starts Butlerian Jihad Against Waymo In East Hollywood",
-      "url": "https://kotaku.com/shirtless-man-starts-butlerian-jihad-against-waymo-in-east-hollywood-2000715911",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T19:52:02+00:00"
-    },
-    {
-      "guid": "i2EJ9BUCibknPLSikbv8v",
-      "title": "After releasing a bummer of a Diablo 4 season, Blizzard swoops in with an update that fixes some of its worst issues",
-      "url": "https://www.pcgamer.com/games/rpg/after-releasing-a-bummer-of-a-diablo-4-season-blizzard-swoops-in-with-an-update-that-fixes-some-of-its-worst-issues/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T19:57:28+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236982226",
-      "title": "WGA Sues To Block Paramount-Warner Bros. Discovery Merger",
-      "url": "https://deadline.com/2026/07/wga-sues-over-paramount-warner-bros-discovery-merger-1236982226/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T19:50:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236810966",
-      "title": "\u2018The Lord of the Rings: The Hunt for Gollum\u2019 Starts Filming With First Set Footage of Andy Serkis Reviving Iconic Character",
-      "url": "https://variety.com/2026/film/news/lord-of-the-rings-hunt-for-gollum-filming-set-footage-1236810966/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T20:00:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236810902",
-      "title": "\u2018Far Cry\u2019 FX Series Casts Steve Buscemi",
-      "url": "https://variety.com/2026/tv/news/far-cry-fx-series-cast-steve-buscemi-1236810902/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T20:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236810972",
-      "title": "WGA Sues to Block Paramount-Warner Bros. Merger, Alleging Writers Will Be Paid Less and Have Fewer Opportunities if Deal Goes Through",
-      "url": "https://variety.com/2026/film/news/wga-sues-to-block-paramount-warner-bros-discovery-merger-1236810972/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T19:48:24+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236648052",
-      "title": "FX and Hulu\u2019s \u2018Far Cry\u2019 Adds Steve Buscemi",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/steve-buscemi-far-cry-fx-hulu-1236648052/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236648070",
-      "title": "Writers Guild Sues to Block Paramount-Warner Bros. Merger",
-      "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-sues-block-paramount-warner-bros-merger-1236648070/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T19:50:31+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236648046",
-      "title": "\u2018Love Island USA\u2019 Contestant Jen Terry Signs With Motive (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/business-news/love-island-usa-bombshell-jen-terry-1236648046/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T19:45:11+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119474",
-      "title": "Starbites Switch 2 Version Arrives After Almost 2 Months",
-      "url": "https://www.siliconera.com/starbites-switch-2-version-arrives-after-almost-2-months/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-14T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=613069",
-      "title": "D&D: Steinhardt\u2019s \u2018Circle Of Symbiosis Druid\u2019 Lets *You* Be The Eldritch Horror",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-steinhardts-circle-of-symbiosis-druid-lets-you-be-the-eldritch-horror.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-14T19:53:36+00:00"
-    },
-    {
-      "guid": "t3_1uwj3pa",
-      "title": "Epic Mickey Rebrushed is getting an android port",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uwj3pa/epic_mickey_rebrushed_is_getting_an_android_port/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-14T19:43:28+00:00"
-    },
-    {
-      "guid": "t3_1uwjj7a",
-      "title": "Assassin\u2019s creed codename: Hexe might have the location of Wuerzburg as an expansion for a season pass",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uwjj7a/assassins_creed_codename_hexe_might_have_the/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-14T19:59:31+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000715939",
       "title": "Monster Hunter Wilds Getting Permanent Price Cut Ahead Of Ascendance Expansion",
       "url": "https://kotaku.com/monster-hunter-wilds-getting-permanent-price-cut-ahead-of-ascendance-expansion-2000715939",
@@ -1061,6 +957,54 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-14T23:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236982438",
+      "title": "Christopher Nolan\u2019s \u2018The Odyssey\u2019 To Begin Epic Journey With Around $200M WW \u2013 Box Office Preview",
+      "url": "https://deadline.com/2026/07/box-office-the-odyssey-forecast-1236982438/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T23:50:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236810175",
+      "title": "Whether in \u2018Jurassic Park\u2019 or \u2018The Piano,\u2019 Sam Neill Put the Movies First",
+      "url": "https://variety.com/2026/film/obituaries-people-news/sam-neill-put-the-movies-first-jurassic-park-the-piano-1236810175/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T23:58:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236648503",
+      "title": "Lily Allen Downsizes Tour Dates From Arenas to Theaters For Upcoming U.S. Leg",
+      "url": "https://www.hollywoodreporter.com/music/music-news/lily-allen-downsizes-tour-dates-for-upcoming-us-leg-1236648503/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-14T23:56:08+00:00"
+    },
+    {
+      "guid": "YGT78LFAsKF3jUcmdVxDu4",
+      "title": "Layoffs might offer \"better short-term financial results,\" late Nintendo president Satoru Iwata admitted in 2013, but \"employees who fear that they may be laid off\" will never produce the same results",
+      "url": "https://www.gamesradar.com/games/layoffs-might-offer-better-short-term-financial-results-late-nintendo-president-satoru-iwata-admitted-in-2013-but-employees-who-fear-that-they-may-be-laid-off-will-never-produce-the-same-results/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-15T00:01:41+00:00"
+    },
+    {
+      "guid": "Htxzej6hiazxXgRxHpfHc",
+      "title": "Dead Space creator Glen Schofield is retiring: \"Times are tough right now, but the future ahead is really, really bright\"",
+      "url": "https://www.gamesradar.com/games/dead-space/dead-space-creator-glen-schofield-is-retiring-times-are-tough-right-now-but-the-future-ahead-is-really-really-bright/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-14T23:37:43+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119481",
+      "title": "Dragon\u2019s Dogma 2 Dark Arisen Has New Storyline, 12 Dungeons",
+      "url": "https://www.siliconera.com/dragons-dogma-2-dark-arisen-has-new-storyline-12-dungeons/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-15T00:00:00+00:00"
     }
   ]
 }
