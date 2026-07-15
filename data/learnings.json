@@ -571,126 +571,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "59eb3287-eee3-499b-93c6-a4224a74eca0",
-      "title": "Save 44% Off the PowerBlock Adjustable Dumbbells, Starts at 50 Pounds But Upgradeable to 90 Pounds",
-      "url": "https://www.ign.com/articles/powerblock-adjustable-dumbbell-deal-july",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:55:00+00:00"
-    },
-    {
-      "guid": "ce937bf3-cf10-425d-8b2b-3aae41f32cb4",
-      "title": "There Aren't Many Steam Machine Accessories Out There, But These Are the Best Ones Right Now",
-      "url": "https://www.ign.com/articles/best-steam-machine-accessories",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:48:51+00:00"
-    },
-    {
-      "guid": "2289b7a5-5872-4d12-b99f-18d1ff0e04b7",
-      "title": "Leon Kennedy's Voice Actor Says Capcom Cut His \"Favorite\" Line From Resident Evil Requiem",
-      "url": "https://www.ign.com/articles/leon-kennedys-voice-actor-says-capcom-cut-his-favorite-line-from-resident-evil-requiem",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:44:53+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236983118",
-      "title": "New \u2018G.I. Joe\u2019 Movie At Paramount To Be Directed By Danny McBride",
-      "url": "https://deadline.com/2026/07/g-i-joe-movie-danny-mcbride-1236983118/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:46:31+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236983076",
-      "title": "Attorney General Nominee Todd Blanche Grilled On DOJ\u2019s Greenlight Of Paramount-Warner Bros. Discovery Merger: \u201cI Was Part Of That Decision\u201d",
-      "url": "https://deadline.com/2026/07/todd-blanche-paramount-warner-bros-merger-1236983076/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:46:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236811772",
-      "title": "Suno Hack Shows How YouTube Music, Deezer and Genius Data Trained AI Music Generator\u2019s Models",
-      "url": "https://variety.com/2026/music/news/suno-hack-youtube-music-deezer-genius-data-trained-ai-music-1236811772/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:51:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236811852",
-      "title": "Jalen Brunson to Join Variety\u2019s Inaugural Sports & Entertainment Studio in New York",
-      "url": "https://variety.com/2026/biz/news/jalen-brunson-new-york-sports-entertainment-studio-1236811852/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:35:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236811805",
-      "title": "Neon Bringing Na Hong-Jin\u2019s \u2018Hope\u2019 to Comic-Con (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/neon-na-hong-jin-hope-comic-con-panel-1236811805/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236649240",
-      "title": "New York Sees Film and TV Spend Surge, California Halts Exodus For Now",
-      "url": "https://www.hollywoodreporter.com/business/business-news/new-york-film-tv-spend-california-production-1236649240/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-15T17:49:10+00:00"
-    },
-    {
-      "guid": "XqREzySaURjqpBjuhmq2LT",
-      "title": "The Odyssey debuts to 98% Rotten Tomatoes score, overtaking The Dark Knight as Christopher Nolan's highest rated movie",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/the-odyssey-debuts-to-98-percent-rotten-tomatoes-score-overtaking-the-dark-knight-as-christopher-nolans-highest-rated-movie/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-15T17:55:31+00:00"
-    },
-    {
-      "guid": "1820323",
-      "title": "Overwatch\u2019s Barely-A-Year-Old Stadium Mode Is Going On Life Support",
-      "url": "https://www.gamespot.com/articles/overwatchs-barely-a-year-old-stadium-mode-is-going-on-life-support/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-15T17:30:04+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203839",
-      "title": "PS3's inFAMOUS 2 Sees an Explosion of New Players with Platinum About to Become Unobtainable",
-      "url": "https://www.pushsquare.com/news/2026/07/ps3s-infamous-2-sees-an-explosion-of-new-players-with-platinum-about-to-become-unobtainable",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-15T18:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744538",
-      "title": "Resident Evil 1 Remake Reportedly Entered Pre-Production in 2025, Suggesting a Long Wait Ahead",
-      "url": "https://otakukart.com/resident-evil-1-remake-reportedly-entered-pre-production-in-2025-suggesting-a-long-wait-ahead/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-15T17:58:43+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744532",
-      "title": "Japanese Industry Report Finds 100% of Surveyed Online Game Developers Use AI for Player Behavior Prediction and User Preference Analysis",
-      "url": "https://otakukart.com/japanese-industry-report-finds-100-of-surveyed-online-game-developers-use-ai-for-player-behavior-prediction-and-user-preference-analysis/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-15T17:41:29+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744563",
-      "title": "Once Upon A KATAMARI Rolls Onto Nintendo Switch 2 on October 8 With Exclusive Mouse Controls and New Rolling LIVE DLC",
-      "url": "https://otakukart.com/once-upon-a-katamari-rolls-onto-nintendo-switch-2-on-october-8-with-exclusive-mouse-controls-and-new-rolling-live-dlc/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-15T17:37:04+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000716290",
       "title": "The Not-So-Hidden Homophobia Of Love And Deepspace: \u2018I\u2019ve Seen The Face Behind The Pretty Boys, And It\u2019s Sneering At Me In Disgust\u2019",
       "url": "https://kotaku.com/love-deepspace-gay-bl-ships-men-love-interests-homophobia-2000716290",
@@ -1001,6 +881,38 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-15T21:06:29+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000716336",
+      "title": "AI Is Already Generating A Flood Of Indie Game Clones",
+      "url": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-15T22:15:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236983310",
+      "title": "Netflix\u2019s Vegas Drama \u2018The Roman\u2019 Casts Vincent D\u2019Onofrio, Kate Mara, Clancy Brown, Thomas Sadoski & Jason Schwartzman",
+      "url": "https://deadline.com/2026/07/the-roman-tv-series-cast-adds-five-1236983310/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-15T22:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812086",
+      "title": "Vincent D\u2019Onofrio, Kate Mara, Clancy Brown Among Five Cast in Netflix Las Vegas Drama \u2018The Roman\u2019",
+      "url": "https://variety.com/2026/tv/news/vincent-donofrio-kate-mara-clancy-brown-netflix-vegas-roman-1236812086/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-15T22:00:00+00:00"
+    },
+    {
+      "guid": "t3_1uxk0d4",
+      "title": "Validity to the Halo MMO leak(recent interview by Pierre Hintze, Halo Studios Leader)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uxk0d4/validity_to_the_halo_mmo_leakrecent_interview_by/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-15T22:06:53+00:00"
     }
   ]
 }
