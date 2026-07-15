@@ -807,14 +807,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236982438",
-      "title": "Christopher Nolan\u2019s \u2018The Odyssey\u2019 To Begin Epic Journey With Around $200M WW \u2013 Box Office Preview",
-      "url": "https://deadline.com/2026/07/box-office-the-odyssey-forecast-1236982438/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-14T23:50:24+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236810175",
       "title": "Whether in \u2018Jurassic Park\u2019 or \u2018The Piano,\u2019 Sam Neill Put the Movies First",
       "url": "https://variety.com/2026/film/obituaries-people-news/sam-neill-put-the-movies-first-jurassic-park-the-piano-1236810175/",
@@ -837,14 +829,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-15T00:01:41+00:00"
-    },
-    {
-      "guid": "Htxzej6hiazxXgRxHpfHc",
-      "title": "Dead Space creator Glen Schofield is retiring: \"Times are tough right now, but the future ahead is really, really bright\"",
-      "url": "https://www.gamesradar.com/games/dead-space/dead-space-creator-glen-schofield-is-retiring-times-are-tough-right-now-but-the-future-ahead-is-really-really-bright/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-14T23:37:43+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1119481",
@@ -877,6 +861,14 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-07-15T03:10:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236648913",
+      "title": "Alix Earle Reveals When She\u2019ll Address Alex Cooper Feud: \u201cA Serious Struggle Behind the Scenes\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/alix-earle-reveals-when-address-alex-cooper-feud-netflix-1236648913/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-15T03:29:41+00:00"
     }
   ]
 }
