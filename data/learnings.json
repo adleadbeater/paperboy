@@ -554,126 +554,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000716758",
-      "title": "GameStop CEO Says Physical Games Don\u2019t Matter",
-      "url": "https://kotaku.com/gamestop-ceo-says-physical-games-dont-matter-2000716758",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:49:01+00:00"
-    },
-    {
-      "guid": "Ff8FS3FCu9HzZz2b9WXBiU",
-      "title": "Saber's new business boss says the KOTOR remake will 'hopefully' be out in 2028",
-      "url": "https://www.pcgamer.com/games/rpg/sabers-new-business-boss-says-the-kotor-remake-will-hopefully-be-out-in-2028/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:51:44+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236983844",
-      "title": "Stan Crime Drama \u2018Scrublands\u2019 Gets Third Season; First-Look Images & New Cast Unveiled",
-      "url": "https://deadline.com/2026/07/stan-scrublands-trust-season-3-1236983844/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T19:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236984331",
-      "title": "White House Teleprompter Operator Suspended After Banking Around $100K From Bets On Trump Speeches",
-      "url": "https://deadline.com/2026/07/white-house-teleprompter-suspended-kalshi-trump-speeches-1236984331/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:41:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236984356",
-      "title": "Mary Jo \u2018MJ\u2019 Shannon Dies: Kris Jenner\u2019s Mom & The Kardashians\u2019 Grandmother Was 91",
-      "url": "https://deadline.com/2026/07/mary-jo-mj-shannon-dead-kris-jenner-mom-kardashian-grandmother-1236984356/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:40:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236812638",
-      "title": "UFC\u2019s McGregor-Holloway Fight Averages 6.5 Million Viewers Across U.S. and Latin America",
-      "url": "https://variety.com/2026/tv/news/mcgregor-holloway-fight-ratings-ufc-1236812638/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T19:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236812654",
-      "title": "Chloe Fineman Leaves \u2018SNL\u2019 After 7 Seasons: \u2018I\u2019m Going to Miss It a Lot\u2019",
-      "url": "https://variety.com/2026/tv/news/chloe-fineman-leaves-snl-1236812654/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:40:44+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650215",
-      "title": "Shaboozey to Make Comic-Con Debut for Comic Tied to New Album (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/music/music-news/shaboozey-to-make-comic-con-debut-1236650215/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650292",
-      "title": "Tom Cruise Praises Christopher Nolan\u2019s \u2018The Odyssey\u2019: \u201cI Can\u2019t Wait to See It Again\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-the-odyssey-christopher-nolan-1236650292/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:57:16+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650383",
-      "title": "Chloe Fineman Exits \u2018SNL\u2019 After 7 Seasons",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/chloe-fineman-exits-snl-1236650383/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:55:08+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650366",
-      "title": "Sam Neill\u2019s Cause of Death Revealed",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/sam-neill-cause-of-death-1236650366/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:40:32+00:00"
-    },
-    {
-      "guid": "1822519",
-      "title": "Battlefield 6 Is Getting A Feature Not Seen In 21 Years And A Top Gun Crossover",
-      "url": "https://www.gamespot.com/articles/battlefield-6-is-getting-a-feature-not-seen-in-21-years-and-a-top-gun-crossover/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T18:30:33+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-203892",
-      "title": "Claims Sony Has Disabled YouTube Comments Over Physical Disc Backlash Are Not True",
-      "url": "https://www.pushsquare.com/news/2026/07/claims-sony-has-disabled-youtube-comments-over-physical-disc-backlash-are-not-true",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T18:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119614",
-      "title": "Prinny Sugoroku Game Being Localized as Prinny Party",
-      "url": "https://www.siliconera.com/prinny-sugoroku-game-being-localized-as-prinny-party/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1064825",
-      "title": "Marvel\u2019s Wolverine \u2018Ain\u2019t No Hero\u2019 trailer",
-      "url": "https://www.gematsu.com/2026/07/marvels-wolverine-aint-no-hero-trailer",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T18:55:49+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236984405",
       "title": "Paramount Slams State AGs\u2019 Suit As \u201cOne Of The Weakest Merger Challenges In Modern Antitrust History\u201d Ahead Of TRO Hearing",
       "url": "https://deadline.com/2026/07/paramount-warner-bros-temporary-restraining-order-state-ags-1236984405/",
@@ -872,6 +752,54 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-16T22:00:00+00:00"
+    },
+    {
+      "guid": "pJijgi6825YTbv7egNw3NP",
+      "title": "The follow-up to one of last year's best detective games is off to an 'overwhelmingly positive' start on Steam after just 2 days",
+      "url": "https://www.pcgamer.com/games/puzzle/the-follow-up-to-one-of-last-years-best-detective-games-is-off-to-an-overwhelmingly-positive-start-on-steam-after-just-2-days/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T22:52:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984652",
+      "title": "\u2018Age of Attraction\u2019 Is Netflix\u2019s Top New Reality Launch, But \u2018Star Search\u2019 & \u2018Calabasas Confidential\u2019 Struggle",
+      "url": "https://deadline.com/2026/07/age-of-attraction-netflix-top-new-reality-launch-1236984652/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T23:19:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984466",
+      "title": "UFC\u2019s McGregor-Holloway Rematch Muscles Up 6.5M Viewers Across U.S. & Latin America",
+      "url": "https://deadline.com/2026/07/ufc-mcgregor-holloway-fight-ratings-paramount-1236984466/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T23:07:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650571",
+      "title": "Lorde Calls Out Spotify\u2019s AI \u201cAbout the Song\u201d Feature: \u201cWe Don\u2019t Want This\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-news/lorde-calls-out-spotifys-ai-about-the-song-feature-1236650571/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T23:17:53+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650585",
+      "title": "The NBA Wants to Set Next Season\u2019s TV Schedule, But It\u2019s Waiting On LeBron.",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nba-next-season-tv-schedule-waiting-lebron-james-1236650585/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T23:13:24+00:00"
+    },
+    {
+      "guid": "t3_1uyi6dn",
+      "title": "TMZ reports that God of War TV series production paused after Ryan Hurst\u2019s on-set injury, potential delay to 2027",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uyi6dn/tmz_reports_that_god_of_war_tv_series_production/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T22:55:19+00:00"
     }
   ]
 }
