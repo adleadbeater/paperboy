@@ -563,38 +563,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "QNteLCH3LLxeUovszCbH9U",
-      "title": "Marvel Rivals is making some big visual changes to 'cut down on battlefield chaos' which is wonderful because my old brain can't handle that level of overstimulation",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-making-some-big-visual-changes-to-cut-down-on-battlefield-chaos-which-is-wonderful-because-my-old-brain-cant-handle-that-level-of-overstimulation/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T11:23:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236983869",
-      "title": "TIFF: The Market: Eight XR, VR & Mixed Reality Projects Set For The Inaugural Innovation Hub Lineup",
-      "url": "https://deadline.com/2026/07/tiff-the-market-innovation-hub-lineup-1236983869/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T11:26:31+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650013",
-      "title": "TIFF Film Market Unveils Eight Projects for First Innovation Hub",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tiff-market-unveils-innovation-hub-projects-immersive-vr-1236650013/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T11:18:38+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744706",
-      "title": "God of War Laufey Lead Deborah Ann Woll Says She\u2019s \u201cTotally Unbothered\u201d by Game Backlash Because \u201cI Just Know It\u2019s Great\u201d",
-      "url": "https://otakukart.com/god-of-war-laufey-lead-deborah-ann-woll-says-shes-totally-unbothered-by-game-backlash-because-i-just-know-its-great/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T11:25:20+00:00"
-    },
-    {
       "guid": "c56621c1-80ad-4663-b661-26f6df6e6ec8",
       "title": "Pok\u00e9mon Go Fans React in Disgust as Players Hand-Picked to Attend Exclusive Times Square Event Sell Their Prized Mewtwo for Thousands of Dollars, Breaking the Game's Rules",
       "url": "https://www.ign.com/articles/pokemon-go-fans-react-in-disgust-as-players-hand-picked-to-attend-exclusive-times-square-event-sell-their-prized-mewtwo-for-thousands-of-dollars-breaking-the-games-rules",
@@ -1537,6 +1505,86 @@
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-07-16T15:00:00+00:00"
+    },
+    {
+      "guid": "kSaTzx8g2ARDyavMLR2ZKe",
+      "title": "Where to find the Nangan region Treasure Hunt in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-nangan-region-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T15:14:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984061",
+      "title": "Andrew Garfield Leads \u2018The Uprising\u2019: Focus Features Unveils First Look At Paul Greengrass\u2019 Drama On 14th Century Peasant Rebellion",
+      "url": "https://deadline.com/2026/07/the-uprising-trailer-andrew-garfield-paul-greengrass-1236984061/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T15:28:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812446",
+      "title": "Amelia Dimoldenberg\u2019s F1 Series \u2018Passenger Princess\u2019 Returning for Season 2 This Month",
+      "url": "https://variety.com/2026/digital/global/amelia-dimoldenberg-passenger-princess-season-2-release-date-1236812446/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T15:23:03+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812488",
+      "title": "Hungary, Location for \u2018F1: The Movie,\u2019 \u2018Dune,\u2019 \u2018The Brutalist,\u2019 Removes Break on New Registrations for Production Incentive",
+      "url": "https://variety.com/2026/film/global/hungary-new-registrations-production-incentive-1236812488/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T15:18:49+00:00"
+    },
+    {
+      "guid": "ug8kY4fDD49tGyuUZkRazf",
+      "title": "PNY's Slimline RTX 5080 might be the best version of this graphics card for versatile PC building, and making good on those FE promises",
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/pny-geforce-rtx-5080-oc-slim-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T15:25:07+00:00"
+    },
+    {
+      "guid": "XbZUwhJmQ6zZmQxcqLymaC",
+      "title": "GTA 6 is on track for \"the strongest pre-order campaign ever recorded\" and up to $5 billion in sales by \"the end of launch week,\" analysts say",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-on-track-for-the-strongest-pre-order-campaign-ever-recorded-and-up-to-usd5-billion-in-sales-by-the-end-of-launch-week-analysts-say/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T15:24:37+00:00"
+    },
+    {
+      "guid": "YF9SQHSy3Lw6Qyz8HqN3SR",
+      "title": "Razer's not done with the Pok\u00e9mon goodies, but I'd prioritize two gadgets in its latest Pikachu drop",
+      "url": "https://www.gamesradar.com/hardware/razers-not-done-with-the-pokemon-goodies-but-id-prioritize-two-gadgets-in-its-latest-pikachu-drop/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T15:16:40+00:00"
+    },
+    {
+      "guid": "1821507",
+      "title": "Steam Malware Allegedly Helped Florida Man Steal Over $220,000 In Crypto",
+      "url": "https://www.gamespot.com/articles/steam-malware-allegedly-helped-florida-man-steal-over-220k-in-crypto/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T15:07:17+00:00"
+    },
+    {
+      "guid": "1821513",
+      "title": "Call Of Duty: MW4 Features A Car Created By Iconic Brand That Looks Like A Halo Warthog With A Roof",
+      "url": "https://www.gamespot.com/articles/call-of-duty-mw4-features-a-car-created-by-iconic-brand-that-isnt-even-available-irl/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T15:01:12+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203843",
+      "title": "Nintendo Download: 16th July (North America)",
+      "url": "https://www.nintendolife.com/news/2026/07/nintendo-download-16th-july-north-america",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T15:15:00+00:00"
     }
   ]
 }
