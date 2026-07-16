@@ -582,22 +582,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236983773",
-      "title": "Ofcom Investigating TikTok Over Kids \u201cBeing At Risk Of Exposure To Harmful Content\u201d",
-      "url": "https://deadline.com/2026/07/ofcom-investigating-tiktok-over-child-safety-concerns-1236983773/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T08:00:11+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236982869",
-      "title": "YMU Signs \u2018Rap Game UK\u2019 Host Krept",
-      "url": "https://deadline.com/2026/07/ymu-signs-krept-konan-rap-game-uk-hip-hop-nalas-baby-1236982869/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T08:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236812276",
       "title": "Arundhati Roy on Beatles, AI and Indie Filmmaking at London Indian Film Festival",
       "url": "https://variety.com/2026/film/festivals/arundhati-roy-beatles-ai-indie-filmmaking-london-indian-film-festival-1236812276/",
@@ -1004,6 +988,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-16T11:14:55+00:00"
+    },
+    {
+      "guid": "c56621c1-80ad-4663-b661-26f6df6e6ec8",
+      "title": "Pok\u00e9mon Go Fans React in Disgust as Players Hand-Picked to Attend Exclusive Times Square Event Sell Their Prized Mewtwo for Thousands of Dollars, Breaking the Game's Rules",
+      "url": "https://www.ign.com/articles/pokemon-go-fans-react-in-disgust-as-players-hand-picked-to-attend-exclusive-times-square-event-sell-their-prized-mewtwo-for-thousands-of-dollars-breaking-the-games-rules",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:55:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236809594",
+      "title": "Raindance Film Festival, Israeli AI Platform IMGN Launch New Film Fund and Development Hub for Indie Filmmakers (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/raindance-israel-ai-platform-imgn-development-fund-1236809594/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:57:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812237",
+      "title": "\u2018Romer\u00eda,\u2019 \u2018The Blood Countess,\u2019 \u2018Resurrection\u2019 Set for Costa Rica Film Festival as Event Focuses on Afro-Caribbean Cinema and Female Filmmakers",
+      "url": "https://variety.com/2026/film/global/romeria-the-blood-countess-resurrection-costa-rica-film-festival-1236812237/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:54:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236809252",
+      "title": "Five Below-the-Line Talents to Track in Colombia",
+      "url": "https://variety.com/2026/film/global/colombia-5-below-the-line-talents-to-track-1236809252/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:36:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236811487",
+      "title": "\u2018La Puta Vida,\u2019 Starring \u2018One Hundred Years of Solitude\u2019 Lead Claudio Cata\u00f1o, Commences Filming in Chile (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/la-puta-vida-one-hundred-years-of-solitude-claudio-catano-1236811487/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:31:42+00:00"
+    },
+    {
+      "guid": "UFU5qbkutrh72GjugLy6rW",
+      "title": "Modder does what Nintendon't and makes a Switch 2 Virtual Boy controller",
+      "url": "https://www.gamesradar.com/hardware/retro/modder-does-what-nintendont-and-makes-a-switch-2-virtual-boy-controller/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:43:58+00:00"
+    },
+    {
+      "guid": "zmEYV5B4ZduLFbrAwgt4Wk",
+      "title": "Resident Evil's runtime has been reportedly revealed, and fans think it's \"perfect\"",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/resident-evils-runtime-has-been-reportedly-revealed-and-fans-think-its-perfect/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:39:18+00:00"
+    },
+    {
+      "guid": "MCi7R7fpKmF4oSHakhoyMZ",
+      "title": "Crimson Desert update adds cross save functionality to PC and consoles, but you're going to need to buy those Deluxe cosmetics again",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-update-adds-cross-save-functionality-to-pc-and-consoles-but-youre-going-to-need-to-buy-those-deluxe-cosmetics-again/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:32:36+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69736",
+      "title": "Kyoto Xanadu\u2019s 2D x 3D combat gameplay is actually a homage to Falcom\u2019s earliest Xanadu series entries, according to CEO Toshihiro Kondo",
+      "url": "https://automaton-media.com/en/news/kyoto-xanadus-2d-x-3d-combat-gameplay-is-actually-a-homage-to-falcoms-earliest-xanadu-series-entries-according-to-ceo-toshihiro-kondo/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T12:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744736",
+      "title": "Black Myth: Wukong Global Tour Reaches New York\u2019s Carnegie Hall, Bringing the Award-Winning RPG\u2019s Soundtrack to an Iconic Stage",
+      "url": "https://otakukart.com/black-myth-wukong-global-tour-reaches-new-yorks-carnegie-hall-bringing-the-award-winning-rpgs-soundtrack-to-an-iconic-stage/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:34:33+00:00"
     }
   ]
 }
