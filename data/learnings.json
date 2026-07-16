@@ -554,86 +554,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000716734",
-      "title": "Marathon Promises An Even Bigger PvE Mode In The Fall",
-      "url": "https://kotaku.com/marathon-promises-an-even-bigger-pve-mode-in-the-fall-2000716734",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:50:07+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000716667",
-      "title": "A24 Reportedly Copyright-Striking Backrooms Indie Games And Artwork",
-      "url": "https://kotaku.com/backrooms-a24-copyright-strikes-kane-parsons-2000716667",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:30:45+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236983961",
-      "title": "Julius Avery To Direct Python Thriller \u2018Crush\u2019 For 20th",
-      "url": "https://deadline.com/2026/07/julius-avery-to-direct-crush-20th-century-studios-1236983961/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:40:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236984258",
-      "title": "Hamish Linklater, Michelle Buteau & Simu Liu Join Elizabeth Banks-Led Apple Comedy Series",
-      "url": "https://deadline.com/2026/07/hamish-linklater-michelle-buteau-simu-liu-cast-apple-series-1236984258/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236811918",
-      "title": "X Games Partners with Electronic Arts and Full Circle for San Vansterdam Takeover Experience (Gaming News Roundup)",
-      "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-of-july-13-1236811918/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:50:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236812408",
-      "title": "Vox Media Studios Inks First-Look Deal With 20th Television (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/vox-media-studios-first-look-deal-20th-television-1236812408/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236810243",
-      "title": "Green Lantern Is Cool Again: DC Writer Tom King on Making HBO\u2019s \u2018Lanterns\u2019 After Fighting Terrorists as a CIA Officer",
-      "url": "https://variety.com/2026/tv/news/lanterns-hbo-tom-king-cia-green-lantern-1236810243/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236646729",
-      "title": "The End of an Era: Inside\u00a0\u2018Heartstopper Forever\u2019\u00a0and the Show That Changed British YA",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-end-of-an-era-inside-heartstopper-forever-and-the-show-that-changed-british-ya-1236646729/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T17:35:00+00:00"
-    },
-    {
-      "guid": "1822400",
-      "title": "007 First Light Almost Turned James Bond Into \u201cMr. Gadget\u201d",
-      "url": "https://www.gamespot.com/articles/007-first-light-almost-turned-james-bond-into-mr-gadget/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T17:47:06+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744857",
-      "title": "Rick and Morty Season 9 Episode 6 Review: \u201cErickerHead\u201d Is the Season\u2019s Most Emotional and Inventive Episode Yet",
-      "url": "https://otakukart.com/rick-and-morty-season-9-episode-6-review-erickerhead-is-the-seasons-most-emotional-and-inventive-episode-yet/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T17:49:26+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000716758",
       "title": "GameStop CEO Says Physical Games Don\u2019t Matter",
       "url": "https://kotaku.com/gamestop-ceo-says-physical-games-dont-matter-2000716758",
@@ -672,14 +592,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-16T18:40:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236984000",
-      "title": "\u2018Today\u2019 Reviewing Security Protocols After Intruder Confronts Anchor Craig Melvin In \u201cUnauthorized Area\u201d",
-      "url": "https://deadline.com/2026/07/craig-melvin-intruder-arrest-1236984000/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T18:27:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236812638",
@@ -896,6 +808,70 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-16T21:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000716805",
+      "title": "Netflix Brags That AI Tools Were Used In Around 300 Of Its Shows And Movies In 2026 So Far",
+      "url": "https://kotaku.com/netflix-brags-that-ai-tools-were-used-in-around-300-of-its-shows-and-movies-in-2026-so-far-2000716805",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T22:05:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236982322",
+      "title": "Netflix To Stop Biannual Viewership Reports, Opting Instead For Yearly Data Dump Amid Scrutiny Over Audience Retention",
+      "url": "https://deadline.com/2026/07/netflix-viewership-data-reports-change-to-annual-1236982322/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T22:27:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984653",
+      "title": "\u2018Special Forces\u2019 Star & Expelled Congressman George Santos Addresses \u201cHaters\u201d & Defends Co-Stars Brandi Glanville & Candace Cameron Bure",
+      "url": "https://deadline.com/2026/07/special-forces-george-santos-criticism-brandi-glanville-candace-cameron-bure-1236984653/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T22:23:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984586",
+      "title": "Netflix Co-CEOs Respond To Swirl Of M&A Rumors, Reports They May Partner With Peacock Or Launch FAST Channels",
+      "url": "https://deadline.com/2026/07/netflix-merger-rumors-peacock-fast-channels-1236984586/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T22:05:55+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984610",
+      "title": "Netflix To Ramp Up Live Programming As \u2018BTS: The Comeback Live\u2019 & \u2018The Roast Of Kevin Hart\u2019 Perform For Streamer, Drive Subscriber Numbers",
+      "url": "https://deadline.com/2026/07/netflix-ramp-up-live-programming-bts-the-comeback-1236984610/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T21:57:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984614",
+      "title": "Judge Denies Preliminary Injunction In Consumer Lawsuit Seeking To Block Paramount-Warner Bros. Discovery Merger",
+      "url": "https://deadline.com/2026/07/paramount-warner-bros-merger-judge-denies-injunction-1236984614/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T21:54:58+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650481",
+      "title": "Netflix Reports Steady Viewing Time Growth But Scales Back Engagement Reports",
+      "url": "https://www.hollywoodreporter.com/business/business-news/his-and-hers-netflix-data-release-january-june-2026-1236650481/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T22:27:52+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119631",
+      "title": "Marvel Tokon: Fighting Souls Open Beta Includes Episode Story Mode",
+      "url": "https://www.siliconera.com/marvel-tokon-fighting-souls-open-beta-includes-episode-story-mode/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T22:00:00+00:00"
     }
   ]
 }
