@@ -601,28 +601,12 @@
       "published_dt": "2026-07-16T09:10:56+00:00"
     },
     {
-      "guid": "ox9noWsEWMZskrHWhwrYr4",
-      "title": "Against a backdrop of advancing Chinese production, TSMC announces another $100 billion worth of chipmaking will be invested in the US",
-      "url": "https://www.pcgamer.com/hardware/against-a-backdrop-of-advancing-chinese-production-tsmc-announces-another-usd100-billion-worth-of-chipmaking-will-be-invested-in-the-us/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T09:09:10+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236812292",
       "title": "Cricket Rules India\u2019s Streaming Viewership in New Ormax StreamView Report",
       "url": "https://variety.com/2026/tv/news/cricket-india-streaming-ormax-streamview-report-1236812292/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-16T09:15:21+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236649920",
-      "title": "Mark Hamill\u2019s \u2018Star Wars\u2019 Lightsaber Smashes Predictions and Sells for Record Sum at Auction",
-      "url": "https://www.hollywoodreporter.com/news/general-news/star-wars-lightsaber-auction-mark-hamill-luke-skywalker-1236649920/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T09:09:10+00:00"
     },
     {
       "guid": "vaxvTFmfHB7fDBjbL6iVEC",
@@ -655,14 +639,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-16T09:15:15+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744677",
-      "title": "Adult Swim SDCC 2026 Schedule Revealed: Rick and Morty Ride, Season 9 Panel, and New Series Take Center Stage",
-      "url": "https://otakukart.com/adult-swim-sdcc-2026-schedule-revealed-rick-and-morty-ride-season-9-panel-and-new-series-take-center-stage/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T09:08:20+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236812274",
@@ -1183,6 +1159,70 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-16T12:42:41+00:00"
+    },
+    {
+      "guid": "3KoLkqFUMJK5YYrTr2ZKem",
+      "title": "Desktop Explorer is a mystery/horror game about the last time when computers were good",
+      "url": "https://www.pcgamer.com/games/puzzle/desktop-explorer-is-a-mystery-horror-game-about-the-last-time-when-computers-were-good/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236982947",
+      "title": "Jean-Xavier De Lestrade\u2019s \u2018Sambre\u2019 Finds U.S. Home At \u2018Babylon Berlin\u2019 Streamer MHz Choice",
+      "url": "https://deadline.com/2026/07/sambre-mhz-choice-buys-jean-xavier-de-lestrade-french-show-1236982947/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236983280",
+      "title": "\u2018Robin Hood\u2019 Casts James Purefoy, Colin O\u2019Donoghue & Luke Roberts In Season 2 As Production Begins",
+      "url": "https://deadline.com/2026/07/robin-hood-season-2-cast-james-purefoy-colin-odonoghue-1236983280/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236983803",
+      "title": "\u201cRemarkable True Story\u201d Of Family Behind World-Famous Panini Stickers Told In Beta-Backed Italian Series \u2018Album of Dreams\u2019",
+      "url": "https://deadline.com/2026/07/panini-sticker-album-tv-series-world-cup-rai-beta-1236983803/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650032",
+      "title": "Claudia Winkleman Exits Her Own Talk Show After One Season: \u201cI Was Just Too Nervous to Enjoy It\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/claudia-winkleman-show-canceled-exit-quits-traitors-bbc-1236650032/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:07:49+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1063762",
+      "title": "Famitsu Sales: 7/6/26 \u2013 7/12/26",
+      "url": "https://www.gematsu.com/2026/07/famitsu-sales-7-6-26-7-12-26",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:07:45+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1064345",
+      "title": "Roguelike autobattler Guildrun announced for PC",
+      "url": "https://www.gematsu.com/2026/07/roguelike-autobattler-guildrun-announced-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:01:07+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1064640",
+      "title": "OBAKEIDORO 2: Chase & Seek launches August 6 worldwide",
+      "url": "https://www.gematsu.com/2026/07/obakeidoro-2-chase-seek-launches-august-6-worldwide",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:00:52+00:00"
     }
   ]
 }
