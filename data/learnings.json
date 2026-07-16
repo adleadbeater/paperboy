@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Lenovo Officially Pulls the Plug on Its Piracy-Laden Game Boy-Like Handheld",
-      "tag": "lenovo handheld",
-      "posted_at": "2026-07-09T16:01:09.164749+00:00",
-      "urls": [
-        "https://kotaku.com/lenovo-sunyao-g02-emulation-device-copyright-roms-2000714144"
-      ],
-      "article_titles": [
-        "Lenovo Has Officially Ditched Its Piracy-Packed Game Boy-Like Device"
-      ]
-    },
-    {
       "headline": "Resident Evil's Albert Wesker Voice Actor Dropped From Convention Following Abuse Allegations",
       "tag": "resident evil",
       "posted_at": "2026-07-09T17:31:03.262540+00:00",
@@ -557,19 +546,24 @@
       "article_titles": [
         "EA VP Urges Companies To Think About In-Game Ads During Development: \u2018That\u2019s A Huge Opportunity\u2019"
       ]
+    },
+    {
+      "headline": "GTA 6 Hacker Released From Secure Hospital, Faces Retrial",
+      "tag": "gta 6",
+      "posted_at": "2026-07-16T16:47:42.310935+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-who-was-given-an-indefinite-sentence-in-2023-because-he-wouldnt-stop-hacking-is-now-out-of-hospital-and-awaiting-retrial/",
+        "https://www.gamesradar.com/games/grand-theft-auto/hacker-behind-gta6-leak-that-cost-rockstar-usd5-million-reportedly-awaiting-retrial-after-being-released-from-secure-hospital/"
+      ],
+      "article_titles": [
+        "Grand Theft Auto 6 leaker who was given an indefinite sentence in 2023 because he wouldn't stop hacking is now out of hospital and awaiting retrial",
+        "Hacker behind GTA 6 leak that cost Rockstar $5 million reportedly awaiting retrial after being released from secure hospital"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus",
-      "title": "Ubisoft is working on Assassin's Creed Black Flag Resynced New Game Plus",
-      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T12:37:44+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1236982996",
       "title": "Raw & New Yorker Studios Teaming On Limited Series Exploring New Evidence In White House Farm Killings",
@@ -609,14 +603,6 @@
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-07-16T13:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744753",
-      "title": "Hasbro and Nintendo Announce Multi-Year Legend of Zelda Toy Partnership, First Figures Debut at SDCC 2026",
-      "url": "https://otakukart.com/hasbro-and-nintendo-announce-multi-year-legend-of-zelda-toy-partnership-first-figures-debut-at-sdcc-2026/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T12:42:41+00:00"
     },
     {
       "guid": "3KoLkqFUMJK5YYrTr2ZKem",
@@ -1705,6 +1691,102 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-16T16:12:51+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000716673",
+      "title": "Some Anime Fans Call For Boycott As Crunchyroll Nukes Store And Locks Physical Merch Behind A Paywall",
+      "url": "https://kotaku.com/some-anime-fans-call-for-boycott-as-crunchyroll-nukes-store-and-locks-physical-merch-behind-a-paywall-2000716673",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:45:30+00:00"
+    },
+    {
+      "guid": "N9K6hbdsyv4M6nWFYeNye6",
+      "title": "Grand Theft Auto 6 leaker who was given an indefinite sentence in 2023 because he wouldn't stop hacking is now out of hospital and awaiting retrial",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-who-was-given-an-indefinite-sentence-in-2023-because-he-wouldnt-stop-hacking-is-now-out-of-hospital-and-awaiting-retrial/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:30:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236983517",
+      "title": "\u2018Heated Rivalry\u2019s Sophie N\u00e9lisse To Star In Netflix\u2019s \u2018This Summer Will Be Different\u2019",
+      "url": "https://deadline.com/2026/07/sophie-nelisse-lucy-this-summer-will-be-different-netflix-1236983517/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:40:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984183",
+      "title": "\u2018Power: Origins\u2019 Season 1 Teaser & Photos Reveal New Generation Ghost & Tommy Teaming With Kanan",
+      "url": "https://deadline.com/2026/07/power-origins-season-1-trailer-first-look-photos-1236984183/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:39:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812557",
+      "title": "Rose Byrne and Jenna Ortega Starring in Mary Bronstein\u2019s \u2018Nasty\u2019 for Warner Bros. Clockwork",
+      "url": "https://variety.com/2026/film/news/rose-byrne-jenna-ortega-mary-bronstein-nasty-warner-bros-clockwork-1236812557/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:45:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812553",
+      "title": "\u2018Mickey Mouse Club\u2019 Returns: Disney Orders Pilot for Reboot of Iconic Kids Show That Starred Young Britney Spears, Ryan Gosling",
+      "url": "https://variety.com/2026/tv/news/mickey-mouse-club-reboot-disney-orders-pilot-new-cast-1236812553/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:45:03+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650064",
+      "title": "Amanda Serrano to Defend Unified Title in First-Ever Championship Boxing Match on TikTok (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/amanda-serrano-boxing-fight-tiktok-live-1236650064/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236632674",
+      "title": "\u2018Yellowjackets\u2019 Star Sophie N\u00e9lisse to Lead Netflix Adaptation of Romance Novel \u2018This Summer Will Be Different\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/this-summer-will-be-different-sophie-nelisse-netflix-1236632674/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:42:20+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650186",
+      "title": "NBC \u2018Today\u2019 Show Security Breach by \u201cDisorderly\u201d Intruder Leads to Arrest",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-today-show-security-breach-intruder-arrest-1236650186/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T16:39:01+00:00"
+    },
+    {
+      "guid": "1821689",
+      "title": "New Netflix Game Brings Together The Streamer\u2019s Most Popular Shows",
+      "url": "https://www.gamespot.com/articles/new-netflix-game-brings-together-the-streamers-most-popular-shows/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T16:27:12+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203887",
+      "title": "Hasbro And Nintendo Partner Up On New Legend Of Zelda Toys",
+      "url": "https://www.nintendolife.com/news/2026/07/hasbro-and-nintendo-partner-up-on-new-legend-of-zelda-toys",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T16:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744855",
+      "title": "Rick and Morty Season 9 Episode 4 Review: \u201cA Ricker Runs Through It\u201d Balances Absurd Comedy With Surprisingly Heartfelt Character Moments",
+      "url": "https://otakukart.com/rick-and-morty-season-9-episode-4-review-a-ricker-runs-through-it-balances-absurd-comedy-with-surprisingly-heartfelt-character-moments/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T16:44:04+00:00"
     }
   ]
 }
