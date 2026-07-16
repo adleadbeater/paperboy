@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Elder Scrolls 6 Devs Say Xbox Layoffs Will Have a \"Substantial and Cascading Effect\" on the Game's Already Lengthy Development",
-      "tag": "elder scrolls 6",
-      "posted_at": "2026-07-09T13:31:24.240171+00:00",
-      "urls": [
-        "https://kotaku.com/elder-scrolls-6-vi-delays-bethesda-xbox-layoffs-release-2000714125"
-      ],
-      "article_titles": [
-        "Elder Scrolls VI Devs Say Xbox Layoffs Will Have \u2018Substantial And Cascading Effect\u2019 On The Game\u2019s Already Long Development"
-      ]
-    },
-    {
       "headline": "New Godzilla Minus Zero Trailer Shows Humanity Dropping a Nuke on the King of Monsters",
       "tag": "godzilla minus zero",
       "posted_at": "2026-07-09T14:22:35.925570+00:00",
@@ -587,59 +576,33 @@
       "article_titles": [
         "Hasbro and Nintendo Announce Multi-Year Legend of Zelda Toy Partnership, First Figures Debut at SDCC 2026"
       ]
+    },
+    {
+      "headline": "Former Rockstar Dev Explains Why GTA 6 Is Skipping PC at Launch",
+      "tag": "gta 6",
+      "posted_at": "2026-07-16T13:31:32.862707+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release"
+      ],
+      "article_titles": [
+        "\"It's not that we don't care about PC\" - Former Rockstar developer suggests why GTA 6 is only coming to consoles at launch"
+      ]
+    },
+    {
+      "headline": "Microsoft Claims id Tech Is Safe \u2014 But Former Staff Say Everyone Who Could Save It Has Been Fired",
+      "tag": "id software",
+      "posted_at": "2026-07-16T13:31:33.103720+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/microsoft-says-id-tech-is-safe-former-staffers-say-theyve-fired-everyone-who-could-save-it/"
+      ],
+      "article_titles": [
+        "Microsoft Says Id Tech Is Safe, Former Staffers Say They\u2019ve Fired Everyone Who Could Save It"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/elder-scrolls-online-zenimax-online-studios-leadership-fired",
-      "title": "Zenimax Online Studios leadership included in widespread Xbox job cuts, as concerns around Elder Scrolls Online's longevity persist",
-      "url": "https://www.eurogamer.net/elder-scrolls-online-zenimax-online-studios-leadership-fired",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T09:10:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236812292",
-      "title": "Cricket Rules India\u2019s Streaming Viewership in New Ormax StreamView Report",
-      "url": "https://variety.com/2026/tv/news/cricket-india-streaming-ormax-streamview-report-1236812292/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-16T09:15:21+00:00"
-    },
-    {
-      "guid": "vaxvTFmfHB7fDBjbL6iVEC",
-      "title": "Tom Holland, Matt Damon, and Zendaya have created a rap to promote The Odyssey \u2013 and I can't believe it either",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/tom-holland-matt-damon-and-zendaya-have-created-a-rap-to-promote-the-odyssey-and-i-cant-believe-it-either/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T09:22:30+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744400",
-      "title": "Noa-senpai wa Tomodachi Manga Gets TV Anime Adaptation from Studio Feel",
-      "url": "https://otakukart.com/noa-senpai-wa-tomodachi-manga-gets-tv-anime-adaptation-from-studio-feel/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T09:25:17+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744678",
-      "title": "MediaOCD Expands Discotek Deep Dives With New July 2026 Blu-ray Anime Lineup",
-      "url": "https://otakukart.com/mediaocd-expands-discotek-deep-dives-with-new-july-2026-blu-ray-anime-lineup/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T09:21:07+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744679",
-      "title": "Final Fantasy Resonance Gets New Trailer Ahead of October 22 Nintendo Switch 2 Release Date",
-      "url": "https://otakukart.com/final-fantasy-resonance-gets-new-trailer-ahead-of-october-22-nintendo-switch-2-release-date/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-16T09:15:15+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236812274",
       "title": "Boutique Festival Agency Casa Leo PR Launched by Raindance Execs David Mart\u00ednez and Jacky Orozco (EXCLUSIVE)",
@@ -1223,6 +1186,94 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-07-16T13:00:52+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release",
+      "title": "\"It's not that we don't care about PC\" - Former Rockstar developer suggests why GTA 6 is only coming to consoles at launch",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:11:51+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000716633",
+      "title": "The New Avatar Movie Is Coming To Theaters Like Fans Wanted, But In The Worst Way",
+      "url": "https://kotaku.com/avatar-aang-last-airbender-theater-showtimes-la-nyc-2000716633",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:16:40+00:00"
+    },
+    {
+      "guid": "XUjv7VMxf7xio4JNHwpLTc",
+      "title": "The company that makes all the West's chipmaking machines says it's selling more than it expected thanks to 'very strong momentum in both DRAM and advanced logic'",
+      "url": "https://www.pcgamer.com/hardware/the-company-that-makes-all-the-wests-chipmaking-machines-says-its-selling-more-than-it-expected-thanks-to-very-strong-momentum-in-both-dram-and-advanced-logic/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:21:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236983918",
+      "title": "Danny Boyle\u2019s \u2018Ink\u2019 To Open Venice Film Festival",
+      "url": "https://deadline.com/2026/07/danny-boyle-ink-venice-film-festival-2026-1236983918/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:27:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812367",
+      "title": "Danny Boyle\u2019s \u2018Ink,\u2019 Starring Jack O\u2019Connell, Guy Pearce and Claire Foy, to Open Venice Film Festival",
+      "url": "https://variety.com/2026/film/global/danny-boyle-ink-venice-film-festival-1236812367/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T13:20:37+00:00"
+    },
+    {
+      "guid": "qK7hYP9rEGVNqwrnz9fu2e",
+      "title": "Hasbro wins license to make Legend of Zelda toys, action figures, and more from 2027",
+      "url": "https://www.gamesradar.com/toys-collectibles/hasbro-wins-license-to-make-legend-of-zelda-toys-action-figures-and-more-from-2027/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:12:43+00:00"
+    },
+    {
+      "guid": "1821455",
+      "title": "Microsoft Says Id Tech Is Safe, Former Staffers Say They\u2019ve Fired Everyone Who Could Save It",
+      "url": "https://www.gamespot.com/articles/microsoft-says-id-tech-is-safe-former-staffers-say-theyve-fired-everyone-who-could-save-it/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T12:59:28+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203865",
+      "title": "Irate PlayStation Fans Want You to Buy Games Anywhere But PS5",
+      "url": "https://www.pushsquare.com/news/2026/07/irate-playstation-fans-want-you-to-buy-games-anywhere-but-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:15:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1064686",
+      "title": "Fatal Fury: City of the Wolves Season 3 DLC characters announced",
+      "url": "https://www.gematsu.com/2026/07/fatal-fury-city-of-the-wolves-season-3-dlc-characters-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:22:23+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744799",
+      "title": "Nintendo Download for July 17: Fitness Boxing 3 Switch 2 Edition, Cozy Grove: Camp Spirit, The Duskbloods Test, and More",
+      "url": "https://otakukart.com/nintendo-download-for-july-17-fitness-boxing-3-switch-2-edition-cozy-grove-camp-spirit-the-duskbloods-test-and-more/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:17:33+00:00"
+    },
+    {
+      "guid": "t3_1uy2s46",
+      "title": "Billbil-kun: FC 27 Will Release Sep 25th on both last gen and current gen hardware",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uy2s46/billbilkun_fc_27_will_release_sep_25th_on_both/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T13:23:01+00:00"
     }
   ]
 }
