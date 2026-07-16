@@ -563,6 +563,19 @@
       "article_titles": [
         "Report contradicts Microsoft's statements that id Software hasn't been shoved onto Unreal from id Tech: 'It's most likely going to end up in the in the trash can'"
       ]
+    },
+    {
+      "headline": "Call of Duty: Modern Warfare 4 Shows Off Kill Block Ahead of Full Multiplayer Reveal",
+      "tag": "call of duty: modern warfare 4",
+      "posted_at": "2026-07-16T11:30:57.277020+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-will-probably-look-best-on-the-console-that-costs-the-most/",
+        "https://www.eurogamer.net/call-of-duty-modern-warfare-4-kill-block-first-look"
+      ],
+      "article_titles": [
+        "Call Of Duty: Modern Warfare 4 Will Probably Look Best On The Console That Costs The Most",
+        "Modern Warfare 4 offers first look at Kill Block ahead of multiplayer gameplay debut this week"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -911,6 +924,86 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-16T10:34:29+00:00"
+    },
+    {
+      "guid": "QNteLCH3LLxeUovszCbH9U",
+      "title": "Marvel Rivals is making some big visual changes to 'cut down on battlefield chaos' which is wonderful because my old brain can't handle that level of overstimulation",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-making-some-big-visual-changes-to-cut-down-on-battlefield-chaos-which-is-wonderful-because-my-old-brain-cant-handle-that-level-of-overstimulation/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:23:02+00:00"
+    },
+    {
+      "guid": "V59MgkP669yh5YqmtWJfd7",
+      "title": "Redditor fashions a 'game cartridge' system for their Steam library out of cheap SATA SSDs",
+      "url": "https://www.pcgamer.com/hardware/memory/redditor-fashions-a-game-cartridge-system-for-their-steam-library-out-of-cheap-sata-ssds/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:12:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236983869",
+      "title": "TIFF: The Market: Eight XR, VR & Mixed Reality Projects Set For The Inaugural Innovation Hub Lineup",
+      "url": "https://deadline.com/2026/07/tiff-the-market-innovation-hub-lineup-1236983869/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:26:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650013",
+      "title": "TIFF Film Market Unveils Eight Projects for First Innovation Hub",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tiff-market-unveils-innovation-hub-projects-immersive-vr-1236650013/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T11:18:38+00:00"
+    },
+    {
+      "guid": "GxXz47vHiayMMQjN7zih2Y",
+      "title": "As Xbox fan goes viral for losing account with games worth \"thousands of euros\" and their \"son's baby pictures,\" official support says it's \"working to restore access\"",
+      "url": "https://www.gamesradar.com/games/as-xbox-fan-goes-viral-for-losing-account-with-games-worth-thousands-of-euros-and-their-sons-baby-pictures-official-support-says-its-working-to-restore-access/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:04:42+00:00"
+    },
+    {
+      "guid": "1821432",
+      "title": "Call Of Duty: Modern Warfare 4 Will Probably Look Best On The Console That Costs The Most",
+      "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-will-probably-look-best-on-the-console-that-costs-the-most/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:04:35+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203856",
+      "title": "God of War Laufey's Deborah Ann Woll Feels 'Totally Unbothered' By Online Haters",
+      "url": "https://www.pushsquare.com/news/2026/07/god-of-war-laufeys-deborah-ann-woll-feels-totally-unbothered-by-online-haters",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203654",
+      "title": "Gallery: This 8BitDo Pad Is A Cool Reminder Of A Time When Xbox Wasn't A Mess",
+      "url": "https://www.timeextension.com/news/2026/07/gallery-this-8bitdo-pad-is-a-cool-reminder-of-a-time-when-xbox-wasnt-a-mess",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744706",
+      "title": "God of War Laufey Lead Deborah Ann Woll Says She\u2019s \u201cTotally Unbothered\u201d by Game Backlash Because \u201cI Just Know It\u2019s Great\u201d",
+      "url": "https://otakukart.com/god-of-war-laufey-lead-deborah-ann-woll-says-shes-totally-unbothered-by-game-backlash-because-i-just-know-its-great/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:25:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744705",
+      "title": "Crimson Desert Wins Best Technical Innovation Award at Develop:Star Awards 2026, Beating Death Stranding 2 and DOOM: The Dark Ages",
+      "url": "https://otakukart.com/crimson-deserts-blackspace-engine-wins-best-technical-innovation-award-at-developstar-awards-2026-beating-death-stranding-2-and-doom-the-dark-ages/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T11:14:55+00:00"
     }
   ]
 }
