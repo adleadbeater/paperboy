@@ -552,6 +552,17 @@
       "article_titles": [
         "Zenimax Online Studios leadership included in widespread Xbox job cuts, as concerns around Elder Scrolls Online's longevity persist"
       ]
+    },
+    {
+      "headline": "Report: Microsoft is killing id Software's id Tech engine in favor of Unreal Engine",
+      "tag": "id software",
+      "posted_at": "2026-07-16T11:00:51.991949+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/report-contradicts-microsofts-statements-that-id-software-hasnt-been-shoved-onto-unreal-from-id-tech-its-most-likely-going-to-end-up-in-the-in-the-trash-can/"
+      ],
+      "article_titles": [
+        "Report contradicts Microsoft's statements that id Software hasn't been shoved onto Unreal from id Tech: 'It's most likely going to end up in the in the trash can'"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -844,6 +855,62 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-16T10:22:25+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/playstation-plus-games-july",
+      "title": "Here are our PS Plus Premium and Extra games for July",
+      "url": "https://www.eurogamer.net/playstation-plus-games-july",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T10:57:47+00:00"
+    },
+    {
+      "guid": "sNdefa7avrCnKtm5hzjk28",
+      "title": "Report contradicts Microsoft's statements that id Software hasn't been shoved onto Unreal from id Tech: 'It's most likely going to end up in the in the trash can'",
+      "url": "https://www.pcgamer.com/gaming-industry/report-contradicts-microsofts-statements-that-id-software-hasnt-been-shoved-onto-unreal-from-id-tech-its-most-likely-going-to-end-up-in-the-in-the-trash-can/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T10:43:37+00:00"
+    },
+    {
+      "guid": "Pm7Mhq5ZDqRjrpU8bdwVXi",
+      "title": "Robert Downey Jr.'s response when Kevin Feige offered him Doctor Doom has made me even more excited for Avengers: Doomsday",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-s-response-when-kevin-feige-offered-him-doctor-doom-has-made-me-even-more-excited-for-avengers-doomsday/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T10:47:09+00:00"
+    },
+    {
+      "guid": "jk5r2YURtk7WhcKoKhayDh",
+      "title": "Ex-PlayStation boss says devs need to reach people who don't care about GTA 6, even if Rockstar's long-awaited game is going to hit \"with great force and power\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ex-playstation-boss-says-devs-need-to-reach-people-who-dont-care-about-gta-6-even-if-rockstars-long-awaited-game-is-going-to-hit-with-great-force-and-power/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T10:44:09+00:00"
+    },
+    {
+      "guid": "D2qvuxeMeW6YHgvwmwpyWm",
+      "title": "How to get the Bioscanner in Subnautica 2",
+      "url": "https://www.gamesradar.com/games/survival/subnautica-2-bioscanner/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T10:32:40+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203853",
+      "title": "\"Not Everyone Was Brimming With Confidence\" - Nintendo Legend Chip Tanaka Reflects On The Famicom's Uncertain Launch, 43 Years Later",
+      "url": "https://www.timeextension.com/news/2026/07/not-everyone-was-brimming-with-confidence-nintendo-legend-chip-tanaka-reflects-on-the-famicoms-uncertain-launch-43-years-later",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T10:30:00+00:00"
+    },
+    {
+      "guid": "t3_1uxz2s1",
+      "title": "Watch Dogs Collection leaked for Switch 2.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uxz2s1/watch_dogs_collection_leaked_for_switch_2/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T10:34:29+00:00"
     }
   ]
 }
