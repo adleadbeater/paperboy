@@ -541,6 +541,17 @@
       "article_titles": [
         "Matt Reeves Shares First Look At Robert Pattinson In \u2018The Batman Part II\u2019"
       ]
+    },
+    {
+      "headline": "Xbox Job Cuts Hit ZeniMax Online Studios Leadership, Raising Fears for Elder Scrolls Online's Future",
+      "tag": "elder scrolls online",
+      "posted_at": "2026-07-16T09:30:58.947554+00:00",
+      "urls": [
+        "https://www.eurogamer.net/elder-scrolls-online-zenimax-online-studios-leadership-fired"
+      ],
+      "article_titles": [
+        "Zenimax Online Studios leadership included in widespread Xbox job cuts, as concerns around Elder Scrolls Online's longevity persist"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -617,6 +628,86 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-16T08:55:54+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/elder-scrolls-online-zenimax-online-studios-leadership-fired",
+      "title": "Zenimax Online Studios leadership included in widespread Xbox job cuts, as concerns around Elder Scrolls Online's longevity persist",
+      "url": "https://www.eurogamer.net/elder-scrolls-online-zenimax-online-studios-leadership-fired",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T09:10:56+00:00"
+    },
+    {
+      "guid": "ox9noWsEWMZskrHWhwrYr4",
+      "title": "Against a backdrop of advancing Chinese production, TSMC announces another $100 billion worth of chipmaking will be invested in the US",
+      "url": "https://www.pcgamer.com/hardware/against-a-backdrop-of-advancing-chinese-production-tsmc-announces-another-usd100-billion-worth-of-chipmaking-will-be-invested-in-the-us/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T09:09:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812292",
+      "title": "Cricket Rules India\u2019s Streaming Viewership in New Ormax StreamView Report",
+      "url": "https://variety.com/2026/tv/news/cricket-india-streaming-ormax-streamview-report-1236812292/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T09:15:21+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236649920",
+      "title": "Mark Hamill\u2019s \u2018Star Wars\u2019 Lightsaber Smashes Predictions and Sells for Record Sum at Auction",
+      "url": "https://www.hollywoodreporter.com/news/general-news/star-wars-lightsaber-auction-mark-hamill-luke-skywalker-1236649920/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-16T09:09:10+00:00"
+    },
+    {
+      "guid": "vaxvTFmfHB7fDBjbL6iVEC",
+      "title": "Tom Holland, Matt Damon, and Zendaya have created a rap to promote The Odyssey \u2013 and I can't believe it either",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/tom-holland-matt-damon-and-zendaya-have-created-a-rap-to-promote-the-odyssey-and-i-cant-believe-it-either/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T09:22:30+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203851",
+      "title": "A Legendary Japanese Game Dev Once Told Miyamoto Mario 64 Was Like \"A Really Strict After-School Sports Club\"",
+      "url": "https://www.timeextension.com/news/2026/07/a-legendary-japanese-game-dev-once-told-miyamoto-mario-64-was-like-a-really-strict-after-school-sports-club",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T09:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744400",
+      "title": "Noa-senpai wa Tomodachi Manga Gets TV Anime Adaptation from Studio Feel",
+      "url": "https://otakukart.com/noa-senpai-wa-tomodachi-manga-gets-tv-anime-adaptation-from-studio-feel/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T09:25:17+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744678",
+      "title": "MediaOCD Expands Discotek Deep Dives With New July 2026 Blu-ray Anime Lineup",
+      "url": "https://otakukart.com/mediaocd-expands-discotek-deep-dives-with-new-july-2026-blu-ray-anime-lineup/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T09:21:07+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744679",
+      "title": "Final Fantasy Resonance Gets New Trailer Ahead of October 22 Nintendo Switch 2 Release Date",
+      "url": "https://otakukart.com/final-fantasy-resonance-gets-new-trailer-ahead-of-october-22-nintendo-switch-2-release-date/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T09:15:15+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744677",
+      "title": "Adult Swim SDCC 2026 Schedule Revealed: Rick and Morty Ride, Season 9 Panel, and New Series Take Center Stage",
+      "url": "https://otakukart.com/adult-swim-sdcc-2026-schedule-revealed-rick-and-morty-ride-season-9-panel-and-new-series-take-center-stage/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-16T09:08:20+00:00"
     }
   ]
 }
