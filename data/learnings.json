@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox CEO Asha Sharma Tapped to Lead Federal Reserve Jobs Task Force Days After Announcing 3,200 Layoffs",
-      "tag": "xbox",
-      "posted_at": "2026-07-09T21:30:58.790787+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/us-federal-reserve-taps-xbox-ceo-asha-sharma-who-just-laid-off-3-200-employees-to-lead-task-force-on-jobs/",
-        "https://kotaku.com/xbox-ceo-asha-sharma-joins-federal-reserve-task-force-on-jobs-and-productivity-days-after-announcing-mass-layoffs-2000714269"
-      ],
-      "article_titles": [
-        "US Federal Reserve taps Xbox CEO Asha Sharma, who just laid off 3,200 employees, to lead task force on jobs",
-        "Xbox CEO Asha Sharma Joins Federal Reserve Task Force On \u2018Jobs And Productivity\u2019 Days After Announcing Mass Layoffs"
-      ]
-    },
-    {
-      "headline": "Live-Action Naruto Movie Is Casting Its Three Main Leads in a Global Search",
-      "tag": "naruto",
-      "posted_at": "2026-07-09T23:04:54.652567+00:00",
-      "urls": [
-        "https://variety.com/2026/film/news/naruto-movie-casting-search-live-action-actors-1236806103/"
-      ],
-      "article_titles": [
-        "\u2018Naruto\u2019 Movie Launches Global Casting Search to Find Actors to Play Live-Action Naruto, Sasuke and Sakura"
-      ]
-    },
-    {
       "headline": "Bethesda Union Members Are Marching in Protest Over Xbox's Latest Round of Job Cuts",
       "tag": "bethesda",
       "posted_at": "2026-07-10T14:00:52.046722+00:00",
@@ -548,6 +524,17 @@
       "article_titles": [
         "Saber's new business boss says the KOTOR remake will 'hopefully' be out in 2028"
       ]
+    },
+    {
+      "headline": "God of War's Kratos Has Been Recast After Ryan Hurst Is Injured on Set of the Prime Video Series",
+      "tag": "god of war",
+      "posted_at": "2026-07-17T03:53:59.062008+00:00",
+      "urls": [
+        "https://deadline.com/2026/07/god-of-war-recast-kratos-role-ryan-hurst-injured-on-set-1236984409/"
+      ],
+      "article_titles": [
+        "\u2018God Of War\u2019 To Recast Lead Kratos After Ryan Hurst Suffers Injury On Set Of Prime Video Series"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -568,6 +555,22 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-17T03:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236984409",
+      "title": "\u2018God Of War\u2019 To Recast Lead Kratos After Ryan Hurst Suffers Injury On Set Of Prime Video Series",
+      "url": "https://deadline.com/2026/07/god-of-war-recast-kratos-role-ryan-hurst-injured-on-set-1236984409/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T03:30:52+00:00"
+    },
+    {
+      "guid": "t3_1uyo8t0",
+      "title": "GameStop may have accidentally revealed the Ocarina of Time Pre Order date being August 4th.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uyo8t0/gamestop_may_have_accidentally_revealed_the/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T03:28:19+00:00"
     }
   ]
 }
