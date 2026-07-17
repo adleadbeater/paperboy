@@ -565,36 +565,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.videogameschronicle.com/?p=242342",
-      "title": "Fortnite has started adding AI voices to its NPCs for an upcoming \u2018conversations\u2019 feature",
-      "url": "https://www.videogameschronicle.com/news/fortnite-has-started-adding-ai-voices-to-its-npcs-for-an-upcoming-conversations-feature/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T08:48:25+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236982777",
       "title": "Paramount-Warner Deal Faces Weeks Of Uncertainty As British Lawmakers Go On Summer Break",
       "url": "https://deadline.com/2026/07/paramount-warner-uk-uncertainty-parliament-summer-break-1236982777/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-17T08:58:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236814480",
-      "title": "\u2018Rivals\u2019 Star Annabel Scholey Joins Netflix Thriller Series \u2018The Lord\u2019s Day\u2019 Alongside Damson Idris and Harry Lawtey (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/annabel-scholey-jnetflix-thriller-series-the-lords-day-1236814480/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T08:32:29+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744258",
-      "title": "18 Shonen Anime Female Characters Who Stole Every Scene They Were In",
-      "url": "https://otakukart.com/18-shonen-anime-female-characters-who-stole-every-scene-they-were-in/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T08:39:23+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/god-of-war-amazon-actor-ryan-hurst-injury-recast",
@@ -1107,6 +1083,46 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-17T12:08:00+00:00"
+    },
+    {
+      "guid": "pbrnDsDmN8khV9uK3Wfr9i",
+      "title": "AI music generator Suno has been hacked, detailing the data scraping of millions of songs from YouTube, Deezer, and Genius",
+      "url": "https://www.pcgamer.com/software/ai/ai-music-generator-suno-has-been-hacked-detailing-the-data-scraping-of-millions-of-songs-from-youtube-deezer-and-genius/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T12:30:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236814552",
+      "title": "\u2018Boys of Tommen\u2019 Finds Its Patrick Feely in Jamie Schneider, With James Craven Joining as Pierce O\u2019Neill (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/boys-of-tommen-patrick-feely-jamie-schneider-pierce-oneill-1236814552/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650108",
+      "title": "Netflix Stock Price Targets Tumble, But Wall Street Still Believes in Its Story \u2013 for Those With Patience",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-stock-analyst-reactions-q2-2026-earnings-report-1236650108/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T12:46:17+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203921",
+      "title": "'Stage Tour' Looks To Revive Guitar Hero's Golden Era On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/07/stage-tour-looks-to-revive-guitar-heros-golden-era-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T12:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203920",
+      "title": "Wolverine PS5 Trailer Quietly Confirms Another Major Villain",
+      "url": "https://www.pushsquare.com/news/2026/07/wolverine-ps5-trailer-quietly-confirms-another-major-villain",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T12:30:00+00:00"
     }
   ]
 }
