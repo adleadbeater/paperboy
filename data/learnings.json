@@ -638,30 +638,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236983943",
-      "title": "International Insider: WarnerMount Uncertainty; Danny Boyle @ Venice; BBC Streamer Ask",
-      "url": "https://deadline.com/2026/07/paramount-warner-deal-international-insider-1236983943/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "guid": "ULZeceLG2UxDkA7tyeGdaM",
-      "title": "Doom: The Dark Ages' DLC is a true FPS triumph, and its developers deserve better",
-      "url": "https://www.gamesradar.com/games/fps/doom-the-dark-ages-dlc-is-a-true-fps-triumph-and-its-developers-deserve-better/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=69803",
-      "title": "Tragic visual novel Memento*fragMent offers pieces of \u201cyour own memories\u201d through the story of a girl\u2019s journey across a war-torn world",
-      "url": "https://automaton-media.com/en/news/tragic-visual-novel-mementofragment-offers-pieces-of-your-own-memories-through-the-story-of-a-girls-journey-across-a-war-torn-world/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T12:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000717053",
       "title": "Backrooms Director Leaps In To Stop A24 Copyright Striking Community Art",
       "url": "https://kotaku.com/backrooms-director-kane-parsons-a24-copyright-strike-wallpaper-2000717053",
@@ -702,36 +678,12 @@
       "published_dt": "2026-07-17T12:00:37+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-203918",
-      "title": "Round Up: Glowing Previews for Castlevania: Belmont's Curse Promise a Triumphant Return",
-      "url": "https://www.pushsquare.com/features/round-up-glowing-previews-for-castlevania-belmonts-curse-promise-a-triumphant-return",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203914",
-      "title": "With The PS3 Store Facing Closure Next Year, RSPC3 Is Making Some Incredible Strides With Its Library",
-      "url": "https://www.timeextension.com/news/2026/07/with-the-ps3-store-facing-closure-next-year-rspc3-is-making-some-incredible-strides-with-its-library",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T12:00:00+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1744534",
       "title": "19 Must-Watch Anime If You Love The Apothecary Diaries",
       "url": "https://otakukart.com/19-must-watch-anime-if-you-love-the-apothecary-diaries/",
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-17T12:17:21+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=444902",
-      "title": "RPG: Pirate Treasure For Gaming On The High Seas",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-accessories-pirate-treasure-for-gaming-on-the-high-seas-games.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T12:00:00+00:00"
     },
     {
       "guid": "https://www.enworld.org/threads/between-earth-and-sky-novels-are-coming-to-ttrpg-courtesy-of-monte-cook-games.719942/",
@@ -1500,6 +1452,78 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-07-17T15:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717133",
+      "title": "This Feels Gross",
+      "url": "https://kotaku.com/this-feels-gross-2000717133",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T16:00:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236996828",
+      "title": "Rowan Blanchard To Star In School Shooting-Themed Dark Comedy \u2018The Drill\u2019 From Millicent Hailes",
+      "url": "https://deadline.com/2026/07/rowan-blanchard-millicent-hailes-teaming-the-drill-1236996828/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236814756",
+      "title": "Iko Uwais and Albert Hughes Unite for Multi-Generational Crime Series \u2018Jakarta\u2019 at \u2018Blade Runner 2049\u2019 Outfit Alcon Entertainment (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/iko-uwais-albert-hughes-jakarta-series-alcon-entertainment-1236814756/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650655",
+      "title": "Amanda Seyfried and Scoot McNairy Go Dark and Dangerous in Tim Blake Nelson\u2019s New Film",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-scoot-mcnairy-tim-blake-nelson-wilson-shedd-1236650655/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T16:00:00+00:00"
+    },
+    {
+      "guid": "cDG45xHcQpAQXg6dcrQKDY",
+      "title": "StarCraft 2 patch includes the biggest change since 2015's Legacy of the Void, fans say: \"What are they doing in Anaheim?\"",
+      "url": "https://www.gamesradar.com/games/strategy/starcraft-2-patch-includes-the-biggest-change-since-2015s-legacy-of-the-void-fans-say-what-are-they-doing-in-anaheim/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T15:56:54+00:00"
+    },
+    {
+      "guid": "9b4zYpZkkkSAnAvZrpGYGg",
+      "title": "Matt Damon says he still plans to star in a new Jason Bourne film that he hopes will be \"like the first three\"",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/matt-damon-says-he-still-plans-to-star-in-a-new-jason-bourne-film-that-he-hopes-will-be-like-the-first-three/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T15:56:28+00:00"
+    },
+    {
+      "guid": "UZhmHsgzXWUfBMjhsJe9kh",
+      "title": "That Lenovo cloud handheld lands this August, and an 120Hz display and TMR thumb sticks won't get me into streaming",
+      "url": "https://www.gamesradar.com/hardware/handhelds/that-lenovo-cloud-handheld-lands-this-august-and-an-120hz-display-and-tmr-thumb-sticks-wont-get-me-into-streaming/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T15:55:08+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119733",
+      "title": "3.1 Zenless Zone Zero Adds Lumenflux Agent Remielle, 5 Costumes",
+      "url": "https://www.siliconera.com/3-1-zenless-zone-zero-adds-lumenflux-agent-remielle-5-costumes/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69797",
+      "title": "In the horror RPG\u00a0Money Under the Bed, you get a heap of free cash, but spending it\u00a0causes strange things to happen. Steam demo out now",
+      "url": "https://automaton-media.com/en/news/in-the-horror-rpg-money-under-the-bed-you-get-a-heap-of-free-cash-but-spending-it-causes-strange-things-to-happen-steam-demo-out-now/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T16:00:00+00:00"
     }
   ]
 }
