@@ -588,76 +588,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000717222",
-      "title": "Disney Has Started Feeding Your Kids AI Slop",
-      "url": "https://kotaku.com/disney-has-started-feeding-your-kids-ai-slop-2000717222",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T19:30:14+00:00"
-    },
-    {
       "guid": "75LaMCPPakPVjCioxs5YMm",
       "title": "'We're interested in having the whole PC catalog as our 'launch exclusive'': Valve talks exclusives and the advantages of an open platform",
       "url": "https://www.pcgamer.com/hardware/were-interested-in-having-the-whole-pc-catalog-as-our-launch-exclusive-valve-talks-exclusives-and-the-advantages-of-an-open-platform/",
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-07-17T19:50:30+00:00"
-    },
-    {
-      "guid": "rwhdtMsQQTuz3U4CYjUq4D",
-      "title": "Blizzard finally caved on Diablo 4's disastrous new season with a patch that reverts almost everything players hated: 'Not every idea lands exactly as intended'",
-      "url": "https://www.pcgamer.com/games/rpg/blizzard-finally-caved-on-diablo-4s-disastrous-new-season-with-a-patch-that-reverts-almost-everything-players-hated-not-every-idea-lands-exactly-as-intended/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T19:30:02+00:00"
-    },
-    {
-      "guid": "yDEmmjn35aNTstKkrpCVgL",
-      "title": "Doom director Hugo Martin says id Software is fine, and anyway, 'what matters the most is that the games are good'",
-      "url": "https://www.pcgamer.com/gaming-industry/doom-director-hugo-martin-says-id-software-is-fine-and-anyway-what-matters-the-most-is-that-the-games-are-good/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T19:29:13+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236997034",
-      "title": "\u2018Mortal Kombat II\u2019 Attacking Home Screens On HBO Max & HBO Next Week",
-      "url": "https://deadline.com/2026/07/mortal-kombat-ii-streaming-date-hbo-max-1236997034/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T19:26:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650997",
-      "title": "Time Isn\u2019t on Paramount\u2019s Side",
-      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-court-lawsuit-warner-bros-states-1236650997/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T19:22:07+00:00"
-    },
-    {
-      "guid": "FjxdwhB6SibM2WM9HnufAb",
-      "title": "Marathon just lost its game director: Joe Ziegler is Bungie's latest high-profile departure",
-      "url": "https://www.gamesradar.com/games/fps/marathon-just-lost-its-game-director-joe-ziegler-is-bungies-latest-high-profile-departure/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T19:35:27+00:00"
-    },
-    {
-      "guid": "SU2LEcTdzbjkFNYK9N2HKZ",
-      "title": "Diablo 4 players are accidentally trashing their best items due to an \"objectively misleading\" recipe, and it's the best argument I've seen for yellow paint in games",
-      "url": "https://www.gamesradar.com/games/diablo/diablo-4-players-are-accidentally-trashing-their-best-items-due-to-an-objectively-misleading-recipe-and-its-the-best-argument-ive-seen-for-yellow-paint-in-games/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T19:32:09+00:00"
-    },
-    {
-      "guid": "1823961",
-      "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
-      "url": "https://www.gamespot.com/articles/marathon-game-director-leaves-bungie-at-a-tumultuous-time/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T19:31:05+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-203958",
@@ -866,6 +802,30 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-17T22:04:00+00:00"
+    },
+    {
+      "guid": "95716443-76cb-4448-a453-436c484a20d4",
+      "title": "Jurassic Park Fans Go Viral With Tear-Jerking Tribute to Sam Neill In Path of Titans",
+      "url": "https://www.ign.com/articles/jurassic-park-fans-go-viral-with-tear-jerking-tribute-to-sam-neill-in-path-of-titans",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T23:28:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236997261",
+      "title": "Colman Domingo & Robert O\u2019Hara In Talks To Write Original Live-Action Pic About \u2018Princess And The Frog\u2019s Tiana \u2013 The Dish",
+      "url": "https://deadline.com/2026/07/colman-domingo-princess-and-the-frog-movie-tiana-1236997261/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T23:16:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236815197",
+      "title": "Olivia Dean\u2019s First U.S. Arena Tour Is Off to a Smashing Start, With L.A. Shows Proving She\u2019s No One-Grammy Wonder: Concert Review",
+      "url": "https://variety.com/2026/music/concert-reviews/olivia-dean-concert-review-crypto-arena-tour-1236815197/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T23:04:39+00:00"
     }
   ]
 }
