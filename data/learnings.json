@@ -552,14 +552,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650118",
-      "title": "Animation Finally Gets Its Own Green Certification",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/europe-launches-environmental-certification-for-animation-1236650118/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T08:00:00+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1745020",
       "title": "Saber Exec Suggests Warhammer 40,000: Space Marine 3 Could Release in 2028, Says Aggressive Microtransactions Aren\u2019t Planned",
       "url": "https://otakukart.com/saber-exec-suggests-space-marine-3-could-release-in-2028-says-aggressive-microtransactions-arent-planned/",
@@ -990,6 +982,70 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-17T11:22:03+00:00"
+    },
+    {
+      "guid": "3c66e050-a68c-49ad-9361-be61c5119b59",
+      "title": "id Software Creative Director Says Claims the Doom Developer Was 'Nerfed Into the Ground' by Xbox Layoffs Are Untrue",
+      "url": "https://www.ign.com/articles/id-software-creative-director-says-claims-the-doom-developer-was-nerfed-into-the-ground-by-xbox-layoffs-are-untrue",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T11:31:05+00:00"
+    },
+    {
+      "guid": "qXzAMtHE4Bhbg2dBKUizZk",
+      "title": "The blinding muzzle flash in Modern Warfare 4's gameplay premiere was actually a bug",
+      "url": "https://www.pcgamer.com/games/call-of-duty/the-blinding-muzzle-flash-in-modern-warfare-4s-gameplay-premiere-was-actually-a-bug/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T11:49:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236983943",
+      "title": "International Insider: WarnerMount Uncertainty; Danny Boyle @ Venice; BBC Streamer Ask",
+      "url": "https://deadline.com/2026/07/paramount-warner-deal-international-insider-1236983943/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T12:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236812149",
+      "title": "Netflix Plans Theatrical Events in Colombia for Grand Finale of Epic \u2018One Hundred Years of Solitude\u2019 Part 2 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/netflix-one-hundred-years-of-solitude-dates-part-2-1236812149/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T11:44:07+00:00"
+    },
+    {
+      "guid": "ULZeceLG2UxDkA7tyeGdaM",
+      "title": "Doom: The Dark Ages' DLC is a true FPS triumph, and its developers deserve better",
+      "url": "https://www.gamesradar.com/games/fps/doom-the-dark-ages-dlc-is-a-true-fps-triumph-and-its-developers-deserve-better/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T12:00:00+00:00"
+    },
+    {
+      "guid": "LCQiJtRVXbLRLvQSUFyjjY",
+      "title": "Big Hollywood studios are fighting over new director on the block Kane Parsons ahead of his Backrooms sequel",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/big-hollywood-studios-are-fighting-over-new-director-on-the-block-kane-parsons-ahead-of-his-backrooms-sequel/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T11:45:40+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69803",
+      "title": "Tragic visual novel Memento*fragMent offers pieces of \u201cyour own memories\u201d through the story of a girl\u2019s journey across a war-torn world",
+      "url": "https://automaton-media.com/en/news/tragic-visual-novel-mementofragment-offers-pieces-of-your-own-memories-through-the-story-of-a-girls-journey-across-a-war-torn-world/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T12:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1744559",
+      "title": "20 Anime That Redefined Modern Anime",
+      "url": "https://otakukart.com/20-anime-that-redefined-modern-anime/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T11:48:07+00:00"
     }
   ]
 }
