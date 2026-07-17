@@ -559,19 +559,24 @@
         "Round Up: Glowing Previews for Castlevania: Belmont's Curse Promise a Triumphant Return",
         "Round Up: \"The Game F***ing Rules\" - The First Previews For Castlevania: Belmont's Curse Are In"
       ]
+    },
+    {
+      "headline": "Marvel's Wolverine PS5 Trailer Secretly Teases a Major New Villain",
+      "tag": "marvel's wolverine",
+      "posted_at": "2026-07-17T13:00:41.999245+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/07/wolverine-ps5-trailer-quietly-confirms-another-major-villain",
+        "https://www.pushsquare.com/news/2026/07/wolverine-ps5-trailer-quietly-confirms-another-major-villain"
+      ],
+      "article_titles": [
+        "Wolverine PS5 Trailer Quietly Confirms Another Major Villain",
+        "Wolverine PS5 Trailer Quietly Confirms Another Major Villain"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1236982777",
-      "title": "Paramount-Warner Deal Faces Weeks Of Uncertainty As British Lawmakers Go On Summer Break",
-      "url": "https://deadline.com/2026/07/paramount-warner-uk-uncertainty-parliament-summer-break-1236982777/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T08:58:58+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/god-of-war-amazon-actor-ryan-hurst-injury-recast",
       "title": "The live-action God of War TV series suffers a huge setback as Kratos actor is injured badly on set and needs to be recast",
@@ -611,14 +616,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-17T09:05:03+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203903",
-      "title": "More Toaplan Physical Collections Are Coming To Polymega, Based On Truxton, FixEight, & Snow Bros.",
-      "url": "https://www.timeextension.com/news/2026/07/more-toaplan-physical-collections-are-coming-to-polymega-based-on-truxton-fixeight-and-snow-bros",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T09:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1744551",
@@ -1123,6 +1120,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-17T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1063727",
+      "title": "Zenless Zone Zero version 3.1 update \u2018The Long Goodbye\u2019 launches July 29",
+      "url": "https://www.gematsu.com/2026/07/zenless-zone-zero-version-3-1-update-the-long-goodbye-launches-july-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T12:59:13+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69761",
+      "title": "Crazy hamster POV live-action romance sim Sweet Hamster Days is Kodansha\u2019s bid to\u00a0bring Japanese gravure culture\u00a0into gaming.\u00a0We talk to the\u00a0devs",
+      "url": "https://automaton-media.com/en/interviews/crazy-hamster-pov-live-action-romance-sim-sweet-hamster-days-is-kodanshas-bid-to-bring-japanese-gravure-culture-into-gaming/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T13:00:00+00:00"
     }
   ]
 }
