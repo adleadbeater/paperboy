@@ -591,30 +591,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236996674",
-      "title": "Giovanni Veronesi\u2019s \u2018Dio Ride\u2019 To Close Venice Film Festival",
-      "url": "https://deadline.com/2026/07/giovanni-veronesi-dio-ride-venice-film-festival-1236996674/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T10:07:05+00:00"
-    },
-    {
-      "guid": "cq4vUVcU3ZQnF6S6wX9DvQ",
-      "title": "Ayaneo unveils its Konkr Pocket Advance, and it's the GBA handheld remake I was holding out for",
-      "url": "https://www.gamesradar.com/hardware/retro/ayaneo-unveils-its-konkr-pocket-advance-and-its-the-gba-handheld-remake-i-was-holding-out-for/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T10:22:06+00:00"
-    },
-    {
-      "guid": "r9bMvYcpUDUCyiSLbtJNRR",
-      "title": "GTA 5 had \"so much\" cut content, including minigames that were almost \"completely done,\" former Rockstar dev says: \"They'll throw out entire levels\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-had-so-much-cut-content-including-minigames-that-were-almost-completely-done-former-rockstar-dev-says-theyll-throw-out-entire-levels/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-17T10:21:17+00:00"
-    },
-    {
       "guid": "t3_1uyvvik",
       "title": "Reece Kiwi Talkz teases Black Flag on Switch 2",
       "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uyvvik/reece_kiwi_talkz_teases_black_flag_on_switch_2/",
@@ -1197,6 +1173,70 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-17T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/kotor-remake-2028-release-window-chief-business-officer",
+      "title": "Star Wars: KOTOR remake is alive and eyeing a 2028 release window, according to Sabre Interactive's chief business office",
+      "url": "https://www.eurogamer.net/kotor-remake-2028-release-window-chief-business-officer",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T14:10:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717082",
+      "title": "Bethesda Isn\u2019t Giving Up On Starfield As It Promises New Content In 2027: \u2018Starfield Remains An Important Part Of Our Future\u2019",
+      "url": "https://kotaku.com/bethesda-isnt-giving-up-on-starfield-as-it-promises-new-content-in-2027-starfield-remains-an-important-part-of-our-future-2000717082",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T14:00:06+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717081",
+      "title": "Todd Howard Updates Fans On The State Of Bethesda After Brutal Xbox \u2018Reset\u2019: \u2018The Elder Scrolls 6 Is Our Primary Development Focus\u2019",
+      "url": "https://kotaku.com/todd-howard-updates-fans-on-the-state-of-bethesda-after-brutal-xbox-reset-the-elder-scrolls-6-is-our-primary-development-focus-2000717081",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T13:59:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236814649",
+      "title": "\u2018Dhurandhar: The Revenge\u2019 Anchors India\u2019s Strongest Post-Pandemic First Half at the Box Office",
+      "url": "https://variety.com/2026/film/box-office/dhurandhar-india-box-office-h1-2026-1236814649/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T14:01:49+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236814611",
+      "title": "\u2018Fallout 5\u2019 in Preproduction, \u2018Elder Scrolls 6\u2019 Is Bethesda\u2019s \u2018Primary Development Focus\u2019 Following Xbox Layoffs, Studio Chief Says",
+      "url": "https://variety.com/2026/gaming/news/fallout-5-elder-scrolls-6-game-updates-bethesda-todd-howard-1236814611/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T14:01:21+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236650848",
+      "title": "\u2018God of War\u2019 to Recast Kratos Role Following Ryan Hurst On-Set Injury",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/god-of-war-recast-kratos-ryan-hurst-stunt-injury-1236650848/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-17T14:16:12+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203944",
+      "title": "Fallout 3, New Vegas PS5 Remasters Confirmed by Bethesda",
+      "url": "https://www.pushsquare.com/news/2026/07/fallout-3-new-vegas-ps5-remasters-confirmed-by-bethesda",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T14:15:00+00:00"
+    },
+    {
+      "guid": "t3_1uz0n5z",
+      "title": "A new Fallout from Obsidian, and Remasters of Fallout 3 and New Vesas confirmed",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1uz0n5z/a_new_fallout_from_obsidian_and_remasters_of/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-17T14:02:02+00:00"
     }
   ]
 }
