@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "God of War: Laufey Gets a Physical Disc Release Confirmation, Pointing to a 2027 Launch Window",
-      "tag": "god of war",
-      "posted_at": "2026-07-10T20:58:42.415016+00:00",
-      "urls": [
-        "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch",
-        "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778"
-      ],
-      "article_titles": [
-        "God of War Laufey Physical Disc Release Confirmed, Suggesting 2027 Launch",
-        "God Of War Laufey Promises Physical Disc Version, All But Confirming 2027 Launch"
-      ]
-    },
-    {
       "headline": "EA Backs Down on College Football 27 Microtransactions After Player Backlash",
       "tag": "ea college football 27",
       "posted_at": "2026-07-11T18:13:33.829249+00:00",
@@ -582,26 +569,37 @@
       "article_titles": [
         "Marvel\u2019s Move To L.A. After 87 Years Means The End Of The New York City Comics Industry"
       ]
+    },
+    {
+      "headline": "ZA/UM Is Laying Off a Large Chunk of Staff Again as Disco Elysium Studio Continues to Struggle",
+      "tag": "disco elysium",
+      "posted_at": "2026-07-18T12:42:19.614938+00:00",
+      "urls": [
+        "https://www.eurogamer.net/disco-elysium-zero-parades-studio-zaum-to-lay-off-large-chunk-of-staff-once-more"
+      ],
+      "article_titles": [
+        "Controversy-laiden Disco Elysium and Zero Parades studio ZA/UM to lay off large chunk of staff once more"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236815343",
-      "title": "S.S. Rajamouli Marks Priyanka Chopra Jonas\u2019 Birthday With New \u2018Varanasi\u2019 Images",
-      "url": "https://variety.com/2026/film/news/priyanka-chopra-jonas-varanasi-images-birthday-1236815343/",
-      "source_name": "Variety",
+      "guid": "https://www.eurogamer.net/disco-elysium-zero-parades-studio-zaum-to-lay-off-large-chunk-of-staff-once-more",
+      "title": "Controversy-laiden Disco Elysium and Zero Parades studio ZA/UM to lay off large chunk of staff once more",
+      "url": "https://www.eurogamer.net/disco-elysium-zero-parades-studio-zaum-to-lay-off-large-chunk-of-staff-once-more",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-07-18T07:58:24+00:00"
+      "published_dt": "2026-07-18T12:36:19+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236650567",
-      "title": "Tile\u2019s New Mickey- and Minnie-Themed Trackers Keep Kids (and Disney Adults) From Losing Their Stuff",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/disney-tile-bluetooth-tracker-wallet-mickey-minnie-life360-1236650567/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T07:50:02+00:00"
+      "guid": "2jruvTMXZUoZLgqFog2ZhQ",
+      "title": "GTA 5 dev \"can only imagine the size of GTA 6\" \u2013 \"It must be monstrous\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-5-dev-can-only-imagine-the-size-of-gta-6-it-must-be-monstrous/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-18T12:26:01+00:00"
     }
   ]
 }
