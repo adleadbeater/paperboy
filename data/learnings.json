@@ -597,22 +597,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1236997556",
-      "title": "\u2018RuPaul\u2019s Drag Race\u2019 Star Valentina To Make Broadway Debut In \u2018The Rocky Horror Show\u2019",
-      "url": "https://deadline.com/2026/07/valentina-broadway-rocky-horror-show-1236997556/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T17:44:19+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1745486",
-      "title": "Bethesda\u2019s Todd Howard Says He No Longer Thinks About Retirement as The Elder Scrolls 6 Development Continues",
-      "url": "https://otakukart.com/bethesdas-todd-howard-says-he-no-longer-thinks-about-retirement-as-the-elder-scrolls-6-development-continues/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-18T17:44:26+00:00"
-    },
-    {
       "guid": "44ea0171-31f7-4e56-adb5-2eb592413a40",
       "title": "Call of Duty Movie to Take Place in the Modern Warfare Universe, Director Confirms",
       "url": "https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms",
@@ -675,6 +659,14 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-07-18T21:30:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236815424",
+      "title": "\u2018Manhunter: The Final Cut\u2019 Shows Why Director\u2019s Cuts Are Almost Never an Improvement. But It\u2019s Still the Greatest Thriller of Our Time",
+      "url": "https://variety.com/2026/film/columns/manhunter-the-final-cut-the-greatest-thriller-of-our-time-1236815424/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-18T22:26:31+00:00"
     }
   ]
 }
