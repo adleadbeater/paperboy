@@ -597,62 +597,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000717414",
-      "title": "Valve Says Retail Memory Prices Are \u2018Lagging\u2019 And Are About To Become Even More Expensive: \u2018It\u2019s Still Getting Worse\u2019",
-      "url": "https://kotaku.com/valve-says-retail-memory-prices-are-lagging-and-are-about-to-become-even-more-expensive-its-still-getting-worse-2000717414",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T16:00:37+00:00"
-    },
-    {
-      "guid": "d2pjzykcZwUQejiecVf4oS",
-      "title": "I'm not worried about Fallout: New Vegas 2, because Obsidian knows how to make the best out of a bad situation",
-      "url": "https://www.pcgamer.com/games/rpg/im-not-worried-about-fallout-new-vegas-2-because-obsidian-knows-how-to-make-the-best-out-of-a-bad-situation/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236814904",
-      "title": "W Hotels Expands Italian Footprint\u00a0With\u00a0New Sardinia Resort \u2014 and a Three-Stop \u2018Italian Tour\u2019",
-      "url": "https://variety.com/2026/shopping/news/w-hotels-italian-tour-sardinia-rome-florence-book-online-1236814904/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236815411",
-      "title": "Box Office: \u2018The Odyssey\u2019 Has Epic Opening Day With $51 Million",
-      "url": "https://variety.com/2026/film/box-office/box-office-the-odyssey-opening-day-christopher-nolan-1236815411/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T15:50:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236651507",
-      "title": "\u2018The Odyssey\u2019 Galloping to $120M in Muscular Box Office Opening",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-box-office-opening-christopher-nolan-1236651507/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T16:16:47+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1745459",
-      "title": "GTA 5 Dev Says Rockstar\u2019s Bigger Worlds Make GTA 6\u2019s Development \u201cReally Difficult,\u201d Says He\u2019s \u201cPretty Happy\u201d He\u2019s Not Working on It",
-      "url": "https://otakukart.com/gta-5-dev-says-rockstars-bigger-worlds-make-gta-6s-development-really-difficult-says-hes-pretty-happy-hes-not-working-on-it/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-18T16:13:17+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1745461",
-      "title": "Roblox Introduces AI Tool That Lets Players Build Games With Simple Text Prompts on Mobile: \u201cPrompt, refine, playtest, and share\u201d",
-      "url": "https://otakukart.com/roblox-introduces-ai-tool-that-lets-players-build-games-with-simple-text-prompts-on-mobile-prompt-refine-playtest-and-share/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-18T16:26:31+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236996979",
       "title": "\u2018The Odyssey\u2019 Opening To $257M+ Around The World, Best Ever For Christopher Nolan Ahead Of \u2018Dark Knight Rises\u2019 \u2013 Global Box Office Update",
       "url": "https://deadline.com/2026/07/box-office-global-the-odyssey-1236996979/",
@@ -661,36 +605,12 @@
       "published_dt": "2026-07-18T16:45:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236997510",
-      "title": "Larry David Jabs Anti-Vaccine Activism Of Cheryl Hines\u2019 Husband In Latest \u2018Life, Larry And The Pursuit Of Unhappiness\u2019",
-      "url": "https://deadline.com/2026/07/larry-david-robert-kennedy-jr-1236997510/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T16:30:48+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236815444",
       "title": "Joe Caldwell, \u2018Dark Shadows\u2019 Writer, Dies at 97",
       "url": "https://variety.com/2026/tv/news/joe-caldwell-dead-dark-shadows-1236815444/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-18T16:52:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236815410",
-      "title": "My 2 a.m. \u2018Odyssey\u2019: Inside the Sold-Out, All-Night Screening of Christopher Nolan\u2019s Epic",
-      "url": "https://variety.com/2026/film/news/the-odyssey-2am-screenings-imax-70mm-1236815410/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236647039",
-      "title": "\u2018Heartstopper Forever\u2019 Director, Writer and Stars Joe Locke and Kit Connor on the Finale: \u201cIt Connects the Whole Heartstopper Gang\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/heartstopper-forever-ending-kit-connor-joe-lock-interview-1236647039/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T16:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1745467",
@@ -715,14 +635,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-18T16:40:52+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1745462",
-      "title": "Naruto Creator Says The Amazing Spider-Man 2 Is His Favorite Spider-Man Movie, Reveals Spider-Man\u2019s Complex Villains Inspired His Naruto\u2019s Villains",
-      "url": "https://otakukart.com/naruto-creator-says-the-amazing-spider-man-2-is-his-favorite-spider-man-movie-reveals-spider-mans-complex-villains-inspired-his-narutos-villains/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-18T16:30:58+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000717429",
@@ -835,6 +747,22 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-18T19:29:24+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717442",
+      "title": "China Introduces New Laws To Prevent People From Falling In Love With AI Chatbots",
+      "url": "https://kotaku.com/china-introduces-new-laws-to-prevent-people-from-falling-in-love-with-ai-chatbots-2000717442",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-18T20:00:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236815510",
+      "title": "The Cure\u2019s Robert Smith Slams FIFA\u2019s World Cup Final Halftime Show: \u2018Just F\u2014 Off\u2019",
+      "url": "https://variety.com/2026/music/news/robert-smith-fifa-world-cup-halftime-show-1236815510/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-18T20:17:10+00:00"
     }
   ]
 }
