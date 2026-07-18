@@ -588,22 +588,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "95716443-76cb-4448-a453-436c484a20d4",
-      "title": "Jurassic Park Fans Go Viral With Tear-Jerking Tribute to Sam Neill In Path of Titans",
-      "url": "https://www.ign.com/articles/jurassic-park-fans-go-viral-with-tear-jerking-tribute-to-sam-neill-in-path-of-titans",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T23:28:35+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236997261",
-      "title": "Colman Domingo & Robert O\u2019Hara In Talks To Write Original Live-Action Pic About \u2018Princess And The Frog\u2019s Tiana \u2013 The Dish",
-      "url": "https://deadline.com/2026/07/colman-domingo-princess-and-the-frog-movie-tiana-1236997261/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-17T23:16:04+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236997429",
       "title": "John Kirby Dies: Acting Coach, Bruno Kirby\u2019s Brother & Bruce Kirby\u2019s Son Was 75",
       "url": "https://deadline.com/2026/07/john-kirby-dead-acting-coach-bruno-kirby-brother-bruce-kirby-son-1236997429/",
@@ -618,6 +602,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-18T02:54:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651445",
+      "title": "All of the Guest Stars and Cameos on HBO Max\u2019s \u2018Life, Larry and the Pursuit of Unhappiness\u2019 (So Far)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/larry-and-the-pursuit-of-unhappiness-guest-stars-cameos-1236651445/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-18T03:25:20+00:00"
     }
   ]
 }
