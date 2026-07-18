@@ -597,30 +597,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "44ea0171-31f7-4e56-adb5-2eb592413a40",
-      "title": "Call of Duty Movie to Take Place in the Modern Warfare Universe, Director Confirms",
-      "url": "https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T19:03:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236815495",
-      "title": "Freddy Cannon, Rocker Whose Late \u201950s and Early \u201960s Hits Included \u2018Palisades Park\u2019 and \u2018Tallahassee Lassie,\u2019 Dies at 89",
-      "url": "https://variety.com/2026/music/obituaries-people-news/freddy-cannon-dead-palisades-park-rocker-1236815495/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T19:29:54+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236815471",
-      "title": "Samantha Morton on Her Electrifying Performance as Circe in Christopher Nolan\u2019s \u2018The Odyssey\u2019: \u2018It Felt Like a Rebirth\u2019",
-      "url": "https://variety.com/2026/film/news/samantha-morton-circe-christopher-nolan-the-odyssey-1236815471/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-18T19:29:24+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000717442",
       "title": "China Introduces New Laws To Prevent People From Falling In Love With AI Chatbots",
       "url": "https://kotaku.com/china-introduces-new-laws-to-prevent-people-from-falling-in-love-with-ai-chatbots-2000717442",
@@ -667,6 +643,22 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-18T22:26:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236815625",
+      "title": "Christopher Nolan Says It Will Be \u2018At Least\u2019 Three Years Until He Makes Another Movie After \u2018The Odyssey\u2019 Pushed the \u2018Limits of My Own Stamina\u2019",
+      "url": "https://variety.com/2026/film/news/christopher-nolan-three-years-another-movie-the-odyssey-1236815625/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-18T23:08:03+00:00"
+    },
+    {
+      "guid": "t3_1v0allk",
+      "title": "Splatoon Raiders (Nintendo Switch 2), might have broken street date.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v0allk/splatoon_raiders_nintendo_switch_2_might_have/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-18T23:25:19+00:00"
     }
   ]
 }
