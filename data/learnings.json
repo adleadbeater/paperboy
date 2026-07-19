@@ -608,22 +608,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://otakukart.com/?p=1745579",
-      "title": "Zenless Zone Zero Version 3.1 Launches July 29 With New Agents, Second-Anniversary Rewards, and Xbox PC Release",
-      "url": "https://otakukart.com/zenless-zone-zero-version-3-1-launches-july-29-with-new-agents-second-anniversary-rewards-and-xbox-pc-release/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-19T11:12:56+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1745580",
-      "title": "Palworld Nears 1 Million Concurrent Steam Players, Up Over 1,500% Since Version 1.0 Release",
-      "url": "https://otakukart.com/palworld-nears-1-million-concurrent-steam-players-up-over-1500-since-version-1-0-release/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-19T11:09:11+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000717238",
       "title": "Please Stop Recommending Mushoku Tensei",
       "url": "https://kotaku.com/mushoku-tensei-anime-groomer-isekai-eris-rudeus-2000717238",
@@ -774,6 +758,38 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-07-19T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/call-of-duty-movie-set-modern-warfare-universe",
+      "title": "Call of Duty movie will be set in the Modern Warfare universe",
+      "url": "https://www.eurogamer.net/call-of-duty-movie-set-modern-warfare-universe",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T15:12:32+00:00"
+    },
+    {
+      "guid": "NWMW6tbNLDpQbiTSMKK6T7",
+      "title": "'The mid-2000s was the golden era of first-person shooters': David Syzmankski, creator of Dusk and Iron Lung, discusses the games on his PC",
+      "url": "https://www.pcgamer.com/gaming-industry/the-mid-2000s-was-the-golden-era-of-first-person-shooters-david-syzmankski-creator-of-dusk-and-iron-lung-discusses-the-games-on-his-pc/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236993792",
+      "title": "\u2018The Odyssey\u2019 Slays With $124M+ U.S. Opening: \u2018A\u2019 CinemaScore, Best Live-Action Haul Of 2026,  Record For Matt Damon As Lead & More \u2013 Box Office Sunday AM Update",
+      "url": "https://deadline.com/2026/07/box-office-the-odyssey-1236993792/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T15:13:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236815960",
+      "title": "Jennifer Finch, L7 Bassist and Tireless Indie-Rock Champion, Dies After Battle With Brain Cancer",
+      "url": "https://variety.com/2026/music/news/jennifer-finch-dead-l7-bassist-brain-cancer-1236815960/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T15:23:27+00:00"
     }
   ]
 }
