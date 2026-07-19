@@ -656,14 +656,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation",
-      "title": "Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to \"look after her mental and physical health\"",
-      "url": "https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T16:57:42+00:00"
-    },
-    {
       "guid": "gXY5A7JAFooVS84uvSXNPM",
       "title": "Riot quickly backpedals on paid old-school skins in League of Legends Classic after backlash",
       "url": "https://www.pcgamer.com/games/moba/riot-quickly-backpedals-on-paid-old-school-skins-in-league-of-legends-classic-after-backlash/",
@@ -680,28 +672,12 @@
       "published_dt": "2026-07-19T17:23:49+00:00"
     },
     {
-      "guid": "P5yBoaeFWwDyXYcXSduren",
-      "title": "What's the best summer-themed videogame track?",
-      "url": "https://www.pcgamer.com/games/whats-the-best-summer-themed-videogame-track/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T17:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236997750",
       "title": "\u2018Real Housewives Of Orange County\u2019 Star Jeana Keough Diagnosed With Tongue Cancer At 70",
       "url": "https://deadline.com/2026/07/real-housewives-of-orange-county-jeana-keough-diagnosed-cancer-1236997750/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-19T17:20:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236997738",
-      "title": "Anne Hathaway Shares \u2018Princess Diaries 3\u2019 Update After Having To \u201cStart Over\u201d: \u201cWe Had A Story Breakthrough\u201d",
-      "url": "https://deadline.com/2026/07/anne-hathaway-princess-diaries-3-update-1236997738/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T16:54:51+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236815991",
@@ -846,6 +822,38 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-19T20:16:42+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717519",
+      "title": "The New England Road Trip Haunted By Pok\u00e9mon Go And The AR Game That Made A Summer Stranger",
+      "url": "https://kotaku.com/the-new-england-road-trip-haunted-by-pokemon-go-and-the-ar-game-that-made-a-summer-stranger-2000717519",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T20:55:46+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816110",
+      "title": "Madonna, BTS, Justin Bieber and Shakira Join Forces for Blink-and-You\u2019ll-Miss-\u2018Em Moments in a Cluster-FIFA of a Halftime Show",
+      "url": "https://variety.com/2026/music/news/fifa-halftime-madonna-bts-justin-bieber-shakira-1236816110/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T20:40:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651733",
+      "title": "World Cup Final Star-Spotting: Matt Damon, Tom Cruise, Jay-Z, Beyonc\u00e9 and Timoth\u00e9e Chalamet in Attendance",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-2026-celebrities-in-attendance-1236651733/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T20:59:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651689",
+      "title": "Madonna, Justin Bieber, BTS, Shakira Headline Jam-Packed First-Ever FIFA World Cup Final Halftime Show",
+      "url": "https://www.hollywoodreporter.com/music/music-news/fifa-world-cup-halftime-madonna-justin-bieber-bts-shakira-1236651689/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T20:35:13+00:00"
     }
   ]
 }
