@@ -602,19 +602,22 @@
       "article_titles": [
         "Xbox Promises A Third Upcoming Exclusive As It Tries To Explain A Confusing Reversal"
       ]
+    },
+    {
+      "headline": "Game of Thrones: War for Westeros RTS Pushed to 2027",
+      "tag": "game of thrones: war for westeros",
+      "posted_at": "2026-07-19T16:26:10.566034+00:00",
+      "urls": [
+        "https://www.eurogamer.net/game-of-thrones-war-for-westeros-rts-game-delayed-to-2027"
+      ],
+      "article_titles": [
+        "Game of Thrones: War for Westeros RTS delayed to 2027 to \"ensure the game reaches the high level of quality we are aiming for\""
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000717238",
-      "title": "Please Stop Recommending Mushoku Tensei",
-      "url": "https://kotaku.com/mushoku-tensei-anime-groomer-isekai-eris-rudeus-2000717238",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T12:00:48+00:00"
-    },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236651602",
       "title": "Fanatics Debuts \u201cWe\u2019re Still Wearing It\u201d Campaign Honoring Lionel Messi Ahead of World Cup Final",
@@ -790,6 +793,62 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-19T15:23:27+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/game-of-thrones-war-for-westeros-rts-game-delayed-to-2027",
+      "title": "Game of Thrones: War for Westeros RTS delayed to 2027 to \"ensure the game reaches the high level of quality we are aiming for\"",
+      "url": "https://www.eurogamer.net/game-of-thrones-war-for-westeros-rts-game-delayed-to-2027",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T16:21:49+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/palworld-almost-hits-1-million-concurrents-again",
+      "title": "Palworld is once again dominating Steam this weekend, clocking up almost 1m concurrent players",
+      "url": "https://www.eurogamer.net/palworld-almost-hits-1-million-concurrents-again",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T15:51:45+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717494",
+      "title": "Cliff Bleszinski Blames Personal Ego And Alcohol Issues For Boss Key\u2019s Failure",
+      "url": "https://kotaku.com/cliff-bleszinski-blames-personal-ego-and-alcohol-issues-for-boss-keys-failure-2000717494",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T16:14:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236997711",
+      "title": "Telemundo Scores U.S. Spanish-Language Rights To UEFA Champions League",
+      "url": "https://deadline.com/2026/07/telemundo-scores-spanish-language-rights-uefa-champions-league-1236997711/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T15:55:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651646",
+      "title": "\u2018The Odyssey\u2019 Seizes $124M Opening in Box Office Triumph",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-box-office-christopher-nolan-opening-success-1236651646/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T15:51:43+00:00"
+    },
+    {
+      "guid": "K8tuB9JydKqXy9Z9WrL4jV",
+      "title": "This is the most balanced start to a Warhammer 40K edition that I can remember, but there's still room for improvement",
+      "url": "https://www.gamesradar.com/tabletop-gaming/this-is-the-most-balanced-start-to-a-warhammer-40k-edition-that-i-can-remember-but-theres-still-room-for-improvement/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-19T16:05:00+00:00"
+    },
+    {
+      "guid": "8QKUnwj2diDoT8rLQCaA6k",
+      "title": "\"It creates lesser games\": Indie game studios are supposed to love generative AI, so why do the 25 devs I spoke to avoid it?",
+      "url": "https://www.gamesradar.com/games/it-creates-lesser-games-indie-game-studios-are-supposed-to-love-generative-ai-so-why-do-the-25-devs-i-spoke-to-avoid-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-19T16:00:00+00:00"
     }
   ]
 }
