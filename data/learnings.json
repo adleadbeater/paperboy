@@ -643,30 +643,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000717484",
-      "title": "Xbox Promises A Third Upcoming Exclusive As It Tries To Explain A Confusing Reversal",
-      "url": "https://kotaku.com/xbox-promises-a-third-upcoming-exclusive-as-it-tries-to-explain-a-confusing-reversal-2000717484",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T13:36:10+00:00"
-    },
-    {
-      "guid": "X34CygefhxHmYSMhPL87sc",
-      "title": "God of War Laufey star Deborah Ann Woll isn't phased by the negative reactions to its announcement: 'I feel totally unbothered'",
-      "url": "https://www.pcgamer.com/games/action/god-of-war-laufey-star-deborah-ann-woll-isnt-phased-by-the-negative-reactions-to-its-announcement-i-feel-totally-unbothered/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T13:41:41+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=613544",
-      "title": "D&D: So Who Are The Red Wizards Anyway?",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-so-who-are-the-red-wizards-anyway.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-19T14:00:00+00:00"
-    },
-    {
       "guid": "AokxoXuW8SEA8EchzH2NXJ",
       "title": "Assassin's Creed Black Flag Resynced lead begs fans to \"please play us when when GTA 6 comes out\" as he teases post-launch support plans",
       "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-lead-begs-fans-to-please-play-us-when-when-gta-6-comes-out-as-he-teases-post-launch-support-plans/",
@@ -857,6 +833,46 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-19T17:09:42+00:00"
+    },
+    {
+      "guid": "8a1926c5-3e8d-4b8c-b5af-abc9fd65de7c",
+      "title": "The Odyssey Blows Box Office Expectations Out of the Water With $264.1 Million Opening Weekend",
+      "url": "https://www.ign.com/articles/the-odyssey-blows-box-office-expectations-out-of-the-water-with-2641-million-opening-weekend",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T17:25:46+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236815981",
+      "title": "\u2018The Odyssey\u2019 Becomes Christopher Nolan\u2019s Biggest Global Debut of All Time With $264 Million",
+      "url": "https://variety.com/2026/film/box-office/the-odyssey-christopher-nolan-biggest-global-debut-1236815981/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T17:47:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816011",
+      "title": "HBO\u2019s \u2018Harry Potter\u2019 Cinematographer Says It\u2019s \u2018Brutal\u2019 Working Around the Young Stars\u2019 Strict Shooting Schedules: \u2018Have to Pre-Shoot All the Scenes While They\u2019re in Class\u2019",
+      "url": "https://variety.com/2026/film/news/hbo-harry-potter-brutal-working-stars-strict-schedules-1236816011/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T17:35:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651694",
+      "title": "John Leguizamo Has Never Been as Vulnerable as in \u2018The Odyssey\u2019: \u201cIt Was So Intense for Me\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/john-leguizamo-the-odyssey-eumaeus-chris-nolan-interview-1236651694/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T17:38:07+00:00"
+    },
+    {
+      "guid": "t3_1v0xahc",
+      "title": "Kingdom Hearts Missing-Link intro leak",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v0xahc/kingdom_hearts_missinglink_intro_leak/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-19T17:56:12+00:00"
     }
   ]
 }
