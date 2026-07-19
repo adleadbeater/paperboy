@@ -656,30 +656,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000717510",
-      "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
-      "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T18:10:47+00:00"
-    },
-    {
-      "guid": "t3_1v0xwsv",
-      "title": "Subreddit Mod Applications Are Open!",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v0xwsv/subreddit_mod_applications_are_open/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-19T18:20:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236816032",
-      "title": "\u2018Shark Tank\u2019 Star Kevin O\u2019Leary Sued For Claiming Utah Data Center Opposition Has Ties to China",
-      "url": "https://variety.com/2026/tv/news/shark-tank-kevin-oleary-sued-utah-data-center-china-1236816032/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T18:27:40+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000717509",
       "title": "Nintendo Guarded The Zelda: Tears Of The Kingdom Reveal So Closely \u2018Less Than 10 People\u2019 Knew About The Secret",
       "url": "https://kotaku.com/nintendo-guarded-the-zelda-tears-of-the-kingdom-reveal-so-closely-less-than-10-people-knew-about-the-secret-2000717509",
@@ -854,6 +830,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-19T21:51:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998074",
+      "title": "Spain Wins The 2026 World Cup 1-0, Punishing Argentina With 20 Shots On Goal",
+      "url": "https://deadline.com/2026/07/spain-wins-2026-world-cup-argentina-1236998074/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T22:02:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651816",
+      "title": "BTS Light Up FIFA World Cup Final Halftime Show With \u201cDynamite\u201d Performance",
+      "url": "https://www.hollywoodreporter.com/music/music-news/bts-performs-dynamite-fifa-world-cup-2026-halftime-show-1236651816/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T22:01:10+00:00"
     }
   ]
 }
