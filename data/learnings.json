@@ -656,30 +656,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/game-of-thrones-war-for-westeros-rts-game-delayed-to-2027",
-      "title": "Game of Thrones: War for Westeros RTS delayed to 2027 to \"ensure the game reaches the high level of quality we are aiming for\"",
-      "url": "https://www.eurogamer.net/game-of-thrones-war-for-westeros-rts-game-delayed-to-2027",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T16:21:49+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000717494",
-      "title": "Cliff Bleszinski Blames Personal Ego And Alcohol Issues For Boss Key\u2019s Failure",
-      "url": "https://kotaku.com/cliff-bleszinski-blames-personal-ego-and-alcohol-issues-for-boss-keys-failure-2000717494",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T16:14:52+00:00"
-    },
-    {
-      "guid": "K8tuB9JydKqXy9Z9WrL4jV",
-      "title": "This is the most balanced start to a Warhammer 40K edition that I can remember, but there's still room for improvement",
-      "url": "https://www.gamesradar.com/tabletop-gaming/this-is-the-most-balanced-start-to-a-warhammer-40k-edition-that-i-can-remember-but-theres-still-room-for-improvement/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-19T16:05:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation",
       "title": "Baldur's Gate 3, Clair Obscur actor Jennifer English withdraws from Tides of Annihilation to \"look after her mental and physical health\"",
       "url": "https://www.eurogamer.net/jennifer-english-leaves-tides-of-annihilation",
@@ -862,6 +838,14 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-07-19T19:15:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816132",
+      "title": "Tom Cruise and Half of Hollywood Light Up the 2026 World Cup Final",
+      "url": "https://variety.com/2026/sports/news/tom-cruise-2026-world-cup-final-hollywood-jason-sudeikis-justin-bieber-1236816132/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T20:16:42+00:00"
     }
   ]
 }
