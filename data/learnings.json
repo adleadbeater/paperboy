@@ -656,22 +656,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236815981",
-      "title": "\u2018The Odyssey\u2019 Becomes Christopher Nolan\u2019s Biggest Global Debut of All Time With $264 Million",
-      "url": "https://variety.com/2026/film/box-office/the-odyssey-christopher-nolan-biggest-global-debut-1236815981/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T17:47:17+00:00"
-    },
-    {
-      "guid": "t3_1v0xahc",
-      "title": "Kingdom Hearts Missing-Link intro leak",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v0xahc/kingdom_hearts_missinglink_intro_leak/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-19T17:56:12+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000717510",
       "title": "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
       "url": "https://kotaku.com/gta-vice-city-made-playable-in-gta-3-made-playable-in-gta-san-andreas-2000717510",
@@ -854,6 +838,22 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-19T21:04:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717522",
+      "title": "Truth Be Told The Fallout I\u2019m Most Looking Forward To Is Bakersfield",
+      "url": "https://kotaku.com/truth-be-told-the-fallout-im-most-looking-forward-to-is-bakersfield-2000717522",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T21:53:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651814",
+      "title": "Jason Sudeikis Brings Ted Lasso to World Cup Halftime Show to Hype Up Justin Bieber",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jason-sudeikis-ted-lasso-cameo-world-cup-halftime-show-1236651814/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T21:51:50+00:00"
     }
   ]
 }
