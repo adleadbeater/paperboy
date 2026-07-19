@@ -608,22 +608,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://otakukart.com/?p=1745575",
-      "title": "Crimson Desert Confirmed for Gamescom 2026 With Developer Sessions on Its World Design and BlackSpace Engine",
-      "url": "https://otakukart.com/crimson-desert-confirmed-for-gamescom-2026-with-developer-sessions-on-its-world-design-and-blackspace-engine/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-19T10:53:39+00:00"
-    },
-    {
-      "guid": "mvpWAAe3DfjFbjwtUdkp5b",
-      "title": "'GTA 6 needs this': This GTA 5 prison mod turns one of roleplay's most enduring staples into a game within a game",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-needs-this-this-gta-5-prison-mod-turns-one-of-roleplays-most-enduring-staples-into-a-game-within-a-game/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T11:00:00+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1745579",
       "title": "Zenless Zone Zero Version 3.1 Launches July 29 With New Agents, Second-Anniversary Rewards, and Xbox PC Release",
       "url": "https://otakukart.com/zenless-zone-zero-version-3-1-launches-july-29-with-new-agents-second-anniversary-rewards-and-xbox-pc-release/",
@@ -766,6 +750,30 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-19T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/marathon-director-ziegler-leaves-bungie",
+      "title": "Marathon director Joe Ziegler leaves Bungie just four months after launch",
+      "url": "https://www.eurogamer.net/marathon-director-ziegler-leaves-bungie",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T14:50:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717487",
+      "title": "How The PS2 Hardware And Lord Of The Rings Shaped The Development Of Final Fantasy 10",
+      "url": "https://kotaku.com/how-the-ps2-hardware-and-lord-of-the-rings-shaped-the-development-of-final-fantasy-10-2000717487",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T14:38:54+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203970",
+      "title": "Bandai Namco Reveals Changes & Improvements In Tales of Eternia Remastered",
+      "url": "https://www.nintendolife.com/news/2026/07/bandai-namco-reveals-changes-and-improvements-in-tales-of-eternia-remastered",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-19T14:30:00+00:00"
     }
   ]
 }
