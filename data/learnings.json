@@ -656,36 +656,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/marathon-director-ziegler-leaves-bungie",
-      "title": "Marathon director Joe Ziegler leaves Bungie just four months after launch",
-      "url": "https://www.eurogamer.net/marathon-director-ziegler-leaves-bungie",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T14:50:13+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000717487",
-      "title": "How The PS2 Hardware And Lord Of The Rings Shaped The Development Of Final Fantasy 10",
-      "url": "https://kotaku.com/how-the-ps2-hardware-and-lord-of-the-rings-shaped-the-development-of-final-fantasy-10-2000717487",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T14:38:54+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/call-of-duty-movie-set-modern-warfare-universe",
       "title": "Call of Duty movie will be set in the Modern Warfare universe",
       "url": "https://www.eurogamer.net/call-of-duty-movie-set-modern-warfare-universe",
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-07-19T15:12:32+00:00"
-    },
-    {
-      "guid": "NWMW6tbNLDpQbiTSMKK6T7",
-      "title": "'The mid-2000s was the golden era of first-person shooters': David Syzmankski, creator of Dusk and Iron Lung, discusses the games on his PC",
-      "url": "https://www.pcgamer.com/gaming-industry/the-mid-2000s-was-the-golden-era-of-first-person-shooters-david-syzmankski-creator-of-dusk-and-iron-lung-discusses-the-games-on-his-pc/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T15:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1236993792",
@@ -878,6 +854,22 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-19T18:27:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717509",
+      "title": "Nintendo Guarded The Zelda: Tears Of The Kingdom Reveal So Closely \u2018Less Than 10 People\u2019 Knew About The Secret",
+      "url": "https://kotaku.com/nintendo-guarded-the-zelda-tears-of-the-kingdom-reveal-so-closely-less-than-10-people-knew-about-the-secret-2000717509",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-19T18:45:20+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119352",
+      "title": "Pokemon TCG: The Best Pitch Black Cards",
+      "url": "https://www.siliconera.com/pokemon-tcg-the-best-pitch-black-cards/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-19T19:00:00+00:00"
     }
   ]
 }
