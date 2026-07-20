@@ -650,19 +650,22 @@
         "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas",
         "Modder Makes GTA: Vice City Playable Inside GTA 3 Inside GTA: San Andreas"
       ]
+    },
+    {
+      "headline": "An unofficial PC port of Gears of War 2 built from a 2008 leaked build just surfaced",
+      "tag": "gears of war",
+      "posted_at": "2026-07-20T04:29:52.918546+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/third-person-shooter/theres-an-unofficial-pc-port-of-gears-of-war-2-based-on-a-leaked-build-from-2008/"
+      ],
+      "article_titles": [
+        "There's an unofficial PC port of Gears of War 2 based on a leaked build from 2008"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236651867",
-      "title": "Donald Trump Booed at World Cup Final",
-      "url": "https://www.hollywoodreporter.com/news/general-news/donald-trump-booed-world-cup-final-1236651867/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-19T23:55:54+00:00"
-    },
     {
       "guid": "cYPPN5nY8EWznM6WLoDMb5",
       "title": "Steam Week in Review: Take cover, because it looks like more than half of Steam games will have an AI-disclosure by 2027-2028",
@@ -686,6 +689,30 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-07-20T03:31:39+00:00"
+    },
+    {
+      "guid": "wNayPxL2wSJeRj8UX5rhMh",
+      "title": "Sonic & All-Stars Racing Transformed review (2018)",
+      "url": "https://www.pcgamer.com/games/racing/sonic-and-all-stars-racing-transformed-review-2018/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T04:02:48+00:00"
+    },
+    {
+      "guid": "QpZcrNiKYVh4jaWnwPfKM4",
+      "title": "There's an unofficial PC port of Gears of War 2 based on a leaked build from 2008",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/theres-an-unofficial-pc-port-of-gears-of-war-2-based-on-a-leaked-build-from-2008/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T04:00:12+00:00"
+    },
+    {
+      "guid": "t3_1v1b67h",
+      "title": "I think with the massive roadmap transparency 180\u00b0 shift, we will see TES 6 next year at the showcase.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v1b67h/i_think_with_the_massive_roadmap_transparency_180/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T04:18:23+00:00"
     }
   ]
 }
