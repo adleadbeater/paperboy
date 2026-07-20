@@ -745,78 +745,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.videogameschronicle.com/?p=242430",
-      "title": "\u2018We are committed to making this clearer\u2019: Xbox exec says it\u2019s \u2018not obvious\u2019 to players which games will be exclusive",
-      "url": "https://www.videogameschronicle.com/news/we-are-committed-to-making-this-clearer-xbox-exec-says-its-not-obvious-to-players-which-games-will-be-exclusive/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T10:31:35+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/cliff-bleszinski-alcoholism-gears-of-war-lawbreakers",
-      "title": "\"The Gears of War trilogy was largely developed hungover by me\" - Cliff Bleszinski reckons with a difficult past while plotting a return to games and a brighter future",
-      "url": "https://www.eurogamer.net/cliff-bleszinski-alcoholism-gears-of-war-lawbreakers",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T10:44:28+00:00"
-    },
-    {
-      "guid": "h5k7NWMomGenCTVw2UYY46",
-      "title": "Meet GigaWiper, a tricksy new malware that can wipe your PC's storage drives squeaky clean and spy on your desktop all at once",
-      "url": "https://www.pcgamer.com/software/security/meet-gigawiper-a-tricksy-new-malware-that-can-wipe-your-pcs-storage-drives-squeaky-clean-and-spy-on-your-desktop-all-at-once/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T10:42:51+00:00"
-    },
-    {
-      "guid": "j9KVyb3nDewDjRn3Sky7w4",
-      "title": "That Game of Thrones RTS is still coming, still very HBO, but no longer due out this year",
-      "url": "https://www.pcgamer.com/games/rts/that-game-of-thrones-rts-is-still-coming-still-very-hbo-but-no-longer-due-out-this-year/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T10:41:59+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236998264",
-      "title": "Venice Critics\u2019 Week Unveils 2026 Selection With Films From Colombia, China & Tunisia",
-      "url": "https://deadline.com/2026/07/venice-critics-week-unveils-2026-selection-1236998264/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T10:30:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236651999",
-      "title": "Venice Critics\u2019 Week Unveils Political, Experimental Lineup",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-critics-week-unveils-political-2026-line-up-1236651999/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T10:54:38+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-203990",
-      "title": "The \"Impossible\" Dreamcast Core Comes To MiSTer, But It's Very Early Days",
-      "url": "https://www.timeextension.com/news/2026/07/the-impossible-dreamcast-core-comes-to-mister-but-its-very-early-days",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T10:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1745694",
-      "title": "Nintendo\u2019s Latest Touchscreen Monster-Catching Patent Gets Rejected: What It Could Mean for Palworld and Pocketpair\u2019s Future",
-      "url": "https://otakukart.com/nintendos-latest-touchscreen-monster-catching-patent-gets-rejected-what-it-could-mean-for-palworld-and-pocketpairs-future/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T10:45:18+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1745693",
-      "title": "Belkin Expands Nintendo Switch 2 Accessory Lineup With New 10,000mAh Magnetic Charging Grip",
-      "url": "https://otakukart.com/belkin-expands-nintendo-switch-2-accessory-lineup-with-new-10000mah-magnetic-charging-grip/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T10:29:30+00:00"
-    },
-    {
       "guid": "047ad5d9-8f52-4c3e-b6f9-3e2df25fab3a",
       "title": "Batman by Scott Snyder & Greg Capullo Omnibus Vol. 1 Is 50% Off at Amazon Today",
       "url": "https://www.ign.com/articles/batman-by-scott-snyder-greg-capullo-omnibus-vol-1-is-50-off-at-amazon-today",
@@ -983,6 +911,166 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-20T13:14:21+00:00"
+    },
+    {
+      "guid": "358e3dde-3866-453f-8fa2-6b5daf67db1a",
+      "title": "Best Buy\u2019s Black Friday in July Sale Includes Some Great LEGO Deals \u2013 Here Are Some of Our Favorites",
+      "url": "https://www.ign.com/articles/best-buy-black-friday-in-july-sale-lego-deals",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T14:35:48+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=242488",
+      "title": "The Call of Duty movie will take place in the Modern Warfare universe",
+      "url": "https://www.videogameschronicle.com/news/the-call-of-duty-movie-will-take-place-in-the-modern-warfare-universe/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T14:37:33+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-gameplay-debut-community-reactions",
+      "title": "Modern Warfare 4 gameplay debut reignites community debate about how fast Call of Duty movement should be",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-gameplay-debut-community-reactions",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T14:36:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236996687",
+      "title": "\u2018The Earliest Show\u2019 Revival Greenlit At Amplify Pictures & Stay Tuned With Kevin Carroll, Henry Winkler, Ryan Gaul & Brandon Scott Jones Joining Cast",
+      "url": "https://deadline.com/2026/07/earliest-show-greenlit-kevin-carroll-henry-more-cast-1236996687/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998392",
+      "title": "Just For Laughs Sets 2026 New Faces Lineup",
+      "url": "https://deadline.com/2026/07/jfl-new-faces-2026-unveiled-1236998392/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998294",
+      "title": "Edward Stourton Dies: UK Broadcaster Whose Most Recent Work Charted 250 Years Of American History Was 68",
+      "url": "https://deadline.com/2026/07/edward-stourton-dead-legendary-uk-broadcaster-68-1236998294/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T14:44:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998330",
+      "title": "\u2018Masters Of The Universe\u2019 Heading To Prime Video This Week",
+      "url": "https://deadline.com/2026/07/masters-of-the-universe-prime-video-date-1236998330/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T14:26:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816505",
+      "title": "Kevin Feige on Marvel\u2019s Failed \u2018Blade\u2019 Reboot: \u2018I Feel Like a Gigantic Loser and Failure That We Didn\u2019t Get Off the Ground With Mahershala Ali\u2019",
+      "url": "https://variety.com/2026/film/news/kevin-feige-blade-reboot-failure-marvel-loser-1236816505/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T14:53:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816561",
+      "title": "TIFF Announces Star-Studded Gala and Special Presentations, Led by \u2018Rocky\u2019 Biopic \u2018I Play Rocky\u2019 and Chris Rock\u2019s \u2018Misty Green\u2019",
+      "url": "https://variety.com/2026/film/news/tiff-gala-special-presentations-oscars-rocky-biopic-i-play-rocky-chris-rock-misty-green-1236816561/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T14:49:01+00:00"
+    },
+    {
+      "guid": "FRe59B9cs2LK8FgfyHC4AL",
+      "title": "Todd Howard considered retirement before being inspired by Bethesda devs working on RPGs like Fallout 5 and Elder Scrolls 6",
+      "url": "https://www.gamesradar.com/games/fallout/todd-howard-considered-retirement-before-being-inspired-by-bethesda-devs-working-on-rpgs-like-fallout-5-and-elder-scrolls-6/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:41:53+00:00"
+    },
+    {
+      "guid": "uUkEbQrciVpVJxaNaaidDP",
+      "title": "Xbox pledges to help anyone who's lost their account to hackers \"as quickly as possible\" after one fan went viral for almost losing thousands of euros' worth of games",
+      "url": "https://www.gamesradar.com/games/xbox-pledges-to-help-anyone-whos-lost-their-account-to-hackers-as-quickly-as-possible-after-one-fan-went-viral-for-almost-losing-thousands-of-euros-worth-of-games/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:35:19+00:00"
+    },
+    {
+      "guid": "btVAV6eriPFnTwq6jw2LyH",
+      "title": "Avengers: Doomsday trailer breakdown: 8 Marvel details you might have missed",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer-breakdown-marvel-mcu/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:31:42+00:00"
+    },
+    {
+      "guid": "jDAeeAEeZQCNuSUYcrwNd8",
+      "title": "Upgrading to a gaming laptop for college? I've tested over 60 rigs to find the best options",
+      "url": "https://www.gamesradar.com/hardware/laptops/upgrading-to-a-gaming-laptop-for-college-ive-tested-over-60-rigs-to-find-the-best-options/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:28:12+00:00"
+    },
+    {
+      "guid": "BveuywCrU5sMQoRww3XZuD",
+      "title": "First reactions to Avengers: Doomsday trailer are seriously torn on Robert Downey Jr.'s Doctor Doom voice",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/first-reactions-to-avengers-doomsday-trailer-are-seriously-torn-on-robert-downey-jr-s-doctor-doom-voice/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:25:27+00:00"
+    },
+    {
+      "guid": "1825114",
+      "title": "Xbox Game Pass Is Removing A Lot More Games Very Soon",
+      "url": "https://www.gamespot.com/articles/xbox-game-pass-is-removing-a-lot-more-games-very-soon/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:36:51+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119781",
+      "title": "One Piece Glitter & Glamours Nami and Robin Figures Are Eating Ice Cream",
+      "url": "https://www.siliconera.com/one-piece-glitter-glamours-nami-and-robin-figures-are-eating-ice-cream/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204001",
+      "title": "You Can Now Play Physical Discs On Your MiSTer FPGA",
+      "url": "https://www.timeextension.com/news/2026/07/you-can-now-play-physical-discs-on-your-mister-fpga",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745778",
+      "title": "Black Myth: Wukong showcased with brain-computer interface at WAIC 2026, letting players control the game using brain waves",
+      "url": "https://otakukart.com/black-myth-wukong-showcased-with-brain-computer-interface-at-waic-2026-letting-players-control-the-game-using-brain-waves/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:58:54+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745777",
+      "title": "Crimson Desert PS5 Physical Edition drops to its lowest-ever Amazon price of $49 in limited-time Lightning Deal",
+      "url": "https://otakukart.com/crimson-desert-ps5-physical-edition-drops-to-its-lowest-ever-amazon-price-of-49-in-limited-time-lightning-deal/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:51:43+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745771",
+      "title": "Pocketpair Head of Communications says Palworld has been a \u201csurreal and life-changing experience\u201d as Version 1.0 reaches 961K Steam peak",
+      "url": "https://otakukart.com/pocketpair-head-of-communications-says-palworld-has-been-a-surreal-and-life-changing-experience-as-version-1-0-reaches-961k-steam-peak/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T14:37:51+00:00"
     }
   ]
 }
