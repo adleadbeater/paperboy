@@ -661,58 +661,104 @@
       "article_titles": [
         "There's an unofficial PC port of Gears of War 2 based on a leaked build from 2008"
       ]
+    },
+    {
+      "headline": "Game of Thrones RTS Misses Its 2025 Window \u2014 But HBO's Strategy Game Is Still Alive",
+      "tag": "game of thrones rts",
+      "posted_at": "2026-07-20T11:01:01.881261+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/rts/that-game-of-thrones-rts-is-still-coming-still-very-hbo-but-no-longer-due-out-this-year/"
+      ],
+      "article_titles": [
+        "That Game of Thrones RTS is still coming, still very HBO, but no longer due out this year"
+      ]
+    },
+    {
+      "headline": "Xbox Admits Its Own Exclusivity Messaging Is Confusing Players \u2014 and Promises to Fix It",
+      "tag": "xbox",
+      "posted_at": "2026-07-20T11:01:02.113760+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/we-are-committed-to-making-this-clearer-xbox-exec-says-its-not-obvious-to-players-which-games-will-be-exclusive/"
+      ],
+      "article_titles": [
+        "\u2018We are committed to making this clearer\u2019: Xbox exec says it\u2019s \u2018not obvious\u2019 to players which games will be exclusive"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "cYPPN5nY8EWznM6WLoDMb5",
-      "title": "Steam Week in Review: Take cover, because it looks like more than half of Steam games will have an AI-disclosure by 2027-2028",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-take-cover-because-it-looks-like-more-than-half-of-steam-games-will-have-an-ai-disclosure-by-2027-2028/",
-      "source_name": "PC Gamer",
+      "guid": "https://www.videogameschronicle.com/?p=242430",
+      "title": "\u2018We are committed to making this clearer\u2019: Xbox exec says it\u2019s \u2018not obvious\u2019 to players which games will be exclusive",
+      "url": "https://www.videogameschronicle.com/news/we-are-committed-to-making-this-clearer-xbox-exec-says-its-not-obvious-to-players-which-games-will-be-exclusive/",
+      "source_name": "VGC",
       "source_tier": 1,
-      "published_dt": "2026-07-20T03:35:52+00:00"
+      "published_dt": "2026-07-20T10:31:35+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236651919",
-      "title": "Stephen Chow\u2019s \u2018Kung Fu Soccer\u2019 Blasts Past $200 Million at China Box Office",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/stephen-chow-kung-fu-soccer-china-box-office-2-1236651919/",
+      "guid": "https://www.eurogamer.net/cliff-bleszinski-alcoholism-gears-of-war-lawbreakers",
+      "title": "\"The Gears of War trilogy was largely developed hungover by me\" - Cliff Bleszinski reckons with a difficult past while plotting a return to games and a brighter future",
+      "url": "https://www.eurogamer.net/cliff-bleszinski-alcoholism-gears-of-war-lawbreakers",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T10:44:28+00:00"
+    },
+    {
+      "guid": "h5k7NWMomGenCTVw2UYY46",
+      "title": "Meet GigaWiper, a tricksy new malware that can wipe your PC's storage drives squeaky clean and spy on your desktop all at once",
+      "url": "https://www.pcgamer.com/software/security/meet-gigawiper-a-tricksy-new-malware-that-can-wipe-your-pcs-storage-drives-squeaky-clean-and-spy-on-your-desktop-all-at-once/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T10:42:51+00:00"
+    },
+    {
+      "guid": "j9KVyb3nDewDjRn3Sky7w4",
+      "title": "That Game of Thrones RTS is still coming, still very HBO, but no longer due out this year",
+      "url": "https://www.pcgamer.com/games/rts/that-game-of-thrones-rts-is-still-coming-still-very-hbo-but-no-longer-due-out-this-year/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T10:41:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998264",
+      "title": "Venice Critics\u2019 Week Unveils 2026 Selection With Films From Colombia, China & Tunisia",
+      "url": "https://deadline.com/2026/07/venice-critics-week-unveils-2026-selection-1236998264/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T10:30:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651999",
+      "title": "Venice Critics\u2019 Week Unveils Political, Experimental Lineup",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-critics-week-unveils-political-2026-line-up-1236651999/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-07-20T03:40:38+00:00"
+      "published_dt": "2026-07-20T10:54:38+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1065115",
-      "title": "Neosphere of The Deep-blue Sky: Legacy announced for Switch, PC",
-      "url": "https://www.gematsu.com/2026/07/neosphere-of-the-deep-blue-sky-legacy-announced-for-switch-pc",
-      "source_name": "Gematsu",
+      "guid": "https://www.timeextension.com/#article-203990",
+      "title": "The \"Impossible\" Dreamcast Core Comes To MiSTer, But It's Very Early Days",
+      "url": "https://www.timeextension.com/news/2026/07/the-impossible-dreamcast-core-comes-to-mister-but-its-very-early-days",
+      "source_name": "Time Extension",
       "source_tier": 2,
-      "published_dt": "2026-07-20T03:31:39+00:00"
+      "published_dt": "2026-07-20T10:30:00+00:00"
     },
     {
-      "guid": "wNayPxL2wSJeRj8UX5rhMh",
-      "title": "Sonic & All-Stars Racing Transformed review (2018)",
-      "url": "https://www.pcgamer.com/games/racing/sonic-and-all-stars-racing-transformed-review-2018/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T04:02:48+00:00"
-    },
-    {
-      "guid": "QpZcrNiKYVh4jaWnwPfKM4",
-      "title": "There's an unofficial PC port of Gears of War 2 based on a leaked build from 2008",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/theres-an-unofficial-pc-port-of-gears-of-war-2-based-on-a-leaked-build-from-2008/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T04:00:12+00:00"
-    },
-    {
-      "guid": "t3_1v1b67h",
-      "title": "I think with the massive roadmap transparency 180\u00b0 shift, we will see TES 6 next year at the showcase.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v1b67h/i_think_with_the_massive_roadmap_transparency_180/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "https://otakukart.com/?p=1745694",
+      "title": "Nintendo\u2019s Latest Touchscreen Monster-Catching Patent Gets Rejected: What It Could Mean for Palworld and Pocketpair\u2019s Future",
+      "url": "https://otakukart.com/nintendos-latest-touchscreen-monster-catching-patent-gets-rejected-what-it-could-mean-for-palworld-and-pocketpairs-future/",
+      "source_name": "Otakukart",
       "source_tier": 2,
-      "published_dt": "2026-07-20T04:18:23+00:00"
+      "published_dt": "2026-07-20T10:45:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745693",
+      "title": "Belkin Expands Nintendo Switch 2 Accessory Lineup With New 10,000mAh Magnetic Charging Grip",
+      "url": "https://otakukart.com/belkin-expands-nintendo-switch-2-accessory-lineup-with-new-10000mah-magnetic-charging-grip/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T10:29:30+00:00"
     }
   ]
 }
