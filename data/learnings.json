@@ -774,155 +774,41 @@
       "article_titles": [
         "Valve Promises No Steam Machine Exclusives After Months Of Fan Speculation About Half-Life 3"
       ]
+    },
+    {
+      "headline": "A Judge Has Temporarily Paused the Paramount\u2013Warner Bros. Discovery Merger",
+      "tag": "paramount / warner bros. discovery merger",
+      "posted_at": "2026-07-20T18:01:52.267169+00:00",
+      "urls": [
+        "https://www.ign.com/articles/paramount-and-warner-bros-merger-paused-for-at-least-2-weeks-by-judge",
+        "https://kotaku.com/paramount-warner-bros-merger-temporarily-paused-by-judge-2000717718",
+        "https://deadline.com/2026/07/paramount-warner-bros-lawsuit-restraining-order-1236998321/",
+        "https://variety.com/2026/film/news/judge-paramount-warner-bros-merger-tro-1236815048/",
+        "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-merger-paused-states-challenge-1236651179/"
+      ],
+      "article_titles": [
+        "Paramount and Warner Bros. Merger Paused for at Least 2 Weeks by Judge",
+        "Paramount Warner Bros. Merger Temporarily Paused By Judge",
+        "Judge Grants Temporary Restraining Order To Pause Paramount-Warner Bros. Discovery Merger For 14 Days",
+        "Judge Pauses Paramount-Warner Bros. Merger",
+        "Paramount-Warner Bros. Merger Paused As States\u2019 Challenge Proceeds"
+      ]
+    },
+    {
+      "headline": "Over 300 New Pok\u00e9mon Reportedly Leaked Ahead of Pok\u00e9mon Winds and Waves",
+      "tag": "pok\u00e9mon winds and waves",
+      "posted_at": "2026-07-20T18:01:52.455021+00:00",
+      "urls": [
+        "https://kotaku.com/pokemon-winds-waves-300-pokedex-new-seed-mega-starters-2000717685"
+      ],
+      "article_titles": [
+        "Over 300 New Pok\u00e9mon And All Of The Other Leaks And Rumors Circulating About Winds And Waves"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "047ad5d9-8f52-4c3e-b6f9-3e2df25fab3a",
-      "title": "Batman by Scott Snyder & Greg Capullo Omnibus Vol. 1 Is 50% Off at Amazon Today",
-      "url": "https://www.ign.com/articles/batman-by-scott-snyder-greg-capullo-omnibus-vol-1-is-50-off-at-amazon-today",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:35:18+00:00"
-    },
-    {
-      "guid": "37be900b-4c9f-4c27-ad04-1ac01a4227cc",
-      "title": "Is Robert Downey Jr's Doctor Doom the Hero or Villain of Avengers: Doomsday?",
-      "url": "https://www.ign.com/articles/is-robert-downey-jrs-doctor-doom-the-hero-or-villain-of-avengers-doomsday",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:32:32+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/uk-retailer-game-administration",
-      "title": "UK games retailer Game entered administration owing \u00a316m, thanks to fierce competition, consumer trends, and \"uncertainty associated with Brexit\"",
-      "url": "https://www.eurogamer.net/uk-retailer-game-administration",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:35:25+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000717618",
-      "title": "Avengers: Doomsday Has Released Its First Trailer, And It\u2019s Stacked",
-      "url": "https://kotaku.com/avengers-doomsday-trailer-marvel-captain-america-thor-2000717618",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:28:41+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000717614",
-      "title": "RAMageddon Is Even Ravaging Retro Gaming Hardware Makers: \u2018This Is Vastly Different To Everything Else We\u2019ve Ever Seen\u2019",
-      "url": "https://kotaku.com/ramageddon-is-even-ravaging-retro-gaming-hardware-makers-this-is-vastly-different-to-everything-else-weve-ever-seen-2000717614",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:27:51+00:00"
-    },
-    {
-      "guid": "pX6mCG3uwrcVcSjdHRpuWi",
-      "title": "Final Fantasy 14's attempt to take the MMO mobile is over before the world even gets the chance to see it",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14s-attempt-to-take-the-mmo-mobile-is-over-before-the-world-even-gets-the-chance-to-see-it/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:28:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236998304",
-      "title": "\u2018Avengers: Doomsday\u2019 Trailer: Russo Brothers Enlist The Entire Marvel Universe In Their Comic Book Return",
-      "url": "https://deadline.com/2026/07/avengers-doomsday-trailer-mcu-doctor-doom-1236998304/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:34:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236798934",
-      "title": "\u2018Masters of the Universe\u2019 Sets Prime Video Streaming Release Date",
-      "url": "https://variety.com/2026/film/news/masters-of-the-universe-prime-video-release-date-streaming-1236798934/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:40:22+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236816367",
-      "title": "Brunello Cucinelli Docufilm \u2018The Gracious Visionary\u2019 Sells Internationally Ahead of North American Release (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/brunello-cucinelli-visionary-sales-american-release-1236816367/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:27:30+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236611483",
-      "title": "\u2018Avengers: Doomsday\u2019 Trailer Reveals First Look at Robert Downey Jr.\u2019s Doctor Doom",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-trailer-robert-downey-jr-doctor-doom-mcu-1236611483/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T13:15:11+00:00"
-    },
-    {
-      "guid": "HdVvyffcDLNqtKStZQSUDS",
-      "title": "Call of Duty movie officially set in the Modern Warfare universe",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/call-of-duty-movie-officially-set-in-the-modern-warfare-universe/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:31:06+00:00"
-    },
-    {
-      "guid": "SYjgE9k6vmwMdTZrKkXMDj",
-      "title": "First Avengers: Doomsday trailer finally reveals Robert Downey Jr.'s Doctor Doom",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-trailer/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:14:13+00:00"
-    },
-    {
-      "guid": "fYQ8ePBi46cijtkXK4LvsV",
-      "title": "Leaked Lego Star Trek bridge looks brilliant, but fans are divided on price",
-      "url": "https://www.gamesradar.com/toys-collectibles/leaked-lego-star-trek-bridge-looks-brilliant-but-fans-are-divided-on-price/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:13:23+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-203999",
-      "title": "Casio Launches 'Mother 3' Watch For Game's 20th Anniversary",
-      "url": "https://www.nintendolife.com/news/2026/07/casio-launches-mother-3-watch-for-games-20th-anniversary",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-183066",
-      "title": "Cannon Fodder & Broken Sword Devs To Collaborate On A New \"16-Bit\" Game For The Amiga & Sega Genesis",
-      "url": "https://www.timeextension.com/news/2026/07/cannon-fodder-and-broken-sword-devs-to-collaborate-on-a-new-16-bit-game-for-the-amiga-and-sega-genesis",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1065162",
-      "title": "Monochrome roguelike platformer Gennady adds PS5, Xbox Series, PS4, Xbox One, and Switch versions",
-      "url": "https://www.gematsu.com/2026/07/monochrome-roguelike-platformer-gennady-adds-ps5-xbox-series-ps4-xbox-one-and-switch-versions",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:28:22+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1744700",
-      "title": "20 Psychologically Disturbing Anime That Are Hard to Watch Twice",
-      "url": "https://otakukart.com/20-psychologically-disturbing-anime-that-are-hard-to-watch-twice/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:28:37+00:00"
-    },
-    {
-      "guid": "t3_1v1l83i",
-      "title": "Steller Blade rated for Switch 2 (Releases soon?)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v1l83i/steller_blade_rated_for_switch_2_releases_soon/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T13:14:21+00:00"
-    },
     {
       "guid": "358e3dde-3866-453f-8fa2-6b5daf67db1a",
       "title": "Best Buy\u2019s Black Friday in July Sale Includes Some Great LEGO Deals \u2013 Here Are Some of Our Favorites",
@@ -1402,6 +1288,174 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-07-20T17:00:00+00:00"
+    },
+    {
+      "guid": "0e5fa5e4-e464-4f9f-a9b0-25134db35960",
+      "title": "Paramount and Warner Bros. Merger Paused for at Least 2 Weeks by Judge",
+      "url": "https://www.ign.com/articles/paramount-and-warner-bros-merger-paused-for-at-least-2-weeks-by-judge",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:32:19+00:00"
+    },
+    {
+      "guid": "d45ce447-504c-4560-a176-195b46d29593",
+      "title": "Best Buy's 2026 Black Friday in July Sale is Now Live",
+      "url": "https://www.ign.com/articles/best-buy-black-friday-july-sale-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717718",
+      "title": "Paramount Warner Bros. Merger Temporarily Paused By Judge",
+      "url": "https://kotaku.com/paramount-warner-bros-merger-temporarily-paused-by-judge-2000717718",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:50:01+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717685",
+      "title": "Over 300 New Pok\u00e9mon And All Of The Other Leaks And Rumors Circulating About Winds And Waves",
+      "url": "https://kotaku.com/pokemon-winds-waves-300-pokedex-new-seed-mega-starters-2000717685",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:30:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998511",
+      "title": "\u2018The Kissing Booth\u2019 Duo Tackling YA Rom-Com \u2018Son Of The Mob\u2019 For Red Sage Studios & Sun Distribution",
+      "url": "https://deadline.com/2026/07/the-kissing-booth-filmmakers-son-of-the-mob-rom-com-1236998511/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998530",
+      "title": "Chloe Fineman Joins Netflix\u2019s \u2018Myron Bolitar\u2019 Following \u2018SNL\u2019 Exit, Alongside Jabari Banks, Jamie McShane & Ben McKenzie",
+      "url": "https://deadline.com/2026/07/netflix-myron-bolitar-cast-chloe-fineman-jabari-banks-1236998530/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:30:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816349",
+      "title": "\u2018Stuart Fails to Save the Universe\u2019 Limited Edition DC Comic Book, Experiential Space for Fans Planned for San Diego Comic-Con (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-comic-book-comic-con-1236816349/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816733",
+      "title": "Chloe Fineman Among Four Cast in \u2018Myron Bolitar\u2019 Series at Netflix",
+      "url": "https://variety.com/2026/tv/news/chloe-fineman-myron-bolitar-series-netflix-1236816733/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:48:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816656",
+      "title": "Kovert Creative Hires Mallory Morehead Pritzl",
+      "url": "https://variety.com/2026/tv/news/kovert-creative-mallory-morehead-pritzl-1236816656/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652248",
+      "title": "Ben Shapiro Praises \u2018The Odyssey\u2019 as a \u201cMasterpiece\u201d Despite Elliot Page Casting Criticism",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-shapiro-odyssey-review-masterpiece-elliot-page-1236652248/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:38:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236651232",
+      "title": "Sony\u2019s Mallory Morehead Pritzl Joins Kovert Creative to Work on Entertainment PR Team",
+      "url": "https://www.hollywoodreporter.com/business/business-news/mallory-morehead-pritzl-kovert-creative-entertainment-pr-1236651232/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652251",
+      "title": "David Zaslav\u2019s Next Act: Summer Camp Owner",
+      "url": "https://www.hollywoodreporter.com/business/business-news/david-zaslav-buying-summer-camp-new-york-mohawk-1236652251/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T17:29:20+00:00"
+    },
+    {
+      "guid": "76fx2biphVSmRfnyKAtUom",
+      "title": "GTA 6 probably won't include any cut content, says GTA 5 producer, even though Rockstar snuck \"unannounced\" game's missions into GTA 4",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-probably-wont-include-any-cut-content-says-gta-5-producer-even-though-rockstar-snuck-unannounced-games-missions-into-gta-4/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:30:02+00:00"
+    },
+    {
+      "guid": "1825475",
+      "title": "Call Of Duty: Modern Warfare 4 Beta Dates Revealed, Here\u2019s How To Get In",
+      "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:29:10+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119797",
+      "title": "Kagurabachi Manga Hiatus Ends in July 2026",
+      "url": "https://www.siliconera.com/kagurabachi-manga-hiatus-ends-in-july-2026/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1065201",
+      "title": "Skatesterre launches August 13",
+      "url": "https://www.gematsu.com/2026/07/skatesterre-launches-august-13",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:56:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745799",
+      "title": "Call of Duty movie confirmed to be set in the Modern Warfare universe ahead of 2028 theatrical release",
+      "url": "https://otakukart.com/call-of-duty-movie-confirmed-to-be-set-in-the-modern-warfare-universe-ahead-of-2028-theatrical-release/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:59:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745798",
+      "title": "Game of Thrones: War for Westeros delayed to early 2027 as PlaySide Studios prioritizes quality",
+      "url": "https://otakukart.com/game-of-thrones-war-for-westeros-delayed-to-early-2027-as-playside-studios-prioritizes-quality/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:45:29+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745739",
+      "title": "KISS OF LIFE Sets August Release Date and Previews \u201cSWEAT EQUITY\u201d",
+      "url": "https://otakukart.com/kiss-of-life-sets-august-release-date-and-previews-sweat-equity/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:32:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745737",
+      "title": "DAY6 Member Young K Reveals Dates and Cities for \u201cYOUNGEST\u201d Tour",
+      "url": "https://otakukart.com/day6-member-young-k-reveals-dates-and-cities-for-youngest-tour/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:28:46+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1745731",
+      "title": "tripleS Member Xinyu Begins One-Month Health Hiatus",
+      "url": "https://otakukart.com/triples-member-xinyu-begins-one-month-health-hiatus/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T17:26:35+00:00"
     }
   ]
 }
