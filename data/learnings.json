@@ -858,14 +858,6 @@
       "published_dt": "2026-07-20T14:44:16+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236998330",
-      "title": "\u2018Masters Of The Universe\u2019 Heading To Prime Video This Week",
-      "url": "https://deadline.com/2026/07/masters-of-the-universe-prime-video-date-1236998330/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T14:26:23+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236816505",
       "title": "Kevin Feige on Marvel\u2019s Failed \u2018Blade\u2019 Reboot: \u2018I Feel Like a Gigantic Loser and Failure That We Didn\u2019t Get Off the Ground With Mahershala Ali\u2019",
       "url": "https://variety.com/2026/film/news/kevin-feige-blade-reboot-failure-marvel-loser-1236816505/",
@@ -906,22 +898,6 @@
       "published_dt": "2026-07-20T14:31:42+00:00"
     },
     {
-      "guid": "jDAeeAEeZQCNuSUYcrwNd8",
-      "title": "Upgrading to a gaming laptop for college? I've tested over 60 rigs to find the best options",
-      "url": "https://www.gamesradar.com/hardware/laptops/upgrading-to-a-gaming-laptop-for-college-ive-tested-over-60-rigs-to-find-the-best-options/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T14:28:12+00:00"
-    },
-    {
-      "guid": "BveuywCrU5sMQoRww3XZuD",
-      "title": "First reactions to Avengers: Doomsday trailer are seriously torn on Robert Downey Jr.'s Doctor Doom voice",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/first-reactions-to-avengers-doomsday-trailer-are-seriously-torn-on-robert-downey-jr-s-doctor-doom-voice/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T14:25:27+00:00"
-    },
-    {
       "guid": "1825114",
       "title": "Xbox Game Pass Is Removing A Lot More Games Very Soon",
       "url": "https://www.gamespot.com/articles/xbox-game-pass-is-removing-a-lot-more-games-very-soon/",
@@ -936,14 +912,6 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-20T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204001",
-      "title": "You Can Now Play Physical Discs On Your MiSTer FPGA",
-      "url": "https://www.timeextension.com/news/2026/07/you-can-now-play-physical-discs-on-your-mister-fpga",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T14:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1745778",
@@ -1456,6 +1424,62 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-20T17:26:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717725",
+      "title": "Forza Horizon 5 Director Reacts To The Xbox Mess: \u2018The Concept Of Game Pass Was Good\u2026Unfortunately It Didn\u2019t Work\u2019",
+      "url": "https://kotaku.com/forza-horizon-5-director-reacts-to-the-xbox-mess-the-concept-of-game-pass-was-good-unfortunately-it-didnt-work-2000717725",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T18:25:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998576",
+      "title": "How Wife Katie Thurston\u2019s Cancer Battle Changed Jeff Arcuri & Shaped His Debut Netflix Special \u2013 Comedy Means Business Podcast",
+      "url": "https://deadline.com/2026/07/jeff-arcuri-katie-thurston-cancer-comedy-means-business-1236998576/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T18:10:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816760",
+      "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Ties Whitney Houston and Mariah Carey\u2019s Records on Billboard Hot 100",
+      "url": "https://variety.com/2026/music/news/ella-langley-choosin-texas-ties-whitney-houston-mariah-carey-records-1236816760/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T18:08:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816703",
+      "title": "Journey\u2019s Jonathan Cain Lays Into \u2018Annoying, Bitter Old Man\u2019 Bruce Springsteen: \u2018Shut Up, Bruce\u2026 You Were Born in the USA, So Act Like It\u2019",
+      "url": "https://variety.com/2026/music/news/jonathan-cain-slams-bruce-springsteen-conservative-politics-1236816703/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T18:03:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652255",
+      "title": "Was the World Cup Final Halftime Show \u201cToo American\u201d? Rest of the World Seems to Think So: \u201cGlib and Unsubtle\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/world-cup-final-halftime-show-global-criticism-1236652255/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T18:14:23+00:00"
+    },
+    {
+      "guid": "CoQRRXn25qnwHs6Lgpid4b",
+      "title": "Castlevania: Belmont's Curse was made to enlighten players who \"love Metroidvanias\" but have \"never played a Castlevania game,\" Konami lead says",
+      "url": "https://www.gamesradar.com/games/action/castlevania-belmonts-curse-was-made-to-enlighten-players-who-love-metroidvanias-but-have-never-played-a-castlevania-game-konami-lead-says/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204017",
+      "title": "Give Call of Duty: Modern Warfare 4 a Go in Its PS5 Beta Next Month",
+      "url": "https://www.pushsquare.com/news/2026/07/give-call-of-duty-modern-warfare-4-a-go-in-its-ps5-beta-next-month",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T18:30:00+00:00"
     }
   ]
 }
