@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Freshly Independent Compulsion Games Is Already Hunting for Collaborators After Xbox Cut",
-      "tag": "compulsion games",
-      "posted_at": "2026-07-13T19:55:30.923158+00:00",
-      "urls": [
-        "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations",
-        "https://www.pcgamer.com/gaming-industry/one-week-after-going-independent-in-the-xbox-bloodbath-south-of-midnight-developer-compulsion-games-is-looking-for-work/"
-      ],
-      "article_titles": [
-        "Former Xbox Studio Compulsion Games Says It's Open to Collaborations",
-        "One week after going independent in the Xbox bloodbath, South of Midnight developer Compulsion Games is looking for work"
-      ]
-    },
-    {
       "headline": "PS5 Emulator Makes Surprising Leap, Now Boots GTA V Menus and Plays 3D Games",
       "tag": "ps5 emulation",
       "posted_at": "2026-07-14T14:46:34.843644+00:00",
@@ -815,27 +802,33 @@
       "article_titles": [
         "GTA Wiki Accuses Fandom Of Ripping Off Its Articles And Shares Evidence: \u2018We Want Everyone To See How Shameless They Are About It\u2019"
       ]
+    },
+    {
+      "headline": "Jennifer English Is Leaving Tides of Annihilation After Starring in Baldur's Gate 3 and Clair Obscur",
+      "tag": "tides of annihilation",
+      "posted_at": "2026-07-20T20:46:09.370262+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/jennifer-english-star-of-baldurs-gate-3-and-clair-obscur-expedition-33-leaves-tides-of-annihilation-lead-role/"
+      ],
+      "article_titles": [
+        "Jennifer English, star of Baldur's Gate 3 and Clair Obscur: Expedition 33, leaves Tides of Annihilation lead role"
+      ]
+    },
+    {
+      "headline": "FBI Arrests Man Who Hid Malware in Steam Games to Steal $200,000 \u2014 Then Blew It on UberEats",
+      "tag": "",
+      "posted_at": "2026-07-20T20:46:09.450798+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/fbi-arrests-21-year-old-who-allegedly-stole-usd200-000-with-malware-infected-steam-games-and-spent-the-money-on-traceable-ubereats-gift-cards/"
+      ],
+      "article_titles": [
+        "FBI arrests 21-year-old who allegedly stole $200,000 with malware-infected Steam games and spent the money on traceable UberEats gift cards"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "db848f5f-c161-4307-9be4-cd2fe0b4a146",
-      "title": "Marvel Studios Boss Kevin Feige Feels Like a 'Gigantic Loser and Failure' Over Doomed Blade Reboot With Mahershala Ali",
-      "url": "https://www.ign.com/articles/marvel-studios-boss-kevin-feige-feels-like-a-gigantic-loser-and-failure-over-doomed-blade-reboot-with-mahershala-ali",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T15:30:49+00:00"
-    },
-    {
-      "guid": "jLVqaMvyZ3cP5UFtDso5UP",
-      "title": "Robert Downey Jr.'s Doctor Doom accent in the first Avengers: Doomsday trailer is worrying, but I have faith in the Marvel veteran",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-s-doctor-doom-accent-in-the-first-avengers-doomsday-trailer-is-worrying-but-i-have-faith-in-the-marvel-veteran/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T15:35:01+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000717612",
       "title": "League Of Legends Classic Makes Skins Free After A Big Fan Backlash",
@@ -869,14 +862,6 @@
       "published_dt": "2026-07-20T16:54:17+00:00"
     },
     {
-      "guid": "SKvP35RVExoKf6rRCdZyaa",
-      "title": "Streamer builds a battery powered PC with over 100 AAs, uses Hannah Montana Linux to benchmark their abomination",
-      "url": "https://www.pcgamer.com/hardware/streamer-builds-a-battery-powered-pc-with-over-100-aas-uses-hannah-montana-linux-to-benchmark-their-abomination/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T16:44:42+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236507779",
       "title": "\u2018My Life With the Walter Boys\u2019 Season 3: Everything We Know So Far",
       "url": "https://deadline.com/feature/my-life-with-the-walter-boys-season-3-news-1236507779/",
@@ -907,22 +892,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-20T16:58:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236812230",
-      "title": "Variety\u2019s Faith & Media Impact Report 2026: Nominations Are Open",
-      "url": "https://variety.com/2026/film/news/varietys-faith-media-impact-report-2026-nominations-open-1236812230/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T16:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236816250",
-      "title": "Grupo M\u00f3rbido\u2019s Pablo Guisa Boards Two Pics at Costa Rica Media Market, Launches Blood Bank Initiative (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/grupo-morbido-pablo-guisa-boards-pics-costa-rica-market-1236816250/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T16:40:30+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236651179",
@@ -1339,6 +1308,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-20T19:28:50+00:00"
+    },
+    {
+      "guid": "eadb325f-9ded-406d-bebf-57bbdb3f9a62",
+      "title": "Kevin Feige Denies the MCU Will Reboot With Secret Wars, Points to 2015 Comic as 'Nice Roadmap' for the Future",
+      "url": "https://www.ign.com/articles/kevin-feige-denies-the-mcu-will-reboot-with-secret-wars-points-to-2015-comic-as-nice-roadmap-for-the-future",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T20:23:21+00:00"
+    },
+    {
+      "guid": "c738b027-db77-4396-811a-5497cdf9f7f8",
+      "title": "Dell Outlet Has an Alienware Area-51 RTX 5090 Gaming PC With 64GB of RAM and 4TB SSD for \"Just\" $5K",
+      "url": "https://www.ign.com/articles/alienware-area-51-rtx-5090-gaming-pc-deal-dell-outlet-july",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T20:20:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717764",
+      "title": "That\u2019s\u2026Not Injustice 3, DC",
+      "url": "https://kotaku.com/dcko-dc-fighting-game-injustice-3-free-to-play-mobile-2000717764",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T20:45:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000717751",
+      "title": "Nier: Automata\u2019s Director Is Sad About PlayStation Discs, Too: \u2018Don\u2019t Assume Your Parents And Physical Media Will Always Be There\u2019",
+      "url": "https://kotaku.com/nier-automatas-director-is-sad-about-playstation-discs-too-dont-assume-your-parents-and-physical-media-will-always-be-there-2000717751",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T20:11:50+00:00"
+    },
+    {
+      "guid": "oCbCkqkPyCg5iA8nQDm4Li",
+      "title": "Jennifer English, star of Baldur's Gate 3 and Clair Obscur: Expedition 33, leaves Tides of Annihilation lead role",
+      "url": "https://www.pcgamer.com/games/jennifer-english-star-of-baldurs-gate-3-and-clair-obscur-expedition-33-leaves-tides-of-annihilation-lead-role/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T20:18:50+00:00"
+    },
+    {
+      "guid": "P4BjGzKvf5zad9VpgrKnff",
+      "title": "FBI arrests 21-year-old who allegedly stole $200,000 with malware-infected Steam games and spent the money on traceable UberEats gift cards",
+      "url": "https://www.pcgamer.com/gaming-industry/fbi-arrests-21-year-old-who-allegedly-stole-usd200-000-with-malware-infected-steam-games-and-spent-the-money-on-traceable-ubereats-gift-cards/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T20:18:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998746",
+      "title": "Rebel Wilson\u2019s \u2018The Deb\u2019 Gets First Trailer & Digital Release Date; Pic Sparked High-Profile Legal Battles",
+      "url": "https://deadline.com/2026/07/the-deb-trailer-release-date-rebel-wilson-1236998746/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-20T20:30:36+00:00"
+    },
+    {
+      "guid": "a6fKwARMrsm4c9dRGyk8cH",
+      "title": "Marvel boss Kevin Feige says he feels like a \"gigantic loser and failure\" for not making Blade reboot with Mahershala Ali",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/marvel-boss-kevin-feige-says-he-feels-like-a-gigantic-loser-and-failure-for-not-making-blade-reboot-with-mahershala-ali/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T20:33:21+00:00"
+    },
+    {
+      "guid": "DSAtm5ULt7KrNysMCaRBP",
+      "title": "Only 7 PlayStation games have sold over 100,000 physical copies in the US this year, says analyst, as commenters demand discs without buying them",
+      "url": "https://www.gamesradar.com/games/only-7-playstation-games-have-sold-over-100-000-physical-copies-in-the-us-this-year-says-analyst-as-commenters-demand-discs-without-buying-them/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-20T20:21:34+00:00"
     }
   ]
 }
