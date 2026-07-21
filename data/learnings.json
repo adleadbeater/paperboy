@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "FX's Far Cry Series Lands Steve Buscemi in Its Cast",
-      "tag": "far cry",
-      "posted_at": "2026-07-14T20:04:43.707766+00:00",
-      "urls": [
-        "https://variety.com/2026/tv/news/far-cry-fx-series-cast-steve-buscemi-1236810902/",
-        "https://www.hollywoodreporter.com/tv/tv-news/steve-buscemi-far-cry-fx-hulu-1236648052/"
-      ],
-      "article_titles": [
-        "\u2018Far Cry\u2019 FX Series Casts Steve Buscemi",
-        "FX and Hulu\u2019s \u2018Far Cry\u2019 Adds Steve Buscemi"
-      ]
-    },
-    {
       "headline": "Monster Hunter Wilds Is Getting a Permanent Price Cut Before the Ascendance Expansion",
       "tag": "monster hunter wilds",
       "posted_at": "2026-07-14T21:27:48.464631+00:00",
@@ -864,6 +851,17 @@
       "article_titles": [
         "New Xbox VP Helping CEO With \u2018Our Most Complex Product And Engineering Problems\u2019 Is Already Leaving Three Months Later"
       ]
+    },
+    {
+      "headline": "Darkest Dungeon Is Getting a Surprise DLC That Brings Darkest Dungeon 2 Content to the Original",
+      "tag": "darkest dungeon",
+      "posted_at": "2026-07-21T20:30:44.405330+00:00",
+      "urls": [
+        "https://kotaku.com/darkest-dungeon-first-dlc-six-years-2000718098"
+      ],
+      "article_titles": [
+        "Darkest Dungeon Is Getting Darkest Dungeon 2 Content In A Surprise DLC Release"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -884,30 +882,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-07-21T16:32:29+00:00"
-    },
-    {
-      "guid": "JmxroJzu6g448BNNciRhdk",
-      "title": "A modder has brought No Man's Sky-style seamless takeoffs to Starfield, and even in beta they look pretty great",
-      "url": "https://www.pcgamer.com/games/rpg/a-modder-has-brought-no-mans-sky-style-seamless-takeoffs-to-starfield-and-even-in-beta-they-look-pretty-great/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:24:02+00:00"
-    },
-    {
-      "guid": "SRLxpHEWyQCoc3aAv3Nngg",
-      "title": "A hacker has reportedly wiped out parts of the land registry database of Romania, bringing its real-estate market to a shuddering halt",
-      "url": "https://www.pcgamer.com/software/security/a-hacker-has-reportedly-wiped-out-parts-of-the-land-registry-database-of-romania-bringing-its-real-estate-market-to-a-shuddering-halt/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:19:27+00:00"
-    },
-    {
-      "guid": "LoCfaUiikzXiBihcqqisph",
-      "title": "It's probably time to update 7-Zip as the app has just been patched to fix a pretty big vulnerability",
-      "url": "https://www.pcgamer.com/software/security/its-probably-time-to-update-7-zip-as-the-app-has-just-been-patched-to-fix-a-pretty-big-vulnerability/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:18:30+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1236998894",
@@ -942,44 +916,12 @@
       "published_dt": "2026-07-21T16:31:14+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1236997669",
-      "title": "Gersh Signs \u2018Disclosure Day\u2019 Standout Courtney Grace",
-      "url": "https://deadline.com/2026/07/disclosure-day-anchor-courtney-grace-signs-gersh-1236997669/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236999301",
-      "title": "MGM+\u2019s \u2018The Magnificent Seven\u2019 Adds 4 To Series Regular Cast",
-      "url": "https://deadline.com/2026/07/mgm-plus-the-magnificent-seven-cast-series-regulars-1236999301/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236007845",
-      "title": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More",
-      "url": "https://deadline.com/feature/hollywood-media-layoffs-list-1236007845/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:23:58+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236817299",
       "title": "After Leaving NBC News, Chris Berend Is Joining Hearst Magazines as Content Chief",
       "url": "https://variety.com/2026/digital/news/chris-berend-hearst-magazines-nbc-news-1236817299/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-21T16:38:38+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236817170",
-      "title": "France\u2019s Elsa Zylberstein Draws on Viral Lockdown Sketches for Directorial Debut \u2018My Best Life\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/elsa-zylberstein-viral-sketches-directorial-debut-my-best-life-1236817170/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:27:05+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236653026",
@@ -998,14 +940,6 @@
       "published_dt": "2026-07-21T16:30:36+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236653104",
-      "title": "\u2018Evil Dead Burn\u2019 House Set to Conjure a Deadite Nightmare for Halloween Horror Nights 2026",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/evil-dead-burn-house-halloween-horror-nights-2026-1236653104/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-21T16:21:19+00:00"
-    },
-    {
       "guid": "8wnY8dxE7nXVWqsoVHmYTY",
       "title": "Assassin's Creed Black Flag Resynced looks like it's hiding evidence of the Assassin's Creed Hexe setting",
       "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-looks-like-its-hiding-evidence-of-the-assassins-creed-hexe-setting/",
@@ -1014,68 +948,12 @@
       "published_dt": "2026-07-21T16:42:10+00:00"
     },
     {
-      "guid": "4pTcCwUUFuRQ7bFCGdguMh",
-      "title": "Final Spider-Man: Brand New Day trailer takes emotional rewind through first three MCU films before delivering a Peter and MJ gut punch and extended Savage Hulk fight",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-final-trailer/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-21T16:26:55+00:00"
-    },
-    {
-      "guid": "uLduUcySa6jm7TQuJnDRCC",
-      "title": "Palworld 1.0 brings a revelation to longtime fans who never crafted an invaluable item: \"I thought they were consumable\"",
-      "url": "https://www.gamesradar.com/games/survival/palworld-1-0-brings-a-revelation-to-longtime-fans-who-never-crafted-an-invaluable-item-i-thought-they-were-consumable/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-21T16:22:21+00:00"
-    },
-    {
       "guid": "1827134",
       "title": "Neill Blomkamp\u2019s AI Film Has Fans Asking For District 10 Instead",
       "url": "https://www.gamespot.com/articles/neill-blomkamps-ai-film-has-fans-asking-for-district-10-instead/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-07-21T16:40:58+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204068",
-      "title": "Indie Publisher Will 'Safeguard' Devs by Making PS5 Physical Games for All Eligible Titles",
-      "url": "https://www.pushsquare.com/news/2026/07/indie-publisher-will-safeguard-devs-by-making-ps5-physical-games-for-all-eligible-titles",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-21T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204071",
-      "title": "Latest Analogue 3D Update Introduces \"Internal Graphical Upscaling\"",
-      "url": "https://www.timeextension.com/news/2026/07/latest-analogue-3d-update-introduces-internal-graphical-upscaling",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-21T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1065382",
-      "title": "Echo Weaver launches October 8 for PS5, Xbox Series, Switch 2, and PC",
-      "url": "https://www.gematsu.com/2026/07/echo-weaver-launches-october-8-for-ps5-xbox-series-switch-2-and-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-21T16:20:36+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1746129",
-      "title": "GTA 5 Producer Says GTA 6 Is Unlikely to Reuse Cut Content Despite Rockstar\u2019s History of Recycling Ideas",
-      "url": "https://otakukart.com/gta-5-producer-says-gta-6-is-unlikely-to-reuse-cut-content-despite-rockstars-history-of-recycling-ideas/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-21T16:28:30+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1746105",
-      "title": "Ghost Recon Wildlands Definitive Edition Leak Points to PS5 and Xbox Series X|S Upgrade With 4K, 60 FPS, and New Mission",
-      "url": "https://otakukart.com/ghost-recon-wildlands-definitive-edition-leak-points-to-ps5-and-xbox-series-xs-upgrade-with-4k-60-fps-and-new-mission/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-21T16:16:05+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000718085",
@@ -1244,6 +1122,78 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-21T19:29:32+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000718098",
+      "title": "Darkest Dungeon Is Getting Darkest Dungeon 2 Content In A Surprise DLC Release",
+      "url": "https://kotaku.com/darkest-dungeon-first-dlc-six-years-2000718098",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T20:00:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236999607",
+      "title": "Sony Pictures Looking To Bring Cinerama Dome & Hollywood Arclight Back To Life \u2013 The Dish",
+      "url": "https://deadline.com/2026/07/cinerama-dome-hollywood-arclight-sony-deal-1236999607/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T20:15:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236999599",
+      "title": "Bravo\u2019s White Hot Reality TV Summer Continues With Ratings Wins Across \u2018Below Deck Mediterranean,\u2019 \u2018In The City\u2019 & More",
+      "url": "https://deadline.com/2026/07/bravo-summer-ratings-records-below-deck-in-the-city-reality-1236999599/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T20:04:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236863055",
+      "title": "Roundabout Sets Broadway Dates For \u2018The Full Monty\u2019, \u2018The Imaginary Invalid\u2019, \u2018Mix And Master\u2019",
+      "url": "https://deadline.com/2026/07/roundabout-full-monty-broadway-2026-2027-season-1236863055/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817485",
+      "title": "Clipping Comes to the Movies: How Micro-Influencer Agency SGG Media Helps the Ground Game for Hollywood Marketing",
+      "url": "https://variety.com/2026/film/news/sgg-media-hollywood-marketing-sports-influencers-1236817485/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T20:15:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817475",
+      "title": "\u2018Avengers: Doomsday\u2019 Racks Up $16.5 Million in Advance Ticket Sales After First Day (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/avengers-doomsday-ticket-sales-marvel-1236817475/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T20:12:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236653211",
+      "title": "\u2018Untold\u2019 Returns to Netflix With Documentaries on Raygun, Vince Young and Mr. T (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/untold-docs-raygun-vince-young-mr-t-netflix-exclusive-1236653211/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T20:00:00+00:00"
+    },
+    {
+      "guid": "kapVNTDscniUvS8nZhuhkc",
+      "title": "\"Steam\u2019s required AI disclosure is the right move\": Devs say gen AI should be called out in games and support Valve's store mandate",
+      "url": "https://www.gamesradar.com/games/steams-required-ai-disclosure-is-the-right-move-devs-say-gen-ai-should-be-called-out-in-games-and-support-valves-store-mandate/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T20:21:08+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119879",
+      "title": "Motoko Kusanagi SH Figuarts Figure Based on New Ghost in the Shell Anime",
+      "url": "https://www.siliconera.com/motoko-kusanagi-sh-figuarts-figure-based-on-new-ghost-in-the-shell-anime/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T20:00:00+00:00"
     }
   ]
 }
