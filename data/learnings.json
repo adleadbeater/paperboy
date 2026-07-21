@@ -875,28 +875,52 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236816945",
-      "title": "Peter Lassally, Legendary Late Night Producer for Johnny Carson, David Letterman and Craig Ferguson, Dies at 93",
-      "url": "https://variety.com/2026/tv/news/peter-lassally-late-night-producer-carson-letterman-dies-dead-1236816945/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-20T23:34:07+00:00"
-    },
-    {
-      "guid": "nzfQM36DVoyZQbV6hq3f4X",
-      "title": "Cheap build aside, the $600 AOC GAMING Q27G4ZD low-key OLED star",
-      "url": "https://www.gamesradar.com/hardware/tvs-monitors/aoc-gaming-q27g4zd-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-20T23:30:11+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1236999026",
       "title": "Mara Wilson Says \u2018Matilda\u2019 Sequel \u201cCould Be Possible\u201d & Why It \u201cAnnoyed\u201d Her Being Linked To Film",
       "url": "https://deadline.com/2026/07/mara-wilson-matilda-sequel-possible-1236999026/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-21T03:05:18+00:00"
+    },
+    {
+      "guid": "GD96VjoZxF85QG9vTBzUHe",
+      "title": "A new Elder Scrolls is still years away, but this fun Arthurian Skyrim clone is 50% off right now",
+      "url": "https://www.pcgamer.com/games/rpg/a-new-elder-scrolls-is-still-years-away-but-this-fun-arthurian-skyrim-clone-is-50-percent-off-right-now/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T03:55:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236999030",
+      "title": "Sadie Sink Keeps Mystery Of \u2018Spider-Man: Brand New Day\u2019 Role & Reveals \u201cI Am Not Aunt May\u201d",
+      "url": "https://deadline.com/2026/07/sadie-sink-mystery-spider-man-brand-new-day-role-1236999030/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T03:59:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816865",
+      "title": "\u2018Sherlock\u2019 Creator Steven Moffat Set as International Guest of Serielizados \u2013 Barcelona Series Festival (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/steven-moffat-sue-vertue-serielizados-in-vitro-episodic-1236816865/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T03:56:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816999",
+      "title": "Ed Harris Felt \u2018Misled\u2019 by \u2018Dutton Ranch\u2019 About \u2018Inconsequential\u2019 Role: \u2018Get Me the F\u2014 Out of Here\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/ed-harris-misled-dutton-ranch-paramount-taylor-sheridan-1236816999/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T03:47:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652821",
+      "title": "Chloe Fineman Opens Up About Decision to Leave \u2018SNL\u2019: \u201cI\u2019m Really Proud of Everything, But It\u2019s Hard\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/chloe-fineman-opens-up-decision-leave-snl-the-dink-1236652821/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T03:48:52+00:00"
     }
   ]
 }
