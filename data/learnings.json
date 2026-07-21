@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "PS5 Emulator Makes Surprising Leap, Now Boots GTA V Menus and Plays 3D Games",
-      "tag": "ps5 emulation",
-      "posted_at": "2026-07-14T14:46:34.843644+00:00",
-      "urls": [
-        "https://kotaku.com/ps5-emulator-making-big-progress-can-boot-up-gta-v-menus-and-play-some-3d-games-2000715799"
-      ],
-      "article_titles": [
-        "PS5 Emulator Making Big Progress, Can Boot Up GTA V Menus And Play Some 3D Games"
-      ]
-    },
-    {
       "headline": "Pok\u00e9mon Studio's New Action RPG Beast of Reincarnation Reveals Fresh Details",
       "tag": "beast of reincarnation",
       "posted_at": "2026-07-14T16:07:09.127943+00:00",
@@ -869,6 +858,32 @@
         "Sales Data Paints a Very Grim Picture for Physical PS5 Games in the USA",
         "Sales Data Paints a Very Grim Picture for Physical PS5 Games in the USA"
       ]
+    },
+    {
+      "headline": "Nintendo Basically Confirms Splatoon 4 Is Coming After Splatoon Raiders Reveal",
+      "tag": "splatoon",
+      "posted_at": "2026-07-21T15:20:21.784900+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/07/nintendo-all-but-confirms-that-splatoon-4-is-on-the-way",
+        "https://otakukart.com/splatoon-producer-says-splatoon-raiders-was-chosen-over-splatoon-4-to-deliver-a-standalone-single-player-experience/"
+      ],
+      "article_titles": [
+        "Nintendo All But Confirms That Splatoon 4 Is On The Way",
+        "Splatoon Producer Says Splatoon Raiders Was Chosen Over Splatoon 4 to Deliver a Standalone Single-Player Experience"
+      ]
+    },
+    {
+      "headline": "Wreckreation Is Getting a Sequel Despite a Rough Launch, Dev Forms New Studio",
+      "tag": "wreckreation",
+      "posted_at": "2026-07-21T15:20:21.873156+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/07/against-all-odds-disappointing-arcade-racer-wreckreation-is-getting-a-ps5-sequel",
+        "https://www.pcgamer.com/games/racing/developer-of-burnout-spiritual-successor-wreckreation-has-formed-a-new-studio-working-on-a-sequel/"
+      ],
+      "article_titles": [
+        "Against All Odds, Disappointing Arcade Racer Wreckreation Is Getting a PS5 Sequel",
+        "Developer of Burnout spiritual successor Wreckreation has formed a new studio working on a sequel"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1073,6 +1088,238 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-21T12:42:54+00:00"
+    },
+    {
+      "guid": "8rKHHAcFUMcdN73pTG6wXN",
+      "title": "Acer's Predator Atlas 8 pricing puts the nail in the handheld coffin for me: it is now a luxury market",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/acers-predator-atlas-8-pricing-puts-the-nail-in-the-handheld-coffin-for-me-it-is-now-a-luxury-market/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:09+00:00"
+    },
+    {
+      "guid": "twR9DkhAqmjoSfqLPageQi",
+      "title": "Developer of Burnout spiritual successor Wreckreation has formed a new studio working on a sequel",
+      "url": "https://www.pcgamer.com/games/racing/developer-of-burnout-spiritual-successor-wreckreation-has-formed-a-new-studio-working-on-a-sequel/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T14:49:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236999173",
+      "title": "Josh Duhamel, James Franco, Paula Patton & Summer H. Howell Wrap On Action-Thriller \u2018Runaway\u2019",
+      "url": "https://deadline.com/2026/07/josh-duhamel-james-franco-paula-patton-join-runaway-1236999173/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:14:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236999275",
+      "title": "Disney Cutting Several Hundred Jobs; Pixar And National Geographic Among Most Affected Divisions",
+      "url": "https://deadline.com/2026/07/disney-layoffs-pixar-national-geographic-1236999275/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:08:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998914",
+      "title": "Comedian Zach Zucker To Unveil \u2018Stamptown\u2019 Variety Special On Netflix In August",
+      "url": "https://deadline.com/2026/07/stamptown-netflix-special-zach-zucker-sets-premiere-date-1236998914/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998972",
+      "title": "\u2018Hard Knocks\u2019 Trailer For \u2018Training Camp With The Seattle Seahawks\u2019 Features Super Bowl Reigning Champs In HBO & NFL Films Series",
+      "url": "https://deadline.com/2026/07/hard-knocks-trailer-training-camp-seattle-seahawks-hbo-nfl-1236998972/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236999137",
+      "title": "NYFF Sets World Premiere Of Ava DuVernay Documentary \u201814th\u2019 As Closing Night Film",
+      "url": "https://deadline.com/2026/07/new-york-film-festival-ava-duvernay-14th-world-premiere-1236999137/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817219",
+      "title": "Harry Styles\u2019 Concert in Brazil Tonight Canceled Due to Unspecified \u2018Tour Illness\u2019",
+      "url": "https://variety.com/2026/music/news/harry-styles-concert-in-brazil-canceled-illness-1236817219/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:11:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236810552",
+      "title": "Sphere Entertainment Hires Karen Laureano-Rikardsen as Global Marketing and Comms Chief",
+      "url": "https://variety.com/2026/film/news/sphere-entertainment-global-comms-karen-laureano-rikardsen-1236810552/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816861",
+      "title": "Ava DuVernay\u2019s \u201914th\u2019 Documentary to World Premiere at New York Film Festival",
+      "url": "https://variety.com/2026/film/box-office/ava-duvernay-14th-documentary-new-york-film-festival-world-premiere-1236816861/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817082",
+      "title": "\u2018Jason Statham Stole My Bike\u2019 Action-Comedy Adds Eddie Peng, Daniel Ings and Artie Wilkinson-Hunt to Cast (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/jason-statham-stole-my-bike-eddie-peng-daniel-ings-1236817082/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817191",
+      "title": "Disney Store Returns to D23 Fan Event With Exclusive F1 Jackets, \u2018Peter Pan\u2019 Collection Preview and Artist Meet-and-Greets",
+      "url": "https://variety.com/2026/shopping/news/d23-fan-event-disney-store-shop-1236817191/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817189",
+      "title": "Academy of Country Music Appoints Andy Schuon as New CEO",
+      "url": "https://variety.com/2026/music/news/andy-schuon-ceo-academy-of-country-music-named-1236817189/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T14:56:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652715",
+      "title": "Toronto: Miwa Nishikawa\u2019s \u2018Children Untold\u2019 to Open Platform Competition",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-2026-platform-competition-films-1236652715/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:14:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652967",
+      "title": "Richard M. Rawlings Jr., Cinematographer Who Split a Season of \u2018Charlie\u2019s Angels\u2019 With His Dad, Dies at 82",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/richard-rawlings-jr-dead-charlies-angels-cinematographer-1236652967/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:08:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236647628",
+      "title": "Karen Laureano-Rikardsen Joins Sphere as Global Head of Corporate Marketing and Communications",
+      "url": "https://www.hollywoodreporter.com/business/business-news/karen-laureano-rikardsen-sphere-global-corporate-comms-1236647628/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652745",
+      "title": "Ava DuVernay\u2019s \u201914th\u2019 Documentary to Get World Premiere as NY Film Festival Closing Night Selection",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ava-duvernay-14th-documentary-world-premiere-ny-film-fest-1236652745/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236652502",
+      "title": "Disney Cutting Hundreds More Jobs In New Round of Corporate Streamlining",
+      "url": "https://www.hollywoodreporter.com/business/business-news/new-disney-layoffs-pixar-streamlining-1236652502/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-21T14:45:27+00:00"
+    },
+    {
+      "guid": "8GmVQjaPtHYePMKkDeD3aE",
+      "title": "MOBA fans gobsmacked that Blizzard still supports Heroes of the Storm as the dev unleashes an army of updates",
+      "url": "https://www.gamesradar.com/games/moba/moba-fans-gobsmacked-that-blizzard-still-supports-heroes-of-the-storm-as-the-dev-unleashes-an-army-of-updates/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:11:35+00:00"
+    },
+    {
+      "guid": "qtdhp3qjGzCepb6MLvTj2R",
+      "title": "Lego X-Files set revealed, and you'll want to believe you have space for this set in your collection",
+      "url": "https://www.gamesradar.com/toys-collectibles/lego-x-files-set-revealed-and-youll-want-to-believe-you-have-space-for-this-set-in-your-collection/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:02:06+00:00"
+    },
+    {
+      "guid": "1826986",
+      "title": "We\u2019ll Finally See The Witcher 3\u2019s New Expansion Next Month",
+      "url": "https://www.gamespot.com/articles/well-finally-see-the-witcher-3-new-expansion-next-month/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:04:31+00:00"
+    },
+    {
+      "guid": "1826950",
+      "title": "Marvel Tokon: Fighting Souls Beta \u2013 Start Time, Roster, And How To Get In",
+      "url": "https://www.gamespot.com/articles/marvel-tokon-fighting-souls-beta-start-time-roster-and-how-to-get-in/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T14:56:13+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204056",
+      "title": "Nintendo All But Confirms That Splatoon 4 Is On The Way",
+      "url": "https://www.nintendolife.com/news/2026/07/nintendo-all-but-confirms-that-splatoon-4-is-on-the-way",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204059",
+      "title": "Against All Odds, Disappointing Arcade Racer Wreckreation Is Getting a PS5 Sequel",
+      "url": "https://www.pushsquare.com/news/2026/07/against-all-odds-disappointing-arcade-racer-wreckreation-is-getting-a-ps5-sequel",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119851",
+      "title": "Animal Crossing Marshal Featured in Shiroi Koibito Biscuits",
+      "url": "https://www.siliconera.com/animal-crossing-marshal-featured-in-shiroi-koibito-biscuits/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=69872",
+      "title": "Former Tekken lead\u00a0Katsuhiro Harada\u00a0once\u00a0thought he was \u201ccooked\u201d when American fans invited him to a cookout",
+      "url": "https://automaton-media.com/en/news/former-tekken-lead-katsuhiro-harada-once-thought-he-was-cooked-when-american-fans-invited-him-to-a-cookout/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746110",
+      "title": "Splatoon Producer Says Splatoon Raiders Was Chosen Over Splatoon 4 to Deliver a Standalone Single-Player Experience",
+      "url": "https://otakukart.com/splatoon-producer-says-splatoon-raiders-was-chosen-over-splatoon-4-to-deliver-a-standalone-single-player-experience/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:13:57+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746104",
+      "title": "Fortnite Survey Featuring Palworld Sparks Fresh Collaboration Speculation Among Fans",
+      "url": "https://otakukart.com/fortnite-survey-featuring-palworld-sparks-fresh-collaboration-speculation-among-fans/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T15:04:53+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746103",
+      "title": "Viral Report About A24\u2019s Elden Ring Movie Set Being Invaded by \u201cTwinkPunisher\u201d Is Satire",
+      "url": "https://otakukart.com/viral-report-about-a24s-elden-ring-movie-set-being-invaded-by-twinkpunisher-is-satire/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-21T14:58:03+00:00"
     }
   ]
 }
