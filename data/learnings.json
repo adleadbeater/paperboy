@@ -852,54 +852,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237000490",
-      "title": "Taylor Zakhar Perez, Owen Thiele, Nasim Pedrad & Supriya Ganesh Among Final Additions To Netflix\u2019s \u201913 Going On 30\u2032 Reboot",
-      "url": "https://deadline.com/2026/07/13-going-on-30-reboot-cast-adds-taylor-zakhar-perez-owen-thiele-1237000490/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-22T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236653919",
-      "title": "Inside the Gen Z Film Publicity Stunt That Had Manosphere Poster Boy Kyle University Stationed Outside L.A., London Studios (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/kyle-university-manosphere-film-publicity-stunt-noah-caplan-1236653919/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-22T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204126",
-      "title": "Sony Imposes 'Strictest Ever Social Media Guidelines' on Staff Due to PS5 Disc Debacle",
-      "url": "https://www.pushsquare.com/news/2026/07/sony-imposes-strictest-ever-social-media-guidelines-on-staff-due-to-ps5-disc-debacle",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-22T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1119956",
-      "title": "Closed The Duskbloods Network Test Registration Opens",
-      "url": "https://www.siliconera.com/closed-the-duskbloods-network-test-registration-opens/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-22T19:00:00+00:00"
-    },
-    {
-      "guid": "jqeB3ppNHFLkNu6FNFh9pV",
-      "title": "Indie game gets last minute Steam delay while Valve reviews its 'dozens of untextured polygons depicting ass and boobs'",
-      "url": "https://www.pcgamer.com/gaming-industry/indie-game-gets-last-minute-steam-delay-while-valve-reviews-its-dozens-of-untextured-polygons-depicting-ass-and-boobs/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-22T19:04:30+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=613655",
-      "title": "D&D: The Blade Of Radiance Rogue Adds A Little \u2018Elden Ring\u2019 Flavor",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-the-blade-of-radiance-rogue-adds-a-little-elden-ring-flavor.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-22T19:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000718474",
       "title": "New Langrisser Tactics RPG Looks Like Gacha Slop That\u2019s Ripping Off Unicorn Overlord",
       "url": "https://kotaku.com/new-langrisser-tactics-rpg-looks-like-gacha-slop-thats-ripping-off-unicorn-overlord-2000718474",
@@ -1194,6 +1146,22 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-22T22:42:00+00:00"
+    },
+    {
+      "guid": "p9J6oJSuJFfyiDcEASihS3",
+      "title": "The new Warhammer Blood Bowl published by Slitherine will be out in fall, and I'm looking forward to it because I enjoy pain I guess",
+      "url": "https://www.pcgamer.com/games/sports/the-new-warhammer-blood-bowl-published-by-slitherine-will-be-out-in-fall-and-im-looking-forward-to-it-because-i-enjoy-pain-i-guess/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T23:40:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237000888",
+      "title": "Paramount Seeks Three-Day Evidentiary Hearing As Judge Considers Preliminary Injunction To Halt Warner Bros. Discovery Merger",
+      "url": "https://deadline.com/2026/07/paramount-warner-bros-state-attorney-general-lawsuit-1237000888/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T23:48:30+00:00"
     }
   ]
 }
