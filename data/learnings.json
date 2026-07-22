@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Pok\u00e9mon Is Cutting One of Its Most Underappreciated Games From the World Championships",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-07-15T16:49:47.656513+00:00",
-      "urls": [
-        "https://kotaku.com/pokemon-world-championships-2026-2027-unite-worlds-go-2000716258"
-      ],
-      "article_titles": [
-        "Pok\u00e9mon Is Dropping One Of Its Most Underappreciated Games From Its Biggest Competition"
-      ]
-    },
-    {
       "headline": "Leon Kennedy's Voice Actor Reveals Capcom Cut His \"Favorite\" Line From Resident Evil Requiem",
       "tag": "resident evil requiem",
       "posted_at": "2026-07-15T18:00:54.795735+00:00",
@@ -781,6 +770,30 @@
         "Xbox Backward Compatibility on PC announced; four titles now available",
         "Xbox backwards compatibility launching with four games"
       ]
+    },
+    {
+      "headline": "Xbox Layoffs Are Already Hurting Elder Scrolls Online \u2014 Bethesda Pulls Back Its Web Store",
+      "tag": "the elder scrolls online",
+      "posted_at": "2026-07-22T16:54:30.270759+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/the-elder-scrolls/the-elder-scrolls-online-is-struggling-with-team-bandwidth-after-xbox-layoffs-hit-bethesda-and-zenimax-leading-devs-to-limit-a-store-for-in-game-items/",
+        "https://otakukart.com/the-elder-scrolls-online-removes-web-crown-store-as-xbox-layoffs-begin-affecting-live-service-support/"
+      ],
+      "article_titles": [
+        "The Elder Scrolls Online is struggling with \"team bandwidth\" after Xbox layoffs hit Bethesda and ZeniMax, leading devs to limit a store for in-game items",
+        "The Elder Scrolls Online Removes Web Crown Store as Xbox Layoffs Begin Affecting Live Service Support"
+      ]
+    },
+    {
+      "headline": "Steam Deck Sales Have Collapsed 82% Following Price Hikes, New Report Claims",
+      "tag": "steam deck",
+      "posted_at": "2026-07-22T16:54:30.441604+00:00",
+      "urls": [
+        "https://kotaku.com/valve-steam-deck-sales-plummet-price-rises-handheld-gaming-2000718391"
+      ],
+      "article_titles": [
+        "New Report Suggests Valve\u2019s Steam Deck Sales Have Plummeted 82 Percent Since Price Hikes"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -843,14 +856,6 @@
       "published_dt": "2026-07-22T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237000083",
-      "title": "Writers Guild Seeks Preliminary Injunction To Halt Paramount-Warner Bros. Discovery Merger; Wants Case Timing Aligned With State AG Suit",
-      "url": "https://deadline.com/2026/07/writers-guild-paramount-warner-bros-lawsuit-1237000083/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-22T12:53:27+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236817958",
       "title": "\u2018Seinfeld\u2019 Star Jason Alexander Apologizes to Courtney Stodden for Filming \u2018Inappropriate\u2019 Sketch When She Was a Minor: \u2018I Truly Regret It\u2019",
       "url": "https://variety.com/2026/tv/news/jason-alexander-courtney-stodden-inappropriate-behavior-minor-1236817958/",
@@ -907,14 +912,6 @@
       "published_dt": "2026-07-22T13:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236653875",
-      "title": "\u2018Cats\u2019 Closing: Is It Curtains for Broadway Musicals?",
-      "url": "https://www.hollywoodreporter.com/business/business-news/cats-broadway-musicals-1236653875/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-22T12:48:57+00:00"
-    },
-    {
       "guid": "Uz5HMZsDTmUdgwMgizqnmF",
       "title": "Persona and Shin Megami Tensei artist isn't using generative AI in his next game following backlash to his last 2 deckbuilders",
       "url": "https://www.gamesradar.com/games/rpg/persona-and-shin-megami-tensei-artist-isnt-using-generative-ai-in-his-next-game-following-backlash-to-his-last-2-deckbuilders/",
@@ -929,14 +926,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-22T13:00:00+00:00"
-    },
-    {
-      "guid": "1828228",
-      "title": "FC 27 Cover Star Announced, And It\u2019s An Obvious Choice",
-      "url": "https://www.gamespot.com/articles/fc-27-cover-star-announced-and-its-an-obvious-choice/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-22T12:46:28+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-204099",
@@ -1249,6 +1238,206 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-22T15:15:15+00:00"
+    },
+    {
+      "guid": "f72d75d9-18de-480e-9b93-43241f28d05f",
+      "title": "The Samsung Odyssey G5 27\" QHD 180Hz OLED Gaming Monitor Drops to $299.99 on Amazon",
+      "url": "https://www.ign.com/articles/samsung-odyssey-oled-g5-gaming-monitor-deal-july",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:25:00+00:00"
+    },
+    {
+      "guid": "ac4053f3-89fa-4e56-bcb1-9c9e632216af",
+      "title": "Best Buy\u2019s Black Friday in July Sale Features Great Kindle Deals, but They\u2019re Going Fast",
+      "url": "https://www.ign.com/articles/best-buy-black-friday-in-july-sale-kindle-deals",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:23:38+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000718391",
+      "title": "New Report Suggests Valve\u2019s Steam Deck Sales Have Plummeted 82 Percent Since Price Hikes",
+      "url": "https://kotaku.com/valve-steam-deck-sales-plummet-price-rises-handheld-gaming-2000718391",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:19:31+00:00"
+    },
+    {
+      "guid": "itYou8rUUCPyZJLpSLN22B",
+      "title": "EU court rules that VPNs are 'lawful technical tools' as part of larger copyright judgement regarding The Diary of Anne Frank",
+      "url": "https://www.pcgamer.com/software/eu-court-rules-that-vpns-are-lawful-technical-tools-as-part-of-larger-copyright-judgement-regarding-the-diary-of-anne-frank/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:24:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236999819",
+      "title": "\u2018The Odyssey\u2019 Scores $21M+ Record Tuesday For Christopher Nolan; 2nd U.S. Weekend Could Top \u2018Dark Knight\u2019 Pics \u2013 Box Office",
+      "url": "https://deadline.com/2026/07/box-office-the-odyssey-tuesday-second-weekend-1236999819/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:50:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237000297",
+      "title": "Jonathan Levine In Talks To Direct Paramount\u2019s Tom Cruise \u2018Days Of Thunder\u2019 Sequel",
+      "url": "https://deadline.com/2026/07/tom-cruise-days-of-thunder-jonathan-levine-1237000297/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:41:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237000308",
+      "title": "New York Mayor Zohran Mamdani Names Antitrust Crusader Lina Khan Chair Of City\u2019s Economic Development Corporation",
+      "url": "https://deadline.com/2026/07/new-york-mayor-zohran-mamdani-lina-khan-economic-development-1237000308/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:36:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236997675",
+      "title": "\u2018The Furious\u2019 Star Joey Iwanaga Inks With Artists First",
+      "url": "https://deadline.com/2026/07/the-furious-star-joey-iwanaga-signs-artists-first-1236997675/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236998943",
+      "title": "Kenneth Branagh Stars In Scottish Highland Drama \u2018Laird\u2019 Ordered By Paramount+ From Jez Butterworth & 101 Studios",
+      "url": "https://deadline.com/2026/07/kenneth-branagh-drama-laird-paramount-plus-jez-butterworth-1236998943/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236818249",
+      "title": "Kenneth Branagh to Star in Paramount+ Drama \u2018Laird\u2019 Set in Scottish Highlands",
+      "url": "https://variety.com/2026/tv/news/kenneth-branagh-paramount-series-laird-scottish-highlands-1236818249/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:44:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236818235",
+      "title": "Glen Powell, Richard Linklater Teaming Up for Lou Gehrig Biopic, Lorne Michaels Producing",
+      "url": "https://variety.com/2026/film/news/glen-powell-richard-linklater-lou-gehrig-biopic-lorne-michaels-1236818235/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:43:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236818236",
+      "title": "Victoria Mon\u00e9t Announces New Album \u2018Frequency of Love,\u2019 Releases New Single \u2018Reach Out\u2019",
+      "url": "https://variety.com/2026/music/news/victoria-monet-new-album-frequency-of-love-reach-out-1236818236/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:31:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817622",
+      "title": "Jimmy Kimmel Thanks CBS for His Ratings Gains, Invites Stephen Colbert to Guest Host and Previews This Summer\u2019s \u2018Who Wants to Be a Millionaire\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-ratings-stephen-colbert-guest-host-millionaire-1236817622/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236653066",
+      "title": "\u2018Five Star Weekend\u2019s\u2019 D\u2019Arcy Carden Knows the Inherent Dangers of a Girls Trip",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/five-star-weekend-darcy-carden-interview-1236653066/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:36:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236653926",
+      "title": "\u2018Days of Thunder 2\u2019: Jonathan Levine in Talks to Direct Tom Cruise in Paramount\u2019s Racing Sequel (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jonathan-levine-direct-days-of-thunder-2-tom-cruise-1236653926/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:35:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236653912",
+      "title": "Paramount+ Orders Scottish Highland Family Saga \u2018Laird\u2019 With Kenneth Branagh",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-scottish-highland-saga-laird-kenneth-branagh-1236653912/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-22T16:30:00+00:00"
+    },
+    {
+      "guid": "c8J7HE2G5zC2hhbSM9DC5A",
+      "title": "Skyrim and Stardew Valley mods weren't enough: rotund icon Jimothy the viral raccoon invades D&D as a Wizards-approved \"cryptid\" who is \"hurling garbage and making friends\"",
+      "url": "https://www.gamesradar.com/tabletop-gaming/skyrim-and-stardew-valley-mods-werent-enough-rotund-icon-jimothy-the-viral-raccoon-invades-d-and-d-as-a-wizards-approved-cryptid-who-is-hurling-garbage-and-making-friends/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:48:03+00:00"
+    },
+    {
+      "guid": "NPXscWX59ohyumPxKCCj4E",
+      "title": "The Elder Scrolls Online is struggling with \"team bandwidth\" after Xbox layoffs hit Bethesda and ZeniMax, leading devs to limit a store for in-game items",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/the-elder-scrolls-online-is-struggling-with-team-bandwidth-after-xbox-layoffs-hit-bethesda-and-zenimax-leading-devs-to-limit-a-store-for-in-game-items/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:47:28+00:00"
+    },
+    {
+      "guid": "z3EUiNYHu9iaC6A382SPUV",
+      "title": "With 58 consoles and a dream, Pokemon Sapphire player chases \"1 in 9 million\" odds in an attempt to find a very specific shiny duck that he could immediately lose",
+      "url": "https://www.gamesradar.com/games/pokemon/with-58-consoles-and-a-dream-pokemon-sapphire-player-chases-1-in-9-million-odds-in-an-attempt-to-find-a-very-specific-shiny-duck-that-he-could-immediately-lose/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:35:10+00:00"
+    },
+    {
+      "guid": "XcMKyx3SrjotkB3Dz6YqPE",
+      "title": "New trailer for DCU's bloody body horror movie Clayface is sure to give you nightmares",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/new-trailer-for-dcus-bloody-body-horror-movie-clayface-is-sure-to-give-you-nightmares/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:29:08+00:00"
+    },
+    {
+      "guid": "qe32fAweYUZSFdTzVUsryP",
+      "title": "Sonic boss admits \"keeping momentum in such a competitive market is always a challenge,\" but teases more \"in store\" across the series' \"different pillars\"",
+      "url": "https://www.gamesradar.com/games/sonic-the-hedgehog/sonic-boss-admits-keeping-momentum-in-such-a-competitive-market-is-always-a-challenge-but-teases-more-in-store-across-the-series-different-pillars/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:25:49+00:00"
+    },
+    {
+      "guid": "x4uUSfnfvCkFiZQB7Rn72G",
+      "title": "How to get to Arrakeen in Dune Awakening",
+      "url": "https://www.gamesradar.com/games/survival/dune-awakening-arrakeen/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:22:47+00:00"
+    },
+    {
+      "guid": "65TftSyuYvubsdKeV88GLc",
+      "title": "Former Ultima Online lead says MMOs are \"finally free of the fever dream of imitating World of Warcraft\" thanks to Stardew Valley, Animal Crossing, and more",
+      "url": "https://www.gamesradar.com/games/mmo/former-ultima-online-lead-says-mmos-are-finally-free-of-the-fever-dream-of-imitating-world-of-warcraft-thanks-to-stardew-valley-animal-crossing-and-more/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:19:56+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746330",
+      "title": "Fallout 3 Designer Says the Original Gunplay \u201cDidn\u2019t Hold Up,\u201d Expects Fallout 4 Combat Improvements in the Remaster",
+      "url": "https://otakukart.com/fallout-3-designer-says-the-original-gunplay-didnt-hold-up-expects-fallout-4-combat-improvements-in-the-remaster/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:43:02+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746304",
+      "title": "The Elder Scrolls Online Removes Web Crown Store as Xbox Layoffs Begin Affecting Live Service Support",
+      "url": "https://otakukart.com/the-elder-scrolls-online-removes-web-crown-store-as-xbox-layoffs-begin-affecting-live-service-support/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-22T16:23:16+00:00"
     }
   ]
 }
