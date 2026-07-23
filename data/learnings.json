@@ -852,22 +852,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "p9J6oJSuJFfyiDcEASihS3",
-      "title": "The new Warhammer Blood Bowl published by Slitherine will be out in fall, and I'm looking forward to it because I enjoy pain I guess",
-      "url": "https://www.pcgamer.com/games/sports/the-new-warhammer-blood-bowl-published-by-slitherine-will-be-out-in-fall-and-im-looking-forward-to-it-because-i-enjoy-pain-i-guess/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-22T23:40:07+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237000888",
-      "title": "Paramount Seeks Three-Day Evidentiary Hearing As Judge Considers Preliminary Injunction To Halt Warner Bros. Discovery Merger",
-      "url": "https://deadline.com/2026/07/paramount-warner-bros-state-attorney-general-lawsuit-1237000888/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-22T23:48:30+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237000954",
       "title": "Whoopi Goldberg Slams Transphobic Critics Of Elliot Page\u2019s \u2018The Odyssey\u2019 Casting: \u201cDon\u2019t Go See The Damn Movie\u201d",
       "url": "https://deadline.com/2026/07/whoopi-goldberg-slams-critics-elliot-page-the-odyssey-1237000954/",
@@ -890,6 +874,22 @@
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-07-23T03:02:55+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817891",
+      "title": "\u2018The Wild Robot\u2019 VFX Studio STIM Sets Canary Islands Operation, Planning to Create More Than 100 Jobs",
+      "url": "https://variety.com/2026/film/markets-festivals/stim-canary-islands-animation-studio-tenerife-zec-1236817891/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T04:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204131",
+      "title": "Donkey Kong Arcade LEGO Set Officially Revealed, Available August 2026",
+      "url": "https://www.nintendolife.com/news/2026/07/donkey-kong-arcade-lego-set-officially-revealed-available-august-2026",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T03:30:00+00:00"
     }
   ]
 }
