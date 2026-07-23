@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6 Hacker Released From Secure Hospital, Faces Retrial",
-      "tag": "gta 6",
-      "posted_at": "2026-07-16T16:47:42.310935+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-who-was-given-an-indefinite-sentence-in-2023-because-he-wouldnt-stop-hacking-is-now-out-of-hospital-and-awaiting-retrial/",
-        "https://www.gamesradar.com/games/grand-theft-auto/hacker-behind-gta6-leak-that-cost-rockstar-usd5-million-reportedly-awaiting-retrial-after-being-released-from-secure-hospital/"
-      ],
-      "article_titles": [
-        "Grand Theft Auto 6 leaker who was given an indefinite sentence in 2023 because he wouldn't stop hacking is now out of hospital and awaiting retrial",
-        "Hacker behind GTA 6 leak that cost Rockstar $5 million reportedly awaiting retrial after being released from secure hospital"
-      ]
-    },
-    {
       "headline": "A24 Is Reportedly Copyright-Striking Backrooms Indie Games and Fan Art",
       "tag": "backrooms",
       "posted_at": "2026-07-16T17:58:43.898368+00:00",
@@ -772,6 +759,54 @@
         "Halo: Campaign Evolved review: \"An FPS in its purest form, but also a wasted opportunity for Halo Studios to put its own spin on a classic\"",
         "Halo Campaign Evolved pre-loading times for PS5, PC, and Xbox"
       ]
+    },
+    {
+      "headline": "Xbox Is Testing Free Cloud Gaming Supported by Ads",
+      "tag": "xbox",
+      "posted_at": "2026-07-23T16:57:15.748393+00:00",
+      "urls": [
+        "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
+        "https://www.gamespot.com/articles/free-ad-supported-gaming-is-now-available-on-xbox-in-a-test/"
+      ],
+      "article_titles": [
+        "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
+        "Free, Ad-Supported Gaming Is Now Available On Xbox In A Test"
+      ]
+    },
+    {
+      "headline": "Rockstar's Union Is Growing Fast Amid Ongoing Layoff Controversy",
+      "tag": "rockstar games",
+      "posted_at": "2026-07-23T16:57:15.923017+00:00",
+      "urls": [
+        "https://www.eurogamer.net/rockstar-developer-union-more-members-layoffs"
+      ],
+      "article_titles": [
+        "As layoff controversy continues, Rockstar union has 'more members than ever before', meaning it could force mandatory recognition"
+      ]
+    },
+    {
+      "headline": "Disgaea Creator Blasts Sony Over Disc Removal: 'Just Scrap Consoles Entirely'",
+      "tag": "playstation",
+      "posted_at": "2026-07-23T16:57:16.082093+00:00",
+      "urls": [
+        "https://www.ign.com/articles/disgaea-creator-slams-sony-for-scrapping-discs-says-playstation-might-as-well-go-all-the-way-and-scrap-consoles-too",
+        "https://www.pushsquare.com/news/2026/07/physical-game-fans-wont-like-this-new-data-about-us-ps5-sales"
+      ],
+      "article_titles": [
+        "Disgaea Creator Slams Sony for Scrapping Discs, Says PlayStation Might as Well 'Go All the Way' and Scrap Consoles Too",
+        "Physical Game Fans Won't Like This New Data About US PS5 Sales"
+      ]
+    },
+    {
+      "headline": "Former Disney CEO Michael Eisner Says He Can't Remember Why He Greenlit Kingdom Hearts",
+      "tag": "kingdom hearts",
+      "posted_at": "2026-07-23T16:57:16.223021+00:00",
+      "urls": [
+        "https://www.eurogamer.net/former-disney-ceo-cant-remember-why-kingdom-hearts"
+      ],
+      "article_titles": [
+        "Former Disney CEO Michael Eisner can't remember why he green-lit Kingdom Hearts"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -896,14 +931,6 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204154",
-      "title": "Shuhei Yoshida Thinks It Was \"Actually A Good Thing\" Sony Didn't Publish Dark Souls",
-      "url": "https://www.timeextension.com/news/2026/07/shuhei-yoshida-thinks-it-was-actually-a-good-thing-sony-didnt-publish-dark-souls",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T12:45:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1065627",
@@ -1128,6 +1155,158 @@
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-07-23T15:00:00+00:00"
+    },
+    {
+      "guid": "09f05d54-5271-4f07-a559-38b779bcdb1a",
+      "title": "Disgaea Creator Slams Sony for Scrapping Discs, Says PlayStation Might as Well 'Go All the Way' and Scrap Consoles Too",
+      "url": "https://www.ign.com/articles/disgaea-creator-slams-sony-for-scrapping-discs-says-playstation-might-as-well-go-all-the-way-and-scrap-consoles-too",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:35:18+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/rockstar-developer-union-more-members-layoffs",
+      "title": "As layoff controversy continues, Rockstar union has 'more members than ever before', meaning it could force mandatory recognition",
+      "url": "https://www.eurogamer.net/rockstar-developer-union-more-members-layoffs",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:37:40+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/former-disney-ceo-cant-remember-why-kingdom-hearts",
+      "title": "Former Disney CEO Michael Eisner can't remember why he green-lit Kingdom Hearts",
+      "url": "https://www.eurogamer.net/former-disney-ceo-cant-remember-why-kingdom-hearts",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:28:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000718818",
+      "title": "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
+      "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:51:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000718803",
+      "title": "Even Spider-Man: Brand New Day\u2019s Director Isn\u2019t Sure If Photos Of Peter Parker Exist Following Dr. Strange\u2019s Spell",
+      "url": "https://kotaku.com/even-spider-man-brand-new-days-director-isnt-sure-if-photos-of-peter-parker-exist-following-dr-stranges-spell-2000718803",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:36:19+00:00"
+    },
+    {
+      "guid": "GjjHa7PeCpU8jUcsfdaUBQ",
+      "title": "MSI celebrates 40 year anniversary by unveiling a SEVEN GRAND LAPTOP",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/msi-celebrates-40-year-anniversary-by-unveiling-a-seven-grand-laptop/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:41:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001587",
+      "title": "Euro Cinema Body UNIC Says EU Paramount-Warner Bros. Discovery Deal Approval Conditions \u201cShould Have Gone Further\u201d",
+      "url": "https://deadline.com/2026/07/euro-unic-reaction-paramount-warner-bros-discovery-eu-1237001587/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:35:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001551",
+      "title": "Sharon Maguire Directing Colin Firth, Julianne Moore, Laura Linney, David Tennant & More In \u2018The Joy Of Sex\u2019; Love Triangle Comedy Pre-Sells To Lionsgate, Wild Bunch & More",
+      "url": "https://deadline.com/2026/07/sharon-maguire-directs-colin-firth-julianne-moore-joy-of-sex-1237001551/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:30:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001268",
+      "title": "Rick Kumazawa Joins \u2018Sh\u014dgun\u2019 Season 2 As Recurring",
+      "url": "https://deadline.com/2026/07/shogun-season-2-cast-adds-rick-kumazawa-1237001268/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001536",
+      "title": "Critics Choice Association Jumps Into Digital Space With Inaugural Critics Choice Creator Awards Set For 2027",
+      "url": "https://deadline.com/2026/07/critics-choice-association-critics-choice-creator-awards-1237001536/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:21:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236819447",
+      "title": "Colman Domingo Rips Elon Musk\u2019s Plan for AI \u2018The Odyssey\u2019 Movie: \u2018It\u2019ll Be \u2018Whiter Than Christmas at Cracker Barrel\u2019",
+      "url": "https://variety.com/2026/film/news/colman-domingo-elon-musk-ai-odyssey-movie-1236819447/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:32:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236813582",
+      "title": "Athletes and Execs Join Forces at Variety\u2019s Inaugural Sports and Entertainment Studio, Featuring Russell Wilson, Jimmie Johnson and Jay Williams",
+      "url": "https://variety.com/2026/sports/news/sports-entertainment-russell-wilson-jimmie-johnson-1236813582/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236818611",
+      "title": "Oscar Voters Rave Over Christopher Nolan\u2019s \u2018The Odyssey\u2019 at First Academy Screenings: \u2018The Definitive Filmmaker of Our Time\u2019",
+      "url": "https://variety.com/2026/film/awards/oscars-voters-the-odyssey-reaction-screenings-1236818611/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655098",
+      "title": "Zale Parry, Pioneering Scuba Diver and \u2018Sea Hunt\u2019 Actress, Dies at 93",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/zale-parry-dead-scuba-diver-sea-hunt-1236655098/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:35:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236653276",
+      "title": "Comic-Con Preview: An Elf, a Superhero and a Spaceball Walk Into Hall H\u2026",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/comic-con-2026-hall-h-preview-1236653276/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T16:30:00+00:00"
+    },
+    {
+      "guid": "1830177",
+      "title": "Free, Ad-Supported Gaming Is Now Available On Xbox In A Test",
+      "url": "https://www.gamespot.com/articles/free-ad-supported-gaming-is-now-available-on-xbox-in-a-test/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T16:34:57+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204176",
+      "title": "Physical Game Fans Won't Like This New Data About US PS5 Sales",
+      "url": "https://www.pushsquare.com/news/2026/07/physical-game-fans-wont-like-this-new-data-about-us-ps5-sales",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T16:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746528",
+      "title": "Yen Press Announces Four New Manga, Light Novel, and Audiobook Licenses Ahead of San Diego Comic-Con 2026",
+      "url": "https://otakukart.com/yen-press-announces-four-new-manga-light-novel-and-audiobook-licenses-ahead-of-san-diego-comic-con-2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T16:49:38+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746525",
+      "title": "Former God of War Laufey writer says Sony expected PlayStation\u2019s no-disc backlash and issued its \u201cstrictest\u201d social media guidelines to employees",
+      "url": "https://otakukart.com/former-god-of-war-laufey-writer-says-sony-expected-playstations-no-disc-backlash-and-issued-its-strictest-social-media-guidelines-to-employees/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T16:24:41+00:00"
     }
   ]
 }
