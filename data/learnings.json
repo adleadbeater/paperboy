@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "KOTOR Remake \"Hopefully\" Arriving in 2028, Saber's New Boss Says",
-      "tag": "knights of the old republic remake",
-      "posted_at": "2026-07-16T19:02:10.609633+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/rpg/sabers-new-business-boss-says-the-kotor-remake-will-hopefully-be-out-in-2028/"
-      ],
-      "article_titles": [
-        "Saber's new business boss says the KOTOR remake will 'hopefully' be out in 2028"
-      ]
-    },
-    {
       "headline": "God of War's Kratos Has Been Recast After Ryan Hurst Is Injured on Set of the Prime Video Series",
       "tag": "god of war",
       "posted_at": "2026-07-17T03:53:59.062008+00:00",
@@ -809,35 +798,24 @@
         "Avatar Legends: The Fighting Game Delayed At Last Moment On Xbox",
         "Avatar: The Last Airbender fighting game delayed on Xbox just hours before release, but not on PS5 or Steam"
       ]
+    },
+    {
+      "headline": "The Resident Evil movie finally has a full trailer \u2014 and it might actually be good",
+      "tag": "resident evil",
+      "posted_at": "2026-07-23T21:53:15.252629+00:00",
+      "urls": [
+        "https://www.pcgamer.com/movies-tv/the-full-trailer-for-zach-creggers-resident-evil-is-here-and-holy-cow-i-think-this-one-might-actually-be-good/",
+        "https://deadline.com/2026/07/zach-cregger-resident-evil-accident-wouldve-killed-austin-abrams-1237001982/"
+      ],
+      "article_titles": [
+        "The full trailer for Zach Cregger's Resident Evil is here, and holy cow I think this one might actually be good",
+        "Zach Cregger Recalls \u2018Resident Evil\u2019 Near On-Set Accident That \u201cWould\u2019ve Killed\u201d Austin Abrams"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000718818",
-      "title": "Xbox Has Started Testing Free Cloud Gaming With Ads: \u2018Advertising Has Existed In Gaming For Decades\u2019",
-      "url": "https://kotaku.com/xbox-testing-free-ad-supported-streaming-2000718818",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T16:51:40+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1746528",
-      "title": "Yen Press Announces Four New Manga, Light Novel, and Audiobook Licenses Ahead of San Diego Comic-Con 2026",
-      "url": "https://otakukart.com/yen-press-announces-four-new-manga-light-novel-and-audiobook-licenses-ahead-of-san-diego-comic-con-2026/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T16:49:38+00:00"
-    },
-    {
-      "guid": "e83d3053-c086-4988-9cdb-d3721e3e64da",
-      "title": "Today\u2019s Top Deals: Metaphor: ReFantazio, Logitech G29 Racing Wheel, and G PRO X Superlight 2 Mouse",
-      "url": "https://www.ign.com/articles/best-deals-for-july-23-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T17:40:00+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237001576",
       "title": "Artists Equity, Hidden Content, Ultraboom Media And Icki Eneo Arlo Partner On Doc \u2018Shot in the Dark\u2019, Following First U.S. Paralympic Blind Soccer Team",
@@ -845,14 +823,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-23T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237001650",
-      "title": "\u2018Percy Jackson And The Olympians\u2019 Season 3 Premiere Date Revealed; First Footage From \u2018The Titan\u2019s Curse\u2019 Shown At Comic-Con",
-      "url": "https://deadline.com/2026/07/percy-jackson-show-season-3-release-date-first-footage-1237001650/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T17:52:38+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236818347",
@@ -879,52 +849,12 @@
       "published_dt": "2026-07-23T18:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236819420",
-      "title": "Venice Chief Alberto Barbera on Landing Robert Pattinson Film \u2018Primetime\u2019 at the Last Minute and Lack of U.S. Studios at the Festival: They Are \u2018Experiencing an Identity Crisis\u2019",
-      "url": "https://variety.com/2026/film/festivals/venice-alberto-barbera-robert-pattinson-lack-studio-movies-1236819420/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T17:40:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236807036",
-      "title": "\u2018Percy Jackson\u2019 Season 3 Sets November Release Date, Star Walker Scobell Says It Will Stay True to \u2018Titan\u2019s Curse\u2019 Book",
-      "url": "https://variety.com/2026/tv/news/percy-jackson-season-3-footage-comic-con-titans-curse-1236807036/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T17:32:17+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236655199",
       "title": "Netflix Drops \u2018Tires\u2019 Season 3 Trailer as Shane Gillis\u2019 Star Skyrockets",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/tires-season-3-trailer-shane-gillis-netflix-1236655199/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-23T18:00:56+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236654512",
-      "title": "Destin Daniel Cretton Believes Secrecy Around Sadie Sink\u2019s Role Makes \u2018Spider-Man: Brand New Day\u2019 a Better Movie",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-sadie-sink-role-1236654512/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T17:46:51+00:00"
-    },
-    {
-      "guid": "tm7tXiXSwXj9DKZn3eUNhe",
-      "title": "Xbox adds advertisements to games in \"ad-supported\" streaming trial, and it sounds like there's more ads where these came from",
-      "url": "https://www.gamesradar.com/games/xbox-adds-advertisements-to-games-in-ad-supported-streaming-trial-and-it-sounds-like-theres-more-ads-where-these-came-from/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T17:42:30+00:00"
-    },
-    {
-      "guid": "1830354",
-      "title": "Avatar Legends: The Fighting Game Delayed At Last Moment On Xbox",
-      "url": "https://www.gamespot.com/articles/avatar-legends-the-fighting-game-delayed-at-last-moment-on-xbox/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T17:32:00+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-204182",
@@ -1093,6 +1023,118 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-23T20:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000718880",
+      "title": "I Love When Marvel Goes Full Anime Like In T\u014dkon\u2019s Dope Opening",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-opening-movie-song-anime-op-2000718880",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:30:20+00:00"
+    },
+    {
+      "guid": "PkbSkgWEB2fi77JHSYZ5vd",
+      "title": "The full trailer for Zach Cregger's Resident Evil is here, and holy cow I think this one might actually be good",
+      "url": "https://www.pcgamer.com/movies-tv/the-full-trailer-for-zach-creggers-resident-evil-is-here-and-holy-cow-i-think-this-one-might-actually-be-good/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:32:40+00:00"
+    },
+    {
+      "guid": "wALZKDT7e4sNnqGSSX77Ae",
+      "title": "A new expansion and the ability to be a crow wizard has me enjoying a 10-year-old action RPG for the first time",
+      "url": "https://www.pcgamer.com/games/rpg/a-new-expansion-and-the-ability-to-be-a-crow-wizard-has-me-enjoying-a-10-year-old-action-rpg-for-the-first-time/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:31:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001433",
+      "title": "USC Games Expo Is Shaping the Next Generation of Game Creators Through \u2018Aftertaste\u2019, \u2018Sisyphus\u2019s Worst Day (Again)\u2019 & \u2018Unrealtor\u2019",
+      "url": "https://deadline.com/2026/07/usc-games-expo-interview-jim-huntley-1237001433/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001982",
+      "title": "Zach Cregger Recalls \u2018Resident Evil\u2019 Near On-Set Accident That \u201cWould\u2019ve Killed\u201d Austin Abrams",
+      "url": "https://deadline.com/2026/07/zach-cregger-resident-evil-accident-wouldve-killed-austin-abrams-1237001982/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:35:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001603",
+      "title": "Johnny Depp Surprises At Comic-Con, Emerges As Scrooge To Promote \u2018Ebenezer\u2019 Movie",
+      "url": "https://deadline.com/2026/07/johnny-depp-comic-con-ebenezer-a-christmas-carol-1237001603/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:31:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001957",
+      "title": "Documentary To Premiere On John Shearer, Brilliant Photographer Who Captured Funerals Of JFK And MLK Jr., Attica Uprising And More",
+      "url": "https://deadline.com/2026/07/john-shearer-american-moments-documentary-exclusive-clip-1237001957/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:23:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236819495",
+      "title": "Odysseus Has Been Funko Pop-ed",
+      "url": "https://variety.com/2026/shopping/news/odyssey-funko-pops-odysseus-shop-online-1236819495/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236819740",
+      "title": "Judge Extends Order Blocking Paramount-Warner Bros. Merger for Another 14 Days",
+      "url": "https://variety.com/2026/film/news/judge-paramount-warner-bros-merger-14-days-1236819740/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:28:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655450",
+      "title": "AMC Theatres CEO Adam Aron Sees Pay Rise to Nearly $15 Million",
+      "url": "https://www.hollywoodreporter.com/business/business-news/amc-theatres-ceo-adam-aron-1236655450/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:45:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655408",
+      "title": "Sutton Foster\u2019s Next Canyon Ranch Wellness Retreat Includes Excursion to Hugh Jackman Concert",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sutton-foster-canyon-ranch-wellness-retreat-schedule-jackman-1236655408/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:38:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236654264",
+      "title": "Johnny Depp Surprises Comic-Con as Ebenezer Scrooge on Streets of San Diego",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-surprises-comic-con-ebenezer-scrooge-1236654264/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T21:36:39+00:00"
+    },
+    {
+      "guid": "E75yrsNuVpcMrev85apmTF",
+      "title": "The world needs a new Avatar in dreamy first trailer for The Last Airbender spin-off Seven Havens",
+      "url": "https://www.gamesradar.com/entertainment/animation-shows/the-world-needs-a-new-avatar-in-dreamy-first-trailer-for-the-last-airbender-spin-off-seven-havens/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T21:19:07+00:00"
+    },
+    {
+      "guid": "bj4ue9G6xRC8yBnk9YQKFX",
+      "title": "Blade Runner 2099 showrunner says Ridley Scott \"shepherded\" her through making new Prime Video show, reveals post-war plot with Replicant uprising",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-showrunner-says-ridley-scott-shepherded-her-through-making-new-prime-video-show-reveals-post-war-plot-with-replicant-uprising/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T21:18:54+00:00"
     }
   ]
 }
