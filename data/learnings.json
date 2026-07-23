@@ -817,78 +817,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237001576",
-      "title": "Artists Equity, Hidden Content, Ultraboom Media And Icki Eneo Arlo Partner On Doc \u2018Shot in the Dark\u2019, Following First U.S. Paralympic Blind Soccer Team",
-      "url": "https://deadline.com/2026/07/artists-equity-shot-in-the-dark-1237001576/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236818347",
-      "title": "\u2018The Strange Architect,\u2019 New Series by \u2018Annihilation\u2019 Author Jeff VanderMeer, Sells to Farrar, Straus and Giroux in Seven-Figure Deal (EXCLUSIVE)",
-      "url": "https://variety.com/2026/biz/news/strange-architect-book-series-annihilation-author-jeff-vandermeer-1236818347/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T18:00:04+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236818870",
-      "title": "\u2018Breaking Bad\u2019 Star Giancarlo Esposito Signs With UTA for Representation (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/breaking-bad-giancarlo-esposito-uta-representation-caa-1236818870/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236819436",
-      "title": "\u2018Myron Bolitar\u2019 Series Adds 10 To Cast, Including Melissa Benoist, Bebe Neuwirth, Jamie Hector, Quincy Isaiah",
-      "url": "https://variety.com/2026/tv/news/myron-bolitar-series-cast-melissa-benoist-bebe-neuwirth-1236819436/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236655199",
-      "title": "Netflix Drops \u2018Tires\u2019 Season 3 Trailer as Shane Gillis\u2019 Star Skyrockets",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/tires-season-3-trailer-shane-gillis-netflix-1236655199/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-23T18:00:56+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204182",
-      "title": "'We're Going to Do What's Right By the Game': Amazon Boss Speaks More on the Future of James Bond 007 Games",
-      "url": "https://www.pushsquare.com/news/2026/07/were-going-to-do-whats-right-by-the-game-amazon-boss-speaks-more-on-the-future-of-james-bond-007-games",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120025",
-      "title": "Dragon Ball: Sparking Zero Super Limit-Breaking Neo DLC Debut Dated",
-      "url": "https://www.siliconera.com/dragon-ball-sparking-zero-super-limit-breaking-neo-dlc-debut-dated/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T18:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1746567",
-      "title": "Assassin\u2019s Creed Black Flag Resynced Lead Says Datamined Files May Be \u201cThree-Year-Old Placeholders,\u201d Not Future Content",
-      "url": "https://otakukart.com/assassins-creed-black-flag-resynced-lead-says-datamined-files-may-be-three-year-old-placeholders-not-future-content/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T17:57:07+00:00"
-    },
-    {
-      "guid": "https://www.tabletopbattles.com/mayday-miss-marcy-ruler-ruling-cleaning-out-consistency-chaos/",
-      "title": "Mayday, Miss Marcy! Ruler Ruling, Cleaning Out, Consistency Chaos",
-      "url": "https://www.tabletopbattles.com/mayday-miss-marcy-ruler-ruling-cleaning-out-consistency-chaos/",
-      "source_name": "Goonhammer",
-      "source_tier": 2,
-      "published_dt": "2026-07-23T18:00:06+00:00"
-    },
-    {
       "guid": "fc13f648-1e1e-4788-ab24-2b9da61de9a2",
       "title": "The Grade A Refurb Nintendo Switch 2 Mario Kart World Console Bundle Just Dropped to $419 at Woot",
       "url": "https://www.ign.com/articles/nintendo-switch-2-mario-kart-world-gaming-console-deal-july-2026",
@@ -1135,6 +1063,102 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-23T21:18:54+00:00"
+    },
+    {
+      "guid": "68b956e1-e7c2-4e54-be0e-81375c884c67",
+      "title": "Save Up to 48% Off VITURE's XR Glasses, Which Project a Room Filling Virtual Display for Movies and Games",
+      "url": "https://www.ign.com/articles/viture-xr-glasses-deals-july-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:40:00+00:00"
+    },
+    {
+      "guid": "a0c65115-57b5-43fa-b6e0-08b43c296210",
+      "title": "Samsung Galaxy Z Flip 8 Review So Far",
+      "url": "https://www.ign.com/articles/samsung-galaxy-z-flip-8-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:25:21+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000718892",
+      "title": "If You Lock Early Access Behind A Paywall, It Better Work Or You Owe People Refunds",
+      "url": "https://kotaku.com/if-you-lock-early-access-behind-a-paywall-it-better-work-or-you-owe-people-refunds-2000718892",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:30:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237000540",
+      "title": "\u2018Ransom Canyon\u2019 Showrunner Breaks Down Season 2: Grift, Love Triangles, Surprise Pregnancy & Ending That Is \u201cLaunch Of Next Story\u201d For Possible Season 3",
+      "url": "https://deadline.com/2026/07/ransom-canyon-season-2-ending-explained-interview-ellie-kai-1237000540/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:37:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001956",
+      "title": "CBS To Switch Affiliation From Nexstar To Hearst TV & Forum Communications Stations In A Half Dozen Markets",
+      "url": "https://deadline.com/2026/07/cbs-switches-nexstar-station-affiliation-1237001956/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:16:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002047",
+      "title": "\u2018Obsession\u2019s Michael Johnston Wants To Play \u201cIntentional, Meaningful Queer Role\u201d: \u201cMaybe I\u2019ll Write It Myself\u201d",
+      "url": "https://deadline.com/2026/07/obsession-michael-johnston-wants-play-meaningful-queer-role-1237002047/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:13:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236819828",
+      "title": "\u2018Dungeon Crawler Carl\u2019 TV Series Casts Audiobook Star Jeff Hays as Princess Donut\u2019s Voice",
+      "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-princess-donut-jeff-hays-1236819828/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:37:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236815127",
+      "title": "\u2018The Big Bang Theory\u2019 Makes Triumphant Return to Comic-Con With \u2018Stuart Fails to Save the Universe\u2019",
+      "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-universe-comic-con-1236815127/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:32:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655145",
+      "title": "David Harbour on the End of \u2018Stranger Things,\u2019 Emmy-Nominated \u2018DTF St. Louis\u2019 and Upcoming Reunion With Millie Bobby Brown",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/david-harbour-stranger-things-emmy-nom-dtf-st-louis-podcast-1236655145/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:40:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655057",
+      "title": "Tom Holland Says Fred Astaire Biopic Is Next After a Summer of \u2018The Odyssey\u2019 and \u2018Spider-Man: Brand New Day,\u2019 Plans to Do \u201cAll of the Dancing\u201d Himself",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-fred-astaire-biopic-next-dancing-himself-1236655057/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-23T22:10:22+00:00"
+    },
+    {
+      "guid": "ajSvWEQCaCtQU3hiD428SL",
+      "title": "New Mobile Suit Gundam anime gets surprise trailer at SDCC, will tie in with upcoming video game",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/new-mobile-suit-gundam-anime-gets-surprise-trailer-at-sdcc-will-tie-in-with-upcoming-video-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T22:40:59+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/white-dwarf-reflections-42.719303/",
+      "title": "White Dwarf Reflections #42",
+      "url": "https://www.enworld.org/threads/white-dwarf-reflections-42.719303/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-23T22:20:00+00:00"
     }
   ]
 }
