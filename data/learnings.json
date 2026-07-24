@@ -1,43 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Fortnite Is Adding AI Voices to NPCs for a New Conversations Feature",
-      "tag": "fortnite",
-      "posted_at": "2026-07-17T09:00:48.819065+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/fortnite-has-started-adding-ai-voices-to-its-npcs-for-an-upcoming-conversations-feature/"
-      ],
-      "article_titles": [
-        "Fortnite has started adding AI voices to its NPCs for an upcoming \u2018conversations\u2019 feature"
-      ]
-    },
-    {
-      "headline": "First Castlevania: Belmont's Curse Previews Are In \u2014 and They're Glowing",
-      "tag": "castlevania: belmont's curse",
-      "posted_at": "2026-07-17T12:30:57.436461+00:00",
-      "urls": [
-        "https://www.pushsquare.com/features/round-up-glowing-previews-for-castlevania-belmonts-curse-promise-a-triumphant-return",
-        "https://www.nintendolife.com/news/2026/07/round-up-the-game-fing-rules-the-first-previews-for-castlevania-belmonts-curse-are-in"
-      ],
-      "article_titles": [
-        "Round Up: Glowing Previews for Castlevania: Belmont's Curse Promise a Triumphant Return",
-        "Round Up: \"The Game F***ing Rules\" - The First Previews For Castlevania: Belmont's Curse Are In"
-      ]
-    },
-    {
-      "headline": "Marvel's Wolverine PS5 Trailer Secretly Teases a Major New Villain",
-      "tag": "marvel's wolverine",
-      "posted_at": "2026-07-17T13:00:41.999245+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/07/wolverine-ps5-trailer-quietly-confirms-another-major-villain",
-        "https://www.pushsquare.com/news/2026/07/wolverine-ps5-trailer-quietly-confirms-another-major-villain"
-      ],
-      "article_titles": [
-        "Wolverine PS5 Trailer Quietly Confirms Another Major Villain",
-        "Wolverine PS5 Trailer Quietly Confirms Another Major Villain"
-      ]
-    },
-    {
       "headline": "Fallout 5 Is in Preproduction and Fallout 3 and New Vegas Remasters Are Reportedly Coming",
       "tag": "fallout",
       "posted_at": "2026-07-17T14:01:09.550411+00:00",
@@ -822,50 +785,156 @@
       "article_titles": [
         "Thick as Thieves won't be getting any more content updates: 'To be frank, this is not the outcome that any of us want'"
       ]
+    },
+    {
+      "headline": "Assassin's Creed Black Flag Resynced Has Already Outsold Ubisoft's Entire Annual Forecast in Two Weeks",
+      "tag": "assassin's creed black flag resynced",
+      "posted_at": "2026-07-24T13:10:50.311569+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-already-outsold-ubisofts-entire-yearly-expectations",
+        "https://otakukart.com/assassins-creed-black-flag-resynced-surpasses-3-5-million-sales-in-two-weeks-beating-ubisofts-annual-forecast/"
+      ],
+      "article_titles": [
+        "AC Black Flag Resynced Already Outsold Ubisoft's Entire Yearly Expectations",
+        "Assassin\u2019s Creed Black Flag Resynced Surpasses 3.5 Million Sales in Two Weeks, Beating Ubisoft\u2019s Annual Forecast"
+      ]
+    },
+    {
+      "headline": "PSN Goes Down as Amazon Web Services Outage Hits PlayStation Network",
+      "tag": "playstation network",
+      "posted_at": "2026-07-24T13:10:50.558323+00:00",
+      "urls": [
+        "https://www.eurogamer.net/psn-network-down-login-failure",
+        "https://www.pushsquare.com/news/2026/07/psn-down-but-slowly-recovering-after-amazon-web-services-outage"
+      ],
+      "article_titles": [
+        "PlayStation Network down, as tens of thousands of players queue to play Marvel Tokon Fighting Souls newly-launched beta",
+        "PSN Down But Slowly Recovering After Amazon Web Services Outage"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237002306",
-      "title": "\u2018Resident Evil\u2019 Duo Zach Cregger & Austin Abrams Tease The Film\u2019s Last 30 Seconds, Tricky Camerawork & Potential Fan Favorite Set Pieces",
-      "url": "https://deadline.com/2026/07/zach-cregger-austin-abrams-resident-evil-film-interview-1237002306/",
+      "guid": "https://www.eurogamer.net/psn-network-down-login-failure",
+      "title": "PlayStation Network down, as tens of thousands of players queue to play Marvel Tokon Fighting Souls newly-launched beta",
+      "url": "https://www.eurogamer.net/psn-network-down-login-failure",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T13:03:51+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719095",
+      "title": "New The Elder Scrolls Online Changes Blamed On \u2018Team Bandwidth\u2019 Following Xbox Cuts",
+      "url": "https://kotaku.com/new-the-elder-scrolls-online-changes-blamed-on-team-bandwidth-following-xbox-cuts-2000719095",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T12:59:22+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002361",
+      "title": "Armand Assante To Narrate Documentary Feature \u2018The Streets of Little Italy: 100 Years Of San Gennaro\u2019",
+      "url": "https://deadline.com/2026/07/armand-assante-the-streets-of-little-italy-san-gennaro-1237002361/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-07-24T03:17:02+00:00"
+      "published_dt": "2026-07-24T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236819530",
-      "title": "Director Na Hong-Jin Makes Comic-Con Debut With Frightening New \u2018Hope\u2019 Footage, Says Casting Hoyeon Was His \u2018Best Decision\u2019",
-      "url": "https://variety.com/2026/film/news/na-hong-jin-comic-con-hope-footage-hoyeon-1236819530/",
+      "guid": "https://variety.com/?p=1236820143",
+      "title": "The Pool Films Acquires Tokyo-Based Photographer and Director Xavier Tera\u2019s Debut, \u2018The Color of the Sun,\u2019 Ahead of Venice Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/festivals/pool-films-xavier-tera-color-of-sun-venice-1236820143/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-07-24T03:27:25+00:00"
+      "published_dt": "2026-07-24T13:07:35+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236817974",
-      "title": "\u2018Sia: Nostalgic for the Present\u2019 Review: A Concert Performance Film from 2016, but It Channels Sia\u2019s Mystery and Power",
-      "url": "https://variety.com/2026/film/reviews/sia-nostalgic-for-the-present-review-1236817974/",
+      "guid": "https://variety.com/?p=1236820239",
+      "title": "Rebel Wilson Defamation Case Ruling Appealed by \u2018The Deb\u2019 Star Charlotte MacInnes",
+      "url": "https://variety.com/2026/film/news/rebel-wilson-defamation-case-ruling-appeal-charlotte-macinnes-1236820239/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-07-24T03:25:16+00:00"
+      "published_dt": "2026-07-24T12:58:31+00:00"
     },
     {
-      "guid": "UFCCxuJNo2pcPcJCz7GvyB",
-      "title": "Thick as Thieves won't be getting any more content updates: 'To be frank, this is not the outcome that any of us want'",
-      "url": "https://www.pcgamer.com/gaming-industry/thick-as-thieves-wont-be-getting-any-more-content-updates-to-be-frank-this-is-not-the-outcome-that-any-of-us-want/",
-      "source_name": "PC Gamer",
+      "guid": "https://variety.com/?p=1236820242",
+      "title": "Chris Brown Pleads Guilty Over \u2018Vicious and Unprovoked\u2019 Attack at U.K. Nightclub",
+      "url": "https://variety.com/2026/music/global/chris-brown-guilty-affray-london-nightclub-1236820242/",
+      "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-07-24T03:33:12+00:00"
+      "published_dt": "2026-07-24T12:47:28+00:00"
     },
     {
-      "guid": "https://automaton-media.com/en/?p=70047",
-      "title": "Ex-PlayStation boss\u00a0Shuhei\u00a0Yoshida\u00a0reflects on misjudging FromSoftware\u2019s Demon\u2019s Souls and\u00a0Sony\u00a0losing\u00a0chance to\u00a0publish\u00a0Dark Souls",
-      "url": "https://automaton-media.com/en/news/ex-playstation-boss-shuhei-yoshida-reflects-on-misjudging-fromsoftwares-demons-souls-and-sony-losing-chance-to-publish-dark-souls/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236655814",
+      "title": "Sales Veteran Fred Tsui to Lead Hong Kong International Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/fred-tsui-lead-hong-kong-international-film-festival-1236655814/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T13:05:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655813",
+      "title": "Chris Brown Pleads Guilty After London Nightclub Attack",
+      "url": "https://www.hollywoodreporter.com/music/music-news/chris-brown-pleads-guilty-london-nightclub-attack-1236655813/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T13:02:53+00:00"
+    },
+    {
+      "guid": "KRcjr6DSJYqHnBVTTwEB86",
+      "title": "Star Wars fans are sharing their most commonly misremembered moments in the saga",
+      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/star-wars-fans-are-sharing-their-most-commonly-misremembered-moments-in-the-saga/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T13:03:40+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204215",
+      "title": "AC Black Flag Resynced Already Outsold Ubisoft's Entire Yearly Expectations",
+      "url": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-already-outsold-ubisofts-entire-yearly-expectations",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204214",
+      "title": "PSN Down But Slowly Recovering After Amazon Web Services Outage",
+      "url": "https://www.pushsquare.com/news/2026/07/psn-down-but-slowly-recovering-after-amazon-web-services-outage",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T12:40:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1119838",
+      "title": "Review: Disgaea Mayhem Is a Clunky, Short, Bare-bones Musou",
+      "url": "https://www.siliconera.com/review-disgaea-mayhem-is-a-clunky-short-bare-bones-musou/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204204",
+      "title": "Two Decades After Development Started, This Sonic Fan Game Just Got An Amazing New Demo",
+      "url": "https://www.timeextension.com/news/2026/07/two-decades-after-development-started-this-sonic-fan-game-just-got-an-amazing-new-demo",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T13:00:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=70072",
+      "title": "Nintendo\u2019s rare commercial-only Famicom model found in fully working condition in a Japanese love hotel, rekindling the \u201cNintendo love hotel\u201d urban myth",
+      "url": "https://automaton-media.com/en/news/nintendos-rare-commercial-only-famicom-model-found-in-fully-working-condition-in-a-japanese-love-hotel-rekindling-the-nintendo-love-hotel-urban-myth/",
       "source_name": "Automaton",
       "source_tier": 2,
-      "published_dt": "2026-07-24T03:44:36+00:00"
+      "published_dt": "2026-07-24T13:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746739",
+      "title": "Assassin\u2019s Creed Black Flag Resynced Surpasses 3.5 Million Sales in Two Weeks, Beating Ubisoft\u2019s Annual Forecast",
+      "url": "https://otakukart.com/assassins-creed-black-flag-resynced-surpasses-3-5-million-sales-in-two-weeks-beating-ubisofts-annual-forecast/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T13:06:51+00:00"
     }
   ]
 }
