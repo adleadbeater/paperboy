@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Magic: The Gathering Reveals Three New 2027 Sets, Including a Pacific Rim-Style Mechs vs. Monsters Expansion",
-      "tag": "magic: the gathering",
-      "posted_at": "2026-07-17T17:54:43.178711+00:00",
-      "urls": [
-        "https://variety.com/2026/gaming/news/magic-the-gathering-2027-sets-magiccon-schedule-1236813984/",
-        "https://www.gamesradar.com/tabletop-gaming/mtg-reveals-three-new-sets-for-2027-including-one-thats-basically-pacific-rim-with-mechs-vs-monsters/"
-      ],
-      "article_titles": [
-        "Magic: The Gathering Unveils Three New Mainline Sets for 2027 as Hasbro\u2019s MagicCon Schedule Expands to Four Events",
-        "MTG reveals three new sets for 2027, including one that's basically Pacific Rim with mechs vs. monsters"
-      ]
-    },
-    {
       "headline": "Marathon's Game Director Has Left Bungie Just Four Months After Launch",
       "tag": "marathon",
       "posted_at": "2026-07-17T18:47:24.082428+00:00",
@@ -727,59 +714,24 @@
       "article_titles": [
         "Inside The Mission To Turn Star Trek Into The Next Big Magic: The Gathering Set"
       ]
+    },
+    {
+      "headline": "Blade Runner 2099 drops first trailer \u2014 Amazon's sci-fi series promises connections to Scott and Villeneuve films",
+      "tag": "blade runner 2099",
+      "posted_at": "2026-07-24T18:17:37.908672+00:00",
+      "urls": [
+        "https://www.hollywoodreporter.com/tv/tv-news/blade-runner-2099-trailer-1236655934/",
+        "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-will-have-connective-tissue-to-the-ridley-scott-and-denis-villeneuve-movies-but-will-also-be-a-standalone-rebirth/"
+      ],
+      "article_titles": [
+        "\u2018Blade Runner 2099\u2019 Unveils First Trailer for Amazon\u2019s Sci-Fi Sequel Starring Hunter Schafer",
+        "Blade Runner 2099 will have \"connective tissue\" to the Ridley Scott and Denis Villeneuve movies, but will also be a standalone \"rebirth\""
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/psn-network-down-login-failure",
-      "title": "PlayStation Network down, as tens of thousands of players queue to play Marvel Tokon Fighting Souls newly-launched beta",
-      "url": "https://www.eurogamer.net/psn-network-down-login-failure",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T13:03:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236820143",
-      "title": "The Pool Films Acquires Tokyo-Based Photographer and Director Xavier Tera\u2019s Debut, \u2018The Color of the Sun,\u2019 Ahead of Venice Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/festivals/pool-films-xavier-tera-color-of-sun-venice-1236820143/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T13:07:35+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236655814",
-      "title": "Sales Veteran Fred Tsui to Lead Hong Kong International Film Festival",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/fred-tsui-lead-hong-kong-international-film-festival-1236655814/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T13:05:43+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236655813",
-      "title": "Chris Brown Pleads Guilty After London Nightclub Attack",
-      "url": "https://www.hollywoodreporter.com/music/music-news/chris-brown-pleads-guilty-london-nightclub-attack-1236655813/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T13:02:53+00:00"
-    },
-    {
-      "guid": "KRcjr6DSJYqHnBVTTwEB86",
-      "title": "Star Wars fans are sharing their most commonly misremembered moments in the saga",
-      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/star-wars-fans-are-sharing-their-most-commonly-misremembered-moments-in-the-saga/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T13:03:40+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1746739",
-      "title": "Assassin\u2019s Creed Black Flag Resynced Surpasses 3.5 Million Sales in Two Weeks, Beating Ubisoft\u2019s Annual Forecast",
-      "url": "https://otakukart.com/assassins-creed-black-flag-resynced-surpasses-3-5-million-sales-in-two-weeks-beating-ubisofts-annual-forecast/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T13:06:51+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/microsoft-age-of-empires-3-dlc-uncancelled",
       "title": "Amid the recent Xbox devastation, Microsoft is seemingly uncancelling something, which is good news for Age of Empires 3 fans at least",
@@ -1147,6 +1099,134 @@
       "source_name": "Reddit LeaksAndRumors",
       "source_tier": 2,
       "published_dt": "2026-07-24T16:53:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002651",
+      "title": "\u2018Happy Old Year,\u2019 From \u2018I\u2019m Still Here\u2019 Author Marcelo Rubens Paiva, Being Adapted As Netflix Series",
+      "url": "https://deadline.com/2026/07/happy-old-year-marcelo-rubens-paiva-netflix-series-1237002651/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T18:00:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820110",
+      "title": "Inside Costa Rica\u2019s Alcatraz and Another 5 Top Locations",
+      "url": "https://variety.com/2026/film/global/costa-rica-alcatraz-another-5-top-locations-1236820110/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T17:58:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820464",
+      "title": "Matt Damon Describes His Role in The Daniels\u2019 New Sci-Fi Movie as \u2018The Breakfast Club\u2019 Meets \u2018Inception\u2019 Meets Anime Meets John Oliver",
+      "url": "https://variety.com/2026/film/news/matt-damon-daniels-sci-fi-movie-breakfast-club-inception-1236820464/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T17:52:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820476",
+      "title": "Phil Rosenthal\u2019s \u2018Somebody Feed Phil\u2019 Releases Special Max and Helen\u2019s Episode on YouTube Ahead of Season 9 Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/phil-rosenthal-somebody-feed-phil-max-and-helens-episode-youtube-1236820476/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T17:49:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820139",
+      "title": "Why David Cronenberg\u2019s Feature on Charli xcx\u2019s \u2018Music, Fashion, Film\u2019 Gets to the Heart of What the Album Is Really About",
+      "url": "https://variety.com/2026/music/columns/david-cronenberg-charli-xcx-feature-album-meaning-1236820139/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T17:42:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655976",
+      "title": "Ex-Reality TV Star and Businessman\u2019s Fatal Fall From 28-Story Miami Resort Balcony Sparks Doubts",
+      "url": "https://www.hollywoodreporter.com/news/general-news/yakir-levi-death-acqualina-resort-miami-balcony-1236655976/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T18:14:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655988",
+      "title": "After Atsuko Okatsuka Came to America, Social Media Knocked Down Barriers to Global Reach",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/atsuko-okatsuka-social-media-internet-just-for-laughs-1236655988/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T18:03:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655954",
+      "title": "Emily Willis Was Porn\u2019s Biggest Star. A $3M Settlement Won\u2019t Answer What Happened to Her",
+      "url": "https://www.hollywoodreporter.com/news/general-news/porn-star-emily-willis-3-million-settlement-summit-rehab-1236655954/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T18:00:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655974",
+      "title": "LeBron James Signs With Philadelphia 76ers",
+      "url": "https://www.hollywoodreporter.com/business/business-news/lebron-james-signs-with-philadelphia-76ers-1236655974/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T17:59:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc-gallery&p=1236652211",
+      "title": "Comic-Con Takes Over San Diego, Kevin Hart and Marcello Hern\u00e1ndez Premiere \u201972 Hours\u2019 and This Week\u2019s Best Events",
+      "url": "https://www.hollywoodreporter.com/gallery/comic-con-highlights-72-hours-red-carpet-events-1236652211/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T17:58:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655934",
+      "title": "\u2018Blade Runner 2099\u2019 Unveils First Trailer for Amazon\u2019s Sci-Fi Sequel Starring Hunter Schafer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/blade-runner-2099-trailer-1236655934/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T17:47:39+00:00"
+    },
+    {
+      "guid": "eSMepteiMprfssrvCzB5QR",
+      "title": "\"He's in his power\": The Rings of Power's Gandalf star says his Lord of the Rings character has \"arrived\" in season 3 and will be the wizard \"we all hopefully know and love\"",
+      "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/hes-in-his-power-the-rings-of-powers-gandalf-star-says-his-lord-of-the-rings-character-has-arrived-in-season-3-and-will-be-the-wizard-we-all-hopefully-know-and-love/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T18:04:50+00:00"
+    },
+    {
+      "guid": "LuwosLmYtwAFUC3wF8gchg",
+      "title": "Blade Runner 2099 will have \"connective tissue\" to the Ridley Scott and Denis Villeneuve movies, but will also be a standalone \"rebirth\"",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-will-have-connective-tissue-to-the-ridley-scott-and-denis-villeneuve-movies-but-will-also-be-a-standalone-rebirth/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T17:56:38+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120120",
+      "title": "Animal Crossing Dodo Airlines Items Appear in Hokkaido",
+      "url": "https://www.siliconera.com/animal-crossing-dodo-airlines-items-appear-in-hokkaido/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=614078",
+      "title": "\u2018Dungeons & Daddies\u2019, \u2018Merryshire Detective Club\u2019\u00a0& More \u2013 This Week In Crowdfunding",
+      "url": "https://www.belloflostsouls.net/2026/07/dungeons-daddies-merryshire-detective-club-more-this-week-in-crowdfunding.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/",
+      "title": "Dungeons & Dragons\u2019 next major product announcement leaks--and it's WORLD OF WARCRAFT",
+      "url": "https://www.enworld.org/threads/dungeons-dragons%E2%80%99-next-major-product-announcement-leaks-and-its-world-of-warcraft.720017/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T17:44:00+00:00"
     }
   ]
 }
