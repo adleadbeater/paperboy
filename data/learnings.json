@@ -1,41 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Marathon's Game Director Has Left Bungie Just Four Months After Launch",
-      "tag": "marathon",
-      "posted_at": "2026-07-17T18:47:24.082428+00:00",
-      "urls": [
-        "https://kotaku.com/marathons-game-director-is-leaving-bungie-2000717221",
-        "https://www.pcgamer.com/games/fps/marathon-game-director-leaves-bungie-just-4-months-after-launch-ill-be-heading-to-something-new-somewhere-else/"
-      ],
-      "article_titles": [
-        "Marathon\u2019s Game Director Is Leaving Bungie",
-        "Marathon game director leaves Bungie just 4 months after launch: 'I'll be heading to something new, somewhere else'"
-      ]
-    },
-    {
-      "headline": "Blizzard reverses course on Diablo 4's disastrous season after player backlash",
-      "tag": "diablo 4",
-      "posted_at": "2026-07-17T19:55:48.170802+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/rpg/blizzard-finally-caved-on-diablo-4s-disastrous-new-season-with-a-patch-that-reverts-almost-everything-players-hated-not-every-idea-lands-exactly-as-intended/"
-      ],
-      "article_titles": [
-        "Blizzard finally caved on Diablo 4's disastrous new season with a patch that reverts almost everything players hated: 'Not every idea lands exactly as intended'"
-      ]
-    },
-    {
-      "headline": "Marvel's Move to L.A. Signals the End of New York City's Comics Industry",
-      "tag": "marvel comics",
-      "posted_at": "2026-07-17T20:40:40.029679+00:00",
-      "urls": [
-        "https://kotaku.com/marvel-comics-new-york-nyc-la-los-angeles-disney-2000717239"
-      ],
-      "article_titles": [
-        "Marvel\u2019s Move To L.A. After 87 Years Means The End Of The New York City Comics Industry"
-      ]
-    },
-    {
       "headline": "ZA/UM Is Laying Off a Large Chunk of Staff Again as Disco Elysium Studio Continues to Struggle",
       "tag": "disco elysium",
       "posted_at": "2026-07-18T12:42:19.614938+00:00",
@@ -727,123 +692,35 @@
         "\u2018Blade Runner 2099\u2019 Unveils First Trailer for Amazon\u2019s Sci-Fi Sequel Starring Hunter Schafer",
         "Blade Runner 2099 will have \"connective tissue\" to the Ridley Scott and Denis Villeneuve movies, but will also be a standalone \"rebirth\""
       ]
+    },
+    {
+      "headline": "Eddie Brock Is Venom Again \u2014 Marvel Makes It Official at Comic-Con 2026",
+      "tag": "venom",
+      "posted_at": "2026-07-24T20:53:34.938029+00:00",
+      "urls": [
+        "https://www.ign.com/articles/marvel-comics-makes-eddie-brock-venom-again-comic-con-2026"
+      ],
+      "article_titles": [
+        "Marvel Comics Makes Eddie Brock Venom Again | Comic Con 2026"
+      ]
+    },
+    {
+      "headline": "The Rings of Power Season 3 Gets a November Premiere Date and a First Trailer",
+      "tag": "the lord of the rings: the rings of power",
+      "posted_at": "2026-07-24T20:53:35.056910+00:00",
+      "urls": [
+        "https://otakukart.com/the-lord-of-the-rings-the-rings-of-power-season-3-trailer-reveals-new-cast-balrog-voice-and-november-premiere-date/",
+        "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/hes-in-his-power-the-rings-of-powers-gandalf-star-says-his-lord-of-the-rings-character-has-arrived-in-season-3-and-will-be-the-wizard-we-all-hopefully-know-and-love/"
+      ],
+      "article_titles": [
+        "The Lord of the Rings: The Rings of Power Season 3 Trailer Reveals New Cast, Balrog Voice, and November Premiere Date",
+        "\"He's in his power\": The Rings of Power's Gandalf star says his Lord of the Rings character has \"arrived\" in season 3 and will be the wizard \"we all hopefully know and love\""
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000719156",
-      "title": "Inside The Mission To Turn Star Trek Into The Next Big Magic: The Gathering Set",
-      "url": "https://kotaku.com/inside-the-mission-to-turn-star-trek-into-the-next-big-magic-the-gathering-set-2000719156",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:39:07+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000719133",
-      "title": "Splatoon Raiders Has A Loading Screen Secret That Can Crash The Game",
-      "url": "https://kotaku.com/splatoon-raiders-loading-screen-secret-2000719133",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:30:27+00:00"
-    },
-    {
-      "guid": "9kVBbSgAwuM8VfT4bojfLR",
-      "title": "Asus ROG Azoth Extreme Edition 20 review",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/asus-rog-azoth-extreme-edition-20-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:30:50+00:00"
-    },
-    {
-      "guid": "eGHWDgMPoE5GVk3ufnRfaH",
-      "title": "I suck at fighting games, but Marvel T\u014dkon has the sauce",
-      "url": "https://www.pcgamer.com/games/fighting/i-suck-at-fighting-games-but-marvel-tokon-has-the-sauce/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:28:43+00:00"
-    },
-    {
-      "guid": "VUkworRmkBrduZpfLxWJ2Q",
-      "title": "Minecraft Java Edition system requirements want 8/16 GB RAM for the first time, but it isn't more demanding now, Microsoft just hadn't updated the specs in a while",
-      "url": "https://www.pcgamer.com/hardware/minecraft-java-edition-system-requirements-want-8-16-gb-ram-for-the-first-time-but-it-isnt-more-demanding-now-microsoft-just-hadnt-updated-the-specs-in-a-while/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:25:08+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237002536",
-      "title": "Former \u201960 Minutes\u2019 Correspondent Cecilia Vega Details Claims CBS News Brass Wanted Her To Insert Political Bias In Stories",
-      "url": "https://deadline.com/2026/07/cecilia-vega-60-minutes-cbs-political-bias-1237002536/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:45:55+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237002537",
-      "title": "\u2018The Odyssey\u2019 Ends First Week With Near $200M; Previews Fire Up For \u2018Hadestown\u2019, \u2018Motor City\u2019 & \u2018Her Private Hell\u2019 \u2013 Box Office",
-      "url": "https://deadline.com/2026/07/box-office-the-odyssey-motor-city-her-private-hell-hadestown-1237002537/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:39:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237002563",
-      "title": "LeBron James Signs With Philadelphia 76ers As \u201cLast Decision\u201d: \u201cI Am So Excited To Energize A New Fan Base\u201d",
-      "url": "https://deadline.com/2026/07/lebron-james-signs-philadelphia-76ers-nba-1237002563/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:38:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236820297",
-      "title": "\u2018Emilia P\u00e9rez\u2019 Director Jacques Audiard Reunites With Netflix for Horror Film (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/emilia-perez-jacques-audiard-horror-movie-netflix-1236820297/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:49:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236820413",
-      "title": "Amazon MGM Studios Hires HBO Max\u2019s Pia Barlow as Head of Original Series Marketing",
-      "url": "https://variety.com/2026/tv/news/amazon-mgm-hbo-max-pia-barlow-tv-series-marketing-1236820413/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:36:32+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236820294",
-      "title": "Spain\u2019s World Cup Triumph Gets Prime Video Series",
-      "url": "https://variety.com/2026/tv/global/prime-video-docuseries-spanish-national-team-world-cup-1236820294/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:35:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236819669",
-      "title": "Anne Hathaway\u2019s Oscars \u2018Odyssey\u2019: Will She Campaign for Lead Actress or Supporting?",
-      "url": "https://variety.com/2026/film/awards/anne-hathaway-oscars-odyssey-lead-actress-supporting-1236819669/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236820323",
-      "title": "\u2018Reacher\u2019 Star Alan Ritchson Slams \u2018F\u2014ing Pedophiles\u2019 in Politics: \u2018I Would Get Those Epstein Files Out in Two Seconds \u2026 Bitch, Move\u2019",
-      "url": "https://variety.com/2026/tv/news/alan-ritchson-epstein-files-pedophiles-go-to-jail-1236820323/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236818707",
-      "title": "\u2018Her Private Hell\u2019 Director Nicolas Winding Refn on Ignoring Critics, Why the Government Must Regulate AI and Planning His Third Film With Ryan Gosling",
-      "url": "https://variety.com/2026/film/features/nicolas-winding-refn-her-private-hell-critics-ryan-gosling-1236818707/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:26:00+00:00"
-    },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236655959",
       "title": "Jon Bon Jovi Abruptly Ends Madison Square Garden Concert Due to Sinus Infection",
@@ -859,94 +736,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-24T16:54:04+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236655903",
-      "title": "\u2018Reacher\u2019 Star Alan Ritchson Appears to Blast Trump on Epstein Files",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/alan-ritchson-trump-epstein-reacher-1236655903/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:38:25+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236655913",
-      "title": "As Chris Fleming Basks in After-Glow of HBO Special, He\u2019s Taken a Haircut For Success",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-fleming-hbo-special-career-movie-1236655913/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-24T16:35:19+00:00"
-    },
-    {
-      "guid": "N3bRdooPMRiGwwzMNfnnBZ",
-      "title": "Assassin's Creed Black Flag Resynced \"feet pics\" barrage surprised the remake's director, but he says \"that's kind of what photo mode is there for\"",
-      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-feet-pics-barrage-surprised-the-remakes-director-but-he-says-thats-kind-of-what-photo-mode-is-there-for/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:39:47+00:00"
-    },
-    {
-      "guid": "X4ehXH7keS3rb9gRQQED8X",
-      "title": "Resident Evil 4 made Capcom another $560 million and became the best-selling remake of the generation, analyst says, more than tripling sales of Oblivion Remastered and Final Fantasy 7 Rebirth",
-      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-4-made-capcom-another-usd560-million-and-became-the-best-selling-remake-of-the-generation-analyst-says-more-than-tripling-sales-of-oblivion-remastered-and-final-fantasy-7-rebirth/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:35:57+00:00"
-    },
-    {
-      "guid": "ScnXZ2rd8U2p7mTaQ3NiiK",
-      "title": "After Persona 6 reveal, Sega promises to give Atlus' beloved JRPG series \"the lively 30th anniversary celebration it deserves\"",
-      "url": "https://www.gamesradar.com/games/jrpg/after-persona-6-reveal-sega-promises-to-give-atlus-beloved-jrpg-series-the-lively-30th-anniversary-celebration-it-deserves/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:30:29+00:00"
-    },
-    {
-      "guid": "1831332",
-      "title": "Sega Won\u2019t Ditch Physical Media, But Says Digital Expansion Is Vital",
-      "url": "https://www.gamespot.com/articles/sega-wont-ditch-physical-media-but-says-digital-expansion-is-vital/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:40:42+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204237",
-      "title": "Street Fighter 6 Releases New Character Guide Video For Yasmine",
-      "url": "https://www.nintendolife.com/news/2026/07/street-fighter-6-releases-new-character-guide-video-for-yasmine",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204239",
-      "title": "From Xbox to PS5: Halo's Incredible 25-Year Transformation Plotted in Graphics Comparison",
-      "url": "https://www.pushsquare.com/news/2026/07/from-xbox-to-ps5-halos-incredible-25-year-transformation-plotted-in-graphics-comparison",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204223",
-      "title": "A New Way To Play Sega Rally Arcade On The PC, Xbox Series X, & Xbox 360 Has Been Released",
-      "url": "https://www.timeextension.com/news/2026/07/a-new-way-to-play-sega-rally-arcade-on-the-pc-xbox-series-x-and-xbox-360-has-been-released",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:45:00+00:00"
-    },
-    {
-      "guid": "t3_1v5gvhs",
-      "title": "Nintendo may have acquired Xenosaga",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v5gvhs/nintendo_may_have_acquired_xenosaga/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:49:18+00:00"
-    },
-    {
-      "guid": "t3_1v5g7q9",
-      "title": "The Latverian Witch costume from \u2018AVENGERS: DOOMSDAY\u2019 which was originally green and then changed to orange has now changed to purple at #SDCC.",
-      "url": "https://www.reddit.com/r/LeaksAndRumors/comments/1v5g7q9/the_latverian_witch_costume_from_avengers/",
-      "source_name": "Reddit LeaksAndRumors",
-      "source_tier": 2,
-      "published_dt": "2026-07-24T16:25:33+00:00"
     },
     {
       "guid": "t3_1v5gzll",
@@ -1195,6 +984,150 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-24T19:20:00+00:00"
+    },
+    {
+      "guid": "12601220-2f47-48b9-8f4b-c6cc3e0c53c1",
+      "title": "Marvel Comics Makes Eddie Brock Venom Again | Comic Con 2026",
+      "url": "https://www.ign.com/articles/marvel-comics-makes-eddie-brock-venom-again-comic-con-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719178",
+      "title": "Doom: The Dark Ages\u2019 Big DLC Expansion Is A Fun But Flawed Finale For This Era Of The Series",
+      "url": "https://kotaku.com/doom-the-dark-ages-big-dlc-expansion-is-a-flawed-but-fun-finale-for-this-era-of-the-series-2000719178",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:32:27+00:00"
+    },
+    {
+      "guid": "ErPKxYStv6VVZRWkUiYgo",
+      "title": "Even Japan's patent officials seem exhausted with Nintendo's antics as they refuse its 'absurd' defense of a rejected Pok\u00e9mon patent",
+      "url": "https://www.pcgamer.com/gaming-industry/even-japans-patent-officials-seem-exhausted-with-nintendos-antics-as-they-refuse-its-absurd-defense-of-a-rejected-pokemon-patent/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:30:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002904",
+      "title": "John Leguizamo Tells ICE Supporters \u201cDon\u2019t Watch My Movies\u201d",
+      "url": "https://deadline.com/2026/07/john-leguizamo-tells-ice-supporters-dont-watch-my-movies-1237002904/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:50:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002921",
+      "title": "Donald Trump Says LeBron James Is \u201cMaybe A Racist\u201d After 76ers Move & Prefers Michael Jordan: \u201cI Only Like People Who Like Me\u201d",
+      "url": "https://deadline.com/2026/07/donald-trump-lebron-james-racist-76ers-michael-jordan-1237002921/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:49:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002876",
+      "title": "\u2018President Curtis\u2019 Re-Elected: Upcoming \u2018Rick & Morty\u2019 Spinoff Renewed For Season 2 Ahead Of Series Premiere",
+      "url": "https://deadline.com/2026/07/president-curtis-renewed-season-2-rick-and-morty-1237002876/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236818889",
+      "title": "\u2018Lanterns\u2019 Trailer: Hal Jordan Visits Sinestro in Prison, Guy Gardner Has a Cameo and a Shape-Shifting Manhunter Is on the Loose",
+      "url": "https://variety.com/2026/tv/news/lanterns-trailer-sinestro-guy-gardner-manhunter-1236818889/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:52:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236818461",
+      "title": "Noah Wyle on \u2018The Pitt\u2019 Fan Discourse, Saving Hollywood and What\u2019s Coming In Season 3",
+      "url": "https://variety.com/2026/tv/awards/noah-wyle-the-pitt-fans-hollywood-season-3-1236818461/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820643",
+      "title": "\u2018My Little Pony: Forever Friendship\u2019 YouTube Series to Launch in 2027",
+      "url": "https://variety.com/2026/tv/news/my-little-pony-forever-friendship-youtube-2027-1236820643/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236685167",
+      "title": "Emmy Predictions: Inside the First Episode Submissions, Where Two \u2018Widow\u2019s Bay\u2019 Nominees Chose the Same One",
+      "url": "https://variety.com/lists/2026-emmys-predictions/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:20:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655298",
+      "title": "One of Telluride Film Fest\u2019s Marquee Venues Significantly Damaged by Flash Flood, But Fest Believes It Will Be Operational by Labor Day Weekend",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/telluride-film-festival-theater-damaged-flash-flood-1236655298/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:47:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656115",
+      "title": "\u2018Rick and Morty\u2019 Spinoff \u2018President Curtis\u2019 Scores Early Season 2 Renewal at Adult Swim",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/president-curtis-rick-and-morty-renewed-season-2-adult-swim-1236656115/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656039",
+      "title": "\u2018The Odyssey\u2019 Holding Strong for Big Second Weekend in $84.5M Range",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-big-second-weekend-box-office-1236656039/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:22:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656133",
+      "title": "Move Over Microdramas, Here Come the Microsports (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/microdramas-birth-microsports-world-1-exclusive-1236656133/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-24T20:20:38+00:00"
+    },
+    {
+      "guid": "Q48d88jcJrutDffSUHhQEV",
+      "title": "We need games like Clair Obscur: Expedition 33, Balatro, and Peak as a cure for the \"fear\" in the industry, say experts",
+      "url": "https://www.gamesradar.com/games/we-need-games-like-clair-obscur-expedition-33-balatro-and-peak-as-a-cure-for-the-fear-in-the-industry-say-experts/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T20:23:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747006",
+      "title": "Sekiro: No Defeat Review \u2013 A Visually Stunning Anime That Redefines the Story Behind Shadows Die Twice",
+      "url": "https://otakukart.com/sekiro-no-defeat-review-a-visually-stunning-anime-that-redefines-the-story-behind-shadows-die-twice/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T20:43:10+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747005",
+      "title": "The Lord of the Rings: The Rings of Power Season 3 Trailer Reveals New Cast, Balrog Voice, and November Premiere Date",
+      "url": "https://otakukart.com/the-lord-of-the-rings-the-rings-of-power-season-3-trailer-reveals-new-cast-balrog-voice-and-november-premiere-date/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T20:29:09+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746975",
+      "title": "Bandai Namco Reveals GUNDAM ROGUE ORBIT\u2019s Shared Universe With Mobile Suit Gundam RG XARX-ZERO at SDCC 2026",
+      "url": "https://otakukart.com/bandai-namco-reveals-gundam-rogue-orbits-shared-universe-with-mobile-suit-gundam-rg-xarx-zero-at-sdcc-2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-24T20:19:29+00:00"
     }
   ]
 }
