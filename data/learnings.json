@@ -705,19 +705,33 @@
       "article_titles": [
         "God of War Laufey finally gets a release date - here's when you'll be able to play it"
       ]
+    },
+    {
+      "headline": "Bethesda Says Xbox Layoffs Haven't Touched Elder Scrolls 6's Roadmap",
+      "tag": "the elder scrolls 6",
+      "posted_at": "2026-07-25T17:45:52.757653+00:00",
+      "urls": [
+        "https://kotaku.com/bethesda-addresses-concerns-that-the-elder-scrolls-6-will-be-impacted-by-xbox-layoffs-the-roadmap-is-unaffected-2000719305"
+      ],
+      "article_titles": [
+        "Bethesda Addresses Concerns That The Elder Scrolls 6 Will Be Impacted By Xbox Layoffs And Claims \u2018The Roadmap Is Unaffected\u2019"
+      ]
+    },
+    {
+      "headline": "Final Fantasy XIV Is Coming to Nintendo Switch 2 \u2014 Release Date and Pre-orders Now Live",
+      "tag": "final fantasy xiv",
+      "posted_at": "2026-07-25T17:45:52.943664+00:00",
+      "urls": [
+        "https://www.siliconera.com/ffxiv-switch-2-release-date-and-pre-orders-open/"
+      ],
+      "article_titles": [
+        "FFXIV Switch 2 Release Date and Pre-orders Open"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "BapUocRgac5X2pSTQ8yhMK",
-      "title": "Halo: Campaign Evolved shows love for Craig, the ugly brute who became an internet meme after Halo Infinite's controversial first demo",
-      "url": "https://www.gamesradar.com/games/halo/halo-campaign-evolved-shows-love-for-craig-the-ugly-brute-who-became-an-internet-meme-after-halo-infinites-controversial-first-demo/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-25T12:45:34+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000719297",
       "title": "Marvel T\u014dkon\u2019s Open Beta On PC Is A Mess",
@@ -965,6 +979,62 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-25T16:29:19+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development",
+      "title": "Silent Hill f writers were challenged to read \"100-200 books a year\" during production",
+      "url": "https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T17:25:17+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719305",
+      "title": "Bethesda Addresses Concerns That The Elder Scrolls 6 Will Be Impacted By Xbox Layoffs And Claims \u2018The Roadmap Is Unaffected\u2019",
+      "url": "https://kotaku.com/bethesda-addresses-concerns-that-the-elder-scrolls-6-will-be-impacted-by-xbox-layoffs-the-roadmap-is-unaffected-2000719305",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T17:33:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237003074",
+      "title": "\u2018Bob\u2019s Burgers\u2019 Sets Exclusive Holiday Short For Hulu",
+      "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T17:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821018",
+      "title": "\u2018Brunello: The Gracious Visionary\u2019 Review: Giuseppe Tornatore\u2019s Seductive Hagiography of a Fashion Legend",
+      "url": "https://variety.com/2026/film/reviews/brunello-the-gracious-visionary-review-1236821018/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120179",
+      "title": "FFXIV Getting Both Evangelion and FFVII Crossover Raids",
+      "url": "https://www.siliconera.com/ffxiv-getting-both-evangelion-and-ffvii-crossover-raids/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-25T17:35:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120176",
+      "title": "FFXIV Switch 2 Release Date and Pre-orders Open",
+      "url": "https://www.siliconera.com/ffxiv-switch-2-release-date-and-pre-orders-open/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-25T17:15:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747282",
+      "title": "Amazon Delays Tomb Raider: Catalyst to 2028 as Lara Croft\u2019s Gaming Comeback Faces Another Setback",
+      "url": "https://otakukart.com/amazon-delays-tomb-raider-catalyst-to-2028-as-lara-crofts-gaming-comeback-faces-another-setback/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-25T17:20:21+00:00"
     }
   ]
 }
