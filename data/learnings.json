@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Call of Duty Movie Is Set in the Modern Warfare Universe, Director Confirms",
-      "tag": "call of duty",
-      "posted_at": "2026-07-18T19:37:48.880926+00:00",
-      "urls": [
-        "https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms"
-      ],
-      "article_titles": [
-        "Call of Duty Movie to Take Place in the Modern Warfare Universe, Director Confirms"
-      ]
-    },
-    {
       "headline": "Xbox Promises a Third Exclusive as It Tries to Walk Back Its Own Confusing Messaging",
       "tag": "xbox",
       "posted_at": "2026-07-19T14:00:48.107903+00:00",
@@ -727,67 +716,22 @@
       "article_titles": [
         "FFXIV Switch 2 Release Date and Pre-orders Open"
       ]
+    },
+    {
+      "headline": "Larian reiterates it has zero involvement in any Baldur's Gate 3 projects after Karlach comic reveal",
+      "tag": "baldur's gate 3",
+      "posted_at": "2026-07-25T22:14:56.801037+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/baldurs-gate/larian-once-again-reminds-us-its-not-involved-in-any-bg3-related-projects-in-response-to-karlach-comic-reveal/"
+      ],
+      "article_titles": [
+        "Larian once again reminds us it's 'not involved in any BG3-related projects' in response to Karlach comic reveal"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development",
-      "title": "Silent Hill f writers were challenged to read \"100-200 books a year\" during production",
-      "url": "https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T17:25:17+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000719305",
-      "title": "Bethesda Addresses Concerns That The Elder Scrolls 6 Will Be Impacted By Xbox Layoffs And Claims \u2018The Roadmap Is Unaffected\u2019",
-      "url": "https://kotaku.com/bethesda-addresses-concerns-that-the-elder-scrolls-6-will-be-impacted-by-xbox-layoffs-the-roadmap-is-unaffected-2000719305",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T17:33:19+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237003074",
-      "title": "\u2018Bob\u2019s Burgers\u2019 Sets Exclusive Holiday Short For Hulu",
-      "url": "https://deadline.com/2026/07/bobs-burgers-holiday-short-hulu-1237003074/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T17:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821018",
-      "title": "\u2018Brunello: The Gracious Visionary\u2019 Review: Giuseppe Tornatore\u2019s Seductive Hagiography of a Fashion Legend",
-      "url": "https://variety.com/2026/film/reviews/brunello-the-gracious-visionary-review-1236821018/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T17:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120179",
-      "title": "FFXIV Getting Both Evangelion and FFVII Crossover Raids",
-      "url": "https://www.siliconera.com/ffxiv-getting-both-evangelion-and-ffvii-crossover-raids/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-25T17:35:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120176",
-      "title": "FFXIV Switch 2 Release Date and Pre-orders Open",
-      "url": "https://www.siliconera.com/ffxiv-switch-2-release-date-and-pre-orders-open/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-25T17:15:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1747282",
-      "title": "Amazon Delays Tomb Raider: Catalyst to 2028 as Lara Croft\u2019s Gaming Comeback Faces Another Setback",
-      "url": "https://otakukart.com/amazon-delays-tomb-raider-catalyst-to-2028-as-lara-crofts-gaming-comeback-faces-another-setback/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-25T17:20:21+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000719315",
       "title": "Multiple Meccha Chameleon Steam Workshop Maps Got Infected With Malware And Its Discord Server Was Hacked",
@@ -851,6 +795,54 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-25T20:56:59+00:00"
+    },
+    {
+      "guid": "jm5yo2fryc2Xn7nTHbjMeX",
+      "title": "Larian once again reminds us it's 'not involved in any BG3-related projects' in response to Karlach comic reveal",
+      "url": "https://www.pcgamer.com/games/baldurs-gate/larian-once-again-reminds-us-its-not-involved-in-any-bg3-related-projects-in-response-to-karlach-comic-reveal/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T21:48:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237003658",
+      "title": "\u2018Dark Matter\u2019 Season 2 Trailer Debuts In Hall H At Comic-Con, Teasing Endless Possibilities With The Box",
+      "url": "https://deadline.com/2026/07/dark-matter-season-2-trailer-apple-tv-1237003658/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T22:14:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237003657",
+      "title": "\u2018Matchbox: The Movie\u2019 Trailer: John Cena & Jessica Biel Run From CIA In First Look At Mattel Adaptation Of Classic Toy Cars \u2014 SDCC",
+      "url": "https://deadline.com/2026/07/matchbox-the-movie-trailer-john-cena-mattel-sdcc-1237003657/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T22:00:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821177",
+      "title": "\u2018Neuromancer\u2019 First Look: Callum Turner Is a Cyberspace Criminal in Teaser for Apple TV Sci-Fi Series",
+      "url": "https://variety.com/2026/tv/news/neuromancer-first-look-callum-turner-apple-tv-1236821177/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T22:14:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821132",
+      "title": "\u2018Dungeons & Dragons\u2019 Sequel Was Written but May Never Be Filmed Due to \u2018Financial Reasons\u2019",
+      "url": "https://variety.com/2026/film/news/dungeons-and-dragons-sequel-written-never-filmed-financial-1236821132/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T21:48:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821014",
+      "title": "\u2018Sour Minnows\u2019 Is the Surreal Body Snatching Comedy That Mystified and Delighted Its Premiere Audience \u2014\u00a0Fantasia",
+      "url": "https://variety.com/2026/film/features/sour-minnows-surreal-body-snatching-comedy-fantasia-fest-1236821014/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T21:44:45+00:00"
     }
   ]
 }
