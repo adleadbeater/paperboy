@@ -722,12 +722,28 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237002716",
-      "title": "Donald Trump Delivers Rally-Like Hour Of Rehash In White House Correspondents\u2019 Dinner Speech",
-      "url": "https://deadline.com/2026/07/trump-white-house-correspondents-dinner-2-1237002716/",
+      "guid": "https://deadline.com/?p=1237003343",
+      "title": "Jim Carrey Thanks Late \u2018The Mask\u2019 Director Chuck Russell For Career \u201cJewel\u201d",
+      "url": "https://deadline.com/2026/07/jim-carrey-chuck-russell-the-mask-1237003343/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-07-25T03:08:37+00:00"
+      "published_dt": "2026-07-25T12:32:53+00:00"
+    },
+    {
+      "guid": "BapUocRgac5X2pSTQ8yhMK",
+      "title": "Halo: Campaign Evolved shows love for Craig, the ugly brute who became an internet meme after Halo Infinite's controversial first demo",
+      "url": "https://www.gamesradar.com/games/halo/halo-campaign-evolved-shows-love-for-craig-the-ugly-brute-who-became-an-internet-meme-after-halo-infinites-controversial-first-demo/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-25T12:45:34+00:00"
+    },
+    {
+      "guid": "mS3JtN3n2VpSuoXRpBKasF",
+      "title": "\"The desire for a world you can escape to is stronger than ever\": How MMORPGs are flourishing in a multiplayer landscape dominated by live-service shooters",
+      "url": "https://www.gamesradar.com/games/mmo/how-mmos-are-finding-new-ways-to-flourish-in-2026/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-25T12:30:00+00:00"
     }
   ]
 }
