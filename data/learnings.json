@@ -711,28 +711,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237003343",
-      "title": "Jim Carrey Thanks Late \u2018The Mask\u2019 Director Chuck Russell For Career \u201cJewel\u201d",
-      "url": "https://deadline.com/2026/07/jim-carrey-chuck-russell-the-mask-1237003343/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T12:32:53+00:00"
-    },
-    {
       "guid": "BapUocRgac5X2pSTQ8yhMK",
       "title": "Halo: Campaign Evolved shows love for Craig, the ugly brute who became an internet meme after Halo Infinite's controversial first demo",
       "url": "https://www.gamesradar.com/games/halo/halo-campaign-evolved-shows-love-for-craig-the-ugly-brute-who-became-an-internet-meme-after-halo-infinites-controversial-first-demo/",
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-25T12:45:34+00:00"
-    },
-    {
-      "guid": "mS3JtN3n2VpSuoXRpBKasF",
-      "title": "\"The desire for a world you can escape to is stronger than ever\": How MMORPGs are flourishing in a multiplayer landscape dominated by live-service shooters",
-      "url": "https://www.gamesradar.com/games/mmo/how-mmos-are-finding-new-ways-to-flourish-in-2026/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-25T12:30:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000719297",
@@ -901,6 +885,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-25T14:59:48+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/aliens-fireteam-elite-2-release-date-confirmed",
+      "title": "Aliens: Fireteam Elite 2 confirms release date and it's closer than you think",
+      "url": "https://www.eurogamer.net/aliens-fireteam-elite-2-release-date-confirmed",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:39:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719306",
+      "title": "Conker, Lobo, Charles Martinet\u2019s Donkey Kong Voice And Other Splendors Of Bygone E3 Booths",
+      "url": "https://kotaku.com/conker-lobo-charles-martinets-donkey-kong-voice-and-other-splendors-of-bygone-e3-booths-2000719306",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:33:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237003415",
+      "title": "\u2018Game Of Thrones: The Mad King\u2019 UK Stage Cancellations Spark Ticket Buyer Ire",
+      "url": "https://deadline.com/2026/07/game-of-thrones-mad-king-uk-1237003415/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:24:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237003352",
+      "title": "Inside The Room At The Rescheduled WHCA Dinner As Donald Trump Tried Rickles-Like Rally Schtick, But Was Met With The Sounds Of Silence",
+      "url": "https://deadline.com/2026/07/trump-white-house-correspondents-dinner-2026-1237003352/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:07:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820988",
+      "title": "\u2018Incinerator\u2019 Review: Award-Winning Japanese Portrait of a Teenage Loner Is Gentle to a Fault",
+      "url": "https://variety.com/2026/film/reviews/incinerator-review-1236820988/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:31:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820978",
+      "title": "Wu Jing Honored at MIFFest, Says Hong Kong Action Cinema\u2019s Influence Still Runs Through Every Wuxia Film Today",
+      "url": "https://variety.com/2026/film/festivals/wu-jing-hong-kong-action-cinema-wuxia-films-1236820978/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:16:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820976",
+      "title": "Katy Perry Slams Trump Administration for Using Song \u2018Firework\u2019 in Military Strikes Video: \u2018I Absolutely Do Not Condone It\u2019",
+      "url": "https://variety.com/2026/music/news/katy-perry-slams-trump-military-strikes-firework-video-1236820976/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:13:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236820080",
+      "title": "\u2018Bad Counselors\u2019 Review: A Stealthily Christian Comedy Makes Believers of Two Rowdy Frat Bros",
+      "url": "https://variety.com/2026/film/reviews/bad-counselors-review-1236820080/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:08:51+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656389",
+      "title": "MrBeast\u2019s Newest Battle: Granting Wishes for Kids Battling Cancer (With Assist From LeBron James)",
+      "url": "https://www.hollywoodreporter.com/news/general-news/mrbeast-lebron-james-kids-cancer-youtube-video-campaign-1236656389/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-25T16:15:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747280",
+      "title": "FBI Arrests 21-Year-Old Over $220,000 Steam Malware Scheme Linked to Crypto Theft",
+      "url": "https://otakukart.com/fbi-arrests-21-year-old-over-220000-steam-malware-scheme-linked-to-crypto-theft/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-25T16:29:19+00:00"
     }
   ]
 }
