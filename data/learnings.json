@@ -733,70 +733,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000719337",
-      "title": "Warren Spector\u2019s Thick As Thieves Ends Support After Two Months",
-      "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T21:02:55+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237003618",
-      "title": "Pamela Anderson Has \u201cNo Plans\u201d To Reprise \u2018Baywatch\u2019 Role: \u201cI\u2019ve Already Done That\u201d",
-      "url": "https://deadline.com/2026/07/pamela-anderson-no-plans-reprise-baywatch-role-1237003618/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T21:05:10+00:00"
-    },
-    {
-      "guid": "jm5yo2fryc2Xn7nTHbjMeX",
-      "title": "Larian once again reminds us it's 'not involved in any BG3-related projects' in response to Karlach comic reveal",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/larian-once-again-reminds-us-its-not-involved-in-any-bg3-related-projects-in-response-to-karlach-comic-reveal/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T21:48:31+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237003658",
-      "title": "\u2018Dark Matter\u2019 Season 2 Trailer Debuts In Hall H At Comic-Con, Teasing Endless Possibilities With The Box",
-      "url": "https://deadline.com/2026/07/dark-matter-season-2-trailer-apple-tv-1237003658/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T22:14:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237003657",
-      "title": "\u2018Matchbox: The Movie\u2019 Trailer: John Cena & Jessica Biel Run From CIA In First Look At Mattel Adaptation Of Classic Toy Cars \u2014 SDCC",
-      "url": "https://deadline.com/2026/07/matchbox-the-movie-trailer-john-cena-mattel-sdcc-1237003657/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T22:00:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821177",
-      "title": "\u2018Neuromancer\u2019 First Look: Callum Turner Is a Cyberspace Criminal in Teaser for Apple TV Sci-Fi Series",
-      "url": "https://variety.com/2026/tv/news/neuromancer-first-look-callum-turner-apple-tv-1236821177/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T22:14:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821132",
-      "title": "\u2018Dungeons & Dragons\u2019 Sequel Was Written but May Never Be Filmed Due to \u2018Financial Reasons\u2019",
-      "url": "https://variety.com/2026/film/news/dungeons-and-dragons-sequel-written-never-filmed-financial-1236821132/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T21:48:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821014",
-      "title": "\u2018Sour Minnows\u2019 Is the Surreal Body Snatching Comedy That Mystified and Delighted Its Premiere Audience \u2014\u00a0Fantasia",
-      "url": "https://variety.com/2026/film/features/sour-minnows-surreal-body-snatching-comedy-fantasia-fest-1236821014/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T21:44:45+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236807045",
       "title": "Stephen King\u2019s \u2018Carrie\u2019 Series Sets October Release Date, Drops Horrifying New Trailer",
       "url": "https://variety.com/2026/tv/news/carrie-tv-series-trailer-release-date-mike-flanagan-1236807045/",
@@ -819,6 +755,14 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-26T00:39:07+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656648",
+      "title": "Ryan Reynolds\u2019 Deadpool Crashes Comic-Con to Beg for \u2018Avengers: Doomsday\u2019 Role",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ryan-reynolds-deadpool-avengers-doomsday-comic-con-1236656648/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T03:10:11+00:00"
     }
   ]
 }
