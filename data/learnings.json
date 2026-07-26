@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox Promises a Third Exclusive as It Tries to Walk Back Its Own Confusing Messaging",
-      "tag": "xbox",
-      "posted_at": "2026-07-19T14:00:48.107903+00:00",
-      "urls": [
-        "https://kotaku.com/xbox-promises-a-third-upcoming-exclusive-as-it-tries-to-explain-a-confusing-reversal-2000717484"
-      ],
-      "article_titles": [
-        "Xbox Promises A Third Upcoming Exclusive As It Tries To Explain A Confusing Reversal"
-      ]
-    },
-    {
       "headline": "Game of Thrones: War for Westeros RTS Pushed to 2027",
       "tag": "game of thrones: war for westeros",
       "posted_at": "2026-07-19T16:26:10.566034+00:00",
@@ -727,6 +716,28 @@
       "article_titles": [
         "Larian once again reminds us it's 'not involved in any BG3-related projects' in response to Karlach comic reveal"
       ]
+    },
+    {
+      "headline": "The 'Unfilmable' Neuromancer Finally Has a Trailer \u2014 and It Looks Like It Actually Exists",
+      "tag": "neuromancer",
+      "posted_at": "2026-07-26T15:35:45.225843+00:00",
+      "urls": [
+        "https://kotaku.com/unfilmable-cyberpunk-classic-neuromancer-receives-first-trailer-2000719381"
+      ],
+      "article_titles": [
+        "\u2018Unfilmable\u2019 Cyberpunk Classic Neuromancer Receives First Trailer"
+      ]
+    },
+    {
+      "headline": "Wuchang: Fallen Feathers Hits 5 Million Players Even as Its Developer Has Collapsed",
+      "tag": "wuchang: fallen feathers",
+      "posted_at": "2026-07-26T15:35:45.460296+00:00",
+      "urls": [
+        "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players"
+      ],
+      "article_titles": [
+        "Wuchang: Fallen Feathers tops 5 million players despite dev team's collapse"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -771,6 +782,78 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-26T13:52:27+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players",
+      "title": "Wuchang: Fallen Feathers tops 5 million players despite dev team's collapse",
+      "url": "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T15:05:53+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719376",
+      "title": "Avengers, Ghost Rider, And More: Everything Marvel Revealed At San Diego Comic Con 2026",
+      "url": "https://kotaku.com/avengers-ghost-rider-and-more-everything-marvel-revealed-at-san-diego-comic-con-2026-2000719376",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T15:14:52+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719381",
+      "title": "\u2018Unfilmable\u2019 Cyberpunk Classic Neuromancer Receives First Trailer",
+      "url": "https://kotaku.com/unfilmable-cyberpunk-classic-neuromancer-receives-first-trailer-2000719381",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T15:11:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236817266",
+      "title": "\u2018Rick and Morty\u2019 Spinoff \u2018President Curtis\u2019 Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821333",
+      "title": "Inside \u2018Colony\u2019: \u2018Train to Busan\u2019 Director Yeon Sang-ho and Gianna Jun Discuss Their Thrilling New Take on the Zombie Movie",
+      "url": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656039",
+      "title": "\u2018The Odyssey\u2019 Holds Strong for Big Second Weekend of $87M, Passes $600M Globally",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-big-second-weekend-box-office-1236656039/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T15:12:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747425",
+      "title": "Fantasia International Film Festival 2026 Winners: Nightborn Takes Best Film as Full Jury Awards Are Announced",
+      "url": "https://otakukart.com/fantasia-international-film-festival-2026-winners-nightborn-takes-best-film-as-full-jury-awards-are-announced/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-26T15:29:43+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747420",
+      "title": "Silent Hill f Producer Says Writers Were Required to Read 100\u2013200 Books a Year to Strengthen the Game\u2019s Story",
+      "url": "https://otakukart.com/silent-hill-f-producer-says-writers-were-required-to-read-100-200-books-a-year-to-strengthen-the-games-story/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-26T15:03:40+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=614314",
+      "title": "RPG: Explore The Most Infamous Town In New England Thanks To Call Of Cthulhu\u2019s \u2018Innsmouth\u2019",
+      "url": "https://www.belloflostsouls.net/2026/07/rpg-explore-the-most-infamous-town-in-new-england-thanks-to-call-of-cthulhus-innsmouth.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-26T15:30:00+00:00"
     }
   ]
 }
