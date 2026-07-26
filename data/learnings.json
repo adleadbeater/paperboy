@@ -733,30 +733,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000719315",
-      "title": "Multiple Meccha Chameleon Steam Workshop Maps Got Infected With Malware And Its Discord Server Was Hacked",
-      "url": "https://kotaku.com/multiple-meccha-chameleon-steam-workshop-maps-got-infected-with-malware-and-its-discord-server-was-hacked-2000719315",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T19:48:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236820731",
-      "title": "\u2018EverQuest Legends\u2019 Unveils Cat Race Kerran as Playable Characters for Video Game Franchise\u2019s Reboot (EXCLUSIVE)",
-      "url": "https://variety.com/2026/gaming/news/everquest-legends-kerran-playable-characters-1236820731/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204252",
-      "title": "'It's Setting Up for Something So Amazing': Sony Confirms New God of War Starring Kratos",
-      "url": "https://www.pushsquare.com/news/2026/07/its-setting-up-for-something-so-amazing-sony-confirms-new-god-of-war-starring-kratos",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-25T19:30:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000719337",
       "title": "Warren Spector\u2019s Thick As Thieves Ends Support After Two Months",
       "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
@@ -771,30 +747,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-25T21:05:10+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237003616",
-      "title": "\u2018Yaga\u2019 Cast Tease \u201cScary Hot\u201d Hudson Williams In The \u201cSexy & Dark\u201d Reimagining Of Slavic Fairytale At Comic-Con",
-      "url": "https://deadline.com/2026/07/yaga-hudson-williams-carrie-ann-moss-comic-con-1237003616/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T20:50:13+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237003561",
-      "title": "\u2018Star Trek: Strange New Worlds\u2019 Unveils Season 4 Sneak Peek At Comic-Con",
-      "url": "https://deadline.com/2026/07/star-trek-strange-new-worlds-season-4-teaser-1237003561/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T20:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821134",
-      "title": "\u2018Star Trek: Starfleet Academy\u2019 Season 2 Casts Newcomer Ruaridh Aldington",
-      "url": "https://variety.com/2026/tv/news/star-trek-starfleet-academy-season-2-casts-ruaridh-aldington-1236821134/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-25T20:56:59+00:00"
     },
     {
       "guid": "jm5yo2fryc2Xn7nTHbjMeX",
@@ -843,6 +795,30 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-25T21:44:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236807045",
+      "title": "Stephen King\u2019s \u2018Carrie\u2019 Series Sets October Release Date, Drops Horrifying New Trailer",
+      "url": "https://variety.com/2026/tv/news/carrie-tv-series-trailer-release-date-mike-flanagan-1236807045/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T00:50:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655407",
+      "title": "Prime Video Unveils Teaser, Release Date for Mike Flanagan\u2019s \u2018Carrie\u2019 Series",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-carrie-series-teaser-trailer-1236655407/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T00:50:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656615",
+      "title": "John Cena Races to Find a Nuclear Warhead in \u2018Matchbox the Movie\u2019 Trailer",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T00:39:07+00:00"
     }
   ]
 }
