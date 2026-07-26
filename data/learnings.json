@@ -744,14 +744,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "oX9weNfpsdC6XT4QNw2YJM",
-      "title": "Red Faction: Guerrilla Re-Mars-tered review (2018)",
-      "url": "https://www.pcgamer.com/games/action/red-faction-guerrilla-re-mars-tered-review-2018/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T18:36:13+00:00"
-    },
-    {
       "guid": "5bb97023-a75e-4010-8b35-82791f274b23",
       "title": "Marvel Knew David Jonsson Would Be the Next Black Panther 6 Months Ago After 'Secret Meeting' With Ryan Coogler",
       "url": "https://www.ign.com/articles/marvel-knew-david-jonsson-would-be-the-next-black-panther-6-months-ago-after-secret-meeting-with-ryan-coogler",
@@ -822,6 +814,14 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-26T23:00:00+00:00"
+    },
+    {
+      "guid": "26USjd9YfdLeqXriNzsdmF",
+      "title": "The Legend of Zelda movie's Link actor couldn't play Breath of the Wild when it launched because he was too young: \"It might show my age\"",
+      "url": "https://www.gamesradar.com/entertainment/live-action-movies/the-legend-of-zelda-movies-link-actor-couldnt-play-breath-of-the-wild-when-it-launched-because-he-was-too-young-it-might-show-my-age/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-26T23:05:00+00:00"
     }
   ]
 }
