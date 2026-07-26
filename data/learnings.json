@@ -744,78 +744,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players",
-      "title": "Wuchang: Fallen Feathers tops 5 million players despite dev team's collapse",
-      "url": "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T15:05:53+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000719376",
-      "title": "Avengers, Ghost Rider, And More: Everything Marvel Revealed At San Diego Comic Con 2026",
-      "url": "https://kotaku.com/avengers-ghost-rider-and-more-everything-marvel-revealed-at-san-diego-comic-con-2026-2000719376",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T15:14:52+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000719381",
-      "title": "\u2018Unfilmable\u2019 Cyberpunk Classic Neuromancer Receives First Trailer",
-      "url": "https://kotaku.com/unfilmable-cyberpunk-classic-neuromancer-receives-first-trailer-2000719381",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T15:11:22+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236817266",
-      "title": "\u2018Rick and Morty\u2019 Spinoff \u2018President Curtis\u2019 Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821333",
-      "title": "Inside \u2018Colony\u2019: \u2018Train to Busan\u2019 Director Yeon Sang-ho and Gianna Jun Discuss Their Thrilling New Take on the Zombie Movie",
-      "url": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236656039",
-      "title": "\u2018The Odyssey\u2019 Holds Strong for Big Second Weekend of $87M, Passes $600M Globally",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-odyssey-big-second-weekend-box-office-1236656039/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T15:12:42+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1747425",
-      "title": "Fantasia International Film Festival 2026 Winners: Nightborn Takes Best Film as Full Jury Awards Are Announced",
-      "url": "https://otakukart.com/fantasia-international-film-festival-2026-winners-nightborn-takes-best-film-as-full-jury-awards-are-announced/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T15:29:43+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1747420",
-      "title": "Silent Hill f Producer Says Writers Were Required to Read 100\u2013200 Books a Year to Strengthen the Game\u2019s Story",
-      "url": "https://otakukart.com/silent-hill-f-producer-says-writers-were-required-to-read-100-200-books-a-year-to-strengthen-the-games-story/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T15:03:40+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=614314",
-      "title": "RPG: Explore The Most Infamous Town In New England Thanks To Call Of Cthulhu\u2019s \u2018Innsmouth\u2019",
-      "url": "https://www.belloflostsouls.net/2026/07/rpg-explore-the-most-infamous-town-in-new-england-thanks-to-call-of-cthulhus-innsmouth.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T15:30:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000719395",
       "title": "Completed Fan-Made Portal Remake Stuck In Limbo As Valve Goes Silent",
       "url": "https://kotaku.com/completed-fan-made-portal-remake-stuck-in-limbo-as-valve-goes-silent-2000719395",
@@ -918,6 +846,46 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-26T18:17:09+00:00"
+    },
+    {
+      "guid": "5bb97023-a75e-4010-8b35-82791f274b23",
+      "title": "Marvel Knew David Jonsson Would Be the Next Black Panther 6 Months Ago After 'Secret Meeting' With Ryan Coogler",
+      "url": "https://www.ign.com/articles/marvel-knew-david-jonsson-would-be-the-next-black-panther-6-months-ago-after-secret-meeting-with-ryan-coogler",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T19:36:06+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/marvel-tokon-fighting-souls-pc-beta-apology",
+      "title": "Marvel T\u014dkon: Fighting Souls dev apologises for PC \"gameplay and performance issues\"",
+      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-pc-beta-apology",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T19:44:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237004082",
+      "title": "Maya Jama On Future As \u2018Love Island UK\u2019 Host & Rumors She\u2019s Replacing Emma Willis As \u2018The Voice UK\u2019 Season 15 Host",
+      "url": "https://deadline.com/2026/07/maya-jama-future-love-island-uk-host-rumors-the-voice-uk-1237004082/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T19:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821550",
+      "title": "Gracie Abrams Scores First No. 1 on Albums Chart With \u2018Daughter From Hell\u2019",
+      "url": "https://variety.com/2026/music/news/gracie-abrams-scores-first-no-1-daughter-from-hell-1236821550/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T19:27:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747324",
+      "title": "Blue Lock Chapter 355: Spoilers & Summary",
+      "url": "https://otakukart.com/blue-lock-chapter-355-spoilers-summary/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-26T19:31:21+00:00"
     }
   ]
 }
