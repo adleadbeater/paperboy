@@ -744,30 +744,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000719395",
-      "title": "Completed Fan-Made Portal Remake Stuck In Limbo As Valve Goes Silent",
-      "url": "https://kotaku.com/completed-fan-made-portal-remake-stuck-in-limbo-as-valve-goes-silent-2000719395",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T16:34:23+00:00"
-    },
-    {
-      "guid": "XEV5UgwZguPkEBSUTQg9V8",
-      "title": "Fixes roll out after Meccha Chameleon servers infected with malware, Discord hacked",
-      "url": "https://www.pcgamer.com/games/sports/fixes-roll-out-after-meccha-chameleon-servers-infected-with-malware-discord-hacked/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T16:32:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821466",
-      "title": "\u2018Am I Supposed to be a Comedian?\u2019: Donald Trump\u2019s Bizarre White House Correspondent\u2019s Dinner Speech Had Few Laughing",
-      "url": "https://variety.com/2026/politics/columns/donald-trump-whcd-2026-speech-1236821466/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T16:22:32+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
       "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog",
       "url": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
@@ -886,6 +862,22 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-26T19:31:21+00:00"
+    },
+    {
+      "guid": "DRaKeDSHQ8Nxe6nkuU5FZj",
+      "title": "What does GTA Online 2.0 even look like\u2014and, more to the point, what do we even want from Grand Theft Auto 6 multiplayer?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/what-does-gta-online-2-0-even-look-like-and-more-to-the-point-what-do-we-even-want-from-grand-theft-auto-6-multiplayer/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T20:50:15+00:00"
+    },
+    {
+      "guid": "t3_1v7ftex",
+      "title": "I have some rumours about multiple games like Darksiders 4, TMNT Last Ronin and also some stuff about Xbox and Playstation",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v7ftex/i_have_some_rumours_about_multiple_games_like/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-26T20:54:36+00:00"
     }
   ]
 }
