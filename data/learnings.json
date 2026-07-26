@@ -744,84 +744,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
-      "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog",
-      "url": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T17:27:52+00:00"
-    },
-    {
-      "guid": "BevnetFQ54RiH3JrnER9z9",
-      "title": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/j-k-simmons-hasnt-played-baldurs-gate-3-or-any-of-his-games-but-he-loves-portal-2-i-could-have-done-the-feature-film-or-the-play-or-whatever/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T17:31:42+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237004056",
-      "title": "\u2018Transformers: The Movie\u2019 Getting Fall Theatrical Re-Release From Hasbro & Fathom \u2013 Comic-Con",
-      "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T17:37:45+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237004042",
-      "title": "\u2018Black Panther\u2019 Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role",
-      "url": "https://deadline.com/2026/07/black-panther-david-jonsson-winston-duke-1237004042/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T17:19:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821505",
-      "title": "\u2018Attack on Paradise\u2019 Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner",
-      "url": "https://variety.com/2026/film/reviews/attack-on-paradise-review-1236821505/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T17:29:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821490",
-      "title": "Gay Romance Podcast \u2018Drive Thru Magic\u2019 Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
-      "url": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T17:19:17+00:00"
-    },
-    {
-      "guid": "928ab138-2714-4c62-a74e-007d2d9f4333",
-      "title": "George Takei and Other Star Trek Alumni Celebrate 60 Years and Name Trek's Greatest Lessons | Comic Con 2026",
-      "url": "https://www.ign.com/articles/star-trek-60th-anniversary-sdcc-panel",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T18:17:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/sony-disc-backlash-no-surprise-says-former-dev",
-      "title": "\"Sony had the strictest social media guidelines they've ever seen issued,\" says former first-party dev about physical disc backlash",
-      "url": "https://www.eurogamer.net/sony-disc-backlash-no-surprise-says-former-dev",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T18:17:06+00:00"
-    },
-    {
       "guid": "oX9weNfpsdC6XT4QNw2YJM",
       "title": "Red Faction: Guerrilla Re-Mars-tered review (2018)",
       "url": "https://www.pcgamer.com/games/action/red-faction-guerrilla-re-mars-tered-review-2018/",
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-07-26T18:36:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236656766",
-      "title": "Universal Responds to \u2018The Odyssey\u2019 Leaks on Social Media",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/universal-responds-the-odyssey-leaks-x-social-media-1236656766/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T18:17:09+00:00"
     },
     {
       "guid": "5bb97023-a75e-4010-8b35-82791f274b23",
@@ -878,6 +806,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-26T20:54:36+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719419",
+      "title": "Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel",
+      "url": "https://kotaku.com/cyan-worlds-gives-a-look-at-what-could-have-been-a-new-myst-sequel-2000719419",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T22:00:09+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204260",
+      "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision",
+      "url": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-26T23:00:00+00:00"
     }
   ]
 }
