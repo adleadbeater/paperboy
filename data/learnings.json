@@ -744,30 +744,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://otakukart.com/?p=1747144",
-      "title": "One Piece vs. Naruto: 16 Reasons Fans Still Cannot Agree",
-      "url": "https://otakukart.com/one-piece-vs-naruto-16-reasons-fans-still-cannot-agree/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T14:13:41+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1747365",
-      "title": "Capcom Says Resident Evil Remakes Are \u201cJust as Important\u201d as Mainline Games, Helping the Studio Release New Games Almost Every Year",
-      "url": "https://otakukart.com/capcom-says-resident-evil-remakes-are-just-as-important-as-mainline-games-helping-the-studio-release-new-games-almost-every-year/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T14:08:14+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1747364",
-      "title": "GROTESQQQUE Director Says the Anime Was His \u201cLittle Dessert\u201d Because CloverWorks Let Him Create What He Truly Wanted",
-      "url": "https://otakukart.com/grotesqqque-director-says-the-anime-was-his-little-dessert-because-cloverworks-let-him-create-what-he-truly-wanted/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T13:52:27+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players",
       "title": "Wuchang: Fallen Feathers tops 5 million players despite dev team's collapse",
       "url": "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players",
@@ -910,6 +886,38 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-26T17:19:17+00:00"
+    },
+    {
+      "guid": "928ab138-2714-4c62-a74e-007d2d9f4333",
+      "title": "George Takei and Other Star Trek Alumni Celebrate 60 Years and Name Trek's Greatest Lessons | Comic Con 2026",
+      "url": "https://www.ign.com/articles/star-trek-60th-anniversary-sdcc-panel",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T18:17:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/sony-disc-backlash-no-surprise-says-former-dev",
+      "title": "\"Sony had the strictest social media guidelines they've ever seen issued,\" says former first-party dev about physical disc backlash",
+      "url": "https://www.eurogamer.net/sony-disc-backlash-no-surprise-says-former-dev",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T18:17:06+00:00"
+    },
+    {
+      "guid": "oX9weNfpsdC6XT4QNw2YJM",
+      "title": "Red Faction: Guerrilla Re-Mars-tered review (2018)",
+      "url": "https://www.pcgamer.com/games/action/red-faction-guerrilla-re-mars-tered-review-2018/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T18:36:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236656766",
+      "title": "Universal Responds to \u2018The Odyssey\u2019 Leaks on Social Media",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/universal-responds-the-odyssey-leaks-x-social-media-1236656766/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T18:17:09+00:00"
     }
   ]
 }
