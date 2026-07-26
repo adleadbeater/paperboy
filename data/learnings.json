@@ -744,22 +744,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "TPtz6s7vmzisDMJWKTNo5F",
-      "title": "Ryan Gosling pitched Marvel with a \"specific vision\" for Ghost Rider, pulled straight from the comics",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/ryan-gosling-pitched-marvel-with-a-specific-vision-for-ghost-rider-pulled-straight-from-the-comics/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T12:46:09+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204258",
-      "title": "Poll: Are You Buying Marvel Tokon: Fighting Souls?",
-      "url": "https://www.pushsquare.com/news/2026/07/poll-are-you-buying-marvel-tokon-fighting-souls",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T13:00:00+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1747144",
       "title": "One Piece vs. Naruto: 16 Reasons Fans Still Cannot Agree",
       "url": "https://otakukart.com/one-piece-vs-naruto-16-reasons-fans-still-cannot-agree/",
@@ -878,6 +862,54 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-26T16:22:32+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
+      "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog",
+      "url": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T17:27:52+00:00"
+    },
+    {
+      "guid": "BevnetFQ54RiH3JrnER9z9",
+      "title": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
+      "url": "https://www.pcgamer.com/games/baldurs-gate/j-k-simmons-hasnt-played-baldurs-gate-3-or-any-of-his-games-but-he-loves-portal-2-i-could-have-done-the-feature-film-or-the-play-or-whatever/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T17:31:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237004056",
+      "title": "\u2018Transformers: The Movie\u2019 Getting Fall Theatrical Re-Release From Hasbro & Fathom \u2013 Comic-Con",
+      "url": "https://deadline.com/2026/07/transformers-the-movie-re-release-trailer-date-1237004056/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T17:37:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237004042",
+      "title": "\u2018Black Panther\u2019 Actor Winston Duke Reveals What He Told David Jonsson About Taking On The Iconic Role",
+      "url": "https://deadline.com/2026/07/black-panther-david-jonsson-winston-duke-1237004042/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T17:19:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821505",
+      "title": "\u2018Attack on Paradise\u2019 Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner",
+      "url": "https://variety.com/2026/film/reviews/attack-on-paradise-review-1236821505/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T17:29:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821490",
+      "title": "Gay Romance Podcast \u2018Drive Thru Magic\u2019 Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
+      "url": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-26T17:19:17+00:00"
     }
   ]
 }
