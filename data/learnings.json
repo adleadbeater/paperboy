@@ -744,36 +744,60 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000719419",
-      "title": "Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel",
-      "url": "https://kotaku.com/cyan-worlds-gives-a-look-at-what-could-have-been-a-new-myst-sequel-2000719419",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-26T22:00:09+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204260",
-      "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision",
-      "url": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T23:00:00+00:00"
-    },
-    {
-      "guid": "26USjd9YfdLeqXriNzsdmF",
-      "title": "The Legend of Zelda movie's Link actor couldn't play Breath of the Wild when it launched because he was too young: \"It might show my age\"",
-      "url": "https://www.gamesradar.com/entertainment/live-action-movies/the-legend-of-zelda-movies-link-actor-couldnt-play-breath-of-the-wild-when-it-launched-because-he-was-too-young-it-might-show-my-age/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-26T23:05:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237004136",
       "title": "Mary Beth Barone Says She & Benito Skinner Tried To \u201cGet Out\u201d Of \u2018Ride\u2019 Podcast Contract Over Dear Media CEO\u2019s Politics: \u201cHard To Reconcile That\u201d",
       "url": "https://deadline.com/2026/07/mary-beth-barone-benito-skinner-tried-get-out-podcast-contract-1237004136/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-27T00:31:37+00:00"
+    },
+    {
+      "guid": "8b73ad34-0060-401d-b03d-a42bf980abe4",
+      "title": "Rick and Morty Season 9 Finale Review & Recap: \"Field of Dreams\"",
+      "url": "https://www.ign.com/articles/rick-and-morty-season-9-finale-review-recap-field-of-dreams",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T03:30:00+00:00"
+    },
+    {
+      "guid": "99fb16f2-a132-42ef-bd1f-38e5a3e9fc86",
+      "title": "The Best GTA Missions",
+      "url": "https://www.ign.com/articles/best-gta-missions",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T03:15:00+00:00"
+    },
+    {
+      "guid": "YdQSz3uz2QMB6rn3LbqR8F",
+      "title": "Yet Another Zombie Defense HD, which is its real name, is free on Steam for a limited time",
+      "url": "https://www.pcgamer.com/games/action/yet-another-zombie-defense-hd-which-is-its-real-name-is-free-on-steam-for-a-limited-time/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T03:32:08+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1066229",
+      "title": "This Week\u2019s Japanese Game Releases: Halo: Campaign Evolved, Village in the Shade, more",
+      "url": "https://www.gematsu.com/2026/07/this-weeks-japanese-game-releases-halo-campaign-evolved-village-in-the-shade-more",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-27T03:26:58+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1062067",
+      "title": "Suika Game Planet now available for PS5, PC",
+      "url": "https://www.gematsu.com/2026/07/suika-game-planet-now-available-for-ps5-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-27T03:15:15+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1061708",
+      "title": "Suika Game now available for PS5, PC",
+      "url": "https://www.gematsu.com/2026/07/suika-game-now-available-for-ps5-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-27T03:14:18+00:00"
     }
   ]
 }
