@@ -1,41 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Kevin Feige Calls Himself a 'Gigantic Loser and Failure' Over the Collapsed Mahershala Ali Blade Movie",
-      "tag": "blade",
-      "posted_at": "2026-07-20T15:42:33.348853+00:00",
-      "urls": [
-        "https://www.ign.com/articles/marvel-studios-boss-kevin-feige-feels-like-a-gigantic-loser-and-failure-over-doomed-blade-reboot-with-mahershala-ali",
-        "https://variety.com/2026/film/news/kevin-feige-blade-reboot-failure-marvel-loser-1236816505/"
-      ],
-      "article_titles": [
-        "Marvel Studios Boss Kevin Feige Feels Like a 'Gigantic Loser and Failure' Over Doomed Blade Reboot With Mahershala Ali",
-        "Kevin Feige on Marvel\u2019s Failed \u2018Blade\u2019 Reboot: \u2018I Feel Like a Gigantic Loser and Failure That We Didn\u2019t Get Off the Ground With Mahershala Ali\u2019"
-      ]
-    },
-    {
-      "headline": "The Next Game of Thrones Game Has Been Delayed",
-      "tag": "game of thrones",
-      "posted_at": "2026-07-20T15:42:33.547845+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/the-next-game-of-thrones-game-has-been-delayed/"
-      ],
-      "article_titles": [
-        "The Next Game Of Thrones Game Has Been Delayed"
-      ]
-    },
-    {
-      "headline": "Valve Confirms No Steam Machine Exclusives as Half-Life 3 Speculation Swirls",
-      "tag": "half-life 3",
-      "posted_at": "2026-07-20T15:42:33.729399+00:00",
-      "urls": [
-        "https://kotaku.com/valve-steam-machine-exclusive-games-half-life-3-tee-hee-2000717644"
-      ],
-      "article_titles": [
-        "Valve Promises No Steam Machine Exclusives After Months Of Fan Speculation About Half-Life 3"
-      ]
-    },
-    {
       "headline": "A Judge Has Temporarily Paused the Paramount\u2013Warner Bros. Discovery Merger",
       "tag": "paramount / warner bros. discovery merger",
       "posted_at": "2026-07-20T18:01:52.267169+00:00",
@@ -612,6 +577,19 @@
       "article_titles": [
         "Xbox Servers Go Down And Lock Fans Out Of Games As A Grim Reminder Of Our All-Digital Future"
       ]
+    },
+    {
+      "headline": "The Pok\u00e9mon Company Is Using Facial Recognition to Fight Scalpers at Events",
+      "tag": "pok\u00e9mon",
+      "posted_at": "2026-07-27T16:37:08.230328+00:00",
+      "urls": [
+        "https://otakukart.com/pokemon-magikarp-cat-toy-resells-for-over-four-times-its-retail-price-amid-growing-scalping-concerns/",
+        "https://www.pcgamer.com/games/card-games/the-pokemon-company-is-turning-to-facial-recognition-scans-to-help-combat-scalpers/"
+      ],
+      "article_titles": [
+        "Pok\u00e9mon Magikarp cat toy resells for over four times its retail price amid growing scalping concerns",
+        "The Pok\u00e9mon Company is turning to facial recognition scans to help combat scalpers"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -720,6 +698,158 @@
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-07-27T14:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719494",
+      "title": "Call Of Duty: Black Ops 2 Players Are Begging People To Stop Voting For The Same Three Maps: \u2018Literally So Annoying And Borderline Unplayable\u2019",
+      "url": "https://kotaku.com/call-of-duty-black-ops-2-players-are-begging-people-to-stop-voting-for-the-same-three-maps-literally-so-annoying-and-borderline-unplayable-2000719494",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:30:54+00:00"
+    },
+    {
+      "guid": "x72wmd64LVgBeCWdCunBq9",
+      "title": "This cat-themed PC case has the best power button I've ever seen",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/this-cat-themed-pc-case-has-the-best-power-button-ive-ever-seen/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:34:54+00:00"
+    },
+    {
+      "guid": "VRhQczsWm3d4tLpQ4mqQy6",
+      "title": "Framework 13 Pro review",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/framework-13-pro-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:25:42+00:00"
+    },
+    {
+      "guid": "a6f625FJDFSYSxNkGrMCUm",
+      "title": "Blade and Magik lead as Marvel T\u014dkon's most popular characters during its beta",
+      "url": "https://www.pcgamer.com/games/fighting/blade-and-magik-lead-as-marvel-tokons-most-popular-characters-during-its-beta/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:10:41+00:00"
+    },
+    {
+      "guid": "AoLULfuNG3dYiV4Pt7VeH7",
+      "title": "The Pok\u00e9mon Company is turning to facial recognition scans to help combat scalpers",
+      "url": "https://www.pcgamer.com/games/card-games/the-pokemon-company-is-turning-to-facial-recognition-scans-to-help-combat-scalpers/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:05:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237003188",
+      "title": "Robin Schwartz Joins Liz Garbus & Dan Cogan\u2019s Story Syndicate As Head Of Scripted; Company Re-Ups Tomorrow Studios Deal",
+      "url": "https://deadline.com/2026/07/robin-schwartz-story-syndicate-head-of-scripted-1237003188/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:33:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002537",
+      "title": "\u2018The Odyssey\u2019 $90M Second Weekend A Record For Christopher Nolan; \u2018Hadestown\u2019 $10M+ Opening A Bleecker Street Record, Besting \u2018Hamilton\u2019 \u2013 Monday Box Office Update",
+      "url": "https://deadline.com/2026/07/box-office-the-odyssey-motor-city-her-private-hell-hadestown-1237002537/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:18:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237004438",
+      "title": "David Ellison \u201cConfident\u201d WBD Deal Will Close, Thanks Staffers for Continued Patience",
+      "url": "https://deadline.com/2026/07/david-ellison-confident-wbd-deal-close-thanks-staff-patience-1237004438/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:06:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821899",
+      "title": "\u2018Rose Hill\u2019 Amazon Series Casts Jake Weary, Sean O\u2019Pry, Hannah Galway, Sadie Dickerson",
+      "url": "https://variety.com/2026/tv/news/rose-hill-series-jake-weary-opry-hannah-galway-dickerson-1236821899/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:21:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821893",
+      "title": "Jay-Z Announces Additional London and Los Angeles Dates for \u2018Jay-Z 30\u2019 Concert Series",
+      "url": "https://variety.com/2026/music/news/jay-z-additional-london-los-angeles-dates-jay-z-30-series-1236821893/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:13:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821596",
+      "title": "Miley Cyrus Says She \u2018Genuinely\u2019 Wants to Act Again as She Signs With Atlantic Records and Charts Next Chapter: \u2018I\u2019d Love to Disappear Into Something Romantic\u2019",
+      "url": "https://variety.com/2026/music/news/miley-cyrus-signs-with-atlantic-records-1236821596/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:04:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657123",
+      "title": "Jesus Heads to His Crucifixion in \u2018The Chosen\u2019 Season 6 Teaser Trailer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-chosen-season-6-trailer-jesus-christ-crucifixion-1236657123/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:31:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657162",
+      "title": "Paramount CEO David Ellison Reassures Staff Amid Antitrust Suit, Says He\u2019s \u201cHighly Confident\u201d in WBD Merger Completion",
+      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-staff-memo-wbd-merger-1236657162/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:28:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657145",
+      "title": "Miley Cyrus Signs With Atlantic Records",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/miley-cyrus-atlantic-records-record-deal-1236657145/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:22:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657139",
+      "title": "\u2018Heated Rivalry\u2019 Producer Brendan Brady Backs Yukon-Set Rom-Com \u2018From Me to You\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/heated-rivalry-producer-brendan-brady-from-me-to-you-1236657139/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T16:10:43+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204296",
+      "title": "Fable PS5 Has Run 'Uncomfortably Beyond Budget', Sources Claim",
+      "url": "https://www.pushsquare.com/news/2026/07/fable-ps5-has-run-uncomfortably-beyond-budget-sources-claim",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-27T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204292",
+      "title": "The Retroid Pocket Nova Starts Shipping Tomorrow, & A Price Increase Could Already Be On The Way",
+      "url": "https://www.timeextension.com/news/2026/07/the-retroid-pocket-nova-starts-shipping-tomorrow-and-a-price-increase-could-already-be-on-the-way",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-27T16:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747641",
+      "title": "Pok\u00e9mon Magikarp cat toy resells for over four times its retail price amid growing scalping concerns",
+      "url": "https://otakukart.com/pokemon-magikarp-cat-toy-resells-for-over-four-times-its-retail-price-amid-growing-scalping-concerns/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-27T16:25:07+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747640",
+      "title": "Stop Killing Games criticizes PlayStation\u2019s shift away from discs as physical media debate intensifies",
+      "url": "https://otakukart.com/stop-killing-games-criticizes-playstations-shift-away-from-discs-as-physical-media-debate-intensifies/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-27T16:08:06+00:00"
     }
   ]
 }
