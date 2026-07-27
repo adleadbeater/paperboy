@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA Wiki Accuses Fandom of Plagiarizing Its Articles and Publishes the Evidence",
-      "tag": "fandom",
-      "posted_at": "2026-07-20T19:11:30.056509+00:00",
-      "urls": [
-        "https://kotaku.com/gta-wiki-accuses-fandom-of-ripping-off-its-articles-and-shares-evidence-we-want-everyone-to-see-how-shameless-they-are-about-it-2000717683"
-      ],
-      "article_titles": [
-        "GTA Wiki Accuses Fandom Of Ripping Off Its Articles And Shares Evidence: \u2018We Want Everyone To See How Shameless They Are About It\u2019"
-      ]
-    },
-    {
       "headline": "Jennifer English Is Leaving Tides of Annihilation After Starring in Baldur's Gate 3 and Clair Obscur",
       "tag": "tides of annihilation",
       "posted_at": "2026-07-20T20:46:09.370262+00:00",
@@ -586,6 +575,17 @@
         "[Windows Central] Fable has run \u201cUncomfortably beyond budget\u201d",
         "Fable PS5 Has Run 'Uncomfortably Beyond Budget', Sources Claim"
       ]
+    },
+    {
+      "headline": "Cyan Teased a New Myst Game for the First Time in 20 Years \u2014 Then Immediately Said It Isn't Happening",
+      "tag": "myst",
+      "posted_at": "2026-07-27T20:00:48.846919+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/adventure/cyan-releases-teaser-for-the-first-new-myst-game-in-20-years-then-breaks-the-news-that-its-not-actually-being-made/"
+      ],
+      "article_titles": [
+        "Cyan releases teaser for the first new Myst game in 20 years, then breaks the news that it's not actually being made"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -910,6 +910,70 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-27T17:45:05+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719548",
+      "title": "Pok\u00e9mon Fans Are Battling Over A Mew Card That Might Not Even Be Real",
+      "url": "https://kotaku.com/pokemon-30th-anniversary-tcg-set-mew-yoshirotten-card-2000719548",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T19:30:47+00:00"
+    },
+    {
+      "guid": "KUkPWzMvfdEHm9mXmDW6hC",
+      "title": "Cyan releases teaser for the first new Myst game in 20 years, then breaks the news that it's not actually being made",
+      "url": "https://www.pcgamer.com/games/adventure/cyan-releases-teaser-for-the-first-new-myst-game-in-20-years-then-breaks-the-news-that-its-not-actually-being-made/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T19:26:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237004655",
+      "title": "Netflix Ski Drama \u2018Queenstown\u2019 Rounds Out Series Regular Cast With Anna Baryshnikov & BeBe Orleans Among 5",
+      "url": "https://deadline.com/2026/07/netflix-queenstown-cast-anna-baryshnikov-bebe-orleans-1237004655/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T20:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237004776",
+      "title": "Amazon MGM Studios Has \u2018Mad Hatter\u2019 Animated Movie In The Works From Aniventure & \u2018The Grinch\u2019s Scott Mosier",
+      "url": "https://deadline.com/2026/07/amazon-mgm-studios-mad-hatter-1237004776/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T19:36:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821885",
+      "title": "Some Warner Bros. Execs Are Hoping States\u2019 Antitrust Lawsuit Derails Paramount Deal",
+      "url": "https://variety.com/2026/tv/news/paramount-warner-bros-execs-merger-antitrust-lawsuit-derail-1236821885/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T19:49:14+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657353",
+      "title": "Panta Mosleh\u2019s Queer Interfaith Comedy \u2018Pass the Salt\u2019 Adds to Cast (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/panta-moslehs-queer-comedy-pass-the-salt-cast-additions-1236657353/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T19:50:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657359",
+      "title": "CBS Sets Fall Dates for \u2018Marshals,\u2019 \u2018Survivor\u2019 and More",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/cbs-fall-2026-tv-premiere-dates-1236657359/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T19:31:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657381",
+      "title": "E.J. Peaker, Actress and Singer in \u2018Hello, Dolly!\u2019 and \u2018That\u2019s Life,\u2019 Dies at 82",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ej-peaker-dead-hello-dolly-thats-life-1236657381/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T19:26:13+00:00"
     }
   ]
 }
