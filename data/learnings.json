@@ -592,68 +592,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000719548",
-      "title": "Pok\u00e9mon Fans Are Battling Over A Mew Card That Might Not Even Be Real",
-      "url": "https://kotaku.com/pokemon-30th-anniversary-tcg-set-mew-yoshirotten-card-2000719548",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T19:30:47+00:00"
-    },
-    {
-      "guid": "KUkPWzMvfdEHm9mXmDW6hC",
-      "title": "Cyan releases teaser for the first new Myst game in 20 years, then breaks the news that it's not actually being made",
-      "url": "https://www.pcgamer.com/games/adventure/cyan-releases-teaser-for-the-first-new-myst-game-in-20-years-then-breaks-the-news-that-its-not-actually-being-made/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T19:26:42+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237004655",
       "title": "Netflix Ski Drama \u2018Queenstown\u2019 Rounds Out Series Regular Cast With Anna Baryshnikov & BeBe Orleans Among 5",
       "url": "https://deadline.com/2026/07/netflix-queenstown-cast-anna-baryshnikov-bebe-orleans-1237004655/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-07-27T20:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237004776",
-      "title": "Amazon MGM Studios Has \u2018Mad Hatter\u2019 Animated Movie In The Works From Aniventure & \u2018The Grinch\u2019s Scott Mosier",
-      "url": "https://deadline.com/2026/07/amazon-mgm-studios-mad-hatter-1237004776/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T19:36:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821885",
-      "title": "Some Warner Bros. Execs Are Hoping States\u2019 Antitrust Lawsuit Derails Paramount Deal",
-      "url": "https://variety.com/2026/tv/news/paramount-warner-bros-execs-merger-antitrust-lawsuit-derail-1236821885/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T19:49:14+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236657353",
-      "title": "Panta Mosleh\u2019s Queer Interfaith Comedy \u2018Pass the Salt\u2019 Adds to Cast (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/panta-moslehs-queer-comedy-pass-the-salt-cast-additions-1236657353/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T19:50:28+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236657359",
-      "title": "CBS Sets Fall Dates for \u2018Marshals,\u2019 \u2018Survivor\u2019 and More",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/cbs-fall-2026-tv-premiere-dates-1236657359/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T19:31:18+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236657381",
-      "title": "E.J. Peaker, Actress and Singer in \u2018Hello, Dolly!\u2019 and \u2018That\u2019s Life,\u2019 Dies at 82",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ej-peaker-dead-hello-dolly-thats-life-1236657381/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T19:26:13+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000719575",
@@ -822,6 +766,46 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-27T22:39:39+00:00"
+    },
+    {
+      "guid": "ed23ea1c-2ea8-48e2-a19f-23e81022f499",
+      "title": "Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T23:31:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236866545",
+      "title": "D4vd Ordered To Stand Trial For Murdering, Dismembering 14-Year-Old Girl",
+      "url": "https://deadline.com/2026/07/d4vd-plea-murder-charges-ordered-to-trial-1236866545/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T23:20:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657622",
+      "title": "Key Takeaways From Channel 5\u2019s Hunter Biden and Nick Fuentes Interview",
+      "url": "https://www.hollywoodreporter.com/news/general-news/hunter-biden-nick-fuentes-interview-key-takeaways-1236657622/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T23:40:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236655915",
+      "title": "Indie Film Grant Seeks to Help Female Directors Shoot on Celluloid",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/indie-film-grant-help-female-directors-shoot-celluloid-1236655915/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T23:27:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657620",
+      "title": "Ariana Grande Sues Over Yearslong Hacking Campaign Targeting Inner Circle",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ariana-grande-sues-over-yearslong-hacking-campaign-music-1236657620/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-27T23:18:29+00:00"
     }
   ]
 }
