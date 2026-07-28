@@ -540,150 +540,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000719771",
-      "title": "Shigeru Miyamoto Sums Up Everything Wrong With The Industry In One Sentence",
-      "url": "https://kotaku.com/shigeru-miyamoto-sums-up-everything-wrong-with-the-industry-in-one-sentence-2000719771",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T17:00:06+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000719836",
-      "title": "August\u2019s PS Plus Games Include Two Co-op Adventures Perfect For Any Group Of Friends",
-      "url": "https://kotaku.com/augusts-ps-plus-games-include-two-co-op-adventures-perfect-for-any-group-of-friends-2000719836",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T16:52:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237005406",
-      "title": "Jennifer Aniston & Peter Dinklage To Star In Olivia Wilde\u2019s \u2018Invite\u2019 Follow-Up \u2018Naughty\u2019 From Universal & LuckyChap; Release Date Set",
-      "url": "https://deadline.com/2026/07/olivia-wilde-naughty-jennifer-aniston-peter-dinklage-1237005406/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237005790",
-      "title": "Hulu Buys Animated TV Comedy Pitch \u2018Detective Agent Derek\u2019 From Nick Kreiss, Trio Big Grey Mass",
-      "url": "https://deadline.com/2026/07/detective-agent-derek-hulu-animation-pitch-big-grey-mass-1237005790/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T16:50:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236822429",
-      "title": "Venice Days Competition Title \u2018The Indies\u2019 Boarded by MoreThan Films (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/venice-days-the-indies-morethan-films-lastor-alina-1236822429/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T16:53:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821525",
-      "title": "\u2018Big Break\u2019 Review: Comedy Quartet Meets Serial-Killer Peril in an Amusing, Tongue-in-Cheek Thriller",
-      "url": "https://variety.com/2026/film/reviews/big-break-review-1236821525/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T16:52:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236822271",
-      "title": "BLacklight, Dark Star Set Wes Miller\u2019s Courtroom Thriller \u2018Wildcards\u2019 for Theatrical Tour With Post-Screening Talks",
-      "url": "https://variety.com/2026/film/news/blacklight-dark-star-wildcards-theatrical-tour-1236822271/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236658160",
-      "title": "\u2018Beauty in Black\u2019 Season 3 First Looks Show Taylor Polidore Williams Battling at Bellarie Table",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/beauty-in-black-season-3-first-looks-1236658160/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T17:05:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236658129",
-      "title": "Mitsy Sanderson Sets Tubi Series From Adam Wescott\u2019s Newly Launched Home Game Studios",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/mitsy-sanderson-this-is-a-game-show-adam-wescott-1236658129/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236657498",
-      "title": "Greta Lee Found \u2018Late Fame.\u2019 She\u2019s Not Taking It for Granted",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/greta-lee-late-fame-feature-1236657498/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T16:41:23+00:00"
-    },
-    {
-      "guid": "1833873",
-      "title": "A Cyberpunk Spin-Off Brawler Might Be Happening At WayForward \u2013 Report",
-      "url": "https://www.gamespot.com/articles/a-cyberpunk-spin-off-brawler-might-be-happening-at-wayforward-report/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T16:52:44+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204254",
-      "title": "Feature: Celebrating 30 Years of Lara Croft at Derby's Tomb Raider Exhibit",
-      "url": "https://www.pushsquare.com/features/celebrating-30-years-of-lara-croft-at-derbys-tomb-raider-exhibit",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120279",
-      "title": "One Piece x NBA Master Stars Figures Release Schedule Set",
-      "url": "https://www.siliconera.com/one-piece-x-nba-master-stars-figures-release-schedule-set/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1066648",
-      "title": "Harvest Moon: The Lost Valley / Harvest Moon: Skytree Village now available for iOS, Android",
-      "url": "https://www.gematsu.com/2026/07/harvest-moon-the-lost-valley-harvest-moon-skytree-village-now-available-for-ios-android",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T16:50:38+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=70204",
-      "title": "Extreme Survival Club! is a Japanese Tarkov-style\u00a0PvE\u00a0extraction shooter where\u00a0anime\u00a0girls battle hunger and the urge to pee",
-      "url": "https://automaton-media.com/en/news/extreme-survival-club-is-a-japanese-tarkov-style-pve-extraction-shooter-where-anime-girls-battle-hunger-and-the-urge-to-pee/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T17:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1747857",
-      "title": "Zenless Zone Zero Version 3.1 Introduces New Limited-Time Events, City Fund Rewards, and Lucy\u2019s Free Outfit",
-      "url": "https://otakukart.com/zenless-zone-zero-version-3-1-introduces-new-limited-time-events-city-fund-rewards-and-lucys-free-outfit/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T17:11:29+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=614323",
-      "title": "D&D: Five Ways To Run An Interesting Fight",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-five-ways-to-run-an-interesting-fight.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T17:00:00+00:00"
-    },
-    {
-      "guid": "t3_1v93wvg",
-      "title": "Asobo Studio has an unannounced third project in development.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v93wvg/asobo_studio_has_an_unannounced_third_project_in/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T16:45:10+00:00"
-    },
-    {
       "guid": "bc9cf012-64fe-40dc-9595-5268f12e464b",
       "title": "The 8BitDo Ultimate 2C Is One of the Best PC Gaming Controllers Under $50, and It's Less Than Half That Price",
       "url": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-july-2026",
@@ -834,6 +690,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-28T19:48:20+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204350",
+      "title": "Amidst Sony's Disc Debacle, Capcom Sales Data Is a Brutal Reality Check for Fans of Physical Media",
+      "url": "https://www.pushsquare.com/news/2026/07/amidst-sonys-disc-debacle-capcom-sales-data-is-a-brutal-reality-check-for-fans-of-physical-media",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T21:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747932",
+      "title": "Koei Tecmo says Nintendo Switch 2 ports, remasters, and major games will remain key focuses in its fiscal year plans",
+      "url": "https://otakukart.com/koei-tecmo-says-nintendo-switch-2-ports-remasters-and-major-games-will-remain-key-focuses-in-its-fiscal-year-plans/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T21:20:08+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747931",
+      "title": "Nintendo\u2019s first U.S. Pok\u00e9mon presentation revealed why Pok\u00e9mon became a global phenomenon before its U.S. debut",
+      "url": "https://otakukart.com/nintendos-first-u-s-pokemon-presentation-revealed-why-pokemon-became-a-global-phenomenon-before-its-u-s-debut/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T21:06:07+00:00"
     }
   ]
 }
