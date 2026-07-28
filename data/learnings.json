@@ -540,14 +540,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "f6c267a3-8114-435e-89a7-ad833db77c19",
-      "title": "The Iniu 10,000mAh Power Bank Will More Than Double Nintendo Switch 2 Play Time for Less Than $10",
-      "url": "https://www.ign.com/articles/the-iniu-10000mah-power-bank-will-more-than-double-nintendo-switch-2-play-time-for-less-than-10",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T19:35:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000719886",
       "title": "Everything We Know About Kingdom Hearts IV",
       "url": "https://kotaku.com/kingdom-hearts-iv-4-mobile-characters-disney-star-wars-2000719886",
@@ -556,44 +548,12 @@
       "published_dt": "2026-07-28T20:00:39+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000719879",
-      "title": "The Biggest Modding Site Around Wants To Make Installing Mods As Easy As Using Spotify",
-      "url": "https://kotaku.com/the-biggest-modding-site-around-wants-to-make-installing-mods-as-easy-as-using-spotify-2000719879",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T19:45:08+00:00"
-    },
-    {
-      "guid": "xC27GqgemJicwrWC6Z8c6G",
-      "title": "'Only the survival of our studio would make us consider such a painful action': Tim Schafer announces Double Fine layoffs just 3 weeks after Xbox cut it loose",
-      "url": "https://www.pcgamer.com/gaming-industry/only-the-survival-of-our-studio-would-make-us-consider-such-a-painful-action-tim-schafer-announces-double-fine-layoffs-just-3-weeks-after-xbox-cut-it-loose/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T19:35:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237005824",
-      "title": "Look Out, Here Comes \u2018Spider-Man: Brand New Day\u2019: $465M WW Opening Set To Be 2nd Biggest Ever For Sony \u2013 Preview",
-      "url": "https://deadline.com/2026/07/spider-man-brand-new-day-box-office-projection-1237005824/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T19:36:04+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236822917",
       "title": "Ross Douthat, Sebastian Junger, Gianna Toboni, Trevor Phillips to Join CBS\u2019 \u201960 Minutes",
       "url": "https://variety.com/2026/tv/news/ross-douthat-sebastian-junger-gianna-toboni-cbs-60-minutes-1236822917/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-07-28T20:05:48+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236658450",
-      "title": "Richard Linklater Looks Back at \u2018Boyhood,\u2019 12 Years Later: \u201cTime Never Quits Working on Us\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/richard-linklater-boyhood-12-years-podcast-hollywood-1236658450/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T19:46:23+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1120302",
@@ -714,6 +674,54 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-28T22:35:19+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719876",
+      "title": "An Ambitious New Stardew Valley Mod Lets You Run A Supermarket With An \u2018Overcooked-Style Kitchen\u2019",
+      "url": "https://kotaku.com/an-ambitious-new-stardew-valley-mod-lets-you-run-a-supermarket-with-an-overcooked-style-kitchen-2000719876",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T23:30:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237006246",
+      "title": "\u2018The Odyssey\u2019 To Pass \u2018Oppenheimer\u2019s Lifetime B.O. In 13 Days; \u2018Hadestown\u2019 Sings $2M+ Monday \u2013 Box Office",
+      "url": "https://deadline.com/2026/07/box-office-the-odyssey-oppenheimer-record-hadestown-1237006246/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T23:35:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237006229",
+      "title": "Ari Emanuel Backs Paramount-WBD Deal In WSJ Op-Ed, Blasts States\u2019 Antitrust Lawsuit As \u201cTrash\u201d",
+      "url": "https://deadline.com/2026/07/ari-emanuel-paramount-warner-bros-discovery-merger-wsj-1237006229/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T23:16:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823009",
+      "title": "On-Set Visual Effects Workers on \u2018Star Wars\u2019 Productions Join IATSE",
+      "url": "https://variety.com/2026/artisans/news/visual-effects-workers-star-wars-productions-join-iatse-1236823009/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T23:20:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236822993",
+      "title": "Ari Emanuel Blasts States\u2019 \u2018Trash\u2019 Lawsuit Aimed at Blocking Paramount-Warner Bros. Merger, Claims It Threatens to \u2018Destroy\u2019 Competition",
+      "url": "https://variety.com/2026/film/news/ari-emanuel-lawsuit-paramount-warner-bros-merger-destroy-hollywood-1236822993/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T23:19:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236658625",
+      "title": "Lionsgate CEO Jon Feltheimer\u2019s Pay Rises to $19.4 Million in 2026",
+      "url": "https://www.hollywoodreporter.com/business/business-news/lionsgate-ceo-jon-feltheimers-pay-3-1236658625/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T23:30:04+00:00"
     }
   ]
 }
