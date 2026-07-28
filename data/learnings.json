@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Nintendo Basically Confirms Splatoon 4 Is Coming After Splatoon Raiders Reveal",
-      "tag": "splatoon",
-      "posted_at": "2026-07-21T15:20:21.784900+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/07/nintendo-all-but-confirms-that-splatoon-4-is-on-the-way",
-        "https://otakukart.com/splatoon-producer-says-splatoon-raiders-was-chosen-over-splatoon-4-to-deliver-a-standalone-single-player-experience/"
-      ],
-      "article_titles": [
-        "Nintendo All But Confirms That Splatoon 4 Is On The Way",
-        "Splatoon Producer Says Splatoon Raiders Was Chosen Over Splatoon 4 to Deliver a Standalone Single-Player Experience"
-      ]
-    },
-    {
-      "headline": "Wreckreation Is Getting a Sequel Despite a Rough Launch, Dev Forms New Studio",
-      "tag": "wreckreation",
-      "posted_at": "2026-07-21T15:20:21.873156+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/07/against-all-odds-disappointing-arcade-racer-wreckreation-is-getting-a-ps5-sequel",
-        "https://www.pcgamer.com/games/racing/developer-of-burnout-spiritual-successor-wreckreation-has-formed-a-new-studio-working-on-a-sequel/"
-      ],
-      "article_titles": [
-        "Against All Odds, Disappointing Arcade Racer Wreckreation Is Getting a PS5 Sequel",
-        "Developer of Burnout spiritual successor Wreckreation has formed a new studio working on a sequel"
-      ]
-    },
-    {
       "headline": "Spider-Man: Brand New Day's Final Trailer Delivers a Savage Hulk vs. Peter Parker Fight",
       "tag": "spider-man: brand new day",
       "posted_at": "2026-07-21T18:06:07.977906+00:00",
@@ -538,6 +512,19 @@
         "Spider-Man: Brand New Day review: \"Marvel Studios' strongest standalone outing since Avengers: Endgame\"",
         "After Months Of Secrecy, Someone May Have Finally Spoiled Sadie Sink\u2019s Spider-Man: Brand New Day Character"
       ]
+    },
+    {
+      "headline": "Wizards of the Coast President John Hight Steps Down After Just Two Years",
+      "tag": "wizards of the coast",
+      "posted_at": "2026-07-28T15:41:14.999744+00:00",
+      "urls": [
+        "https://www.eurogamer.net/wizards-of-the-coast-president-step-down",
+        "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/"
+      ],
+      "article_titles": [
+        "Wizards of the Coast president steps down after only two years in the role",
+        "John Hight steps down as president of Wizards of the Coast"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -774,6 +761,174 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-28T13:19:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/wizards-of-the-coast-president-step-down",
+      "title": "Wizards of the Coast president steps down after only two years in the role",
+      "url": "https://www.eurogamer.net/wizards-of-the-coast-president-step-down",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:15:59+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719804",
+      "title": "Spider-Man 2 Gets Free Update For Brand New Day And Marvel T\u014dkon And It\u2019s A Bit\u2026Buggy",
+      "url": "https://kotaku.com/spider-man-2-insomniac-brand-new-day-marvel-tokon-suit-2000719804",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:30:27+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719780",
+      "title": "The Blood Of Dawnwalker Director Says Sales Targets Have To Be Secondary When Designing Games",
+      "url": "https://kotaku.com/the-blood-of-dawnwalker-director-says-sales-targets-have-to-be-secondary-when-designing-games-2000719780",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:15:52+00:00"
+    },
+    {
+      "guid": "H3hBTKojQhQHFWk4eDcjPb",
+      "title": "OpenAI CEO thinks the AI singularity is already upon us and that cracking down on it wouldn't be good for humanity, because of course he does",
+      "url": "https://www.pcgamer.com/software/ai/openai-ceo-thinks-the-ai-singularity-is-already-upon-us-and-that-cracking-down-on-it-wouldnt-be-good-for-humanity-because-of-course-he-does/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:36:18+00:00"
+    },
+    {
+      "guid": "knQiY877jRDV3WFH4WvLqK",
+      "title": "Taiwanese authorities detain Nvidia employee for alleged attempt to smuggle AI chips into China",
+      "url": "https://www.pcgamer.com/hardware/taiwanese-authorities-detain-nvidia-employee-for-alleged-attempt-to-smuggle-ai-chips-into-china/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:33:31+00:00"
+    },
+    {
+      "guid": "GmqpShzyeVaS8XPVu6s3qM",
+      "title": "Corsair Cove review",
+      "url": "https://www.pcgamer.com/games/city-builder/corsair-cove-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:11:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237005043",
+      "title": "\u2018The Pitt\u2019s Shabana Azeez Set For Queer Romance \u2018Unrequited\u2019",
+      "url": "https://deadline.com/2026/07/the-pitt-shabana-azeez-to-star-unrequited-romance-1237005043/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:38:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237005649",
+      "title": "Judge Says Donald Trump Can Amend Complaint In Defamation Lawsuit Against The New York Times",
+      "url": "https://deadline.com/2026/07/trump-new-york-times-lawsuit-the-apprentice-1237005649/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:21:03+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236822474",
+      "title": "Rick Moranis Ended Acting Retirement After Nearly 30 Years and Says \u2018It Was Very Strange\u2019 on \u2018Spaceballs 2\u2019 Set: \u2018I Felt Like I Was in a Time Warp\u2019",
+      "url": "https://variety.com/2026/film/news/rick-moranis-acting-retirement-spaceballs-2-strange-1236822474/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:35:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236658099",
+      "title": "HBO Max Dips Toe Into Vertical Video With \u2018HBO Max Shorts\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-max-shorts-vertical-video-new-ai-driven-features-1236658099/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T15:23:29+00:00"
+    },
+    {
+      "guid": "GsKZmgvisNenFDzpzEd7Ue",
+      "title": "The amazing Avengers: Doomsday action figures are already selling out despite pre-orders only just starting",
+      "url": "https://www.gamesradar.com/toys-collectibles/the-amazing-avengers-doomsday-action-figures-are-already-selling-out-despite-pre-orders-only-just-starting/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:08:11+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204331",
+      "title": "Japan Studio Couldn't Keep Up with Sony's Push for Games That Would 'Drive Hardware Sales'",
+      "url": "https://www.pushsquare.com/news/2026/07/japan-studio-couldnt-keep-up-with-sonys-push-for-games-that-would-drive-hardware-sales",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-203786",
+      "title": "Guide: Halo Campaign Evolved Guide: 100% Collectibles Walkthrough",
+      "url": "https://www.pushsquare.com/guides/halo-campaign-evolved-guide-100percent-collectibles-walkthrough",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204338",
+      "title": "\"You Might As Well Play On A Raspberry Pi\" - The World Of MiSTer FPGA Remains Divided Over \"AI Slop\" Cores",
+      "url": "https://www.timeextension.com/news/2026/07/you-might-as-well-play-on-a-raspberry-pi-the-world-of-mister-fpga-remains-divided-over-ai-slop-cores",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1066461",
+      "title": "The Immortal John Triptych launches August 27",
+      "url": "https://www.gematsu.com/2026/07/the-immortal-john-triptych-launches-august-27",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:13:08+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1066618",
+      "title": "9 R.I.P. sequel launches October 27 in the west",
+      "url": "https://www.gematsu.com/2026/07/9-rip-sequel-launches-october-27-in-the-west",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:09:59+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747829",
+      "title": "Final Fantasy XIV Becomes the Largest Nintendo Switch 2 Game Yet With 117.2 GB Download Size",
+      "url": "https://otakukart.com/final-fantasy-xiv-becomes-the-largest-nintendo-switch-2-game-yet-with-117-2-gb-download-size/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:38:09+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747828",
+      "title": "Shigeru Miyamoto Says He Mostly Plays Games With His Grandchildren, Even Helping Them Beat Captain Toad Bosses",
+      "url": "https://otakukart.com/shigeru-miyamoto-says-he-mostly-plays-games-with-his-grandchildren-even-helping-them-beat-captain-toad-bosses/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:27:08+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747827",
+      "title": "Pok\u00e9mon Pokopia Bubbly Basin DLC Reportedly Leaks August 5 Release Date Ahead of Official Announcement",
+      "url": "https://otakukart.com/pokemon-pokopia-bubbly-basin-dlc-reportedly-leaks-august-5-release-date-ahead-of-official-announcement/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:18:08+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747826",
+      "title": "Pocketpair Head of Communications Says \u201cPalworld Isn\u2019t a Live Service Anyway,\u201d Confirms It Has No Planned End-of-Service Shutdown",
+      "url": "https://otakukart.com/pocketpair-head-of-communications-says-palworld-isnt-a-live-service-anyway-confirms-it-has-no-planned-end-of-service-shutdown/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:18:06+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1746237",
+      "title": "16 Supernatural Anime Everyone Should Watch at Least Once",
+      "url": "https://otakukart.com/16-supernatural-anime-everyone-should-watch-at-least-once/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T15:13:56+00:00"
     }
   ]
 }
