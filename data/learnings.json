@@ -592,38 +592,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "ed23ea1c-2ea8-48e2-a19f-23e81022f499",
-      "title": "Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026",
-      "url": "https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T23:31:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236866545",
-      "title": "D4vd Ordered To Stand Trial For Murdering, Dismembering 14-Year-Old Girl",
-      "url": "https://deadline.com/2026/07/d4vd-plea-murder-charges-ordered-to-trial-1236866545/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T23:20:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236657622",
-      "title": "Key Takeaways From Channel 5\u2019s Hunter Biden and Nick Fuentes Interview",
-      "url": "https://www.hollywoodreporter.com/news/general-news/hunter-biden-nick-fuentes-interview-key-takeaways-1236657622/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T23:40:52+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236655915",
-      "title": "Indie Film Grant Seeks to Help Female Directors Shoot on Celluloid",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/indie-film-grant-help-female-directors-shoot-celluloid-1236655915/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-27T23:27:56+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236655439",
       "title": "Jay Leno Set for Burbank Film Fest Honor, Live \u2018Awards Chatter\u2019 Podcast (Exclusive)",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/jay-leno-burbank-film-fest-honor-awards-chatter-podcast-1236655439/",
@@ -638,6 +606,30 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-07-28T02:55:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237005340",
+      "title": "Tom Holland Says \u2018Spider-Man: Brand New Day\u2019 Is \u201cMore Mature\u201d & Why Film \u201cIs Incredibly Relatable To Young People\u201d",
+      "url": "https://deadline.com/2026/07/tom-holland-spider-man-brand-new-day-mature-film-1237005340/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T03:50:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657698",
+      "title": "Robert Downey Jr.\u2019s Doctor Doom Voice Gave \u2018Avengers: Doomsday\u2019 Directors \u201cChills\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-downey-jr-doctor-doom-voice-russo-brothers-chills-1236657698/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T03:49:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657709",
+      "title": "Netflix Sets Launch Date for Lee Chang-dong\u2019s Awards Hopeful \u2018Possible Love\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-lee-chang-dong-possible-love-release-date-1236657709/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T03:44:45+00:00"
     }
   ]
 }
