@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Spider-Man: Brand New Day's Final Trailer Delivers a Savage Hulk vs. Peter Parker Fight",
-      "tag": "spider-man: brand new day",
-      "posted_at": "2026-07-21T18:06:07.977906+00:00",
-      "urls": [
-        "https://kotaku.com/spider-man-brand-new-day-trailer-hulk-fight-mj-peter-2000718085",
-        "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-final-trailer/"
-      ],
-      "article_titles": [
-        "The Hulk Whoops Spider-Man\u2019s Ass In Final Brand New Day Trailer",
-        "Final Spider-Man: Brand New Day trailer takes emotional rewind through first three MCU films before delivering a Peter and MJ gut punch and extended Savage Hulk fight"
-      ]
-    },
-    {
       "headline": "Xbox's Newly Hired VP Is Already Out After Just Three Months",
       "tag": "xbox",
       "posted_at": "2026-07-21T19:57:46.058978+00:00",
@@ -525,43 +512,33 @@
         "Wizards of the Coast president steps down after only two years in the role",
         "John Hight steps down as president of Wizards of the Coast"
       ]
+    },
+    {
+      "headline": "Double Fine, Studio Behind Psychonauts 2, Hit With Layoffs as Xbox Divests",
+      "tag": "double fine productions",
+      "posted_at": "2026-07-28T18:51:57.622582+00:00",
+      "urls": [
+        "https://kotaku.com/double-fine-lays-off-employees-amid-xbox-separation-2000719885"
+      ],
+      "article_titles": [
+        "Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox"
+      ]
+    },
+    {
+      "headline": "Mike Flanagan in Talks to EP Henry Cavill's Warhammer 40,000 TV Series at Amazon MGM",
+      "tag": "warhammer 40,000",
+      "posted_at": "2026-07-28T18:51:57.738521+00:00",
+      "urls": [
+        "https://deadline.com/2026/07/warhammer-40000-mike-flanagan-henry-cavill-1237005829/"
+      ],
+      "article_titles": [
+        "Mike Flanagan In Talks To EP Amazon MGM Studios Henry Cavill \u2018Warhammer 40,000\u2019 TV Series"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000719752",
-      "title": "Live-Action Link Actor Didn\u2019t Play Zelda: Breath Of The Wild At Launch Because He Was Only Eight Years Old: \u2018I Was Watching Playthroughs\u2019",
-      "url": "https://kotaku.com/live-action-link-actor-didnt-play-zelda-breath-of-the-wild-at-launch-because-he-was-only-eight-years-old-i-was-watching-playthroughs-2000719752",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T13:22:12+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236822514",
-      "title": "Bangkok International Content Market Bows With Strong Debut, Logs Over $65 Million in Deals",
-      "url": "https://variety.com/2026/film/news/bangkok-international-content-market-bicm2026-debut-1236822514/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T13:22:12+00:00"
-    },
-    {
-      "guid": "e7VLA3SjrfNSEDEATw5jMc",
-      "title": "Wingspan Pocket is faster and sharper than the original board game, and I think it may even be better",
-      "url": "https://www.gamesradar.com/games/board-games/wingspan-pocket-is-faster-and-sharper-than-the-original-board-game-and-i-think-it-may-even-be-better/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T13:20:02+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/",
-      "title": "John Hight steps down as president of Wizards of the Coast",
-      "url": "https://www.enworld.org/threads/john-hight-steps-down-as-president-of-wizards-of-the-coast.720064/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T13:19:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/wizards-of-the-coast-president-step-down",
       "title": "Wizards of the Coast president steps down after only two years in the role",
@@ -873,6 +850,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-28T16:45:10+00:00"
+    },
+    {
+      "guid": "bc9cf012-64fe-40dc-9595-5268f12e464b",
+      "title": "The 8BitDo Ultimate 2C Is One of the Best PC Gaming Controllers Under $50, and It's Less Than Half That Price",
+      "url": "https://www.ign.com/articles/8bitdo-ultimate-2c-pc-gaming-controller-deal-july-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T18:20:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000719885",
+      "title": "Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox",
+      "url": "https://kotaku.com/double-fine-lays-off-employees-amid-xbox-separation-2000719885",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T18:41:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237005594",
+      "title": "\u2018Oh, Mary!\u2019 Back To Sell-Out With Meg Stalter; \u2018Ragtime\u2019 Breaks House Record With $1.6M Gross \u2013 Broadway Box Office",
+      "url": "https://deadline.com/2026/07/broadway-box-office-oh-mary-meg-stalter-ragtime-1237005594/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T18:45:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237005829",
+      "title": "Mike Flanagan In Talks To EP Amazon MGM Studios Henry Cavill \u2018Warhammer 40,000\u2019 TV Series",
+      "url": "https://deadline.com/2026/07/warhammer-40000-mike-flanagan-henry-cavill-1237005829/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T18:25:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237005864",
+      "title": "Amazon Developing Half-Hour Marriage Comedy From Atsuko Okatsuka & Josh Rabinowitz; Hiro Murai And Ramy Youssef Among EPs",
+      "url": "https://deadline.com/2026/07/atsuko-okatsuka-tv-series-amazon-development-1237005864/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T18:24:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236658413",
+      "title": "Penske Media Sued by Hollywood Foreign Press Association Over Golden Globes Buy",
+      "url": "https://www.hollywoodreporter.com/business/business-news/penske-media-sued-hollywood-foreign-press-golden-globes-1236658413/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-28T18:39:40+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204347",
+      "title": "Earn Some Crazy Money Early by Testing the New Crazy Taxi on PS5",
+      "url": "https://www.pushsquare.com/news/2026/07/earn-some-crazy-money-early-by-testing-the-new-crazy-taxi-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1066667",
+      "title": "Xbox announces Gamescom 2026 plans",
+      "url": "https://www.gematsu.com/2026/07/xbox-announces-gamescom-2026-plans",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T18:39:57+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=614590",
+      "title": "D&D\u2019s Vampire The Masquerade Crossover, \u2018Bound By Blood\u2019 Arises Today",
+      "url": "https://www.belloflostsouls.net/2026/07/dds-vampire-the-masquerade-crossover-bound-by-blood-arises-today.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-28T18:31:26+00:00"
     }
   ]
 }
