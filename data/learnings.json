@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Duskbloods closed network test registration is now open",
-      "tag": "the duskbloods",
-      "posted_at": "2026-07-22T19:12:01.557972+00:00",
-      "urls": [
-        "https://www.siliconera.com/closed-the-duskbloods-network-test-registration-opens/",
-        "https://www.siliconera.com/closed-the-duskbloods-network-test-registration-opens/"
-      ],
-      "article_titles": [
-        "Closed The Duskbloods Network Test Registration Opens",
-        "Closed The Duskbloods Network Test Registration Opens"
-      ]
-    },
-    {
       "headline": "Japan's Patent Office Rejected Nintendo's Palworld Lawsuit Patent With Unprecedented Sass",
       "tag": "palworld",
       "posted_at": "2026-07-22T21:31:31.414564+00:00",
@@ -501,27 +488,24 @@
         "Crunchyroll Announces First Streaming Bundle for U.S. Subscribers",
         "Crunchyroll Pacts With Starz for Streaming Bundle"
       ]
+    },
+    {
+      "headline": "A Decades-Old Blizzard Bug Is Spawning Hidden Underground Enemies and Killing WoW Classic Hardcore Characters",
+      "tag": "world of warcraft classic",
+      "posted_at": "2026-07-29T19:17:12.789985+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/wow-classic-hardcore-players-are-being-terrorized-by-hidden-underground-enemies/",
+        "https://www.pcgamer.com/games/world-of-warcraft/wow-classics-latest-patch-is-terrorizing-hardcore-players-with-bugged-piles-of-underground-enemies-and-its-likely-due-to-a-decades-old-quirk-of-blizzard-programming/"
+      ],
+      "article_titles": [
+        "WoW Classic Hardcore Players Are Being Terrorized By Hidden Underground Enemies",
+        "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000720196",
-      "title": "Silent Hill: Townfall Tackles The Scariest Subject Of Them All: Healthcare",
-      "url": "https://kotaku.com/silent-hill-townfall-tackles-the-scariest-subject-of-them-all-healthcare-2000720196",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:00:12+00:00"
-    },
-    {
-      "guid": "h5kfbYEbyDJ8GCi6wTdq5B",
-      "title": "RAM prices be damned, SK hynix's record-breaking $55.6 billion quarter still failed to meet investors' wild AI expectations",
-      "url": "https://www.pcgamer.com/hardware/memory/ram-prices-be-damned-sk-hynixs-record-breaking-usd55-6-billion-quarter-still-failed-to-meet-investors-wild-ai-expectations/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:01:37+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237012203",
       "title": "Jared Leto Denies Criminal Sexual Conduct: \u201cI Have Never Sexually Assaulted Anyone\u201d",
@@ -531,148 +515,12 @@
       "published_dt": "2026-07-29T15:25:23+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237008292",
-      "title": "Crunchyroll And Starz Launch Bundle On Prime Video",
-      "url": "https://deadline.com/2026/07/crunchyroll-starz-bundle-prime-video-1237008292/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:02:15+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236823423",
-      "title": "Starz and Crunchyroll Team for Discounted Bundle on Amazon\u2019s Prime Video",
-      "url": "https://variety.com/2026/tv/news/starz-crunchyroll-discounted-bundle-prime-video-1236823423/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:02:07+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236822695",
-      "title": "Elf Lyons Brings Solo Show \u2018The Woman on the Edge\u2019 to New York for Limited Run (EXCLUSIVE)",
-      "url": "https://variety.com/2026/legit/news/elf-lyons-solo-show-woman-on-the-edge-new-york-1236822695/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236659020",
-      "title": "Pop More Champagne, Knicks Fans: Gotham Sports App Is Being Shuttered",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/gotham-sports-app-shuttering-yankees-knicks-stream-on-dazn-1236659020/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:12:48+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236659090",
-      "title": "\u2018Outer Banks\u2019 Final Season Trailer: Pogues Out for Vengeance After That Major Death",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/outer-banks-season-5-trailer-pogues-jj-death-1236659090/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:10:55+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236657588",
-      "title": "Documentaries Serve as Springboard for Newest TCM Franchise (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tcm-documentaries-films-on-film-franchise-1236657588/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236659035",
-      "title": "Crunchyroll Pacts With Starz for Streaming Bundle",
-      "url": "https://www.hollywoodreporter.com/business/business-news/crunchyroll-starz-streaming-bundle-1236659035/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T15:00:00+00:00"
-    },
-    {
-      "guid": "gcmxVdu8znR6AExdNmSmUa",
-      "title": "Hideo Kojima had to wait 4 years before finally making Policenauts as Konami kept shuffling the Metal Gear dev between roles",
-      "url": "https://www.gamesradar.com/games/adventure/hideo-kojima-had-to-wait-4-years-before-finally-making-policenauts-as-konami-kept-shuffling-the-metal-gear-dev-between-roles/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:13:56+00:00"
-    },
-    {
-      "guid": "CrgmZLdbssQcUsd5hFV2G9",
-      "title": "\"Basically no one at BioWare\" knows how Dragon Age works anymore, says studio veteran, so don't expect a remaster like Mass Effect's even if one would sell \"super well\"",
-      "url": "https://www.gamesradar.com/games/dragon-age/basically-no-one-at-bioware-knows-how-dragon-age-works-anymore-says-studio-veteran-so-dont-expect-a-remaster-like-mass-effects-even-if-one-would-sell-super-well/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:07:22+00:00"
-    },
-    {
-      "guid": "HJvp2coq6uifaCxPP9wVXi",
-      "title": "Tom Holland recalls the hardest stunt of his career, says the camera didn't even pick it up: \"I didn't anticipate it hurting as much as it did\"",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/tom-holland-recalls-the-hardest-stunt-of-his-career-says-the-camera-didnt-even-pick-it-up-i-didnt-anticipate-it-hurting-as-much-as-it-did/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:02:09+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204334",
-      "title": "Feature: \"He Was Like, 'No, I Don't Want That, I Want This One'\" - LEGO Pok\u00e9mon Designers Talk Kids & Prototype Pikachus",
-      "url": "https://www.nintendolife.com/features/he-was-like-no-i-dont-want-that-i-want-this-one-lego-pokemon-designers-talk-kids-and-prototype-pikachus",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204387",
-      "title": "Dragon Ball: Sparking! Zero's Big DLC Price Finally Revealed, and It Ain't Cheap",
-      "url": "https://www.pushsquare.com/news/2026/07/dragon-ball-sparking-zeros-big-dlc-price-finally-revealed-and-it-aint-cheap",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120343",
-      "title": "Furry and Perilous Strategy Game Fuga: Melodies of Steel Goes Mobile",
-      "url": "https://www.siliconera.com/furry-and-perilous-strategy-game-fuga-melodies-of-steel-goes-mobile/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1065241",
-      "title": "Studio Reset announces neon-noir supernatural mystery adventure game The Eventide for PC",
-      "url": "https://www.gematsu.com/2026/07/studio-reset-announces-neon-noir-supernatural-mystery-adventure-game-the-eventide-for-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:00:18+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1747123",
       "title": "17 Anime That Had Fans Hooked From the Very First Episode",
       "url": "https://otakukart.com/17-anime-that-had-fans-hooked-from-the-very-first-episode/",
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-29T15:20:40+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748029",
-      "title": "Warhammer 40,000: Space Marine 2 Confrontation Update Goes Live With New PvP Maps, Enemy, and Cosmetic DLC",
-      "url": "https://otakukart.com/warhammer-40000-space-marine-2-confrontation-update-goes-live-with-new-pvp-maps-enemy-and-cosmetic-dlc/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:15:50+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1747146",
-      "title": "18 Anime Characters Almost Everyone Recognizes",
-      "url": "https://otakukart.com/18-anime-characters-almost-everyone-recognizes/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:07:43+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748028",
-      "title": "Black Myth: Wukong Became an \u201cInflection Point\u201d for China\u2019s AAA Games Industry, Says Transcend Fund Principal: \u201cInvestors who left video games are now coming back\u201d",
-      "url": "https://otakukart.com/black-myth-wukong-became-an-inflection-point-for-chinas-aaa-games-industry-says-transcend-fund-principal-investors-who-left-video-games-are-now-coming-back/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T15:03:49+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000720236",
@@ -881,6 +729,214 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-07-29T17:51:04+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720281",
+      "title": "Pok\u00e9mon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama",
+      "url": "https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T18:45:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012351",
+      "title": "Josh Bowman, Ron Perlman And Esai Morales To Star In \u2018Live 2 Die\u2019",
+      "url": "https://deadline.com/2026/07/josh-bowman-ron-perlman-esai-morales-live-2-die-1237012351/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T19:11:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012323",
+      "title": "Martha Plimpton & Silvia Dionicio To Return For Season 2 Of HBO\u2019s \u2018Task\u2019",
+      "url": "https://deadline.com/2026/07/martha-plimpton-silvia-dionicio-season-2-task-hbo-return-1237012323/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012513",
+      "title": "Madeline Brewer, Emory Cohen and Nicholas Alexander Chavez Join Paramount Pic \u2018Possession\u2019",
+      "url": "https://deadline.com/2026/07/madeline-brewer-nicholas-alexander-chavez-possession-1237012513/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012550",
+      "title": "Everything We Know About \u2018Outer Banks\u2019 Season 5 So Far",
+      "url": "https://deadline.com/feature/outer-banks-season-5-news-updates-everything-we-know-1237012550/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T18:45:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012540",
+      "title": "Richard Pryor Pic Based On Daughter Elizabeth Stordeur Pryor\u2019s Memoir \u2018Something We Said\u2019 In Works From Latigo Films, Inaugural Entertainment",
+      "url": "https://deadline.com/2026/07/richard-pryor-movie-elizabeth-stordeur-pryor-in-works-1237012540/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T18:44:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823659",
+      "title": "Cinema United Chief Michael O\u2019Leary Blasts Paramount Warner Bros. Deal, Endorses Litigation to Delay Merger",
+      "url": "https://variety.com/2026/film/news/cinema-united-chief-michael-oleary-blasts-paramount-warner-bros-deal-1236823659/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T19:10:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823635",
+      "title": "Jason Cloth, \u2018Babylon\u2019 and \u2018Joker\u2019 Financier, Indicted in Alleged $100 Million Ponzi Scheme",
+      "url": "https://variety.com/2026/film/news/jason-cloth-babylon-joker-financier-indicted-ponzi-scheme-1236823635/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T19:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823656",
+      "title": "\u2018A Star Is Born\u2019 Producer Lynette Howell Taylor Re-Elected Academy President",
+      "url": "https://variety.com/2026/film/awards/lynette-howell-taylor-academy-president-reelected-1236823656/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659320",
+      "title": "Lynette Howell Taylor Re-Elected President of Film Academy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/lynette-howell-taylor-re-elected-president-of-film-academy-1236659320/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659222",
+      "title": "Olivia Wilde Celebrates Audiences \u201cBreaking Out of Their Boxes\u201d to Accept Age Gap Romances on Film",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/olivia-wilde-age-gap-romance-i-want-your-sex-1236659222/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T18:59:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659369",
+      "title": "\u2018Love Island USA\u2019 Cast Member TJ Palma Signs With CAA (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/love-island-usas-tj-palma-1236659369/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T18:52:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659315",
+      "title": "Harlan Coben on Bringing \u2018Myron Bolitar\u2019 to Netflix: \u201cIt\u2019s Been Really Heady\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/harlan-coben-myron-bolitar-netflix-filming-1236659315/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T18:45:00+00:00"
+    },
+    {
+      "guid": "5nE5inLjxPBqGXbB5RFZ5N",
+      "title": "Nintendo legend Shigeru Miyamoto says PCs were once \"held in higher regard than consoles,\" so the NES was made to bridge \"the gap\" \u2013 \"It wasn't just a toy\"",
+      "url": "https://www.gamesradar.com/hardware/nintendo-legend-shigeru-miyamoto-says-pcs-were-once-held-in-higher-regard-than-consoles-so-the-nes-was-made-to-bridge-the-gap-it-wasnt-just-a-toy/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T19:00:00+00:00"
+    },
+    {
+      "guid": "1835517",
+      "title": "EA CEO Got A Huge Pay Increase While Company Laid Off Devs",
+      "url": "https://www.gamespot.com/articles/ea-ceo-got-a-huge-pay-increase-while-company-laid-off-devs/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T19:11:10+00:00"
+    },
+    {
+      "guid": "1835550",
+      "title": "WoW Classic Hardcore Players Are Being Terrorized By Hidden Underground Enemies",
+      "url": "https://www.gamespot.com/articles/wow-classic-hardcore-players-are-being-terrorized-by-hidden-underground-enemies/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:49:04+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204397",
+      "title": "One of Steam's Biggest New RPGs Is Officially Getting a PS5 Version",
+      "url": "https://www.pushsquare.com/news/2026/07/one-of-steams-biggest-new-rpgs-is-officially-getting-a-ps5-version",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120366",
+      "title": "Pokemon Pokopia Feebas and Milotic Event Announced",
+      "url": "https://www.siliconera.com/pokemon-pokopia-feebas-and-milotic-event-announced/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T19:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748072",
+      "title": "Koo Kyo Hwan\u2019s Upcoming Action-Fantasy Film \u201cRevival Man: The Red\u201d Reveals Theatrical Release Plans and Amazing First Poster",
+      "url": "https://otakukart.com/koo-kyo-hwans-upcoming-action-fantasy-film-revival-man-the-red-reveals-theatrical-release-plans-and-captivating-first-poster/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T19:00:12+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748080",
+      "title": "BTOB\u2019s Seo Eunkwang Announces Solo Comeback with New Single Album \u201cOUR YOUTH\u201d",
+      "url": "https://otakukart.com/btobs-seo-eunkwang-announces-solo-comeback-with-new-single-album-our-youth/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:57:43+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748082",
+      "title": "Jay Park to Hold \u2018THE REPLAY\u2019 World Tour Encore Concert in Seoul This August",
+      "url": "https://otakukart.com/jay-park-to-hold-the-replay-world-tour-encore-concert-in-seoul-this-august/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:55:09+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748076",
+      "title": "iKON\u2019s Koo Jun-hoe Formally Announces Upcoming Active-Duty Military Enlistment",
+      "url": "https://otakukart.com/ikons-koo-jun-hoe-formally-announces-upcoming-active-duty-military-enlistment/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:52:40+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748074",
+      "title": "ZEROBASEONE\u2019s Kim Ji Woong to Partially Sit Out Group Activities Due to Scheduling Conflicts",
+      "url": "https://otakukart.com/zerobaseones-kim-ji-woong-to-partially-sit-out-group-activities-due-to-scheduling-conflicts/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:48:44+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748068",
+      "title": "JYP Entertainment Announces Temporary Hiatus for NiziU\u2019s Rio Ahead of Anticipated Korean Comeback",
+      "url": "https://otakukart.com/jyp-entertainment-announces-temporary-hiatus-for-nizius-rio-ahead-of-anticipated-korean-comeback/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:45:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748070",
+      "title": "Upcoming Romantic Drama \u201cFine, Let\u2019s Get Divorced\u201d Reveals Premiere Date and Star-Studded Supporting Cast",
+      "url": "https://otakukart.com/upcoming-romantic-drama-fine-lets-get-divorced-unveils-premiere-date-and-star-studded-supporting-cast/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T18:43:32+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=614657",
+      "title": "D&D: Sirius Dice Revisits A Classic With Minis Inspired By The \u201983 Red Box Basic Set",
+      "url": "https://www.belloflostsouls.net/2026/07/dd-sirius-dice-revisits-a-classic-with-minis-inspired-by-the-83-red-box-basic-set.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T19:08:49+00:00"
     }
   ]
 }
