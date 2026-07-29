@@ -507,86 +507,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000720236",
-      "title": "Katy Perry Trapped In Large Plastic Bottle During Recent Concert",
-      "url": "https://kotaku.com/katy-perry-trapped-in-large-plastic-bottle-during-recent-concert-2000720236",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T16:45:06+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000720191",
-      "title": "A Production Assistant\u2019s Heroic Performance During This Week\u2019s Game Changer Is A Beautiful Lesson In \u2018Do It Scared\u2019",
-      "url": "https://kotaku.com/game-changer-season-8-episode-6-production-assistant-heroic-performance-2000720191",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T16:30:00+00:00"
-    },
-    {
-      "guid": "MdSMbCP354rReAXgn46aC",
-      "title": "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-classics-latest-patch-is-terrorizing-hardcore-players-with-bugged-piles-of-underground-enemies-and-its-likely-due-to-a-decades-old-quirk-of-blizzard-programming/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T16:39:12+00:00"
-    },
-    {
-      "guid": "bM7f4Gf85wdQ4WCZH26tUe",
-      "title": "Silent Hill: Townfall takes place in 'the perfect storm'\u2014a remote Scottish town that stands on the edge of the age of the internet",
-      "url": "https://www.pcgamer.com/games/horror/silent-hill-townfall-takes-place-in-the-perfect-storm-a-remote-scottish-town-that-stands-on-the-edge-of-the-age-of-the-internet/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T16:38:19+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237012265",
-      "title": "Billy Zane, John Billingsley, Scottie Thompson & Bonnie Root\u00a0Set For Philippe Caland\u2019s Neo Noir Thriller\u00a0\u2018Milliseconds\u2019",
-      "url": "https://deadline.com/2026/07/billy-zane-philippe-caland-neonoir-thriller-milliseconds-1237012265/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T16:31:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236821755",
-      "title": "Bruce Campbell to Bring \u2018Ernie & Emma\u2019 on Nationwide Alamo Drafthouse Tour This Fall (EXCLUSIVE) \u2013 Film News in Brief",
-      "url": "https://variety.com/2026/film/news/film-news-in-brief-july-27-2026-1236821755/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T16:46:33+00:00"
-    },
-    {
-      "guid": "ehAJ2WVdN6dcwLiQAmepig",
-      "title": "Project Zomboid's biggest update is here, so I gave my incompatible save the apocalyptic send-off it deserved",
-      "url": "https://www.gamesradar.com/games/rpg/project-zomboids-biggest-update-is-here-so-i-gave-my-incompatible-save-the-apocalyptic-send-off-it-deserved/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T16:31:35+00:00"
-    },
-    {
-      "guid": "Xctg6mBGsSjoLtQz3Ak3K6",
-      "title": "GamesRadar+ readers voted on how much the Steam Frame should cost, and I'm worried Valve will see the results",
-      "url": "https://www.gamesradar.com/hardware/vr/gamesradar-readers-voted-on-how-much-the-steam-frame-should-cost-and-im-worried-valve-will-see-the-results/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T16:31:31+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204388",
-      "title": "Pok\u00e9mon Pokopia's Next Limited-Time In-Game Event Will Make A Splash Next Month",
-      "url": "https://www.nintendolife.com/news/2026/07/pokemon-pokopias-next-limited-time-in-game-event-will-make-a-splash-next-month",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204394",
-      "title": "Early Data Suggests Unspectacular Start for Halo on PS5",
-      "url": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T16:45:00+00:00"
-    },
-    {
       "guid": "eab06ea5-c98e-475f-8d74-c1fa1e2045e1",
       "title": "Today\u2019s Top Deals: Pok\u00e9mon TCG Booster Bundles, LEGO Eevee, and Death Stranding 2 for PS5",
       "url": "https://www.ign.com/articles/best-deals-for-july-29-2026",
@@ -945,6 +865,86 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-07-29T20:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720316",
+      "title": "Xbox Revenue Dropped $1.7 Billion Last Year",
+      "url": "https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T21:01:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012661",
+      "title": "Megan Moroney Ends Denver Show Early Amid Illness: \u201cI\u2019m Truly So Sorry\u201d",
+      "url": "https://deadline.com/2026/07/megan-moroney-ends-denver-show-early-illness-1237012661/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T21:20:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012628",
+      "title": "Fox News Tops July Cable News Ratings While CNN And MS NOW Make Gains Vs. 2025",
+      "url": "https://deadline.com/2026/07/cable-news-ratings-july-2026-fox-news-ms-now-cnn-1237012628/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T21:04:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012631",
+      "title": "Everything We Know About Gina Prince-Bythewood\u2019s \u2018Children Of Blood And Bone\u2019 Movie So Far",
+      "url": "https://deadline.com/feature/children-of-blood-and-bone-movie-news-updates-adaptation-1237012631/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T21:02:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823734",
+      "title": "\u2018Children of Blood and Bone\u2019 Author Tomi Adeyemi Left Film\u2019s Set \u2018Sobbing,\u2019 Calls It the \u2018Worst Thing I\u2019ve Had to Live Through\u2019 and \u2018I Never Want to Hear About It Again\u2019",
+      "url": "https://variety.com/2026/film/news/children-blood-bone-tomi-adeyemi-film-set-sobbing-1236823734/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T20:59:14+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659456",
+      "title": "\u2018The Man Will Burn\u2019 and the Battle Beneath Burning Man\u2019s Chaos",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-man-will-burn-burning-man-documentary-hbo-max-1236659456/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T21:15:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659466",
+      "title": "Amanda Ip, Jay Baruchel, Ciara Bravo and Kevin Durand to Star Opposite Alan Ritchson in \u2018Reacher\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/reacher-season-five-new-cast-alan-ritchson-premiere-date-1236659466/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T21:08:03+00:00"
+    },
+    {
+      "guid": "1835635",
+      "title": "Halo: Campaign Evolved On PC Has A Hidden Feature You Need A Mod To Access",
+      "url": "https://www.gamespot.com/articles/halo-campaign-evolved-on-pc-has-a-hidden-feature-you-need-a-mod-to-access/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T21:12:31+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120381",
+      "title": "Naruto Card Game Trailers and Event Appearance Schedule Shared",
+      "url": "https://www.siliconera.com/naruto-card-game-trailers-and-event-appearance-schedule-shared/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T21:00:00+00:00"
+    },
+    {
+      "guid": "t3_1va911i",
+      "title": "Leaked Gameplay of Marvel Tokon's Arcadia Rumble Mode",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1va911i/leaked_gameplay_of_marvel_tokons_arcadia_rumble/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T21:04:11+00:00"
     }
   ]
 }
