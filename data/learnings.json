@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox's Newly Hired VP Is Already Out After Just Three Months",
-      "tag": "xbox",
-      "posted_at": "2026-07-21T19:57:46.058978+00:00",
-      "urls": [
-        "https://kotaku.com/new-xbox-vp-helping-ceo-with-our-most-complex-product-and-engineering-problems-is-already-leaving-three-months-later-2000718135"
-      ],
-      "article_titles": [
-        "New Xbox VP Helping CEO With \u2018Our Most Complex Product And Engineering Problems\u2019 Is Already Leaving Three Months Later"
-      ]
-    },
-    {
-      "headline": "Darkest Dungeon Is Getting a Surprise DLC That Brings Darkest Dungeon 2 Content to the Original",
-      "tag": "darkest dungeon",
-      "posted_at": "2026-07-21T20:30:44.405330+00:00",
-      "urls": [
-        "https://kotaku.com/darkest-dungeon-first-dlc-six-years-2000718098"
-      ],
-      "article_titles": [
-        "Darkest Dungeon Is Getting Darkest Dungeon 2 Content In A Surprise DLC Release"
-      ]
-    },
-    {
       "headline": "Xbox Backward Compatibility Is Coming to PC Starting With Four Games",
       "tag": "xbox",
       "posted_at": "2026-07-22T15:19:57.513385+00:00",
@@ -534,43 +512,22 @@
       "article_titles": [
         "Mike Flanagan In Talks To EP Amazon MGM Studios Henry Cavill \u2018Warhammer 40,000\u2019 TV Series"
       ]
+    },
+    {
+      "headline": "Pok\u00e9mon Pokopia's 'Bubbly Basin' Expansion Pass Gets a Switch 2 Release Date",
+      "tag": "pok\u00e9mon",
+      "posted_at": "2026-07-29T03:57:42.302969+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/07/pokemon-pokopia-bubbly-basin-expansion-pass-dlc-locks-in-switch-2-release-date"
+      ],
+      "article_titles": [
+        "Pok\u00e9mon Pokopia 'Bubbly Basin' Expansion Pass DLC Locks In Switch 2 Release Date"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.pushsquare.com/#article-204349",
-      "title": "Newly Independent Double Fine Has to Lay Off 23 Devs to Ensure Survival of the Studio",
-      "url": "https://www.pushsquare.com/news/2026/07/newly-independent-double-fine-has-to-lay-off-23-devs-to-ensure-survival-of-the-studio",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-28T23:30:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000719876",
-      "title": "An Ambitious New Stardew Valley Mod Lets You Run A Supermarket With An \u2018Overcooked-Style Kitchen\u2019",
-      "url": "https://kotaku.com/an-ambitious-new-stardew-valley-mod-lets-you-run-a-supermarket-with-an-overcooked-style-kitchen-2000719876",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T23:30:31+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237006246",
-      "title": "\u2018The Odyssey\u2019 To Pass \u2018Oppenheimer\u2019s Lifetime B.O. In 13 Days; \u2018Hadestown\u2019 Sings $2M+ Monday \u2013 Box Office",
-      "url": "https://deadline.com/2026/07/box-office-the-odyssey-oppenheimer-record-hadestown-1237006246/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T23:35:41+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236658625",
-      "title": "Lionsgate CEO Jon Feltheimer\u2019s Pay Rises to $19.4 Million in 2026",
-      "url": "https://www.hollywoodreporter.com/business/business-news/lionsgate-ceo-jon-feltheimers-pay-3-1236658625/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-28T23:30:04+00:00"
-    },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236658714",
       "title": "Noah Kahan Slams Trump\u2019s Use of His Song and Vows He\u2019d \u201cNever Approve\u201d",
@@ -594,6 +551,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-29T03:13:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237006368",
+      "title": "Noah Kahan Calls Out Donald Trump\u2019s Administration For Using \u201cAmerican Cars\u201d Song In White House Social Media Post",
+      "url": "https://deadline.com/2026/07/noah-kahan-donald-trump-american-cars-song-white-house-1237006368/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-29T03:32:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204354",
+      "title": "Pok\u00e9mon Pokopia 'Bubbly Basin' Expansion Pass DLC Locks In Switch 2 Release Date",
+      "url": "https://www.nintendolife.com/news/2026/07/pokemon-pokopia-bubbly-basin-expansion-pass-dlc-locks-in-switch-2-release-date",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-29T03:30:00+00:00"
     }
   ]
 }
