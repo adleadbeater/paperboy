@@ -1,35 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Halo: Campaign Evolved Reviews Are Here \u2014 Critics Call It Pure But Safe",
-      "tag": "halo: campaign evolved",
-      "posted_at": "2026-07-23T15:29:52.965070+00:00",
-      "urls": [
-        "https://kotaku.com/12-things-to-know-before-playing-halo-campaign-evolved-2000718542",
-        "https://kotaku.com/halo-campaign-evolved-remake-ce-ps5-pro-xbox-kotaku-review-2000718494",
-        "https://www.pcgamer.com/games/halo/campaign-evolved-grunt-birthday-party-location/",
-        "https://www.pcgamer.com/games/halo/campaign-evolved-bonus-missions-campaign/",
-        "https://www.pcgamer.com/games/halo/campaign-evolved-third-person-perspective/",
-        "https://www.pcgamer.com/games/halo/halo-campaign-evolved-review/",
-        "https://www.pcgamer.com/hardware/handheld-gaming-pcs/i-would-only-play-halo-campaign-evolved-on-handheld-with-upscaling/",
-        "https://www.gamesradar.com/games/halo/halo-campaign-evolved-how-long-length/",
-        "https://www.gamesradar.com/games/halo/halo-campaign-evolved-review/",
-        "https://www.gamesradar.com/games/halo/halo-campaign-evolved-pre-load/"
-      ],
-      "article_titles": [
-        "12 Things To Know Before Playing Halo: Campaign Evolved",
-        "Halo: Campaign Evolved: The Kotaku Review",
-        "Where to find Grunt Birthday Party in Halo: Campaign Evolved",
-        "Should you play the bonus missions first in Halo: Campaign Evolved?",
-        "How to play third-person in Halo: Campaign Evolved",
-        "Halo: Campaign Evolved review",
-        "I would only play Halo: Campaign Evolved on handheld with upscaling",
-        "How long does it take to beat Halo Campaign Evolved?",
-        "Halo: Campaign Evolved review: \"An FPS in its purest form, but also a wasted opportunity for Halo Studios to put its own spin on a classic\"",
-        "Halo Campaign Evolved pre-loading times for PS5, PC, and Xbox"
-      ]
-    },
-    {
       "headline": "Xbox Is Testing Free Cloud Gaming Supported by Ads",
       "tag": "xbox",
       "posted_at": "2026-07-23T16:57:15.748393+00:00",
@@ -520,6 +491,17 @@
       ],
       "article_titles": [
         "Police Got A Username Based On Skyrim Wrong And Sent An Innocent Man To Prison: \u2018A Subtle Mistake That Changed The Course Of My Life\u2019"
+      ]
+    },
+    {
+      "headline": "Gears of War: E-Day multiplayer will let you earn almost everything without a premium battle pass",
+      "tag": "gears of war: e-day",
+      "posted_at": "2026-07-30T15:31:02.852611+00:00",
+      "urls": [
+        "https://kotaku.com/gears-of-war-e-day-multiplayer-promises-no-premium-battle-pass-bullsht-almost-all-of-it-can-be-earned-through-gameplay-2000720472"
+      ],
+      "article_titles": [
+        "Gears Of War: E-Day Multiplayer Promises No Premium Battle Pass Bullsh*t: \u2018Almost All Of It Can Be Earned Through Gameplay\u2019"
       ]
     }
   ],
@@ -1253,6 +1235,30 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-07-30T15:04:33+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720472",
+      "title": "Gears Of War: E-Day Multiplayer Promises No Premium Battle Pass Bullsh*t: \u2018Almost All Of It Can Be Earned Through Gameplay\u2019",
+      "url": "https://kotaku.com/gears-of-war-e-day-multiplayer-promises-no-premium-battle-pass-bullsht-almost-all-of-it-can-be-earned-through-gameplay-2000720472",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T15:28:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659963",
+      "title": "ABC Calls on FCC to Dismiss \u201cExtraordinary and Unprecedented\u201d License Renewal Proceedings",
+      "url": "https://www.hollywoodreporter.com/business/business-news/abc-calls-on-fcc-dismiss-early-license-renewal-proceedings-1236659963/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T15:28:59+00:00"
+    },
+    {
+      "guid": "1835832",
+      "title": "FF7 Revelation Director Really Wants You To Have A Physical Edition For The Game",
+      "url": "https://www.gamespot.com/articles/ff7-revelation-director-really-wants-you-to-have-a-physical-edition-for-the-game/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T15:13:32+00:00"
     }
   ]
 }
