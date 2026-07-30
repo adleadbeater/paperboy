@@ -507,54 +507,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000720220",
-      "title": "Dragon\u2019s Dogma 2: Dark Arisen Developers Say They Aren\u2019t Nerfing Dragonsplague\u2014Just Making It More Clear",
-      "url": "https://kotaku.com/dragons-dogma-2-dark-arisen-developers-say-they-arent-nerfing-dragonsplague-just-making-it-more-clear-2000720220",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T20:00:19+00:00"
-    },
-    {
-      "guid": "4iXdFUrkSV5sqknQxFVZyG",
-      "title": "Latest Palworld patch keeps Victor & Shadowbeak from accidentally teleporting out of existence, prevents Panthalus from breaking everything",
-      "url": "https://www.pcgamer.com/games/survival-crafting/latest-palworld-patch-keeps-victor-and-shadowbeak-from-accidentally-teleporting-out-of-existence-prevents-panthalus-from-breaking-everything/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T20:04:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237012591",
-      "title": "\u2018Joker\u2019 & \u2018Longlegs\u2019 Producer Jason Cloth Charged In $100M Ponzi Scheme",
-      "url": "https://deadline.com/2026/07/joker-producer-arrested-ponzi-scheme-1237012591/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T20:02:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236823577",
-      "title": "Meta Takes $2.4 Billion Charge for Legal Proceedings in Q2, Revenue Booms 28% to Over $60 Billion",
-      "url": "https://variety.com/2026/digital/news/meta-q2-2026-earnings-results-legal-proceedings-charge-1236823577/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T20:21:07+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236822756",
-      "title": "Glen Powell\u2019s \u2018Chad Powers\u2019 Season 2 Sets Release Date, Drops First Look Photos (TV News Roundup)",
-      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-july-27-1236822756/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T20:15:19+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120377",
-      "title": "New Senran Kagura Project N Game Stream Airs This Week",
-      "url": "https://www.siliconera.com/new-senran-kagura-project-n-game-stream-airs-this-week/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T20:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000720316",
       "title": "Xbox Revenue Dropped $1.7 Billion Last Year",
       "url": "https://kotaku.com/xbox-revenue-dropped-1-7-billion-last-year-2000720316",
@@ -761,6 +713,54 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-07-29T23:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237012911",
+      "title": "Grammy CEO \u201cSaddened\u201d By BTS Withdrawal, Defends Asian Pop Category: \u201cIt\u2019s Never To Divide\u201d",
+      "url": "https://deadline.com/2026/07/grammy-ceo-saddened-bts-withdrawal-defends-asian-pop-1237012911/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T00:35:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823747",
+      "title": "Ben Affleck Wins $1 Million Prize on \u2018Who Wants to Be a Millionaire,\u2019 One Year After Matt Damon Did the Same",
+      "url": "https://variety.com/2026/tv/news/ben-affleck-wins-1-million-who-wants-to-be-a-millionaire-1236823747/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T00:25:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659414",
+      "title": "Justin Bieber\u2019s Sneakers Worn During World Cup Final Performance Sold at Auction for Almost $30K",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/justin-bieber-performance-world-cup-final-sneakers-auction-1236659414/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T00:37:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659761",
+      "title": "Disney+ Greenlights \u2018House of Fates,\u2019 Spinoff of Hit Korean Fortune-Telling Series \u2018Battle of Fates\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-greenlights-house-of-fates-spinoff-korean-battle-of-fates-1236659761/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T00:31:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659634",
+      "title": "White House Claps Back at Noah Kahan for Criticizing Trump\u2019s Use of His Song",
+      "url": "https://www.hollywoodreporter.com/music/music-news/white-house-claps-back-noah-kahan-criticizing-trump-song-use-1236659634/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T00:26:20+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1066679",
+      "title": "Stupid Never Dies launches October 21",
+      "url": "https://www.gematsu.com/2026/07/stupid-never-dies-launches-october-21",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T00:30:31+00:00"
     }
   ]
 }
