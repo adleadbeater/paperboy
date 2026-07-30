@@ -510,6 +510,17 @@
       "article_titles": [
         "The memory crisis keeps getting worse: Nvidia graphics card prices now rumoured to increase by as much as 30%"
       ]
+    },
+    {
+      "headline": "A Man Was Wrongly Imprisoned Because Police Misread a Skyrim Username",
+      "tag": "the elder scrolls v: skyrim",
+      "posted_at": "2026-07-30T14:31:10.981807+00:00",
+      "urls": [
+        "https://kotaku.com/police-got-a-username-based-on-skyrim-wrong-and-sent-an-innocent-man-to-prison-a-subtle-mistake-that-changed-the-course-of-my-life-2000720448"
+      ],
+      "article_titles": [
+        "Police Got A Username Based On Skyrim Wrong And Sent An Innocent Man To Prison: \u2018A Subtle Mistake That Changed The Course Of My Life\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -810,6 +821,166 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-30T13:27:31+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/halo-campaign-evolved-split-screen-pc-mod",
+      "title": "Halo: Campaign Evolved doesn't have split-screen on PC, but this mod fixes that, if you're willing to look past some quirks",
+      "url": "https://www.eurogamer.net/halo-campaign-evolved-split-screen-pc-mod",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:20:47+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720448",
+      "title": "Police Got A Username Based On Skyrim Wrong And Sent An Innocent Man To Prison: \u2018A Subtle Mistake That Changed The Course Of My Life\u2019",
+      "url": "https://kotaku.com/police-got-a-username-based-on-skyrim-wrong-and-sent-an-innocent-man-to-prison-a-subtle-mistake-that-changed-the-course-of-my-life-2000720448",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:10:49+00:00"
+    },
+    {
+      "guid": "UBqy9jRerZj4f2J4BG89QL",
+      "title": "Meta is still flinging the equivalent of a small country's annual GDP down the Reality Labs money pit each and every quarter",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/meta-is-still-flinging-the-equivalent-of-a-small-countrys-annual-gdp-down-the-reality-labs-money-pit-each-and-every-quarter/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:18:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237013199",
+      "title": "Billie Eilish Concert Film \u2018Hit Me Hard And Soft\u2019 Gets Paramount+ Release Date",
+      "url": "https://deadline.com/2026/07/billie-eilish-hit-me-hard-soft-streaming-date-paramount-1237013199/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:29:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237013190",
+      "title": "George & Amal Clooney Evacuate Provence Estate As France Continues To Battle Wildfires",
+      "url": "https://deadline.com/2026/07/george-amal-clooney-evacuate-estate-france-battle-wildfires-1237013190/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:17:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236824243",
+      "title": "\u2018Home Improvement\u2019 Reunion: Jonathan Taylor Thomas Seen in Rare Photo With Co-Stars Patricia Richardson and Taran Noah Smith",
+      "url": "https://variety.com/2026/tv/news/home-improvement-reunion-jonathan-taylor-thomas-photo-1236824243/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:16:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821535",
+      "title": "\u2018Ferine\u2019 Review: Motherhood Begets Beastliness in Andrea Corsini\u2019s Upscale Horror",
+      "url": "https://variety.com/2026/film/reviews/ferine-review-1236821535/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:10:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823667",
+      "title": "Billie Eilish Concert Movie \u2018Hit Me Hard and Soft\u2019 Sets Paramount+ Streaming Date",
+      "url": "https://variety.com/2026/film/news/billie-eilish-hit-me-hard-soft-streaming-paramount-1236823667/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823716",
+      "title": "John Legend to Play Harry Belafonte in Bill Condon\u2019s Apartheid-Era Drama \u2018The Road Home\u2019",
+      "url": "https://variety.com/2026/film/news/john-legend-harry-belafonte-the-road-home-1236823716/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236824239",
+      "title": "Julie Delpy, Emma D\u2019Arcy and Takehiro Hira Join Sonoya Mizuno\u2019s \u2018Stages\u2019 for A24 as Focus Boards for International",
+      "url": "https://variety.com/2026/film/global/julie-delpy-emma-darcy-takehiro-hira-sonoya-mizuno-stages-1236824239/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660070",
+      "title": "Angela Wales Kirgo, Longtime Writers Guild Foundation Executive Director, Dies at 78",
+      "url": "https://www.hollywoodreporter.com/news/general-news/angela-wales-kirgo-dead-writers-guild-foundation-1236660070/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:30:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660023",
+      "title": "George and Amal Clooney Forced to Evacuate French Home Amid Fast-Moving Wildfires",
+      "url": "https://www.hollywoodreporter.com/news/general-news/george-clooney-evacuate-home-france-wildfires-1236660023/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:10:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660022",
+      "title": "Tribeca Films Acquires Movies Starring Rachel Dratch and Miriam Shor and Rom-Com \u2018A Very Merry Breakup\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-films-acquires-rachel-dratch-miriam-shor-movies-1236660022/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:01:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659795",
+      "title": "John Legend to Play Harry Belafonte in Bill Condon\u2019s \u2018The Road Home\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/john-legend-harry-belafonte-bill-condon-the-road-home-1236659795/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204399",
+      "title": "Nintendo Download: 30th July (North America)",
+      "url": "https://www.nintendolife.com/news/2026/07/nintendo-download-30th-july-north-america",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T14:05:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204426",
+      "title": "In the Busiest Gaming Month of the Year, PS5's Control Resonant Will Take Up a Lot of Your Time",
+      "url": "https://www.pushsquare.com/news/2026/07/in-the-busiest-gaming-month-of-the-year-ps5s-control-resonant-will-take-up-a-lot-of-your-time",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748246",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Receives ESRB Rating Ahead of Nintendo Switch 2 Release",
+      "url": "https://otakukart.com/the-legend-of-zelda-ocarina-of-time-remake-receives-esrb-rating-ahead-of-nintendo-switch-2-release/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T14:26:39+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1747950",
+      "title": "Gachiakuta Season 2: The First Trailer Confirms Rudo\u2019s Story Is Just Getting Started",
+      "url": "https://otakukart.com/gachiakuta-season-2-the-first-trailer-confirms-rudos-story-is-just-getting-started/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T14:15:33+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/plotweaver-rpg-announces-new-partnerships-and-a-setting-contest.720084/",
+      "title": "Plotweaver RPG announces new partnerships and a setting contest",
+      "url": "https://www.enworld.org/threads/plotweaver-rpg-announces-new-partnerships-and-a-setting-contest.720084/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T14:20:00+00:00"
+    },
+    {
+      "guid": "t3_1vauqpq",
+      "title": "Ocarina of Time Remake possibly releasing November 11 based on Amiibo",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vauqpq/ocarina_of_time_remake_possibly_releasing/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T14:10:11+00:00"
     }
   ]
 }
