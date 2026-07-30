@@ -503,6 +503,36 @@
         "EA Says Its $55 Billion Sale To Saudi Arabia And Private Equity Will Go Through Next Week",
         "Electronic Arts Set to Close $55 Billion Go-Private Deal Next Week"
       ]
+    },
+    {
+      "headline": "D&D's Long-Awaited Dark Sun Revival Is Rated 18+ and Leans Into the Gore",
+      "tag": "dungeons & dragons",
+      "posted_at": "2026-07-30T23:30:53.187708+00:00",
+      "urls": [
+        "https://www.gamesradar.com/tabletop-gaming/d-and-d-reveals-long-awaited-dark-sun-revamp-and-its-an-18-gore-fest/",
+        "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/"
+      ],
+      "article_titles": [
+        "D&D reveals long-awaited Dark Sun revamp, and it's an 18+ gore-fest",
+        "Dark Sun returns in 2027 as Dungeons & Dragons' first mature rated setting"
+      ]
+    },
+    {
+      "headline": "D&D Just Announced a Massive Expansion: Classic Settings Return, IP Crossovers, and Third-Party Partnerships",
+      "tag": "dungeons & dragons",
+      "posted_at": "2026-07-30T23:30:53.350733+00:00",
+      "urls": [
+        "https://www.gamesradar.com/tabletop-gaming/d-and-d-icons-resurrects-greyhawk-dragonlance-and-more-with-new-books-from-legendary-creators/",
+        "https://www.enworld.org/threads/dungeons-dragons-icons-line-announced-bringing-back-classic-creators-to-classic-settings.720054/",
+        "https://www.enworld.org/threads/dungeons-dragons-announces-universes-beyond-line-kicking-off-ip-crossovers.720058/",
+        "https://www.enworld.org/threads/dungeons-dragons-announces-third-party-partnerships-to-bring-official-support-to-popular-campaign-settings.720059/"
+      ],
+      "article_titles": [
+        "D&D Icons resurrects Greyhawk, Dragonlance, and more with new books from legendary creators",
+        "Dungeons & Dragons Icons line announced, bringing back classic creators to classic settings",
+        "Dungeons & Dragons announces Universes Beyond line, kicking off IP crossovers",
+        "Dungeons & Dragons announces third-party partnerships to bring official support to popular campaign settings"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -523,14 +553,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-07-30T19:45:24+00:00"
-    },
-    {
-      "guid": "Q8Htja5CNoe5kuZyaUjPzm",
-      "title": "This upcoming Steam game is pioneering the accursed trucking genre, and as a former delivery guy I could not be more thrilled",
-      "url": "https://www.pcgamer.com/games/sim/this-upcoming-steam-game-is-pioneering-the-accursed-trucking-genre-and-as-a-former-delivery-guy-i-could-not-be-more-thrilled/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T19:22:45+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236824461",
@@ -835,6 +857,158 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-07-30T22:02:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720600",
+      "title": "Xbox CEO Lays Out Post-Layoff Priorities For Ambitious Growth After A Terrible Year",
+      "url": "https://kotaku.com/xbox-ceo-lays-out-post-layoff-priorities-for-ambitious-growth-after-a-terrible-year-2000720600",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T23:23:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237013669",
+      "title": "\u2018Spider-Man: Brand New Day\u2019s $309 Million Promo Partner Campaign Is A Hollywood Record",
+      "url": "https://deadline.com/2026/07/spider-man-brand-new-day-marketing-campaign-record-bmw-1237013669/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T23:02:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236824710",
+      "title": "Banijay Americas CEO Ben Samek to Oversee Merged Banijay/All3Media Operations in the U.S.",
+      "url": "https://variety.com/2026/tv/news/ben-samek-oversee-merged-banijay-all3media-merged-us-1236824710/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T23:19:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236824724",
+      "title": "\u2018Wonder Man\u2019 Star Yahya Abdul-Mateen II Speaks Out After Marvel Series Canceled: \u2018That\u2019s Life\u2026 Everything Will Shake Out\u2019",
+      "url": "https://variety.com/2026/tv/news/yahya-abdul-mateen-ii-wonder-man-canceled-marvel-1236824724/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T23:04:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660388",
+      "title": "Hulu Eliminated Its Free Trial \u2014 Here\u2019s a Workaround",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/hulu-free-trial-subscription-deals-bundles-student-discount-1236660388/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T23:01:29+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660550",
+      "title": "Meghann Fahy to Star in \u2018Trial of Louise Woodward\u2019 Limited Series at HBO",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/meghann-fahy-hbo-limited-series-trial-of-louise-woodward-1236660550/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-30T23:00:19+00:00"
+    },
+    {
+      "guid": "QCAZhaYguCkK8cPErjVJ9c",
+      "title": "D&D World of Warcraft isn't trying to be the MMO so much as evoke how it makes you feel: \"This is your chance to explore Azeroth as you never have before\"",
+      "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-world-of-warcraft-isnt-trying-to-be-the-mmo-so-much-as-evoke-how-it-makes-you-feel-this-is-your-chance-to-explore-azeroth-as-you-never-have-before/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "h2gbxJPEF7W5AxgxZN9nWb",
+      "title": "D&D World of Warcraft is the first MTG-style Universes Beyond crossover for the RPG",
+      "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-world-of-warcraft-is-the-first-mtg-style-universes-beyond-crossover-for-the-rpg/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "bHwSCXMymTHWsuJ3AShvPV",
+      "title": "D&D reveals long-awaited Dark Sun revamp, and it's an 18+ gore-fest",
+      "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-reveals-long-awaited-dark-sun-revamp-and-its-an-18-gore-fest/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "C3rx7TT4R2etC2YnP3nFSf",
+      "title": "D&D Icons resurrects Greyhawk, Dragonlance, and more with new books from legendary creators",
+      "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-icons-resurrects-greyhawk-dragonlance-and-more-with-new-books-from-legendary-creators/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "6HYjSBH6L69dDnxkyUwVRD",
+      "title": "Open-world D&D game Warlock casts iconic Baldur's Gate 3 and Resident Evil Village actor as an evil archmage, and after Orin and Lady Dimitrescu I couldn't be more excited",
+      "url": "https://www.gamesradar.com/games/open-world/open-world-d-and-d-game-warlock-casts-iconic-baldurs-gate-3-and-resident-evil-village-actor-as-an-evil-archmage-and-after-orin-and-lady-dimitrescu-i-couldnt-be-more-excited/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204441",
+      "title": "EA's Controversial $55 Billion Buyout to Close Next Week",
+      "url": "https://www.pushsquare.com/news/2026/07/eas-controversial-usd55-billion-buyout-to-close-next-week",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/in-2027-d-ds-season-of-rebellion-is-star-wars.720102/",
+      "title": "In 2027 D&D's Season of Rebellion is... STAR WARS!",
+      "url": "https://www.enworld.org/threads/in-2027-d-ds-season-of-rebellion-is-star-wars.720102/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:03:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons-icons-line-announced-bringing-back-classic-creators-to-classic-settings.720054/",
+      "title": "Dungeons & Dragons Icons line announced, bringing back classic creators to classic settings",
+      "url": "https://www.enworld.org/threads/dungeons-dragons-icons-line-announced-bringing-back-classic-creators-to-classic-settings.720054/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/greyhawk-crown-of-the-witch-queen-announced-as-2027-adventure.720055/",
+      "title": "Greyhawk: Crown of the Witch Queen announced as 2027 adventure",
+      "url": "https://www.enworld.org/threads/greyhawk-crown-of-the-witch-queen-announced-as-2027-adventure.720055/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/",
+      "title": "Dark Sun returns in 2027 as Dungeons & Dragons' first mature rated setting",
+      "url": "https://www.enworld.org/threads/dark-sun-returns-in-2027-as-dungeons-dragons-first-mature-rated-setting.720056/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons-officially-announces-world-of-warcraft-crossover-launching-this-november.720057/",
+      "title": "Dungeons & Dragons officially announces World of Warcraft crossover, launching this November",
+      "url": "https://www.enworld.org/threads/dungeons-dragons-officially-announces-world-of-warcraft-crossover-launching-this-november.720057/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons-announces-universes-beyond-line-kicking-off-ip-crossovers.720058/",
+      "title": "Dungeons & Dragons announces Universes Beyond line, kicking off IP crossovers",
+      "url": "https://www.enworld.org/threads/dungeons-dragons-announces-universes-beyond-line-kicking-off-ip-crossovers.720058/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons-announces-third-party-partnerships-to-bring-official-support-to-popular-campaign-settings.720059/",
+      "title": "Dungeons & Dragons announces third-party partnerships to bring official support to popular campaign settings",
+      "url": "https://www.enworld.org/threads/dungeons-dragons-announces-third-party-partnerships-to-bring-official-support-to-popular-campaign-settings.720059/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T23:00:00+00:00"
     }
   ]
 }
