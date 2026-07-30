@@ -1,56 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Japan's Patent Office Rejected Nintendo's Palworld Lawsuit Patent With Unprecedented Sass",
-      "tag": "palworld",
-      "posted_at": "2026-07-22T21:31:31.414564+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/pokemon/the-japanese-patent-office-has-officially-had-enough-of-nintendo-rejecting-a-patent-attached-to-the-palworld-lawsuit-with-rarely-seen-sass/",
-        "https://www.gamesradar.com/games/pokemon/you-saved-the-entire-industry-the-13-year-old-video-of-a-pokemon-fan-game-now-cited-in-the-rejection-of-a-nintendo-patent-is-being-celebrated-by-fans-happy-to-see-creative-freedom-win/"
-      ],
-      "article_titles": [
-        "The Japanese Patent Office has officially had enough of Nintendo, rejecting a patent attached to the Palworld lawsuit with \"rarely seen\" sass",
-        "\"You saved the entire industry\": The 13-year-old video of a Pokemon fan game now cited in the rejection of a Nintendo patent is being celebrated by fans happy to see creative freedom win"
-      ]
-    },
-    {
-      "headline": "Leaked Internal Pok\u00e9mon Diamond and Pearl Documentary Reveals Scrapped Pok\u00e9mon Designs",
-      "tag": "pok\u00e9mon diamond and pearl",
-      "posted_at": "2026-07-22T21:31:31.649340+00:00",
-      "urls": [
-        "https://kotaku.com/pokemon-diamond-pearl-documentary-leak-scrapped-2000718475",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v3rrc9/private_pokemon_diamond_and_pearl_behind_the/"
-      ],
-      "article_titles": [
-        "Someone Just Leaked An Internal Pok\u00e9mon Diamond And Pearl Documentary That Shows Tons Of Adorable Scrapped Pok\u00e9mon Designs",
-        "Private Pokemon Diamond and Pearl behind the scenes documentary leaked with beta Pokemon and gameplay"
-      ]
-    },
-    {
-      "headline": "Steam Overhauls Gifting and Wishlist Features in Meaningful Quality-of-Life Update",
-      "tag": "steam",
-      "posted_at": "2026-07-22T21:31:31.889669+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/steam-update-makes-gifting-much-easier-adds-wishlist-organization-features/"
-      ],
-      "article_titles": [
-        "Steam update makes gifting much easier, adds wishlist organization features"
-      ]
-    },
-    {
-      "headline": "Sony Hits Staff With Strictest-Ever Social Media Rules After PS5 Disc Drive Debacle",
-      "tag": "playstation",
-      "posted_at": "2026-07-22T21:54:05.733420+00:00",
-      "urls": [
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1v3u34s/alanah_pearce_reports_that_she_heard_sony_has/",
-        "https://www.pushsquare.com/news/2026/07/sony-imposes-strictest-ever-social-media-guidelines-on-staff-due-to-ps5-disc-debacle"
-      ],
-      "article_titles": [
-        "Alanah Pearce reports that she heard Sony has implemented its \u201cstrictest social media guidelines\u201d ever following the PlayStation disc announcement",
-        "Sony Imposes 'Strictest Ever Social Media Guidelines' on Staff Due to PS5 Disc Debacle"
-      ]
-    },
-    {
       "headline": "Halo: Campaign Evolved Reviews Are Here \u2014 Critics Call It Pure But Safe",
       "tag": "halo: campaign evolved",
       "posted_at": "2026-07-23T15:29:52.965070+00:00",
@@ -501,51 +451,22 @@
         "WoW Classic Hardcore Players Are Being Terrorized By Hidden Underground Enemies",
         "WoW Classic's latest patch is terrorizing hardcore players with bugged piles of underground enemies, and it's likely due to a decades-old quirk of Blizzard programming"
       ]
+    },
+    {
+      "headline": "Ocarina of Time Switch 2 Rating Surfaces, Hinting at Port",
+      "tag": "the legend of zelda: ocarina of time",
+      "posted_at": "2026-07-30T03:49:14.889781+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/07/the-legend-of-zelda-ocarina-of-time-switch-2-rating-surfaces-online"
+      ],
+      "article_titles": [
+        "The Legend Of Zelda: Ocarina Of Time Switch 2 Rating Surfaces Online"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "NiHgB8rHb48WoSUTfB4Fue",
-      "title": "An innocent man spent 18 months in prison because police misread his Skyrim user name",
-      "url": "https://www.pcgamer.com/games/an-innocent-man-spent-18-months-in-prison-because-police-misread-his-skyrim-user-name/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T23:10:12+00:00"
-    },
-    {
-      "guid": "wUniXmt4sJe5QehTbqkNCG",
-      "title": "Hololive vtuber says new rhythm game on Steam is surprisingly true to their personas for a reason: 'We had tons of involvement with the script and dialogue'",
-      "url": "https://www.pcgamer.com/games/rhythm/hololive-vtuber-says-new-rhythm-game-on-steam-is-surprisingly-true-to-their-personas-for-a-reason-we-had-tons-of-involvement-with-the-script-and-dialogue/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T23:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236659514",
-      "title": "\u2018The Devil\u2019s Mouth\u2019 Star Kathryn Newton on Scream Queen Bona Fides and \u2018Avengers: Doomsday\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/the-devils-mouth-star-kathryn-newton-interview-1236659514/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T23:17:29+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236659418",
-      "title": "Andrew Garfield Weighs in on Drama Surrounding OpenAI Film \u2018Artificial\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-drama-openai-film-artificial-1236659418/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-29T23:16:01+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204398",
-      "title": "This New PS5 Daughter Raising Sim Has 235+ Trophies at Launch",
-      "url": "https://www.pushsquare.com/news/2026/07/this-new-ps5-daughter-raising-sim-has-235plus-trophies-at-launch",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-29T23:00:00+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237012911",
       "title": "Grammy CEO \u201cSaddened\u201d By BTS Withdrawal, Defends Asian Pop Category: \u201cIt\u2019s Never To Divide\u201d",
@@ -601,6 +522,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-07-30T02:29:43+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204401",
+      "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Rating Surfaces Online",
+      "url": "https://www.nintendolife.com/news/2026/07/the-legend-of-zelda-ocarina-of-time-switch-2-rating-surfaces-online",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T03:30:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/rpg-evolution-valley-of-the-dolls.719760/",
+      "title": "RPG Evolution: Valley of the Dolls",
+      "url": "https://www.enworld.org/threads/rpg-evolution-valley-of-the-dolls.719760/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-07-30T03:31:00+00:00"
     }
   ]
 }
