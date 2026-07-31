@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Assassin's Creed Black Flag Resynced Has Already Outsold Ubisoft's Entire Annual Forecast in Two Weeks",
-      "tag": "assassin's creed black flag resynced",
-      "posted_at": "2026-07-24T13:10:50.311569+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-already-outsold-ubisofts-entire-yearly-expectations",
-        "https://otakukart.com/assassins-creed-black-flag-resynced-surpasses-3-5-million-sales-in-two-weeks-beating-ubisofts-annual-forecast/"
-      ],
-      "article_titles": [
-        "AC Black Flag Resynced Already Outsold Ubisoft's Entire Yearly Expectations",
-        "Assassin\u2019s Creed Black Flag Resynced Surpasses 3.5 Million Sales in Two Weeks, Beating Ubisoft\u2019s Annual Forecast"
-      ]
-    },
-    {
-      "headline": "PSN Goes Down as Amazon Web Services Outage Hits PlayStation Network",
-      "tag": "playstation network",
-      "posted_at": "2026-07-24T13:10:50.558323+00:00",
-      "urls": [
-        "https://www.eurogamer.net/psn-network-down-login-failure",
-        "https://www.pushsquare.com/news/2026/07/psn-down-but-slowly-recovering-after-amazon-web-services-outage"
-      ],
-      "article_titles": [
-        "PlayStation Network down, as tens of thousands of players queue to play Marvel Tokon Fighting Souls newly-launched beta",
-        "PSN Down But Slowly Recovering After Amazon Web Services Outage"
-      ]
-    },
-    {
       "headline": "Hi-Fi Rush Physical Copies Shipped Without Promised Content, Publisher Apologizes",
       "tag": "hi-fi rush",
       "posted_at": "2026-07-24T15:11:43.765922+00:00",
@@ -533,130 +507,184 @@
       "article_titles": [
         "The voice of Lady D and Orin the Red will be back for the next D&D videogame"
       ]
+    },
+    {
+      "headline": "Elden Ring Movie Has Already Wrapped Filming, Just 6 Months After Production Started",
+      "tag": "elden ring",
+      "posted_at": "2026-07-31T13:23:38.638832+00:00",
+      "urls": [
+        "https://www.pcgamer.com/movies-tv/filming-has-wrapped-on-garlands-elden-ring-movie-just-6-months-after-it-started-according-to-a-now-deleted-instagram-post/"
+      ],
+      "article_titles": [
+        "Filming has wrapped on Garland's Elden Ring movie just 6 months after it started, according to a now deleted instagram post"
+      ]
+    },
+    {
+      "headline": "Guillermo del Toro Got Wrecked by Dead Cells and Now He's Campaigning for More Checkpoints for Older Players",
+      "tag": "dead cells",
+      "posted_at": "2026-07-31T13:23:38.863853+00:00",
+      "urls": [
+        "https://kotaku.com/guillermo-del-toro-gdt-dead-cells-video-games-difficulty-2000720732"
+      ],
+      "article_titles": [
+        "Guillermo Del Toro Wants Extra Checkpoints In Games For \u2018Elderly Players\u2019 After Getting His Ass Kicked By Dead Cells"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "fEvshWANF57XUxF6wrZban",
-      "title": "Dark Sun, D&D's most heavy metal setting, will be back in 2027",
-      "url": "https://www.pcgamer.com/games/board-games/dark-sun-d-and-ds-most-heavy-metal-setting-will-be-back-in-2027/",
-      "source_name": "PC Gamer",
+      "guid": "https://www.eurogamer.net/total-war-warhammer-40000-dawn-of-war-4-lasgun-colour-yellow-red",
+      "title": "As Total War: Warhammer 40,000 and Dawn of War 4 show off more gameplay, 40K fans have become locked in a fierce debate: are the lasgun lasers the wrong colour?",
+      "url": "https://www.eurogamer.net/total-war-warhammer-40000-dawn-of-war-4-lasgun-colour-yellow-red",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-07-31T00:51:42+00:00"
+      "published_dt": "2026-07-31T13:03:04+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237006418",
-      "title": "FIFA\u2019s American Confederation Joins European Soccer Nations In Rejecting Controversial Private Investing Plan",
-      "url": "https://deadline.com/2026/07/fifa-under-fire-over-plan-to-sell-world-cup-stake-to-joshua-kushner-investment-firm-1237006418/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T01:03:35+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236860578",
-      "title": "Everything We Know About The Film Adaptation Of Emily Henry\u2019s \u2018Beach Read\u2019 So Far",
-      "url": "https://deadline.com/feature/beach-read-movie-news-updates-emily-henry-adaptation-1236860578/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T01:03:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236928731",
-      "title": "Everything We Know About \u2018The Pitt\u2019 Season 3 So Far",
-      "url": "https://deadline.com/feature/the-pitt-season-3-news-updates-everything-we-know-1236928731/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T00:52:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237014194",
-      "title": "\u2018Big Brother\u2019 Season 28, Week 3 Eviction: A Unanimous Vote Sent Another Houseguest Packing",
-      "url": "https://deadline.com/2026/07/big-brother-season-28-week-3-eviction-cbs-1237014194/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T00:51:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236823001",
-      "title": "\u2018Stuart Fails to Save the Universe\u2019 Producers on Episode 2\u2019s Surprise Kaley Cuoco Cameo As an Alternate Penny",
-      "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-kaley-cuoco-cameo-how-1236823001/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T01:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236816949",
-      "title": "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot",
-      "url": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T00:30:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204445",
-      "title": "LEGO Party Now Available For Switch 2, Free Upgrade Confirmed",
-      "url": "https://www.nintendolife.com/news/2026/07/lego-party-now-available-for-switch-2-free-upgrade-confirmed",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T00:35:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=614772",
-      "title": "D&D At GEN CON: World Of Warcraft Is Only The Beginning \u2013 Dark Sun, Dragonlance, And Star Wars, Oh MY!",
-      "url": "https://www.belloflostsouls.net/2026/07/dd-at-gen-con-world-of-warcraft-is-only-the-beginning-dark-sun-dragonlance-and-star-wars-oh-my.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T00:32:56+00:00"
-    },
-    {
-      "guid": "t3_1vbbjlo",
-      "title": "World of Warcraft classic+ readying for beta release datamine",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vbbjlo/world_of_warcraft_classic_readying_for_beta/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T00:41:08+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000720603",
-      "title": "Sony Says Don\u2019t Panic, It Has Enough RAM For All The PS5s It Plans To Sell This Year With The Launch Of GTA 6",
-      "url": "https://kotaku.com/sony-says-dont-panic-it-has-enough-ram-for-all-the-ps5s-it-plans-to-sell-this-year-with-the-launch-of-gta-6-2000720603",
+      "guid": "https://kotaku.com/?p=2000720732",
+      "title": "Guillermo Del Toro Wants Extra Checkpoints In Games For \u2018Elderly Players\u2019 After Getting His Ass Kicked By Dead Cells",
+      "url": "https://kotaku.com/guillermo-del-toro-gdt-dead-cells-video-games-difficulty-2000720732",
       "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-07-31T03:53:28+00:00"
+      "published_dt": "2026-07-31T13:01:51+00:00"
     },
     {
-      "guid": "wAoCiCaLMs9sT2eR5wpF8L",
-      "title": "The voice of Lady D and Orin the Red will be back for the next D&D videogame",
-      "url": "https://www.pcgamer.com/games/action/the-voice-of-lady-d-and-orin-the-red-will-be-back-for-the-next-d-and-d-videogame/",
+      "guid": "6kHnqiyYXDVGjtt4mFzZmP",
+      "title": "Filming has wrapped on Garland's Elden Ring movie just 6 months after it started, according to a now deleted instagram post",
+      "url": "https://www.pcgamer.com/movies-tv/filming-has-wrapped-on-garlands-elden-ring-movie-just-6-months-after-it-started-according-to-a-now-deleted-instagram-post/",
       "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-07-31T03:45:08+00:00"
+      "published_dt": "2026-07-31T13:20:32+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236824839",
-      "title": "Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%",
-      "url": "https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/",
+      "guid": "NR6xBWkU7wMb4ZaQQaD6i5",
+      "title": "Total War: Warhammer 40k's siege reset is one of the things I'm looking forward to most",
+      "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-40ks-siege-reset-is-one-of-the-things-im-looking-forward-to-most/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T13:17:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237013965",
+      "title": "\u2018Power Book III: Raising Kanan\u2019 Says Goodbye To Major Series Character In Season 5: \u201cI Wish We Could\u2019ve Gotten One More Season\u201d",
+      "url": "https://deadline.com/2026/07/power-book-iii-raising-kanan-london-brown-marvin-dead-1237013965/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823878",
+      "title": "LISTEN: Music Fans Shrug Off Ticket Price Hikes to Keep Summer Concert Business Humming",
+      "url": "https://variety.com/2026/music/news/live-music-summer-tour-luminate-report-ticket-price-1236823878/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-07-31T03:58:51+00:00"
+      "published_dt": "2026-07-31T13:05:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236648870",
-      "title": "\u2018Dancing With the Stars: The Next Pro\u2019 Cast: All the Dancers Vying for a Spot on Season 35",
-      "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236656984",
+      "title": "Filmsaaz and Neozoon: Meet Filmmakers With Pseudonyms \u2013 and Political Movies \u2013\u00a0at Locarno",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-political-films-filmsaaz-neozoon-pseudonyms-1236656984/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-07-31T04:00:44+00:00"
+      "published_dt": "2026-07-31T13:15:00+00:00"
     },
     {
-      "guid": "t3_1vbg0ro",
-      "title": "According to Brick Tap, a reliable source for Lego leaks, the PlayStation 1 set will include an Astro Bot as a gift-with-purchase.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vbg0ro/according_to_brick_tap_a_reliable_source_for_lego/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "https://www.hollywoodreporter.com/?p=1236658502",
+      "title": "The Reporter Who Won\u2019t Give Up On the Nancy Guthrie Kidnapping Story",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/brian-entin-nancy-guthrie-investigation-reporting-six-months-missing-1236658502/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T13:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660766",
+      "title": "Gary Oldman, Curry Barker, \u2018Barbie\u2019 Producer Robbie Brenner to Keynote Toronto Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/keynote-toronto-film-festival-2026-curry-barker-1236660766/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T12:56:53+00:00"
+    },
+    {
+      "guid": "LW2i4WRvHxwZSdXSidxNGR",
+      "title": "Canceled F-Zero sequel and game from Fire Emblem studio are being resurrected next week on Switch, 30 years after they were supposed to launch on Nintendo's unpopular Virtual Boy",
+      "url": "https://www.gamesradar.com/games/canceled-f-zero-sequel-and-game-from-fire-emblem-studio-are-being-resurrected-next-week-on-switch-30-years-after-they-were-supposed-to-launch-on-nintendos-unpopular-virtual-boy/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-07-31T04:06:05+00:00"
+      "published_dt": "2026-07-31T13:12:44+00:00"
+    },
+    {
+      "guid": "1837294",
+      "title": "Sony\u2019s Latest PS5 Sales Data Shows Digital Pulling Even Further Ahead",
+      "url": "https://www.gamespot.com/articles/sony-latest-ps5-sales-data-shows-digital-pulling-even-further-ahead/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T12:48:59+00:00"
+    },
+    {
+      "guid": "1837287",
+      "title": "PS5 Is Closing In On 100 Million Sales, But It\u2019s Losing Ground To The PS4",
+      "url": "https://www.gamespot.com/articles/ps5-is-closing-in-on-100-million-sales-but-its-losing-ground-to-the-ps4/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T12:47:29+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204333",
+      "title": "This Balatro-Meets-Slot-Machine Mash-Up Will Eat Our Spare Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/07/this-balatro-meets-slot-machine-mash-up-will-eat-our-spare-time-on-switch-next-month",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204470",
+      "title": "PS5's Monthly Active Users Increased Again, PS Plus Making More Money Than Ever",
+      "url": "https://www.pushsquare.com/news/2026/07/ps5s-monthly-active-users-increased-again-ps-plus-making-more-money-than-ever",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T13:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204320",
+      "title": "Recovering Balatro Players Should Probably Stay Away from CloverPit, Coming to PS5 Next Month",
+      "url": "https://www.pushsquare.com/news/2026/07/recovering-balatro-players-should-probably-stay-away-from-cloverpit-coming-to-ps5-next-month",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120319",
+      "title": "Preview: Colossus: Eternal Blight\u2019s Incorporation of Corruption Is a Highlight",
+      "url": "https://www.siliconera.com/preview-colossus-eternal-blights-incorporation-of-corruption-is-a-highlight/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204455",
+      "title": "The Neo Geo Shmup 'Project Neon' Is Coming To Modern Consoles, Starting Today With Xbox Platforms",
+      "url": "https://www.timeextension.com/news/2026/07/the-neo-geo-shmup-project-neon-is-coming-to-modern-consoles-starting-today-with-xbox-platforms",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1067148",
+      "title": "Starsand Island launches August 18",
+      "url": "https://www.gematsu.com/2026/07/starsand-island-launches-august-18",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T13:00:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748304",
+      "title": "Dolly Ave Announces Better Side, a Death Note-Inspired Alt-Rock Single Releasing August 8",
+      "url": "https://otakukart.com/dolly-ave-announces-better-side-a-death-note-inspired-alt-rock-single-releasing-august-8/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T13:20:28+00:00"
     }
   ]
 }
