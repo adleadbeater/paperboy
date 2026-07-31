@@ -513,30 +513,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236825309",
-      "title": "Dermot Mulroney Leaving \u2018Chicago Fire\u2019 in Season 15",
-      "url": "https://variety.com/2026/tv/news/chicago-fire-dermot-mulroney-leaving-season-15-1236825309/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T18:47:43+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660991",
-      "title": "DC\u2019s \u2018Booster Gold\u2019 Series Not Moving Forward at HBO, Creator Says",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/dc-booster-gold-canceled-hbo-1236660991/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T18:47:22+00:00"
-    },
-    {
-      "guid": "0c4f9c87-4d70-44ba-869f-4ce07459ff9e",
-      "title": "Booster Gold TV Show 'Won't Be Moving Forward' at DC, Writer Says",
-      "url": "https://www.ign.com/articles/booster-gold-tv-show-wont-be-moving-forward-at-dc-writer-says",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T19:46:52+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000720862",
       "title": "Can\u2019t Decide Between Nvidia And AMD Graphics Cards? Don\u2019t Worry, They\u2019re Both Rumored To Be Raising Prices",
       "url": "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862",
@@ -545,28 +521,12 @@
       "published_dt": "2026-07-31T20:00:02+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000720823",
-      "title": "A Comedic Driving Game That Encourages Vehicular Manslaughter Is The First Isekai I Don\u2019t Hate",
-      "url": "https://kotaku.com/truck-kun-is-supporting-me-from-another-world-impression-strange-scaffold-2000720823",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T19:40:08+00:00"
-    },
-    {
       "guid": "Fm9Az3uREvhBH5CeZAvTfQ",
       "title": "Bulletstorm is the stupidest game ever made, and also one of the cleverest shooters ever",
       "url": "https://www.pcgamer.com/games/fps/bulletstorm-is-the-stupidest-game-ever-made-and-also-one-of-the-cleverest-shooters-ever/",
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-07-31T20:00:25+00:00"
-    },
-    {
-      "guid": "bqmcfiRczscaLqHabtAaSY",
-      "title": "Anthropic sees OpenAI cybersecurity disaster and says 'hold my beer,' reveals it accidentally hacked 3 companies in as many months without noticing",
-      "url": "https://www.pcgamer.com/software/ai/anthropic-sees-openai-cybersecurity-disaster-and-says-hold-my-beer-reveals-it-accidentally-hacked-3-companies-in-as-many-months-without-noticing/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T19:45:46+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237014268",
@@ -735,6 +695,38 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-31T22:27:00+00:00"
+    },
+    {
+      "guid": "kxfPR3a9pytzVx565DHrzF",
+      "title": "We've seen a lot of malfunctioning robots this year, but this is my favorite fail yet",
+      "url": "https://www.pcgamer.com/hardware/weve-seen-a-lot-of-malfunctioning-robots-this-year-but-this-is-my-favorite-fail-yet/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T23:19:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015022",
+      "title": "Juliette Lewis On If \u2018Cape Fear\u2019s Crystal Or Max Is \u201cMore Psychopathic,\u201d Martin Scorsese\u2019s Lasting Support & Season 2 Hopes: \u201cWe Will See\u201d",
+      "url": "https://deadline.com/2026/07/juliette-lewis-cape-fear-martin-scorsese-support-season-2-hopes-1237015022/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T23:25:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825389",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Leaks Online: Millions Watched Bootleg Before It Was Taken Down",
+      "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T23:47:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825182",
+      "title": "\u2018The Devil\u2019s Mouth\u2019 Director Breaks Down His Bloody, One-Location Shark Movie, Those \u2018Demanding\u2019 Stunts and Why Kathryn Newton and Lana Condor Wanted to Switch Roles",
+      "url": "https://variety.com/2026/film/news/devils-mouth-bloody-shark-movie-stunts-lana-condor-1236825182/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T23:14:37+00:00"
     }
   ]
 }
