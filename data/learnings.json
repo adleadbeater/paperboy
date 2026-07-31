@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Star Wars Zero Company reveals its cast, including beloved Clone Wars voice actors",
-      "tag": "star wars zero company",
-      "posted_at": "2026-07-23T23:45:35.843709+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/strategy/star-wars-zero-company-reveals-cast-including-fan-favorite-actors-from-clone-wars-animated-series/"
-      ],
-      "article_titles": [
-        "Star Wars Zero Company reveals cast, including fan favorite actors from Clone Wars animated series"
-      ]
-    },
-    {
       "headline": "Thick as Thieves Is Done \u2014 No More Content Updates for the Heist Game",
       "tag": "thick as thieves",
       "posted_at": "2026-07-24T03:59:55.518785+00:00",
@@ -533,171 +522,22 @@
         "Dungeons & Dragons announces Universes Beyond line, kicking off IP crossovers",
         "Dungeons & Dragons announces third-party partnerships to bring official support to popular campaign settings"
       ]
+    },
+    {
+      "headline": "Spider-Man: Brand New Day Casts Sadie Sink in a Major Role That Resets the Marvel Universe",
+      "tag": "spider-man: brand new day",
+      "posted_at": "2026-07-31T01:05:03.464135+00:00",
+      "urls": [
+        "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/"
+      ],
+      "article_titles": [
+        "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.videogameschronicle.com/?p=243084",
-      "title": "Splatoon Raiders tops the Japan physical charts as Mario Kart World and Tomodachi Life pass major milestones",
-      "url": "https://www.videogameschronicle.com/news/splatoon-raiders-tops-the-japan-physical-charts-as-mario-kart-world-and-tomodachi-life-pass-major-milestones/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T19:38:06+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000720557",
-      "title": "Splatoon Raiders: The Kotaku Review",
-      "url": "https://kotaku.com/splatoon-raiders-the-kotaku-review-2000720557",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T19:45:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236824461",
-      "title": "\u2018Human Centipede\u2019 Creator Reveals Last Movie \u2018The End of Tom Six\u2019; He Filmed for Six Years While Living in Isolation With Multiple Sclerosis (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/human-centipede-director-tom-six-ms-diagnosis-new-movie-1236824461/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T19:37:28+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660321",
-      "title": "\u2018Wonder Man\u2019 Un-Renewed at Disney+, No Season 2 Coming",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/wonder-man-canceled-disney-plus-no-season-2-1236660321/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T19:50:10+00:00"
-    },
-    {
-      "guid": "KJFLhaoAdCUqtDqNQTnEmR",
-      "title": "Marvel cancels Wonder Man season 2 just 4 months after announcement",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-cancels-wonder-man-season-2-just-4-months-after-announcement/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-30T19:44:20+00:00"
-    },
-    {
-      "guid": "1148f963-70df-471d-a744-4f94af617be8",
-      "title": "Everything Coming to Amazon Prime Video in August",
-      "url": "https://www.ign.com/articles/whats-new-on-amazon-prime-video-august-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:43:48+00:00"
-    },
-    {
-      "guid": "071ebab1-cb9a-46f8-8db5-df6e5fd3be25",
-      "title": "LinkedIn Adds 'Seems Like AI Slop' Button to Combat Low-Quality Content",
-      "url": "https://www.ign.com/articles/linkedin-adds-seems-like-ai-slop-button-to-combat-low-quality-content",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:43:46+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000720552",
-      "title": "Fans Think A Long-Lost Pok\u00e9mon Game Has Been Found 21 Years Later",
-      "url": "https://kotaku.com/pokemon-pokepark-fishing-rally-ds-ebay-listing-game-preservation-2000720552",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:45:21+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237013508",
-      "title": "Tim Cook\u2019s Swan Song At Apple Sees Quarterly IPhone Sales Surge, Highflying Stock Dip",
-      "url": "https://deadline.com/2026/07/apple-earnings-tim-cook-iphone-services-1237013508/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:58:22+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237013759",
-      "title": "Anne Sweeney Resigns From Netflix Board",
-      "url": "https://deadline.com/2026/07/anne-sweeney-resigns-netflix-board-1237013759/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:57:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237013723",
-      "title": "Amazon Thrives On Big Q2 For AI, Advertising Revenue Climbs 26% To Near $20 Billion Mark",
-      "url": "https://deadline.com/2026/07/amazon-q2-2026-earnings-ai-advertising-aws-growth-1237013723/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:36:56+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237013702",
-      "title": "Cinemark, Marcus CEOs On Box Office Rebound: Younger Audiences, Longer Windows, Balanced Mix Of Films",
-      "url": "https://deadline.com/2026/07/cinemark-marcus-exhibition-ceos-box-office-theatrical-windows-1237013702/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:33:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236824534",
-      "title": "Apple Sales Rise 16% in June Quarter to Record $109 Billion, Services Revenue Falls Short of Forecasts",
-      "url": "https://variety.com/2026/digital/news/apple-q3-2026-earnings-tim-cook-ceo-final-quarter-1236824534/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:47:09+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236824615",
-      "title": "NBC Prepares for Spin-Off By Hiring Christopher Halpin as CFO",
-      "url": "https://variety.com/2026/tv/news/nbc-christopher-halpin-cfo-1236824615/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:43:08+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236824625",
-      "title": "Electronic Arts Set to Close $55 Billion Go-Private Deal Next Week",
-      "url": "https://variety.com/2026/gaming/news/electronic-arts-close-55-billion-private-deal-1236824625/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:41:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236824616",
-      "title": "Music Industry Moves: Influence Media Partners to Acquire Anthem Entertainment\u2019s Publishing and Film & TV Assets in $600 Million Deal",
-      "url": "https://variety.com/2026/music/news/influence-media-partners-acquire-anthem-600-million-1236824616/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:39:35+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236824587",
-      "title": "Anne Sweeney Resigns From Netflix Board",
-      "url": "https://variety.com/2026/tv/news/anne-sweeney-resigns-netflix-board-1236824587/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:26:48+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660337",
-      "title": "With \u2018Camp Miasma,\u2019 Hannah Einbinder Is Back in Another Complicated Cross-Generational Relationship",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/camp-miasma-hannah-einbinder-relationship-gillian-anderson-1236660337/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:42:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660348",
-      "title": "\u2018American Experience\u2019 to Release Four-Part Series on the History of the FBI in 2027",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/fbi-history-docuseries-american-experience-2027-1236660348/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:39:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660405",
-      "title": "Anne Sweeney Steps Down From Netflix Board",
-      "url": "https://www.hollywoodreporter.com/business/business-news/anne-sweeney-steps-down-from-netflix-board-1236660405/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-30T20:33:46+00:00"
-    },
     {
       "guid": "60251e3b-efef-44f8-a182-75e766e719b8",
       "title": "Amazon's Exclusive Harry Potter 8-Film 4K Steelbook Library Case Gets a U.S. Listing",
@@ -1009,6 +849,86 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-07-30T23:00:00+00:00"
+    },
+    {
+      "guid": "fEvshWANF57XUxF6wrZban",
+      "title": "Dark Sun, D&D's most heavy metal setting, will be back in 2027",
+      "url": "https://www.pcgamer.com/games/board-games/dark-sun-d-and-ds-most-heavy-metal-setting-will-be-back-in-2027/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T00:51:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237006418",
+      "title": "FIFA\u2019s American Confederation Joins European Soccer Nations In Rejecting Controversial Private Investing Plan",
+      "url": "https://deadline.com/2026/07/fifa-under-fire-over-plan-to-sell-world-cup-stake-to-joshua-kushner-investment-firm-1237006418/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T01:03:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236860578",
+      "title": "Everything We Know About The Film Adaptation Of Emily Henry\u2019s \u2018Beach Read\u2019 So Far",
+      "url": "https://deadline.com/feature/beach-read-movie-news-updates-emily-henry-adaptation-1236860578/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T01:03:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236928731",
+      "title": "Everything We Know About \u2018The Pitt\u2019 Season 3 So Far",
+      "url": "https://deadline.com/feature/the-pitt-season-3-news-updates-everything-we-know-1236928731/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T00:52:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237014194",
+      "title": "\u2018Big Brother\u2019 Season 28, Week 3 Eviction: A Unanimous Vote Sent Another Houseguest Packing",
+      "url": "https://deadline.com/2026/07/big-brother-season-28-week-3-eviction-cbs-1237014194/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T00:51:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236823001",
+      "title": "\u2018Stuart Fails to Save the Universe\u2019 Producers on Episode 2\u2019s Surprise Kaley Cuoco Cameo As an Alternate Penny",
+      "url": "https://variety.com/2026/tv/news/stuart-fails-to-save-the-universe-kaley-cuoco-cameo-how-1236823001/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T01:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236816949",
+      "title": "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot",
+      "url": "https://variety.com/2026/film/news/sadie-sink-jean-grey-spider-man-brand-new-day-x-men-1236816949/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T00:30:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204445",
+      "title": "LEGO Party Now Available For Switch 2, Free Upgrade Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/07/lego-party-now-available-for-switch-2-free-upgrade-confirmed",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T00:35:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=614772",
+      "title": "D&D At GEN CON: World Of Warcraft Is Only The Beginning \u2013 Dark Sun, Dragonlance, And Star Wars, Oh MY!",
+      "url": "https://www.belloflostsouls.net/2026/07/dd-at-gen-con-world-of-warcraft-is-only-the-beginning-dark-sun-dragonlance-and-star-wars-oh-my.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T00:32:56+00:00"
+    },
+    {
+      "guid": "t3_1vbbjlo",
+      "title": "World of Warcraft classic+ readying for beta release datamine",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vbbjlo/world_of_warcraft_classic_readying_for_beta/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T00:41:08+00:00"
     }
   ]
 }
