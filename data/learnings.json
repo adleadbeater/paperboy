@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Hi-Fi Rush Physical Copies Shipped Without Promised Content, Publisher Apologizes",
-      "tag": "hi-fi rush",
-      "posted_at": "2026-07-24T15:11:43.765922+00:00",
-      "urls": [
-        "https://kotaku.com/hi-fi-rush-physical-edition-dlc-limited-run-superdeluxe-2000719134"
-      ],
-      "article_titles": [
-        "Hi-Fi Rush Physical Copies Shipped Without Promised Content: \u2018We Sincerely Apologize From The Bottom Of Our Hearts\u2019"
-      ]
-    },
-    {
-      "headline": "Microsoft Appears to Be Uncancelling an Age of Empires 3 Project Amid Ongoing Xbox Cuts",
-      "tag": "age of empires 3",
-      "posted_at": "2026-07-24T15:11:43.995476+00:00",
-      "urls": [
-        "https://www.eurogamer.net/microsoft-age-of-empires-3-dlc-uncancelled"
-      ],
-      "article_titles": [
-        "Amid the recent Xbox devastation, Microsoft is seemingly uncancelling something, which is good news for Age of Empires 3 fans at least"
-      ]
-    },
-    {
-      "headline": "Magic: The Gathering Is Getting a Star Trek Set \u2014 Here's How It Happened",
-      "tag": "magic: the gathering",
-      "posted_at": "2026-07-24T17:00:44.682138+00:00",
-      "urls": [
-        "https://kotaku.com/inside-the-mission-to-turn-star-trek-into-the-next-big-magic-the-gathering-set-2000719156"
-      ],
-      "article_titles": [
-        "Inside The Mission To Turn Star Trek Into The Next Big Magic: The Gathering Set"
-      ]
-    },
-    {
       "headline": "Blade Runner 2099 drops first trailer \u2014 Amazon's sci-fi series promises connections to Scott and Villeneuve films",
       "tag": "blade runner 2099",
       "posted_at": "2026-07-24T18:17:37.908672+00:00",
@@ -529,27 +496,33 @@
       "article_titles": [
         "Guillermo Del Toro Wants Extra Checkpoints In Games For \u2018Elderly Players\u2019 After Getting His Ass Kicked By Dead Cells"
       ]
+    },
+    {
+      "headline": "Samara Weaving Cast as Emma Frost in Marvel's X-Men Reboot",
+      "tag": "x-men",
+      "posted_at": "2026-07-31T17:15:47.076218+00:00",
+      "urls": [
+        "https://variety.com/2026/film/news/samara-weaving-emma-frost-x-men-reboot-marvel-1236825209/"
+      ],
+      "article_titles": [
+        "Samara Weaving to Play Emma Frost in Marvel\u2019s \u2018X-Men\u2019 Reboot"
+      ]
+    },
+    {
+      "headline": "Silent Hill Producer Defends Series Shake-Ups, Expects Only Half of Original Fans to Return",
+      "tag": "silent hill",
+      "posted_at": "2026-07-31T17:15:47.237091+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/horror/silent-hill-producer-believes-shaking-up-the-series-was-necessary-to-win-over-players-because-at-best-only-about-half-of-the-original-users-will-return-with-a-remake/"
+      ],
+      "article_titles": [
+        "Silent Hill producer believes shaking up the series was necessary to win over players because 'at best, only about half of the original users will return with a remake'"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/total-war-warhammer-40000-dawn-of-war-4-lasgun-colour-yellow-red",
-      "title": "As Total War: Warhammer 40,000 and Dawn of War 4 show off more gameplay, 40K fans have become locked in a fierce debate: are the lasgun lasers the wrong colour?",
-      "url": "https://www.eurogamer.net/total-war-warhammer-40000-dawn-of-war-4-lasgun-colour-yellow-red",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T13:03:04+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000720732",
-      "title": "Guillermo Del Toro Wants Extra Checkpoints In Games For \u2018Elderly Players\u2019 After Getting His Ass Kicked By Dead Cells",
-      "url": "https://kotaku.com/guillermo-del-toro-gdt-dead-cells-video-games-difficulty-2000720732",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T13:01:51+00:00"
-    },
     {
       "guid": "6kHnqiyYXDVGjtt4mFzZmP",
       "title": "Filming has wrapped on Garland's Elden Ring movie just 6 months after it started, according to a now deleted instagram post",
@@ -565,118 +538,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-07-31T13:17:51+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237013965",
-      "title": "\u2018Power Book III: Raising Kanan\u2019 Says Goodbye To Major Series Character In Season 5: \u201cI Wish We Could\u2019ve Gotten One More Season\u201d",
-      "url": "https://deadline.com/2026/07/power-book-iii-raising-kanan-london-brown-marvin-dead-1237013965/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236823878",
-      "title": "LISTEN: Music Fans Shrug Off Ticket Price Hikes to Keep Summer Concert Business Humming",
-      "url": "https://variety.com/2026/music/news/live-music-summer-tour-luminate-report-ticket-price-1236823878/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T13:05:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236656984",
-      "title": "Filmsaaz and Neozoon: Meet Filmmakers With Pseudonyms \u2013 and Political Movies \u2013\u00a0at Locarno",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-political-films-filmsaaz-neozoon-pseudonyms-1236656984/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T13:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236658502",
-      "title": "The Reporter Who Won\u2019t Give Up On the Nancy Guthrie Kidnapping Story",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/brian-entin-nancy-guthrie-investigation-reporting-six-months-missing-1236658502/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T13:05:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660766",
-      "title": "Gary Oldman, Curry Barker, \u2018Barbie\u2019 Producer Robbie Brenner to Keynote Toronto Film Festival",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/keynote-toronto-film-festival-2026-curry-barker-1236660766/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T12:56:53+00:00"
-    },
-    {
-      "guid": "LW2i4WRvHxwZSdXSidxNGR",
-      "title": "Canceled F-Zero sequel and game from Fire Emblem studio are being resurrected next week on Switch, 30 years after they were supposed to launch on Nintendo's unpopular Virtual Boy",
-      "url": "https://www.gamesradar.com/games/canceled-f-zero-sequel-and-game-from-fire-emblem-studio-are-being-resurrected-next-week-on-switch-30-years-after-they-were-supposed-to-launch-on-nintendos-unpopular-virtual-boy/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T13:12:44+00:00"
-    },
-    {
-      "guid": "1837294",
-      "title": "Sony\u2019s Latest PS5 Sales Data Shows Digital Pulling Even Further Ahead",
-      "url": "https://www.gamespot.com/articles/sony-latest-ps5-sales-data-shows-digital-pulling-even-further-ahead/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T12:48:59+00:00"
-    },
-    {
-      "guid": "1837287",
-      "title": "PS5 Is Closing In On 100 Million Sales, But It\u2019s Losing Ground To The PS4",
-      "url": "https://www.gamespot.com/articles/ps5-is-closing-in-on-100-million-sales-but-its-losing-ground-to-the-ps4/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T12:47:29+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204333",
-      "title": "This Balatro-Meets-Slot-Machine Mash-Up Will Eat Our Spare Time On Switch Next Month",
-      "url": "https://www.nintendolife.com/news/2026/07/this-balatro-meets-slot-machine-mash-up-will-eat-our-spare-time-on-switch-next-month",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204470",
-      "title": "PS5's Monthly Active Users Increased Again, PS Plus Making More Money Than Ever",
-      "url": "https://www.pushsquare.com/news/2026/07/ps5s-monthly-active-users-increased-again-ps-plus-making-more-money-than-ever",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T13:15:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204320",
-      "title": "Recovering Balatro Players Should Probably Stay Away from CloverPit, Coming to PS5 Next Month",
-      "url": "https://www.pushsquare.com/news/2026/07/recovering-balatro-players-should-probably-stay-away-from-cloverpit-coming-to-ps5-next-month",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120319",
-      "title": "Preview: Colossus: Eternal Blight\u2019s Incorporation of Corruption Is a Highlight",
-      "url": "https://www.siliconera.com/preview-colossus-eternal-blights-incorporation-of-corruption-is-a-highlight/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204455",
-      "title": "The Neo Geo Shmup 'Project Neon' Is Coming To Modern Consoles, Starting Today With Xbox Platforms",
-      "url": "https://www.timeextension.com/news/2026/07/the-neo-geo-shmup-project-neon-is-coming-to-modern-consoles-starting-today-with-xbox-platforms",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1067148",
-      "title": "Starsand Island launches August 18",
-      "url": "https://www.gematsu.com/2026/07/starsand-island-launches-august-18",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T13:00:26+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1748304",
@@ -797,6 +658,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-07-31T15:17:54+00:00"
+    },
+    {
+      "guid": "aYRTePK5xWY9ZL6SXqpb6A",
+      "title": "Silent Hill producer believes shaking up the series was necessary to win over players because 'at best, only about half of the original users will return with a remake'",
+      "url": "https://www.pcgamer.com/games/horror/silent-hill-producer-believes-shaking-up-the-series-was-necessary-to-win-over-players-because-at-best-only-about-half-of-the-original-users-will-return-with-a-remake/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T16:52:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825159",
+      "title": "Sam Fender and Olivia Dean\u2019s \u2018Rein Me In\u2019 Becomes the U.K.\u2019s Longest-Running No. 1 Single of All Time",
+      "url": "https://variety.com/2026/music/global/sam-fender-olivia-dean-rein-me-in-uk-longest-running-no-1-1236825159/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825209",
+      "title": "Samara Weaving to Play Emma Frost in Marvel\u2019s \u2018X-Men\u2019 Reboot",
+      "url": "https://variety.com/2026/film/news/samara-weaving-emma-frost-x-men-reboot-marvel-1236825209/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T16:57:21+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659566",
+      "title": "A 10-Year-Old Budding \u201cHollywood Reporter\u201d Gets Her First Red Carpet Experience, Interviewing the Stars of \u2018L.O.L. Surprise! The Next Headliner\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/lol-surprise-the-next-headliner-cast-interviews-1236659566/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T17:14:33+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660343",
+      "title": "Sarah Pidgeon Has a Wild Pitch for \u2018Love Story\u2019 Season 2",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/sarah-pidgeon-emmys-love-story-season-two-1236660343/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T16:45:00+00:00"
+    },
+    {
+      "guid": "DeYRcFYwcHGtUgj9ecdJGE",
+      "title": "Genshin Impact 7.0 livestream reveals nine more free 5-star characters for the Constellation selector, and I've already got my next four picked out",
+      "url": "https://www.gamesradar.com/games/open-world/genshin-impact-7-0-livestream-reveals-nine-more-free-5-star-characters-for-the-constellation-selector-and-ive-already-got-my-next-four-picked-out/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T17:06:21+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204483",
+      "title": "Rumour: LEGO Astro Bot Sweetens the Deal on Leaked PS1 Set",
+      "url": "https://www.pushsquare.com/news/2026/07/rumour-lego-astro-bot-sweetens-the-deal-on-leaked-ps1-set",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120497",
+      "title": "Story of Seasons Mobile Game Canceled",
+      "url": "https://www.siliconera.com/story-of-seasons-mobile-game-canceled/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748442",
+      "title": "Pok\u00e9mon Says Scarlet and Violet Will Get Four Consecutive 7-Star Tera Raid Events Featuring Glimmora, Annihilape, Farigiraf, and Kingambit",
+      "url": "https://otakukart.com/pokemon-says-scarlet-and-violet-will-get-four-consecutive-7-star-tera-raid-events-featuring-glimmora-annihilape-farigiraf-and-kingambit/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T16:58:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748441",
+      "title": "Toby Fox Says Deltarune 0.0.0.253 Is the Final Patch for Now as Team Shifts Focus to Chapter 6",
+      "url": "https://otakukart.com/toby-fox-says-deltarune-0-0-0-253-is-the-final-patch-for-now-as-team-shifts-focus-to-chapter-6/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T16:43:17+00:00"
     }
   ]
 }
