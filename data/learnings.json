@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Blade Runner 2099 drops first trailer \u2014 Amazon's sci-fi series promises connections to Scott and Villeneuve films",
-      "tag": "blade runner 2099",
-      "posted_at": "2026-07-24T18:17:37.908672+00:00",
-      "urls": [
-        "https://www.hollywoodreporter.com/tv/tv-news/blade-runner-2099-trailer-1236655934/",
-        "https://www.gamesradar.com/entertainment/sci-fi-shows/blade-runner-2099-will-have-connective-tissue-to-the-ridley-scott-and-denis-villeneuve-movies-but-will-also-be-a-standalone-rebirth/"
-      ],
-      "article_titles": [
-        "\u2018Blade Runner 2099\u2019 Unveils First Trailer for Amazon\u2019s Sci-Fi Sequel Starring Hunter Schafer",
-        "Blade Runner 2099 will have \"connective tissue\" to the Ridley Scott and Denis Villeneuve movies, but will also be a standalone \"rebirth\""
-      ]
-    },
-    {
       "headline": "Eddie Brock Is Venom Again \u2014 Marvel Makes It Official at Comic-Con 2026",
       "tag": "venom",
       "posted_at": "2026-07-24T20:53:34.938029+00:00",
@@ -518,123 +505,26 @@
       "article_titles": [
         "Silent Hill producer believes shaking up the series was necessary to win over players because 'at best, only about half of the original users will return with a remake'"
       ]
+    },
+    {
+      "headline": "DC's Booster Gold HBO Series Is Dead, Creator Confirms",
+      "tag": "booster gold",
+      "posted_at": "2026-07-31T20:13:40.350113+00:00",
+      "urls": [
+        "https://www.ign.com/articles/booster-gold-tv-show-wont-be-moving-forward-at-dc-writer-says",
+        "https://variety.com/2026/tv/news/booster-gold-show-canceled-dc-hbo-1236825280/",
+        "https://www.hollywoodreporter.com/tv/tv-news/dc-booster-gold-canceled-hbo-1236660991/"
+      ],
+      "article_titles": [
+        "Booster Gold TV Show 'Won't Be Moving Forward' at DC, Writer Says",
+        "DC and HBO\u2019s \u2018Booster Gold\u2019 Show \u2018Won\u2019t Be Moving Forward,\u2019 Says Writer David Jenkins",
+        "DC\u2019s \u2018Booster Gold\u2019 Series Not Moving Forward at HBO, Creator Says"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "LKDWEfeevx3bepjYtFQTFF",
-      "title": "First AMD RX 9050 8 GB review suggests RTX 3060-like performance but with some strange spec discrepancies",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/first-amd-rx-9050-8-gb-review-suggests-rtx-3060-like-performance-but-with-some-strange-spec-discrepancies/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:01:47+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237014265",
-      "title": "SallyAnn Salsano Returns To In New Jersey With Reality Series \u2018The Leftovers\u2019 For Netflix",
-      "url": "https://deadline.com/2026/07/sallyann-salsano-new-jersey-the-leftovers-netflix-1237014265/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237014293",
-      "title": "Rebecca Hall Officially Joins Netflix Series Based On Dan Brown Novel \u2018The Secret Of Secrets\u2019",
-      "url": "https://deadline.com/2026/07/rebecca-hall-cast-netflix-dan-brown-the-secret-of-secrets-1237014293/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237014393",
-      "title": "Chris Hemsworth\u2019s Wild State Boards \u2018Learning To Fly\u2019, Ultra Marathon-Themed Documentary From Award-Winning Director Max Lowe",
-      "url": "https://deadline.com/2026/07/learning-to-fly-documentary-wild-state-1237014393/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236825096",
-      "title": "\u2018The Odyssey\u2019 Craze Continues as New BFI Imax Screenings Sell Out in Under 30 Minutes (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/the-odyssey-new-bfi-imax-screenings-sell-out-30-minutes-1236825096/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:30:12+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236825131",
-      "title": "Tony Romo on Leave at CBS Sports After DUI Arrest",
-      "url": "https://variety.com/2026/tv/news/cbs-tony-romo-on-leave-nfl-dwi-1236825131/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:27:54+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660306",
-      "title": "Meet Magnus Ferrell: Will Ferrell\u2019s Son on His Breakout Song, Musical Aspirations and Embracing the Nepo Baby Label",
-      "url": "https://www.hollywoodreporter.com/music/music-news/magnus-ferrell-will-ferrell-son-breakout-song-nepo-baby-1236660306/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236660793",
-      "title": "Hard-to-Please Frank Miller Praises \u2018Spider-Man: Brand New Day\u2019: \u201cFan\u2019s Dream Come True\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-frank-miller-review-1236660793/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T15:25:48+00:00"
-    },
-    {
-      "guid": "1837357",
-      "title": "Two Unreleased Virtual Boy Games Are Coming To Nintendo Switch Online",
-      "url": "https://www.gamespot.com/articles/two-unreleased-virtual-boy-games-are-coming-to-nintendo-switch-online/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T15:08:15+00:00"
-    },
-    {
-      "guid": "1837353",
-      "title": "Guillermo Del Toro Begged For An Easier Dead Cells, And The Game\u2019s Devs Answered His Call",
-      "url": "https://www.gamespot.com/articles/guillermo-del-toro-begged-for-an-easier-dead-cells-and-the-games-devs-answered-his-call/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T14:58:40+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-130617",
-      "title": "Guide: All PS Plus Games Available Now",
-      "url": "https://www.pushsquare.com/guides/all-ps-plus-games-available-now",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120490",
-      "title": "FFX Blitzball Replica Ball Arrives in August",
-      "url": "https://www.siliconera.com/ffx-blitzball-replica-ball-arrives-in-august/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1067229",
-      "title": "MARVEL Tokon: Fighting Souls launch trailer",
-      "url": "https://www.gematsu.com/2026/07/marvel-tokon-fighting-souls-launch-trailer",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T15:09:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748419",
-      "title": "Nintendo Says Super Mario Sunshine Joins Switch Online Expansion Pack on August 13 for Switch 2",
-      "url": "https://otakukart.com/nintendo-says-super-mario-sunshine-joins-switch-online-expansion-pack-on-august-13-for-switch-2/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-07-31T15:17:54+00:00"
-    },
     {
       "guid": "aYRTePK5xWY9ZL6SXqpb6A",
       "title": "Silent Hill producer believes shaking up the series was necessary to win over players because 'at best, only about half of the original users will return with a remake'",
@@ -810,6 +700,110 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-07-31T18:15:00+00:00"
+    },
+    {
+      "guid": "0c4f9c87-4d70-44ba-869f-4ce07459ff9e",
+      "title": "Booster Gold TV Show 'Won't Be Moving Forward' at DC, Writer Says",
+      "url": "https://www.ign.com/articles/booster-gold-tv-show-wont-be-moving-forward-at-dc-writer-says",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T19:46:52+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720862",
+      "title": "Can\u2019t Decide Between Nvidia And AMD Graphics Cards? Don\u2019t Worry, They\u2019re Both Rumored To Be Raising Prices",
+      "url": "https://kotaku.com/cant-decide-between-nvidia-and-amd-graphics-cards-dont-worry-theyre-both-rumored-to-be-raising-prices-2000720862",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T20:00:02+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720823",
+      "title": "A Comedic Driving Game That Encourages Vehicular Manslaughter Is The First Isekai I Don\u2019t Hate",
+      "url": "https://kotaku.com/truck-kun-is-supporting-me-from-another-world-impression-strange-scaffold-2000720823",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T19:40:08+00:00"
+    },
+    {
+      "guid": "Fm9Az3uREvhBH5CeZAvTfQ",
+      "title": "Bulletstorm is the stupidest game ever made, and also one of the cleverest shooters ever",
+      "url": "https://www.pcgamer.com/games/fps/bulletstorm-is-the-stupidest-game-ever-made-and-also-one-of-the-cleverest-shooters-ever/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T20:00:25+00:00"
+    },
+    {
+      "guid": "bqmcfiRczscaLqHabtAaSY",
+      "title": "Anthropic sees OpenAI cybersecurity disaster and says 'hold my beer,' reveals it accidentally hacked 3 companies in as many months without noticing",
+      "url": "https://www.pcgamer.com/software/ai/anthropic-sees-openai-cybersecurity-disaster-and-says-hold-my-beer-reveals-it-accidentally-hacked-3-companies-in-as-many-months-without-noticing/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T19:45:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237014268",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Sets All-Time First-Day High With $167M+ U.S., Could Beat \u2018Avengers: Endgame\u2019 $357M Weekend Record \u2013 Friday Box Office Update",
+      "url": "https://deadline.com/2026/07/box-office-spider-man-brand-new-day-1237014268/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T19:58:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825068",
+      "title": "Paramount Seeks Antitrust Trial in November, While States Ask for April 2027",
+      "url": "https://variety.com/2026/film/news/states-paramount-warner-bros-antitrust-trial-2027-1236825068/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T20:10:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236660406",
+      "title": "Iconic British Toy \u2018Action Man\u2019 Movie in the Works From Hasbro, Working Title (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/action-man-movie-in-the-works-from-hasbro-working-title-1236660406/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T20:12:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236661080",
+      "title": "Tori Spelling Exits \u2018Beverly Hills, 90210\u2019 Rewatch Podcast With Jennie Garth",
+      "url": "https://www.hollywoodreporter.com/business/digital/tori-spelling-exits-90210-rewatch-podcast-jennie-garth-1236661080/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T20:10:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236661076",
+      "title": "Phylicia Rashad Speaks on Her Surprise Return as Vonda Brooks in \u2018Diarra from Detroit\u2019\u00a0(Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/diarra-from-detroit-season-2-phylicia-rashad-vonda-interview-1236661076/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T20:06:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1235965382",
+      "title": "Article\u2019s Designer-Favorite Furniture Gets Its Annual Summer Promo \u2014 See Our 10 Sale Standouts",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/article-furniture-midcentury-modern-home-decor-sale-1235965382/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T20:03:39+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120508",
+      "title": "Nendoroid Figure Survey Asks About Basic and Standard Releases",
+      "url": "https://www.siliconera.com/nendoroid-figure-survey-asks-about-basic-and-standard-releases/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T20:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vc1n6a",
+      "title": "John Linneman from Digital Foundry said he heard from his sources that Microsoft was very much going to continue disc support before the Xbox \u201creset\u201d",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vc1n6a/john_linneman_from_digital_foundry_said_he_heard/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T20:02:28+00:00"
     }
   ]
 }
