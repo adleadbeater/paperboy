@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Thick as Thieves Is Done \u2014 No More Content Updates for the Heist Game",
-      "tag": "thick as thieves",
-      "posted_at": "2026-07-24T03:59:55.518785+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/thick-as-thieves-wont-be-getting-any-more-content-updates-to-be-frank-this-is-not-the-outcome-that-any-of-us-want/"
-      ],
-      "article_titles": [
-        "Thick as Thieves won't be getting any more content updates: 'To be frank, this is not the outcome that any of us want'"
-      ]
-    },
-    {
       "headline": "Assassin's Creed Black Flag Resynced Has Already Outsold Ubisoft's Entire Annual Forecast in Two Weeks",
       "tag": "assassin's creed black flag resynced",
       "posted_at": "2026-07-24T13:10:50.311569+00:00",
@@ -533,6 +522,17 @@
       "article_titles": [
         "\u2018Spider-Man: Brand New Day\u2019: Sadie Sink Is [SPOILER]. How Her Role Sets Up Marvel\u2019s Next Reboot"
       ]
+    },
+    {
+      "headline": "The voice of Baldur's Gate 3's Lady Dimitrescu and Orin the Red is returning for the next D&D video game",
+      "tag": "dungeons & dragons",
+      "posted_at": "2026-07-31T04:15:34.394534+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/action/the-voice-of-lady-d-and-orin-the-red-will-be-back-for-the-next-d-and-d-videogame/"
+      ],
+      "article_titles": [
+        "The voice of Lady D and Orin the Red will be back for the next D&D videogame"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -617,6 +617,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-07-31T00:41:08+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720603",
+      "title": "Sony Says Don\u2019t Panic, It Has Enough RAM For All The PS5s It Plans To Sell This Year With The Launch Of GTA 6",
+      "url": "https://kotaku.com/sony-says-dont-panic-it-has-enough-ram-for-all-the-ps5s-it-plans-to-sell-this-year-with-the-launch-of-gta-6-2000720603",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T03:53:28+00:00"
+    },
+    {
+      "guid": "wAoCiCaLMs9sT2eR5wpF8L",
+      "title": "The voice of Lady D and Orin the Red will be back for the next D&D videogame",
+      "url": "https://www.pcgamer.com/games/action/the-voice-of-lady-d-and-orin-the-red-will-be-back-for-the-next-d-and-d-videogame/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T03:45:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236824839",
+      "title": "Sony Pictures Revenue Drops 13% in June Quarter, Music Segment Sales Jump 21%",
+      "url": "https://variety.com/2026/film/news/sony-pictures-earnings-june-2026-music-playstation-sales-1236824839/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T03:58:51+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236648870",
+      "title": "\u2018Dancing With the Stars: The Next Pro\u2019 Cast: All the Dancers Vying for a Spot on Season 35",
+      "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-07-31T04:00:44+00:00"
+    },
+    {
+      "guid": "t3_1vbg0ro",
+      "title": "According to Brick Tap, a reliable source for Lego leaks, the PlayStation 1 set will include an Astro Bot as a gift-with-purchase.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vbg0ro/according_to_brick_tap_a_reliable_source_for_lego/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-07-31T04:06:05+00:00"
     }
   ]
 }
