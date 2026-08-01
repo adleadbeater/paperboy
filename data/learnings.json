@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "God of War: Laufey finally has a release date",
-      "tag": "god of war: laufey",
-      "posted_at": "2026-07-25T15:34:25.002005+00:00",
-      "urls": [
-        "https://www.eurogamer.net/god-of-war-laufey-release-date-confirmed"
-      ],
-      "article_titles": [
-        "God of War Laufey finally gets a release date - here's when you'll be able to play it"
-      ]
-    },
-    {
-      "headline": "Bethesda Says Xbox Layoffs Haven't Touched Elder Scrolls 6's Roadmap",
-      "tag": "the elder scrolls 6",
-      "posted_at": "2026-07-25T17:45:52.757653+00:00",
-      "urls": [
-        "https://kotaku.com/bethesda-addresses-concerns-that-the-elder-scrolls-6-will-be-impacted-by-xbox-layoffs-the-roadmap-is-unaffected-2000719305"
-      ],
-      "article_titles": [
-        "Bethesda Addresses Concerns That The Elder Scrolls 6 Will Be Impacted By Xbox Layoffs And Claims \u2018The Roadmap Is Unaffected\u2019"
-      ]
-    },
-    {
-      "headline": "Final Fantasy XIV Is Coming to Nintendo Switch 2 \u2014 Release Date and Pre-orders Now Live",
-      "tag": "final fantasy xiv",
-      "posted_at": "2026-07-25T17:45:52.943664+00:00",
-      "urls": [
-        "https://www.siliconera.com/ffxiv-switch-2-release-date-and-pre-orders-open/"
-      ],
-      "article_titles": [
-        "FFXIV Switch 2 Release Date and Pre-orders Open"
-      ]
-    },
-    {
       "headline": "Larian reiterates it has zero involvement in any Baldur's Gate 3 projects after Karlach comic reveal",
       "tag": "baldur's gate 3",
       "posted_at": "2026-07-25T22:14:56.801037+00:00",
@@ -507,43 +474,22 @@
       "article_titles": [
         "Ubisoft's NFT tactics game, a thing that still exists, is shutting down in October"
       ]
+    },
+    {
+      "headline": "Evangelion's Shinji voice actor calls AI voice cloning \"heartbreaking,\" urges Japanese government to act",
+      "tag": "neon genesis evangelion",
+      "posted_at": "2026-08-01T20:02:40.232838+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/"
+      ],
+      "article_titles": [
+        "The voice of Shinji in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "DTbQWrskTSu3YuJsTja7r5",
-      "title": "Question time: What makes a 'good' grind in an MMO?",
-      "url": "https://www.pcgamer.com/games/mmo/question-time-what-makes-a-good-grind-in-an-mmo/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-01T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236661359",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Leaps to Record $168M First Day for Historic Opening Weekend",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-opening-weekend-box-office-friday-1236661359/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-01T15:27:56+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204295",
-      "title": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For August & September 2026",
-      "url": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-august-and-september-2026",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T15:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748538",
-      "title": "Innocent Man Jailed for 18 Months After Skyrim-Inspired Username Mix-Up Leads to Wrongful Conviction",
-      "url": "https://otakukart.com/innocent-man-jailed-for-18-months-after-skyrim-inspired-username-mix-up-leads-to-wrongful-conviction/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T15:31:13+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236825405",
       "title": "\u2018Barbie\u2019 Sequel Stalls as David Zaslav Won\u2019t Approve Bigger Salaries for Ryan Gosling and Margot Robbie",
@@ -703,6 +649,46 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-01T18:29:49+00:00"
+    },
+    {
+      "guid": "tG2xTD5Axt8bMT7K5DthFF",
+      "title": "The voice of Shinji in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene",
+      "url": "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T19:49:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825734",
+      "title": "Lollapalooza Shortens Wolf Alice and Cortis Sets, Delays Several More Amid Intense Flooding",
+      "url": "https://variety.com/2026/music/news/lollapalooza-delays-flooding-wolf-alice-cortis-1236825734/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T19:47:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236661449",
+      "title": "Savannah Guthrie Issues Emotional Plea for Answers in Mom Nancy\u2019s Disappearance After Release of Ransom Notes",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/savannah-guthrie-plea-answers-nancy-ransom-notes-release-1236661449/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T19:58:54+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748624",
+      "title": "Netflix Faces $105 Million Lawsuit After Reportedly Losing Master Copy of Unreleased Nicolas Cage Film Fortitude",
+      "url": "https://otakukart.com/netflix-faces-105-million-lawsuit-after-reportedly-losing-master-copy-of-unreleased-nicolas-cage-film-fortitude/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-01T19:31:41+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748623",
+      "title": "Adolescence Star Owen Cooper Says He Memorized Every Line Before His Audition, Arriving Without a Script for His Breakthrough Netflix Role",
+      "url": "https://otakukart.com/adolescence-star-owen-cooper-says-he-memorized-every-line-before-his-audition-arriving-without-a-script-for-his-breakthrough-netflix-role/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-01T19:30:35+00:00"
     }
   ]
 }
