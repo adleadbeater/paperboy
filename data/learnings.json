@@ -491,94 +491,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236825405",
-      "title": "\u2018Barbie\u2019 Sequel Stalls as David Zaslav Won\u2019t Approve Bigger Salaries for Ryan Gosling and Margot Robbie",
-      "url": "https://variety.com/2026/film/news/barbie-2-margot-robbie-ryan-gosling-david-zaslav-1236825405/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-01T16:20:03+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236661206",
-      "title": "How Rufus Sewell Found a TV Role Worth Staying For",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/rufus-sewell-the-diplomat-emmys-1236661206/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-01T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236658581",
-      "title": "Did Zendaya Just Troll the Internet With Her \u2018Spider-Man: Brand New Day\u2019 Press Tour Looks?",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/zendaya-trolls-internet-spider-man-brand-new-day-looks-1236658581/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-01T16:15:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204492",
-      "title": "Could Xbox Get Its Revenge on PS6 by Supporting Physical Games?",
-      "url": "https://www.pushsquare.com/news/2026/08/could-xbox-get-its-revenge-on-ps6-by-supporting-physical-games",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204493",
-      "title": "\"What A Year It's Been\" - Commodore Celebrates Its Birthday With A New Game Initiative For Its C64 Ultimate",
-      "url": "https://www.timeextension.com/news/2026/08/what-a-year-its-been-commodore-celebrates-its-birthday-with-a-new-game-initiative-for-its-c64-ultimate",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748553",
-      "title": "Report Claims EA Sports FC 26 Reached 9.8 Million Daily Active Users Across Platforms, Far Beyond Steam Player Counts",
-      "url": "https://otakukart.com/report-claims-ea-sports-fc-26-reached-9-8-million-daily-active-users-across-platforms-far-beyond-steam-player-counts/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:38:31+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748554",
-      "title": "Final Fantasy 7 Revelation Director Says the Main Game Will Fully Conclude the Story, With Any DLC Focused Only on Untold Character Stories",
-      "url": "https://otakukart.com/final-fantasy-7-revelation-director-says-the-main-game-will-fully-conclude-the-story-with-any-dlc-focused-only-on-untold-character-stories/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:28:32+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748552",
-      "title": "Sony CFO Says \u201cDigitalization of Content\u201d Is the Biggest Reason PlayStation Won\u2019t Reverse Its Decision on Physical Discs",
-      "url": "https://otakukart.com/sony-cfo-says-digitalization-of-content-is-the-biggest-reason-playstation-wont-reverse-its-decision-on-physical-discs/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:18:30+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748550",
-      "title": "Path of Exile 2 Director Says Devs Had to Ship an Entire PC to Nvidia to Fix 18-Month Driver Bug",
-      "url": "https://otakukart.com/path-of-exile-2-director-says-devs-had-to-ship-an-entire-pc-to-nvidia-to-fix-18-month-driver-bug/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:11:29+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748555",
-      "title": "Clair Obscur: Expedition 33 Director Says Attack on Titan Is \u201can Absolute Masterpiece\u201d and Inspired the Game\u2019s Iconic Character Uniforms",
-      "url": "https://otakukart.com/clair-obscur-expedition-33-director-says-attack-on-titan-is-an-absolute-masterpiece-and-inspired-the-games-iconic-character-uniforms/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:10:34+00:00"
-    },
-    {
-      "guid": "t3_1vcrlfg",
-      "title": "Xbox reportedly wanted disc support on Project Helix console as advantage over PS6",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vcrlfg/xbox_reportedly_wanted_disc_support_on_project/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-01T16:19:59+00:00"
-    },
-    {
       "guid": "E2RAPWDccnAhusNNDKnD3d",
       "title": "OpenAI CEO suggests parents make AI-generated podcasts to remember their children's lives for them",
       "url": "https://www.pcgamer.com/software/ai/openai-ceo-suggests-parents-make-ai-generated-podcasts-to-remember-their-childrens-lives-for-them/",
@@ -689,6 +601,38 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-01T19:30:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721018",
+      "title": "Book Database Shutters AI Service Following Outrage Over Destroyed Rare Texts",
+      "url": "https://kotaku.com/book-database-shutters-ai-service-following-outrage-over-destroyed-rare-texts-2000721018",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T20:56:06+00:00"
+    },
+    {
+      "guid": "D58ZnABs8uUQKTJNqMynjA",
+      "title": "Dead Cells studio thanks Guillermo del Toro for playing its game, gently suggests he try the easy mode",
+      "url": "https://www.pcgamer.com/games/roguelike/dead-cells-studio-thanks-guillermo-del-toro-for-playing-its-game-gently-suggests-he-try-the-easy-mode/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T21:05:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825791",
+      "title": "Vincent Pastore, Who Played \u2018Big Pussy\u2019 on \u2018The Sopranos\u2019, Dies at 80",
+      "url": "https://variety.com/2026/tv/news/vincent-pastore-dead-big-pussy-the-sopranos-hbo-1236825791/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T20:55:29+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236661485",
+      "title": "Vincent Pastore, the Mobster \u201cBig Pussy\u201d on \u2018The Sopranos,\u2019 Dies at 80",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/vincent-pastore-dead-sopranos-big-pussy-1236661485/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T20:47:40+00:00"
     }
   ]
 }
