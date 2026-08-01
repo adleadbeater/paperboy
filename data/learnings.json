@@ -491,14 +491,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000721012",
-      "title": "Pragmata Devs Considered A Bob To Save On Hair Rendering",
-      "url": "https://kotaku.com/pragmata-devs-considered-a-bob-to-save-on-hair-rendering-2000721012",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-01T18:29:49+00:00"
-    },
-    {
       "guid": "tG2xTD5Axt8bMT7K5DthFF",
       "title": "The voice of Shinji in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene",
       "url": "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/",
@@ -601,6 +593,22 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-01T22:15:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236661494",
+      "title": "Vin Diesel Says \u2018Fast Forever\u2019 Is the \u201cBest Script\u201d He\u2019s Read in Decades: \u201cI Am Still Crying\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/vin-diesel-fast-forever-best-script-read-decades-update-1236661494/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-01T22:54:20+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204303",
+      "title": "PSA: Cowabunga! It's Turtle Time In Sonic Racing: CrossWorlds This Week",
+      "url": "https://www.nintendolife.com/news/2026/08/psa-cowabunga-its-turtle-time-in-sonic-racing-crossworlds-this-week",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-01T22:55:00+00:00"
     }
   ]
 }
