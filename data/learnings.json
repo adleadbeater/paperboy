@@ -513,14 +513,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236825389",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Leaks Online: Millions Watched Bootleg Before It Was Taken Down",
-      "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-leaked-high-quality-1236825389/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-07-31T23:47:48+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237015137",
       "title": "\u2018Home Improvement\u2019s Patricia Richardson Reunites With TV Sons Jonathan Taylor Thomas, Taran Noah Smith: \u201cMy Other Boys\u201d",
       "url": "https://deadline.com/2026/07/home-improvement-patricia-richardson-reunite-tv-sons-1237015137/",
@@ -535,6 +527,14 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-01T03:03:04+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204487",
+      "title": "Virtual Boy Cardboard Model Gets A Limited-Time Discount In Select Locations",
+      "url": "https://www.nintendolife.com/news/2026/08/virtual-boy-cardboard-model-gets-a-limited-time-discount-in-select-locations",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-01T04:00:00+00:00"
     }
   ]
 }
