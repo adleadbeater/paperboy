@@ -480,30 +480,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "z8BftnnNd7EABoKRgXJYai",
-      "title": "Champion modder ports the OG 'Father' Nier back into the PC remaster, original voiceovers and all",
-      "url": "https://www.pcgamer.com/games/action/champion-modder-ports-the-og-father-nier-back-into-the-pc-remaster-original-voiceovers-and-all/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T17:33:01+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237015503",
-      "title": "Universal Becomes First Studio To Conquer $4B+ At Global B.O. YTD As \u2018Odyssey\u2019 Heads For $1B WW",
-      "url": "https://deadline.com/2026/08/universal-2026-global-box-office-odyssey-billion-1237015503/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T17:45:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237015496",
-      "title": "Modest Mouse Replaces Guitarist Simon O\u2019Connor Amid Allegations Of DMing Minor",
-      "url": "https://deadline.com/2026/08/modest-mouse-replaces-guitarist-allegations-dm-minor-1237015496/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T17:34:14+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237015511",
       "title": "North American Box Office Sees Record $429M Weekend Thanks To \u2018Brand New Day\u2019; YTD B.O. Soars Past $6B",
       "url": "https://deadline.com/2026/08/box-office-domestic-record-weekend-spider-man-brand-new-day-1237015511/",
@@ -582,6 +558,38 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-02T20:49:57+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721080",
+      "title": "\u2018Retro Game Master\u2019 Shinya Arino Makes Fans Feel Ancient As Wii Games Up For Consideration",
+      "url": "https://kotaku.com/retro-game-master-shinya-arino-makes-fans-feel-ancient-as-wii-games-up-for-consideration-2000721080",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T21:57:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015560",
+      "title": "\u2018Hadestown: The Musical\u2019 Is Now Top Grossing Live Theater Capture \u2013 Specialty Box Office",
+      "url": "https://deadline.com/2026/08/indie-film-box-office-hadestown-the-musical-1237015560/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T21:40:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826065",
+      "title": "Pima County Sheriff\u2019s Department Made Several Mistakes During Search for Nancy Guthrie, New Report Claims",
+      "url": "https://variety.com/2026/tv/news/pima-county-sheriff-department-mistakes-nancy-guthrie-1236826065/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T22:13:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826067",
+      "title": "Christopher Nolan Says There Is a \u2018Fundamental Flaw\u2019 With Amateur Film Criticism: \u2018To Identify the Mechanism Does Not Invalidate the Mechanism\u2019",
+      "url": "https://variety.com/2026/film/news/christopher-nolan-flaw-film-criticism-the-odyssey-1236826067/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T21:56:02+00:00"
     }
   ]
 }
