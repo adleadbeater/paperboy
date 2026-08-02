@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The 'Unfilmable' Neuromancer Finally Has a Trailer \u2014 and It Looks Like It Actually Exists",
-      "tag": "neuromancer",
-      "posted_at": "2026-07-26T15:35:45.225843+00:00",
-      "urls": [
-        "https://kotaku.com/unfilmable-cyberpunk-classic-neuromancer-receives-first-trailer-2000719381"
-      ],
-      "article_titles": [
-        "\u2018Unfilmable\u2019 Cyberpunk Classic Neuromancer Receives First Trailer"
-      ]
-    },
-    {
-      "headline": "Wuchang: Fallen Feathers Hits 5 Million Players Even as Its Developer Has Collapsed",
-      "tag": "wuchang: fallen feathers",
-      "posted_at": "2026-07-26T15:35:45.460296+00:00",
-      "urls": [
-        "https://www.eurogamer.net/wuchang-fallen-feathers-5-million-players"
-      ],
-      "article_titles": [
-        "Wuchang: Fallen Feathers tops 5 million players despite dev team's collapse"
-      ]
-    },
-    {
       "headline": "Xbox Server Outage Locked Players Out of Their Own Games \u2014 and It's a Wake-Up Call for the All-Digital Era",
       "tag": "xbox",
       "posted_at": "2026-07-27T14:04:10.799373+00:00",
@@ -485,51 +463,22 @@
       "article_titles": [
         "Story of Seasons mobile game cancelled as Marvelous cuts six-year Tencent partnership"
       ]
+    },
+    {
+      "headline": "Buckshot Roulette's Creator Just Dropped a Surprise Mario Party-Style Horror Game",
+      "tag": "buckshot roulette",
+      "posted_at": "2026-08-02T20:02:57.353124+00:00",
+      "urls": [
+        "https://kotaku.com/buckshot-roulette-creator-unleashes-a-new-black-hearted-mario-party-style-massacre-2000721071"
+      ],
+      "article_titles": [
+        "Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "cN7K4MmsW9RosPTYXcD5mZ",
-      "title": "One of Kerbal Space Program's biggest inspirations was a promotional Flash game for Top Gear: 'That was the most similar game to KSP that I could find back then'",
-      "url": "https://www.pcgamer.com/gaming-industry/one-of-kerbal-space-programs-biggest-inspirations-was-a-promotional-flash-game-for-top-gear-that-was-the-most-similar-game-to-ksp-that-i-could-find-back-then/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237012646",
-      "title": "Haile Gerima Dissects His 10 Hour Documentary Feature \u2018Black Lions \u2013 Roman Wolves\u2019 & Teases His Next Project On America\u2019s Black Maroons",
-      "url": "https://deadline.com/2026/08/haile-gerima-black-lions-roman-wolves-black-maroons-1237012646/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T15:02:43+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236825953",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Swings to Mind-Blowing $355 Million Debut, Second-Biggest Opening Weekend in Box Office History",
-      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T15:03:20+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236661703",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Soars to $355M for Second-Biggest Opening Weekend Ever",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-opening-weekend-second-1236661703/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T15:18:51+00:00"
-    },
-    {
-      "guid": "t3_1vdkrnp",
-      "title": "Tyler McVicker on Steam Frame price: \"It's too much\", \"My old base unit price guess was $1100 and I think it's much higher\"",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vdkrnp/tyler_mcvicker_on_steam_frame_price_its_too_much/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-02T15:19:32+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000721053",
       "title": "Wonder Man Showrunner Opens Up On Sudden Cancellation In TikTok Video, As Confused As Anyone Else",
@@ -601,6 +550,46 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-02T18:20:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721071",
+      "title": "Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre",
+      "url": "https://kotaku.com/buckshot-roulette-creator-unleashes-a-new-black-hearted-mario-party-style-massacre-2000721071",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T19:32:55+00:00"
+    },
+    {
+      "guid": "jGxdqaM7SfMJmTAVtH3XDU",
+      "title": "American Truck Simulator is headed to North Dakota in its latest DLC",
+      "url": "https://www.pcgamer.com/games/sim/american-truck-simulator-is-headed-to-north-dakota-in-its-latest-dlc/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T19:35:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015542",
+      "title": "Ariana Grande Exits West End\u2019s \u2018Sunday in the Park with George\u2019 Revival Amid \u201cOngoing Public Scrutiny\u201d",
+      "url": "https://deadline.com/2026/08/ariana-grande-exits-west-end-sunday-in-the-park-with-george-1237015542/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T19:51:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826037",
+      "title": "Ariana Grande to Take \u2018Step Back From Visibility\u2019\u00a0 After Tour Ends Amid \u2018Public Scrutiny,\u2019 Drops Out of \u2018Sunday in the Park With George\u2019 Musical",
+      "url": "https://variety.com/2026/music/news/ariana-grande-step-back-public-scrutiny-sunday-in-the-park-1236826037/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T19:56:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748740",
+      "title": "Ichijyoma Mankitsu Gurashi! and KILL BLUE Season 1 Marathons Now Streaming Free on It\u2019s Anime YouTube Channel",
+      "url": "https://otakukart.com/ichijyoma-mankitsu-gurashi-and-kill-blue-season-1-marathons-now-streaming-free-on-its-anime-youtube-channel/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-02T19:29:33+00:00"
     }
   ]
 }
