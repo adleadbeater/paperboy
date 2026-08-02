@@ -480,22 +480,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237015511",
-      "title": "North American Box Office Sees Record $429M Weekend Thanks To \u2018Brand New Day\u2019; YTD B.O. Soars Past $6B",
-      "url": "https://deadline.com/2026/08/box-office-domestic-record-weekend-spider-man-brand-new-day-1237015511/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T18:20:26+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236661720",
-      "title": "Nancy Guthrie Case Haunted by Sheriff\u2019s Department\u2019s Possible Mistakes",
-      "url": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T18:20:13+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000721071",
       "title": "Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre",
       "url": "https://kotaku.com/buckshot-roulette-creator-unleashes-a-new-black-hearted-mario-party-style-massacre-2000721071",
@@ -590,6 +574,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-02T21:56:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826098",
+      "title": "Phil Collins Says He Almost Died in 2024 From Alcohol Abuse: \u2018People Were Coming to Say Goodbye\u2019",
+      "url": "https://variety.com/2026/music/news/phil-collins-almost-died-2024-alcohol-abuse-1236826098/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T23:01:43+00:00"
     }
   ]
 }
