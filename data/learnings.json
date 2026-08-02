@@ -491,22 +491,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236825637",
-      "title": "Stassi Schroeder Takes Us Inside That Explosive \u2018House of Stassi\u2019 Finale: \u2018I Felt Like Julius Caesar\u2019",
-      "url": "https://variety.com/2026/tv/news/house-of-stassi-finale-stassi-schroeder-fight-beau-clark-katie-maloney-hulu-1236825637/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T14:00:00+00:00"
-    },
-    {
-      "guid": "HFGRRaNAGkqgQQauiWqe4J",
-      "title": "Shigeru Miyamoto says \"I don't really play games by myself anymore,\" years after confirming Nintendo hires people who \"aren't super passionate game fans\"",
-      "url": "https://www.gamesradar.com/games/shigeru-miyamoto-says-i-dont-really-play-games-by-myself-anymore-years-after-confirming-nintendo-hires-people-who-arent-super-passionate-game-fans/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-02T14:00:00+00:00"
-    },
-    {
       "guid": "cN7K4MmsW9RosPTYXcD5mZ",
       "title": "One of Kerbal Space Program's biggest inspirations was a promotional Flash game for Top Gear: 'That was the most similar game to KSP that I could find back then'",
       "url": "https://www.pcgamer.com/gaming-industry/one-of-kerbal-space-programs-biggest-inspirations-was-a-promotional-flash-game-for-top-gear-that-was-the-most-similar-game-to-ksp-that-i-could-find-back-then/",
@@ -601,6 +585,22 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-02T17:34:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015511",
+      "title": "North American Box Office Sees Record $429M Weekend Thanks To \u2018Brand New Day\u2019; YTD B.O. Soars Past $6B",
+      "url": "https://deadline.com/2026/08/box-office-domestic-record-weekend-spider-man-brand-new-day-1237015511/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T18:20:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236661720",
+      "title": "Nancy Guthrie Case Haunted by Sheriff\u2019s Department\u2019s Possible Mistakes",
+      "url": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T18:20:13+00:00"
     }
   ]
 }
