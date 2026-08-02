@@ -480,38 +480,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000721053",
-      "title": "Wonder Man Showrunner Opens Up On Sudden Cancellation In TikTok Video, As Confused As Anyone Else",
-      "url": "https://kotaku.com/wonder-man-showrunner-opens-up-on-sudden-cancellation-in-tiktok-video-as-confused-as-anyone-else-2000721053",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T16:39:15+00:00"
-    },
-    {
-      "guid": "SNBmS9jRvZvtKsaJYkREKk",
-      "title": "Baldur's Gate 3 is the cheapest it's ever been to celebrate its third anniversary",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-the-cheapest-its-ever-been-to-celebrate-its-third-anniversary/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T16:13:15+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236825977",
-      "title": "\u2018Wonder Man\u2019 Co-Creator Says \u2018Contracts Were Signed, Schedules Were Cleared\u2019 Before Marvel Series Was Canceled: \u2018This Is Not a Marketing Stunt\u2019",
-      "url": "https://variety.com/2026/tv/news/wonder-man-canceled-co-creator-reaction-marvel-disney-1236825977/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T16:10:35+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236825132",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 and \u2018The Odyssey\u2019 Power Biggest Collective Weekend in Box Office History With $430 Million",
-      "url": "https://variety.com/2026/film/box-office/the-odyssey-spiderman-biggest-box-office-weekend-history-1236825132/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T16:09:06+00:00"
-    },
-    {
       "guid": "z8BftnnNd7EABoKRgXJYai",
       "title": "Champion modder ports the OG 'Father' Nier back into the PC remaster, original voiceovers and all",
       "url": "https://www.pcgamer.com/games/action/champion-modder-ports-the-og-father-nier-back-into-the-pc-remaster-original-voiceovers-and-all/",
@@ -590,6 +558,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-02T19:29:33+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/final-fantasy-7-revelation-remake-rebirth-sales",
+      "title": "As hype builds for Final Fantasy 7 Revelation, Remake and Rebirth continue to sell well",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-remake-rebirth-sales",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T20:43:09+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721076",
+      "title": "Multiple Major ASMR Accounts Suddenly Removed From YouTube Over \u2018Explicit Content\u2019",
+      "url": "https://kotaku.com/multiple-major-asmr-accounts-suddenly-removed-from-youtube-over-explicit-content-2000721076",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T20:55:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015553",
+      "title": "Christopher Nolan Calls Out \u201cA Real Problem\u201d In Amateur Film Criticism",
+      "url": "https://deadline.com/2026/08/christopher-nolan-real-problem-amateur-film-criticism-1237015553/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T20:49:57+00:00"
     }
   ]
 }
