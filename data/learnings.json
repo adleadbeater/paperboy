@@ -491,22 +491,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/story-of-seasons-mobile-cancelled",
-      "title": "Story of Seasons mobile game cancelled as Marvelous cuts six-year Tencent partnership",
-      "url": "https://www.eurogamer.net/story-of-seasons-mobile-cancelled",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-02T12:36:57+00:00"
-    },
-    {
-      "guid": "w8NopRVxJir4n73JH3KM2E",
-      "title": "Clair Obscur Expedition 33's studio is a manor that looks just like the one in the RPG, but it was a pure coincidence: \"It shouldn't feel like coming to an office\"",
-      "url": "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33s-studio-is-a-manor-that-looks-just-like-the-one-in-the-rpg-but-it-was-a-pure-coincidence-it-shouldnt-feel-like-coming-to-an-office/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-02T12:32:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236825637",
       "title": "Stassi Schroeder Takes Us Inside That Explosive \u2018House of Stassi\u2019 Finale: \u2018I Felt Like Julius Caesar\u2019",
       "url": "https://variety.com/2026/tv/news/house-of-stassi-finale-stassi-schroeder-fight-beau-clark-katie-maloney-hulu-1236825637/",
@@ -561,6 +545,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-02T15:19:32+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721053",
+      "title": "Wonder Man Showrunner Opens Up On Sudden Cancellation In TikTok Video, As Confused As Anyone Else",
+      "url": "https://kotaku.com/wonder-man-showrunner-opens-up-on-sudden-cancellation-in-tiktok-video-as-confused-as-anyone-else-2000721053",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T16:39:15+00:00"
+    },
+    {
+      "guid": "SNBmS9jRvZvtKsaJYkREKk",
+      "title": "Baldur's Gate 3 is the cheapest it's ever been to celebrate its third anniversary",
+      "url": "https://www.pcgamer.com/games/baldurs-gate/baldurs-gate-3-is-the-cheapest-its-ever-been-to-celebrate-its-third-anniversary/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T16:13:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825977",
+      "title": "\u2018Wonder Man\u2019 Co-Creator Says \u2018Contracts Were Signed, Schedules Were Cleared\u2019 Before Marvel Series Was Canceled: \u2018This Is Not a Marketing Stunt\u2019",
+      "url": "https://variety.com/2026/tv/news/wonder-man-canceled-co-creator-reaction-marvel-disney-1236825977/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T16:10:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825132",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 and \u2018The Odyssey\u2019 Power Biggest Collective Weekend in Box Office History With $430 Million",
+      "url": "https://variety.com/2026/film/box-office/the-odyssey-spiderman-biggest-box-office-weekend-history-1236825132/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T16:09:06+00:00"
     }
   ]
 }
