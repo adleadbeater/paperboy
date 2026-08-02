@@ -489,5 +489,22 @@
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": []
+  "article_cache": [
+    {
+      "guid": "https://variety.com/?p=1236825826",
+      "title": "Toymaker Hasbro Reimagines Most Iconic Board Games With Spider-Man-Themed Graphics and Gameplay",
+      "url": "https://variety.com/2026/shopping/news/best-spider-man-board-games-hasbro-monopoly-buy-online-1236825826/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T03:55:33+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236661508",
+      "title": "Sandra Bullock and Nicole Kidman Make Surprise Appearance at \u2018Practical Magic\u2019 Screening",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sandra-bullock-nicole-kidman-practical-magic-appearance-1236661508/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-02T04:01:08+00:00"
+    }
+  ]
 }
