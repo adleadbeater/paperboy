@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox Server Outage Locked Players Out of Their Own Games \u2014 and It's a Wake-Up Call for the All-Digital Era",
-      "tag": "xbox",
-      "posted_at": "2026-07-27T14:04:10.799373+00:00",
-      "urls": [
-        "https://kotaku.com/xbox-servers-go-down-and-lock-fans-out-of-games-as-a-grim-reminder-of-our-all-digital-future-2000719471"
-      ],
-      "article_titles": [
-        "Xbox Servers Go Down And Lock Fans Out Of Games As A Grim Reminder Of Our All-Digital Future"
-      ]
-    },
-    {
       "headline": "The Pok\u00e9mon Company Is Using Facial Recognition to Fight Scalpers at Events",
       "tag": "pok\u00e9mon",
       "posted_at": "2026-07-27T16:37:08.230328+00:00",
@@ -564,6 +553,19 @@
       "article_titles": [
         "Final Fantasy 7 Revelation's Surprise Job System Keeps Things Simple with Just Four Jobs Per Character"
       ]
+    },
+    {
+      "headline": "Valve Is Quietly Finalizing Steam Frame, Its Linux Gaming Software Stack",
+      "tag": "steam",
+      "posted_at": "2026-08-03T14:08:28.042798+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/vr-hardware/valve-may-be-putting-the-finishing-touches-to-the-steam-frame-software-stack-because-lepton-and-fex-are-now-on-steam/",
+        "https://www.pcgamer.com/hardware/vr-hardware/valve-may-be-putting-the-finishing-touches-to-the-steam-frame-software-stack-because-lepton-and-fex-are-now-on-steam/"
+      ],
+      "article_titles": [
+        "Valve may be putting the finishing touches to the Steam Frame software stack, because Lepton and FEX are now on Steam",
+        "Valve may be putting the finishing touches to the Steam Frame software stack, because Lepton and FEX are now on Steam"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -576,14 +578,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-03T10:19:00+00:00"
-    },
-    {
-      "guid": "JjJ4Yh4M9b32MpfheYHyUD",
-      "title": "Wonder Man showrunner reacts to cancellation and is just as confused as you are: \"I had written the first episode of season 2\"",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/wonder-man-showrunner-reacts-to-cancellation-and-is-just-as-confused-as-you-are-i-had-written-the-first-episode-of-season-2/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T10:05:55+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1748878",
@@ -1136,6 +1130,62 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-03T13:54:36+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015708",
+      "title": "\u2018Spider-Man\u2019 Sets Imax Release Date In North America",
+      "url": "https://deadline.com/2026/08/spider-man-brand-new-day-imax-release-north-america-1237015708/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T14:06:22+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015697",
+      "title": "MS NOW Sets Debut For Peter Alexander\u2019s Weekday Show",
+      "url": "https://deadline.com/2026/08/peter-alexander-ms-now-debut-1237015697/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T14:05:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015703",
+      "title": "\u2018The Wicker Man\u2019 Sequel Director Justin Hardy Dies Just Weeks Before Premiere At Age 61",
+      "url": "https://deadline.com/2026/08/justin-hardy-dead-director-sequel-wicker-man-wrath-gods-1237015703/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T14:02:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826277",
+      "title": "MS NOW Launches Peter Alexander\u2019s \u2018State of Play\u2019 August 10",
+      "url": "https://variety.com/2026/tv/news/peter-alexander-ms-now-state-of-play-launch-1236826277/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T14:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659058",
+      "title": "\u2018The Green Eyes,\u2019 Inspired by Resignation Syndrome, Opens Locarno With a Story Told From a Refugee Child\u2019s Perspective to \u201cTry to Revive Empathy\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-film-the-green-eyes-refugee-resignation-syndrome-1236659058/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T14:05:00+00:00"
+    },
+    {
+      "guid": "jztr6HNkFXSbStnjC3Bm9j",
+      "title": "Final Fantasy 7 Revelation boss says the ending \"might be fully faithful to the original\" RPG, or \"it might end up being something completely different\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-boss-says-the-ending-might-be-fully-faithful-to-the-original-rpg-or-it-might-end-up-being-something-completely-different/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T13:53:33+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120572",
+      "title": "Heaven Burns Red Main Story Ending",
+      "url": "https://www.siliconera.com/heaven-burns-red-main-story-ending/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T14:00:44+00:00"
     }
   ]
 }
