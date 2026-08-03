@@ -635,70 +635,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237014475",
-      "title": "\u2018The Boys\u2019 VFX Firm Untold Hires Film & Episodic Chief",
-      "url": "https://deadline.com/2026/08/untold-studios-hires-adrianna-cohen-film-episodic-president-1237014475/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236825210",
-      "title": "\u2018Warhammer 40,000\u2019 Animated Series in Development at Amazon, Henry Cavill to Produce (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204520",
-      "title": "Sony's Spider-Man Games Enjoy Player Boost on Back of Brand New Day's Box Office Success",
-      "url": "https://www.pushsquare.com/news/2026/08/sonys-spider-man-games-enjoy-player-boost-on-back-of-brand-new-days-box-office-success",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120568",
-      "title": "Infold Breaks Love and Deepspace Valko Silence With Caleb Trailer",
-      "url": "https://www.siliconera.com/infold-breaks-love-and-deepspace-valko-silence-with-caleb-trailer/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T13:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748963",
-      "title": "82MAJOR Expands Global Footprint with High-Energy Fan Concert in Macau",
-      "url": "https://otakukart.com/82major-expands-global-footprint-with-high-energy-fan-concert-in-macau/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T13:00:01+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748965",
-      "title": "ENHYPEN Concludes Monumental Americas Tour Drawing 193,000 Fans Across Eight Cities",
-      "url": "https://otakukart.com/enhypen-concludes-monumental-americas-tour-drawing-193000-fans-across-eight-cities/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T12:55:42+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748810",
-      "title": "MADEIN Achieves Major Milestone with Sold-Out Debut Solo Concert in Japan",
-      "url": "https://otakukart.com/madein-achieves-major-milestone-with-sold-out-debut-solo-concert-in-japan/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T12:53:14+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748812",
-      "title": "SEVENTEEN\u2019s Jeonghan Opens Up About the Extreme Methods and Emotional Toll of His Trainee Days",
-      "url": "https://otakukart.com/seventeens-jeonghan-opens-up-about-the-extreme-methods-and-emotional-toll-of-his-trainee-days/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T12:47:26+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000721180",
       "title": "The God Of War Show Is Also Recasting Atreus, But Not Until Season 2",
       "url": "https://kotaku.com/god-of-war-show-atreus-actor-recast-callum-vinson-amazon-2000721180",
@@ -721,14 +657,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-03T13:10:36+00:00"
-    },
-    {
-      "guid": "TfAoH8birRfapB3SpoTnYN",
-      "title": "Communication is the biggest puzzle piece in chill co-op game Big Walk, so don't take any shortcuts by using Discord",
-      "url": "https://www.pcgamer.com/games/puzzle/communication-is-the-biggest-puzzle-piece-in-chill-co-op-game-big-walk-so-dont-take-any-shortcuts-by-using-discord/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T13:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237015696",
@@ -1585,6 +1513,102 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-03T16:42:16+00:00"
+    },
+    {
+      "guid": "34a1c259-3aec-4b85-b72b-2bd34068cf45",
+      "title": "The 4K-Ready iBuypower AMD Ryzen 9 9900X Radeon RX 9070 XT Gaming PC Drops to $1,799",
+      "url": "https://www.ign.com/articles/ibuypower-radeon-rx-9070-xt-gaming-pc-deal-july-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:45:00+00:00"
+    },
+    {
+      "guid": "4507a451-201c-4165-a709-94947873f9b4",
+      "title": "Spider-Man: Brand New Day 4K and Blu-Ray Preorders Are Live \u2013 Here\u2019s Where You Can Buy It",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-4k-blu-ray-where-to-buy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:44:12+00:00"
+    },
+    {
+      "guid": "a76521a6-fc9c-4d26-9b69-ca5af1775595",
+      "title": "'To Be Able to Identify the Mechanism Does Not Invalidate the Mechanism' \u2014 Christopher Nolan Lays Out a 'Fundamental Flaw' With Amateur Film Criticism",
+      "url": "https://www.ign.com/articles/to-be-able-to-identify-the-mechanism-does-not-invalidate-the-mechanism-christopher-nolan-lays-out-a-fundamental-flaw-with-amateur-film-criticism",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:42:12+00:00"
+    },
+    {
+      "guid": "92d4e24a-f5f1-4ca1-b8ad-95a33f377fe7",
+      "title": "Assassin's Creed Black Flag Resynced Update 1.0.6 Launches Tomorrow \u2014 Here Are The Patch Notes",
+      "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-update-106-launches-tomorrow-here-are-the-patch-notes",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:32:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826445",
+      "title": "Spain\u2019s RTVE Joins Netflix, Universal on F\u00e9lix Viscarret\u2019s ETA Drama \u2018Blanco\u2019",
+      "url": "https://variety.com/2026/film/markets-festivals/rtve-netflix-universal-felix-viscarret-blanco-1236826445/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:43:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236662368",
+      "title": "\u2018Practical Magic 2\u2019 Inspires Official Merchandise From Charlotte Tilbury, Wayfair and More (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/practical-magic-2-movie-merch-fashion-home-beauty-products-1236662368/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T17:00:00+00:00"
+    },
+    {
+      "guid": "wJKzHCTfA3cXk5X6rVDVWS",
+      "title": "Pocketpair lead says \"TemTem are not our rivals\" as the series gets its own Palworld-like survival game",
+      "url": "https://www.gamesradar.com/games/survival/pocketpair-lead-says-temtem-are-not-our-rivals-as-the-series-gets-its-own-palworld-like-survival-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:43:03+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204535",
+      "title": "Black Ops 2's PS5 Port Receives Emergency Patch After Hackers Bricked Accounts",
+      "url": "https://www.pushsquare.com/news/2026/08/black-ops-2s-ps5-port-receives-emergency-patch-after-hackers-bricked-accounts",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204538",
+      "title": "AC Black Flag Resynced Improved with 5GB PS5 Patch This Week",
+      "url": "https://www.pushsquare.com/news/2026/08/ac-black-flag-resynced-improved-with-5gb-ps5-patch-this-week",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120578",
+      "title": "Goddess of Victory: NIKKE Anis, Neon and Rapi Persona Crossovers Teased",
+      "url": "https://www.siliconera.com/goddess-of-victory-nikke-anis-neon-and-rapi-persona-crossovers-teased/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615068",
+      "title": "D&D: Five Things I Hope The \u2018World Of Warcraft\u2019 Expansion Has (But Probably Won\u2019t)",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-five-things-i-hope-the-world-of-warcraft-expansion-has-but-probably-wont.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615156",
+      "title": "9 New Subclasses, 16 Species \u2013 Here\u2019s What We Know About D&D x World Of Warcraft",
+      "url": "https://www.belloflostsouls.net/2026/08/9-new-subclasses-16-species-heres-what-we-know-about-dd-x-world-of-warcraft.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:45:40+00:00"
     }
   ]
 }
