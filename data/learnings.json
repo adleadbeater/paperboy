@@ -635,22 +635,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "06c62786-27ef-4758-a3cc-7cbe0c0a3f0d",
-      "title": "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed",
-      "url": "https://www.ign.com/articles/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T12:35:37+00:00"
-    },
-    {
-      "guid": "PuQZV3A4pJqPC96jcmdEfP",
-      "title": "Noctua shows off 'custom-built torture-test rigs' for testing fans, and now I'm afraid of ever setting foot in the Noctua factory",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/noctua-shows-off-custom-built-torture-test-rigs-for-testing-fans-and-now-im-afraid-of-ever-setting-foot-in-the-noctua-factory/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T12:40:21+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237014475",
       "title": "\u2018The Boys\u2019 VFX Firm Untold Hires Film & Episodic Chief",
       "url": "https://deadline.com/2026/08/untold-studios-hires-adrianna-cohen-film-episodic-president-1237014475/",
@@ -659,28 +643,12 @@
       "published_dt": "2026-08-03T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237014689",
-      "title": "Kara Robinson Chamberlain To Host True-Crime Series For Freeform From Ample",
-      "url": "https://deadline.com/2026/08/kara-robinson-chamberlain-true-crime-series-freeform-1237014689/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T12:40:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236825210",
       "title": "\u2018Warhammer 40,000\u2019 Animated Series in Development at Amazon, Henry Cavill to Produce (EXCLUSIVE)",
       "url": "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-03T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236662933",
-      "title": "Charlie Ergen\u2019s EchoStar Loses 241,000 Pay TV Subs, Hughes Unit Files for Chapter 11 Bankruptcy",
-      "url": "https://www.hollywoodreporter.com/business/business-news/charlie-ergens-echostar-1236662933/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T12:40:50+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-204520",
@@ -729,14 +697,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-03T12:47:26+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1748967",
-      "title": "aespa to Broadcast Landmark First Gocheok Sky Dome Concert Live across 146 Global Movie Theaters",
-      "url": "https://otakukart.com/aespa-to-broadcast-landmark-first-gocheok-sky-dome-concert-live-across-146-global-movie-theaters/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T12:37:13+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000721180",
@@ -1561,6 +1521,70 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-03T15:55:50+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721209",
+      "title": "Henry Cavill Is Working On A Warhammer 40K Animated Show For Amazon",
+      "url": "https://kotaku.com/henry-cavill-warhammer-40k-animated-show-amazon-tim-miller-2000721209",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:30:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237015682",
+      "title": "Matt Stein Joins Pocket.watch From Philo",
+      "url": "https://deadline.com/2026/08/matt-stein-joins-pocket-watch-from-philo-1237015682/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:31:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663112",
+      "title": "Gavin Leatherwood Joins Nina Dobrev in Film Adaptation of BookTok Hit \u2018It Happened One Summer\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/gavin-leatherwood-nina-dobrev-it-happened-one-summer-film-1236663112/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T16:40:45+00:00"
+    },
+    {
+      "guid": "PcKZwJVtFVniTmRSb3YDRZ",
+      "title": "Best Pokemon TCG Pocket Mega Rayquaza ex deck",
+      "url": "https://www.gamesradar.com/games/pokemon/pokemon-tcg-pocket-mega-rayquaza-ex-deck/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:29:33+00:00"
+    },
+    {
+      "guid": "zKrtradFLDKydAQwTXbyE6",
+      "title": "Best Pokemon TCG Pocket Vespiquen ex deck",
+      "url": "https://www.gamesradar.com/games/pokemon/pokemon-tcg-pocket-vespiquen-ex-deck/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:29:23+00:00"
+    },
+    {
+      "guid": "85pQqHxq57hrbmvfPKD46L",
+      "title": "Best Pokemon TCG Pocket Puppy Pile deck",
+      "url": "https://www.gamesradar.com/games/pokemon/pokemon-tcg-pocket-puppy-pile-deck/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:29:10+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204534",
+      "title": "AYANEO Says It Will Release A GBA SP Clone, It Just Hasn't Figured Out How To Do It Yet",
+      "url": "https://www.timeextension.com/news/2026/08/ayaneo-says-it-will-release-a-gba-sp-clone-it-just-hasnt-figured-out-how-to-do-it-yet",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:30:00+00:00"
+    },
+    {
+      "guid": "t3_1veipjy",
+      "title": "The Verge corroborates previously-leaked Xbox disc-to-digital roadmap",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1veipjy/the_verge_corroborates_previouslyleaked_xbox/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T16:42:16+00:00"
     }
   ]
 }
