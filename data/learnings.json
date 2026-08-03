@@ -507,6 +507,28 @@
       "article_titles": [
         "Square Enix responds to Kingdom Hearts Collection AI controversy two months after players called it out"
       ]
+    },
+    {
+      "headline": "Henry Cavill Is Producing a Warhammer 40,000 Animated Series at Amazon",
+      "tag": "warhammer 40,000",
+      "posted_at": "2026-08-03T13:01:06.335779+00:00",
+      "urls": [
+        "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/"
+      ],
+      "article_titles": [
+        "\u2018Warhammer 40,000\u2019 Animated Series in Development at Amazon, Henry Cavill to Produce (EXCLUSIVE)"
+      ]
+    },
+    {
+      "headline": "Rust Fan Sues Police After Swatting Attack Leaves Him Paralyzed",
+      "tag": "rust",
+      "posted_at": "2026-08-03T13:01:06.533006+00:00",
+      "urls": [
+        "https://www.ign.com/articles/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed"
+      ],
+      "article_titles": [
+        "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -863,6 +885,118 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-03T12:29:25+00:00"
+    },
+    {
+      "guid": "06c62786-27ef-4758-a3cc-7cbe0c0a3f0d",
+      "title": "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed",
+      "url": "https://www.ign.com/articles/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T12:35:37+00:00"
+    },
+    {
+      "guid": "PuQZV3A4pJqPC96jcmdEfP",
+      "title": "Noctua shows off 'custom-built torture-test rigs' for testing fans, and now I'm afraid of ever setting foot in the Noctua factory",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/noctua-shows-off-custom-built-torture-test-rigs-for-testing-fans-and-now-im-afraid-of-ever-setting-foot-in-the-noctua-factory/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T12:40:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237014475",
+      "title": "\u2018The Boys\u2019 VFX Firm Untold Hires Film & Episodic Chief",
+      "url": "https://deadline.com/2026/08/untold-studios-hires-adrianna-cohen-film-episodic-president-1237014475/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237014689",
+      "title": "Kara Robinson Chamberlain To Host True-Crime Series For Freeform From Ample",
+      "url": "https://deadline.com/2026/08/kara-robinson-chamberlain-true-crime-series-freeform-1237014689/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T12:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236825210",
+      "title": "\u2018Warhammer 40,000\u2019 Animated Series in Development at Amazon, Henry Cavill to Produce (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236662933",
+      "title": "Charlie Ergen\u2019s EchoStar Loses 241,000 Pay TV Subs, Hughes Unit Files for Chapter 11 Bankruptcy",
+      "url": "https://www.hollywoodreporter.com/business/business-news/charlie-ergens-echostar-1236662933/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T12:40:50+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204520",
+      "title": "Sony's Spider-Man Games Enjoy Player Boost on Back of Brand New Day's Box Office Success",
+      "url": "https://www.pushsquare.com/news/2026/08/sonys-spider-man-games-enjoy-player-boost-on-back-of-brand-new-days-box-office-success",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120568",
+      "title": "Infold Breaks Love and Deepspace Valko Silence With Caleb Trailer",
+      "url": "https://www.siliconera.com/infold-breaks-love-and-deepspace-valko-silence-with-caleb-trailer/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-188305",
+      "title": "Third Time's A Charm As Data East's RoboCop Comes To Genesis / Mega Drive",
+      "url": "https://www.timeextension.com/news/2026/08/third-times-a-charm-as-data-easts-robocop-comes-to-genesis-mega-drive",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T12:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748963",
+      "title": "82MAJOR Expands Global Footprint with High-Energy Fan Concert in Macau",
+      "url": "https://otakukart.com/82major-expands-global-footprint-with-high-energy-fan-concert-in-macau/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T13:00:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748965",
+      "title": "ENHYPEN Concludes Monumental Americas Tour Drawing 193,000 Fans Across Eight Cities",
+      "url": "https://otakukart.com/enhypen-concludes-monumental-americas-tour-drawing-193000-fans-across-eight-cities/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T12:55:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748810",
+      "title": "MADEIN Achieves Major Milestone with Sold-Out Debut Solo Concert in Japan",
+      "url": "https://otakukart.com/madein-achieves-major-milestone-with-sold-out-debut-solo-concert-in-japan/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T12:53:14+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748812",
+      "title": "SEVENTEEN\u2019s Jeonghan Opens Up About the Extreme Methods and Emotional Toll of His Trainee Days",
+      "url": "https://otakukart.com/seventeens-jeonghan-opens-up-about-the-extreme-methods-and-emotional-toll-of-his-trainee-days/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T12:47:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748967",
+      "title": "aespa to Broadcast Landmark First Gocheok Sky Dome Concert Live across 146 Global Movie Theaters",
+      "url": "https://otakukart.com/aespa-to-broadcast-landmark-first-gocheok-sky-dome-concert-live-across-146-global-movie-theaters/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T12:37:13+00:00"
     }
   ]
 }
