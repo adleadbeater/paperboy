@@ -596,6 +596,28 @@
         "Sony's Spider-Man Games Enjoy Player Boost on Back of Brand New Day's Box Office Success",
         "Spider-Man: Brand New Day Makes Almost A Billion Dollars In Its Opening Weekend"
       ]
+    },
+    {
+      "headline": "Attack on Titan 3 Game Announced for December 10 Launch",
+      "tag": "attack on titan",
+      "posted_at": "2026-08-03T15:31:08.368758+00:00",
+      "urls": [
+        "https://www.gematsu.com/2026/08/attack-on-titan-3-launches-december-10"
+      ],
+      "article_titles": [
+        "Attack on Titan 3 launches December 10"
+      ]
+    },
+    {
+      "headline": "Palworld Is Getting a Full Online MMO \u2014 Launching in Less Than Four Months",
+      "tag": "palworld",
+      "posted_at": "2026-08-03T15:31:08.592712+00:00",
+      "urls": [
+        "https://kotaku.com/palworld-online-mmo-mobile-pocketpair-garena-2000721168"
+      ],
+      "article_titles": [
+        "Palworld Online MMO Announced, Releases In Less Than Four Months"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -608,14 +630,6 @@
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-08-03T11:33:01+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000721164",
-      "title": "Wolverine\u2019s Going To Get His Butt Out In Insomniac\u2019s New Game",
-      "url": "https://kotaku.com/wolverine-butt-insomniac-marvel-bottom-bum-rear-ass-cheeks-2000721164",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-03T11:30:12+00:00"
     },
     {
       "guid": "BRjtzRZArzyXry8meURj9i",
@@ -664,14 +678,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-03T11:45:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204508",
-      "title": "\"The Most Gorgeous Game Boy Emulation I've Ever Seen\" - Brick Boy Goes The Extra Mile To Copy The Console's Nostalgic Display",
-      "url": "https://www.timeextension.com/news/2026/08/the-most-gorgeous-game-boy-emulation-ive-ever-seen-brick-boy-goes-the-extra-mile-to-copy-the-consoles-nostalgic-display",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-03T11:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/kingdom-hearts-collection-ai-accusations-response",
@@ -1336,6 +1342,126 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-03T14:36:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721168",
+      "title": "Palworld Online MMO Announced, Releases In Less Than Four Months",
+      "url": "https://kotaku.com/palworld-online-mmo-mobile-pocketpair-garena-2000721168",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T15:00:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826339",
+      "title": "\u2018Talking Tom & Friends: World\u2019 Kids\u2019 Mobile Game Launches The Smurfs Crossover (EXCLUSIVE)",
+      "url": "https://variety.com/2026/gaming/news/talking-tom-friends-world-smurfs-game-crossover-1236826339/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "guid": "heS4qrrPKF5BdKCRN5yrDP",
+      "title": "The ELO Vagabond combines the best parts of Razer and GameSir to make the ultimate mobile controller",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/elo-vagabond-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:13:08+00:00"
+    },
+    {
+      "guid": "gbCxSoVU67hqvAmjcsSPFZ",
+      "title": "Mistfall Hunter is more Dark Souls than Arc Raiders, thanks to infusing its extraction shooter structure with RPG vibes",
+      "url": "https://www.gamesradar.com/games/action-rpg/mistfall-hunter-is-more-dark-souls-than-arc-raiders-thanks-to-infusing-its-extraction-shooter-structure-with-rpg-vibes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "guid": "NXN4GsAZkENaWRjgq8Vn3Z",
+      "title": "One of Mario's iconic abilities was actually just a glitch in the NES original, but Nintendo's Shigeru Miyamoto decided \"it's fun\" so \"leave it as is\"",
+      "url": "https://www.gamesradar.com/games/super-mario/one-of-marios-iconic-abilities-was-actually-just-a-glitch-in-the-nes-original-but-nintendos-shigeru-miyamoto-decided-its-fun-so-leave-it-as-is/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T14:59:18+00:00"
+    },
+    {
+      "guid": "1838525",
+      "title": "Viral Steam Game Made $1.3 Million But Creator Only Got $2,000 After Mass Refunds",
+      "url": "https://www.gamespot.com/articles/viral-steam-game-made-1-3-million-but-creator-only-got-2000-after-mass-refunds/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:12:55+00:00"
+    },
+    {
+      "guid": "1838106",
+      "title": "The World\u2019s Gone To Hell, But You Still Have To Go To Work, Just Like In This Horror Game",
+      "url": "https://www.gamespot.com/articles/the-worlds-gone-to-hell-but-you-still-have-to-go-to-work-just-like-in-this-horror-game/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204529",
+      "title": "Round Up: This PS Plus Game Is One of the Highest Rated Games of the Year",
+      "url": "https://www.pushsquare.com/features/round-up-this-ps-plus-game-is-one-of-the-highest-rated-games-of-the-year",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204524",
+      "title": "Sounds Like Wolverine Gets His Arse Out in Insomniac's Upcoming PS5 Exclusive",
+      "url": "https://www.pushsquare.com/news/2026/08/sounds-like-wolverine-gets-his-arse-out-in-insomniacs-upcoming-ps5-exclusive",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204247",
+      "title": "The Making Of: Star Wars Episode 1 Racer - \"Maybe We Can't Make A Great Racing Game, But We Can Make An Excellent Toy\"",
+      "url": "https://www.timeextension.com/features/the-making-of-star-wars-episode-1-racer-maybe-we-cant-make-a-great-racing-game-but-we-can-make-an-excellent-toy",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:05:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1067435",
+      "title": "Attack on Titan 3 launches December 10",
+      "url": "https://www.gematsu.com/2026/08/attack-on-titan-3-launches-december-10",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:08:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749014",
+      "title": "Ado\u2019s Blue Lock Movie Theme \u201cMonstruo\u201d Features a Hidden Supercell Connection With ryo",
+      "url": "https://otakukart.com/ados-blue-lock-movie-theme-monstruo-features-a-hidden-supercell-connection-with-ryo/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:25:02+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748645",
+      "title": "Obsession Star Inde Navarrette Confirms Marvel Meeting and Reveals Her Dream X-Men Role",
+      "url": "https://otakukart.com/obsession-star-inde-navarrette-confirms-marvel-meeting-and-reveals-her-dream-x-men-role/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:13:43+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749013",
+      "title": "Blue Lock Live-Action Star Fumiya Takahashi Trained for 18 Months to Perfect Isagi\u2019s Signature Volley",
+      "url": "https://otakukart.com/blue-lock-live-action-star-fumiya-takahashi-trained-for-18-months-to-perfect-isagis-signature-volley/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:10:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1748641",
+      "title": "Spider-Man: Brand New Day Beats Avengers: Endgame for the Biggest Opening Day at the Box Office Spider-Man: Brand",
+      "url": "https://otakukart.com/spider-man-brand-new-day-beats-avengers-endgame-for-the-biggest-opening-day-at-the-box-office-spider-man-brand/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-03T15:03:52+00:00"
     }
   ]
 }
