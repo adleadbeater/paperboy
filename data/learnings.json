@@ -1,25 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Spider-Man: Brand New Day Reviews Are Here \u2014 And Marvel May Have a Hit on Its Hands",
-      "tag": "spider-man: brand new day",
-      "posted_at": "2026-07-28T13:24:23.550495+00:00",
-      "urls": [
-        "https://deadline.com/2026/07/spider-man-brand-new-day-review-tom-holland-and-zendaya-forge-a-challenging-path-forward-in-dark-and-thrilling-new-chapter-from-marvel-superhero-1237005422/",
-        "https://variety.com/2026/film/reviews/spider-man-brand-new-day-review-tom-holland-zendaya-1236821873/",
-        "https://www.hollywoodreporter.com/movies/movie-reviews/spider-man-brand-new-day-review-tom-holland-zendaya-1236657988/",
-        "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-review/",
-        "https://kotaku.com/spider-man-brand-new-day-sadie-sink-steve-lacy-jean-grey-2000719753"
-      ],
-      "article_titles": [
-        "\u2018Spider-Man: Brand New Day Review: Tom Holland And Zendaya Forge A Challenging Path Forward In Dark And Thrilling New Chapter From Marvel Superhero",
-        "\u2018Spider-Man: Brand New Day\u2019 Review: Tom Holland Returns in a \u2018Mature\u2019 but Arduous Adventure That for All Its Good Action Is Trying Too Hard",
-        "\u2018Spider-Man: Brand New Day\u2019 Review: Tom Holland Bares His Soul in a Superhero Installment That Balances Self-Reflection With Action",
-        "Spider-Man: Brand New Day review: \"Marvel Studios' strongest standalone outing since Avengers: Endgame\"",
-        "After Months Of Secrecy, Someone May Have Finally Spoiled Sadie Sink\u2019s Spider-Man: Brand New Day Character"
-      ]
-    },
-    {
       "headline": "Wizards of the Coast President John Hight Steps Down After Just Two Years",
       "tag": "wizards of the coast",
       "posted_at": "2026-07-28T15:41:14.999744+00:00",
@@ -649,35 +630,35 @@
       "article_titles": [
         "Gamers report a BIOS update is bricking their Legion Go handhelds, and Lenovo is quoting over $250 to fix the issue outside of warranty"
       ]
+    },
+    {
+      "headline": "Stellar Blade's Studio CEO Defends AI Music Video, Fans Aren't Buying It",
+      "tag": "stellar blade",
+      "posted_at": "2026-08-04T13:30:32.687016+00:00",
+      "urls": [
+        "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
+        "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-studio-ceo-defends-ai-music-video-because-evie-was-originally-created-from-head-to-toe-by-the-devs-but-fans-say-thats-not-the-point/"
+      ],
+      "article_titles": [
+        "Shift Up CEO Tries To Defend Stellar Blade: Blood Rain Slop Video From Fan Backlash And Continues To Get Roasted: \u2018Insane Cope\u2019",
+        "Stellar Blade: Blood Rain studio CEO defends AI music video because Evie was originally \"created from head to toe\" by the devs, but fans say that's not the point"
+      ]
+    },
+    {
+      "headline": "FIFA World Cup Dev Lays Off 85% of Staff Just Two Months After Launch",
+      "tag": "\u2014",
+      "posted_at": "2026-08-04T13:30:32.924705+00:00",
+      "urls": [
+        "https://www.eurogamer.net/fifa-world-cup-game-layoffs"
+      ],
+      "article_titles": [
+        "The developer behind Fifa World Cup - which launched less than two months ago - has laid off 85% of its staff"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/xbox-360-games-playable-on-pc-microsoft-plan-leaked",
-      "title": "Microsoft is working on making Xbox 360 games playable on PC, leaked document reveals",
-      "url": "https://www.eurogamer.net/xbox-360-games-playable-on-pc-microsoft-plan-leaked",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-04T09:23:47+00:00"
-    },
-    {
-      "guid": "3PECiCr4RrkcgRw5kHFXBH",
-      "title": "I tried the 'stress test your GPU hopes you never run' and it made my main gaming rig look like a chump",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/i-tried-the-stress-test-your-gpu-hopes-you-never-run-and-it-made-my-main-gaming-rig-look-like-a-chump/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-04T09:28:54+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237016913",
-      "title": "ITV Studios Germany Hires Fabian Tobias With Longtime Boss Christiane Ruff Set To Retire",
-      "url": "https://deadline.com/2026/08/itv-studios-germany-fabian-tobias-md-christiane-ruff-retires-1237016913/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-04T09:07:20+00:00"
-    },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236663605",
       "title": "Serena Rossi to Receive Venice Fest\u2019s Passion for Film Award",
@@ -1189,6 +1170,166 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-04T12:41:14+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/fifa-world-cup-game-layoffs",
+      "title": "The developer behind Fifa World Cup - which launched less than two months ago - has laid off 85% of its staff",
+      "url": "https://www.eurogamer.net/fifa-world-cup-game-layoffs",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:23:57+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-patch-1-0-6-hide-blowpipe",
+      "title": "Assassin's Creed Black Flag Resynced patch makes the very important change of letting you hide Edward's blowpipe",
+      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-patch-1-0-6-hide-blowpipe",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:15:18+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721498",
+      "title": "Shift Up CEO Tries To Defend Stellar Blade: Blood Rain Slop Video From Fan Backlash And Continues To Get Roasted: \u2018Insane Cope\u2019",
+      "url": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:27:11+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721483",
+      "title": "This Free Roguelite Demo Is Good Enough To Take On Slay The Spire",
+      "url": "https://kotaku.com/guildrun-free-demo-steam-slay-the-spire-roguelite-leyline-2000721483",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:00:40+00:00"
+    },
+    {
+      "guid": "xQdbhUGYxurCGrKuMEskt9",
+      "title": "OpenAI calls out Apple's 'careless, aggressive and oddly personal lawsuit' in latest blog post",
+      "url": "https://www.pcgamer.com/software/ai/openai-calls-out-apples-careless-aggressive-and-oddly-personal-lawsuit-in-latest-blog-post/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:10:00+00:00"
+    },
+    {
+      "guid": "iDa2sM3r5hn3hHH7mMdMeY",
+      "title": "Our long Caribbean nightmare is over: You can hide the blow pipe in Assassin's Creed Black Flag Resynced now",
+      "url": "https://www.pcgamer.com/games/assassins-creed/our-long-caribbean-nightmare-is-over-you-can-hide-the-blow-pipe-in-assassins-creed-black-flag-resynced-now/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:03:43+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237016969",
+      "title": "Cast Set For Lincoln Center Theater\u2019s \u2018August Wilson\u2019s Seven Guitars\u2019",
+      "url": "https://deadline.com/2026/08/august-wilsons-seven-guitars-cast-1237016969/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:29:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236827399",
+      "title": "San Sebasti\u00e1n Sets Jos\u00e9 Giovanni Retrospective Honoring French Crime Cinema Pioneer",
+      "url": "https://variety.com/2026/film/global/san-sebastian-jose-giovanni-retrospective-1236827399/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:10:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236827466",
+      "title": "Tokyo\u2019s TIFFCOM 2026 Expands IP Market, Adds AI and Anime Conferences",
+      "url": "https://variety.com/2026/film/markets-festivals/tokyo-tiffcom-2026-ip-market-ai-anime-conferences-1236827466/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:09:56+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236827451",
+      "title": "Todrick Hall\u2019s \u2018Midnight\u2019 Announces Full Cast and Creative Team Ahead of New York Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/legit/news/todrick-hall-midnight-full-cast-off-broadway-run-1236827451/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:04:21+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663654",
+      "title": "George R.R. Martin Says He Battled Depression This Year: \u201cThe Worst May Be Yet to Come\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/george-r-r-martin-depression-winds-of-winter-1236663654/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:24:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663643",
+      "title": "The Box Office Comeback Finally Happened: \u201cWe\u2019re All Breathing a Hell of a Lot Easier\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/box-office-2026-spider-man-odyssey-1236663643/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:22:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236662892",
+      "title": "Back in the Room Where It Happens: Why \u2018Hamilton\u2019 Is Sparking Even More Joy for Leslie Odom Jr. This Time Around",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/leslie-odom-jr-hamilton-london-west-end-interview-return-1236662892/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663520",
+      "title": "Leonardo DiCaprio and Jeff Bezos Are Teaming to Save Endangered Species With $200M Initiative",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/leonardo-dicaprio-jeff-bezos-earth-fund-endangered-species-1236663520/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204562",
+      "title": "\"I Threatened Him\" - Capcom Producer's Radical Approach To Negotiating With Miyamoto",
+      "url": "https://www.nintendolife.com/news/2026/08/i-threatened-him-capcom-producers-radical-approach-to-negotiating-with-miyamoto",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204563",
+      "title": "Rumours of an Unannounced Elder Scrolls Game Have Been Debunked",
+      "url": "https://www.pushsquare.com/news/2026/08/rumours-of-an-unannounced-elder-scrolls-game-have-been-debunked",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1067593",
+      "title": "ENDLESS Legend II launches September 17 for PS5, Xbox Series, and PC",
+      "url": "https://www.gematsu.com/2026/08/endless-legend-ii-launches-september-17-for-ps5-xbox-series-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T13:25:12+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1067590",
+      "title": "Game Pass adds Gears of War: E-Day open beta, Cricket 26, Date Everything!, and more in early to mid August",
+      "url": "https://www.gematsu.com/2026/08/game-pass-adds-gears-of-war-e-day-open-beta-cricket-26-date-everything-and-more-in-early-to-mid-august",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T13:17:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749264",
+      "title": "Star Trek: Legends Removed From Nintendo Switch eShop Ahead of Full Shutdown in September 2026",
+      "url": "https://otakukart.com/star-trek-legends-removed-from-nintendo-switch-eshop-ahead-of-full-shutdown-in-september-2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T13:22:14+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749263",
+      "title": "Apex Legends Ends Support for Original Nintendo Switch as Season 30 Launches",
+      "url": "https://otakukart.com/apex-legends-ends-support-for-original-nintendo-switch-as-season-30-launches/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T13:15:13+00:00"
     }
   ]
 }
