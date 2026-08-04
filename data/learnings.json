@@ -614,6 +614,17 @@
       "article_titles": [
         "Microsoft is working on making Xbox 360 games playable on PC, leaked document reveals"
       ]
+    },
+    {
+      "headline": "Xbox's FanFest World Tour Is Still Happening After Microsoft Fired the Person Who Created It",
+      "tag": "xbox",
+      "posted_at": "2026-08-04T10:01:01.618082+00:00",
+      "urls": [
+        "https://www.eurogamer.net/xbox-fanfest-world-tour"
+      ],
+      "article_titles": [
+        "Xbox's FanFest world tour is still going ahead, for some reason, even after Microsoft fired the guy who created it"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -698,6 +709,70 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-08-04T09:00:00+00:00"
+    },
+    {
+      "guid": "1c12fc1e-e325-4d42-a884-7a1934e0cdbb",
+      "title": "'She Ended on a Really Great Note': Jessica Henwick Says She's Turned Down Returning as Colleen Wing in Daredevil: Born Again Season 3",
+      "url": "https://www.ign.com/articles/she-ended-on-a-really-great-note-jessica-henwick-says-shes-turned-down-returning-as-colleen-wing-in-daredevil-born-again-season-3",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T09:41:03+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/xbox-fanfest-world-tour",
+      "title": "Xbox's FanFest world tour is still going ahead, for some reason, even after Microsoft fired the guy who created it",
+      "url": "https://www.eurogamer.net/xbox-fanfest-world-tour",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T09:39:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237016290",
+      "title": "\u2018Baywatch\u2019 Reboot Beaches At Amazon Prime Video Across Europe, India & Canada",
+      "url": "https://deadline.com/2026/08/baywatch-reboot-amazon-prime-video-europe-1237016290/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T10:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236826714",
+      "title": "\u2018Gagarine\u2019 Directors Fanny Liatard and J\u00e9r\u00e9my Trouilh Talk \u2018The Green Eyes\u2019 as Kinology Announces First Sales: \u2018Dreamers Know No Borders\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/gagarine-fanny-liatard-jeremy-trouilh-green-eyes-kinology-1236826714/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T09:45:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663580",
+      "title": "Mary Rivera, Ned\u2019s Grandma in \u2018Spider-Man: No Way Home,\u2019 Dies at 82",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/mary-rivera-dead-spider-man-no-way-home-actres-was-82-1236663580/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-04T09:42:16+00:00"
+    },
+    {
+      "guid": "jHp4aV4iMopTVY2YEopZhM",
+      "title": "Kevin Feige says Sadie Sink's Jean Grey \"has immense significance\" in the Marvel Universe and will play a \"key role in the future of the MCU\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/kevin-feige-says-sadie-sinks-jean-grey-has-immense-significance-in-the-marvel-universe-and-will-play-a-key-role-in-the-future-of-the-mcu/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T09:51:12+00:00"
+    },
+    {
+      "guid": "cqHoXKDARpLDDzB3kR4ZTD",
+      "title": "Despite 4 years of development hell, Henry Cavill confirms he's still starring in Amazon's Warhammer 40K show",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/despite-4-years-of-development-hell-henry-cavill-confirms-hes-still-starring-in-amazons-warhammer-40k-show/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T09:35:37+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204547",
+      "title": "Final Fantasy VII Revelation Director Assures Fans That The Base Game Will Conclude The Story",
+      "url": "https://www.nintendolife.com/news/2026/08/final-fantasy-vii-revelation-director-assures-fans-that-the-base-game-will-conclude-the-story",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-04T09:30:00+00:00"
     }
   ]
 }
