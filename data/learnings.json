@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Crunchyroll Is Launching Its First U.S. Streaming Bundle \u2014 With Starz",
-      "tag": "crunchyroll",
-      "posted_at": "2026-07-29T18:00:53.983285+00:00",
-      "urls": [
-        "https://www.ign.com/articles/crunchyroll-starz-prime-video-streaming-bundle-announcement",
-        "https://www.hollywoodreporter.com/business/business-news/crunchyroll-starz-streaming-bundle-1236659035/"
-      ],
-      "article_titles": [
-        "Crunchyroll Announces First Streaming Bundle for U.S. Subscribers",
-        "Crunchyroll Pacts With Starz for Streaming Bundle"
-      ]
-    },
-    {
       "headline": "A Decades-Old Blizzard Bug Is Spawning Hidden Underground Enemies and Killing WoW Classic Hardcore Characters",
       "tag": "world of warcraft classic",
       "posted_at": "2026-07-29T19:17:12.789985+00:00",
@@ -807,371 +794,22 @@
       "article_titles": [
         "Xbox Console Updates Adding New Capture and Achievement Features"
       ]
+    },
+    {
+      "headline": "YouTube Shut Down Larian's Official Baldur's Gate 3 Stream Over Its Own Game's Sexy Content",
+      "tag": "baldur's gate 3",
+      "posted_at": "2026-08-05T18:30:56.669692+00:00",
+      "urls": [
+        "https://kotaku.com/baldurs-gate-3-larian-stream-dark-urge-youtube-twitch-ban-2000721971"
+      ],
+      "article_titles": [
+        "Official Baldur\u2019s Gate 3 Stream Gets Shut Down By YouTube For Sexy Times"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000721875",
-      "title": "Bloodbath Ahead For EA As It Looks To Cut $700 Million In Annual Costs Under Saudi Arabia",
-      "url": "https://kotaku.com/bloodbath-ahead-for-ea-as-it-looks-to-cut-700-million-in-annual-costs-under-saudi-arabia-2000721875",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:15:56+00:00"
-    },
-    {
-      "guid": "yNUGPvBeZHmsD4vEjzfvC8",
-      "title": "Sovereign Tower looks like a cosy management game, but it's ruthless, full of murder and impossible choices, and features one of the best time travel systems I've ever encountered",
-      "url": "https://www.pcgamer.com/games/rpg/sovereign-tower-looks-like-a-cosy-management-game-but-its-ruthless-full-of-murder-and-impossible-choices-and-features-one-of-the-best-time-travel-systems-ive-ever-encountered/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:15:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828191",
-      "title": "Sophie Fleur de Bruijn, Whose Spec Script \u2018The One Month Mark\u2019 Sold to Apple With Jennifer Lawrence Attached, Signs With CAA (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/sophie-fleur-de-bruijn-mark-apple-jennifer-lawrence-caa-1236828191/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:25:03+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828270",
-      "title": "Disney Says Commercials for Super Bowl LXI Have Sold Out",
-      "url": "https://variety.com/2026/tv/news/disney-super-bowl-commercials-sell-out-1236828270/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:24:52+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828249",
-      "title": "Disney Looking to Launch Free Streaming Channels as CEO Josh D\u2019Amaro Doubles Down on the Streaming Biz",
-      "url": "https://variety.com/2026/tv/news/disney-free-streaming-channels-launch-josh-damaro-1236828249/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:20:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664666",
-      "title": "\u2018Babylon Berlin\u2019 Going Out With a Bang, and A Warning for Democracy",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/babylon-berlin-final-season-warning-for-democracy-1236664666/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:24:59+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1067831",
-      "title": "Fallen Tear: The Ascension for PC launches September 16",
-      "url": "https://www.gematsu.com/2026/08/fallen-tear-the-ascension-for-pc-launches-september-16",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:23:46+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/assassins-creed-valhala-director-eric-baptizat-returns",
-      "title": "Assassin's Creed Valhalla director makes sudden return to Ubisoft, and will lead the series moving forward",
-      "url": "https://www.eurogamer.net/assassins-creed-valhala-director-eric-baptizat-returns",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:29:33+00:00"
-    },
-    {
-      "guid": "CQXbRMYkbvWQaVgM6cbpMN",
-      "title": "Resident Evil Requiem stars reunite for the Future Games Show at Gamescom 2026",
-      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-stars-reunite-for-the-future-games-show-at-gamescom-2026/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:30:00+00:00"
-    },
-    {
-      "guid": "1841044",
-      "title": "Black Ops 1 And 2 Ports Sold 11 Million Copies Combined On PlayStation, Benefitting Both Xbox And Sony",
-      "url": "https://www.gamespot.com/articles/black-ops-1-and-2-ports-sold-11-million-copies-combined-on-playstation-benefitting-both-xbox-and-sony/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:22:15+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/beast-of-reincarnation-patches-story-pacing-fixes",
-      "title": "\"We take your feedback to heart\" - Game Freak promises to improve Beast of Reincarnation following a divisive launch",
-      "url": "https://www.eurogamer.net/beast-of-reincarnation-patches-story-pacing-fixes",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:46:32+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000721890",
-      "title": "You May Have Missed A Big Spider-Man: Brand New Day Reveal If You Didn\u2019t See The Movie With Captions",
-      "url": "https://kotaku.com/spider-man-brand-new-day-paul-rabin-mj-boyfriend-captions-2000721890",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:45:57+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000721520",
-      "title": "Candy Crush Bosses Reject Developers\u2019 Union Demands, Saying The \u2018Current Operating Model Is The Right Fit\u2019",
-      "url": "https://kotaku.com/candy-crush-developer-rejects-collective-bargaining-agreement-2000721520",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:31:43+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237018349",
-      "title": "TIFF Docs Lineup Announced: Rapinoe, Said, Love, And A Scent Of Musk",
-      "url": "https://deadline.com/2026/08/2026-tiff-docs-lineup-announcement-1237018349/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237018386",
-      "title": "Disney Sells Out Super-Bowl Ad Inventory, Wraps Upfront Sales Process",
-      "url": "https://deadline.com/2026/08/disney-sells-out-super-bowl-ads-upfront-1237018386/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:47:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236827957",
-      "title": "TIFF Docs Chief Not Worried About Taking on Elon Musk",
-      "url": "https://variety.com/2026/film/news/tiff-docs-elon-musk-alex-gibney-megan-rapinoe-edward-said-1236827957/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828207",
-      "title": "Karthik Subbaraj\u2019s Toronto-Bound \u2018Dorothy\u2019 Unveils Teaser (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/festivals/karthik-subbaraj-toronto-dorothy-teaser-1236828207/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828297",
-      "title": "Cannes Critics\u2019 Week Film \u2018Six Months in a Pink and Blue Building\u2019 Sells to Strand Releasing for North America (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/cannes-critics-six-months-pink-and-blue-building-strand-us-1236828297/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:53:09+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664639",
-      "title": "Alex Gibney\u2019s Elon Musk Doc Will Play TIFF, Setting the Stage for an Epic Culture Wars Battle",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/elon-musk-documentary-gibney-premiere-where-playing-1236664639/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664707",
-      "title": "Noomi Rapace, Shamier Anderson, Alexander Skarsgard, Stellan Skarsgard Films Join Toronto Fest Lineup",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/noomi-rapace-skarsgard-films-toronto-2026-1236664707/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664715",
-      "title": "Disney Has Already Sold All Its Ads For Next Year\u2019s Super Bowl",
-      "url": "https://www.hollywoodreporter.com/business/business-news/2027-super-bowl-ads-sold-out-espn-disney-1236664715/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:40:34+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664373",
-      "title": "Chris Wallace: States Are Playing Politics With the Law to Block Paramount\u2019s Warner Bros. Deal",
-      "url": "https://www.hollywoodreporter.com/business/business-news/chris-wallace-paramount-warner-bros-deal-1236664373/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:40:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664717",
-      "title": "Disney Is \u201cExploring\u201d Launching Its Own FAST Offering",
-      "url": "https://www.hollywoodreporter.com/business/digital/disney-exploring-launching-fast-offering-1236664717/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:31:02+00:00"
-    },
-    {
-      "guid": "pqPmH8QPPNb9AWhDM2tNJF",
-      "title": "Square Enix says it's testing a fix for one big issue with Final Fantasy 14 on Nintendo Switch 2 as fans generally praise the MMO's port",
-      "url": "https://www.gamesradar.com/games/final-fantasy/square-enix-says-its-testing-a-fix-for-one-big-issue-with-final-fantasy-14-on-nintendo-switch-2-as-fans-generally-praise-the-mmos-port/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:44:09+00:00"
-    },
-    {
-      "guid": "bL5x3EqBdFEqg8J8UgRfgk",
-      "title": "Mass layoffs expected at EA as the now-private publisher reportedly tells its new debt masters that it's going to cut $700 million in annual costs",
-      "url": "https://www.gamesradar.com/games/mass-layoffs-expected-at-ea-as-the-now-private-publisher-reportedly-tells-its-new-debt-masters-that-its-going-to-cut-usd700-million-in-annual-costs/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:41:39+00:00"
-    },
-    {
-      "guid": "KUJHZoPa7qvUdRqHHWSrKS",
-      "title": "A Commodore Amiga FPGA remake is now possible thanks to new landmark agreements",
-      "url": "https://www.gamesradar.com/hardware/retro/a-commodore-amiga-fpga-remake-is-now-possible-thanks-to-new-landmark-agreements/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:37:34+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120731",
-      "title": "August 7th Is Hanamaru Day for Sanrio\u2019s Hanamaruobake",
-      "url": "https://www.siliconera.com/august-7th-is-hanamaru-day-for-sanrios-hanamaruobake/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204597",
-      "title": "Both Ecstatica Games Are Coming To Steam And GOG This Year",
-      "url": "https://www.timeextension.com/news/2026/08/both-ecstatica-games-are-coming-to-steam-and-gog-this-year",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000721906",
-      "title": "Pokopia\u2019s Massive 2.0 Patch Makes Pok\u00e9mon Stop Being Divas",
-      "url": "https://kotaku.com/pokemon-pokopia-2-0-patch-notes-bubbly-basin-expansion-dlc-2000721906",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:20:03+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000721882",
-      "title": "Borderlands Movie Director Says The $33 Million Box Office Flop Ended Up Being \u2018Something That Belonged To Nobody\u2019",
-      "url": "https://kotaku.com/borderlands-movie-director-says-the-33-million-box-office-flop-ended-up-being-something-that-belonged-to-nobody-2000721882",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:00:35+00:00"
-    },
-    {
-      "guid": "PP5CcSwqkgHGsE78ij5dQ5",
-      "title": "EA has fixed a niche Battlefield 6 issue where some Nvidia GPUs were crashing while changing attachments or 'playing on maps with large bodies of water'",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/ea-has-fixed-a-niche-battlefield-6-issue-where-some-nvidia-gpus-were-crashing-while-changing-attachments-or-playing-on-maps-with-large-bodies-of-water/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:28:42+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237018412",
-      "title": "Ana Gasteyer Sets \u2018Schmigadoon!\u2019 Departure Date",
-      "url": "https://deadline.com/2026/08/ana-gasteyer-schmigadoon-broadway-1237018412/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:21:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236827564",
-      "title": "Trans Pregnancy Drama \u2018Aman\u2019 Boards Nikkhil Advani and Dominique Welinski as Executive Producers Ahead of Toronto World Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/festivals/trans-pregnancy-toronto-aman-nikkhil-advani-dominique-welinski-1236827564/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:27:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828335",
-      "title": "Tim Blake Nelson\u2019s \u2018The Life and Deaths of Wilson Shedd,\u2019 Starring Amanda Seyfried and Scoot McNairy, Boarded by WestEnd Films",
-      "url": "https://variety.com/2026/film/global/the-life-and-deaths-of-wilson-shedd-westend-films-1236828335/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:24:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828287",
-      "title": "Cinema Ritrovato Chief Gianluca Farinelli Appointed Artistic Director of Italy\u2019s David di Donatello Awards",
-      "url": "https://variety.com/2026/film/awards/cinema-ritrovato-gianluca-farinelli-david-donatello-1236828287/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:14:32+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828221",
-      "title": "\u2018Avengers: Endgame\u2019 Directors Congratulate \u2018Spider-Man: Brand New Day\u2019 for Breaking Their Opening Weekend Record: \u2018The Gauntlet Has Been Passed\u2019",
-      "url": "https://variety.com/2026/film/news/avengers-endgame-directors-spider-man-brand-new-day-records-box-office-1236828221/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:00:52+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236662893",
-      "title": "\u2018Forgotten Spaceman,\u2019 Telling a Little-Known Afghan Story, Readies for Takeoff (Exclusive Trailer)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/forgotten-spaceman-film-afghan-cosmonaut-gets-trailer-eps-1236662893/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664719",
-      "title": "Disney Admits \u2018The Mandalorian and Grogu\u2019 Disappointed at Box Office",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/disney-mandalorian-and-grogu-disappointed-box-office-1236664719/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:12:09+00:00"
-    },
-    {
-      "guid": "e3QB8LGkij7mCPvP4wXRpb",
-      "title": "How to lower the red bridge in Big Walk",
-      "url": "https://www.gamesradar.com/games/co-op/big-walk-red-bridge-puzzles/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:15:24+00:00"
-    },
-    {
-      "guid": "SMJUiiehKDqQU95HMQ6ZDD",
-      "title": "I'm growing impatient for the new Evangelion anime, but this Asuka gaming keyboard helps",
-      "url": "https://www.gamesradar.com/hardware/gaming-keyboards/im-growing-impatient-for-the-new-evangelion-anime-but-this-asuka-gaming-keyboard-helps/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:15:23+00:00"
-    },
-    {
-      "guid": "fH3sJYgYpDNahHM7csaemJ",
-      "title": "Fan makes incredible Lego Final Fantasy set, and now I'm hoping it becomes a real model",
-      "url": "https://www.gamesradar.com/toys-collectibles/fan-makes-incredible-lego-final-fantasy-set-and-now-im-hoping-it-becomes-a-real-model/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:08:29+00:00"
-    },
-    {
-      "guid": "SLF3T75CLAXLdPmiuAFjbQ",
-      "title": "Spider-Man: Brand New Day's unlikely \"superfan\" breakout actor thanks fans after his scene-stealing cameo: \"This is a dream come true\"",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-days-unlikely-superfan-breakout-actor-thanks-fans-after-his-scene-stealing-cameo-this-is-a-dream-come-true/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:07:34+00:00"
-    },
-    {
-      "guid": "m5LuZD4pRyYaTazybCT74i",
-      "title": "Razer's Target exclusive Sanrio keycaps are live, but collecting the full set could cost almost as much as gaming keyboard",
-      "url": "https://www.gamesradar.com/hardware/accessories/razers-target-exclusive-sanrio-keycaps-are-live-but-collecting-the-full-set-could-cost-almost-as-much-as-gaming-keyboard/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:03:04+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204625",
-      "title": "Oh Great, Even Moonlighter 2 Has Settled on a September PS5 Release Date",
-      "url": "https://www.pushsquare.com/news/2026/08/oh-great-even-moonlighter-2-has-settled-on-a-september-ps5-release-date",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:15:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204619",
-      "title": "Game Freak Pledges 'Continuous Updates' for Beast of Reincarnation After Mixed Reception",
-      "url": "https://www.pushsquare.com/news/2026/08/game-freak-pledges-continuous-updates-for-beast-of-reincarnation-after-mixed-reception",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:00:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000721877",
       "title": "Beast Of Reincarnation Will Get \u2018A Series Of Continuous Updates\u2019 Including Increased Text Size",
@@ -1269,14 +907,6 @@
       "published_dt": "2026-08-05T15:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236827452",
-      "title": "Talia Ryder Joins Michael Shannon in \u2018Doctor Caligari\u2019s Cabinet of Wonders\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/talia-ryder-doctor-caligaris-cabinet-of-wonders-1236827452/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T14:30:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236661222",
       "title": "\u2018The Shards\u2019 Review: Ryan Murphy and Bret Easton Ellis Team Up for FX\u2019s Predictably Excess-Soaked Tale of Prep-School Sex, Drugs and Murder",
       "url": "https://www.hollywoodreporter.com/tv/tv-reviews/the-shards-review-ryan-murphy-bret-easton-ellis-fx-hulu-1236661222/",
@@ -1323,14 +953,6 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-08-05T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204082",
-      "title": "\"Relive The Pure Joy Of The 2D Golden Era\" - Anbernic's Latest GBA SP-Inspired Handheld Is Here, & Costs Less Than $60",
-      "url": "https://www.timeextension.com/news/2026/08/relive-the-pure-joy-of-the-2d-golden-era-anbernics-latest-gba-sp-inspired-handheld-is-here-and-costs-less-than-usd60",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T14:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1749587",
@@ -2315,6 +1937,126 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721971",
+      "title": "Official Baldur\u2019s Gate 3 Stream Gets Shut Down By YouTube For Sexy Times",
+      "url": "https://kotaku.com/baldurs-gate-3-larian-stream-dark-urge-youtube-twitch-ban-2000721971",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237017939",
+      "title": "Jesse Tyler Ferguson & Justin Mikita Prep Musical Microdrama \u2018Theater Kids Vs. Zombies\u2019 For aTwist",
+      "url": "https://deadline.com/2026/08/jesse-tyler-ferguson-microdrama-theater-kids-vs-zombies-1237017939/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018130",
+      "title": "\u2018The Work In Progress\u2019 Trailer: Documentary From E.P. Robert Reich Finds Potent Way To \u201cHelp Bridge America\u2019s Deepest Divides\u201d",
+      "url": "https://deadline.com/2026/08/the-work-in-progress-trailer-exclusive-1237018130/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:28:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018892",
+      "title": "Jennie Church-Cooper Launches Management & Production Company Hello Sailor Media",
+      "url": "https://deadline.com/2026/08/jennie-church-cooper-launches-hello-sailor-media-1237018892/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:21:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237017846",
+      "title": "Corie Henson Leaving Beast Studios To Return To L.A.",
+      "url": "https://deadline.com/2026/08/corie-henson-leaving-beast-studios-return-to-la-1237017846/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:02:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018747",
+      "title": "\u2018The Five Star Weekend\u2019 Renewed For Season 2 By Peacock, See Which Actors Are Poised To Return",
+      "url": "https://deadline.com/2026/08/the-five-star-weekend-renewed-season-2-peacock-cast-return-1237018747/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018818",
+      "title": "Motion Picture Academy Reveals Student Academy Awards Winners; Ceremony Moves To Toronto Film Festival",
+      "url": "https://deadline.com/2026/08/2026-student-academy-awards-winners-1237018818/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018539",
+      "title": "The Rise Of The Super Bowl: How Michael Jackson, Elvis Presto & The Apple Mac Changed The Face Of The Halftime Show Forever",
+      "url": "https://deadline.com/2026/08/super-bowl-halftime-show-bad-bunny-michael-jackson-1237018539/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018541",
+      "title": "\u2018Drew Barrymore Show\u2019, Judy Sheindlin\u2019s New \u2018Adam\u2019s Law\u2019, \u2018Hot Bench\u2019 & More Get Fall Premiere Dates",
+      "url": "https://deadline.com/2026/08/drew-barrymore-judy-sheindlin-shows-fall-premiere-dates-1237018541/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828505",
+      "title": "\u2018The Five Star Weekend\u2019 Renewed for Season 2 After Becoming Peacock\u2019s Most-Watched Scripted Series Ever",
+      "url": "https://variety.com/2026/tv/news/the-five-star-weekend-renewed-season-2-peacock-1236828505/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664101",
+      "title": "More than 50 Dishes Were Created for \u2018The Bear\u2019 Season Four, and 5 Other Fun Facts",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-bear-season-four-fun-facts-1236664101/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664100",
+      "title": "Quinta Brunson Says Fan Reaction to Janine and Gregory\u2019s Breakup in \u2018Abbott Elementary\u2019 Was \u201cMore Than I Bargained For\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/abbott-elementary-quinta-brunson-janine-gregory-breakup-1236664100/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664952",
+      "title": "\u2018The Five Star Weekend\u2019 Renewed for Second Season at Peacock",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/five-star-weekend-renewed-season-2-peacock-1236664952/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120772",
+      "title": "FFXIV Moonfire Faire 2026 Gets Inflatable Mograft Pool Float Mount",
+      "url": "https://www.siliconera.com/ffxiv-moonfire-faire-2026-gets-inflatable-mograft-pool-float-mount/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615410",
+      "title": "RPG: Ever Wanted To Punch Someone Into Orbit? \u2018Invincible\u2019 Is Now On DriveThruRPG",
+      "url": "https://www.belloflostsouls.net/2026/08/rpg-ever-wanted-to-punch-someone-into-orbit-invincible-is-now-on-drivethrurpg.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T18:24:38+00:00"
     }
   ]
 }
