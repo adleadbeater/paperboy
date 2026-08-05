@@ -832,14 +832,6 @@
       "published_dt": "2026-08-05T10:00:00+00:00"
     },
     {
-      "guid": "https://www.timeextension.com/#article-204572",
-      "title": "The ZX Spectrum Just Got A Colourful Pac-Man Style Game That You Can Play Right Now For Free",
-      "url": "https://www.timeextension.com/news/2026/08/the-zx-spectrum-just-got-a-colourful-pac-man-style-game-that-you-can-play-right-now-for-free",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T09:30:00+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1749528",
       "title": "Monster Hunter Wilds Switch 2 Leak Reveals 1440p Docked Resolution Support and 30-40 FPS Handheld Performance With DLSS",
       "url": "https://otakukart.com/monster-hunter-wilds-switch-2-leak-reveals-1440p-docked-resolution-support-and-30-40-fps-handheld-performance-with-dlss/",
@@ -1486,6 +1478,38 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-05T13:00:56+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/assassins-creed-valhala-director-eric-baptizat-returns",
+      "title": "Assassin's Creed Valhalla director makes sudden return to Ubisoft, and will lead the series moving forward",
+      "url": "https://www.eurogamer.net/assassins-creed-valhala-director-eric-baptizat-returns",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T13:29:33+00:00"
+    },
+    {
+      "guid": "CQXbRMYkbvWQaVgM6cbpMN",
+      "title": "Resident Evil Requiem stars reunite for the Future Games Show at Gamescom 2026",
+      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-stars-reunite-for-the-future-games-show-at-gamescom-2026/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T13:30:00+00:00"
+    },
+    {
+      "guid": "1841044",
+      "title": "Black Ops 1 And 2 Ports Sold 11 Million Copies Combined On PlayStation, Benefitting Both Xbox And Sony",
+      "url": "https://www.gamespot.com/articles/black-ops-1-and-2-ports-sold-11-million-copies-combined-on-playstation-benefitting-both-xbox-and-sony/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T13:22:15+00:00"
+    },
+    {
+      "guid": "1841043",
+      "title": "The Ironmouse Sprite Is Live Now In Fortnite, But It Seems There\u2019s More To Come",
+      "url": "https://www.gamespot.com/articles/the-ironmouse-sprite-is-live-now-in-fortnite-but-it-seems-theres-more-to-come/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T13:12:08+00:00"
     }
   ]
 }
