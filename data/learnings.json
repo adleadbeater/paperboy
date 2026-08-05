@@ -765,6 +765,28 @@
       "article_titles": [
         "You May Have Missed A Big Spider-Man: Brand New Day Reveal If You Didn\u2019t See The Movie With Captions"
       ]
+    },
+    {
+      "headline": "Gears of War: E-Day Beta Is Adding PvP After Fans Demanded It",
+      "tag": "gears of war: e-day",
+      "posted_at": "2026-08-05T15:37:31.432216+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gears-of-war-e-day-weekend-beta-pvp-versus"
+      ],
+      "article_titles": [
+        "Gears of War: E-Day's upcoming weekend beta suddenly gets PvP due to fan demand"
+      ]
+    },
+    {
+      "headline": "RuneScape Tried to Charge Players $12 for Single-Use Balloons and Players Pushed Back",
+      "tag": "runescape",
+      "posted_at": "2026-08-05T15:37:31.681502+00:00",
+      "urls": [
+        "https://kotaku.com/runescape-tried-charging-players-12-for-one-time-use-balloons-but-the-community-yelled-so-much-they-backed-down-2000721911"
+      ],
+      "article_titles": [
+        "Runescape Thought It Could Get Away With Charging Players $12 For Single-Use Balloons"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -779,36 +801,12 @@
       "published_dt": "2026-08-05T11:39:01+00:00"
     },
     {
-      "guid": "6eCh2JUwL2BT7RZEJMF8U",
-      "title": "It won't fix the RAM crisis, but CXMT is poised to bring back mass-market DRAM production and gaming laptop brands are interested",
-      "url": "https://www.gamesradar.com/hardware/laptops/it-wont-fix-the-ram-crisis-but-cxmt-is-poised-to-bring-back-mass-market-dram-production-and-gaming-laptop-brands-are-interested/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T11:32:56+00:00"
-    },
-    {
-      "guid": "SXMKAMjuokK3LfUnXGDTwC",
-      "title": "Ewan McGregor reminds everyone there's still a missing decade of Obi-Wan's story left to tell",
-      "url": "https://www.gamesradar.com/entertainment/star-wars-tv-shows/ewan-mcgregor-reminds-everyone-theres-still-a-missing-decade-of-obi-wans-story-left-to-tell/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T11:30:57+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-204610",
       "title": "EA Studios Brace for Layoff Bloodbath as New Owner Debt Demands $700 Million Cost Cuts",
       "url": "https://www.pushsquare.com/news/2026/08/ea-studios-brace-for-layoff-bloodbath-as-new-owner-debt-demands-usd700-million-cost-cuts",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-05T12:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1749546",
-      "title": "Square Enix Confirms Final Fantasy 14 Switch 2 Loading Time Issue Caused by Data Processing Delays in Crowded Areas, Fix in Development",
-      "url": "https://otakukart.com/square-enix-confirms-final-fantasy-14-switch-2-loading-time-issue-caused-by-data-processing-delays-in-crowded-areas-fix-in-development/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T11:36:47+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000721868",
@@ -1873,6 +1871,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-05T15:28:13+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gears-of-war-e-day-weekend-beta-pvp-versus",
+      "title": "Gears of War: E-Day's upcoming weekend beta suddenly gets PvP due to fan demand",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-weekend-beta-pvp-versus",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T15:30:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721911",
+      "title": "Runescape Thought It Could Get Away With Charging Players $12 For Single-Use Balloons",
+      "url": "https://kotaku.com/runescape-tried-charging-players-12-for-one-time-use-balloons-but-the-community-yelled-so-much-they-backed-down-2000721911",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T15:30:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828413",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Highest-Grossing Movie of 2026 in 7 Days With $1.15 Billion",
+      "url": "https://variety.com/2026/more/box-office/spider-man-brand-new-day-highest-grossing-movie-box-office-1236828413/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T15:36:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664850",
+      "title": "NY Film Festival Reveals 2026 Main Slate With Cannes Winners \u2018Minotaur,\u2019 \u2018Fatherland\u2019 and \u2018All of a Sudden\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-ny-film-festival-main-slate-1236664850/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T15:33:53+00:00"
+    },
+    {
+      "guid": "iHofhgMHofWWfDNpSAbtv5",
+      "title": "New Lego Ministry of Magic kit is a gravity-defying set held up by what I can only assume is sorcery",
+      "url": "https://www.gamesradar.com/toys-collectibles/new-lego-ministry-of-magic-kit-is-a-gravity-defying-set-held-up-by-what-i-can-only-assume-is-sorcery/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T15:34:42+00:00"
+    },
+    {
+      "guid": "umjoYrcsLQXEVBKzrVmwQ4",
+      "title": "Creepy Helldivers 2 trailer might tease a fight with the Illuminate, but Warhammer fans are convinced it's Chaos Gods: \"They done gave us the warp with our 40K Warbond\"",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/creepy-helldivers-2-trailer-might-tease-a-fight-with-the-illuminate-but-warhammer-fans-are-convinced-its-chaos-gods-they-done-gave-us-the-warp-with-our-40k-warbond/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T15:32:09+00:00"
+    },
+    {
+      "guid": "1841101",
+      "title": "Why People Think GTA 6 News Is Coming Imminently",
+      "url": "https://www.gamespot.com/articles/why-people-think-gta-6-news-is-coming-imminently/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T15:06:02+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204620",
+      "title": "The Whole Assassin's Creed Series Is Now Spearheaded by Valhalla's Director",
+      "url": "https://www.pushsquare.com/news/2026/08/the-whole-assassins-creed-series-is-now-spearheaded-by-valhallas-director",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T15:30:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=70673",
+      "title": "Digimon Story Cyber Sleuth finally releases for PC in Japan, after being region locked for almost 7 years",
+      "url": "https://automaton-media.com/en/news/digimon-story-cyber-sleuth-finally-releases-for-pc-in-japan-after-being-region-locked-for-almost-7-years/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T15:09:34+00:00"
     }
   ]
 }
