@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Silent Hill: Townfall Gets Setting Details \u2014 A Remote Scottish Town on the Edge of the Internet Age",
-      "tag": "silent hill: townfall",
-      "posted_at": "2026-07-29T16:48:36.192401+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/horror/silent-hill-townfall-takes-place-in-the-perfect-storm-a-remote-scottish-town-that-stands-on-the-edge-of-the-age-of-the-internet/",
-        "https://kotaku.com/silent-hill-townfall-tackles-the-scariest-subject-of-them-all-healthcare-2000720196"
-      ],
-      "article_titles": [
-        "Silent Hill: Townfall takes place in 'the perfect storm'\u2014a remote Scottish town that stands on the edge of the age of the internet",
-        "Silent Hill: Townfall Tackles The Scariest Subject Of Them All: Healthcare"
-      ]
-    },
-    {
       "headline": "Crunchyroll Is Launching Its First U.S. Streaming Bundle \u2014 With Starz",
       "tag": "crunchyroll",
       "posted_at": "2026-07-29T18:00:53.983285+00:00",
@@ -809,67 +796,22 @@
       "article_titles": [
         "The Pok\u00e9mon Company Sued After Ex-Employee Allegedly Set Up Camera In Office Bathroom"
       ]
+    },
+    {
+      "headline": "Xbox Consoles Are Getting New Capture and Achievement Features",
+      "tag": "xbox",
+      "posted_at": "2026-08-05T17:01:01.136495+00:00",
+      "urls": [
+        "https://www.ign.com/articles/xbox-console-updates-adding-new-capture-and-achievement-features"
+      ],
+      "article_titles": [
+        "Xbox Console Updates Adding New Capture and Achievement Features"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/diablo-4-season-15-update-rebirth",
-      "title": "Diablo 4 players have long wanted to bring their Eternal characters into the Seasonal realm, and now they're getting their wish, sort of",
-      "url": "https://www.eurogamer.net/diablo-4-season-15-update-rebirth",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T12:40:20+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000720820",
-      "title": "I Love Big Walk\u2019s Tutorial Playground",
-      "url": "https://kotaku.com/big-walk-best-fun-tutorial-2000720820",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T12:55:03+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237016733",
-      "title": "\u2018Wizards Beyond Waverly Place\u2019: Jennifer Stone Recalls Feeling \u201cWonderfully Weird\u201d Playing Harper Finkle Again For Spinoff Finale",
-      "url": "https://deadline.com/2026/08/wizards-beyond-waverly-place-finale-jennifer-stone-interview-1237016733/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828206",
-      "title": "Jonny Greenwood, Alexandre Desplat, Hildur Gu\u00f0nad\u00f3ttir Among World Soundtrack Awards Contenders",
-      "url": "https://variety.com/2026/film/news/world-soundtrack-awards-nominations-2026-1236828206/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236663885",
-      "title": "Cooper Hoffman Is Courting Controversy \u2014 Onscreen, Anyway",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/cooper-hoffman-interview-i-want-your-sex-artificial-dad-1236663885/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120458",
-      "title": "Review: Blue Reflection Quartet Ray and Sun Segments Disappoint",
-      "url": "https://www.siliconera.com/review-blue-reflection-quartet-ray-and-sun-segments-disappoint/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204613",
-      "title": "Bandai's Japan-Exclusive PS1 RPG 'London Spirit Detectives' Is Now Available In English",
-      "url": "https://www.timeextension.com/news/2026/08/bandais-japan-exclusive-ps1-rpg-london-spirit-detectives-is-now-available-in-english",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:00:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000721875",
       "title": "Bloodbath Ahead For EA As It Looks To Cut $700 Million In Annual Costs Under Saudi Arabia",
@@ -951,36 +893,12 @@
       "published_dt": "2026-08-05T13:24:59+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236663471",
-      "title": "Charlie Sheen Launching \u2018Mostly Sheenius\u2019 Podcast With Fox\u2019s Red Seat Ventures (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/digital/charlie-sheen-podcast-mostly-sheenius-red-seat-ventures-1236663471/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T13:00:00+00:00"
-    },
-    {
       "guid": "1841045",
       "title": "Beast Of Reincarnation\u2019s First Patch Will Tackle Tiny Text And Broken Cameras",
       "url": "https://www.gamespot.com/articles/beast-of-reincarnation-first-patch-will-tackle-tiny-text-and-broken-cameras/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-05T13:01:49+00:00"
-    },
-    {
-      "guid": "1840444",
-      "title": "Inform People, Or Scare Them Half To Death? Static Hour Gives You A Very Tough Job",
-      "url": "https://www.gamespot.com/articles/inform-people-or-scare-them-half-to-death-static-hour-gives-you-a-very-tough-job/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204618",
-      "title": "Kingdom Hearts Is Coming to Fortnite, So I May Finally Spend My V-Bucks",
-      "url": "https://www.pushsquare.com/news/2026/08/kingdom-hearts-is-coming-to-fortnite-so-i-may-finally-spend-my-v-bucks",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1067831",
@@ -2237,6 +2155,174 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-05T16:18:46+00:00"
+    },
+    {
+      "guid": "4bc74a34-2db3-4455-a41f-9f7489f391af",
+      "title": "Pok\u00e9mon Developer Game Freak Promises Fixes 'Within a Week' To Its Big Budget RPG Beast of Reincarnation, Following Mixed Response at Launch",
+      "url": "https://www.ign.com/articles/pokmon-developer-game-freak-promises-fixes-within-a-week-to-its-big-budget-rpg-beast-of-reincarnation-following-mixed-response-at-launch",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:32:25+00:00"
+    },
+    {
+      "guid": "8ad30fd2-a82a-4fa1-bbfb-38aaa4989880",
+      "title": "Xbox Console Updates Adding New Capture and Achievement Features",
+      "url": "https://www.ign.com/articles/xbox-console-updates-adding-new-capture-and-achievement-features",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:31:47+00:00"
+    },
+    {
+      "guid": "3ff8ab12-a102-4719-9d49-08f6feb1496c",
+      "title": "Amazon Knocks the LEGO Icons Transformers: Soundwave Set Down to a New All-Time Low Price",
+      "url": "https://www.ign.com/articles/amazon-knocks-the-lego-icons-transformers-soundwave-set-down-to-a-new-all-time-low-price",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:25:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721936",
+      "title": "GTA 5 Actor Says He Auditioned For Over 60 Roles In GTA 6 But Rockstar Ignored Him",
+      "url": "https://kotaku.com/gta-5-actor-says-he-auditioned-for-over-60-roles-in-gta-6-but-rockstar-ignored-him-2000721936",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:45:20+00:00"
+    },
+    {
+      "guid": "QaSV3od2dGpepB9EUkcsoN",
+      "title": "Marvel Rivals is gearing up for season 9.5 with major Vanguard adjustments alongside a teaser for its next hero, The Hood",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-is-gearing-up-for-season-9-5-with-major-vanguard-adjustments-alongside-a-teaser-for-its-next-hero-the-hood/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:40:17+00:00"
+    },
+    {
+      "guid": "kU83Xn9GnpHeaHRBW4CRTA",
+      "title": "Chinese memory maker CXMT mops up even more market share away from the likes of Samsung, SK hynix, and Micron, giving me hope that competition is the way out of the memory crisis",
+      "url": "https://www.pcgamer.com/hardware/memory/chinese-memory-maker-cxmt-mops-up-even-more-market-share-away-from-the-likes-of-samsung-sk-hynix-and-micron-giving-me-hope-that-competition-is-the-way-out-of-the-memory-crisis/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:29:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018665",
+      "title": "Jay Chandrasekhar Sets Veeps Launch For Debut Solo Stand-Up Special \u2018Brown Supremacist\u2019",
+      "url": "https://deadline.com/2026/08/jay-chandrasekhar-special-brown-supremacist-premiere-date-1237018665/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018677",
+      "title": "\u2018Martin\u2019 Spinoff \u2018The Varnell Hill Show\u2019 Gets Premiere Date On Paramount+, First-Look Images Of Tommy Davidson & Martin Lawrence",
+      "url": "https://deadline.com/2026/08/the-varnell-hill-show-premiere-date-paramount-plus-photos-1237018677/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:50:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018700",
+      "title": "Comedian Tammy Pescatelli Partners With Comedy Dynamics On New Special \u2018Mrs. Saturday Night\u2019",
+      "url": "https://deadline.com/2026/08/tammy-pescatelli-special-mrs-saturday-night-premiere-date-1237018700/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:38:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018637",
+      "title": "Molly Ringwald Says \u2018Secret Life Of The American Teenager\u2019 Was Her \u201cWorst\u201d Experience Due To \u201cOne Person That Was Really Difficult\u201d",
+      "url": "https://deadline.com/2026/08/molly-ringwald-secret-life-of-the-american-teenager-worst-experience-1237018637/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:35:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828397",
+      "title": "\u2018The Odyssey\u2019 Translator Emily Wilson Doubles Down  Against Nolan\u2019s \u2018Emotionally Empty\u2019 Movie: \u2018We Need Art That Is Truthful\u2019 About the \u2018Necessity of Compassion\u2019",
+      "url": "https://variety.com/2026/film/news/the-odyssey-translator-emily-wilson-slams-nolan-emotionally-empty-1236828397/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:54:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664263",
+      "title": "Do Androids Dream of Best-Sellers?",
+      "url": "https://www.hollywoodreporter.com/business/digital/do-androids-best-sellers-1236664263/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664272",
+      "title": "\u201cAvoid Giving Bond an American-Shaped Head.\u201d THR Unearths Lost Letters From 007 Creator",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/lost-letters-007-creator-james-bond-1236664272/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664869",
+      "title": "Lyndsy Fonseca, Robert Buckley Lead Hallmark\u2019s Next \u2018Holiday Touchdown\u2019 Movie",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hallmark-holiday-touchdown-bears-love-story-cast-1236664869/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:51:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664270",
+      "title": "How to Ignite an Internet Frenzy? Give Alexander Skarsgard a Wicker Penis",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alexander-skarsgard-wicker-penis-internet-frenzy-1236664270/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T16:39:20+00:00"
+    },
+    {
+      "guid": "bVfHsMw4bU7ELphfpDdq8U",
+      "title": "29 years later, Castlevania: Symphony of the Night gets its second PC port in 4 weeks thanks to fans of the PS1 version",
+      "url": "https://www.gamesradar.com/games/action/29-years-later-castlevania-symphony-of-the-night-gets-its-second-pc-port-in-4-weeks-thanks-to-fans-of-the-ps1-version/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T16:28:58+00:00"
+    },
+    {
+      "guid": "VbcwnKyqaQhzTArwbnumZH",
+      "title": "Diablo 4 reportedly comes to Switch 2 next month, but will be a $69.99 code-in-box release",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-4-reportedly-comes-to-switch-2-next-month-but-will-be-a-usd69-99-code-in-box-release/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T16:28:27+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204640",
+      "title": "Don't Worry, PS5 Has Fire Emblem: Fortune's Weave at Home",
+      "url": "https://www.pushsquare.com/news/2026/08/dont-worry-ps5-has-fire-emblem-fortunes-weave-at-home",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120769",
+      "title": "2.0 Pokemon Pokopia Patch Adds Portal Pod Shared Storage, Habitat Updates",
+      "url": "https://www.siliconera.com/2-0-pokemon-pokopia-patch-adds-portal-pod-shared-storage-habitat-updates/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-203590",
+      "title": "AYANEO's Latest Game Boy Advance-Inspired Handheld Is Now Available To Pre-Order",
+      "url": "https://www.timeextension.com/news/2026/08/ayaneos-latest-game-boy-advance-inspired-handheld-is-now-available-to-pre-order",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615070",
+      "title": "D&D: Five Even Wilder Settings That Could Be Universes Beyond",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-five-even-wilder-settings-that-could-be-universes-beyond.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T17:00:00+00:00"
     }
   ]
 }
