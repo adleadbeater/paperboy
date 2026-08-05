@@ -833,38 +833,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000721984",
-      "title": "Xbox Is Getting The PlayStation Platinum Trophy Equivalent Fans Have Long Asked For",
-      "url": "https://kotaku.com/xbox-is-getting-the-playstation-platinum-trophy-equivalent-fans-have-long-asked-for-2000721984",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T18:51:55+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237018876",
-      "title": "David Henrie Says \u2018Wizards Beyond Waverly Place\u2019 Season 2 Finale Was \u201cMisunderstood\u201d & Series Would \u201cNever\u201d Kill Selena Gomez\u2019s Alex Russo",
-      "url": "https://deadline.com/2026/08/david-henrie-wizards-beyond-waverly-place-finale-selena-gomez-1237018876/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T18:47:38+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828564",
-      "title": "Olivia Rodrigo Slams Trump for \u2018Defunding\u2019 Planned Parenthood: \u2018We\u2019ll Never Stop Fighting\u2019",
-      "url": "https://variety.com/2026/music/news/olivia-rodrigo-slams-donald-trump-planned-parenthood-1236828564/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T18:51:05+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664870",
-      "title": "Paramount+ Scored With Dad Shows. Now It\u2019s Coming for the Ladies",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/paramount-buying-shows-1236664870/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T18:46:21+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000721641",
       "title": "The Critically Acclaimed Co-Op Adventure From The Maker Of Untitled Goose Game Is Forcing Players To Make Friends",
       "url": "https://kotaku.com/the-critically-acclaimed-co-op-adventure-from-the-maker-of-untitled-goose-game-is-forcing-players-to-make-friends-2000721641",
@@ -1215,6 +1183,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-05T22:31:02+00:00"
+    },
+    {
+      "guid": "ZvjTfZx2Rk9kAmGHc3DSG8",
+      "title": "What happens after GTA 6?",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/what-happens-after-gta-6/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T23:41:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027379",
+      "title": "Perez Hilton\u2019s TikTok Livestream Was Kept Up Due To \u201cModerator Error,\u201d Spokesperson Says",
+      "url": "https://deadline.com/2026/08/perez-hilton-tiktok-livestream-kept-moderator-error-1237027379/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T23:40:00+00:00"
+    },
+    {
+      "guid": "t3_1vgnkts",
+      "title": "Insider gaming: lay off at Halo Studio",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vgnkts/insider_gaming_lay_off_at_halo_studio/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T23:28:06+00:00"
     }
   ]
 }
