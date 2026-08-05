@@ -732,27 +732,22 @@
       "article_titles": [
         "Pok\u00e9mon Pokopia Version 2.0.0 Released, And Here Are the Full Patch Notes"
       ]
+    },
+    {
+      "headline": "Assassin's Creed Valhalla's Director Returns to Ubisoft as Brand Game Director",
+      "tag": "assassin's creed",
+      "posted_at": "2026-08-05T13:01:00.318687+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/assassins-creed-valhallas-director-has-returned-to-ubisoft-is-now-game-director-for-the-assassins-creed-brand/"
+      ],
+      "article_titles": [
+        "Assassin\u2019s Creed Valhalla\u2019s director has returned to Ubisoft, is now game director for the Assassin\u2019s Creed brand"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/resident-evil-veronica-2-million-wishlists",
-      "title": "Resident Evil Veronica remake already proving popular for Capcom, as wishlists reach an impressive milestone",
-      "url": "https://www.eurogamer.net/resident-evil-veronica-2-million-wishlists",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T08:31:45+00:00"
-    },
-    {
-      "guid": "t3_1vg1wb1",
-      "title": "Bloomberg: EA plans $700M in annual cost cuts after going private, signaling potential layoffs",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vg1wb1/bloomberg_ea_plans_700m_in_annual_cost_cuts_after/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T08:56:54+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/ea-aquisition-55-complete-saudi-arabia-jared-kushner-private",
       "title": "\"Mass layoffs\" expected at EA, as $55bn buyout by Saudi Arabia's PIF and Donald Trump's son-in-law officially goes through",
@@ -1288,6 +1283,78 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-05T12:17:25+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=243402",
+      "title": "Assassin\u2019s Creed Valhalla\u2019s director has returned to Ubisoft, is now game director for the Assassin\u2019s Creed brand",
+      "url": "https://www.videogameschronicle.com/news/assassins-creed-valhallas-director-has-returned-to-ubisoft-is-now-game-director-for-the-assassins-creed-brand/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T12:28:52+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/diablo-4-season-15-update-rebirth",
+      "title": "Diablo 4 players have long wanted to bring their Eternal characters into the Seasonal realm, and now they're getting their wish, sort of",
+      "url": "https://www.eurogamer.net/diablo-4-season-15-update-rebirth",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T12:40:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720820",
+      "title": "I Love Big Walk\u2019s Tutorial Playground",
+      "url": "https://kotaku.com/big-walk-best-fun-tutorial-2000720820",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T12:55:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237016733",
+      "title": "\u2018Wizards Beyond Waverly Place\u2019: Jennifer Stone Recalls Feeling \u201cWonderfully Weird\u201d Playing Harper Finkle Again For Spinoff Finale",
+      "url": "https://deadline.com/2026/08/wizards-beyond-waverly-place-finale-jennifer-stone-interview-1237016733/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828206",
+      "title": "Jonny Greenwood, Alexandre Desplat, Hildur Gu\u00f0nad\u00f3ttir Among World Soundtrack Awards Contenders",
+      "url": "https://variety.com/2026/film/news/world-soundtrack-awards-nominations-2026-1236828206/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663885",
+      "title": "Cooper Hoffman Is Courting Controversy \u2014 Onscreen, Anyway",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/cooper-hoffman-interview-i-want-your-sex-artificial-dad-1236663885/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204614",
+      "title": "Halo's No Match for Activision's Barebones Digital-Only Black Ops PS5 Ports",
+      "url": "https://www.pushsquare.com/news/2026/08/halos-no-match-for-activisions-barebones-digital-only-black-ops-ps5-ports",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120458",
+      "title": "Review: Blue Reflection Quartet Ray and Sun Segments Disappoint",
+      "url": "https://www.siliconera.com/review-blue-reflection-quartet-ray-and-sun-segments-disappoint/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204613",
+      "title": "Bandai's Japan-Exclusive PS1 RPG 'London Spirit Detectives' Is Now Available In English",
+      "url": "https://www.timeextension.com/news/2026/08/bandais-japan-exclusive-ps1-rpg-london-spirit-detectives-is-now-available-in-english",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T13:00:00+00:00"
     }
   ]
 }
