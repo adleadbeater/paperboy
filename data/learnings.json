@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Pok\u00e9mon Pokopia's 'Bubbly Basin' Expansion Pass Gets a Switch 2 Release Date",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-07-29T03:57:42.302969+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/07/pokemon-pokopia-bubbly-basin-expansion-pass-dlc-locks-in-switch-2-release-date"
-      ],
-      "article_titles": [
-        "Pok\u00e9mon Pokopia 'Bubbly Basin' Expansion Pass DLC Locks In Switch 2 Release Date"
-      ]
-    },
-    {
       "headline": "Silent Hill: Townfall Gets Setting Details \u2014 A Remote Scottish Town on the Edge of the Internet Age",
       "tag": "silent hill: townfall",
       "posted_at": "2026-07-29T16:48:36.192401+00:00",
@@ -708,6 +697,30 @@
         "EA Has Officially Been Sold, And What Comes Next Could Be Painful",
         "Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now"
       ]
+    },
+    {
+      "headline": "Marvel Rivals Is Slashing Its Install Size in Its Next Big Update",
+      "tag": "marvel rivals",
+      "posted_at": "2026-08-05T11:31:06.345597+00:00",
+      "urls": [
+        "https://www.eurogamer.net/marvel-rivals-file-size-reduction-pc-xbox-playstation",
+        "https://www.pushsquare.com/news/2026/08/marvel-rivals-is-about-to-seriously-shrink-its-file-size-on-ps5"
+      ],
+      "article_titles": [
+        "Marvel Rivals\u2019 next update drastically reduces the game\u2019s install size on PC and console",
+        "Marvel Rivals Is About to Seriously Shrink Its File Size on PS5"
+      ]
+    },
+    {
+      "headline": "World of Warcraft Is Walking Back Its AddOn Crackdown, Allowing WeakAura-Style Mods Again",
+      "tag": "world of warcraft",
+      "posted_at": "2026-08-05T11:31:06.428347+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/world-of-warcraft/wow-will-let-some-weakaura-style-mods-function-in-its-next-major-patch-as-the-war-on-combat-addons-turns-into-more-of-a-truce/"
+      ],
+      "article_titles": [
+        "WoW will let some WeakAura-style mods function in its next major patch, as the war on combat AddOns turns into more of a truce"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1048,6 +1061,102 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-08-05T10:36:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/marvel-rivals-file-size-reduction-pc-xbox-playstation",
+      "title": "Marvel Rivals\u2019 next update drastically reduces the game\u2019s install size on PC and console",
+      "url": "https://www.eurogamer.net/marvel-rivals-file-size-reduction-pc-xbox-playstation",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T11:28:58+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/arctic-cooling-us-tariff-refunds-lower-prices",
+      "title": "A PC cooling company shows Sony and Nintendo how it's done, as it pledges to pass US tariff refunds onto customers",
+      "url": "https://www.eurogamer.net/arctic-cooling-us-tariff-refunds-lower-prices",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T11:16:50+00:00"
+    },
+    {
+      "guid": "n57GHeJzuUyLPNneFzhVuT",
+      "title": "WoW will let some WeakAura-style mods function in its next major patch, as the war on combat AddOns turns into more of a truce",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-will-let-some-weakaura-style-mods-function-in-its-next-major-patch-as-the-war-on-combat-addons-turns-into-more-of-a-truce/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T11:05:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237017656",
+      "title": "Disney Earnings Buoyed By \u2018Toy Story 5\u2019, Theme Parks, Streaming Profit; Books $100M Tariff Refund",
+      "url": "https://deadline.com/2026/08/disney-earnings-toy-story-5-streaming-theme-parks-1237017656/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T11:05:53+00:00"
+    },
+    {
+      "guid": "fCQ4S79gitajTyMAQkqz5",
+      "title": "\"CoD got it. Halo didn't\" \u2013 Black Ops 1 and 2 ports battered Halo Campaign Evolved on PlayStation last month, analyst says, because $60 for a \"graphical touch-up\" is a rough sell",
+      "url": "https://www.gamesradar.com/games/halo/cod-got-it-halo-didnt-black-ops-1-and-2-ports-battered-halo-campaign-evolved-on-playstation-last-month-analyst-says-because-usd60-for-a-graphical-touch-up-is-a-rough-sell/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:03:15+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204609",
+      "title": "Star Trek: Legends Will Be Delisted From All Digital Storefronts",
+      "url": "https://www.nintendolife.com/news/2026/08/star-trek-legends-will-be-delisted-from-all-digital-storefronts",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204602",
+      "title": "Marvel Rivals Is About to Seriously Shrink Its File Size on PS5",
+      "url": "https://www.pushsquare.com/news/2026/08/marvel-rivals-is-about-to-seriously-shrink-its-file-size-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204598",
+      "title": "\"Don't Be A Chicken\" - Konami's Military-Themed Hyper Sports Successor Combat School Is This Week's Arcade Archives Release",
+      "url": "https://www.timeextension.com/news/2026/08/dont-be-a-chicken-konamis-military-themed-hyper-sports-successor-combat-school-is-this-weeks-arcade-archives-release",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204600",
+      "title": "Pre-Orders For Quarter Arcade's Battlezone 1/4 Cabinet Open This Week",
+      "url": "https://www.timeextension.com/news/2026/08/pre-orders-for-quarter-arcades-battlezone-14-cabinet-open-this-week",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749545",
+      "title": "Nintendo Confirms Xenoblade Chronicles 2 Switch 2 Edition Bugs Affecting Accessory Slots and Battle Music, Patch Coming",
+      "url": "https://otakukart.com/nintendo-confirms-xenoblade-chronicles-2-switch-2-edition-bugs-affecting-accessory-slots-and-battle-music-patch-coming/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:19:47+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749389",
+      "title": "\u2018I Love Dokagui!\u2019 TV Anime Announced for Hit Gourmet Manga",
+      "url": "https://otakukart.com/i-love-dokagui-tv-anime-announced-for-hit-gourmet-manga/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:17:31+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749393",
+      "title": "New Kamen Rider MY-TH Trailers Introduce a Zodiac-Powered Hero",
+      "url": "https://otakukart.com/new-kamen-rider-my-th-trailers-introduce-a-zodiac-powered-hero/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-05T11:08:53+00:00"
     }
   ]
 }
