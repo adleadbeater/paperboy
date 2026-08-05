@@ -714,52 +714,20 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.gematsu.com/?p=1067751",
-      "title": "Monster Hunter Wilds Prologue Demo now available",
-      "url": "https://www.gematsu.com/2026/08/monster-hunter-wilds-prologue-demo-now-available",
-      "source_name": "Gematsu",
+      "guid": "https://www.eurogamer.net/resident-evil-veronica-2-million-wishlists",
+      "title": "Resident Evil Veronica remake already proving popular for Capcom, as wishlists reach an impressive milestone",
+      "url": "https://www.eurogamer.net/resident-evil-veronica-2-million-wishlists",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T08:31:45+00:00"
+    },
+    {
+      "guid": "t3_1vg1wb1",
+      "title": "Bloomberg: EA plans $700M in annual cost cuts after going private, signaling potential layoffs",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vg1wb1/bloomberg_ea_plans_700m_in_annual_cost_cuts_after/",
+      "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
-      "published_dt": "2026-08-05T00:24:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237018017",
-      "title": "Big Bucks Generating Disney Consumer Products Shifts To  Studio Umbrella As Josh D\u2019Amaro-Run Mouse House Drops Earnings Report Tomorrow",
-      "url": "https://deadline.com/2026/08/disney-consumer-products-moves-studios-1237018017/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T03:02:25+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664494",
-      "title": "What David Ellison Is Really Up to",
-      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-merger-rob-bonta-lawsuit-ag-1236664494/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T02:54:37+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664590",
-      "title": "Police Respond to Perez Hilton\u2019s Miami Home After He Appeared to Harm Himself on Livestream",
-      "url": "https://www.hollywoodreporter.com/news/general-news/police-respond-perez-hilton-home-harm-himself-livestream-1236664590/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T02:47:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237018126",
-      "title": "\u2018The Odyssey\u2019 Extends Run At Alex Theatre After Becoming Highest-Grossing 70MM Exhibitor Who Had Not Screened A New Movie In 35 Years",
-      "url": "https://deadline.com/2026/08/christopher-nolan-the-odyssey-extends-run-alex-theatre-70mm-1237018126/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T03:25:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828090",
-      "title": "Perez Hilton: Disturbing Livestream Frightens Fans, Police Confirm Investigation at His Home",
-      "url": "https://variety.com/2026/tv/news/perez-hilton-livestream-police-miami-home-1236828090/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T03:48:22+00:00"
+      "published_dt": "2026-08-05T08:56:54+00:00"
     }
   ]
 }
