@@ -714,14 +714,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237017564",
-      "title": "David Ellison Says Paramount Is \u201cAbsolutely Open\u201d To Settling WBD Antitrust Suit, But \u201cWe Will Win At Trial\u201d",
-      "url": "https://deadline.com/2026/08/david-ellison-paramount-open-to-settling-wbd-lawsuit-antitrust-1237017564/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-04T23:24:10+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1067751",
       "title": "Monster Hunter Wilds Prologue Demo now available",
       "url": "https://www.gematsu.com/2026/08/monster-hunter-wilds-prologue-demo-now-available",
@@ -752,6 +744,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-05T02:47:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018126",
+      "title": "\u2018The Odyssey\u2019 Extends Run At Alex Theatre After Becoming Highest-Grossing 70MM Exhibitor Who Had Not Screened A New Movie In 35 Years",
+      "url": "https://deadline.com/2026/08/christopher-nolan-the-odyssey-extends-run-alex-theatre-70mm-1237018126/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T03:25:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828090",
+      "title": "Perez Hilton: Disturbing Livestream Frightens Fans, Police Confirm Investigation at His Home",
+      "url": "https://variety.com/2026/tv/news/perez-hilton-livestream-police-miami-home-1236828090/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-05T03:48:22+00:00"
     }
   ]
 }
