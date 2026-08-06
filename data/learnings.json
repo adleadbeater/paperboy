@@ -912,14 +912,6 @@
       "published_dt": "2026-08-06T12:27:24+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237027524",
-      "title": "Versant In Flux As It Diversifies Business With Strategy Taking Shape In Q2, Stock Pops",
-      "url": "https://deadline.com/2026/08/versant-earnings-diversifies-business-stock-pops-1237027524/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T12:04:12+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236828695",
       "title": "World Cup Boosts Fox Ad Sales in Q2, Profit Falls 3%",
       "url": "https://variety.com/2026/tv/news/fox-q4-earnings-world-cup-ad-sales-1236828695/",
@@ -968,30 +960,6 @@
       "published_dt": "2026-08-06T12:07:18+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-204678",
-      "title": "GTA 6 PS5 Gameplay Coming This Month, Here's When to See It First on Netflix",
-      "url": "https://www.pushsquare.com/news/2026/08/gta-6-ps5-gameplay-coming-this-month-heres-when-to-see-it-first-on-netflix",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T12:05:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204668",
-      "title": "Marvel Tokon's Day One Update Promises a Much Smoother Experience on PC, PS5",
-      "url": "https://www.pushsquare.com/news/2026/08/marvel-tokons-day-one-update-promises-a-much-smoother-experience-on-pc-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204662",
-      "title": "\"I Don't Understand This Hate Towards Arcade Game Design\" - Shinobi: Art Of Vengeance Dev Comments Trigger Fresh Debate",
-      "url": "https://www.timeextension.com/news/2026/08/i-dont-understand-this-hate-towards-arcade-game-design-shinobi-art-of-vengeance-dev-comments-trigger-fresh-debate",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T12:00:00+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1068006",
       "title": "\u2018Grand Theft Auto VI: An Extended Look\u2019 premieres August 27",
       "url": "https://www.gematsu.com/2026/08/grand-theft-auto-vi-an-extended-look-premieres-august-27",
@@ -1006,14 +974,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-06T12:19:43+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=578410",
-      "title": "Be Your Own Hero With These Superhero Tabletop RPGs",
-      "url": "https://www.belloflostsouls.net/2026/08/be-your-own-hero-with-these-superhero-tabletop-rpgs.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T12:00:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/pokemon-pokopia-version-bubbly-basin-patch-notes",
@@ -1670,6 +1630,230 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-06T15:06:36+00:00"
+    },
+    {
+      "guid": "e66cc4b1-4e28-421b-98b7-d9396bfb4b14",
+      "title": "Sony's Canceled Sinister Six Movie Concept Art Shows Spider-Man in Uncharted Territory",
+      "url": "https://www.ign.com/articles/sonys-canceled-sinister-six-movie-concept-art-shows-spider-man-in-uncharted-territory",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:45:13+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/marvel-tokon-deadpool-references",
+      "title": "How many fun little references has Arc System Works snuck into Deadpool's move list in Marvel Tokon? Too many to count, it seems",
+      "url": "https://www.eurogamer.net/marvel-tokon-deadpool-references",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:58:32+00:00"
+    },
+    {
+      "guid": "SKXQr3MYfHigMkwEDowZAG",
+      "title": "It is genuinely cheaper for me to fly to QuakeCon and buy a RTX 5090 at the Nvidia booth than pick up the GPU absolutely anywhere else",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/it-is-genuinely-cheaper-for-me-to-fly-to-quakecon-and-buy-a-rtx-5090-at-the-nvidia-booth-than-pick-up-the-gpu-absolutely-anywhere-else/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:33:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027725",
+      "title": "Film Independent Sets Six For 10th Episodic Lab",
+      "url": "https://deadline.com/2026/08/film-independent-episodic-lab-2026-fellows-1237027725/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T16:04:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018735",
+      "title": "\u2018X-Men\u2019: Kit Connor Eyed For Cyclops Role In Upcoming Marvel Studios Pic",
+      "url": "https://deadline.com/2026/08/kit-connor-cyclops-x-men-movie-marvel-studios-1237018735/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027709",
+      "title": "Comedian Corey B Sets Debut Special",
+      "url": "https://deadline.com/2026/08/corey-b-comedy-special-taping-october-1237027709/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:44:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027650",
+      "title": "Nexstar CEO Says Tegna Suit Settlement Is Possible, But Says Company Faces No Paramount-Style Ticking-Fee Pressure",
+      "url": "https://deadline.com/2026/08/nexstar-tegna-merger-antitrust-lawsuit-paramount-wbd-1237027650/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:33:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027658",
+      "title": "Lachlan Murdoch Says Fox Won\u2019t Amend Existing NFL Contract Early, Sticking To \u201cCustomary Timetable\u201d",
+      "url": "https://deadline.com/2026/08/fox-wont-not-amending-existing-nfl-contract-early-1237027658/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:31:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829018",
+      "title": "Phoebe Bridgers Will Unveil \u2018Lost Weekend\u2019 Album in Planetariums in More Than 30 Cities",
+      "url": "https://variety.com/2026/music/news/phoebe-bridgers-planetarium-lost-weekend-1236829018/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T16:01:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828544",
+      "title": "\u2018Adam\u2019s Law\u2019 Trailer: Judge Judy Passes Daytime TV Gavel to Her Son in New Court Show",
+      "url": "https://variety.com/2026/tv/news/adam-levy-law-court-show-judge-judy-sheindlin-1236828544/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829185",
+      "title": "Netflix Plans Week-Long \u2018Beef\u2019 Free Wellness-Centered FYC Events Throughout Los Angeles (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/awards/netflix-beef-free-wellness-fyc-events-los-angeles-1236829185/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829194",
+      "title": "FCC Eliminates TV Station Ownership Cap in Win for Nexstar and Other Big Broadcasters",
+      "url": "https://variety.com/2026/tv/news/fcc-eliminates-tv-station-ownership-cap-nexstar-broadcaster-1236829194/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:59:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829167",
+      "title": "David O. Russell and Nicolas Cage\u2019s \u2018Madden\u2019 Sets Prime Video Streaming Release for November",
+      "url": "https://variety.com/2026/film/news/madden-movie-prime-video-streaming-release-nicolas-cage-david-o-russell-1236829167/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:47:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829174",
+      "title": "Minnie Driver Suffers Neck Injury in \u2018Really Bad Car Accident\u2019 and Says \u2018I Am So Grateful to Be Alive\u2019",
+      "url": "https://variety.com/2026/film/global/minnie-driver-car-accident-neck-injury-1236829174/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:42:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664811",
+      "title": "\u2018Gentle Monster\u2019 Scared Most Actors Away. L\u00e9a Seydoux Embraced the Challenge",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/gentle-monster-lea-seydoux-marie-kreutzer-netflix-exclusive-1236664811/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665912",
+      "title": "\u2018Madden\u2019 Biopic Sets Fall Release Date, With Nicolas Cage Teasing Role as \u201cHighlight for Me\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/madden-biopic-nicolas-cage-amazon-release-1236665912/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:43:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665889",
+      "title": "Jean Lodge, British Actress and Mother of \u2018Nanny\u2019 Actor Charles Shaughnessy, Dies at 99",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jean-lodge-dead-black-knight-charles-shaughnessy-1236665889/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:33:17+00:00"
+    },
+    {
+      "guid": "WHznA8WpQrPG3cF622qfTg",
+      "title": "Forget dual mode, AOC's latest curved gaming monitor can switch between three resolution and refresh rate combos",
+      "url": "https://www.gamesradar.com/hardware/tvs-monitors/forget-dual-mode-aocs-latest-curved-gaming-monitor-can-switch-between-three-resolution-and-refresh-rate-combos/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:57:28+00:00"
+    },
+    {
+      "guid": "eHsftU7QsLmsFJ38PVbmCJ",
+      "title": "How to get Pokopia Seashell Fencing",
+      "url": "https://www.gamesradar.com/games/pokemon/pokopia-seashell-fencing/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:55:20+00:00"
+    },
+    {
+      "guid": "K5rMR2Xyx3SYnnHqGpTdZf",
+      "title": "Fire Emblem: Fortune's Weave revealed everything but romance, and I'm worried we are losing what makes it so special",
+      "url": "https://www.gamesradar.com/games/rpg/fire-emblem-fortunes-weave-revealed-everything-but-romance-and-im-worried-we-are-losing-what-makes-it-so-special/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:48:32+00:00"
+    },
+    {
+      "guid": "DSiDD78zFa4rCK3sMZMA2m",
+      "title": "Meet Voidjoy, the new controller brand and side hustle from JSAUX, one of the biggest names in the gaming accessory market",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/meet-voidjoy-the-new-controller-brand-and-side-hustle-from-jsaux-one-of-the-biggest-names-in-the-gaming-accessory-market/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:34:16+00:00"
+    },
+    {
+      "guid": "XEceR8nPzx2HoC4skSbh8k",
+      "title": "Nintendo reports a full 38.5% of its sales are still physical in the wake of Sony abandoning discs",
+      "url": "https://www.gamesradar.com/hardware/nintendo-reports-a-full-38-5-percent-of-its-sales-are-still-physical-in-the-wake-of-sony-abandoning-discs/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:30:04+00:00"
+    },
+    {
+      "guid": "1841503",
+      "title": "All Of 2027\u2019s RAM Could Already Be Gone As Major Manufacturers Sell Out",
+      "url": "https://www.gamespot.com/articles/all-of-2027s-ram-could-already-be-gone-as-major-manufacturers-sell-out/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:47:50+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204650",
+      "title": "Nintendo Download: 6th August (North America)",
+      "url": "https://www.nintendolife.com/news/2026/08/nintendo-download-6th-august-north-america",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204560",
+      "title": "Devolver's Brilliant Roguelite Dopamine Factory, Ball X Pit, Is a Smash Hit at 2 Million Sales",
+      "url": "https://www.pushsquare.com/news/2026/08/devolvers-brilliant-roguelite-dopamine-factory-ball-x-pit-is-a-smash-hit-at-2-million-sales",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120829",
+      "title": "Nintendo Donating to Kumamoto Earthquake Relief",
+      "url": "https://www.siliconera.com/nintendo-donating-to-kumamoto-earthquake-relief/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T16:00:15+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-197019",
+      "title": "Evercade DOOM Collection + Evercade Nexus DOOM Edition Officially Announced",
+      "url": "https://www.timeextension.com/news/2026/08/evercade-doom-collection-plus-evercade-nexus-doom-edition-officially-announced",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:35:00+00:00"
+    },
+    {
+      "guid": "t3_1vh86y9",
+      "title": "Australian actor Uli Latukefu ('Young Rock') is supposedly playing Ganondorf in 'The Legend of Zelda' movie",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vh86y9/australian_actor_uli_latukefu_young_rock_is/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:55:06+00:00"
     }
   ]
 }
