@@ -891,28 +891,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
-      "title": "Halo Studios hit by layoffs after release of Halo: Campaign Evolved",
-      "url": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T09:08:08+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236828878",
       "title": "Isabella Rossellini\u00a0Talks Lynch, \u2018Green Porno\u2019 and How Animals Became Her Favorite \u2018Muses\u2019: \u2018They Fascinate Me\u2019",
       "url": "https://variety.com/2026/awards/actors/isabella-rossellini-lynch-green-porno-animals-locarno-1236828878/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-06T09:26:45+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828903",
-      "title": "Odd Slice Films Boards Documentary \u2018Concrete Land\u2019 Ahead of Locarno Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/odd-slice-films-concrete-land-locarno-1236828903/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T09:07:12+00:00"
     },
     {
       "guid": "ea879a09-1f0e-49a9-bd74-fb7f1ed1b929",
@@ -1393,6 +1377,142 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-06T12:34:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722166",
+      "title": "Deadpool\u2019s Marvel T\u014dkon Kit Is Packed With Fighting Game References From Street Fighter And More",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-deadpool-game-references-2000722166",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:15:42+00:00"
+    },
+    {
+      "guid": "ucTwUTyzwjvyNzniGk9qLU",
+      "title": "The first GTA 6 gameplay reveal will debut on Netflix later this month, as the streaming service tries yet again to get a piece of that videogame pie",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-first-gta-6-gameplay-reveal-will-debut-on-netflix-later-this-month-as-the-streaming-service-tries-yet-again-to-get-a-piece-of-that-videogame-pie/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:20:21+00:00"
+    },
+    {
+      "guid": "H9k5EGT89RJDLyrQ63vBYa",
+      "title": "'Slightly ugly, and insanely functional': Check out this custom Steam Machine faceplate that doubles as a charging stand",
+      "url": "https://www.pcgamer.com/hardware/gaming-pcs/slightly-ugly-and-insanely-functional-check-out-this-custom-steam-machine-faceplate-that-doubles-as-a-charging-stand/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:07:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236921576",
+      "title": "\u2018Primetime\u2019 Trailer: A24 Releases First Full Look At Lance Oppenheim\u2019s \u2018To Catch A Predator\u2019 Drama Starring Robert Pattinson As Chris Hansen",
+      "url": "https://deadline.com/2026/08/primetime-trailer-robert-pattinson-chris-hansen-a24-movie-1236921576/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:13:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027585",
+      "title": "David Zaslav Says WBD Staffers Are \u201cWorking Extremely Hard\u201d Despite Paramount Deal Uncertainty",
+      "url": "https://deadline.com/2026/08/david-zaslav-wbd-workers-paramount-merger-1237027585/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:06:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829048",
+      "title": "Fox Appears to Block NFL\u2019s Effort to Re-Do Massive Rights Deal",
+      "url": "https://variety.com/2026/tv/news/fox-blocks-nfl-tv-rights-lachlan-murdoch-1236829048/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:16:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828508",
+      "title": "\u2018Primetime\u2019 Trailer: Robert Pattinson Suits Up as \u2018To Catch a Predator\u2019 Host Chris Hansen in A24 Crime Thriller",
+      "url": "https://variety.com/2026/film/news/primetime-trailer-robert-pattinson-to-catch-predator-1236828508/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:03:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665825",
+      "title": "Netflix\u2019s Next Big Premiere Is an \u201cExtended Look\u201d at \u2018Grand Theft Auto VI\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/grand-theft-auto-vi-entended-look-on-netflix-gta-6-rockstar-1236665825/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:02:26+00:00"
+    },
+    {
+      "guid": "6ExjYwe2RcQNA6w3Z7BttB",
+      "title": "Fallout season 3 set photos hint that a deep-cut sub-faction is about to be introduced to the Wasteland",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/fallout-season-3-set-photos-hint-that-a-deep-cut-sub-faction-is-about-to-be-introduced-to-the-wasteland/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:04:08+00:00"
+    },
+    {
+      "guid": "cfxid8MpheaV9NdVsPjaKf",
+      "title": "\"I would bet my life that this is going to be better than anything we've done:\" Alan Ritchson on the making of Reacher season 4",
+      "url": "https://www.gamesradar.com/entertainment/action-shows/reacher-season-4-set-report-interview-alan-ritchson/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "guid": "1841401",
+      "title": "Marvel Tokon: Fighting Souls Multiplayer Servers Go Live Today \u2013 Here\u2019s When You Can Play",
+      "url": "https://www.gamespot.com/articles/marvel-tokon-fighting-souls-multiplayer-servers-go-live-today-heres-when-you-can-play/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:00:01+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204684",
+      "title": "Marvel Tokon Server Times: Here's When You Can Start Playing Sony's Fighter on PS5, PC",
+      "url": "https://www.pushsquare.com/news/2026/08/marvel-tokon-server-times-heres-when-you-can-start-playing-sonys-fighter-on-ps5-pc",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204679",
+      "title": "This May Be the Best Looking PS5 Game I've Ever Seen, And It's Out Next Week",
+      "url": "https://www.pushsquare.com/news/2026/08/this-may-be-the-best-looking-ps5-game-ive-ever-seen-and-its-out-next-week",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204667",
+      "title": "Fans of Knight Lore & Atic Atac, Take Note! This Ultimate Play The Game / Rare Tribute Is Getting A Playdate Exclusive Spin-Off",
+      "url": "https://www.timeextension.com/news/2026/08/fans-of-knight-lore-and-atic-atac-take-note-this-ultimate-play-the-game-rare-tribute-is-getting-a-playdate-exclusive-spin-off",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068032",
+      "title": "TOEM 2 launches September 29",
+      "url": "https://www.gematsu.com/2026/08/toem-2-launches-september-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:18:38+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1067736",
+      "title": "Famitsu Sales: 7/27/26 \u2013 8/2/26",
+      "url": "https://www.gematsu.com/2026/08/famitsu-sales-7-27-26-8-2-26",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:13:06+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1067958",
+      "title": "Turn-based RPG Warrior Cats: Clans of the Forest announced for PS5, Xbox Series, Switch 2, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/08/turn-based-rpg-warrior-cats-clans-of-the-forest-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:01:54+00:00"
     }
   ]
 }
