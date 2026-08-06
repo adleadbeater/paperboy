@@ -827,6 +827,17 @@
       "article_titles": [
         "Minecraft finally has a Switch 2 release date, but there may be bad news for Switch 1 owners"
       ]
+    },
+    {
+      "headline": "Halo Studios Hit With Layoffs Following Release of Halo: Campaign Evolved",
+      "tag": "halo",
+      "posted_at": "2026-08-06T09:30:50.048769+00:00",
+      "urls": [
+        "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved"
+      ],
+      "article_titles": [
+        "Halo Studios hit by layoffs after release of Halo: Campaign Evolved"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -935,6 +946,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-06T08:47:50+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
+      "title": "Halo Studios hit by layoffs after release of Halo: Campaign Evolved",
+      "url": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T09:08:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828878",
+      "title": "Isabella Rossellini\u00a0Talks Lynch, \u2018Green Porno\u2019 and How Animals Became Her Favorite \u2018Muses\u2019: \u2018They Fascinate Me\u2019",
+      "url": "https://variety.com/2026/awards/actors/isabella-rossellini-lynch-green-porno-animals-locarno-1236828878/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T09:26:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828903",
+      "title": "Odd Slice Films Boards Documentary \u2018Concrete Land\u2019 Ahead of Locarno Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/odd-slice-films-concrete-land-locarno-1236828903/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T09:07:12+00:00"
     }
   ]
 }
