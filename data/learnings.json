@@ -891,102 +891,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.videogameschronicle.com/?p=243462",
-      "title": "Switch 2 continues to be Nintendo\u2019s fastest selling system, latest financial results show",
-      "url": "https://www.videogameschronicle.com/news/switch-2-continues-to-be-nintendos-fastest-selling-system-latest-financial-results-show/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T08:50:32+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/minecraft-switch-2-release-date-upgrade-path",
-      "title": "Minecraft finally has a Switch 2 release date, but there may be bad news for Switch 1 owners",
-      "url": "https://www.eurogamer.net/minecraft-switch-2-release-date-upgrade-path",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T08:57:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237027484",
-      "title": "Piperplay Boards Sales & Unveils Trailer For Venice & TIFF-Bound True Crime Drama \u2018The City Of The Living\u2019",
-      "url": "https://deadline.com/2026/08/piperplay-sales-trailer-venice-tiff-city-living-1237027484/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T09:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237027492",
-      "title": "ReelShort On Course To Reach $1BN Revenue & First Profit In 2026 \u2013 MPA Report",
-      "url": "https://deadline.com/2026/08/microdrama-reelshort-revenue-profit-1237027492/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T08:59:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237027496",
-      "title": "Alexander Johnson, Saffron Burrows & Steven Berkoff Lead Psychological Thriller \u2018The Sacrifice\u2019",
-      "url": "https://deadline.com/2026/08/alexander-johnson-steven-berkoff-the-sacrifice-1237027496/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T08:49:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237027497",
-      "title": "ProSiebenSat.1 Ad Sales Dented By Weak TV Market & Rivals\u2019 World Cup Rights",
-      "url": "https://deadline.com/2026/08/prosiebensat1-h1-2026-tv-ad-slump-world-cup-1237027497/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T08:46:08+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236828901",
-      "title": "Craig Russell Stars in British Action Thriller \u2018The Priest\u2019 as Cornwall Shoot Wraps (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/craig-russell-action-thriller-the-priest-1236828901/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T08:47:24+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236662404",
-      "title": "\u2018Revolutionaries Never Die\u2019 Is a Cinematic Homage to Lebanese Filmmaking Pioneer Jocelyne Saab",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/revolutionaries-never-die-film-jocelyne-saab-locarno-2026-1236662404/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T09:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204415",
-      "title": "Marvel Tokon's PS5 Trophy List Won't Put Up Too Tough a Fight for the Platinum",
-      "url": "https://www.pushsquare.com/news/2026/08/marvel-tokons-ps5-trophy-list-wont-put-up-too-tough-a-fight-for-the-platinum",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T09:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204658",
-      "title": "After 6 Months Of \"Insane\" Optimisation Work, PS3 Emulation Now Runs \"Way Faster\" On ARM",
-      "url": "https://www.timeextension.com/news/2026/08/after-6-months-of-insane-optimisation-work-ps3-emulation-now-runs-way-faster-on-arm",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T09:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1749718",
-      "title": "Another Eden Version 3.16.50 Launches with New Apocrypha Part 3, Theodorus, and Alterfit Feature",
-      "url": "https://otakukart.com/another-eden-version-3-16-50-launches-with-new-apocrypha-part-3-theodorus-and-alterfit-feature/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T08:48:02+00:00"
-    },
-    {
-      "guid": "t3_1vgyo87",
-      "title": "EA Looking To Sell BioWare And Other IPs Following Saudi Arabia Takeover, Claims Insider",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vgyo87/ea_looking_to_sell_bioware_and_other_ips/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T08:47:50+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
       "title": "Halo Studios hit by layoffs after release of Halo: Campaign Evolved",
       "url": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
@@ -1409,6 +1313,86 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-06T12:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/pokemon-pokopia-version-bubbly-basin-patch-notes",
+      "title": "Pok\u00e9mon Pokopia's free 2.0 update is here, and it's making a splash with new underwater features and improvements",
+      "url": "https://www.eurogamer.net/pokemon-pokopia-version-bubbly-basin-patch-notes",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T12:39:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027518",
+      "title": "Martin McDonagh To Receive Zurich Film Festival Honorary Award At Gala Screening For Awards Contender \u2018Wild Horse Nine\u2019",
+      "url": "https://deadline.com/2026/08/martin-mcdonagh-zurich-film-festival-honorary-award-1237027518/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027536",
+      "title": "BAFTA TV Awards Adds AI Clause To Entry Rules & Welcomes Submissions From HBO Max",
+      "url": "https://deadline.com/2026/08/bafta-tv-awards-ai-clause-entry-rules-welcomes-hbo-max-1237027536/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T12:32:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829027",
+      "title": "Zaslav Admits Looming Paramount-Warner Bros. Merger Has Been \u2018Challenging\u2019 for Employees but Claims Work Ethic Is \u2018Inspiring\u2019",
+      "url": "https://variety.com/2026/tv/news/zaslav-paramount-warner-bros-merger-challenging-employees-inspiring-1236829027/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T12:57:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664169",
+      "title": "The Power Broker Behind \u2018Crazy Rich Asians\u2019 and \u2018Parasite\u2019 Wants to Build a Hollywood Studio for Asian Stories",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/bing-chen-gold-house-studios-1236664169/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665704",
+      "title": "Zurich Fest to Honor Director Martin McDonagh",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/zurich-fest-martin-mcdonagh-career-honor-wild-horse-nine-1236665704/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665132",
+      "title": "Tubi Hits 110 Million Monthly Users as Fox Streamer Delivers Highest Revenue Quarter Yet (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/tubi-hits-110-million-monthly-users-fox-streamer-report-1236665132/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T12:41:48+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120472",
+      "title": "Review: Veritas Tales: Witch of the Dark Castle Looks Lovely",
+      "url": "https://www.siliconera.com/review-veritas-tales-witch-of-the-dark-castle-looks-lovely/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068001",
+      "title": "Brave Dungeon: The Meaning of Justice coming to PS5 on August 8",
+      "url": "https://www.gematsu.com/2026/08/brave-dungeon-the-meaning-of-justice-coming-to-ps5-on-august-8",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T12:56:58+00:00"
+    },
+    {
+      "guid": "t3_1vh2zic",
+      "title": "Dealabs: Xbox releasing a limited edition 'Storm King' controller for Gears of War: E-Day",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vh2zic/dealabs_xbox_releasing_a_limited_edition_storm/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T12:34:12+00:00"
     }
   ]
 }
