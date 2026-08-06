@@ -833,30 +833,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "ZvjTfZx2Rk9kAmGHc3DSG8",
-      "title": "What happens after GTA 6?",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/what-happens-after-gta-6/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T23:41:08+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237027379",
-      "title": "Perez Hilton\u2019s TikTok Livestream Was Kept Up Due To \u201cModerator Error,\u201d Spokesperson Says",
-      "url": "https://deadline.com/2026/08/perez-hilton-tiktok-livestream-kept-moderator-error-1237027379/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-05T23:40:00+00:00"
-    },
-    {
-      "guid": "t3_1vgnkts",
-      "title": "Insider gaming: lay off at Halo Studio",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vgnkts/insider_gaming_lay_off_at_halo_studio/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-05T23:28:06+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237027440",
       "title": "Bella Thorne Recalls \u201cHashing It Out\u201d With Zendaya After Being Pitted Against Each Other In Disney Years: \u201cIt Got Pretty Bad\u201d",
       "url": "https://deadline.com/2026/08/bella-thorne-hashing-it-out-zendaya-disney-1237027440/",
@@ -871,6 +847,22 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-06T03:00:00+00:00"
+    },
+    {
+      "guid": "zofvx2iiS5Nx5mUoAy8Eed",
+      "title": "Can you play Big Walk alone or with randoms?",
+      "url": "https://www.pcgamer.com/games/adventure/can-you-play-big-walk-alone-or-with-randoms/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T03:40:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828855",
+      "title": "Judge Dismisses Lawsuit From Paramount Streaming Subscribers Seeking to Block Warner Bros. Merger",
+      "url": "https://variety.com/2026/film/news/judge-dismisses-lawsuit-paramount-warner-bros-merger-1236828855/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T03:31:04+00:00"
     }
   ]
 }
