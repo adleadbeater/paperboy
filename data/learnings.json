@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Helldivers 2 Is Getting a Warhammer 40K Warbond on August 12",
-      "tag": "helldivers 2",
-      "posted_at": "2026-07-30T13:20:23.820133+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/third-person-shooter/the-helldivers-2-x-warhammer-40k-warbond-arrives-on-august-12-bringing-three-of-its-most-iconic-weapons-and-two-imperial-guard-armour-sets/"
-      ],
-      "article_titles": [
-        "The Helldivers 2 x Warhammer 40k Warbond arrives on August 12, bringing three of its most iconic weapons and two Imperial Guard armour sets"
-      ]
-    },
-    {
-      "headline": "Croc 2: Kingdom of the Gobbos Is Getting a Remaster for PS5, PS4, and Switch",
-      "tag": "croc 2",
-      "posted_at": "2026-07-30T13:20:23.894158+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/07/croc-2-is-getting-the-remaster-treatment-later-this-year",
-        "https://www.pushsquare.com/news/2026/07/wahey-croc-2-kingdom-of-the-gobbos-returns-in-a-ps5-ps4-remaster-later-this-year"
-      ],
-      "article_titles": [
-        "'Croc 2' Is Getting The Remaster Treatment Later This Year",
-        "Wahey! Croc 2: Kingdom of the Gobbos Returns in a PS5, PS4 Remaster Later This Year"
-      ]
-    },
-    {
       "headline": "Jason Momoa's Blanka Revealed in First Street Fighter Movie Footage \u2014 and It's a Lot",
       "tag": "street fighter",
       "posted_at": "2026-07-30T14:01:02.033033+00:00",
@@ -885,19 +861,35 @@
         "We're getting an \"extended look\" at Grand Theft Auto 6 on 27th August",
         "\u2018Grand Theft Auto VI: An Extended Look\u2019 premieres August 27"
       ]
+    },
+    {
+      "headline": "Capcom Drops Monster Hunter Wilds to $39.99 and Launches Free Prologue Demo",
+      "tag": "monster hunter wilds",
+      "posted_at": "2026-08-06T13:31:24.518333+00:00",
+      "urls": [
+        "https://www.eurogamer.net/monster-hunter-wilds-surpass-worlds-price-ascendance-demo",
+        "https://otakukart.com/monster-hunter-wilds-prologue-demo-launches-as-base-game-price-drops-to-39-99/"
+      ],
+      "article_titles": [
+        "A generous demo, a big expansion, and \"pricing measures\": What Capcom is doing to get Monster Hunter Wilds' sales to \"surpass\" Monster Hunter World",
+        "Monster Hunter Wilds Prologue Demo Launches as Base Game Price Drops to $39.99"
+      ]
+    },
+    {
+      "headline": "Larian Got Temporarily Banned From YouTube and TikTok Over Baldur's Gate 3's Demonic Content",
+      "tag": "baldur's gate 3",
+      "posted_at": "2026-08-06T13:31:24.592596+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/baldurs-gate/larian-gets-briefly-kicked-off-youtube-tiktok-for-demonic-smut-reasons-in-baldurs-gate-3/"
+      ],
+      "article_titles": [
+        "Larian gets briefly kicked off YouTube, TikTok for demonic smut reasons in Baldur's Gate 3"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://variety.com/?p=1236828878",
-      "title": "Isabella Rossellini\u00a0Talks Lynch, \u2018Green Porno\u2019 and How Animals Became Her Favorite \u2018Muses\u2019: \u2018They Fascinate Me\u2019",
-      "url": "https://variety.com/2026/awards/actors/isabella-rossellini-lynch-green-porno-animals-locarno-1236828878/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T09:26:45+00:00"
-    },
     {
       "guid": "ea879a09-1f0e-49a9-bd74-fb7f1ed1b929",
       "title": "The U.S. Government's Mario, Pok\u00e9mon and Naruto Meme Posting Could Damage These Franchises, Japanese Officials Warn",
@@ -953,14 +945,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-06T09:34:53+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204661",
-      "title": "Tomodachi Life: Living The Dream Has Already Sold Over 8 Million Units",
-      "url": "https://www.nintendolife.com/news/2026/08/tomodachi-life-living-the-dream-has-already-sold-over-8-million-units",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T09:30:00+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-201856",
@@ -1513,6 +1497,22 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-06T13:01:54+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/monster-hunter-wilds-surpass-worlds-price-ascendance-demo",
+      "title": "A generous demo, a big expansion, and \"pricing measures\": What Capcom is doing to get Monster Hunter Wilds' sales to \"surpass\" Monster Hunter World",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-surpass-worlds-price-ascendance-demo",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:28:16+00:00"
+    },
+    {
+      "guid": "Pxr7pjJ8Y7juZJvcw9AMhM",
+      "title": "Larian gets briefly kicked off YouTube, TikTok for demonic smut reasons in Baldur's Gate 3",
+      "url": "https://www.pcgamer.com/games/baldurs-gate/larian-gets-briefly-kicked-off-youtube-tiktok-for-demonic-smut-reasons-in-baldurs-gate-3/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T13:26:28+00:00"
     }
   ]
 }
