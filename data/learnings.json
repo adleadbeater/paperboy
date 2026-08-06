@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Gears of War: E-Day multiplayer will let you earn almost everything without a premium battle pass",
-      "tag": "gears of war: e-day",
-      "posted_at": "2026-07-30T15:31:02.852611+00:00",
-      "urls": [
-        "https://kotaku.com/gears-of-war-e-day-multiplayer-promises-no-premium-battle-pass-bullsht-almost-all-of-it-can-be-earned-through-gameplay-2000720472"
-      ],
-      "article_titles": [
-        "Gears Of War: E-Day Multiplayer Promises No Premium Battle Pass Bullsh*t: \u2018Almost All Of It Can Be Earned Through Gameplay\u2019"
-      ]
-    },
-    {
       "headline": "Xenoblade Chronicles 2 Finally Gets Its Biggest Quality-of-Life Fix in Switch 2 Edition",
       "tag": "xenoblade chronicles 2",
       "posted_at": "2026-07-30T16:00:59.982346+00:00",
@@ -872,6 +861,19 @@
       "article_titles": [
         "Sony Is Slapping Warning Labels On PS5s About Its Discless Future"
       ]
+    },
+    {
+      "headline": "Onimusha: Way of the Sword Gets a New \"Severing Fates\" Trailer",
+      "tag": "onimusha: way of the sword",
+      "posted_at": "2026-08-06T15:31:04.854453+00:00",
+      "urls": [
+        "https://www.gematsu.com/2026/08/onimusha-way-of-the-sword-severing-fates-trailer",
+        "https://www.nintendolife.com/previews/onimusha-way-of-the-sword-is-capcoms-next-banger"
+      ],
+      "article_titles": [
+        "Onimusha: Way of the Sword \u2018Severing Fates\u2019 trailer",
+        "Preview: Onimusha: Way Of The Sword Is Capcom's Next Banger"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1588,6 +1590,86 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-06T14:38:48+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/guild-wars-3-more-playable-races-blog-post",
+      "title": "More playable species might be coming to Guild Wars 3 later down the line, according to latest developer blog post",
+      "url": "https://www.eurogamer.net/guild-wars-3-more-playable-races-blog-post",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:16:58+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722194",
+      "title": "Capcom\u2019s Response To The Loss Of Physical Games: A Shrug",
+      "url": "https://kotaku.com/capcom-resident-evil-pragmata-physical-media-sony-playstation-2000722194",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:15:45+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722202",
+      "title": "Spider-Man: Brand New Day\u2019s Biggest Question May Have Been Answered By This Small Scene In No Way Home",
+      "url": "https://kotaku.com/spider-man-no-way-home-brand-new-day-ned-handshake-spell-2000722202",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:00:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237020225",
+      "title": "FCC Removes Key Limit On Media Ownership, Raising Potential For Major Consolidation Of Broadcast TV Stations",
+      "url": "https://deadline.com/2026/08/fcc-removes-ownership-cap-1237020225/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:22:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027679",
+      "title": "\u2018Madden\u2019: David O. Russell\u2019s Nicolas Cage & Christian Bale Pic About NFL Legend Sets Prime Video Fall Date",
+      "url": "https://deadline.com/2026/08/madden-nicolas-cage-christian-bale-movie-release-date-1237027679/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:17:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027456",
+      "title": "Sky Sued By Former Love Productions Boss Amid Explosive Row Over \u2018The Great British Bake Off\u2019",
+      "url": "https://deadline.com/2026/08/sky-the-great-british-bake-off-lawsuit-love-productions-1237027456/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:00:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828152",
+      "title": "Sienna Miller Is Ready for Battle in First Images From Sky/HBO Legal Drama \u2018War\u2019: \u2018It\u2019s About Rivalries and Partnerships\u2019",
+      "url": "https://variety.com/2026/tv/global/sienna-miller-war-sky-hbo-october-1236828152/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:13:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665866",
+      "title": "David Zaslav Sidesteps \u2018Supergirl\u2019 Flop, Touts \u201cFantastic\u201d \u2018Superman\u2019 Sequel",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/superman-sequel-man-of-tomorrow-david-zaslav-1236665866/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:09:37+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204516",
+      "title": "Preview: Onimusha: Way Of The Sword Is Capcom's Next Banger",
+      "url": "https://www.nintendolife.com/previews/onimusha-way-of-the-sword-is-capcoms-next-banger",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068089",
+      "title": "Onimusha: Way of the Sword \u2018Severing Fates\u2019 trailer",
+      "url": "https://www.gematsu.com/2026/08/onimusha-way-of-the-sword-severing-fates-trailer",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:06:36+00:00"
     }
   ]
 }
