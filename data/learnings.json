@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A Man Was Wrongly Imprisoned Because Police Misread a Skyrim Username",
-      "tag": "the elder scrolls v: skyrim",
-      "posted_at": "2026-07-30T14:31:10.981807+00:00",
-      "urls": [
-        "https://kotaku.com/police-got-a-username-based-on-skyrim-wrong-and-sent-an-innocent-man-to-prison-a-subtle-mistake-that-changed-the-course-of-my-life-2000720448"
-      ],
-      "article_titles": [
-        "Police Got A Username Based On Skyrim Wrong And Sent An Innocent Man To Prison: \u2018A Subtle Mistake That Changed The Course Of My Life\u2019"
-      ]
-    },
-    {
       "headline": "Gears of War: E-Day multiplayer will let you earn almost everything without a premium battle pass",
       "tag": "gears of war: e-day",
       "posted_at": "2026-07-30T15:31:02.852611+00:00",
@@ -872,75 +861,22 @@
       "article_titles": [
         "Devolver Digital Wants To Go Private Again Following A 95 Percent Collapse In Its Share Price"
       ]
+    },
+    {
+      "headline": "Sony Is Quietly Warning PS5 Buyers That the Disc Drive Era Is Ending",
+      "tag": "playstation",
+      "posted_at": "2026-08-06T15:01:01.288847+00:00",
+      "urls": [
+        "https://kotaku.com/ps5-playstation-5-discs-physical-digital-sony-sticker-label-warning-2000722144"
+      ],
+      "article_titles": [
+        "Sony Is Slapping Warning Labels On PS5s About Its Discless Future"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "5cfdd860-9a47-4404-b2ce-f4a89b9b4062",
-      "title": "Roblox Blames Falling Player Numbers and In-Game Spending on Its Push to Recommend Less Slop to Kids \u2014 And There Being No Replacement for Last Year's Viral Hit Grow a Garden",
-      "url": "https://www.ign.com/articles/roblox-blames-falling-player-numbers-and-in-game-spending-on-its-push-to-recommend-less-slop-to-kids-and-there-being-no-replacement-for-last-years-viral-hit-grow-a-garden",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-06T10:49:02+00:00"
-    },
-    {
-      "guid": "aSGtg8ZeZaUvQJzuYo92W3",
-      "title": "Clayface director says Evil Dead helmer Sam Raimi's \"extreme\" and \"ridiculous\" style of horror influenced the upcoming DC movie",
-      "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-director-says-evil-dead-helmer-sam-raimis-extreme-and-ridiculous-style-of-horror-influenced-the-upcoming-dc-movie/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T10:50:43+00:00"
-    },
-    {
-      "guid": "E6gPiyXJe23W8F3DfKnyP",
-      "title": "Another GTA 6 delay \"would not\" shock a former GTA 5 dev who says it wouldn't \"hurt\" Rockstar at all",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-gta-6-delay-would-not-shock-a-former-gta-5-dev-who-says-it-wouldnt-hurt-rockstar-at-all/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T10:36:57+00:00"
-    },
-    {
-      "guid": "Ytn64YXitVPtyJcyZpL5Gi",
-      "title": "Nintendo records 150% increase in year-on-year profits mainly due to $300 million in US tariff refunds that Switch 2 buyers won't see a dime of",
-      "url": "https://www.gamesradar.com/games/nintendo-records-150-percent-increase-in-year-on-year-profits-mainly-due-to-usd300-million-in-us-tariff-refunds-that-switch-2-buyers-wont-see-a-dime-of/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T10:32:07+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204568",
-      "title": "Review: The Pico GX Makes One Of Console Gaming's Most Infamous Flops Infinitely More Appealing",
-      "url": "https://www.timeextension.com/reviews/the-pico-gx-makes-one-of-console-gamings-most-infamous-flops-infinitely-more-appealing",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T11:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1749727",
-      "title": "Monster Hunter Wilds Prologue Demo Launches as Base Game Price Drops to $39.99",
-      "url": "https://otakukart.com/monster-hunter-wilds-prologue-demo-launches-as-base-game-price-drops-to-39-99/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T10:58:35+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1749726",
-      "title": "Minecraft Nintendo Switch 2 Release Date Confirmed for October 27 with Vibrant Visuals and Free Upgrade Path",
-      "url": "https://otakukart.com/minecraft-nintendo-switch-2-release-date-confirmed-for-october-27-with-vibrant-visuals-and-free-upgrade-path/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T10:35:35+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/",
-      "title": "Gen Con grows to 74,000 attendees, remains world's second largest tabletop gaming convention",
-      "url": "https://www.enworld.org/threads/gen-con-grows-to-74-000-attendees-remains-worlds-second-largest-tabletop-gaming-convention.720186/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-08-06T10:54:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/call-of-duty-black-ops-1-and-2-playstation-ports-sales",
       "title": "The Call of Duty: Black Ops 1&2 PS4 and PS5 ports sold more than 11 million copies in under a month",
@@ -1516,6 +1452,142 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-06T14:15:58+00:00"
+    },
+    {
+      "guid": "cd09f318-3e24-459a-ad14-605ec46330f2",
+      "title": "007 First Light's Legacy Edition Hits Record Low Price via Limited-Time Coupon at Amazon",
+      "url": "https://www.ign.com/articles/007-first-light-legacy-edition-amazon-coupon-deal",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T14:40:53+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/baldurs-gate-3-third-anniversary-statistics",
+      "title": "Baldur's Gate 3 third anniversary stats reveal most killed NPCs, most used weapons, and Dark Urge players aren't the most murderous playing the game",
+      "url": "https://www.eurogamer.net/baldurs-gate-3-third-anniversary-statistics",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T14:47:39+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722144",
+      "title": "Sony Is Slapping Warning Labels On PS5s About Its Discless Future",
+      "url": "https://kotaku.com/ps5-playstation-5-discs-physical-digital-sony-sticker-label-warning-2000722144",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T14:30:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027476",
+      "title": "\u2018War\u2019 First Look & Trailer: Dominic West\u00a0& Sienna Miller Do Battle In HBO/Sky Divorce Drama",
+      "url": "https://deadline.com/2026/08/war-trailer-dominic-west-sienna-miller-hbo-sky-drama-1237027476/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027654",
+      "title": "\u2018Grand Theft Auto VI\u2019 Game To Debut Extended Look On Netflix This Month",
+      "url": "https://deadline.com/2026/08/grand-theft-auto-netflix-1237027654/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T14:41:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828803",
+      "title": "How an NYC Nightlife Legend Tracked Down the Pablo Escobar of Animal Trafficking",
+      "url": "https://variety.com/2026/tv/news/monsters-of-god-hbo-eric-goode-tiger-king-reptile-smuggling-joe-exotic-safdie-brothers-1236828803/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829146",
+      "title": "SiriusXM Taps Paramount Pictures and Universal Alum Jenny Tartikoff as Head of Communications",
+      "url": "https://variety.com/2026/digital/news/siriusxm-jenny-tartikoff-head-of-communications-1236829146/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665169",
+      "title": "Juilliard Hires Director Anna D. Shapiro to Lead Drama Division",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/juilliard-anna-shapiro-drama-division-1236665169/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665882",
+      "title": "SiriusXM Taps Jenny Tartikoff To Lead Communications",
+      "url": "https://www.hollywoodreporter.com/business/digital/siriusxm-jenny-tartikoff-communications-head-1236665882/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "rW76ZFzKV8P3BD9fM5B8rQ",
+      "title": "How to get the Pokopia Ocean Door recipe",
+      "url": "https://www.gamesradar.com/games/pokemon/pokopia-ocean-door/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T14:55:28+00:00"
+    },
+    {
+      "guid": "GCLqLZpbrX7Jx5rdsTMMNe",
+      "title": "GTA 6 Extended Look being a 6-hour Netflix exclusive is going down just as well as you can imagine: \"Weirdest marketing I've ever seen\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-extended-look-being-a-6-hour-netflix-exclusive-is-going-down-just-as-well-as-you-can-imagine-weirdest-marketing-ive-ever-seen/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T14:54:51+00:00"
+    },
+    {
+      "guid": "hB5vYbh8HgutHPpZ4ZEemN",
+      "title": "\"I hope PS6 will be a disaster\": Sony reminds everyone it's taking discs away in warnings reportedly added to new PS5 consoles",
+      "url": "https://www.gamesradar.com/games/i-hope-ps6-will-be-a-disaster-sony-reminds-everyone-its-taking-discs-away-in-warnings-reportedly-added-to-new-ps5-consoles/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T14:33:45+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204629",
+      "title": "Out Now: Obakeidoro 2 Brings Spoopy Asymmetric Multiplayer To Switch 1 & 2",
+      "url": "https://www.nintendolife.com/news/2026/08/out-now-obakeidoro-2-brings-spoopy-asymmetric-multiplayer-to-switch-1-and-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204691",
+      "title": "Halo Made Its PS5 Debut, So Now It's Time for Xbox to Lay Off the Team That Made It",
+      "url": "https://www.pushsquare.com/news/2026/08/halo-made-its-ps5-debut-so-now-its-time-for-xbox-to-lay-off-the-team-that-made-it",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T14:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120812",
+      "title": "FFVII Remake Materia Hunter Board Game Gets a Reprint",
+      "url": "https://www.siliconera.com/ffvii-remake-materia-hunter-board-game-gets-a-reprint/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204680",
+      "title": "This New NES Patch Overhauls One Of The Console's Most \"Difficult\" Games",
+      "url": "https://www.timeextension.com/news/2026/08/this-new-nes-patch-overhauls-one-of-the-consoles-most-difficult-games",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068069",
+      "title": "Wild Blue Skies coming to Switch this fall",
+      "url": "https://www.gematsu.com/2026/08/wild-blue-skies-coming-to-switch-this-fall",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-06T14:38:48+00:00"
     }
   ]
 }
