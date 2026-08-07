@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Elden Ring Movie Has Already Wrapped Filming, Just 6 Months After Production Started",
-      "tag": "elden ring",
-      "posted_at": "2026-07-31T13:23:38.638832+00:00",
-      "urls": [
-        "https://www.pcgamer.com/movies-tv/filming-has-wrapped-on-garlands-elden-ring-movie-just-6-months-after-it-started-according-to-a-now-deleted-instagram-post/"
-      ],
-      "article_titles": [
-        "Filming has wrapped on Garland's Elden Ring movie just 6 months after it started, according to a now deleted instagram post"
-      ]
-    },
-    {
-      "headline": "Guillermo del Toro Got Wrecked by Dead Cells and Now He's Campaigning for More Checkpoints for Older Players",
-      "tag": "dead cells",
-      "posted_at": "2026-07-31T13:23:38.863853+00:00",
-      "urls": [
-        "https://kotaku.com/guillermo-del-toro-gdt-dead-cells-video-games-difficulty-2000720732"
-      ],
-      "article_titles": [
-        "Guillermo Del Toro Wants Extra Checkpoints In Games For \u2018Elderly Players\u2019 After Getting His Ass Kicked By Dead Cells"
-      ]
-    },
-    {
       "headline": "Samara Weaving Cast as Emma Frost in Marvel's X-Men Reboot",
       "tag": "x-men",
       "posted_at": "2026-07-31T17:15:47.076218+00:00",
@@ -829,75 +807,22 @@
       "article_titles": [
         "Doom creator id Software used Taiwanese pirates to help distribute the game, John Romero reveals"
       ]
+    },
+    {
+      "headline": "Marvel T\u014dkon Launches to a Disastrous 44% Steam Rating at Launch",
+      "tag": "marvel t\u014dkon",
+      "posted_at": "2026-08-07T13:30:54.911409+00:00",
+      "urls": [
+        "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437"
+      ],
+      "article_titles": [
+        "Marvel T\u014dkon Launches To Abysmal 44% Rating On Steam: \u2018They Should Have Pushed The PC Release Date Back Until They Figured This Out\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/quake-expansion-dawn-of-the-machine-quakecon",
-      "title": "Surprise! The original Quake gets a free expansion on all platforms to celebrate its 30th birthday",
-      "url": "https://www.eurogamer.net/quake-expansion-dawn-of-the-machine-quakecon",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:28:09+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/andrew-ceo-real-pay-chart-77-million",
-      "title": "EA CEO Andrew Wilson's 2026 pay may have been much larger than previously thought",
-      "url": "https://www.eurogamer.net/andrew-ceo-real-pay-chart-77-million",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:12:44+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237028329",
-      "title": "Bootleg \u2018The Office\u2019 Videos Show How Chinese AI Is Still Being Used To Plunder Hollywood IP",
-      "url": "https://deadline.com/2026/08/chinese-ai-hollywood-bytedance-minimax-the-office-1237028329/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:03:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236829801",
-      "title": "Bella Thorne Is Also Directing and Writing the \u2018Spring Breakers\u2019 Sequel She\u2019s Starring In: \u2018From Start to Finish, It\u2019s Lit as F\u2014\u2019",
-      "url": "https://variety.com/2026/film/news/bella-thorne-directing-writing-spring-breakers-sequel-1236829801/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:23:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236829816",
-      "title": "Danny DeVito-Produced Heist Comedy \u2018Drag\u2019 Boards Blue Finch Films for International Sales (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/danny-devito-drag-blue-finch-films-sales-1236829816/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:18:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236829157",
-      "title": "Claes Bang Plays a Masseur of Nazi Leader Heinrich Himmler in \u2018I Is Another\u2019 \u2014 but John Paul in \u2018Bad Sisters\u2019 Is Still One of His \u2018Worst Characters\u2019",
-      "url": "https://variety.com/2026/film/global/claes-bang-masseur-nazi-heinrich-himmler-i-is-another-1236829157/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:02:25+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-173238",
-      "title": "'Worms: The Director's Cut' For Amiga Just Got A Free Expansion Pack, From The Game's Original Creator",
-      "url": "https://www.timeextension.com/news/2026/08/worms-the-directors-cut-for-amiga-just-got-a-free-expansion-pack-from-the-games-original-creator",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T09:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1749810",
-      "title": "Stray Kids\u2019 Lee Know Addresses Military Enlistment and Promises Full Group Reunion",
-      "url": "https://otakukart.com/stray-kids-lee-know-addresses-military-enlistment-and-promises-full-group-reunion/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T09:03:51+00:00"
-    },
     {
       "guid": "9dd24c3c-8f53-4280-805a-e161d029215d",
       "title": "Target is Slicing Open Pok\u00e9mon Card Boxes Before They're Sold in a Bid to Deter Scalpers, Fans Say",
@@ -1457,6 +1382,78 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-07T12:48:10+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam",
+      "title": "Gears of War: E-Day multiplayer beta blows past series' records on Steam",
+      "url": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:10:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722437",
+      "title": "Marvel T\u014dkon Launches To Abysmal 44% Rating On Steam: \u2018They Should Have Pushed The PC Release Date Back Until They Figured This Out\u2019",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:16:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028412",
+      "title": "Starz Subscriber Levels Climbed In Q2 Despite Price Increase, CEO Jeff Hirsch Says",
+      "url": "https://deadline.com/2026/08/starz-q2-earnings-subscriber-gain-price-increase-1237028412/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:12:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237027697",
+      "title": "Sam Mendes\u2019 Beatles Production Heading For Abbey Road Shoot",
+      "url": "https://deadline.com/2026/08/sam-mendes-beatles-production-filming-abbey-road-1237027697/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:02:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237017524",
+      "title": "How \u2018Power Book III: Raising Kanan\u2019 Wraps Up Series After 5 Seasons",
+      "url": "https://deadline.com/2026/08/power-book-iii-raising-kanan-recap-series-finale-1237017524/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663114",
+      "title": "\u2018Southern Charm\u2019 Star Craig Conover Set for Indie Dramedy \u2018Caroline Fletcher\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/news/general-news/southern-charm-star-craig-conover-set-for-indie-dramedy-caroline-fletcher-exclusive-1236663114/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236663974",
+      "title": "Barbarians at the Gate: How Reality Stars Crashed Hollywood\u2019s A-List",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/reality-stars-takeover-hollywood-a-list-1236663974/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668772",
+      "title": "A Man Turning Into a Fish, \u2018Shooting Watermelons,\u2019 a Coming-of-Age Musical, \u2018Humanoid\u2019 Among Locarno Development Pitches",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-2026-alliance-4-development-film-pitches-1236668772/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:05:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749785",
+      "title": "Exclusive Interview: GOD SKIN Director and Star Reveal How Thai Sacred Tattoos, Fighting Games, and Real Stunts Shaped the Film",
+      "url": "https://otakukart.com/exclusive-interview-god-skin-director-and-star-reveal-how-thai-sacred-tattoos-fighting-games-and-real-stunts-shaped-the-film/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T13:12:44+00:00"
     }
   ]
 }
