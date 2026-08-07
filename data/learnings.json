@@ -862,38 +862,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "4hGVEtuKbed7FLbD2LB87g",
-      "title": "'They call us old stupid farmers, you know, but we\u2019re not': Family declines $26 million offer to convert their farmland into an AI data center",
-      "url": "https://www.pcgamer.com/software/ai/they-call-us-old-stupid-farmers-you-know-but-were-not-family-declines-usd26-million-offer-to-convert-their-farmland-into-an-ai-data-center/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T10:25:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236668785",
-      "title": "Werner Herzog to Receive San Sebastian Film Festival\u2019s Donostia Award",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-san-sebastian-film-festival-donostia-award-1236668785/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T10:23:09+00:00"
-    },
-    {
-      "guid": "82xWfY5jVJ93oFPxZCMZNE",
-      "title": "How to get the Pokopia Ocean Pals rug for Stunfisk",
-      "url": "https://www.gamesradar.com/games/pokemon/pokopia-ocean-pals-rug/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T10:28:48+00:00"
-    },
-    {
-      "guid": "FwXYVyxzQ9KogAGfL5ubF4",
-      "title": "Another look at Kingdom Hearts 4 seems even more likely this month after co-director is confirmed to appear at Disney D23 event",
-      "url": "https://www.gamesradar.com/games/kingdom-hearts/another-look-at-kingdom-hearts-4-seems-even-more-likely-this-month-after-co-director-is-confirmed-to-appear-at-disney-d23-event/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T10:25:34+00:00"
-    },
-    {
       "guid": "b8074ea2-ac4b-43bc-8b4d-fbe0d0d05d24",
       "title": "Nintendo Says Physical Games Still Account for 38.5% of Its Software Sales, Following Sony's Decision to Kill PS5 Discs",
       "url": "https://www.ign.com/articles/nintendo-says-physical-games-still-account-for-385-of-its-software-sales-following-sonys-decision-to-kill-ps5-discs",
@@ -964,22 +932,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-07T10:42:50+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204730",
-      "title": "Nintendo Warns Against Museum Ticket Resales And Transfers",
-      "url": "https://www.nintendolife.com/news/2026/08/nintendo-warns-against-museum-ticket-resales-and-transfers",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T10:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204726",
-      "title": "This Ridiculous Steam Game Poses A Simple Question: What If FromSoftware Made Super Monkey Ball?",
-      "url": "https://www.timeextension.com/news/2026/08/this-ridiculous-steam-game-poses-a-simple-question-what-if-fromsoftware-made-super-monkey-ball",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T10:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1749859",
@@ -1548,6 +1500,86 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-07T14:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722433",
+      "title": "Overwatch\u2018s Mech Designers Must Really Want D.Mon To Die, Huh?",
+      "url": "https://kotaku.com/new-overwatch-hero-dmon-bad-mech-design-2000722433",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T14:25:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028118",
+      "title": "Elisabeth Moss, Daphne Schmon & Ash Mayfair Select 12 Finalists For Wscripted 2026 Screenplay List",
+      "url": "https://deadline.com/2026/08/wscripted-2026-screenplay-list-finalists-elisabeth-moss-1237028118/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T14:26:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028473",
+      "title": "William Orbit Dies: Grammy-Winning Producer Of Madonna\u2019s \u2018Ray Of Light\u2019 Was 69",
+      "url": "https://deadline.com/2026/08/william-orbit-dead-1237028473/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T14:23:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028427",
+      "title": "Waleed Zuaiter & Sarah Gadon Star In Sci-Fi \u2018Alien Boy\u2019, Filming Wraps With Echo Lake & Mongrel Media Among Partners",
+      "url": "https://deadline.com/2026/08/sarah-gadon-waleed-zuaiter-sci-fi-alien-boy-canada-1237028427/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T14:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829955",
+      "title": "Jake T. Austin Opens Up About \u2018Wizards of Waverly Place\u2019 Revival Snub: I\u2019m \u2018Disappointed\u2019 to Have \u2018Not Been Included\u2019",
+      "url": "https://variety.com/2026/tv/news/jake-t-austin-wizards-beyond-waverly-place-snub-disappointed-1236829955/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T14:23:52+00:00"
+    },
+    {
+      "guid": "byRhnJ6dPmwdbRzkM4ZYA7",
+      "title": "Octopath Traveler 3 would have to \"push the limits,\" producer says, and the JRPG team knows how much fans want it to happen: \"Keep looking forward to what comes next\"",
+      "url": "https://www.gamesradar.com/games/jrpg/octopath-traveler-3-would-have-to-push-the-limits-producer-says-and-the-jrpg-team-knows-how-much-fans-want-it-to-happen-keep-looking-forward-to-what-comes-next/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T14:22:24+00:00"
+    },
+    {
+      "guid": "P8zEkq6Vr95bRxJj4B7ub3",
+      "title": "GTA 6 \"will be an incredible bargain\" at $80, says Take-Two CEO, as the Rockstar owner isn't trying \"to maximize price\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-be-an-incredible-bargain-at-usd80-says-take-two-ceo-as-the-rockstar-owner-isnt-trying-to-maximize-price/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T14:13:22+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204744",
+      "title": "Final Fantasy XIV Online Updated On Switch 2, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/08/final-fantasy-xiv-online-updated-on-switch-2-here-are-the-full-patch-notes",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204738",
+      "title": "GTA 6 Pre-Orders Are 'Exceptional' So Far, Says Take-Two Boss",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6-pre-orders-are-exceptional-so-far-says-take-two-boss",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T14:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vi1lx7",
+      "title": "Beyond Good & Evil 2 is rumoured to be getting a brand new title and could be revealed later this year",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vi1lx7/beyond_good_evil_2_is_rumoured_to_be_getting_a/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T14:06:24+00:00"
     }
   ]
 }
