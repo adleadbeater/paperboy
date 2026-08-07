@@ -957,108 +957,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237028262",
-      "title": "Disney\u2019s \u2018Descendants\u2019 Universe Expands With New Film Following Children Of Sidekicks From \u2018Aladdin,\u2019 \u2018Emperor\u2019s New Groove\u2019 & More",
-      "url": "https://deadline.com/2026/08/descendants-disney-sidekick-movie-hidden-heroes-1237028262/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237028419",
-      "title": "U.S. Lost 23,000 Jobs In July, But Entertainment Industry Saw An Uptick",
-      "url": "https://deadline.com/2026/08/july-jobs-report-entertainment-1237028419/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T12:39:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236829434",
-      "title": "William Orbit, Grammy-Winning Producer for Madonna and Blur, Dies at 69",
-      "url": "https://variety.com/2026/music/news/william-orbit-dead-producer-madonna-blur-1236829434/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T12:49:10+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236829897",
-      "title": "Lionsgate CEO Wants to See Paramount-Warner Bros. Merger Close Soon: \u2018Uncertainty and Delay\u2019 Are \u2018Not Good for Anybody\u2019",
-      "url": "https://variety.com/2026/film/news/lionsgate-ceo-supports-paramount-warner-bros-merger-1236829897/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T12:42:07+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236666492",
-      "title": "\u2018Descendants\u2019 Franchise Expands With Movie Featuring Iconic Disney Sidekicks",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/descendants-hidden-heroes-movie-iconic-disney-sidekicks-1236666492/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204732",
-      "title": "These New Donkey Kong Clothes From Nintendo And OppoSuits Are Bananas",
-      "url": "https://www.nintendolife.com/news/2026/08/these-new-donkey-kong-clothes-from-nintendo-and-opposuits-are-bananas",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T12:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120544",
-      "title": "Review: The King Is Watching Feels Fiddly on Switch",
-      "url": "https://www.siliconera.com/review-the-king-is-watching-feels-fiddly-on-switch/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1067779",
-      "title": "Wuthering Waves version 3.6 update \u2018Lamplight in Mirage, Sword\u2019s Resolve in Heart\u2019 launches August 20",
-      "url": "https://www.gematsu.com/2026/08/wuthering-waves-version-3-6-update-lamplight-in-mirage-swords-resolve-in-heart-launches-august-20",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T12:48:10+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam",
-      "title": "Gears of War: E-Day multiplayer beta blows past series' records on Steam",
-      "url": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T13:10:07+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000722437",
       "title": "Marvel T\u014dkon Launches To Abysmal 44% Rating On Steam: \u2018They Should Have Pushed The PC Release Date Back Until They Figured This Out\u2019",
       "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-steam-performance-reviews-2000722437",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-07T13:16:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237028412",
-      "title": "Starz Subscriber Levels Climbed In Q2 Despite Price Increase, CEO Jeff Hirsch Says",
-      "url": "https://deadline.com/2026/08/starz-q2-earnings-subscriber-gain-price-increase-1237028412/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T13:12:04+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237027697",
-      "title": "Sam Mendes\u2019 Beatles Production Heading For Abbey Road Shoot",
-      "url": "https://deadline.com/2026/08/sam-mendes-beatles-production-filming-abbey-road-1237027697/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T13:02:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237017524",
-      "title": "How \u2018Power Book III: Raising Kanan\u2019 Wraps Up Series After 5 Seasons",
-      "url": "https://deadline.com/2026/08/power-book-iii-raising-kanan-recap-series-finale-1237017524/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T13:00:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236663114",
@@ -1075,22 +979,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-07T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236668772",
-      "title": "A Man Turning Into a Fish, \u2018Shooting Watermelons,\u2019 a Coming-of-Age Musical, \u2018Humanoid\u2019 Among Locarno Development Pitches",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-2026-alliance-4-development-film-pitches-1236668772/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T13:05:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1749785",
-      "title": "Exclusive Interview: GOD SKIN Director and Star Reveal How Thai Sacred Tattoos, Fighting Games, and Real Stunts Shaped the Film",
-      "url": "https://otakukart.com/exclusive-interview-god-skin-director-and-star-reveal-how-thai-sacred-tattoos-fighting-games-and-real-stunts-shaped-the-film/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T13:12:44+00:00"
     },
     {
       "guid": "https://www.videogameschronicle.com/?p=243595",
@@ -1859,6 +1747,150 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-07T16:23:19+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722510",
+      "title": "Texas Man Who Can\u2019t Access His \u2018Motherf*cking Anime\u2019 Now Facing Prison After Allegedly Threatening Local Officials",
+      "url": "https://kotaku.com/anime-texas-age-verification-bill-crunchyroll-pornhub-dps-2000722510",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T16:45:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028652",
+      "title": "Trump Nominates Danielle Thumann Severs To Fill Vacant FCC Seat",
+      "url": "https://deadline.com/2026/08/trump-fcc-vacancy-danielle-thumann-severs-1237028652/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:12:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028677",
+      "title": "\u2018Psych\u2019s Andy Berman Eyeing Return To USA Network With Procedural \u2018Sherlock\u2019s Secretary\u2019",
+      "url": "https://deadline.com/2026/08/sherlocks-secretary-tv-series-usa-network-development-1237028677/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:11:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028657",
+      "title": "All The Songs In \u2018One Night Only\u2019: Knock-Off Jingles And Singles",
+      "url": "https://deadline.com/2026/08/one-night-only-songs-soundtrack-jingles-knock-off-1237028657/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:00:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028622",
+      "title": "\u2018Heated Rivalry\u2019 Casts Justice Smith & Charlie Gillespie As Harris & Troy; Season 2 Debut Confirmed For Spring 2027",
+      "url": "https://deadline.com/2026/08/heated-rivalry-justice-smith-charlie-gillespie-harris-troy-1237028622/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:00:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028636",
+      "title": "New York Yankees Drama Series In Works From Netflix, Jason Bateman\u2019s Aggregate Films, Josh Wakely & MLB",
+      "url": "https://deadline.com/2026/08/new-york-yankees-netflix-jason-bateman-mlb-1237028636/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:00:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830114",
+      "title": "Trump Nominates FCC Lawyer Danielle Thumann, an Adviser to Chairman Brendan Carr, to Serve as Commissioner",
+      "url": "https://variety.com/2026/tv/news/trump-fcc-danielle-thumann-commissioner-nomination-1236830114/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:10:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829636",
+      "title": "Netflix Developing New York Yankees Drama Series From Jason Bateman, MLB and Josh Wakely",
+      "url": "https://variety.com/2026/tv/news/new-york-yankees-netflix-drama-jason-bateman-mlb-josh-wakely-1236829636/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830101",
+      "title": "\u2018Heated Rivalry\u2019 Season 2 Casts Justice Smith and Charlie Gillespie",
+      "url": "https://variety.com/2026/tv/news/heated-rivalry-season-2-justice-smith-charlie-gillespie-1236830101/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830094",
+      "title": "Katseye\u2019s Sophia to Temporarily Step Back From Group to Prioritize Her \u2018Mental Health and Wellness\u2019",
+      "url": "https://variety.com/2026/music/news/katseye-sophia-temporarily-step-back-from-group-1236830094/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T16:44:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236643726",
+      "title": "\u2018Heated Rivalry\u2019 Season 2 Finds Its Troy and Harris in Charlie Gillespie and Justice Smith",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-troy-harris-cast-announcement-1236643726/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668896",
+      "title": "As Tom Holland and Zendaya Rule the Box Office, We Look at Their Reported Wedding Bash at the Decadent Beaverbrook Hotel",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/tom-holland-zendaya-wedding-party-beaverbrook-hotel-surrey-1236668896/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T16:42:28+00:00"
+    },
+    {
+      "guid": "giAgYFWZ2Hs7gk3FjwngJe",
+      "title": "Crimson Desert finally fixes one of its most annoying bugs after weeks of complaints",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-finally-fixes-one-of-its-most-annoying-bugs-after-weeks-of-complaints/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T16:58:17+00:00"
+    },
+    {
+      "guid": "fn4DG5Fj8YDZdvPiJY9ew9",
+      "title": "Mistfall Hunter Withered Knight class build and guide",
+      "url": "https://www.gamesradar.com/games/action-rpg/mistfall-hunter-withered-knight-build/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T16:39:39+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-203910",
+      "title": "Guide: The Duskbloods Network Test Sign Up Dates, Times & How To Join",
+      "url": "https://www.nintendolife.com/guides/duskbloods-network-test-sign-up-dates-start-time-access",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204267",
+      "title": "Game of the Month: Assassin's Creed: Black Flag Resynced (July 2026)",
+      "url": "https://www.pushsquare.com/features/game-of-the-month-assassins-creed-black-flag-resynced-july-2026",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120841",
+      "title": "Final Fantasy X Museum Tickets and Goods Revealed",
+      "url": "https://www.siliconera.com/final-fantasy-x-museum-tickets-and-goods-revealed/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T17:00:21+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120833",
+      "title": "9 G-Mode Games For Switch and Steam Announced",
+      "url": "https://www.siliconera.com/9-g-mode-games-for-switch-and-steam-announced/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T16:38:23+00:00"
     }
   ]
 }
