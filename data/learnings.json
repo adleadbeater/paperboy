@@ -807,27 +807,33 @@
         "Game over: David Fincher's Squid Game is reportedly dead at Netflix",
         "David Fincher\u2019s rumored Squid Game spinoff reportedly no longer moving forward as Netflix shifts franchise plans"
       ]
+    },
+    {
+      "headline": "GTA 6 is not delayed \u2014 Rockstar confirms November launch is still on",
+      "tag": "gta 6",
+      "posted_at": "2026-08-07T12:31:22.438400+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/gta-6-has-not-been-delayed-still-on-track-for-its-november-launch/"
+      ],
+      "article_titles": [
+        "GTA 6 Has Not Been Delayed, Still On Track For Its November Launch"
+      ]
+    },
+    {
+      "headline": "John Romero reveals id Software used Taiwanese pirates to help distribute Doom",
+      "tag": "doom",
+      "posted_at": "2026-08-07T12:31:22.575986+00:00",
+      "urls": [
+        "https://www.eurogamer.net/john-romero-doom-id-software-taiwanese-pirates"
+      ],
+      "article_titles": [
+        "Doom creator id Software used Taiwanese pirates to help distribute the game, John Romero reveals"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://variety.com/?p=1236829782",
-      "title": "Locarno Open Doors Buzz Title \u2018Chapa 100,\u2019 From Ique Langa, Adds Luminalia, Mo Harare, Mostafa El Kasha (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/chapa-100-ique-langa-locarno-open-doors-luminalia-1236829782/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T08:22:58+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=70755",
-      "title": "Saya no Uta creator Gen Urobuchi\u2019s debut visual novel Phantom of Inferno coming to Steam on September 4",
-      "url": "https://automaton-media.com/en/news/saya-no-uta-creator-gen-urobuchis-debut-visual-novel-phantom-of-inferno-coming-to-steam-on-september-4/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T08:11:32+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236829354",
       "title": "Locarno\u2019s Match Me! Projects Push New Voices, Timely Relevance and Authenticity as a Younger Generation Moves Center Stage",
@@ -1363,6 +1369,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-07T11:32:07+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ps5-boxes-labels-physical-media-2028",
+      "title": "Sony appears to be putting labels on PS5 console boxes to warn people it's ending disc production",
+      "url": "https://www.eurogamer.net/ps5-boxes-labels-physical-media-2028",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T12:01:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/john-romero-doom-id-software-taiwanese-pirates",
+      "title": "Doom creator id Software used Taiwanese pirates to help distribute the game, John Romero reveals",
+      "url": "https://www.eurogamer.net/john-romero-doom-id-software-taiwanese-pirates",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T12:00:44+00:00"
+    },
+    {
+      "guid": "frT7xNKTjLEW88T5gW83HC",
+      "title": "ChatTJB is a fake chatbot where a guy called Tucker Bryant answers queries himself: 'I tend to overcommit to bits'",
+      "url": "https://www.pcgamer.com/software/ai/chattjb-is-a-fake-chatbot-where-a-guy-called-tucker-bryant-answers-queries-himself-i-tend-to-overcommit-to-bits/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T12:03:36+00:00"
+    },
+    {
+      "guid": "1843109",
+      "title": "GTA 6 Has Not Been Delayed, Still On Track For Its November Launch",
+      "url": "https://www.gamespot.com/articles/gta-6-has-not-been-delayed-still-on-track-for-its-november-launch/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T12:04:42+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204670",
+      "title": "Phantom Blade Zero Dev 'Still Finalising Details' on Previously Announced State of Play",
+      "url": "https://www.pushsquare.com/news/2026/08/phantom-blade-zero-dev-still-finalising-details-on-previously-announced-state-of-play",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T12:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204729",
+      "title": "Mario Kart 64 In VR Looks Just As Bananas As You'd Expect",
+      "url": "https://www.timeextension.com/news/2026/08/mario-kart-64-in-vr-looks-just-as-bananas-as-youd-expect",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T12:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749880",
+      "title": "Pok\u00e9mon Scarlet and Violet launches 7-star Mightiest Glimmora Tera Raid alongside shiny-boosted Glimmet mass outbreaks",
+      "url": "https://otakukart.com/pokemon-scarlet-and-violet-launches-7-star-mightiest-glimmora-tera-raid-alongside-shiny-boosted-glimmet-mass-outbreaks/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T12:24:57+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749879",
+      "title": "The First Descendant says over 75% of players who quit first are repeat deserters, announces tougher enforcement",
+      "url": "https://otakukart.com/the-first-descendant-says-over-75-of-players-who-quit-first-are-repeat-deserters-announces-tougher-enforcement/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T12:16:56+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/",
+      "title": "Mischief Toy Store wins 2026's Diana Jones Award",
+      "url": "https://www.enworld.org/threads/mischief-toy-store-wins-2026s-diana-jones-award.720205/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T12:19:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/",
+      "title": "Congratulations to 2026 ENnies Winners!",
+      "url": "https://www.enworld.org/threads/congratulations-to-2026-ennies-winners.720204/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T12:00:00+00:00"
     }
   ]
 }
