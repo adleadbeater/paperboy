@@ -888,46 +888,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236829859",
-      "title": "\u2018The Blue Trail\u2019 Director Gabriel Mascaro and Top Brazilian Producer Paula Cosenza Launch Trema, Set First Slate (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/gabriel-mascaro-paula-cosenza-trema-1236829859/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T11:24:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236668793",
-      "title": "Starz Posts First Quarter Revenue Dip as Digital-Led Strategy Shows Momentum",
-      "url": "https://www.hollywoodreporter.com/business/business-news/starz-first-quarter-revenue-1236668793/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T11:19:12+00:00"
-    },
-    {
-      "guid": "9UYW7sCCaDHrpnf8yWLmYa",
-      "title": "Nintendo has unveiled new 'build your own' custom Switch 2 bundles that include a free cute Pokemon accessory of your choosing",
-      "url": "https://www.gamesradar.com/hardware/nintendo-has-unveiled-new-build-your-own-custom-switch-2-bundles-that-include-a-free-cute-pokemon-accessory-of-your-choosing/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T11:23:24+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204636",
-      "title": "Free 4K, 60fps PS5 Update for Ghost Recon Wildlands Out Now, Included with PS Plus Extra",
-      "url": "https://www.pushsquare.com/news/2026/08/free-4k-60fps-ps5-update-for-ghost-recon-wildlands-out-now-included-with-ps-plus-extra",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T11:15:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1749861",
-      "title": "Nintendo confirms best-selling Switch games as Mario Kart 8 Deluxe hits 71.5 million and Mario Kart World passes 15 million",
-      "url": "https://otakukart.com/nintendo-confirms-best-selling-switch-games-as-mario-kart-8-deluxe-hits-71-5-million-and-mario-kart-world-passes-15-million/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T11:22:32+00:00"
-    },
-    {
       "guid": "e1e2a788-4b61-4124-a2c4-05fcf58705ea",
       "title": "LEGO Harry Potter Celebrates 25 Years With Ministry of Magic Set, and The First-Ever Minifigure of a Specific Character",
       "url": "https://www.ign.com/articles/lego-harry-potter-celebrates-25-years-with-ministry-of-magic-set-and-the-first-ever-minifigure-of-a-specific-character",
@@ -942,14 +902,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-08-07T11:31:39+00:00"
-    },
-    {
-      "guid": "5b211846-2e33-46a3-9cba-231781b15bdb",
-      "title": "Rockstar Owner Take-Two Confirms GTA 6 Release Date Still on Track, Says 'GTA 6: An Extended Look' Will Help Grow 'Consumers' Passion and Anticipation'",
-      "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T11:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/marvel-tokon-fighting-souls-pc-problems-stuttering-lag",
@@ -1710,6 +1662,54 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-08-07T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028529",
+      "title": "Kate Beckinsale, Dermot Mulroney, Robert Knepper & Rapper Sticky Fingaz Lead Cast In Action-Thriller \u2018Drifter\u2019",
+      "url": "https://deadline.com/2026/08/kate-beckinsale-dermot-mulroney-movie-drifter-ohio-1237028529/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T15:17:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829633",
+      "title": "New Radicals\u2019 Gregg Alexander Soft-Relaunches Band With \u2018One Night Only\u2019 Movie Song Ahead of Their First Album in 28 Years",
+      "url": "https://variety.com/2026/music/news/new-radicals-gregg-alexander-one-night-only-new-album-1236829633/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T15:21:10+00:00"
+    },
+    {
+      "guid": "9G3FvsFqgwWP5WZDQkN9nK",
+      "title": "Can you actually beat Baldur's Gate 3 without a single weapon? I'm finding out the hard way, and my sorcerer has never looked so defenseless",
+      "url": "https://www.gamesradar.com/games/baldur-s-gate/can-you-actually-beat-baldurs-gate-3-without-a-single-weapon-im-finding-out-the-hard-way-and-my-sorcerer-has-never-looked-so-defenseless/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T15:19:11+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204745",
+      "title": "Guide: How to Do All Deadpool's Secret Commands in Marvel Tokon: Fighting Souls",
+      "url": "https://www.pushsquare.com/guides/how-to-do-all-deadpools-secret-commands-in-marvel-tokon-fighting-souls",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T15:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749902",
+      "title": "Phantom Blade Zero development completed as S-GAME confirms August 11 pre-orders",
+      "url": "https://otakukart.com/phantom-blade-zero-development-completed-as-s-game-confirms-august-11-pre-orders/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T15:29:53+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749901",
+      "title": "Danganronpa dev says popular characters won\u2019t be spared in Danganronpa 2\u00d72, asks fans not to send hate mail",
+      "url": "https://otakukart.com/danganronpa-dev-says-popular-characters-wont-be-spared-in-danganronpa-2x2-asks-fans-not-to-send-hate-mail/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T15:18:09+00:00"
     }
   ]
 }
