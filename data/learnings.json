@@ -783,6 +783,30 @@
       "article_titles": [
         "Nintendo has unveiled new 'build your own' custom Switch 2 bundles that include a free cute Pokemon accessory of your choosing"
       ]
+    },
+    {
+      "headline": "World of Warcraft Is Overhauling How World Bosses Work",
+      "tag": "world of warcraft",
+      "posted_at": "2026-08-07T12:01:02.591957+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/world-of-warcraft/wows-changing-how-world-bosses-work-because-theyve-really-been-a-little-bit-lackluster-in-recent-years-says-dev/"
+      ],
+      "article_titles": [
+        "WoW's changing how world bosses work because they've 'really been a little bit lackluster' in recent years, says dev"
+      ]
+    },
+    {
+      "headline": "David Fincher's Squid Game Spinoff Is Dead at Netflix",
+      "tag": "squid game",
+      "posted_at": "2026-08-07T12:01:02.737315+00:00",
+      "urls": [
+        "https://www.gamesradar.com/entertainment/drama-shows/game-over-david-finchers-squid-game-is-reportedly-dead-at-netflix/",
+        "https://otakukart.com/david-finchers-rumored-squid-game-spinoff-reportedly-no-longer-moving-forward-as-netflix-shifts-franchise-plans/"
+      ],
+      "article_titles": [
+        "Game over: David Fincher's Squid Game is reportedly dead at Netflix",
+        "David Fincher\u2019s rumored Squid Game spinoff reportedly no longer moving forward as Netflix shifts franchise plans"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -795,14 +819,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-07T08:22:58+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236657984",
-      "title": "\u2018At Night\u2019 Features \u201cStories Women Share Together But Rarely to an Audience\u201d (Exclusive Locarno Clip)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/at-night-film-trailer-locarno-2026-female-friendships-1236657984/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T08:00:00+00:00"
     },
     {
       "guid": "https://automaton-media.com/en/?p=70755",
@@ -1243,6 +1259,110 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-07T11:11:31+00:00"
+    },
+    {
+      "guid": "e1e2a788-4b61-4124-a2c4-05fcf58705ea",
+      "title": "LEGO Harry Potter Celebrates 25 Years With Ministry of Magic Set, and The First-Ever Minifigure of a Specific Character",
+      "url": "https://www.ign.com/articles/lego-harry-potter-celebrates-25-years-with-ministry-of-magic-set-and-the-first-ever-minifigure-of-a-specific-character",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:37:08+00:00"
+    },
+    {
+      "guid": "cae1f534-5b4a-4e5a-94d2-93bd09ce50cc",
+      "title": "Brainrot Royale Brings Some Of The Internet\u2019s Wildest Characters To PUBG MOBILE\u2019s World of Wonder",
+      "url": "https://www.ign.com/articles/brainrot-royale-brings-some-of-the-internets-wildest-characters-to-pubg-mobiles-world-of-wonder",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:31:39+00:00"
+    },
+    {
+      "guid": "5b211846-2e33-46a3-9cba-231781b15bdb",
+      "title": "Rockstar Owner Take-Two Confirms GTA 6 Release Date Still on Track, Says 'GTA 6: An Extended Look' Will Help Grow 'Consumers' Passion and Anticipation'",
+      "url": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:30:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/marvel-tokon-fighting-souls-pc-problems-stuttering-lag",
+      "title": "Marvel Tokon: Fighting Souls suffers from widespread PC issues at launch",
+      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-pc-problems-stuttering-lag",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:35:35+00:00"
+    },
+    {
+      "guid": "dd5FFUqkAGZXZNMNM2Fekn",
+      "title": "WoW's changing how world bosses work because they've 'really been a little bit lackluster' in recent years, says dev",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wows-changing-how-world-bosses-work-because-theyve-really-been-a-little-bit-lackluster-in-recent-years-says-dev/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:56:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028384",
+      "title": "International Insider: WarnerMount UK Thumbs Up; Spidey\u2019s Global Box Office Bonanza; Locarno Film Fest Vs. Algorithm",
+      "url": "https://deadline.com/2026/08/international-insider-warnermount-spider-man-locarno-film-1237028384/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:57:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829396",
+      "title": "Take-Two Interactive Reaches $1.4 Billion in Sales During \u2018GTA 6\u2019 Preorder Opening Quarter",
+      "url": "https://variety.com/2026/gaming/news/gta-6-preorder-sales-take-two-earnings-1236829396/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:32:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668802",
+      "title": "Sarajevo Unveils B\u00e9la Tarr Tribute Program for Former Students of His Film School",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sarajevo-film-festival-bela-tarr-tribute-hungary-director-1236668802/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:45:29+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668792",
+      "title": "Luca Guadagnino to Receive Venice Festival\u2019s Glory to the Filmmaker Award",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-venice-film-festival-glory-filmmaker-award-1236668792/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T11:39:58+00:00"
+    },
+    {
+      "guid": "HKDnhFBeFWYP4xmP3KHYXm",
+      "title": "Game over: David Fincher's Squid Game is reportedly dead at Netflix",
+      "url": "https://www.gamesradar.com/entertainment/drama-shows/game-over-david-finchers-squid-game-is-reportedly-dead-at-netflix/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T11:49:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749863",
+      "title": "Live-action Zelda movie reportedly casts Uli Latukefu as Ganondorf, adds Sam Neill and more actors",
+      "url": "https://otakukart.com/live-action-zelda-movie-reportedly-casts-uli-latukefu-as-ganondorf-adds-sam-neill-and-more-actors/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T11:58:34+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749862",
+      "title": "Octopath Traveler series producer says expectations for Octopath Traveler 3 are the highest, but he can\u2019t share anything yet",
+      "url": "https://otakukart.com/octopath-traveler-series-producer-says-expectations-for-octopath-traveler-3-are-the-highest-but-he-cant-share-anything-yet/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T11:42:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1749881",
+      "title": "David Fincher\u2019s rumored Squid Game spinoff reportedly no longer moving forward as Netflix shifts franchise plans",
+      "url": "https://otakukart.com/david-finchers-rumored-squid-game-spinoff-reportedly-no-longer-moving-forward-as-netflix-shifts-franchise-plans/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T11:32:07+00:00"
     }
   ]
 }
