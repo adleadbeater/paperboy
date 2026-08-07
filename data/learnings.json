@@ -824,62 +824,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "9dd24c3c-8f53-4280-805a-e161d029215d",
-      "title": "Target is Slicing Open Pok\u00e9mon Card Boxes Before They're Sold in a Bid to Deter Scalpers, Fans Say",
-      "url": "https://www.ign.com/articles/target-is-slicing-open-pokmon-card-boxes-before-theyre-sold-in-a-bid-to-deter-scalpers-fans-say",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:40:21+00:00"
-    },
-    {
-      "guid": "https://www.videogameschronicle.com/?p=243582",
-      "title": "NBA 2K26 is free to play on Switch and Switch 2 for the next week",
-      "url": "https://www.videogameschronicle.com/news/nba-2k26-is-free-to-play-on-switch-and-switch-2-for-the-next-week/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:31:42+00:00"
-    },
-    {
-      "guid": "jSbEKh3nQQW5KoqRvFKoMk",
-      "title": "If your AMD chipset drivers are mysteriously failing to install like mine, you'll need to manually update instead",
-      "url": "https://www.pcgamer.com/hardware/processors/if-your-amd-chipset-drivers-are-mysteriously-failing-to-install-like-mine-youll-need-to-manually-update-instead/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:54:59+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236829836",
-      "title": "Werner Herzog to Be Honored at San Sebasti\u00e1n Film Festival",
-      "url": "https://variety.com/2026/film/festivals/werner-herzog-honored-san-sebastian-film-festival-1236829836/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T09:59:47+00:00"
-    },
-    {
-      "guid": "SyiBLyRUNMuniMjWat99Fm",
-      "title": "Gears of War: E-Day's Steam player peak has already passed the series' all-time record, and it's still only in limited beta",
-      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-days-steam-player-peak-has-already-passed-the-series-all-time-record-and-its-still-only-in-limited-beta/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T09:36:59+00:00"
-    },
-    {
-      "guid": "2vQp6G362rRzGL7Gw8jGSa",
-      "title": "Tom Holland's brother has a surprising impact on Spider-Man: Brand New Day's most wholesome scene",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/tom-hollands-brother-has-a-surprising-impact-on-spider-man-brand-new-days-most-wholesome-scene/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T09:32:08+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204727",
-      "title": "Marvel's Spider-Man 2 Update Adjusts the Brand New Day Suit Following Fan Outcry",
-      "url": "https://www.pushsquare.com/news/2026/08/marvels-spider-man-2-update-adjusts-the-brand-new-day-suit-following-fan-outcry",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T10:00:00+00:00"
-    },
-    {
       "guid": "4hGVEtuKbed7FLbD2LB87g",
       "title": "'They call us old stupid farmers, you know, but we\u2019re not': Family declines $26 million offer to convert their farmland into an AI data center",
       "url": "https://www.pcgamer.com/software/ai/they-call-us-old-stupid-farmers-you-know-but-were-not-family-declines-usd26-million-offer-to-convert-their-farmland-into-an-ai-data-center/",
@@ -1454,6 +1398,118 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-07T13:12:44+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=243595",
+      "title": "Take-Two reiterates that it predicts $8 billion in net bookings this fiscal year thanks to GTA 6",
+      "url": "https://www.videogameschronicle.com/news/take-two-predicts-8-billion-in-net-bookings-for-its-2027-fiscal-year-thanks-to-gta-6/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:44:01+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical",
+      "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\"",
+      "url": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:33:56+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722435",
+      "title": "Take-Two CEO Predicts That We\u2019ll All Be Streaming Our Games In Three Years",
+      "url": "https://kotaku.com/take-two-ceo-predicts-game-streaming-three-years-2000722435",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:47:31+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722446",
+      "title": "Rockstar\u2019s Parent Company Says \u2018Discs Don\u2019t Really Make Sense For The Consumer\u2019",
+      "url": "https://kotaku.com/take-two-ceo-on-the-industry-going-all-digital-discs-dont-really-make-sense-for-the-consumer-2000722446",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:35:09+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722431",
+      "title": "Here\u2019s Why GTA 6 Is $80, But NBA 2K27 Is Only $70",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-price-80-70-nba-2k27-take-two-2k-strauss-zelnick-2000722431",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:34:03+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829187",
+      "title": "USA Network\u2019s \u2018Anna Pigeon\u2019 Is the Temu Version of \u2018Virgin River\u2019: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/aanna-pigeon-review-usa-network-1236829187/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829874",
+      "title": "Tom Holland and Zendaya\u2019s Rumored Wedding Venue Has a Starry History \u2014 and Is Close to a Key \u2018Spider-Man: Brand New Day\u2019 Filming Location",
+      "url": "https://variety.com/2026/film/global/tom-holland-zendaya-wedding-venue-beaverbrook-1236829874/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T13:51:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236666439",
+      "title": "John Waters Is Aging Disgracefully, Thank Goodness",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/john-waters-turning-80-jokes-mosswood-meltdown-interview-1236666439/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-07T14:00:00+00:00"
+    },
+    {
+      "guid": "a6pK9Umgtdsxx7Qg9m7jre",
+      "title": "Moving away from Windows is getting a little easier, as Linux will soon support more SteelSeries gaming headsets",
+      "url": "https://www.gamesradar.com/hardware/headsets-headphones/moving-away-from-windows-is-getting-a-little-easier-as-linux-will-soon-support-more-steelseries-gaming-headsets/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T13:58:58+00:00"
+    },
+    {
+      "guid": "esKNTAdUj5ZM9kR9zNrhoQ",
+      "title": "Natalie Portman once said everyone thought she was a \"horrible actress\" after appearing in the Star Wars prequels",
+      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/natalie-portman-once-said-everyone-thought-she-was-a-horrible-actress-after-appearing-in-the-star-wars-prequels/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T13:51:27+00:00"
+    },
+    {
+      "guid": "DoAxAUkUJwG928C9jkxaxP",
+      "title": "With GTA 6 digital only, Take-Two boss says discs \"don't really make sense\" \u2013 \"if you're already connected, who cares if you download digitally?\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-digital-only-take-two-boss-says-discs-dont-really-make-sense-if-youre-already-connected-who-cares-if-you-download-digitally/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T13:43:52+00:00"
+    },
+    {
+      "guid": "2nejcz5WVTmve4XJ5YVRqf",
+      "title": "Another GTA 6 delay looks much less likely as Take-Two has a \"high degree of confidence\" in Rockstar Games' November release",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-gta-6-delay-looks-much-less-likely-as-take-two-has-a-high-degree-of-confidence-in-rockstar-games-november-release/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T13:38:55+00:00"
+    },
+    {
+      "guid": "1843138",
+      "title": "GTA 6 Preorders Are \u201cUnprecedented\u201d Across The Industry, Take-Two Claims",
+      "url": "https://www.gamespot.com/articles/gta-6-preorders-are-unprecedented-across-the-industry-take-two-claims/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T13:44:51+00:00"
+    },
+    {
+      "guid": "1843133",
+      "title": "Take-Two Defends GTA 6\u2019s $80 Price, Calls It \u201cPhenomenal Value\u201d",
+      "url": "https://www.gamespot.com/articles/take-two-defends-gta-6s-80-price-calls-it-phenomenal-value/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-07T13:25:36+00:00"
     }
   ]
 }
