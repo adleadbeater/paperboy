@@ -977,60 +977,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237028481",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Eyes Third-Best U.S. 2nd Weekend With $143M \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T15:12:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000722698",
-      "title": "Project Zomboid Fans Create Petition After Devs Revoke Access To Community Map",
-      "url": "https://kotaku.com/project-zomboid-fans-create-petition-after-devs-revoke-access-to-community-map-2000722698",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T15:19:02+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236830599",
       "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Swings into Second Weekend With $43 Million on Friday",
       "url": "https://variety.com/2026/film/box-office/box-office-spider-man-second-weekend-the-odyssey-1236830599/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-08T15:50:35+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830597",
-      "title": "Yash\u2019s \u2018Toxic\u2019 Trailer Unveils Dual-Role Father-Son Conflict at Core of Gangster Epic",
-      "url": "https://variety.com/2026/film/news/oxic-trailer-yash-dual-role-gangster-epic-1236830597/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T15:32:10+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830062",
-      "title": "How \u2018Spider-Man: Brand New Day\u2019s\u2019 Climactic Fight Scene Secretly Evokes Jean Grey\u2019s Phoenix",
-      "url": "https://variety.com/2026/artisans/news/spider-man-brand-new-day-fight-scene-jean-grey-phoenix-1236830062/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669418",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Swinging to Best-Ever 10-Day Start With $143M Second Weekend",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-second-weekend-1236669418/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T15:40:41+00:00"
-    },
-    {
-      "guid": "Gn3rguWVexiEd46TehqLUQ",
-      "title": "Baldur's Gate 3, Clair Obscur: Expedition 33 star didn't believe she was in Space Marine 2 until fan messages sent her sleuthing through receipts",
-      "url": "https://www.gamesradar.com/games/action/baldurs-gate-3-clair-obscur-expedition-33-star-didnt-believe-she-was-in-space-marine-2-until-fan-messages-sent-her-sleuthing-through-receipts/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-08T15:44:40+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/final-fantasy-y-revelation-gamescom-new-look",
@@ -1263,6 +1215,38 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-08T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029382",
+      "title": "Madonna Pays Tribute To Late \u2018Ray Of Light\u2019 Producer William Orbit: \u201cYour Music Gave Me A Magic Carpet To Fly On\u201d",
+      "url": "https://deadline.com/2026/08/madonna-william-orbit-tribute-1237029382/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T19:44:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830670",
+      "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to \u2018Unforeseen Logistical Issues\u2019",
+      "url": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T19:37:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830665",
+      "title": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Mon\u00e1e and Hundreds More, Canceled at the Last Minute",
+      "url": "https://variety.com/2026/music/news/l-a-jazz-festival-canceled-john-legend-janelle-monae-1236830665/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T19:33:20+00:00"
+    },
+    {
+      "guid": "t3_1vj4xwc",
+      "title": "GameFile reports on how PlayStation and Xbox physical game discs are manufactured and how much they cost",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vj4xwc/gamefile_reports_on_how_playstation_and_xbox/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-08T19:34:37+00:00"
     }
   ]
 }
