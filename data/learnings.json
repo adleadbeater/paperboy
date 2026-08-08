@@ -955,44 +955,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "7cd5f761-5abf-4e63-a5d8-f3d4bbe2b6a4",
-      "title": "Dwayne Johnson Reacts to Negative Moana Reviews After Disney's Live-Action Remake Bombs",
-      "url": "https://www.ign.com/articles/dwayne-johnson-reacts-to-negative-moana-reviews-after-disneys-live-action-remake-bombs",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T22:33:00+00:00"
-    },
-    {
-      "guid": "c7f17221-d78b-4973-864d-0dadb5a9b380",
-      "title": "Brandon Sanderson Says the Speed Racer Movie is 'Unironically a 10 out of 10'",
-      "url": "https://www.ign.com/articles/brandon-sanderson-says-the-speed-racer-movie-is-unironically-a-10-out-of-10",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T22:29:53+00:00"
-    },
-    {
-      "guid": "0ab814ed-9d44-4bbd-b28e-4d414073dee2",
-      "title": "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option",
-      "url": "https://www.ign.com/articles/newly-discovered-demons-souls-prototype-footage-shows-scrapped-first-person-option",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T22:26:55+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237029055",
       "title": "First Look At Vincent Pastore\u2019s Final TV Role, Shaquille O\u2019Neal Debut In \u2018Gravesend\u2019 Season 3 Trailer",
       "url": "https://deadline.com/2026/08/vincent-pastore-final-tv-role-gravesend-first-look-1237029055/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-07T22:47:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237028481",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Eyes Third-Best U.S. 2nd Weekend With $135M-$140M+ \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T22:46:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236827870",
@@ -1003,36 +971,12 @@
       "published_dt": "2026-08-07T23:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236830430",
-      "title": "Judy Collins on Doing a Farewell Tour While \u2018Having a Lot More Steam in My Engine\u2019: At 87, \u2018I\u2019m the Betty White of the Folk Movement\u2019",
-      "url": "https://variety.com/2026/music/news/judy-collins-farewell-tour-interview-1236830430/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-07T22:42:40+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236669268",
       "title": "Jake T. Austin Says He Wasn\u2019t Invited to Partake in \u2018Wizards of Waverly Place\u2019 Revival: \u201cDisappointed\u201d",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/jake-t-austin-wizards-of-waverly-place-revival-1236669268/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-07T22:51:20+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750028",
-      "title": "Steven Spielberg\u2019s Disclosure Day Climbs to No. 1 on U.K. Home Entertainment Chart",
-      "url": "https://otakukart.com/steven-spielbergs-disclosure-day-climbs-to-no-1-on-u-k-home-entertainment-chart/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T22:33:01+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750027",
-      "title": "Ride or Die Stars Octavia Spencer and Hannah Waddingham Say Friendship and Female Empowerment Drove Their Prime Video Series",
-      "url": "https://otakukart.com/ride-or-die-stars-octavia-spencer-and-hannah-waddingham-say-friendship-and-female-empowerment-drove-their-prime-video-series/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-07T22:26:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237029162",
@@ -1057,6 +1001,30 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-08T01:35:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669273",
+      "title": "Dwayne Johnson Addresses \u2018Moana\u2019 Mixed Reviews After Film Underperformed at Box Office",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dwayne-johnson-moana-mixed-reviews-film-underperformed-1236669273/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T02:38:23+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204763",
+      "title": "Another Zelda Movie Cast Member Has Reportedly Been Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/08/another-zelda-movie-cast-member-has-reportedly-been-confirmed",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-08T02:30:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/news-digest-for-august-7-2026.720215/",
+      "title": "News Digest for August 7, 2026",
+      "url": "https://www.enworld.org/threads/news-digest-for-august-7-2026.720215/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-08T02:44:00+00:00"
     }
   ]
 }
