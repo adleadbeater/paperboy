@@ -979,38 +979,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237029382",
-      "title": "Madonna Pays Tribute To Late \u2018Ray Of Light\u2019 Producer William Orbit: \u201cYour Music Gave Me A Magic Carpet To Fly On\u201d",
-      "url": "https://deadline.com/2026/08/madonna-william-orbit-tribute-1237029382/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T19:44:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830670",
-      "title": "Morrissey Cancels Las Vegas Residency Days Before Showtime Due to \u2018Unforeseen Logistical Issues\u2019",
-      "url": "https://variety.com/2026/music/news/morrissey-cancels-las-vegas-residency-logistical-issues-1236830670/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T19:37:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830665",
-      "title": "L.A. Jazz Festival, Which Was Supposed to Feature John Legend, Janelle Mon\u00e1e and Hundreds More, Canceled at the Last Minute",
-      "url": "https://variety.com/2026/music/news/l-a-jazz-festival-canceled-john-legend-janelle-monae-1236830665/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T19:33:20+00:00"
-    },
-    {
-      "guid": "t3_1vj4xwc",
-      "title": "GameFile reports on how PlayStation and Xbox physical game discs are manufactured and how much they cost",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vj4xwc/gamefile_reports_on_how_playstation_and_xbox/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-08T19:34:37+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237029390",
       "title": "Melissa Barrera Takes Weekend Off From Broadway\u2019s \u2018Titanique\u2019 After She \u201cLost My Voice\u201d On-Stage",
       "url": "https://deadline.com/2026/08/melissa-barrera-takes-weekend-off-titanique-lost-voice-1237029390/",
@@ -1121,6 +1089,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-08T22:19:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830713",
+      "title": "Warner Bros. Uses AI Dog Podcast to Promote \u2018The End of Oak Street\u2019: \u2018Ewan McGregor Was Excellent With Treats\u2019",
+      "url": "https://variety.com/2026/film/news/warner-bros-ai-dog-podcast-the-end-of-oak-street-1236830713/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T23:41:56+00:00"
     }
   ]
 }
