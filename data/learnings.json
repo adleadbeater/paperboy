@@ -979,28 +979,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "qY52BbAdCvRq6Wk5BqH59c",
-      "title": "Bethesda 40th anniversary sale knocks 50% off Doom: The Dark Ages - Revelations just a month after launch",
-      "url": "https://www.pcgamer.com/games/fps/bethesda-40th-anniversary-sale-knocks-50-percent-off-doom-the-dark-ages-revelations-just-a-month-after-launch/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T18:30:55+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236669348",
       "title": "Katie Maloney Wasn\u2019t Interested in Reality TV After \u2018Vanderpump Rules.\u2019 Then Came Stassi Schroeder",
       "url": "https://www.hollywoodreporter.com/tv/tv-features/katie-maloney-house-of-stassi-tv-return-affair-ariana-madix-1236669348/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-08T19:00:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236668911",
-      "title": "Hamish Hamilton\u2019s Best Halftime Show Ever Was Also His Biggest Technical Gamble",
-      "url": "https://www.hollywoodreporter.com/music/music-features/hamish-hamilton-super-bowl-halftime-show-bad-bunny-1236668911/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T18:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1120560",
@@ -1121,6 +1105,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-08T22:13:59+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722718",
+      "title": "Kiyoshi Kurosawa\u2019s First Samurai Epic Offers Alternative Philosophy To Odyssey\u2018s Doomed Voyage",
+      "url": "https://kotaku.com/kiyoshi-kurosawas-first-samurai-epic-offers-alternative-philosophy-to-odysseys-doomed-voyage-2000722718",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T22:31:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029460",
+      "title": "\u2018One Night Only\u2019 Director Understands The \u201cSex Purge\u201d Comparisons",
+      "url": "https://deadline.com/2026/08/one-night-only-director-understands-sex-purge-comparisons-1237029460/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T22:49:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830699",
+      "title": "Perez Hilton \u2018Will Require Surgery\u2019 After Live Stream Incident, Family Demands Media \u2018Cease Photographing Perez\u2019s Children\u2019",
+      "url": "https://variety.com/2026/film/news/perez-hilton-update-surgery-live-stream-family-statement-1236830699/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T22:47:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830682",
+      "title": "\u2018Abbott Elementary\u2019 Stars Sheryl Lee Ralph and Janelle James on the Paramount-Warner Bros. Merger: \u2018We\u2019ve Lost Too Many People\u2019",
+      "url": "https://variety.com/2026/scene/news/abbott-elementary-sheryl-lee-ralph-janelle-james-paramount-1236830682/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T22:19:26+00:00"
     }
   ]
 }
