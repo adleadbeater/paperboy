@@ -977,38 +977,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "fHUk8EhiHLBB7NWJRvTYJF",
-      "title": "Blocky zombie survival sim Unturned releases its source code so players can build a 'lasting legacy' for the game 'regardless of the changes we make'",
-      "url": "https://www.pcgamer.com/games/survival-crafting/blocky-zombie-survival-sim-unturned-releases-its-source-code-so-players-can-build-a-lasting-legacy-for-the-game-regardless-of-the-changes-we-make/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029302",
-      "title": "Bill Maher Makes Weight Jokes About Ariana Grande, \u2018Real Time\u2019 Audience Groans",
-      "url": "https://deadline.com/2026/08/bill-maher-ariana-grande-jokes-1237029302/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T13:12:03+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120539",
-      "title": "Culdcept The First is a Gem with a Baffling Release Schedule",
-      "url": "https://www.siliconera.com/culdcept-the-first-is-a-gem-with-a-baffling-release-schedule/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1067780",
-      "title": "Neverness to Everness version 1.3 update \u2018Rising from the Moonlight Fog\u2019 launches August 19",
-      "url": "https://www.gematsu.com/2026/08/neverness-to-everness-version-1-3-update-rising-from-the-moonlight-fog-launches-august-19",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-08T13:22:44+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237029309",
       "title": "Team Trump Trolls Taylor Swift With Song Use Before Copyright Claim Brings Silence",
       "url": "https://deadline.com/2026/08/taylor-swift-donald-trump-august-tik-tok-1237029309/",
@@ -1207,6 +1175,38 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-08T16:30:00+00:00"
+    },
+    {
+      "guid": "NDT9JZPRP35cyt8GSvPeYC",
+      "title": "WoW developers reflect on Midnight's first season\u2014a world without AddOns, task overload, and Prey",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-developers-reflect-on-midnights-first-season-a-world-without-addons-task-overload-and-prey/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236828928",
+      "title": "Giovanni Tortorici on Working With Monica Bellucci Who Plays an \u2018Eccentric\u2019 Aristocratic Matron in His Luca Guadagnino-Produced Film \u2018Kettic\u00e8\u2019",
+      "url": "https://variety.com/2026/film/festivals/giovanni-tortorici-monica-bellucci-luca-guadagnino-kettice-1236828928/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T17:03:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236664309",
+      "title": "40 Years Ago, Rob Reiner Turned Stephen King\u2019s Most Personal Story Into a Surprise Hit",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/rob-reiner-stephen-king-the-body-1236664309/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236666089",
+      "title": "Ariana Madix on Season Eight\u2019s \u201cDiabolical\u201d Casa Amor Twist and How She Stays Ready for Whatever On Set",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/ariana-madix-love-island-usa-casa-amor-twist-1236666089/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T17:00:00+00:00"
     }
   ]
 }
