@@ -977,14 +977,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237029309",
-      "title": "Team Trump Trolls Taylor Swift With Song Use Before Copyright Claim Brings Silence",
-      "url": "https://deadline.com/2026/08/taylor-swift-donald-trump-august-tik-tok-1237029309/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T13:55:37+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236663390",
       "title": "\u2018My Life With the Walter Boys\u2019 Star Ashby Gentry on Alex\u2019s Healing Journey, New Love Triangle and \u201cPicking Up the Pieces\u201d in Season 4",
       "url": "https://www.hollywoodreporter.com/tv/tv-features/my-life-with-the-walter-boys-ashby-gentry-alex-season-3-1236663390/",
@@ -1247,6 +1239,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-08T17:30:36+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722702",
+      "title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
+      "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T18:04:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830655",
+      "title": "Anthony Michael Hall Says John Hughes Wanted a \u2018Breakfast Club\u2019 Sequel Where the Original Cast Is \u2018In Their 30s\u2019",
+      "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T18:10:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830251",
+      "title": "\u2018Cookie Queens\u2019 Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
+      "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T18:05:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668939",
+      "title": "Inside the \u2018Summer House\u2019 Scandal That Turned Bravo\u2019s Little Show Into a Big (Emmy-Nominated) Deal",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-summer-house-scandal-1236668939/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T18:00:00+00:00"
     }
   ]
 }
