@@ -977,52 +977,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "fe0e0dd5-1f51-4d9a-a3ce-a5ad9fd0bd9c",
-      "title": "Bart Simpson Actress Nancy Cartwright Believes The Simpsons Will End With Season 40",
-      "url": "https://www.ign.com/articles/bart-simpson-actress-nancy-cartwright-believes-the-simpsons-will-end-with-season-40",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T16:46:02+00:00"
-    },
-    {
-      "guid": "14902b89-4dda-4f86-bc25-fceb99be3ed9",
-      "title": "Upcoming PS5 Games: The Future of PlayStation Exclusives",
-      "url": "https://www.ign.com/articles/upcoming-ps5-games",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T16:30:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/br1-infinite-extraction-pays-for-kills",
       "title": "Extraction shooter BR1 Infinite is paying players for every in-game kill, drawing concerns about gambling and cheating",
       "url": "https://www.eurogamer.net/br1-infinite-extraction-pays-for-kills",
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-08-08T16:56:11+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029352",
-      "title": "Olivia Wilde Talks Fight To Get \u2018The Invite\u2019 A Theatrical Release Following Sundance Audience Response: \u201cI Was Passionate About It With A Lot Of Support\u201d",
-      "url": "https://deadline.com/2026/08/olivia-wilde-the-invite-theatrical-release-1237029352/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T16:45:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830606",
-      "title": "Olivia Wilde Says She\u2019s Become \u2018So Much More Romantic\u2019 Because of \u2018The Invite\u2019: \u2018It Melted the Cynic Out of Me\u2019",
-      "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-seth-rogen-1236830606/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T16:31:40+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236829327",
-      "title": "\u2018Tony\u2019 Star Dominic Sessa on How Being a \u2018Liar\u2019 Helped Him Portray Anthony Bourdain and Why the Film Foreshadows His Later Struggles",
-      "url": "https://variety.com/2026/film/features/tony-dominic-sessa-anthony-bourdain-struggles-matt-johnson-1236829327/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T16:30:00+00:00"
     },
     {
       "guid": "NDT9JZPRP35cyt8GSvPeYC",
@@ -1191,6 +1151,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-08T19:34:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029390",
+      "title": "Melissa Barrera Takes Weekend Off From Broadway\u2019s \u2018Titanique\u2019 After She \u201cLost My Voice\u201d On-Stage",
+      "url": "https://deadline.com/2026/08/melissa-barrera-takes-weekend-off-titanique-lost-voice-1237029390/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T20:20:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669431",
+      "title": "Monica Barbaro Teases Luca Guadagnino\u2019s OpenAI Film \u2018Artificial,\u2019 Addresses Timoth\u00e9e Chalamet\u2019s Ballet Comments",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-barbaro-openai-artificial-timothee-chalamet-ballet-1236669431/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T20:35:24+00:00"
     }
   ]
 }
