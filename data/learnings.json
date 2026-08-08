@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Evangelion's Shinji voice actor calls AI voice cloning \"heartbreaking,\" urges Japanese government to act",
-      "tag": "neon genesis evangelion",
-      "posted_at": "2026-08-01T20:02:40.232838+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/the-voice-of-shinji-in-evangelion-says-ai-voice-cloning-is-heartbreaking-calls-for-japanese-government-to-intervene/"
-      ],
-      "article_titles": [
-        "The voice of Shinji in Evangelion says AI voice cloning is 'heartbreaking,' calls for Japanese government to intervene"
-      ]
-    },
-    {
       "headline": "Story of Seasons Mobile Game Cancelled as Marvelous Ends Six-Year Tencent Partnership",
       "tag": "story of seasons",
       "posted_at": "2026-08-02T12:49:06.702566+00:00",
@@ -971,43 +960,24 @@
       "article_titles": [
         "Get a \"new look\" at Final Fantasy 7 Revelation at Gamescom's Opening Night Live"
       ]
+    },
+    {
+      "headline": "THQ Nordic Has 12 Unannounced Games in Development",
+      "tag": "thq nordic",
+      "posted_at": "2026-08-08T22:14:44.494516+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/thq-nordic-says-it-has-12-unannounced-games-in-development/",
+        "https://www.videogameschronicle.com/news/thq-nordic-says-it-has-12-unannounced-games-in-development/"
+      ],
+      "article_titles": [
+        "THQ Nordic says it has 12 unannounced games in development",
+        "THQ Nordic says it has 12 unannounced games in development"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000722702",
-      "title": "YouTube Mistakenly Penalizes Popular Science Channel Kurzgesagt For AI-Generated Slop",
-      "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T18:04:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830655",
-      "title": "Anthony Michael Hall Says John Hughes Wanted a \u2018Breakfast Club\u2019 Sequel Where the Original Cast Is \u2018In Their 30s\u2019",
-      "url": "https://variety.com/2026/film/news/anthony-michael-hall-john-hughes-breakfast-club-sequel-1236830655/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T18:10:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830251",
-      "title": "\u2018Cookie Queens\u2019 Review: A Doc About Girl Scout Cookies, Produced by Meghan Markle and Prince Harry, Is Too Much of a Reality-Show Ramble",
-      "url": "https://variety.com/2026/film/reviews/cookie-queens-review-prince-harry-meghan-markle-1236830251/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T18:05:47+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236668939",
-      "title": "Inside the \u2018Summer House\u2019 Scandal That Turned Bravo\u2019s Little Show Into a Big (Emmy-Nominated) Deal",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/inside-summer-house-scandal-1236668939/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T18:00:00+00:00"
-    },
     {
       "guid": "qY52BbAdCvRq6Wk5BqH59c",
       "title": "Bethesda 40th anniversary sale knocks 50% off Doom: The Dark Ages - Revelations just a month after launch",
@@ -1135,6 +1105,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-08T23:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830685",
+      "title": "\u2018Heated Rivalry\u2019 Author Brushes Off Negativity Surrounding Season 2 Casting",
+      "url": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T21:58:33+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669519",
+      "title": "Perez Hilton\u2019s Condition \u201cSerious but Stable\u201d Amid Hospitalization, Will Require Surgery",
+      "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-08T22:13:59+00:00"
     }
   ]
 }
