@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Story of Seasons Mobile Game Cancelled as Marvelous Ends Six-Year Tencent Partnership",
-      "tag": "story of seasons",
-      "posted_at": "2026-08-02T12:49:06.702566+00:00",
-      "urls": [
-        "https://www.eurogamer.net/story-of-seasons-mobile-cancelled"
-      ],
-      "article_titles": [
-        "Story of Seasons mobile game cancelled as Marvelous cuts six-year Tencent partnership"
-      ]
-    },
-    {
       "headline": "Buckshot Roulette's Creator Just Dropped a Surprise Mario Party-Style Horror Game",
       "tag": "buckshot roulette",
       "posted_at": "2026-08-02T20:02:57.353124+00:00",
@@ -984,6 +973,19 @@
       "article_titles": [
         "Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive: 'This essentially saved my life'"
       ]
+    },
+    {
+      "headline": "The Witcher's Final Season Reportedly Pushed Back to 2027 on Netflix",
+      "tag": "the witcher",
+      "posted_at": "2026-08-09T15:23:38.964486+00:00",
+      "urls": [
+        "https://kotaku.com/netflixs-final-season-of-the-witcher-reportedly-pushed-back-to-2027-2000722796",
+        "https://otakukart.com/the-witcher-season-5-reportedly-delayed-to-2027-after-netflix-previously-planned-a-2026-release/"
+      ],
+      "article_titles": [
+        "Netflix\u2019s Final Season Of The Witcher Reportedly Pushed Back To 2027",
+        "The Witcher Season 5 Reportedly Delayed to 2027 After Netflix Previously Planned a 2026 Release"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1156,6 +1158,62 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-09T14:31:56+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722796",
+      "title": "Netflix\u2019s Final Season Of The Witcher Reportedly Pushed Back To 2027",
+      "url": "https://kotaku.com/netflixs-final-season-of-the-witcher-reportedly-pushed-back-to-2027-2000722796",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:20:37+00:00"
+    },
+    {
+      "guid": "q3yhRrJVcDX2sVAEVmGf4V",
+      "title": "'I am a big roguelike guy, but also a fan of minimalism and elegance': Sam Barlow, creator of Her Story, guides us through the games in his Steam Library",
+      "url": "https://www.pcgamer.com/gaming-industry/i-am-a-big-roguelike-guy-but-also-a-fan-of-minimalism-and-elegance-sam-barlow-creator-of-her-story-guides-us-through-the-games-in-his-steam-library/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028481",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Catches Third-Best U.S. 2nd Weekend With $144M+ \u2013 Sunday Box Office Update",
+      "url": "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:04:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830807",
+      "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Flies to Third-Biggest Second Weekend of All Time With $145 Million",
+      "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-near-record-second-weekend-1236830807/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:08:04+00:00"
+    },
+    {
+      "guid": "EGa6DGr8YnVE4f6SLRR6Vn",
+      "title": "The Legend of Zelda: Twilight Princess wasn't enough, you can now run Ocarina of Time and Majora's Mask natively on IOS",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-twilight-princess-wasnt-enough-you-can-now-run-ocarina-of-time-and-majoras-mask-natively-on-ios/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T15:10:12+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204591",
+      "title": "Opinion: Ghost of Yotei Was a Weirdly Disappointing Sequel After Loving Tsushima",
+      "url": "https://www.pushsquare.com/features/opinion-ghost-of-yotei-was-a-weirdly-disappointing-sequel-after-loving-tsushima",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750089",
+      "title": "One Piece Chapter 1191: Spoilers, Summary and Pics",
+      "url": "https://otakukart.com/one-piece-chapter-1191-spoilers-summary-and-pics/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T15:22:42+00:00"
     }
   ]
 }
