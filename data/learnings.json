@@ -1025,28 +1025,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "zUZazf4X3eMgKgPpjK84C8",
-      "title": "The last season of Netflix's Witcher show has reportedly been delayed",
-      "url": "https://www.pcgamer.com/movies-tv/the-last-season-of-netflixs-witcher-show-has-reportedly-been-delayed/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T16:27:27+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237029600",
       "title": "\u2018Five Nights at Freddy\u2019s\u2019 Immersive Freddy Fazbear\u2019s Pizza Opening In N.J. Mall",
       "url": "https://deadline.com/2026/08/five-nights-at-freddys-immersive-freddy-fazbears-pizza-nj-1237029600/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-09T16:59:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830775",
-      "title": "Olivia Wilde Calls \u2018The Invite\u2019 the \u2018Most Incredible\u2019 Experience of Her Life: \u2018It Was the Highlight of My Career\u2019",
-      "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-comedy-1236830775/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T16:44:35+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236668912",
@@ -1071,14 +1055,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-09T17:00:00+00:00"
-    },
-    {
-      "guid": "BAApwJ9k4URHTqjYWUDUCP",
-      "title": "Diablo 4: Lord of Hatred and Overwatch's resurgence reportedly drove Blizzard to its \"first back-to-back years of growth\" in almost 10 years",
-      "url": "https://www.gamesradar.com/games/fps/diablo-4-lord-of-hatred-and-overwatchs-resurgence-reportedly-drove-blizzard-to-its-first-back-to-back-years-of-growth-in-almost-10-years/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T16:27:41+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000722806",
@@ -1239,6 +1215,46 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-09T20:00:00+00:00"
+    },
+    {
+      "guid": "9c0bb799-8fb0-4f69-944c-7eabeaae8201",
+      "title": "Blizzard Reportedly Leads Xbox as 'Top-Performing' Studio Thanks to Overwatch and Diablo",
+      "url": "https://www.ign.com/articles/blizzard-reportedly-leads-xbox-as-top-performing-studio-thanks-to-overwatch-and-diablo",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T20:29:23+00:00"
+    },
+    {
+      "guid": "eeb593b1-9e5e-495f-9851-9245a2721eec",
+      "title": "The Best Deals Today: Civilization VII, AirPods Pro 3, Spider-Man: Brand New Day Steelbook, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-august-9-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T20:26:42+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722823",
+      "title": "If Anyone Wants To Print Their Own PlayStation Discs They\u2019ll Need To Overcome Sony\u2019s Wall Of Silence",
+      "url": "https://kotaku.com/if-anyone-wants-to-print-their-own-playstation-discs-theyll-need-to-overcome-sonys-wall-of-silence-2000722823",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T20:51:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029686",
+      "title": "Wagner Moura Compares Netflix\u2019s \u2018The Last House\u2019 To His Hope That \u201cThe World Was Gonna Change\u201d After COVID Isolation",
+      "url": "https://deadline.com/2026/08/wagner-moura-the-last-house-hope-world-change-covid-1237029686/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T20:39:40+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-9-2026.720232/",
+      "title": "Freebies, Sales, and Charity Bundles for August 9, 2026",
+      "url": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-august-9-2026.720232/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T20:50:00+00:00"
     }
   ]
 }
