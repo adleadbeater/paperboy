@@ -1014,44 +1014,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000722790",
-      "title": "Asmongold Says Twitch Banned Him For 14 Days After Latest Vile Comments: \u2018I\u2019m Not Sorry\u2019",
-      "url": "https://kotaku.com/asmongold-says-twitch-banned-him-for-14-days-after-latest-vile-comments-im-not-sorry-2000722790",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T13:18:10+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236826269",
-      "title": "Locarno Sufi Trance Doc \u2018As Light as Air\u2019 Director Umair Bilal on Surrendering to a Pakistani Shrine Town: \u2018I Became Part of Its Rhythm\u2019",
-      "url": "https://variety.com/2026/film/festivals/sufi-trance-as-light-as-air-locarno-1236826269/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T13:06:21+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236830809",
       "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
       "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-09T13:59:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830791",
-      "title": "David Ellison Is Promising Theater Owners Contractual Guarantees for Paramount-Warner Bros. 30-Film Annual Slate. But What if Moviegoers Don\u2019t Care?",
-      "url": "https://variety.com/2026/film/news/david-ellison-theater-owners-guarantee-30-movies-paramount-warner-bros-merger-1236830791/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T13:49:29+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669264",
-      "title": "\u2018Down the Arm of God\u2019: Caleb Landry Jones Project, Created With People Without Housing, Is a \u201cConversation Starter, Not an Advocacy Film\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-2026-caleb-landry-jones-film-down-the-arm-of-god-1236669264/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T13:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/lies-of-p-studio-next-game-tease",
@@ -1284,6 +1252,30 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-09T16:27:41+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722806",
+      "title": "No One Can Agree If This Desperate Workaround For Fixing Marvel T\u014dkon On PC Actually Helps",
+      "url": "https://kotaku.com/no-one-can-agree-if-this-desperate-workaround-for-fixing-marvel-tokon-on-pc-actually-helps-2000722806",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T17:36:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029622",
+      "title": "Alia Shawkat Talks Reuniting With Kristen Stewart In \u2018The Wrong Girls\u2019 After She \u201cLiterally Was Not Allowed To Speak\u201d In 2010\u2019s \u2018The Runaways\u2019",
+      "url": "https://deadline.com/2026/08/alia-shawkat-reuniting-kristen-stewart-wrong-girls-runaways-1237029622/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T17:39:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665457",
+      "title": "\u2018Destroy All Girls\u2019 Review: A Young Jersey Woman Joins a Group of Itinerant Skater Dudes in a Hip and Evocative Drama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/destroy-all-girls-review-1236665457/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T17:30:00+00:00"
     }
   ]
 }
