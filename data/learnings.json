@@ -1025,22 +1025,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236668943",
-      "title": "Helloooo, Emmy: Art Carney\u2019s Enduring \u2018Honeymooners\u2019 Triumph",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/art-carney-emmy-win-the-honeymooners-1236668943/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120647",
-      "title": "Daydream Darling Is a Shojo Manga About Reconnecting With Reality",
-      "url": "https://www.siliconera.com/daydream-darling-is-a-shojo-manga-about-reconnecting-with-reality/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T19:00:00+00:00"
-    },
-    {
       "guid": "57goJjPLUFJWRS4THcnb3M",
       "title": "Lies of P studio reveals name change and hypes up sequel: 'My goal has been to create the world's greatest action game.'",
       "url": "https://www.pcgamer.com/games/action/lies-of-p-studio-reveals-name-change-and-hypes-up-sequel-my-goal-has-been-to-create-the-worlds-greatest-action-game/",
@@ -1159,6 +1143,14 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-09T21:38:01+00:00"
+    },
+    {
+      "guid": "eJdyqBtmfdx2zTkvkyFsoZ",
+      "title": "Lanterns showrunner hints that the grounded DC show might go cosmic: \"We'd be stupid not to use everything that you can do inside the Green Lantern universe\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-showrunner-hints-that-the-grounded-dc-show-might-go-cosmic/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T23:01:00+00:00"
     }
   ]
 }
