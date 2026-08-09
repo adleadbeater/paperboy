@@ -997,35 +997,22 @@
       "article_titles": [
         "Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay"
       ]
+    },
+    {
+      "headline": "PS Plus Games Now Stream to Steam Deck \u2014 No PS5 or PS Portal Required",
+      "tag": "playstation",
+      "posted_at": "2026-08-09T16:18:42.292781+00:00",
+      "urls": [
+        "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi"
+      ],
+      "article_titles": [
+        "You can now stream PS Plus games to Steam Deck without owning a PS5 - and without buying a PS Portal"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/peak-final-major-update",
-      "title": "Peak gets its final major update and a \"new secret for you to discover\" next week",
-      "url": "https://www.eurogamer.net/peak-final-major-update",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T12:07:48+00:00"
-    },
-    {
-      "guid": "WouUwFRJEVUmJKthsAXqMf",
-      "title": "Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive: 'This essentially saved my life'",
-      "url": "https://www.pcgamer.com/games/fps/cancelled-quake-4-expansion-gets-surprise-github-release-after-former-xcom-2-developer-discovers-it-on-an-old-hard-drive-this-essentially-saved-my-life/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T12:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029554",
-      "title": "James Gray Talks Dream Quality Of Cinema As \u2018Paper Tiger\u2019 Ahead Of Locarno Honor & Approach With Cast: \u201cI\u2019m Not A Good Director Of Actors\u201d",
-      "url": "https://deadline.com/2026/08/james-gray-talks-dream-paper-tiger-locarno-honor-actors-1237029554/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T12:06:24+00:00"
-    },
     {
       "guid": "https://otakukart.com/?p=1750118",
       "title": "Crimson Desert Update 1.17.00 Finally Fixes the Quick Slot Bug That Replaced Players\u2019 Food",
@@ -1033,22 +1020,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-09T12:18:45+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750117",
-      "title": "Pok\u00e9mon Pokopia director says Ditto\u2019s ability to learn Pok\u00e9mon moves inspired the game\u2019s world-building system",
-      "url": "https://otakukart.com/pokemon-pokopia-director-says-dittos-ability-to-learn-pokemon-moves-inspired-the-games-world-building-system/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T12:03:39+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=458139",
-      "title": "D&D Accessories: Minis That Will Make Your Adventures Big",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-accessories-minis-that-will-make-your-adventure-big.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T12:00:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000722790",
@@ -1249,6 +1220,54 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-09T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi",
+      "title": "You can now stream PS Plus games to Steam Deck without owning a PS5 - and without buying a PS Portal",
+      "url": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T16:16:25+00:00"
+    },
+    {
+      "guid": "RNCc33qnVDpESJaaX7LeuQ",
+      "title": "Fields of Mistria's cast has me head over heels in a way no farm sim has since Stardew Valley",
+      "url": "https://www.pcgamer.com/games/life-sim/fields-of-mistrias-cast-has-me-head-over-heels-in-a-way-no-farm-sim-has-since-stardew-valley/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T16:00:00+00:00"
+    },
+    {
+      "guid": "PLQMfzEkfm4RrfDM5J57mA",
+      "title": "Hit markers are an FPS crutch",
+      "url": "https://www.pcgamer.com/games/fps/hit-markers-are-an-fps-crutch/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029582",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Is Second-Fastest Film To Cross $1B At Int\u2019l Box Office; Global Now At $1.67B",
+      "url": "https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T16:05:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830845",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Becomes Second-Fastest Movie to Hit $1 Billion Overseas, Powers to $1.67 Billion Globally",
+      "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-second-fastest-movie-1-billion-overseas-1236830845/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:59:58+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669413",
+      "title": "\u2018PAW Patrol: The Dino Movie\u2019 Review: Busy New Entry in Pup Franchise Is Exactly What You\u2019d Expect",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/paw-patrol-the-dino-movie-review-1236669413/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:57:30+00:00"
     }
   ]
 }
