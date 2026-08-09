@@ -986,6 +986,17 @@
         "Netflix\u2019s Final Season Of The Witcher Reportedly Pushed Back To 2027",
         "The Witcher Season 5 Reportedly Delayed to 2027 After Netflix Previously Planned a 2026 Release"
       ]
+    },
+    {
+      "headline": "EA Quietly Killed Battlefield 6's Rush Mode From Quickplay \u2014 Then Steam Refunded a Player With 470 Hours",
+      "tag": "battlefield 6",
+      "posted_at": "2026-08-09T15:54:00.413804+00:00",
+      "urls": [
+        "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode"
+      ],
+      "article_titles": [
+        "Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1030,14 +1041,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-09T12:03:39+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750116",
-      "title": "Nintendo Switch 2\u2019s 2026 Lineup Is Turning Into a Serious Game of the Year Contender",
-      "url": "https://otakukart.com/nintendo-switch-2s-2026-lineup-is-turning-into-a-serious-game-of-the-year-contender/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T11:49:04+00:00"
     },
     {
       "guid": "https://www.belloflostsouls.net/?p=458139",
@@ -1214,6 +1217,38 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-09T15:22:42+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
+      "title": "Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay",
+      "url": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:28:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029595",
+      "title": "Benson Boone Postpones Sacramento Show After \u201cFighting Like Hell\u201d To Get Voice Back",
+      "url": "https://deadline.com/2026/08/benson-boone-postpones-sacramento-fighting-like-hell-voice-1237029595/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:53:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669418",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Scores $145M for Third-Best Second Weekend Ever",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-second-weekend-1236669418/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T15:46:45+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615708",
+      "title": "The D&D Classic Collection Humble Bundle \u2013 Gold Box Greatness For Your PC",
+      "url": "https://www.belloflostsouls.net/2026/08/the-dd-classic-collection-humble-bundle-gold-box-greatness-for-your-pc.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T15:30:00+00:00"
     }
   ]
 }
