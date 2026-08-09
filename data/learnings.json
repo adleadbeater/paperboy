@@ -979,84 +979,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237029390",
-      "title": "Melissa Barrera Takes Weekend Off From Broadway\u2019s \u2018Titanique\u2019 After She \u201cLost My Voice\u201d On-Stage",
-      "url": "https://deadline.com/2026/08/melissa-barrera-takes-weekend-off-titanique-lost-voice-1237029390/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T20:20:28+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669431",
-      "title": "Monica Barbaro Teases Luca Guadagnino\u2019s OpenAI Film \u2018Artificial,\u2019 Addresses Timoth\u00e9e Chalamet\u2019s Ballet Comments",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-barbaro-openai-artificial-timothee-chalamet-ballet-1236669431/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T20:35:24+00:00"
-    },
-    {
-      "guid": "https://www.videogameschronicle.com/?p=243612",
-      "title": "THQ Nordic says it has 12 unannounced games in development",
-      "url": "https://www.videogameschronicle.com/news/thq-nordic-says-it-has-12-unannounced-games-in-development/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T21:50:21+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000722712",
-      "title": "Just About Everything Other Than The Music Sells Out In NIN\u2019s 30th Anniversary Quake Collection",
-      "url": "https://kotaku.com/just-about-everything-other-than-the-music-sells-out-in-nins-30th-anniversary-quake-collection-2000722712",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T21:21:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029438",
-      "title": "\u2018Monsters Of God\u2019 Slithers Onto HBO: Reptilian Docuseries From \u2018Tiger King\u2019s Eric Goode",
-      "url": "https://deadline.com/2026/08/monsters-of-god-interview-eric-goode-1237029438/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T21:50:50+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029395",
-      "title": "\u2018Heated Rivalry\u2019 Author Appears To Dismiss Negative Reactions To Season 2 Casting",
-      "url": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T21:25:40+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669337",
-      "title": "Nordstrom Anniversary Sale Ends Sunday Night: Here Are the Most Popular Purchases of 2026 (So Far)",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/most-popular-nordstrom-anniversary-sale-items-2026-top-deals-1236669337/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T21:42:03+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-204770",
       "title": "'It's Really Sh*t': Disaster for Marvel Tokon as FGC Icon Uninstalls Botched PC Port Live on Stream",
       "url": "https://www.pushsquare.com/news/2026/08/its-really-sht-disaster-for-marvel-tokon-as-fgc-icon-uninstalls-botched-pc-port-live-on-stream",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-08T23:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830685",
-      "title": "\u2018Heated Rivalry\u2019 Author Brushes Off Negativity Surrounding Season 2 Casting",
-      "url": "https://variety.com/2026/tv/news/heated-rivalry-author-negativity-season-2-casting-1236830685/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T21:58:33+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669519",
-      "title": "Perez Hilton\u2019s Condition \u201cSerious but Stable\u201d Amid Hospitalization, Will Require Surgery",
-      "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-condition-serious-stable-require-surgery-1236669519/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-08T22:13:59+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000722718",
@@ -1097,6 +1025,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-08T23:41:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029525",
+      "title": "Matthew McConaughey Performs \u201cQuill\u201d In Scene From \u2018The Rivals of Amziah King\u2019 \u2014 Watch",
+      "url": "https://deadline.com/2026/08/matthew-mcconaughey-performs-quill-rivals-amziah-king-watch-1237029525/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T02:09:45+00:00"
     }
   ]
 }
