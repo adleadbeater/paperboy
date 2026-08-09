@@ -1008,43 +1008,22 @@
       "article_titles": [
         "You can now stream PS Plus games to Steam Deck without owning a PS5 - and without buying a PS Portal"
       ]
+    },
+    {
+      "headline": "Lies of P Developer Rebrands and Teases Sequel With Grand Ambitions",
+      "tag": "lies of p",
+      "posted_at": "2026-08-09T19:53:23.063281+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/action/lies-of-p-studio-reveals-name-change-and-hypes-up-sequel-my-goal-has-been-to-create-the-worlds-greatest-action-game/"
+      ],
+      "article_titles": [
+        "Lies of P studio reveals name change and hypes up sequel: 'My goal has been to create the world's greatest action game.'"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000722796",
-      "title": "Netflix\u2019s Final Season Of The Witcher Reportedly Pushed Back To 2027",
-      "url": "https://kotaku.com/netflixs-final-season-of-the-witcher-reportedly-pushed-back-to-2027-2000722796",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T15:20:37+00:00"
-    },
-    {
-      "guid": "EGa6DGr8YnVE4f6SLRR6Vn",
-      "title": "The Legend of Zelda: Twilight Princess wasn't enough, you can now run Ocarina of Time and Majora's Mask natively on IOS",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-twilight-princess-wasnt-enough-you-can-now-run-ocarina-of-time-and-majoras-mask-natively-on-ios/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T15:10:12+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750089",
-      "title": "One Piece Chapter 1191: Spoilers, Summary and Pics",
-      "url": "https://otakukart.com/one-piece-chapter-1191-spoilers-summary-and-pics/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T15:22:42+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
-      "title": "Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay",
-      "url": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T15:28:46+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237029595",
       "title": "Benson Boone Postpones Sacramento Show After \u201cFighting Like Hell\u201d To Get Voice Back",
@@ -1052,22 +1031,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-09T15:53:22+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669418",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Scores $145M for Third-Best Second Weekend Ever",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-second-weekend-1236669418/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T15:46:45+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=615708",
-      "title": "The D&D Classic Collection Humble Bundle \u2013 Gold Box Greatness For Your PC",
-      "url": "https://www.belloflostsouls.net/2026/08/the-dd-classic-collection-humble-bundle-gold-box-greatness-for-your-pc.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T15:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi",
@@ -1276,6 +1239,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-09T18:52:21+00:00"
+    },
+    {
+      "guid": "57goJjPLUFJWRS4THcnb3M",
+      "title": "Lies of P studio reveals name change and hypes up sequel: 'My goal has been to create the world's greatest action game.'",
+      "url": "https://www.pcgamer.com/games/action/lies-of-p-studio-reveals-name-change-and-hypes-up-sequel-my-goal-has-been-to-create-the-worlds-greatest-action-game/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T19:33:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029662",
+      "title": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
+      "url": "https://deadline.com/2026/08/summer-domestic-box-office-record-spider-man-odyssey-1237029662/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T19:45:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029635",
+      "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
+      "url": "https://deadline.com/2026/08/paramount-wbd-regal-amc-deals-1237029635/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T19:21:43+00:00"
     }
   ]
 }
