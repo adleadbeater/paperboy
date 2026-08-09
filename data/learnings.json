@@ -1014,14 +1014,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://otakukart.com/?p=1750118",
-      "title": "Crimson Desert Update 1.17.00 Finally Fixes the Quick Slot Bug That Replaced Players\u2019 Food",
-      "url": "https://otakukart.com/crimson-desert-update-1-17-00-finally-fixes-the-quick-slot-bug-that-replaced-players-food/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T12:18:45+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000722790",
       "title": "Asmongold Says Twitch Banned Him For 14 Days After Latest Vile Comments: \u2018I\u2019m Not Sorry\u2019",
       "url": "https://kotaku.com/asmongold-says-twitch-banned-him-for-14-days-after-latest-vile-comments-im-not-sorry-2000722790",
@@ -1036,38 +1028,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-09T13:06:21+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204775",
-      "title": "Round Up: The Reviews For Pok\u00e9mon Pokopia: Bubbly Basin Are In",
-      "url": "https://www.nintendolife.com/news/2026/08/round-up-the-reviews-for-pokemon-pokopia-bubbly-basin-are-in",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204771",
-      "title": "PS5's Fastest Growing Open World Adds Beach Volleyball, Jet Skis, and Construction Work",
-      "url": "https://www.pushsquare.com/news/2026/08/ps5s-fastest-growing-open-world-adds-beach-volleyball-jet-skis-and-construction-work",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120631",
-      "title": "Review: Undercoders Wasn\u2019t Afraid to Go Off the Rails With Denshattack",
-      "url": "https://www.siliconera.com/review-undercoders-wasnt-afraid-to-go-off-the-rails-with-denshattack/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T13:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750120",
-      "title": "The Witcher Season 5 Reportedly Delayed to 2027 After Netflix Previously Planned a 2026 Release",
-      "url": "https://otakukart.com/the-witcher-season-5-reportedly-delayed-to-2027-after-netflix-previously-planned-a-2026-release/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T12:59:47+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236830809",
@@ -1268,6 +1228,62 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-09T15:57:30+00:00"
+    },
+    {
+      "guid": "zUZazf4X3eMgKgPpjK84C8",
+      "title": "The last season of Netflix's Witcher show has reportedly been delayed",
+      "url": "https://www.pcgamer.com/movies-tv/the-last-season-of-netflixs-witcher-show-has-reportedly-been-delayed/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T16:27:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029600",
+      "title": "\u2018Five Nights at Freddy\u2019s\u2019 Immersive Freddy Fazbear\u2019s Pizza Opening In N.J. Mall",
+      "url": "https://deadline.com/2026/08/five-nights-at-freddys-immersive-freddy-fazbears-pizza-nj-1237029600/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T16:59:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830775",
+      "title": "Olivia Wilde Calls \u2018The Invite\u2019 the \u2018Most Incredible\u2019 Experience of Her Life: \u2018It Was the Highlight of My Career\u2019",
+      "url": "https://variety.com/2026/film/global/olivia-wilde-the-invite-locarno-comedy-1236830775/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T16:44:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668912",
+      "title": "How the Late-Night Emmy Became the Anti-Trump Award",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/how-late-night-emmy-anti-trump-1236668912/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669685",
+      "title": "\u2018Spring Story,\u2019 \u2018The Surub\u00ed,\u2019 \u2018Yazz\u2019 Among Locarno Pro Winners",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-industry-winners-2026-spring-story-surubi-yazz-1236669685/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T17:00:00+00:00"
+    },
+    {
+      "guid": "VVEfZLHSvwvqnj4UvfRri8",
+      "title": "\"I'm a little disappointed with Rockstar\": GTA 5 and Red Dead Redemption actor auditioned for over 60 roles in GTA 6 and never heard back",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/im-a-little-disappointed-with-rockstar-gta-5-and-red-dead-redemption-actor-auditioned-for-over-60-roles-in-gta-6-and-never-heard-back/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T17:00:00+00:00"
+    },
+    {
+      "guid": "BAApwJ9k4URHTqjYWUDUCP",
+      "title": "Diablo 4: Lord of Hatred and Overwatch's resurgence reportedly drove Blizzard to its \"first back-to-back years of growth\" in almost 10 years",
+      "url": "https://www.gamesradar.com/games/fps/diablo-4-lord-of-hatred-and-overwatchs-resurgence-reportedly-drove-blizzard-to-its-first-back-to-back-years-of-growth-in-almost-10-years/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-09T16:27:41+00:00"
     }
   ]
 }
