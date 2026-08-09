@@ -1014,14 +1014,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236830809",
-      "title": "Protest at the Locarno Film Festival Remembers 60,000 Names of the Dead of Gaza",
-      "url": "https://variety.com/2026/film/global/gaza-protest-locarno-film-festival-palestine-israel-1236830809/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T13:59:48+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/lies-of-p-studio-next-game-tease",
       "title": "New Lies of P documentary teases next game \"is going to be really fun and emotionally moving\"",
       "url": "https://www.eurogamer.net/lies-of-p-studio-next-game-tease",
@@ -1276,6 +1268,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-09T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830819",
+      "title": "The Blockbuster Mentality Is Back, Baby!",
+      "url": "https://variety.com/2026/film/columns/the-blockbuster-mentallity-is-back-baby-spider-man-1236830819/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T18:06:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830901",
+      "title": "\u2018Five Nights at Freddy\u2019s\u2019 to Open Real Freddy Fazbear\u2019s Pizza Location in 2027",
+      "url": "https://variety.com/2026/film/news/five-nights-at-freddys-real-life-freddy-fazbears-pizza-1236830901/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T17:59:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668913",
+      "title": "What Finally Made Rafael Nadal Quit? Netflix\u2019s \u2018Rafa\u2019 Has the Answer",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/documentary-spotlight-game-set-match-1236668913/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669756",
+      "title": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/letterboxd-responds-app-crash-users-signed-out-accounts-1236669756/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T17:55:26+00:00"
     }
   ]
 }
