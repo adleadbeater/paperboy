@@ -1025,38 +1025,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237029600",
-      "title": "\u2018Five Nights at Freddy\u2019s\u2019 Immersive Freddy Fazbear\u2019s Pizza Opening In N.J. Mall",
-      "url": "https://deadline.com/2026/08/five-nights-at-freddys-immersive-freddy-fazbears-pizza-nj-1237029600/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T16:59:17+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236668912",
-      "title": "How the Late-Night Emmy Became the Anti-Trump Award",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/how-late-night-emmy-anti-trump-1236668912/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669685",
-      "title": "\u2018Spring Story,\u2019 \u2018The Surub\u00ed,\u2019 \u2018Yazz\u2019 Among Locarno Pro Winners",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/locarno-pro-industry-winners-2026-spring-story-surubi-yazz-1236669685/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T17:00:00+00:00"
-    },
-    {
-      "guid": "VVEfZLHSvwvqnj4UvfRri8",
-      "title": "\"I'm a little disappointed with Rockstar\": GTA 5 and Red Dead Redemption actor auditioned for over 60 roles in GTA 6 and never heard back",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/im-a-little-disappointed-with-rockstar-gta-5-and-red-dead-redemption-actor-auditioned-for-over-60-roles-in-gta-6-and-never-heard-back/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T17:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000722806",
       "title": "No One Can Agree If This Desperate Workaround For Fixing Marvel T\u014dkon On PC Actually Helps",
       "url": "https://kotaku.com/no-one-can-agree-if-this-desperate-workaround-for-fixing-marvel-tokon-on-pc-actually-helps-2000722806",
@@ -1255,6 +1223,22 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-08-09T20:50:00+00:00"
+    },
+    {
+      "guid": "jgfWyg4XcSrR6QzWdNCHdX",
+      "title": "The designer of Diamond City, Little Lamplight, and Starfield's Neon thinks Bethesda's galaxy was just too big: 'I would have done a handful of planets with bespoke layouts'",
+      "url": "https://www.pcgamer.com/games/rpg/the-designer-of-diamond-city-little-lamplight-and-starfields-neon-thinks-bethesdas-galaxy-was-just-too-big-i-would-have-done-a-handful-of-planets-with-bespoke-layouts/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T21:07:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669782",
+      "title": "James Gray Told His Wife He Would Get an Award at Locarno. She Reminded Him to Take Out the Trash",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gray-locarno-award-wife-reminded-him-of-the-trash-1236669782/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T20:58:12+00:00"
     }
   ]
 }
