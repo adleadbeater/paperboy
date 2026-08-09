@@ -1025,30 +1025,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "57goJjPLUFJWRS4THcnb3M",
-      "title": "Lies of P studio reveals name change and hypes up sequel: 'My goal has been to create the world's greatest action game.'",
-      "url": "https://www.pcgamer.com/games/action/lies-of-p-studio-reveals-name-change-and-hypes-up-sequel-my-goal-has-been-to-create-the-worlds-greatest-action-game/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T19:33:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029662",
-      "title": "Summer Domestic Box Office On A Hot Streak, Will Cross $4B By Monday",
-      "url": "https://deadline.com/2026/08/summer-domestic-box-office-record-spider-man-odyssey-1237029662/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T19:45:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029635",
-      "title": "Paramount Making Deals To Theaters For 30 Films A Year Post WBD Acquisition; Cinema United Still Anti-Merger",
-      "url": "https://deadline.com/2026/08/paramount-wbd-regal-amc-deals-1237029635/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T19:21:43+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236830944",
       "title": "Ariana Grande Debuts at No. 1 on Album Chart With \u2018Petal,\u2019 Earning Her Best First-Week Numbers in Seven Years",
       "url": "https://variety.com/2026/music/news/ariana-grande-debut-petal-album-chart-1236830944/",
@@ -1151,6 +1127,46 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-09T23:01:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831024",
+      "title": "Ben Jones, Actor Turned Politician Who Played Cooter Davenport in \u2018The Dukes of Hazzard,\u2019 Dies at 84",
+      "url": "https://variety.com/2026/tv/news/ben-jones-dead-cooter-davenport-the-dukes-of-hazzard-1236831024/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T23:50:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831012",
+      "title": "Phoebe Bridgers Sings about Love and Death and the Whole Damn Thing in \u2018Lost Weekend,\u2019 a Captivating Record Worth the Six-Year Wait: Album Review",
+      "url": "https://variety.com/2026/music/album-reviews/phoebe-bridgers-lost-weekend-album-review-1236831012/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T23:33:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831001",
+      "title": "David Sackeroff, Emmy-Nominated \u2018Seinfeld\u2019 and \u2018Home Improvement\u2019 Production Designer, Dies at 81",
+      "url": "https://variety.com/2026/digital/news/david-sackeroff-dead-seinfeld-production-designer-1236831001/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T23:23:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669823",
+      "title": "Ben Jones, Cooter Davenport on \u2018The Dukes of Hazzard,\u2019 Dies at 84",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/ben-jones-dead-dukes-of-hazzard-cooter-1236669823/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T23:38:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669809",
+      "title": "Justice Smith Responds to \u2018Heated Rivalry\u2019 Casting: \u201cI Am Moved by the Support and Love\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/justice-smith-heated-rivalry-casting-response-1236669809/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T23:24:18+00:00"
     }
   ]
 }
