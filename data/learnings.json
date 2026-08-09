@@ -1025,30 +1025,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000722806",
-      "title": "No One Can Agree If This Desperate Workaround For Fixing Marvel T\u014dkon On PC Actually Helps",
-      "url": "https://kotaku.com/no-one-can-agree-if-this-desperate-workaround-for-fixing-marvel-tokon-on-pc-actually-helps-2000722806",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T17:36:52+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029622",
-      "title": "Alia Shawkat Talks Reuniting With Kristen Stewart In \u2018The Wrong Girls\u2019 After She \u201cLiterally Was Not Allowed To Speak\u201d In 2010\u2019s \u2018The Runaways\u2019",
-      "url": "https://deadline.com/2026/08/alia-shawkat-reuniting-kristen-stewart-wrong-girls-runaways-1237029622/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T17:39:17+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236665457",
-      "title": "\u2018Destroy All Girls\u2019 Review: A Young Jersey Woman Joins a Group of Itinerant Skater Dudes in a Hip and Evocative Drama",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/destroy-all-girls-review-1236665457/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T17:30:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236830819",
       "title": "The Blockbuster Mentality Is Back, Baby!",
       "url": "https://variety.com/2026/film/columns/the-blockbuster-mentallity-is-back-baby-spider-man-1236830819/",
@@ -1071,14 +1047,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-09T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669756",
-      "title": "Letterboxd Responds to Website Crash that Signed Users Out of Accounts",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/letterboxd-responds-app-crash-users-signed-out-accounts-1236669756/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T17:55:26+00:00"
     },
     {
       "guid": "ca26e0d9-ebcf-4ad7-8e39-4a13fde5ebca",
@@ -1239,6 +1207,14 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-09T20:58:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722827",
+      "title": "Nintendo Offers Free Repairs To Consoles Damaged In Kumamoto Earthquake",
+      "url": "https://kotaku.com/nintendo-offers-free-repairs-to-consoles-damaged-in-kumamoto-earthquake-2000722827",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-09T21:38:01+00:00"
     }
   ]
 }
