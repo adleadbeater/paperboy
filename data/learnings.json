@@ -1,76 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Henry Cavill Is Producing a Warhammer 40,000 Animated Series at Amazon",
-      "tag": "warhammer 40,000",
-      "posted_at": "2026-08-03T13:01:06.335779+00:00",
-      "urls": [
-        "https://variety.com/2026/tv/news/warhammer-40000-animated-series-amazon-henry-cavill-1236825210/"
-      ],
-      "article_titles": [
-        "\u2018Warhammer 40,000\u2019 Animated Series in Development at Amazon, Henry Cavill to Produce (EXCLUSIVE)"
-      ]
-    },
-    {
-      "headline": "Rust Fan Sues Police After Swatting Attack Leaves Him Paralyzed",
-      "tag": "rust",
-      "posted_at": "2026-08-03T13:01:06.533006+00:00",
-      "urls": [
-        "https://www.ign.com/articles/rust-fan-sues-police-after-swatting-incident-leaves-him-paralyzed"
-      ],
-      "article_titles": [
-        "Rust Fan Sues Police After Swatting Incident Leaves Him Paralyzed"
-      ]
-    },
-    {
-      "headline": "God of War TV Show Will Recast Atreus for Season 2",
-      "tag": "god of war",
-      "posted_at": "2026-08-03T13:31:13.975449+00:00",
-      "urls": [
-        "https://kotaku.com/god-of-war-show-atreus-actor-recast-callum-vinson-amazon-2000721180",
-        "https://www.gamesradar.com/entertainment/amazon-prime-video/god-of-war-tv-show-will-reportedly-recast-atreus-for-season-2/"
-      ],
-      "article_titles": [
-        "The God Of War Show Is Also Recasting Atreus, But Not Until Season 2",
-        "God of War TV show will reportedly recast Atreus for season 2"
-      ]
-    },
-    {
-      "headline": "Fire Emblem: Fortune's Weave is Getting Its Own Direct on August 4",
-      "tag": "fire emblem: fortune's weave",
-      "posted_at": "2026-08-03T14:00:50.713138+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/08/fire-emblem-fortunes-weave-direct-set-for-august-4"
-      ],
-      "article_titles": [
-        "Fire Emblem: Fortune\u2019s Weave Direct set for August 4"
-      ]
-    },
-    {
-      "headline": "Final Fantasy 7 Revelation Reveals Its Job System \u2014 Four Jobs Per Character",
-      "tag": "final fantasy 7 revelation",
-      "posted_at": "2026-08-03T14:00:50.798497+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/08/final-fantasy-7-revelations-surprise-job-system-keeps-things-simple-with-just-four-jobs-per-character"
-      ],
-      "article_titles": [
-        "Final Fantasy 7 Revelation's Surprise Job System Keeps Things Simple with Just Four Jobs Per Character"
-      ]
-    },
-    {
-      "headline": "Valve Is Quietly Finalizing Steam Frame, Its Linux Gaming Software Stack",
-      "tag": "steam",
-      "posted_at": "2026-08-03T14:08:28.042798+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/vr-hardware/valve-may-be-putting-the-finishing-touches-to-the-steam-frame-software-stack-because-lepton-and-fex-are-now-on-steam/",
-        "https://www.pcgamer.com/hardware/vr-hardware/valve-may-be-putting-the-finishing-touches-to-the-steam-frame-software-stack-because-lepton-and-fex-are-now-on-steam/"
-      ],
-      "article_titles": [
-        "Valve may be putting the finishing touches to the Steam Frame software stack, because Lepton and FEX are now on Steam",
-        "Valve may be putting the finishing touches to the Steam Frame software stack, because Lepton and FEX are now on Steam"
-      ]
-    },
-    {
       "headline": "Dragon's Dogma 2 Is Getting a Hard Mode Endgame Difficulty Update",
       "tag": "dragon's dogma 2",
       "posted_at": "2026-08-03T14:31:12.415572+00:00",
@@ -988,6 +918,17 @@
         "Valve issues warning to Steam Machine and Steam Controller customers to \"expect fake messages\" after its European hardware partner is hacked",
         "Steam Machine And Controller User Data Leaks After Valve\u2019s European Supplier Gets Hit With Cyber Attack"
       ]
+    },
+    {
+      "headline": "Marvel T\u014dkon Is Launching on PC With Dire Performance Problems \u2014 and Players Are Getting Creative",
+      "tag": "marvel t\u014dkon",
+      "posted_at": "2026-08-10T14:09:55.562718+00:00",
+      "urls": [
+        "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes"
+      ],
+      "article_titles": [
+        "As developer Arc System Works promises a fix, Marvel T\u014dkon's suffering PC players are creating some bizarre home remedies for its dire performance woes"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1088,6 +1029,190 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-10T12:09:23+00:00"
+    },
+    {
+      "guid": "a3dbec1a-4b5d-4770-a265-908f248cb939",
+      "title": "'Expect Fake Messages': Valve Admits Steam Hardware Owners' Personal Data Likely Stolen",
+      "url": "https://www.ign.com/articles/expect-fake-messages-valve-admits-steam-hardware-owners-personal-data-likely-stolen",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T13:46:31+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes",
+      "title": "As developer Arc System Works promises a fix, Marvel T\u014dkon's suffering PC players are creating some bizarre home remedies for its dire performance woes",
+      "url": "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T13:34:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722989",
+      "title": "No Man\u2019s Sky Studio Director Says He\u2019s Not Rushing To Experiment With AI: \u2018Let\u2019s Just Enjoy Making Games The Way We\u2019ve Always Made Games\u2019",
+      "url": "https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T13:48:22+00:00"
+    },
+    {
+      "guid": "Ef5dyeUWSbwJ2LcGdQiWjc",
+      "title": "Corsair isn't rolling in money from its mega-expensive RAM kits\u2014and it's all thanks to higher component costs and lower demand",
+      "url": "https://www.pcgamer.com/hardware/memory/corsair-isnt-rolling-in-money-from-its-mega-expensive-ram-kits-and-its-all-thanks-to-higher-component-costs-and-lower-demand/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T13:43:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237028603",
+      "title": "Promise AI Developing Horror Feature \u2018Touch Grass\u2019; Dave Clark Directing, Brad Miska And \u2018Backrooms\u2019 EP Chris White Producing",
+      "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:06:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029995",
+      "title": "Animated Horror-Comedy Series \u2018Doomsweepers\u2019 In Works From \u2018Monkie Kid\u2019 Director Sarah Harper, Flying Bark & Lightfold",
+      "url": "https://deadline.com/2026/08/doomsweepers-animated-horror-comedy-revealed-1237029995/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:03:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029100",
+      "title": "\u2018The Sticks\u2019: Scott Bakula, Logan Marshall-Green & More Cast Confirmed; First Look At Netflix YA Hockey Drama Starring Michelle Monaghan",
+      "url": "https://deadline.com/2026/08/the-sticks-scott-bakula-logan-marshall-green-netflix-hockey-1237029100/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029643",
+      "title": "UTA Signs \u2018Tangles\u2019 Director & Giant Ant Founder Leah Nelson",
+      "url": "https://deadline.com/2026/08/uta-tangles-director-giant-ant-founder-leah-nelson-1237029643/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029737",
+      "title": "Don\u2019t Believe Paramount\u2019s Hype: California AG Rob Bonta Claims Ellison Muddying WBD Merger Waters With Misinformation & Side Deals; \u201cWe Intend To Win\u201d \u2013 Guest Column",
+      "url": "https://deadline.com/2026/08/rob-bonta-up-ed-david-ellison-paramount-warner-bros-1237029737/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030057",
+      "title": "\u2018Game Of Thrones: The Mad King\u2019: What The Critics Are Saying About Ambitious Stage Adaptation Following Cancellations; See Production Images",
+      "url": "https://deadline.com/2026/08/game-of-thrones-the-mad-king-reviews-what-critics-saying-1237030057/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T13:47:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830351",
+      "title": "Curtis \u201950 Cent\u2019 Jackson Boards \u2018Payday\u2019 TV Series as Executive Producer (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/50-cent-payday-tv-series-executive-producer-1236830351/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830393",
+      "title": "Jonas Brothers Podcast Coming to Disney+ and Hulu, Along With Five Other iHeartMedia Shows",
+      "url": "https://variety.com/2026/tv/news/jonas-brothers-podcast-disney-plus-hulu-iheartmedia-1236830393/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670102",
+      "title": "Disney Doubles Down on Video Podcasts, Inks Streaming Deal With iHeartMedia",
+      "url": "https://www.hollywoodreporter.com/business/digital/disney-hulu-video-podcasts-iheartmedia-hey-jonas-1236670102/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T14:00:03+00:00"
+    },
+    {
+      "guid": "8URkaKfPqNfyxq696AnQwa",
+      "title": "Rumors swirl for new Lego UCS Millennium Falcon, Helm's Deep, and more",
+      "url": "https://www.gamesradar.com/toys-collectibles/rumors-swirl-for-new-lego-ucs-millennium-falcon-helms-deep-and-more/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T14:05:31+00:00"
+    },
+    {
+      "guid": "xRPZa4Rofrmvo5Qg6RE4zK",
+      "title": "Ahead of an expected D23 X-Men cast reveal, Sadie Sink thinks it's a \"smart choice\" to have a \"younger generation of mutants\" in the MCU",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/ahead-of-an-expected-d23-x-men-cast-reveal-sadie-sink-thinks-its-a-smart-choice-to-have-a-younger-generation-of-mutants-in-the-mcu/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T14:01:20+00:00"
+    },
+    {
+      "guid": "1844256",
+      "title": "GTA 6 Preorder Numbers Won\u2019t Be Revealed Because They Could Be Misleading, Take-Two CEO Says",
+      "url": "https://www.gamespot.com/articles/gta-6-preorder-numbers-wont-be-revealed-because-they-could-be-misleading-take-two-ceo-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T13:44:54+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204796",
+      "title": "The Next Black Myth Game Won't Use AI to Speed Up Development",
+      "url": "https://www.pushsquare.com/news/2026/08/the-next-black-myth-game-wont-use-ai-to-speed-up-development",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068525",
+      "title": "Shepherd dog adventure game Hubert adds PS5 version",
+      "url": "https://www.gematsu.com/2026/08/shepherd-dog-adventure-game-hubert-adds-ps5-version",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T13:59:40+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750292",
+      "title": "Red Riding Hood: A Detective Story Anime Confirmed for 2027 With Yume Miyamoto as Red Riding Hood",
+      "url": "https://otakukart.com/red-riding-hood-a-detective-story-anime-confirmed-for-2027-with-yume-miyamoto-as-red-riding-hood/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T14:03:39+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750165",
+      "title": "PENTAGON Formally Reveals Upcoming City Destinations and Dates for Historic 10th Anniversary Tour",
+      "url": "https://otakukart.com/pentagon-formally-reveals-upcoming-city-destinations-and-dates-for-historic-10th-anniversary-tour/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T13:40:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750177",
+      "title": "AER Entertainment Clarifies Health Concerns Regarding KARA\u2019s Han Seung Yeon",
+      "url": "https://otakukart.com/aer-entertainment-clarifies-health-concerns-regarding-karas-han-seung-yeon/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T13:37:22+00:00"
+    },
+    {
+      "guid": "t3_1vklhnb",
+      "title": "Old source code of CSGO from 2019 leaked online",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vklhnb/old_source_code_of_csgo_from_2019_leaked_online/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T13:52:47+00:00"
+    },
+    {
+      "guid": "t3_1vkluev",
+      "title": "Bloomberg: GameStop\u2019s CEO considering pulling $56B eBay offer, may pursue partnership instead",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vkluev/bloomberg_gamestops_ceo_considering_pulling_56b/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T14:06:27+00:00"
     }
   ]
 }
