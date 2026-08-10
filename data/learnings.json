@@ -1,50 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Buckshot Roulette's Creator Just Dropped a Surprise Mario Party-Style Horror Game",
-      "tag": "buckshot roulette",
-      "posted_at": "2026-08-02T20:02:57.353124+00:00",
-      "urls": [
-        "https://kotaku.com/buckshot-roulette-creator-unleashes-a-new-black-hearted-mario-party-style-massacre-2000721071"
-      ],
-      "article_titles": [
-        "Buckshot Roulette Creator Unleashes A New Black Hearted Mario Party-Style Massacre"
-      ]
-    },
-    {
-      "headline": "Legend of Zelda: Ocarina of Time Remake Receives E10+ Rating, Confirming Content Changes From the N64 Original",
-      "tag": "the legend of zelda",
-      "posted_at": "2026-08-03T10:01:08.266791+00:00",
-      "urls": [
-        "https://otakukart.com/the-legend-of-zelda-ocarina-of-time-remake-gets-e10-rating-confirming-changes-from-original-n64-version/"
-      ],
-      "article_titles": [
-        "The Legend of Zelda: Ocarina of Time Remake Gets E10+ Rating, Confirming Changes From Original N64 Version"
-      ]
-    },
-    {
-      "headline": "Insomniac's Wolverine Game Will Feature Logan's Iconic Bare Butt",
-      "tag": "marvel's wolverine",
-      "posted_at": "2026-08-03T12:00:58.161968+00:00",
-      "urls": [
-        "https://kotaku.com/wolverine-butt-insomniac-marvel-bottom-bum-rear-ass-cheeks-2000721164"
-      ],
-      "article_titles": [
-        "Wolverine\u2019s Going To Get His Butt Out In Insomniac\u2019s New Game"
-      ]
-    },
-    {
-      "headline": "Square Enix Finally Responds to Kingdom Hearts Collection AI Art Controversy",
-      "tag": "kingdom hearts",
-      "posted_at": "2026-08-03T12:31:00.197551+00:00",
-      "urls": [
-        "https://www.eurogamer.net/kingdom-hearts-collection-ai-accusations-response"
-      ],
-      "article_titles": [
-        "Square Enix responds to Kingdom Hearts Collection AI controversy two months after players called it out"
-      ]
-    },
-    {
       "headline": "Henry Cavill Is Producing a Warhammer 40,000 Animated Series at Amazon",
       "tag": "warhammer 40,000",
       "posted_at": "2026-08-03T13:01:06.335779+00:00",
@@ -1019,138 +975,119 @@
       "article_titles": [
         "Lies of P studio reveals name change and hypes up sequel: 'My goal has been to create the world's greatest action game.'"
       ]
+    },
+    {
+      "headline": "Valve warns Steam Machine and Steam Controller owners after European hardware partner suffers cyberattack and data leak",
+      "tag": "valve",
+      "posted_at": "2026-08-10T12:37:34.720424+00:00",
+      "urls": [
+        "https://www.eurogamer.net/valve-steam-machine-controller-europe-logistics-partner-hack",
+        "https://kotaku.com/steam-machine-and-controller-user-data-leaks-after-valves-european-supplier-gets-hit-with-cyber-attack-2000722955"
+      ],
+      "article_titles": [
+        "Valve issues warning to Steam Machine and Steam Controller customers to \"expect fake messages\" after its European hardware partner is hacked",
+        "Steam Machine And Controller User Data Leaks After Valve\u2019s European Supplier Gets Hit With Cyber Attack"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236831024",
-      "title": "Ben Jones, Actor Turned Politician Who Played Cooter Davenport in \u2018The Dukes of Hazzard,\u2019 Dies at 84",
-      "url": "https://variety.com/2026/tv/news/ben-jones-dead-cooter-davenport-the-dukes-of-hazzard-1236831024/",
-      "source_name": "Variety",
+      "guid": "https://www.eurogamer.net/valve-steam-machine-controller-europe-logistics-partner-hack",
+      "title": "Valve issues warning to Steam Machine and Steam Controller customers to \"expect fake messages\" after its European hardware partner is hacked",
+      "url": "https://www.eurogamer.net/valve-steam-machine-controller-europe-logistics-partner-hack",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-08-09T23:50:25+00:00"
+      "published_dt": "2026-08-10T12:25:20+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236831012",
-      "title": "Phoebe Bridgers Sings about Love and Death and the Whole Damn Thing in \u2018Lost Weekend,\u2019 a Captivating Record Worth the Six-Year Wait: Album Review",
-      "url": "https://variety.com/2026/music/album-reviews/phoebe-bridgers-lost-weekend-album-review-1236831012/",
-      "source_name": "Variety",
+      "guid": "https://kotaku.com/?p=2000722955",
+      "title": "Steam Machine And Controller User Data Leaks After Valve\u2019s European Supplier Gets Hit With Cyber Attack",
+      "url": "https://kotaku.com/steam-machine-and-controller-user-data-leaks-after-valves-european-supplier-gets-hit-with-cyber-attack-2000722955",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-08-09T23:33:21+00:00"
+      "published_dt": "2026-08-10T12:10:34+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236831001",
-      "title": "David Sackeroff, Emmy-Nominated \u2018Seinfeld\u2019 and \u2018Home Improvement\u2019 Production Designer, Dies at 81",
-      "url": "https://variety.com/2026/digital/news/david-sackeroff-dead-seinfeld-production-designer-1236831001/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T23:23:47+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669823",
-      "title": "Ben Jones, Cooter Davenport on \u2018The Dukes of Hazzard,\u2019 Dies at 84",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/ben-jones-dead-dukes-of-hazzard-cooter-1236669823/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T23:38:36+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669809",
-      "title": "Justice Smith Responds to \u2018Heated Rivalry\u2019 Casting: \u201cI Am Moved by the Support and Love\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/justice-smith-heated-rivalry-casting-response-1236669809/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-09T23:24:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237027964",
-      "title": "\u2018House of The Dragon\u2019 Co-Creator Ryan Condal And Star Emma D\u2019Arcy Discuss Rhaenyra\u2019s Dark Path, The Battle Of Tumbleton And Hint At What Is In Store For Fourth Season Following Finale",
-      "url": "https://deadline.com/2026/08/house-of-the-dragon-ryan-condal-emma-darcy-1237027964/",
+      "guid": "https://deadline.com/?p=1237029546",
+      "title": "Best Friend Forever Boards TIFF Midnight Madness Malayalam-Language Indian Vampire Thriller \u2018Half\u2019",
+      "url": "https://deadline.com/2026/08/best-friend-forever-midnight-madness-malayalam-vampire-half-1237029546/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-08-10T02:10:00+00:00"
+      "published_dt": "2026-08-10T12:30:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236830274",
-      "title": "\u2018House of the Dragon\u2019 Star Phia Saban on Helaena\u2019s Finale \u2018Tragedy\u2019 and Changes to Maelor Storyline",
-      "url": "https://variety.com/2026/tv/news/helaena-death-explained-house-of-the-dragon-finale-death-explained-phia-saban-1236830274/",
+      "guid": "https://deadline.com/?p=1237030035",
+      "title": "\u2018Sorry, I Didn\u2019t Know\u2019s Historic ITV Run Extends To Seventh Season",
+      "url": "https://deadline.com/2026/08/sorry-i-didnt-know-season-7-record-1237030035/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T12:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831198",
+      "title": "Jeremy Irons, Keke Palmer, Alan Cumming and More Attached to Projects Launching at Toronto Market",
+      "url": "https://variety.com/2026/film/global/jeremy-irons-keke-palmer-alan-cumming-toronto-market-1236831198/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-08-10T02:10:00+00:00"
+      "published_dt": "2026-08-10T12:20:25+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236830373",
-      "title": "\u2018House of the Dragon\u2019 Star Emma D\u2019Arcy and Creator Ryan Condal on Rhaenyra-Daenerys Finale Connection and What All That Death Means for Season 4",
-      "url": "https://variety.com/2026/tv/news/house-of-the-dragon-finale-rhaenyra-season-4-tumbleton-battle-1236830373/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T02:10:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830726",
-      "title": "\u2018House of the Dragon\u2019 Star James Norton on the Irony of Ormund\u2019s [SPOILER], His \u2018Oddly Intimate\u2019 Dynamic With Roddy the Ruin and Why His Love for Daeron Needed to Feel \u2018Real\u2019",
-      "url": "https://variety.com/2026/tv/news/james-norton-ormund-death-house-of-the-dragon-finale-1236830726/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T02:10:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669852",
-      "title": "\u2018House of the Dragon\u2019 Star Shares the Bright Side of That Tragic Finale Twist",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-season-3-finale-death-interview-1236669852/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T02:20:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669847",
-      "title": "\u2018House of the Dragon\u2019 Boss Explains Finale\u2019s Big Book Change",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/house-of-the-dragon-seasson-finale-targaryen-book-change-1236669847/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T02:15:00+00:00"
-    },
-    {
-      "guid": "vpMdQt33qG6q8vSAhAhZ3g",
-      "title": "House of the Dragon showrunner explains why season 3 didn't include the revenge killing viewers were expecting: \"That would be no fun\"",
-      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/house-of-the-dragon-showrunner-explains-why-aegon-didnt-kill-aemond/",
+      "guid": "BNTEDci4BD2rdp98RQFmn9",
+      "title": "Black Myth: Wukong sequel isn't using AI because the devs were inspired by The Odyssey and Christopher Nolan's filmmaking techniques: \"No rush\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/black-myth-wukong-sequel-isnt-using-ai-because-the-devs-were-inspired-by-the-odyssey-and-christopher-nolans-filmmaking-techniques-no-rush/",
       "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-08-10T02:10:00+00:00"
+      "published_dt": "2026-08-10T12:34:20+00:00"
     },
     {
-      "guid": "Q8DChV3eauS7J26zqBgAqC",
-      "title": "House of the Dragon showrunner teases \"new dragons\" in \"a very worthy\" final season of the hit HBO show",
-      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/house-of-the-dragon-showrunner-teases-a-very-worthy-final-season-of-the-hit-hbo-show/",
+      "guid": "3ektMkPARrvDsGHxtsABa8",
+      "title": "SanDisk's new Optimus line provides more storage options for Xbox players with its new up to 2TB expansion cards",
+      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/sandisks-new-optimus-line-provides-more-storage-options-for-xbox-players-with-its-new-up-to-2tb-expansion-cards/",
       "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-08-10T02:10:00+00:00"
+      "published_dt": "2026-08-10T12:20:16+00:00"
     },
     {
-      "guid": "ZbSbFpUPj6nk5DgtM252ZV",
-      "title": "House of the Dragon season 4 release date speculation, cast, plot, and more news",
-      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/house-of-the-dragon-season-4-release-date-cast-plot-trailer-news/",
-      "source_name": "GamesRadar",
+      "guid": "https://www.timeextension.com/#article-193327",
+      "title": "\"Please Wait Just A Little Longer\" - Dempa Shimbun Offers Encouraging Update On The Delayed PasocomMini PC-8801mk\u2161SR",
+      "url": "https://www.timeextension.com/news/2026/08/please-wait-just-a-little-longer-dempa-shimbun-offers-encouraging-update-on-the-delayed-pasocommini-pc-8801mksr",
+      "source_name": "Time Extension",
       "source_tier": 2,
-      "published_dt": "2026-08-10T02:10:00+00:00"
+      "published_dt": "2026-08-10T12:30:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1068382",
-      "title": "This Week\u2019s Japanese Game Releases: The Elder Scrolls IV: Oblivion Remastered for Switch 2, Duskfade, more",
-      "url": "https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-the-elder-scrolls-iv-oblivion-remastered-for-switch-2-duskfade-more",
+      "guid": "https://www.gematsu.com/?p=1068427",
+      "title": "Rebuilt platformer Knytt Classic now available for PC",
+      "url": "https://www.gematsu.com/2026/08/rebuilt-platformer-knytt-classic-now-available-for-pc",
       "source_name": "Gematsu",
       "source_tier": 2,
-      "published_dt": "2026-08-10T02:07:41+00:00"
+      "published_dt": "2026-08-10T12:29:35+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237029830",
-      "title": "Set Decorators Society Of America TV Awards Go To \u2018Widow\u2019s Bay,\u2019 \u2018Fallout,\u2019 \u2018Wednesday,\u2019 & More",
-      "url": "https://deadline.com/2026/08/set-decorators-society-of-america-awards-1237029830/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T02:47:01+00:00"
+      "guid": "https://otakukart.com/?p=1750246",
+      "title": "The First Descendant Season 4 Adds 11 Transcendent Weapons and New Roguelike Trials Content",
+      "url": "https://otakukart.com/the-first-descendant-season-4-adds-11-transcendent-weapons-and-new-roguelike-trials-content/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T12:35:30+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750211",
+      "title": "Hogwarts Legacy Drops to $8.99 and Batman: Arkham Trilogy Falls to $23.99 in Nintendo Switch eShop Sale",
+      "url": "https://otakukart.com/hogwarts-legacy-drops-to-8-99-and-batman-arkham-trilogy-falls-to-23-99-in-nintendo-switch-eshop-sale/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T12:27:23+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750207",
+      "title": "The Elder Scrolls 4: Oblivion Remastered File Size Revealed at 61.5GB on Nintendo Switch 2",
+      "url": "https://otakukart.com/the-elder-scrolls-4-oblivion-remastered-file-size-revealed-at-61-5gb-on-nintendo-switch-2/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T12:09:23+00:00"
     }
   ]
 }
