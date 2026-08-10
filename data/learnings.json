@@ -1,58 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Dragon's Dogma 2 Is Getting a Hard Mode Endgame Difficulty Update",
-      "tag": "dragon's dogma 2",
-      "posted_at": "2026-08-03T14:31:12.415572+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/rpg/dragons-dogma-2-will-be-getting-an-endgame-hard-mode-difficulty-in-the-future-for-seasoned-players/"
-      ],
-      "article_titles": [
-        "Dragon's Dogma 2 will be getting an endgame hard mode difficulty in the future 'for seasoned players'"
-      ]
-    },
-    {
-      "headline": "Spider-Man: Brand New Day Smashes Box Office Records With $360M Opening \u2014 Biggest Domestic Weekend Ever",
-      "tag": "spider-man",
-      "posted_at": "2026-08-03T15:01:12.058182+00:00",
-      "urls": [
-        "https://deadline.com/2026/08/box-office-spider-man-brand-new-day-1237014268/",
-        "https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-record-avengers-endgame-1236826336/",
-        "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-opening-record-endgame-box-office-1236662986/",
-        "https://www.pushsquare.com/news/2026/08/sonys-spider-man-games-enjoy-player-boost-on-back-of-brand-new-days-box-office-success",
-        "https://kotaku.com/spider-man-brand-new-day-mcu-marvel-opening-weekend-billion-2000721174"
-      ],
-      "article_titles": [
-        "\u2018Spider-Man: Brand New Day\u2019 With $360M Is Now Biggest Opening Ever At Domestic Box Office \u2013 Monday AM Update",
-        "\u2018Spider-Man\u2019 Beats \u2018Avengers: Endgame\u2019 as \u2018Brand New Day\u2019 Climbs to $360 Million, the Biggest Opening Weekend in Box Office History",
-        "Spidey Surprise! \u2018Brand New Day\u2019 Lands Top Opening Weekend Ever With $360M, Beating \u2018Avengers: Endgame\u2019",
-        "Sony's Spider-Man Games Enjoy Player Boost on Back of Brand New Day's Box Office Success",
-        "Spider-Man: Brand New Day Makes Almost A Billion Dollars In Its Opening Weekend"
-      ]
-    },
-    {
-      "headline": "Attack on Titan 3 Game Announced for December 10 Launch",
-      "tag": "attack on titan",
-      "posted_at": "2026-08-03T15:31:08.368758+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/08/attack-on-titan-3-launches-december-10"
-      ],
-      "article_titles": [
-        "Attack on Titan 3 launches December 10"
-      ]
-    },
-    {
-      "headline": "Palworld Is Getting a Full Online MMO \u2014 Launching in Less Than Four Months",
-      "tag": "palworld",
-      "posted_at": "2026-08-03T15:31:08.592712+00:00",
-      "urls": [
-        "https://kotaku.com/palworld-online-mmo-mobile-pocketpair-garena-2000721168"
-      ],
-      "article_titles": [
-        "Palworld Online MMO Announced, Releases In Less Than Four Months"
-      ]
-    },
-    {
       "headline": "Xbox Price Hikes Are Now Live \u2014 Here's What's Changed Worldwide",
       "tag": "xbox",
       "posted_at": "2026-08-03T16:31:11.959166+00:00",
@@ -929,6 +877,27 @@
       "article_titles": [
         "As developer Arc System Works promises a fix, Marvel T\u014dkon's suffering PC players are creating some bizarre home remedies for its dire performance woes"
       ]
+    },
+    {
+      "headline": "1666: Amsterdam, the Assassin's Creed Creator's Witchy Roguelike, Launches Early Access August 25",
+      "tag": "1666: amsterdam",
+      "posted_at": "2026-08-10T16:14:45.728113+00:00",
+      "urls": [
+        "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
+        "https://www.pcgamer.com/games/action/1666-amsterdam-has-the-makings-of-something-brilliant-but-i-came-away-from-its-preview-with-a-bad-feeling-as-its-early-access-release-creeps-too-close-for-comfort/",
+        "https://www.gamesradar.com/games/action/former-assassins-creed-leads-new-game-has-a-roguelike-twist-with-randomized-abilities-that-reset-on-death-and-your-witchy-protagonist-will-look-great-using-them/",
+        "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/",
+        "https://www.gamesradar.com/games/action/1666-amsterdam-feels-like-the-assassins-creed-game-that-never-was-and-fighting-witch-hunters-with-my-time-traveling-familiar-left-me-hungry-for-more/",
+        "https://www.gematsu.com/2026/08/1666-amsterdam-launches-in-early-access-on-august-25"
+      ],
+      "article_titles": [
+        "Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected",
+        "1666: Amsterdam has the makings of something brilliant but I came away from its preview with a bad feeling as it's early access release creeps too close for comfort",
+        "Former Assassin's Creed lead's new game has a roguelike twist with randomized abilities that reset on death, and your witchy protagonist will look great using them",
+        "With gen AI assets cut from Assassin's Creed creator's new game demo, lead admits \"we didn't even realize it was AI anymore because we were used to seeing it\"",
+        "1666 Amsterdam feels like the Assassin's Creed game that never was, and fighting witch hunters with my time-traveling familiar left me hungry for more",
+        "1666: Amsterdam launches in Early Access on August 25"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -943,28 +912,12 @@
       "published_dt": "2026-08-10T12:25:20+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000722955",
-      "title": "Steam Machine And Controller User Data Leaks After Valve\u2019s European Supplier Gets Hit With Cyber Attack",
-      "url": "https://kotaku.com/steam-machine-and-controller-user-data-leaks-after-valves-european-supplier-gets-hit-with-cyber-attack-2000722955",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T12:10:34+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237029546",
       "title": "Best Friend Forever Boards TIFF Midnight Madness Malayalam-Language Indian Vampire Thriller \u2018Half\u2019",
       "url": "https://deadline.com/2026/08/best-friend-forever-midnight-madness-malayalam-vampire-half-1237029546/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-10T12:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237030035",
-      "title": "\u2018Sorry, I Didn\u2019t Know\u2019s Historic ITV Run Extends To Seventh Season",
-      "url": "https://deadline.com/2026/08/sorry-i-didnt-know-season-7-record-1237030035/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T12:05:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236831198",
@@ -1021,14 +974,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-10T12:27:23+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750207",
-      "title": "The Elder Scrolls 4: Oblivion Remastered File Size Revealed at 61.5GB on Nintendo Switch 2",
-      "url": "https://otakukart.com/the-elder-scrolls-4-oblivion-remastered-file-size-revealed-at-61-5gb-on-nintendo-switch-2/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T12:09:23+00:00"
     },
     {
       "guid": "a3dbec1a-4b5d-4770-a265-908f248cb939",
@@ -1437,6 +1382,190 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-08-10T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
+      "title": "Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected",
+      "url": "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:02:09+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723023",
+      "title": "Upcoming Halloween Game Banned In Australia Over Drugs And Now Some GTA 6 Fans Are Worried",
+      "url": "https://kotaku.com/upcoming-halloween-game-banned-in-australia-over-drugs-and-now-some-gta-6-fans-are-worried-2000723023",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:00:18+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722990",
+      "title": "Ubisoft\u2019s Division Spin-Off Gets Dragged On Steam For Microtransactions And Terrible UI",
+      "url": "https://kotaku.com/the-division-resurgence-steam-pc-port-user-reviews-microtransactions-ui-mixed-negative-2000722990",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T15:45:53+00:00"
+    },
+    {
+      "guid": "mEk6MPZRqqZErnKx48pywQ",
+      "title": "1666: Amsterdam has the makings of something brilliant but I came away from its preview with a bad feeling as it's early access release creeps too close for comfort",
+      "url": "https://www.pcgamer.com/games/action/1666-amsterdam-has-the-makings-of-something-brilliant-but-i-came-away-from-its-preview-with-a-bad-feeling-as-its-early-access-release-creeps-too-close-for-comfort/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:08:34+00:00"
+    },
+    {
+      "guid": "WuZgnDSbWccxY2xT6TSnDL",
+      "title": "Keychron is experimenting with a mic-equipped mini keeb that lets you chat to your AI agent while it vibe codes, and I have my head in my hands",
+      "url": "https://www.pcgamer.com/software/ai/keychron-is-experimenting-with-a-mic-equipped-mini-keeb-that-lets-you-chat-to-your-ai-agent-while-it-vibe-codes-and-i-have-my-head-in-my-hands/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:05:36+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030092",
+      "title": "Netflix Wraps Upfront, Doubling Ad Commitments; Women\u2019s World Cup Inventory Nearly Sold Out",
+      "url": "https://deadline.com/2026/08/netflix-wraps-upfront-fifa-womens-world-cup-1237030092/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:07:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030140",
+      "title": "L.A. Creator Sachin Kumar Launches Prema Creative Co. With Vertical Comedy Series About Indian-American Actor In Hollywood",
+      "url": "https://deadline.com/2026/08/sachin-kumar-typecast-vertical-video-company-launch-1237030140/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:04:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029534",
+      "title": "Green Day\u2019s Billie Joe Armstrong On How His Son Helped Make \u2018Nimrods\u2019 Feel \u201cCurrent,\u201d Potential Of \u2018American Idiot\u2019 Movie Musical: \u201cWe Talk About It\u201d",
+      "url": "https://deadline.com/2026/08/green-day-billie-joe-armstrong-son-helped-make-nimrods-1237029534/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030136",
+      "title": "Jane Krakowski & Angourie Rice Star In Coming-Of-Age Drama \u2018Nice Eggs\u2019 From Director Amanda Lipitz",
+      "url": "https://deadline.com/2026/08/jane-krakowski-angourie-rice-star-nice-eggs-1237030136/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T15:51:46+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670178",
+      "title": "Danny Boyle\u2019s Rupert Murdoch Movie \u2018Ink\u2019 Sets December Theatrical Release From Netflix",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ink-danny-boyle-rupert-murdoch-release-date-netflix-1236670178/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:05:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669536",
+      "title": "Taika Waititi to Host amfAR Venezia Gala",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/amfar-venice-gala-taika-waititi-host-bebe-rexha-marina-1236669536/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669575",
+      "title": "Inside the Scrappy Film That Brought Matthew McConaughey Back to Acting",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/rivals-of-amziah-king-matthew-mcconaughey-andrew-patterson-1236669575/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669907",
+      "title": "Peacock Drops First Look at Hugh Laurie and Amy Poehler in \u2018Dig\u2019 From Mike Schur and J.J. Philbin",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/peacock-series-dig-amy-poehler-hugh-laurie-1236669907/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T16:00:00+00:00"
+    },
+    {
+      "guid": "Dk2rJLvdgrR563XkWi2dt",
+      "title": "With an even bigger caveat than Capcom and Sony, Square Enix reports 90% of its game sales are digital ahead of Final Fantasy 7 Revelation release",
+      "url": "https://www.gamesradar.com/games/with-an-even-bigger-caveat-than-capcom-and-sony-square-enix-reports-90-percent-of-its-game-sales-are-digital-ahead-of-final-fantasy-7-revelation-release/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:06:37+00:00"
+    },
+    {
+      "guid": "P4M7nu4BDGJSGd4Zxr2pcQ",
+      "title": "\"Expect fake messages\" - Valve's EU shipping partner suffers a data breach, so if you bought a Steam Machine or Steam Controller, you may need to be on guard",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/expect-fake-messages-valves-eu-shipping-partner-suffers-a-data-breach-so-if-you-bought-a-steam-machine-or-steam-controller-you-may-need-to-be-on-guard/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:06:03+00:00"
+    },
+    {
+      "guid": "Zf37myYJ9yv5KJ4ZebgYVT",
+      "title": "Former Assassin's Creed lead's new game has a roguelike twist with randomized abilities that reset on death, and your witchy protagonist will look great using them",
+      "url": "https://www.gamesradar.com/games/action/former-assassins-creed-leads-new-game-has-a-roguelike-twist-with-randomized-abilities-that-reset-on-death-and-your-witchy-protagonist-will-look-great-using-them/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:05:00+00:00"
+    },
+    {
+      "guid": "YAbGr7tTgNrUfh7qvqDBod",
+      "title": "With gen AI assets cut from Assassin's Creed creator's new game demo, lead admits \"we didn't even realize it was AI anymore because we were used to seeing it\"",
+      "url": "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:05:00+00:00"
+    },
+    {
+      "guid": "YwiWryc92wWyRDdV5HtGf5",
+      "title": "House of the Dragon season 3 puts a surprise twist on Alys Rivers, which could mean she appears in the Aegon's Conquest movie",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/house-of-the-dragon-season-3-puts-a-surprise-twist-on-alys-rivers-which-could-mean-she-appears-in-the-aegons-conquest-movie/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:02:59+00:00"
+    },
+    {
+      "guid": "WE5BCHbLXHxBvTuYbCU8PM",
+      "title": "1666 Amsterdam feels like the Assassin's Creed game that never was, and fighting witch hunters with my time-traveling familiar left me hungry for more",
+      "url": "https://www.gamesradar.com/games/action/1666-amsterdam-feels-like-the-assassins-creed-game-that-never-was-and-fighting-witch-hunters-with-my-time-traveling-familiar-left-me-hungry-for-more/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204804",
+      "title": "A Decade Later, No Man's Sky Fans Have Explored Less Than 1% Of Its Planets",
+      "url": "https://www.nintendolife.com/news/2026/08/a-decade-later-no-mans-sky-fans-have-explored-less-than-1percent-of-its-planets",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120880",
+      "title": "Patlabor: The Case Files Release Date Set",
+      "url": "https://www.siliconera.com/patlabor-the-case-files-release-date-set/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:00:04+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068424",
+      "title": "1666: Amsterdam launches in Early Access on August 25",
+      "url": "https://www.gematsu.com/2026/08/1666-amsterdam-launches-in-early-access-on-august-25",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:06:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068550",
+      "title": "Village in the Shade launches October 27 in the west",
+      "url": "https://www.gematsu.com/2026/08/village-in-the-shade-launches-october-27-in-the-west",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T16:04:42+00:00"
     }
   ]
 }
