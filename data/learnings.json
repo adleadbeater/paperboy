@@ -917,190 +917,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "a3dbec1a-4b5d-4770-a265-908f248cb939",
-      "title": "'Expect Fake Messages': Valve Admits Steam Hardware Owners' Personal Data Likely Stolen",
-      "url": "https://www.ign.com/articles/expect-fake-messages-valve-admits-steam-hardware-owners-personal-data-likely-stolen",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T13:46:31+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes",
-      "title": "As developer Arc System Works promises a fix, Marvel T\u014dkon's suffering PC players are creating some bizarre home remedies for its dire performance woes",
-      "url": "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T13:34:28+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000722989",
-      "title": "No Man\u2019s Sky Studio Director Says He\u2019s Not Rushing To Experiment With AI: \u2018Let\u2019s Just Enjoy Making Games The Way We\u2019ve Always Made Games\u2019",
-      "url": "https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T13:48:22+00:00"
-    },
-    {
-      "guid": "Ef5dyeUWSbwJ2LcGdQiWjc",
-      "title": "Corsair isn't rolling in money from its mega-expensive RAM kits\u2014and it's all thanks to higher component costs and lower demand",
-      "url": "https://www.pcgamer.com/hardware/memory/corsair-isnt-rolling-in-money-from-its-mega-expensive-ram-kits-and-its-all-thanks-to-higher-component-costs-and-lower-demand/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T13:43:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237028603",
-      "title": "Promise AI Developing Horror Feature \u2018Touch Grass\u2019; Dave Clark Directing, Brad Miska And \u2018Backrooms\u2019 EP Chris White Producing",
-      "url": "https://deadline.com/2026/08/promise-ai-horror-feature-touch-grass-dave-clark-backrooms-bloody-disgusting-1237028603/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:06:11+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029995",
-      "title": "Animated Horror-Comedy Series \u2018Doomsweepers\u2019 In Works From \u2018Monkie Kid\u2019 Director Sarah Harper, Flying Bark & Lightfold",
-      "url": "https://deadline.com/2026/08/doomsweepers-animated-horror-comedy-revealed-1237029995/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:03:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029100",
-      "title": "\u2018The Sticks\u2019: Scott Bakula, Logan Marshall-Green & More Cast Confirmed; First Look At Netflix YA Hockey Drama Starring Michelle Monaghan",
-      "url": "https://deadline.com/2026/08/the-sticks-scott-bakula-logan-marshall-green-netflix-hockey-1237029100/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029643",
-      "title": "UTA Signs \u2018Tangles\u2019 Director & Giant Ant Founder Leah Nelson",
-      "url": "https://deadline.com/2026/08/uta-tangles-director-giant-ant-founder-leah-nelson-1237029643/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237029737",
-      "title": "Don\u2019t Believe Paramount\u2019s Hype: California AG Rob Bonta Claims Ellison Muddying WBD Merger Waters With Misinformation & Side Deals; \u201cWe Intend To Win\u201d \u2013 Guest Column",
-      "url": "https://deadline.com/2026/08/rob-bonta-up-ed-david-ellison-paramount-warner-bros-1237029737/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237030057",
-      "title": "\u2018Game Of Thrones: The Mad King\u2019: What The Critics Are Saying About Ambitious Stage Adaptation Following Cancellations; See Production Images",
-      "url": "https://deadline.com/2026/08/game-of-thrones-the-mad-king-reviews-what-critics-saying-1237030057/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T13:47:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830351",
-      "title": "Curtis \u201950 Cent\u2019 Jackson Boards \u2018Payday\u2019 TV Series as Executive Producer (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/50-cent-payday-tv-series-executive-producer-1236830351/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236830393",
-      "title": "Jonas Brothers Podcast Coming to Disney+ and Hulu, Along With Five Other iHeartMedia Shows",
-      "url": "https://variety.com/2026/tv/news/jonas-brothers-podcast-disney-plus-hulu-iheartmedia-1236830393/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670102",
-      "title": "Disney Doubles Down on Video Podcasts, Inks Streaming Deal With iHeartMedia",
-      "url": "https://www.hollywoodreporter.com/business/digital/disney-hulu-video-podcasts-iheartmedia-hey-jonas-1236670102/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-10T14:00:03+00:00"
-    },
-    {
-      "guid": "8URkaKfPqNfyxq696AnQwa",
-      "title": "Rumors swirl for new Lego UCS Millennium Falcon, Helm's Deep, and more",
-      "url": "https://www.gamesradar.com/toys-collectibles/rumors-swirl-for-new-lego-ucs-millennium-falcon-helms-deep-and-more/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T14:05:31+00:00"
-    },
-    {
-      "guid": "xRPZa4Rofrmvo5Qg6RE4zK",
-      "title": "Ahead of an expected D23 X-Men cast reveal, Sadie Sink thinks it's a \"smart choice\" to have a \"younger generation of mutants\" in the MCU",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/ahead-of-an-expected-d23-x-men-cast-reveal-sadie-sink-thinks-its-a-smart-choice-to-have-a-younger-generation-of-mutants-in-the-mcu/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T14:01:20+00:00"
-    },
-    {
-      "guid": "1844256",
-      "title": "GTA 6 Preorder Numbers Won\u2019t Be Revealed Because They Could Be Misleading, Take-Two CEO Says",
-      "url": "https://www.gamespot.com/articles/gta-6-preorder-numbers-wont-be-revealed-because-they-could-be-misleading-take-two-ceo-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T13:44:54+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204796",
-      "title": "The Next Black Myth Game Won't Use AI to Speed Up Development",
-      "url": "https://www.pushsquare.com/news/2026/08/the-next-black-myth-game-wont-use-ai-to-speed-up-development",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1068525",
-      "title": "Shepherd dog adventure game Hubert adds PS5 version",
-      "url": "https://www.gematsu.com/2026/08/shepherd-dog-adventure-game-hubert-adds-ps5-version",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T13:59:40+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750292",
-      "title": "Red Riding Hood: A Detective Story Anime Confirmed for 2027 With Yume Miyamoto as Red Riding Hood",
-      "url": "https://otakukart.com/red-riding-hood-a-detective-story-anime-confirmed-for-2027-with-yume-miyamoto-as-red-riding-hood/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T14:03:39+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750165",
-      "title": "PENTAGON Formally Reveals Upcoming City Destinations and Dates for Historic 10th Anniversary Tour",
-      "url": "https://otakukart.com/pentagon-formally-reveals-upcoming-city-destinations-and-dates-for-historic-10th-anniversary-tour/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T13:40:26+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750177",
-      "title": "AER Entertainment Clarifies Health Concerns Regarding KARA\u2019s Han Seung Yeon",
-      "url": "https://otakukart.com/aer-entertainment-clarifies-health-concerns-regarding-karas-han-seung-yeon/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T13:37:22+00:00"
-    },
-    {
-      "guid": "t3_1vklhnb",
-      "title": "Old source code of CSGO from 2019 leaked online",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vklhnb/old_source_code_of_csgo_from_2019_leaked_online/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T13:52:47+00:00"
-    },
-    {
-      "guid": "t3_1vkluev",
-      "title": "Bloomberg: GameStop\u2019s CEO considering pulling $56B eBay offer, may pursue partnership instead",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vkluev/bloomberg_gamestops_ceo_considering_pulling_56b/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-10T14:06:27+00:00"
-    },
-    {
       "guid": "e5b34319-5ca6-4abf-af4b-e54c1a94261f",
       "title": "Saros Is Back Down to $50 at Amazon, Its Lowest Price Yet",
       "url": "https://www.ign.com/articles/saros-ps5-deal-lowest-price-amazon",
@@ -1603,6 +1419,174 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-10T17:00:00+00:00"
+    },
+    {
+      "guid": "f7c9bd23-fc26-415f-b723-6085e618d735",
+      "title": "Save 30% off One of the Coolest and Most Interactive Space-Themed LEGO Sets Ever",
+      "url": "https://www.ign.com/articles/lego-technic-planet-earth-and-moon-in-orbit-deal-august-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T17:50:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723020",
+      "title": "Resident Evil Is Entertaining Zombie, Girl-Power Action That Has Nothing To Do With The Game",
+      "url": "https://kotaku.com/resident-evil-2002-movie-review-warp-week-2000723020",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:00:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720931",
+      "title": "Sly Cooper Might Be The Future Of 3D Platformers, A Genre That Will Thrive Forever",
+      "url": "https://kotaku.com/sly-cooper-thievius-racoonus-ps2-review-sucker-punch-5-2000720931",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:00:31+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723015",
+      "title": "I Can\u2019t Believe They\u2019re Already Making A Sequel To Golden Sun, The Best Game Boy Advance RPG",
+      "url": "https://kotaku.com/golden-sun-the-lost-age-sequel-warp-week-2000723015",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:00:27+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000722268",
+      "title": "The Internet Reacts To The Release Of Star Wars: Attack Of The Clones: \u2018CG Yoda is brilliant\u2019",
+      "url": "https://kotaku.com/the-internet-reacts-to-the-release-of-star-wars-attack-of-the-clones-cg-yoda-is-brilliant-2000722268",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:00:25+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723109",
+      "title": "GameStop Raises $325 Million In IPO As Barnes & Noble Bets Big On Video Games",
+      "url": "https://kotaku.com/gamestop-goes-public-for-325-million-as-barnes-and-noble-bets-big-on-video-games-2000723109",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:00:25+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000721942",
+      "title": "The Elder Scrolls\u2019 World Is Bigger, More Beautiful, And More Customizable Than Ever In Its Latest Adventure",
+      "url": "https://kotaku.com/the-elder-scrolls-world-is-bigger-more-beautiful-and-more-customizable-than-ever-in-its-latest-adventure-2000721942",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:00:21+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000720853",
+      "title": "Critics Adore Super Mario Sunshine: \u2018My Apartment Is In Shambles. Mario Has Arrived\u2019",
+      "url": "https://kotaku.com/critics-adore-super-mario-sunshine-my-apartment-is-in-shambles-mario-has-arrived-2000720853",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:00:18+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723044",
+      "title": "Welcome To Warp Week At Kotaku: The 2002 Edition",
+      "url": "https://kotaku.com/welcome-to-warp-week-at-kotaku-the-2002-edition-2000723044",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T17:59:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723126",
+      "title": "One Of The Year\u2019s Best Indie Games Sold Over 1 Million Copies In Less Than A Week",
+      "url": "https://kotaku.com/one-of-the-years-best-indie-games-sold-over-1-million-copies-in-less-than-a-week-2000723126",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T17:45:03+00:00"
+    },
+    {
+      "guid": "8SALEDDvfa83wrxkR4ckdT",
+      "title": "Steam user data 'may have been compromised' by a cyberattack targeting Valve's European shipping partner",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-user-data-may-have-been-compromised-by-a-cyberattack-targeting-valves-european-shipping-partner/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T17:45:04+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030250",
+      "title": "O-T Fagbenle Signs With Artists First",
+      "url": "https://deadline.com/2026/08/ot-fagbenle-signs-artists-first-1237030250/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T17:49:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831435",
+      "title": "Mark Zuckerberg Says He\u2019s Surprised the \u2018Discourse\u2019 From AI Companies \u2018Is So Filled With Doom\u2019",
+      "url": "https://variety.com/2026/biz/news/meta-ai-manifesto-mark-zuckerberg-1236831435/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:08:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831280",
+      "title": "First Artists Management Rebrands as Fam Agency, Expands With New Agent Dan North",
+      "url": "https://variety.com/2026/artisans/news/first-artists-management-rebrands-as-fam-agency-1236831280/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236830086",
+      "title": "Mike Epps Signs With Independent Artist Group for Representation (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/mike-epps-signs-with-iag-all-areas-1236830086/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:02:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236642531",
+      "title": "Emmy Predictions via Feinberg Forecast: Scott\u2019s Take One Week Before Final Voting",
+      "url": "https://www.hollywoodreporter.com/lists/emmys-2026-winners-predictions-feinberg-forecast/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T18:01:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670311",
+      "title": "\u2018Ascension\u2019 Thriller From Alfonso Cuaron Lands at Apple TV, Caitriona Balfe Starring",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-ascension-series-caitriona-balfe-alfons-cuaron-1236670311/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T17:57:05+00:00"
+    },
+    {
+      "guid": "1844521",
+      "title": "Marvel Tokon: Fighting Souls\u2019 First PC Patch Targets Its Biggest Problems",
+      "url": "https://www.gamespot.com/articles/marvel-tokon-fighting-souls-first-pc-patch-targets-its-biggest-problems/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T17:51:23+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068586",
+      "title": "Lost & Found adds console versions",
+      "url": "https://www.gematsu.com/2026/08/lost-found-adds-console-versions",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T18:04:34+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615830",
+      "title": "D&D: James Wyatt On World Of Warcraft (Sub)Classes, Dungeons, And More",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-james-wyatt-on-world-of-warcraft-subclasses-dungeons-and-more.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T18:05:18+00:00"
+    },
+    {
+      "guid": "t3_1vks3uy",
+      "title": "An even older intro cutscene for Prokejt Z has been leaked featuring devs doing Placeholder VA and an unused intro level.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vks3uy/an_even_older_intro_cutscene_for_prokejt_z_has/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-10T17:53:54+00:00"
     }
   ]
 }
