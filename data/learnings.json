@@ -1025,14 +1025,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "eJdyqBtmfdx2zTkvkyFsoZ",
-      "title": "Lanterns showrunner hints that the grounded DC show might go cosmic: \"We'd be stupid not to use everything that you can do inside the Green Lantern universe\"",
-      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-showrunner-hints-that-the-grounded-dc-show-might-go-cosmic/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-09T23:01:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236831024",
       "title": "Ben Jones, Actor Turned Politician Who Played Cooter Davenport in \u2018The Dukes of Hazzard,\u2019 Dies at 84",
       "url": "https://variety.com/2026/tv/news/ben-jones-dead-cooter-davenport-the-dukes-of-hazzard-1236831024/",
@@ -1151,6 +1143,14 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-10T02:07:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237029830",
+      "title": "Set Decorators Society Of America TV Awards Go To \u2018Widow\u2019s Bay,\u2019 \u2018Fallout,\u2019 \u2018Wednesday,\u2019 & More",
+      "url": "https://deadline.com/2026/08/set-decorators-society-of-america-awards-1237029830/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-10T02:47:01+00:00"
     }
   ]
 }
