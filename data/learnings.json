@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Quantic Dream Accused of Deliberately Dragging Out Layoff Negotiations on Star Wars Eclipse",
-      "tag": "star wars eclipse",
-      "posted_at": "2026-08-04T19:01:59.553559+00:00",
-      "urls": [
-        "https://kotaku.com/star-wars-eclipse-maker-accused-of-dragging-out-layoff-negotiations-quantic-dream-wants-to-destroy-jobs-it-must-pay-2000721604"
-      ],
-      "article_titles": [
-        "Star Wars Eclipse Maker Accused Of Dragging Out Layoff Negotiations: \u2018Quantic Dream Wants To Destroy Jobs, It Must Pay\u2019"
-      ]
-    },
-    {
       "headline": "EA Has Officially Been Sold to Saudi Arabia, Private Equity, and Jared Kushner's Group",
       "tag": "electronic arts",
       "posted_at": "2026-08-04T20:47:37.789364+00:00",
@@ -1014,115 +1003,24 @@
       "article_titles": [
         "Nvidia's Price Increases Are Live, As RTX 5060 Ti Jumps to Over $800"
       ]
+    },
+    {
+      "headline": "Saber Interactive Allegedly Replaced Its Lead Writer With ChatGPT \u2014 and Didn't Disclose AI Use on Steam",
+      "tag": "saber interactive",
+      "posted_at": "2026-08-11T19:30:53.183266+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vllwcu/former_lead_writer_for_saber_interactives/"
+      ],
+      "article_titles": [
+        "Saber Interactive \"replaced me with ChatGPT midway through development\" but AI use is not disclosed on Steam, claims former lead writer",
+        "Former lead writer for Saber Interactive's upcoming Rideshare \"Simulator\" claims they were replaced with ChatGPT midway through development and all the passenger voices were using AI at that time"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "HJ2dK2qGsWbQLovDb6tAtE",
-      "title": "3 months after the release of Directive 8020, Supermassive Games is laying off even more people",
-      "url": "https://www.pcgamer.com/gaming-industry/3-months-after-the-release-of-directive-8020-supermassive-games-is-laying-off-even-more-people/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T15:18:28+00:00"
-    },
-    {
-      "guid": "SJEfqAmgbW9V3JbV4ZHA6E",
-      "title": "Yet another sign the Steam Frame is approaching launch\u2014maybe really for real this time?\u2014as the SteamOS beta adds 'preliminary support' for its wireless adapter",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/yet-another-sign-the-steam-frame-is-approaching-launch-maybe-really-for-real-this-time-as-the-steamos-beta-adds-preliminary-support-for-its-wireless-adapter/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T15:02:25+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670935",
-      "title": "Tom McCarthy\u2019s \u2018A Statement,\u2019 Jesse Eisenberg\u2019s \u2018The Debut,\u2019 Jordan Firstman\u2019s \u2018Club Kid\u2019 Set for NY Film Fest",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-ny-film-festival-spotlight-lineup-1236670935/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T15:15:25+00:00"
-    },
-    {
-      "guid": "MooLiddPjnRMdb6NXqHfZ4",
-      "title": "After Stellar Blade: Blood Rain reveal, Shift Up says its other \"AAA-class\" game will be revealed this year, and as a \"live-service experience\" it's closer to its first RPG",
-      "url": "https://www.gamesradar.com/games/rpg/after-stellar-blade-blood-rain-reveal-shift-up-says-its-other-aaa-class-game-will-be-revealed-this-year-and-as-a-live-service-experience-its-closer-to-its-first-rpg/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:18:09+00:00"
-    },
-    {
-      "guid": "3bLihtpucRT43Q65Y7W6wa",
-      "title": "Marvel's Wolverine PS5 console won't come with a disc drive, but PlayStation will happily sell you a standalone cover kit with disc drive parts",
-      "url": "https://www.gamesradar.com/hardware/marvels-wolverine-ps5-console-wont-come-with-a-disc-drive-but-playstation-will-happily-sell-you-a-standalone-cover-kit-with-disc-drive-parts/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:03:26+00:00"
-    },
-    {
-      "guid": "1846898",
-      "title": "GTA 6 Owner Take-Two Is Not Interested In Selling To Netflix Or Anyone Right Now",
-      "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-to-netflix-or-anyone-right-now/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:04:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120863",
-      "title": "Tsukihime Merchandise Features God Cat Neco Arc",
-      "url": "https://www.siliconera.com/tsukihime-merchandise-features-god-cat-neco-arc/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:00:34+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1068692",
-      "title": "SPRAWL zero adds Switch 2 version, launches August 8",
-      "url": "https://www.gematsu.com/2026/08/sprawl-zero-adds-switch-2-version-launches-august-8",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:02:05+00:00"
-    },
-    {
-      "guid": "t3_1vlkfa8",
-      "title": "Zelda Anniversary Switch 2 and Zelda Anniversary Pro Controller have leaked",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vlkfa8/zelda_anniversary_switch_2_and_zelda_anniversary/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:19:53+00:00"
-    },
-    {
-      "guid": "t3_1vlk2no",
-      "title": "New Marvel\u2019s Spider-Man 3 IMDb page lists Bryan Intihar & Ryan Smith as directors and marks the game \u201cIn Production\u201d",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vlk2no/new_marvels_spiderman_3_imdb_page_lists_bryan/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:07:24+00:00"
-    },
-    {
-      "guid": "t3_1vlkhhd",
-      "title": "Layoffs Hit Staff at Crossfire Developer That\u2019s No Moon",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vlkhhd/layoffs_hit_staff_at_crossfire_developer_thats_no/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T15:21:54+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236832072",
-      "title": "Jean Smart and Hannah Einbinder Will Play Their \u2018Hacks\u2019 Characters on Stage in One-Night Event \u2018Deborah Vance & Friends & Enemies Live!\u2019",
-      "url": "https://variety.com/2026/tv/awards/jean-smart-hannah-einbinder-hacks-characters-on-stage-1236832072/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T15:28:15+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236669870",
-      "title": "\u2018La Bola Negra\u2019 Tune \u201cLa Nieve\u201d Joins Best Original Song Oscar Race (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-la-nieve-2027-best-original-song-oscar-race-1236669870/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T15:30:00+00:00"
-    },
     {
       "guid": "f2c1230e-8268-4406-8880-fdc897a35b7f",
       "title": "Domino's Announces the Domino, Its 'Next Generation' Pizza \u2014 Here Are First-Look Photos",
@@ -1154,22 +1052,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-11T15:45:28+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000723400",
-      "title": "Devs Of Popular, Decade-Old Terraria Mod Ask Users To \u2018Cancel Patreon Donations\u2019 Following Allegations Of Its Lead \u2018Endangering Minors\u2019",
-      "url": "https://kotaku.com/devs-of-popular-decade-old-terraria-mod-ask-users-to-cancel-patreon-donations-following-allegations-of-its-lead-endangering-minors-2000723400",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T15:30:12+00:00"
-    },
-    {
-      "guid": "WfziNup4VQ4xwXKStL54Ee",
-      "title": "GTA 6 might not technically be $100, but it's had its cake and ate it too as pre-orders are 'skewing more to the premium edition'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-not-technically-be-usd100-but-its-had-its-cake-and-ate-it-too-as-pre-orders-are-skewing-more-to-the-premium-edition/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T15:28:25+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237030881",
@@ -2154,6 +2036,78 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-11T18:43:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031012",
+      "title": "\u2018Death Of A Salesman\u2019, \u2018Cats: The Jellicle Ball\u2019 & \u2018Every Brilliant Thing\u2019 Soar In Final Weeks \u2013 Broadway Box Office",
+      "url": "https://deadline.com/2026/08/death-of-a-salesman-cats-jellicle-ball-broadway-box-office-1237031012/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T19:03:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832324",
+      "title": "\u2018The Last House\u2019 Debuts With 27.5 Million Views in Three Days",
+      "url": "https://variety.com/2026/film/news/the-last-house-ratings-netflix-views-1236832324/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671242",
+      "title": "Joseph and Kendra Duggar Withdraw Not Guilty Pleas in Child Endangerment Case",
+      "url": "https://www.hollywoodreporter.com/news/general-news/joseph-kendra-duggar-withdraw-not-guilty-pleas-endangerment-1236671242/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T19:26:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671163",
+      "title": "Disney Taps Joss Hastings to Lead Marketing for Consumer Products",
+      "url": "https://www.hollywoodreporter.com/business/business-news/disney-consumer-products-joss-hastings-head-marketing-1236671163/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T19:16:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671030",
+      "title": "Jonas Brothers on Today\u2019s New Generation of Disney Stars: \u201cDon\u2019t Envy Anybody That\u2019s Doing This Now\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jonas-brothers-new-generation-disney-stars-camp-rock-3-1236671030/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T19:10:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671230",
+      "title": "\u2018The Office\u2019 U.K. Actress Lucy Davis Reveals \u201cIncurable\u201d Breast Cancer Diagnosis",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/the-office-uk-lucy-davis-breast-cancer-diagnosis-1236671230/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T19:07:18+00:00"
+    },
+    {
+      "guid": "KxQEHiGEoFkXVjgvoBV6NW",
+      "title": "Saber Interactive \"replaced me with ChatGPT midway through development\" but AI use is not disclosed on Steam, claims former lead writer",
+      "url": "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T19:26:01+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615837",
+      "title": "Worship Small Gods, Make Jimothy Your Patron, And More With This Week\u2019s 5E Adventures",
+      "url": "https://www.belloflostsouls.net/2026/08/worship-small-gods-make-jimothy-your-patron-and-more-with-this-weeks-5e-adventures.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T19:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vlrewt",
+      "title": "Asha Sharma says she did a live playthrough of TES VI this morning. Called the story and scope \"greater\"",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vlrewt/asha_sharma_says_she_did_a_live_playthrough_of/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T19:29:30+00:00"
     }
   ]
 }
