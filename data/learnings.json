@@ -985,30 +985,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237030965",
-      "title": "TIFF Adds Martin McDonagh\u2019s \u2018Wild Horse Nine\u2019, Werner Herzog\u2019s \u2018Bucking Fastard\u2019, \u2018The Idiot(s)\u2019 & More To Lineup",
-      "url": "https://deadline.com/2026/08/tiff-2026-additional-films-wild-horse-nine-bucking-fastard-1237030965/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T14:01:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670773",
-      "title": "Donie O\u2019Sullivan Says He\u2019s Not Worried About Humanizing Extremists: \u201cThey\u2019re Human\u201d",
-      "url": "https://www.hollywoodreporter.com/news/politics-news/donie-osullivan-cnn-midterms-hasan-piker-mike-lindell-1236670773/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T14:01:48+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750409",
-      "title": "Big Walk Surpasses 1 Million Sales in Just Six Days Across All Platforms",
-      "url": "https://otakukart.com/big-walk-surpasses-1-million-sales-in-just-six-days-across-all-platforms/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T14:08:36+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000723185",
       "title": "From Stardew Valley To Destiny 2, Here\u2019s Why We All Love Fishing Minigames",
       "url": "https://kotaku.com/stardew-valley-destiny-2-fishing-minigames-2000723185",
@@ -2159,6 +2135,46 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-11T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031226",
+      "title": "\u2018Josephine\u2019 Trailer: Gemma Chan & Channing Tatum\u2019s 8-Year-Old Witnesses A Terrible Crime; Sundance Double Winner Gets Release Date",
+      "url": "https://deadline.com/2026/08/josephine-trailer-release-date-gemma-chan-channing-tatum-1237031226/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T18:10:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670135",
+      "title": "How Julie Andrews\u2019 Singing Poodle Inspired New Children\u2019s Book With Daughter",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/julie-andrews-shy-childrens-book-daughter-disney-doc-1236670135/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T18:09:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670557",
+      "title": "Inside \u2018Dreams in Nightmares,\u2019 a Vibrant Reinvention of the American Road Movie",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/dreams-in-nightmares-exclusive-shatara-michelle-ford-1236670557/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T18:08:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671022",
+      "title": "Jean Smart and Hannah Einbinder to Perform One-Night-Only Stage Show as \u2018Hacks\u2019 Characters",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jean-smart-hannah-einbinder-in-character-hacks-stage-show-1236671022/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T18:04:16+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/marvel-crisis-protocol-2026-errata-part-1-biggest-winners-losers/",
+      "title": "Marvel Crisis Protocol 2026 Errata: Part 1, Biggest Winners & Losers",
+      "url": "https://www.tabletopbattles.com/marvel-crisis-protocol-2026-errata-part-1-biggest-winners-losers/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T18:00:09+00:00"
     }
   ]
 }
