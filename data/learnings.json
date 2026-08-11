@@ -1,23 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Gears of War: E-Day Open Beta Leads Xbox Game Pass August 2026 Lineup",
-      "tag": "xbox game pass",
-      "posted_at": "2026-08-04T15:55:32.054676+00:00",
-      "urls": [
-        "https://www.ign.com/articles/gears-of-war-e-day-open-beta-leads-xbox-game-pass-august-2026-lineup",
-        "https://www.gematsu.com/2026/08/game-pass-adds-gears-of-war-e-day-open-beta-cricket-26-date-everything-and-more-in-early-to-mid-august",
-        "https://www.gamespot.com/articles/xbox-game-pass-loses-this-perfect-organism-and-three-more-games-in-august/",
-        "https://kotaku.com/a-bunch-of-terrific-games-are-coming-to-the-cheaper-version-of-game-pass-in-august-2026-2000721521"
-      ],
-      "article_titles": [
-        "Gears of War: E-Day Open Beta Leads Xbox Game Pass August 2026 Lineup",
-        "Game Pass adds Gears of War: E-Day open beta, Cricket 26, Date Everything!, and more in early to mid August",
-        "Xbox Game Pass Loses This Perfect Organism And Three More Games In August",
-        "A Bunch Of Terrific Games Are Coming To The Cheaper Version Of Game Pass In August 2026"
-      ]
-    },
-    {
       "headline": "Helldivers 2 CEO Says EA's Saudi Acquisition Would Be a \"Real Waste\" If It Just Churns Out Safe Sequels",
       "tag": "ea",
       "posted_at": "2026-08-04T16:31:13.861583+00:00",
@@ -885,6 +868,17 @@
         "Yet another sign the Steam Frame is approaching launch\u2014maybe really for real this time?\u2014as the SteamOS beta adds 'preliminary support' for its wireless adapter",
         "Yet another sign the Steam Frame is approaching launch\u2014maybe really for real this time?\u2014as the SteamOS beta adds 'preliminary support' for its wireless adapter"
       ]
+    },
+    {
+      "headline": "Terraria Mod Calamity's Lead Dev Accused of \"Endangering Minors\" \u2014 Devs Ask Fans to Cancel Patreon Support",
+      "tag": "terraria",
+      "posted_at": "2026-08-11T16:01:17.585358+00:00",
+      "urls": [
+        "https://kotaku.com/devs-of-popular-decade-old-terraria-mod-ask-users-to-cancel-patreon-donations-following-allegations-of-its-lead-endangering-minors-2000723400"
+      ],
+      "article_titles": [
+        "Devs Of Popular, Decade-Old Terraria Mod Ask Users To \u2018Cancel Patreon Donations\u2019 Following Allegations Of Its Lead \u2018Endangering Minors\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -897,14 +891,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-11T12:30:27+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000723079",
-      "title": "18 Of The Very Finest Cosplay Kits From San Diego Comic Con 2026",
-      "url": "https://kotaku.com/cosplay-gallery-san-diego-comic-con-lara-croft-trogdor-2000723079",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T12:00:06+00:00"
     },
     {
       "guid": "9gPcBC9AAyCPiQodJWWoVS",
@@ -923,28 +909,12 @@
       "published_dt": "2026-08-11T12:31:47+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670803",
-      "title": "Lucy Liu Boards \u2018Reset,\u2019 Sci-Fi Short Being Developed Into a Feature, as EP (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/lucy-liu-boards-reset-sci-fi-short-film-exclusive-trailer-1236670803/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T12:00:00+00:00"
-    },
-    {
       "guid": "1846846",
       "title": "GTA 6 Could Have Had An Even Higher Price, As $100 Edition Proves Popular",
       "url": "https://www.gamespot.com/articles/gta-6-could-have-had-an-even-higher-price-as-100-edition-proves-popular/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-11T12:23:57+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204841",
-      "title": "This Ace Combat 8 Trailer Looks at Fighter Jets the Way Gran Turismo Looks at Cars",
-      "url": "https://www.pushsquare.com/news/2026/08/this-ace-combat-8-trailer-looks-at-fighter-jets-the-way-gran-turismo-looks-at-cars",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T12:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1750390",
@@ -961,14 +931,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-11T12:18:04+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750366",
-      "title": "Bethesda says Oblivion Remastered is the first open-world Unreal Engine 5 game on Switch 2",
-      "url": "https://otakukart.com/bethesda-says-oblivion-remastered-is-the-first-open-world-unreal-engine-5-game-on-switch-2/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T11:59:04+00:00"
     },
     {
       "guid": "https://www.enworld.org/threads/rpg-evolution-whats-new-pussycat.719761/",
@@ -1809,6 +1771,206 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-11T15:30:00+00:00"
+    },
+    {
+      "guid": "f2c1230e-8268-4406-8880-fdc897a35b7f",
+      "title": "Domino's Announces the Domino, Its 'Next Generation' Pizza \u2014 Here Are First-Look Photos",
+      "url": "https://www.ign.com/articles/dominos-announces-the-domino-its-next-generation-pizza-here-are-first-look-photos",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:54:25+00:00"
+    },
+    {
+      "guid": "bf3b95dc-16a0-4ef6-b5be-f25b55118026",
+      "title": "'We Certainly Hope to Have a Discussion': Stargate, Independence Day Writer Wants to Reboot Doctor Who, After Report Claims He Wants to Bring Back David Tennant",
+      "url": "https://www.ign.com/articles/we-certainly-hope-to-have-a-discussion-stargate-independence-day-writer-wants-to-reboot-doctor-who-after-report-claims-he-wants-to-bring-back-david-tennant",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:53:33+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/1666-amsterdam-ai-tools-controversy",
+      "title": "\"We live in a world full of AI, let's be honest with ourselves\" - 1666: Amsterdam developer still using AI tools despite recent controversy",
+      "url": "https://www.eurogamer.net/1666-amsterdam-ai-tools-controversy",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:54:22+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723397",
+      "title": "Small Creators Are Feeling The Crunch Under YouTube\u2019s New Monetization Rules",
+      "url": "https://kotaku.com/youtube-partner-program-monetization-change-youtube-shorts-ad-revenue-2000723397",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:45:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723400",
+      "title": "Devs Of Popular, Decade-Old Terraria Mod Ask Users To \u2018Cancel Patreon Donations\u2019 Following Allegations Of Its Lead \u2018Endangering Minors\u2019",
+      "url": "https://kotaku.com/devs-of-popular-decade-old-terraria-mod-ask-users-to-cancel-patreon-donations-following-allegations-of-its-lead-endangering-minors-2000723400",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:30:12+00:00"
+    },
+    {
+      "guid": "WfziNup4VQ4xwXKStL54Ee",
+      "title": "GTA 6 might not technically be $100, but it's had its cake and ate it too as pre-orders are 'skewing more to the premium edition'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-might-not-technically-be-usd100-but-its-had-its-cake-and-ate-it-too-as-pre-orders-are-skewing-more-to-the-premium-edition/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:28:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030881",
+      "title": "\u2018Top Of The World\u2019 Trailer: Documentary From Julie Cohen & Betsy West Explores Stunning Restaurant Atop World Trade Center",
+      "url": "https://deadline.com/2026/08/top-of-the-world-trailer-1237030881/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031082",
+      "title": "Veronika Slowikowska To Topline Comedy \u2018Stephanie, Bride To Be\u2019 From Executive Producer John Wilson; Michael Imperioli & Amy Sedaris Among Others Set",
+      "url": "https://deadline.com/2026/08/veronika-slowikowska-to-star-stephanie-bride-to-be-1237031082/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:58:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031100",
+      "title": "Peter Ho-Sun Chan\u2019s Toronto Title \u2018The Road Not Taken\u2019 Picked Up By Moebius For Sales",
+      "url": "https://deadline.com/2026/08/toronto-road-not-taken-peter-ho-sun-chan-moebius-1237031100/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:51:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031064",
+      "title": "\u2018Marvel\u2019s Wolverine\u2019 Video Game Star Liam McIntyre On Adding Vulnerability To Logan\u2019s \u201cBottomless Rage\u201d",
+      "url": "https://deadline.com/2026/08/marvels-wolverine-video-game-interview-liam-mcintyre-1237031064/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:37:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236827673",
+      "title": "\u2018Monster: The Lizzie Borden Story\u2019 Trailer: Ella Beatty Is an Axe Murderer in the Fourth Chapter of Ryan Murphy\u2019s Bloody Anthology Series",
+      "url": "https://variety.com/2026/tv/news/monster-lizzie-borden-story-trailer-netflix-ryan-murphy-1236827673/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831189",
+      "title": "Mateo Ybarra\u2019s \u2018Small Talk,\u2019 a Locarno Premiere, Takes a Peek Into Switzerland\u2019s Last Remaining Etiquette School for Women",
+      "url": "https://variety.com/2026/film/global/mateo-ybarra-small-talk-locarno-world-premiere-doc-fiction-1236831189/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:58:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831604",
+      "title": "RioFilme to Announce New Incentives for International Co-Productions, Unveiling Them at Brazil\u2019s Gramado Fest (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/riofilme-new-incentives-international-co-productions-1236831604/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:57:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832080",
+      "title": "Taylor Swift Named to the Nashville Songwriters Hall of Fame, Becoming Its Youngest Inductee Ever",
+      "url": "https://variety.com/2026/music/news/taylor-swift-inductee-nashville-songwriters-hall-of-fame-1236832080/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:36:32+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670319",
+      "title": "Andrea Gibson: Love Letter From the Afterlife Special Event Set to Embark on 14-Date U.S. Tour",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/andrea-gibson-love-letter-from-the-afterlife-tour-dates-1236670319/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670413",
+      "title": "Rory Scovel Lost His Dad. His Comedy Has Never Been Better.",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/rory-scovel-show-must-go-on-netflix-special-interview-1236670413/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670664",
+      "title": "\u2018Monster: The Lizzie Borden Story\u2019 Teaser Trailer Will Shock You",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-the-lizzie-borden-story-trailer-ella-beatty-axe-1236670664/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670939",
+      "title": "Rosario Dawson Regrets Her \u2018Brand New Day\u2019 Cameo Was Cut: \u201cI\u2019m a Reject of Spider-Man\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/rosario-dawson-spider-man-brand-new-day-cameo-cut-1236670939/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:49:56+00:00"
+    },
+    {
+      "guid": "nFsNjvCBWLPgEzveTXh5Ya",
+      "title": "Commodore is bringing back a legendary '80s joystick, and I'm hyped to see the microcomputer maker delve into retro controllers",
+      "url": "https://www.gamesradar.com/hardware/retro/commodore-is-bringing-back-a-legendary-80s-joystick-and-im-hyped-to-see-the-microcomputer-maker-delve-into-retro-controllers/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:53:25+00:00"
+    },
+    {
+      "guid": "Ri3M9ZyDpMzWy3y9cEjvvW",
+      "title": "Asus ROG NUC vs gaming laptops, how does the mini PC top dog fare against portable powerhouses?",
+      "url": "https://www.gamesradar.com/hardware/laptops/asus-rog-nuc-vs-gaming-laptops-how-does-the-mini-pc-top-dog-fare-against-portable-powerhouses/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:49:32+00:00"
+    },
+    {
+      "guid": "VCKu9ebrrXdc7Kxh9J8FT4",
+      "title": "Crimson Desert DLC is coming \"this year\" as part of \"various follow-up strategies\" at Pearl Abyss",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-is-coming-this-year-as-part-of-various-follow-up-strategies-at-pearl-abyss/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:45:47+00:00"
+    },
+    {
+      "guid": "xuocyUyrHTVqQVKeVveF8F",
+      "title": "PNY has launched its back to school savings, but gamers shouldn't ignore this Switch 2 SD card deal",
+      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/pny-has-launched-its-back-to-school-savings-but-gamers-shouldnt-ignore-this-switch-2-sd-card-deal/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:44:59+00:00"
+    },
+    {
+      "guid": "YQbtGXfU3wnz38WbY5s3TQ",
+      "title": "Best Pokemon TCG Pocket Hoopa ex deck",
+      "url": "https://www.gamesradar.com/games/pokemon/pokemon-tcg-pocket-hoopa-ex-deck/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:43:01+00:00"
+    },
+    {
+      "guid": "prJStNmB5mSosNVrtWVLXk",
+      "title": "Id Software lead says devs \"don't have the incentive to care anymore\" with Microsoft threatening another 1,600 Xbox layoffs after latest bloodbath",
+      "url": "https://www.gamesradar.com/games/id-software-lead-says-devs-dont-have-the-incentive-to-care-anymore-with-microsoft-threatening-another-1-600-xbox-layoffs-after-latest-bloodbath/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:42:36+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204858",
+      "title": "Metroid Prime First 4 Figures 'Metroid PVC' Sneak Peek, Pre-Orders Open Soon",
+      "url": "https://www.nintendolife.com/news/2026/08/metroid-prime-first-4-figures-metroid-pvc-sneak-peek-pre-orders-open-soon",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:45:00+00:00"
     }
   ]
 }
