@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Resident Evil Code: Veronica Remake Hits 2 Million Steam Wishlists",
-      "tag": "resident evil",
-      "posted_at": "2026-08-04T14:31:19.876128+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/resident-evil/resident-evil-veronica-hits-2-million-wishlists-to-absolutely-no-ones-surprise-come-on-its-got-the-re2-and-re4-remake-team-working-on-it/",
-        "https://www.gamesradar.com/games/resident-evil/resident-evil-veronica-hype-sends-the-remake-to-2-million-steam-wishlists-capcom-reveals-despite-us-knowing-little-about-it/"
-      ],
-      "article_titles": [
-        "Resident Evil Veronica hits 2 million wishlists to absolutely no one's surprise\u2014come on, it's got the RE2 and RE4 remake team working on it",
-        "Resident Evil Veronica hype sends the remake to 2 million Steam wishlists, Capcom reveals, despite us knowing little about it"
-      ]
-    },
-    {
       "headline": "Endless Legend 2 Sets September 17 Launch Date, Exits Early Access With New Factions",
       "tag": "endless legend 2",
       "posted_at": "2026-08-04T15:31:08.527926+00:00",
@@ -887,6 +874,17 @@
         "Marvel's Wolverine Limited Edition PS5 Consoles, Controllers Announced, Pre-Orders Next Week",
         "Marvel\u2019s Wolverine Limited Edition PS5 console bundle and accessories announced"
       ]
+    },
+    {
+      "headline": "Saber CEO Confirms New Game Trailer Took a Direct Shot at Borderlands 4's Randy Pitchford",
+      "tag": "borderlands 4",
+      "posted_at": "2026-08-11T15:01:01.107757+00:00",
+      "urls": [
+        "https://kotaku.com/saber-ceo-confirms-new-game-trailer-contains-a-shot-at-gearboxs-randy-pitchford-as-payback-over-a-borderlands-4-joke-2000723395"
+      ],
+      "article_titles": [
+        "Saber CEO Confirms New Game Trailer Contains A Shot At Gearbox\u2019s Randy Pitchford As Payback Over A Borderlands 4 Joke"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1515,6 +1513,142 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-11T14:26:37+00:00"
+    },
+    {
+      "guid": "3553db87-cb62-4688-af8d-d5544b5850e9",
+      "title": "Marvel's Wolverine Limited Edition PS5 Console Announced, Plus Physical Disc Drive Covers",
+      "url": "https://www.ign.com/articles/marvels-wolverine-limited-edition-ps5-console-announced-plus-physical-disc-drive-covers",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T14:46:40+00:00"
+    },
+    {
+      "guid": "e7d55fee-5601-491b-92c0-a9a7a51b1f42",
+      "title": "Arrival Writer Ted Chiang\u2019s Latest Book Is on Sale for $1.99",
+      "url": "https://www.ign.com/articles/arrival-writer-ted-chiangs-latest-sci-fi-book-is-on-sale-for-199",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T14:29:36+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/marvels-wolverine-ps5-disc-insomniac",
+      "title": "Marvel's Wolverine \"fully playable\" on disc when it releases, Insomniac clarifies, perhaps making it one of the last few PlayStation games that will be",
+      "url": "https://www.eurogamer.net/marvels-wolverine-ps5-disc-insomniac",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723395",
+      "title": "Saber CEO Confirms New Game Trailer Contains A Shot At Gearbox\u2019s Randy Pitchford As Payback Over A Borderlands 4 Joke",
+      "url": "https://kotaku.com/saber-ceo-confirms-new-game-trailer-contains-a-shot-at-gearboxs-randy-pitchford-as-payback-over-a-borderlands-4-joke-2000723395",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T14:43:46+00:00"
+    },
+    {
+      "guid": "PBzdQKeW8bUwbCaHqtcASB",
+      "title": "Thief designer says that the immersive sim audience is too small for AAA games: 'There's quite a few of us who think the way to do it is be III or AA'",
+      "url": "https://www.pcgamer.com/games/sim/thief-designer-says-that-the-immersive-sim-audience-is-too-small-for-aaa-games-theres-quite-a-few-of-us-who-think-the-way-to-do-it-is-be-iii-or-aa/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T14:42:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031010",
+      "title": "Camille Delamarre To Direct \u2018Bugatti: The Final Race\u2019 For Andrea Iervolino, Who Makes Scriptwriting Debut",
+      "url": "https://deadline.com/2026/08/bugatti-final-race-camille-delamarre-andrea-iervolino-1237031010/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T14:51:53+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031004",
+      "title": "David Ellison Told Top Execs Paramount Will Exit California If AG Refuses To Negotiate Settlement In WBD Merger Suit",
+      "url": "https://deadline.com/2026/08/david-ellison-told-top-execs-paramount-will-exit-california-if-ag-refuses-to-negotiate-settlement-in-wbd-merger-suit-1237031004/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T14:31:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831624",
+      "title": "Sundance Conversion Therapy Horror Film \u2018Leviticus\u2019 Director Adrian Chiarella Signs With Anonymous Content (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/leviticus-director-adrian-chiarella-anonymous-content-1236831624/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831634",
+      "title": "New York Film Festival Unveils Spotlight Slate With Tom McCarthy\u2019s \u2018A Statement,\u2019 Jonathan Glazer\u2019s \u2018Joy of Joys\u2019 and More",
+      "url": "https://variety.com/2026/film/awards/new-york-film-festival-spotlight-lineup-2026-1236831634/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831673",
+      "title": "\u2018Josephine\u2019 Trailer: Channing Tatum and Gemma Chan Star as Struggling Parents in Sundance Award-Winning Psychological Thriller",
+      "url": "https://variety.com/2026/film/news/josephine-trailer-channing-tatum-gemma-chan-sundance-award-winner-1236831673/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670621",
+      "title": "Latest TCM \u2018Plot Thickens\u2019 Podcast Is a Close-Up of Stanley Kubrick",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tcm-plot-thickens-stanley-kubrick-podcast-criterion-1236670621/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670719",
+      "title": "Zoe Kazan\u2019s \u2018East of Eden\u2019 Series, Colin Kaepernick, Padma Lakshmi Join Atlantic Festival Lineup (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/atlantic-festival-2026-east-of-eden-colin-kaepernick-1236670719/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:00:00+00:00"
+    },
+    {
+      "guid": "umc56CQAhB6JktGbCtNFEj",
+      "title": "Take Time is a fantastic co-op board game, so there's no surprise it wound up on the recommended list for the Spiel des Jahres",
+      "url": "https://www.gamesradar.com/games/board-games/take-time-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T14:35:07+00:00"
+    },
+    {
+      "guid": "meGNQCAxQuA5P8XM8q7Zz9",
+      "title": "Star Wars Zero Company wants to be more than XCOM with lightsabers: \"Gamers are more sophisticated now\"",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-wants-to-be-more-than-xcom-with-lightsabers-gamers-are-more-sophisticated-now/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T14:35:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204854",
+      "title": "Little Nightmares III Dev Announces Layoffs With Up To 75 Employees Affected",
+      "url": "https://www.nintendolife.com/news/2026/08/little-nightmares-iii-dev-announces-layoffs-with-up-to-75-employees-affected",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-204852",
+      "title": "Random: Modder Turns Fisher-Price Children's Toy Into A Functional Game Boy Color",
+      "url": "https://www.timeextension.com/news/2026/08/random-modder-turns-fisher-price-childrens-toy-into-a-functional-game-boy-color",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T15:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750411",
+      "title": "The Game Awards 2026 Confirmed for December 10 at Peacock Theater in Los Angeles",
+      "url": "https://otakukart.com/the-game-awards-2026-confirmed-for-december-10-at-peacock-theater-in-los-angeles/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T14:42:38+00:00"
     }
   ]
 }
