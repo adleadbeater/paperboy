@@ -963,52 +963,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237030605",
-      "title": "Netflix Unveils Premiere Date & First-Look Images For \u2018The Body\u2019 Starring Sofia Wyle, Gabby Windey & More",
-      "url": "https://deadline.com/2026/08/the-body-release-date-photos-gabby-windey-netflix-1237030605/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T13:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237030964",
-      "title": "Tom Felton Extends Run As Draco Malfoy For Final Time In Broadway\u2019s \u2018Harry Potter And The Cursed Child\u2019",
-      "url": "https://deadline.com/2026/08/tom-felton-broadway-harry-potter-and-the-cursed-child-1237030964/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T13:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236831436",
-      "title": "Netflix Teen Thriller \u2018The Body\u2019 Sets November Release Date, Drops First Look Photos (TV News Roundup)",
-      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-10-1236831436/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670674",
-      "title": "Netflix Sets Premiere Date, Drops First Look for Raunchy Catholic School Psychodrama \u2018The Body\u2019",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-body-release-date-first-look-photos-1236670674/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T13:30:00+00:00"
-    },
-    {
       "guid": "1abcb9cf-ad42-4631-80a5-3b52b4cdfa41",
       "title": "Until Dawn Developer Supermassive Games Cutting Up to 75 Staff, Following Mixed Response to Directive 8020",
       "url": "https://www.ign.com/articles/until-dawn-developer-supermassive-games-cutting-up-to-75-staff-following-mixed-response-to-directive-8020",
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-08-11T13:45:38+00:00"
-    },
-    {
-      "guid": "https://www.videogameschronicle.com/?p=243737",
-      "title": "Fortnite confirms that Sonic is coming to its next season, Override",
-      "url": "https://www.videogameschronicle.com/news/fortnite-confirms-that-sonic-is-coming-to-its-next-season-override/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T13:27:29+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000723394",
@@ -1091,14 +1051,6 @@
       "published_dt": "2026-08-11T13:33:09+00:00"
     },
     {
-      "guid": "tnmxmDytyFcnf8Fj7xd9rg",
-      "title": "Hasbro's upcoming KPop Demon Hunters sword replica is so fabulous that it looks like it'd be a golden addition to my prop collection",
-      "url": "https://www.gamesradar.com/toys-collectibles/hasbros-upcoming-kpop-demon-hunters-sword-replica-is-so-fabulous-that-it-looks-like-itd-be-a-golden-addition-to-my-prop-collection/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T13:31:05+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-204853",
       "title": "UK Charts: Resident Evil Requiem Gobbles A Herb And Is Back On Top",
       "url": "https://www.nintendolife.com/news/2026/08/uk-charts-resident-evil-requiem-gobbles-a-herb-and-is-back-on-top",
@@ -1107,28 +1059,12 @@
       "published_dt": "2026-08-11T13:45:00+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-204846",
-      "title": "Hyped PS5 Soulslike Mortal Shell 2 Has an Easy Difficulty Mode, But There's a Catch",
-      "url": "https://www.pushsquare.com/news/2026/08/hyped-ps5-soulslike-mortal-shell-2-has-an-easy-difficulty-mode-but-theres-a-catch",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T13:30:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1120644",
       "title": "Sega Making Inuyasha, Kagome, and Sesshomaru Plush Mascots",
       "url": "https://www.siliconera.com/sega-making-inuyasha-kagome-and-sesshomaru-plush-mascots/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204844",
-      "title": "AYANEO Announces Yet Another Colourway Of Its GBA-Inspired Pocket Advance & Some People Aren't Impressed",
-      "url": "https://www.timeextension.com/news/2026/08/ayaneo-announces-yet-another-colourway-of-its-gba-inspired-pocket-advance-and-some-people-arent-impressed",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T13:30:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1068661",
@@ -2193,6 +2129,46 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236711954",
+      "title": "Emmy Predictions: Lead Actor (Drama) \u2014 Which Submission Has the Edge? Noah Wyle, Sterling K. Brown, Mark Ruffalo and More",
+      "url": "https://variety.com/lists/2026-emmys-lead-actor-drama-predictions/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832210",
+      "title": "Kris Bowers Set to Compose Netflix Animated Feature \u2018Steps\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T17:28:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832201",
+      "title": "\u2018The Office\u2019 U.K. Star Lucy Davis Reveals \u2018Incurable\u2019 Cancer Diagnosis: It\u2019s \u2018Too Late for Chemo\u2019 and \u2018I\u2019m Not Scared of Whatever Comes Next\u2019",
+      "url": "https://variety.com/2026/tv/global/the-office-lucy-davis-cancer-diagnosis-incurable-1236832201/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T17:27:55+00:00"
+    },
+    {
+      "guid": "t3_1vlo1a2",
+      "title": "CentroLeaks: Pok\u00e9mon Winds and Waves will be directed by Hiroyuki Tani, the director of Pok\u00e9mon Sword/Shield DLC and Katsuhiko Ichiraku, the director of Pok\u00e9mon Scarlet/Violet DLC. This would mean that after 10 long years, the era of Shigeru Ohmori as director of new Pok\u00e9mon generations is over.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vlo1a2/centroleaks_pok\u00e9mon_winds_and_waves_will_be/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T17:29:13+00:00"
+    },
+    {
+      "guid": "t3_1vlnx7m",
+      "title": "Phantom Blade 0\u2019s surprise announcement for tomorrow is potentially a Fortnite collab",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vlnx7m/phantom_blade_0s_surprise_announcement_for/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T17:25:04+00:00"
     }
   ]
 }
