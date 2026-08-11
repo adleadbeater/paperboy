@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Helldivers 2 CEO Says EA's Saudi Acquisition Would Be a \"Real Waste\" If It Just Churns Out Safe Sequels",
-      "tag": "ea",
-      "posted_at": "2026-08-04T16:31:13.861583+00:00",
-      "urls": [
-        "https://kotaku.com/helldivers-2-ceo-electronic-arts-acquisition-consolidation-safe-sequels-2000721559"
-      ],
-      "article_titles": [
-        "Helldivers 2 CEO Says EA\u2019s Saudi Acquisition Would Be A \u2018Real Waste\u2019 If It Just Produces Safe Sequels"
-      ]
-    },
-    {
       "headline": "Quantic Dream Accused of Deliberately Dragging Out Layoff Negotiations on Star Wars Eclipse",
       "tag": "star wars eclipse",
       "posted_at": "2026-08-04T19:01:59.553559+00:00",
@@ -905,19 +894,24 @@
         "Id Software lead says devs \"don't have the incentive to care anymore\" with Microsoft threatening another 1,600 Xbox layoffs after latest bloodbath",
         "Id Software lead says devs \"don't have the incentive to care anymore\" with Microsoft threatening another 1,600 Xbox layoffs after latest bloodbath"
       ]
+    },
+    {
+      "headline": "A Jeff the Killer Movie Is in the Works as Hollywood Eyes Creepypasta IP",
+      "tag": "jeff the killer",
+      "posted_at": "2026-08-11T16:31:18.469731+00:00",
+      "urls": [
+        "https://kotaku.com/jeff-the-killer-movie-in-the-works-as-hollywood-chases-the-next-backrooms-hit-2000723415",
+        "https://kotaku.com/jeff-the-killer-movie-in-the-works-as-hollywood-chases-the-next-backrooms-hit-2000723415"
+      ],
+      "article_titles": [
+        "Jeff The Killer Movie In The Works As Hollywood Chases The Next Backrooms Hit",
+        "Jeff The Killer Movie In The Works As Hollywood Chases The Next Backrooms Hit"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000723372",
-      "title": "Star Wars: Knights Of The Old Republic Nearly Contained A Swear Word That Would Curl Your Toes",
-      "url": "https://kotaku.com/star-wars-knights-of-the-old-republic-damn-lucasfilm-bioware-2000723372",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-11T12:30:27+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237030957",
       "title": "Seriesly Berlin Sets Paramount+\u2019s \u2018Jossi\u2019 & Disney+\u2019s \u2018City Of Blood\u2019 Among 13 Premieres",
@@ -925,38 +919,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-11T12:31:47+00:00"
-    },
-    {
-      "guid": "1846846",
-      "title": "GTA 6 Could Have Had An Even Higher Price, As $100 Edition Proves Popular",
-      "url": "https://www.gamespot.com/articles/gta-6-could-have-had-an-even-higher-price-as-100-edition-proves-popular/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T12:23:57+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750390",
-      "title": "Netflix nearly doubles 2026 U.S. ad commitments as advertisers embrace its growing Ads Suite",
-      "url": "https://otakukart.com/netflix-nearly-doubles-2026-u-s-ad-commitments-as-advertisers-embrace-its-growing-ads-suite/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T12:23:41+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750367",
-      "title": "Nintendo says Switch 2 hardware growth is slowing as software and IP revenue become increasingly important",
-      "url": "https://otakukart.com/nintendo-says-switch-2-hardware-growth-is-slowing-as-software-and-ip-revenue-become-increasingly-important/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T12:18:04+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/rpg-evolution-whats-new-pussycat.719761/",
-      "title": "RPG Evolution: What's New Pussycat?",
-      "url": "https://www.enworld.org/threads/rpg-evolution-whats-new-pussycat.719761/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-08-11T12:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs",
@@ -2117,6 +2079,54 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-11T16:12:55+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236873939",
+      "title": "\u2018Verity\u2019 Trailer: Anne Hathaway Lures Dakota Johnson Into \u201cDarkness\u201d In Colleen Hoover Adaptation From Amazon MGM Studios",
+      "url": "https://deadline.com/2026/08/verity-trailer-anne-hathaway-dakota-johnson-amazon-mgm-1236873939/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:30:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832140",
+      "title": "Tammy Fine to Lead Talent Development at NBC News",
+      "url": "https://variety.com/2026/tv/news/tammy-fine-nbc-news-talent-development-1236832140/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:26:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832141",
+      "title": "California Attorney General Slams David Ellison\u2019s Plan to Pull Paramount Out of the State as \u2018Blackmail\u2019 Attempt That \u2018Won\u2019t Work\u2019",
+      "url": "https://variety.com/2026/film/news/california-attorney-general-bonta-david-ellison-paramount-blackmail-attempt-1236832141/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:24:55+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832132",
+      "title": "Leah Remini Signs With WME (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/leah-remini-agency-wme-1236832132/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:18:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670910",
+      "title": "Cineplex CEO Says Gen Z Is Ready to Go to the Movies: \u201cThey\u2019re Tired of Looking at Small Screens\u201d",
+      "url": "https://www.hollywoodreporter.com/business/business-news/cineplex-ceo-says-gen-z-is-ready-to-go-to-the-moviestheyre-tired-of-looking-at-small-screens-1236670910/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T16:20:42+00:00"
+    },
+    {
+      "guid": "YPb5f9N4dDYcJZoWe8FVND",
+      "title": "One of the first Animal Crossing speedrunners spent 4,300 hours catching shrimp in an MMO \"just to see if I could,\" and he might even \"do it again\"",
+      "url": "https://www.gamesradar.com/games/mmo/one-of-the-first-animal-crossing-speedrunners-spent-4-300-hours-catching-shrimp-in-an-mmo-just-to-see-if-i-could-and-he-might-even-do-it-again/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T16:26:27+00:00"
     }
   ]
 }
