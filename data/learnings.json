@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Endless Legend 2 Sets September 17 Launch Date, Exits Early Access With New Factions",
-      "tag": "endless legend 2",
-      "posted_at": "2026-08-04T15:31:08.527926+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/strategy/endless-legend-2-is-escaping-early-access-in-september-and-adding-new-major-minor-and-rogue-factions/",
-        "https://www.gematsu.com/2026/08/endless-legend-ii-launches-september-17-for-ps5-xbox-series-and-pc"
-      ],
-      "article_titles": [
-        "Endless Legend 2 is escaping early access in September and adding new major, minor and rogue factions",
-        "ENDLESS Legend II launches September 17 for PS5, Xbox Series, and PC"
-      ]
-    },
-    {
       "headline": "Gears of War: E-Day Open Beta Leads Xbox Game Pass August 2026 Lineup",
       "tag": "xbox game pass",
       "posted_at": "2026-08-04T15:55:32.054676+00:00",
@@ -884,6 +871,19 @@
       ],
       "article_titles": [
         "Saber CEO Confirms New Game Trailer Contains A Shot At Gearbox\u2019s Randy Pitchford As Payback Over A Borderlands 4 Joke"
+      ]
+    },
+    {
+      "headline": "SteamOS Beta Quietly Adds Support for the Steam Frame's Wireless Adapter",
+      "tag": "steam frame",
+      "posted_at": "2026-08-11T15:31:32.776565+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/vr-hardware/yet-another-sign-the-steam-frame-is-approaching-launch-maybe-really-for-real-this-time-as-the-steamos-beta-adds-preliminary-support-for-its-wireless-adapter/",
+        "https://www.pcgamer.com/hardware/vr-hardware/yet-another-sign-the-steam-frame-is-approaching-launch-maybe-really-for-real-this-time-as-the-steamos-beta-adds-preliminary-support-for-its-wireless-adapter/"
+      ],
+      "article_titles": [
+        "Yet another sign the Steam Frame is approaching launch\u2014maybe really for real this time?\u2014as the SteamOS beta adds 'preliminary support' for its wireless adapter",
+        "Yet another sign the Steam Frame is approaching launch\u2014maybe really for real this time?\u2014as the SteamOS beta adds 'preliminary support' for its wireless adapter"
       ]
     }
   ],
@@ -1793,6 +1793,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-11T15:21:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832072",
+      "title": "Jean Smart and Hannah Einbinder Will Play Their \u2018Hacks\u2019 Characters on Stage in One-Night Event \u2018Deborah Vance & Friends & Enemies Live!\u2019",
+      "url": "https://variety.com/2026/tv/awards/jean-smart-hannah-einbinder-hacks-characters-on-stage-1236832072/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:28:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669870",
+      "title": "\u2018La Bola Negra\u2019 Tune \u201cLa Nieve\u201d Joins Best Original Song Oscar Race (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-la-nieve-2027-best-original-song-oscar-race-1236669870/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T15:30:00+00:00"
     }
   ]
 }
