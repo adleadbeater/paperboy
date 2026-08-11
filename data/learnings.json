@@ -1,76 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Leaked Document Reveals Microsoft Is Bringing Xbox 360 Games to PC",
-      "tag": "xbox",
-      "posted_at": "2026-08-04T09:30:58.875959+00:00",
-      "urls": [
-        "https://www.eurogamer.net/xbox-360-games-playable-on-pc-microsoft-plan-leaked"
-      ],
-      "article_titles": [
-        "Microsoft is working on making Xbox 360 games playable on PC, leaked document reveals"
-      ]
-    },
-    {
-      "headline": "Xbox's FanFest World Tour Is Still Happening After Microsoft Fired the Person Who Created It",
-      "tag": "xbox",
-      "posted_at": "2026-08-04T10:01:01.618082+00:00",
-      "urls": [
-        "https://www.eurogamer.net/xbox-fanfest-world-tour"
-      ],
-      "article_titles": [
-        "Xbox's FanFest world tour is still going ahead, for some reason, even after Microsoft fired the guy who created it"
-      ]
-    },
-    {
-      "headline": "Game Freak's First Non-Pok\u00e9mon Game \"Beast of Reincarnation\" Launches to Mixed Reviews",
-      "tag": "beast of reincarnation",
-      "posted_at": "2026-08-04T11:31:05.722150+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/08/round-up-game-freaks-beast-of-reincarnation-is-a-mixed-bag",
-        "https://www.gamesradar.com/games/action-rpg/beast-of-reincarnation-launches-to-mixed-reviews-on-steam-and-metacritic-as-players-disagree-over-whether-the-pokemon-devs-action-rpg-has-slick-or-uninspired-combat/"
-      ],
-      "article_titles": [
-        "Round Up: Game Freak's 'Beast Of Reincarnation' Is A Mixed Bag",
-        "Beast of Reincarnation launches to mixed reviews on Steam and Metacritic as players disagree over whether the Pokemon devs' action RPG has \"slick\" or \"uninspired\" combat"
-      ]
-    },
-    {
-      "headline": "A Lenovo BIOS Update Is Bricking Legion Go Handhelds \u2014 and Repairs Cost Over $250",
-      "tag": "lenovo legion go",
-      "posted_at": "2026-08-04T12:30:57.703195+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/handheld-gaming-pcs/gamers-report-a-bios-update-is-bricking-their-legion-go-handhelds-and-lenovo-is-quoting-over-usd250-to-fix-the-issue-outside-of-warranty/"
-      ],
-      "article_titles": [
-        "Gamers report a BIOS update is bricking their Legion Go handhelds, and Lenovo is quoting over $250 to fix the issue outside of warranty"
-      ]
-    },
-    {
-      "headline": "Stellar Blade's Studio CEO Defends AI Music Video, Fans Aren't Buying It",
-      "tag": "stellar blade",
-      "posted_at": "2026-08-04T13:30:32.687016+00:00",
-      "urls": [
-        "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498",
-        "https://www.gamesradar.com/games/action/stellar-blade-blood-rain-studio-ceo-defends-ai-music-video-because-evie-was-originally-created-from-head-to-toe-by-the-devs-but-fans-say-thats-not-the-point/"
-      ],
-      "article_titles": [
-        "Shift Up CEO Tries To Defend Stellar Blade: Blood Rain Slop Video From Fan Backlash And Continues To Get Roasted: \u2018Insane Cope\u2019",
-        "Stellar Blade: Blood Rain studio CEO defends AI music video because Evie was originally \"created from head to toe\" by the devs, but fans say that's not the point"
-      ]
-    },
-    {
-      "headline": "FIFA World Cup Dev Lays Off 85% of Staff Just Two Months After Launch",
-      "tag": "\u2014",
-      "posted_at": "2026-08-04T13:30:32.924705+00:00",
-      "urls": [
-        "https://www.eurogamer.net/fifa-world-cup-game-layoffs"
-      ],
-      "article_titles": [
-        "The developer behind Fifa World Cup - which launched less than two months ago - has laid off 85% of its staff"
-      ]
-    },
-    {
       "headline": "Final Fantasy 14 Is Now on Switch 2 and You Can Try It Free Right Now \u2014 If You Have 117GB Spare",
       "tag": "final fantasy 14",
       "posted_at": "2026-08-04T14:00:56.785472+00:00",
@@ -920,6 +850,17 @@
       "article_titles": [
         "Halloween: The Game is banned in Australia because incentivized drug use is bad but incentivized ultra-violence isn't"
       ]
+    },
+    {
+      "headline": "Supermassive Games laying off up to 75 people, hitting the studio behind Until Dawn and Little Nightmares 3",
+      "tag": "supermassive games",
+      "posted_at": "2026-08-11T13:31:41.080216+00:00",
+      "urls": [
+        "https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs"
+      ],
+      "article_titles": [
+        "Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1012,6 +953,270 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-08-11T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs",
+      "title": "Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs",
+      "url": "https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:12:33+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gears-of-war-e-day-movement-wall-bouncing-debate-good-or-bad",
+      "title": "Gears of War E-Day is at the centre of a heated movement debate, as players new and old are torn on wall-bouncing",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-movement-wall-bouncing-debate-good-or-bad",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:10:52+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723375",
+      "title": "Super Mario Bros. Speedrunners Are 0.1 Seconds Away From Perfection",
+      "url": "https://kotaku.com/super-mario-bros-speedrunners-lekukie-kosmic-perfect-run-2000723375",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:26+00:00"
+    },
+    {
+      "guid": "nQoNfK8TsRYQW3mExW5rGG",
+      "title": "Star Wars: Galactic Racer's singleplayer is a clever roguelike gauntlet I could easily sink hours into",
+      "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-singleplayer-is-a-clever-roguelike-gauntlet-i-could-easily-sink-hours-into/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030605",
+      "title": "Netflix Unveils Premiere Date & First-Look Images For \u2018The Body\u2019 Starring Sofia Wyle, Gabby Windey & More",
+      "url": "https://deadline.com/2026/08/the-body-release-date-photos-gabby-windey-netflix-1237030605/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030964",
+      "title": "Tom Felton Extends Run As Draco Malfoy For Final Time In Broadway\u2019s \u2018Harry Potter And The Cursed Child\u2019",
+      "url": "https://deadline.com/2026/08/tom-felton-broadway-harry-potter-and-the-cursed-child-1237030964/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030966",
+      "title": "Ari Emanuel\u2019s Mari Agrees Deal To Buy ATG, Owner Of Theater Venues Behind Shows Like \u2018Harry Potter & The Cursed Child\u2019",
+      "url": "https://deadline.com/2026/08/ari-emanuel-mari-to-buy-atg-theater-1237030966/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:15:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237001633",
+      "title": "\u2018Small Town Scandal\u2019: \u2018Only Murders In The Building\u2019-Inspired Show From New Zealand Comic Royalty Proves Podcasts Can Be Perfect \u201cProof Of Concept\u201d",
+      "url": "https://deadline.com/2026/08/small-town-scandal-podcast-tv-show-rose-matafeo-breakout-1237001633/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237030393",
+      "title": "Spotify Creates New \u2018AI Personas\u2019 Label To Flag AI-Generated Artists",
+      "url": "https://deadline.com/2026/08/spotify-new-ai-persona-label-flags-ai-generated-artists-1237030393/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831436",
+      "title": "Netflix Teen Thriller \u2018The Body\u2019 Sets November Release Date, Drops First Look Photos (TV News Roundup)",
+      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-10-1236831436/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831777",
+      "title": "Marina Signs With UTA in All Areas (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/marina-signs-with-uta-1236831777/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:15:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831852",
+      "title": "\u2018The Secret Agent\u2019 Star Maria Fernanda C\u00e2ndido to Lead \u2018Lost Objects\u2019 by Brazilian Director Luiz Fernando Carvalho (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/maria-fernanda-candido-lost-objects-luiz-fernando-carvalho-1236831852/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831939",
+      "title": "Rosario Dawson Says Her \u2018Spider-Man: Brand New Day\u2019 Cameo \u2018Got Cut Out\u2019 and Her Mom Told Her \u2018That Sucks\u2019: \u2018I Hope I Get to Be Claire Again\u2019",
+      "url": "https://variety.com/2026/film/news/rosario-dawson-spider-man-brand-new-day-cameo-cut-out-1236831939/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:07:55+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831936",
+      "title": "David Ellison Threatens to Pull Paramount Out of California Starting Oct. 1 if States Refuse to Negotiate Settlement in Antitrust Suit",
+      "url": "https://variety.com/2026/film/news/david-ellison-move-paramount-out-of-california-states-antitrust-lawsuit-1236831936/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:05:13+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831963",
+      "title": "Oscars: Lithuania Submits \u2018How to Divorce During the War\u2019 for International Feature Race",
+      "url": "https://variety.com/2026/film/awards/how-to-divorce-during-the-war-lithuania-oscars-1236831963/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:02:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831246",
+      "title": "Summer Box Office Hits $4 Billion for Second Time Since COVID, Thanks to \u2018Odyssey,\u2019 \u2018Spider-Man\u2019 and More Blockbusters",
+      "url": "https://variety.com/2026/film/box-office/summer-box-office-4-billion-odyssey-spiderman-obsession-backrooms-1236831246/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:01:56+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831562",
+      "title": "Selena Gomez\u2019s Rare Beauty Impact Fund Partners With Pacsun on Denim Collection",
+      "url": "https://variety.com/2026/shopping/news/selena-gomez-rare-beauty-pacsun-collection-shop-online-1236831562/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831790",
+      "title": "Spotify Strikes Back Against AI Artists With \u2018AI Persona\u2018 Label",
+      "url": "https://variety.com/2026/music/news/spotify-strikes-back-against-ai-artists-ai-persona-label-1236831790/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831810",
+      "title": "PaleyFest NY Launches New Award; Billy Crystal, \u2018American Horror Story,\u2019 \u2018Dexter\u2019 Among First Recipients",
+      "url": "https://variety.com/2026/tv/news/paleyfest-ny-award-billy-crystal-american-horror-story-dexter-1236831810/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670674",
+      "title": "Netflix Sets Premiere Date, Drops First Look for Raunchy Catholic School Psychodrama \u2018The Body\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-the-body-release-date-first-look-photos-1236670674/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670267",
+      "title": "\u2018The Brink of War\u2019 Review: Jeff Daniels Makes an Unpersuasive Ronald Reagan in Talky Historical Drama About Nuclear Summit With Gorbachev",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-brink-of-war-review-jeff-daniels-ronald-reagan-1236670267/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670515",
+      "title": "Ari Emanuel\u2019s Mari Acquires Broadway and West End Theater Owner ATG Entertainment",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ari-emanuels-mari-acquires-broadway-and-west-end-theater-owner-atg-entertainment-1236670515/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670607",
+      "title": "Spotify to Start Labeling AI Artists",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-announces-ai-personas-feature-1236670607/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "TdrgxeddSYJhpsQPfoKSXa",
+      "title": "The End of Oak Street shakes off AI controversy with glowing first reactions: \"Best dinosaur movie since Jurassic Park\"",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/the-end-of-oak-street-shakes-off-ai-controversy-with-glowing-first-reactions-best-dinosaur-movie-since-jurassic-park/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:16:09+00:00"
+    },
+    {
+      "guid": "pRqgFxvgkzpytN2AgDLn9U",
+      "title": "I just awarded this Intel CPU 4/5 stars, and now you can get it with a free AIO cooler and two upcoming games",
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/i-just-awarded-this-intel-cpu-4-5-stars-and-now-you-can-get-it-with-a-free-aio-cooler-and-two-upcoming-games/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T12:58:20+00:00"
+    },
+    {
+      "guid": "1846870",
+      "title": "How Students Can Get GTA 6 For $64",
+      "url": "https://www.gamespot.com/articles/how-students-can-get-gta-6-for-64/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:22:12+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204845",
+      "title": "PS Plus' Big Walk Hits Big Sales, Surpasses 1 Million Copies Sold in Under a Week",
+      "url": "https://www.pushsquare.com/news/2026/08/ps-plus-big-walk-hits-big-sales-surpasses-1-million-copies-sold-in-under-a-week",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120736",
+      "title": "Xenoblade Chronicles 2 Switch 2 Edition Prioritizes Blades",
+      "url": "https://www.siliconera.com/xenoblade-chronicles-2-switch-2-edition-prioritizes-blades/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1051162",
+      "title": "Sacred 2: Fallen Angel Remaster now available for Switch",
+      "url": "https://www.gematsu.com/2026/08/sacred-2-fallen-angel-remaster-now-available-for-switch",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:15:56+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068647",
+      "title": "Crystals of Irm launches this fall",
+      "url": "https://www.gematsu.com/2026/08/crystals-of-irm-launches-this-fall",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:11:07+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068643",
+      "title": "GOBBLE coming west in 2027",
+      "url": "https://www.gematsu.com/2026/08/gobble-coming-west-in-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:04:45+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750393",
+      "title": "Elden Ring Malenia Gets a New 1/4-Scale Statue Ahead of the 2028 Live-Action Movie",
+      "url": "https://otakukart.com/elden-ring-malenia-gets-a-new-1-4-scale-statue-ahead-of-the-2028-live-action-movie/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:18:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750392",
+      "title": "Palworld 1.0 Bug Turns Sekhmet Into a Giant Pal 200 Times Her Normal Size",
+      "url": "https://otakukart.com/palworld-1-0-bug-turns-sekhmet-into-a-giant-pal-200-times-her-normal-size/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-11T13:08:42+00:00"
     }
   ]
 }
