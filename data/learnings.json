@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Diablo 4 Reportedly Heading to Switch 2, But Clair Obscur Port Faces Major Hurdles",
-      "tag": "nintendo switch 2",
-      "posted_at": "2026-08-05T16:31:13.397577+00:00",
-      "urls": [
-        "https://kotaku.com/porting-clair-obscur-expedition-33-to-switch-2-might-be-a-big-technical-challenge-but-diablo-4-is-finally-on-the-way-2000721940"
-      ],
-      "article_titles": [
-        "Porting Clair Obscur: Expedition 33 To Switch 2 Might Be A \u2018Big Technical Challenge\u2019 But Diablo 4 Is Reportedly On The Way"
-      ]
-    },
-    {
-      "headline": "The Pok\u00e9mon Company Sued After Ex-Employee Allegedly Installed Hidden Camera in Office Bathroom",
-      "tag": "the pok\u00e9mon company",
-      "posted_at": "2026-08-05T16:31:13.569551+00:00",
-      "urls": [
-        "https://kotaku.com/pokemon-lawsuit-bellevue-office-bathroom-camera-ben-tsai-2000721934"
-      ],
-      "article_titles": [
-        "The Pok\u00e9mon Company Sued After Ex-Employee Allegedly Set Up Camera In Office Bathroom"
-      ]
-    },
-    {
-      "headline": "Xbox Consoles Are Getting New Capture and Achievement Features",
-      "tag": "xbox",
-      "posted_at": "2026-08-05T17:01:01.136495+00:00",
-      "urls": [
-        "https://www.ign.com/articles/xbox-console-updates-adding-new-capture-and-achievement-features"
-      ],
-      "article_titles": [
-        "Xbox Console Updates Adding New Capture and Achievement Features"
-      ]
-    },
-    {
       "headline": "YouTube Shut Down Larian's Official Baldur's Gate 3 Stream Over Its Own Game's Sexy Content",
       "tag": "baldur's gate 3",
       "posted_at": "2026-08-05T18:30:56.669692+00:00",
@@ -1052,27 +1019,24 @@
         "The \"untranslatable\" book that inspired Clair Obscur: Expedition 33 has been translated, and you can buy it later this year",
         "The \"untranslatable\" book that inspired Clair Obscur: Expedition 33 has been translated, and you can buy it later this year"
       ]
+    },
+    {
+      "headline": "Warhammer 40,000: Dawn of War 4 Delayed to December, DLC Roadmap Updated",
+      "tag": "warhammer 40,000: dawn of war 4",
+      "posted_at": "2026-08-12T17:01:03.861962+00:00",
+      "urls": [
+        "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-delayed-out-of-the-september-crush-dev-updates-roadmap-of-dlc",
+        "https://www.gematsu.com/2026/08/warhammer-40000-dawn-of-war-iv-delayed-to-december-3"
+      ],
+      "article_titles": [
+        "Warhammer 40,000: Dawn of War 4 Delayed Out of the September Crush, Dev Updates Roadmap of DLC",
+        "Warhammer 40,000: Dawn of War IV delayed to December 3"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237028562",
-      "title": "Sophia Anne Caruso To Star In Duncan Sheik\u2019s \u2018Memoirs Of Amorous Gentlemen\u2019 Stage Musical Adaptation",
-      "url": "https://deadline.com/2026/08/sophia-anne-caruso-memoirs-of-amorous-gentlemen-1237028562/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237030931",
-      "title": "Actor & Singer Luke Charles Stafford Launches Dream United Studios With \u2018Against The Wall\u2019",
-      "url": "https://deadline.com/2026/08/luke-charles-stafford-dream-united-studios-against-the-wall-1237030931/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T13:00:00+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236832803",
       "title": "Locarno\u2019s Spanish Previews: A Big Basque Period Thriller, the Debut of \u2018The Others\u2019 Editor and Tales of Millennials\u2019 New Emotional Bonds",
@@ -1080,38 +1044,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-12T13:19:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236832787",
-      "title": "Teona Mitevska, C\u00e9lina Sciamma and More to Launch Female-Empowerment Initiative Sister Sister at Sarajevo Film Festival (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/teona-mitevska-celina-sciamma-sister-sister-sarajevo-1236832787/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T13:00:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236832246",
-      "title": "Audible\u2019s \u2018Exoplanet\u2019 Sci-Fi Thriller From \u2018Project Hail Mary\u2019 Author Andy Weir Stars Anthony Mackie, Ariana DeBose, John Leguizamo",
-      "url": "https://variety.com/2026/digital/news/audible-exoplanet-andy-weir-anthony-mackie-ariana-debose-john-leguizamo-1236832246/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236671246",
-      "title": "Addiction Experts on Brad Pitt: \u201cAlcoholics Are a Horrible Source of Information About Themselves\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-drinking-again-experts-react-1236671246/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T13:00:20+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236671576",
-      "title": "The Pillsbury Doughboy Is Coming for Hollywood",
-      "url": "https://www.hollywoodreporter.com/business/business-news/brands-hollywood-toyota-kraft-gm-gap-1236671576/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T13:00:00+00:00"
     },
     {
       "guid": "U3Gg9qPdFQC3qFL4igN46o",
@@ -1122,36 +1054,12 @@
       "published_dt": "2026-08-12T13:22:49+00:00"
     },
     {
-      "guid": "U4PzxhwpTbj3vEABmsh5fR",
-      "title": "Hell Let Loose: Vietnam review: \"Often frustrating but always involving, this FPS brings war to life and bloody death\"",
-      "url": "https://www.gamesradar.com/games/fps/hell-let-loose-vietnam-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T13:00:00+00:00"
-    },
-    {
       "guid": "1847419",
       "title": "More Lord Of The Rings Game Re-Releases Are Coming",
       "url": "https://www.gamespot.com/articles/more-lord-of-the-rings-game-re-releases-are-coming/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-12T13:07:21+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204888",
-      "title": "Poll: So, Are You Getting The Zelda Switch 2 Console And Pro Controller?",
-      "url": "https://www.nintendolife.com/features/poll-so-are-you-getting-the-zelda-switch-2-console-and-pro-controller",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1120651",
-      "title": "Review: Big Walk Is Best Enjoy a Bit at a Time",
-      "url": "https://www.siliconera.com/review-big-walk-is-best-enjoy-a-bit-at-a-time/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T13:00:00+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-204895",
@@ -1168,14 +1076,6 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-12T13:07:27+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1068512",
-      "title": "Viking tower defense action game Hordeguard: Winds of the North announced for PC",
-      "url": "https://www.gematsu.com/2026/08/viking-tower-defense-action-game-hordeguard-winds-of-the-north-announced-for-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T13:00:17+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1750499",
@@ -2112,6 +2012,150 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-12T16:27:58+00:00"
+    },
+    {
+      "guid": "b8edd38c-2c80-4b72-9465-efc78aa795e7",
+      "title": "Halo 2's Midnight Release Turns Into a Hostage Situation in a New Short Film",
+      "url": "https://www.ign.com/articles/halo-2s-midnight-release-turns-into-a-hostage-situation-in-a-new-short-film",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T16:39:46+00:00"
+    },
+    {
+      "guid": "fa4a8ab1-a4f0-42fd-9cab-527ea654c114",
+      "title": "Warhammer 40,000: Dawn of War 4 Delayed Out of the September Crush, Dev Updates Roadmap of DLC",
+      "url": "https://www.ign.com/articles/warhammer-40000-dawn-of-war-4-delayed-out-of-the-september-crush-dev-updates-roadmap-of-dlc",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T16:36:50+00:00"
+    },
+    {
+      "guid": "c2cfb08d-4f24-48a2-85d2-39fe6df8a7f5",
+      "title": "CD Projekt Confirms Layoffs on The Witcher Multiplayer Spinoff, Issues Statement",
+      "url": "https://www.ign.com/articles/cd-projekt-confirms-layoffs-on-the-witcher-multiplayer-spinoff-issues-statement",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T16:31:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031963",
+      "title": "Ben Brown Tapped As Co-President Of Marketing Agency Bond Reuniting With Wayne Watson To Co-Run Company",
+      "url": "https://deadline.com/2026/08/ben-brown-bond-wayne-watson-1237031963/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T17:00:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031877",
+      "title": "Neal Huff, Gaby Hoffmann & Sky Yang Join Paramount+\u2019s \u2018The Best Of Us,\u2019 Formerly \u20189/12\u2019",
+      "url": "https://deadline.com/2026/08/neal-huff-gaby-hoffmann-paramount-plus-the-best-of-us-cast-1237031877/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831746",
+      "title": "How \u2018Pluribus\u2019 Star Carlos Manuel Vesga Built Manousos\u2019 Pilgrimage of Faith, Exile and Resistance",
+      "url": "https://variety.com/2026/tv/focus/pluribus-carlos-manuel-vesga-1236831746/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T16:40:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672111",
+      "title": "Netflix Renews \u2018Seinfeld\u2019 Licensing Deal for 5 More Years",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/seinfeld-streaming-on-netflix-new-five-year-deal-1236672111/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T17:00:07+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671474",
+      "title": "Romy Reiner Stars Opposite Sharon Lawrence and Matt Walsh in \u2018Getting to That Age\u2019 First Look",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/romy-reiner-acting-short-film-getting-to-that-age-1236671474/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671480",
+      "title": "How \u2018The Shards\u2019 Blew Up at HBO \u2014 and Ended Up in Ryan Murphy\u2019s Hands",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/how-bret-easton-ellis-novel-hbo-ryan-murphy-1236671480/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671506",
+      "title": "Did Jeff Bezos Just Buy a $200\u202fMillion Condo in Beverly\u202fHills?",
+      "url": "https://www.hollywoodreporter.com/lifestyle/real-estate/jeff-bezos-200-million-condo-beverly-hills-1236671506/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T17:00:00+00:00"
+    },
+    {
+      "guid": "h9scPgV32cq46zBqYgzux4",
+      "title": "Microsoft drops new Gears of War E-Day Xbox controller, and I'm just hoping these press shots aren't lying to me",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/microsoft-drops-new-gears-of-war-e-day-xbox-controller-and-im-just-hoping-these-press-shots-arent-lying-to-me/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:40:54+00:00"
+    },
+    {
+      "guid": "KXfwBpeWcyHoiq7P4dThoG",
+      "title": "The Scuf Envision Pro's biggest selling point is exactly why I wouldn't recommend it",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-scuf-envision-pros-biggest-selling-point-is-exactly-why-i-wouldnt-recommend-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:36:50+00:00"
+    },
+    {
+      "guid": "zDKGtBSqJk83hjKBnS2xMm",
+      "title": "\"If I was buying BioWare, I would want everything\": Former Dragon Age lead thinks \"there are several ways\" the developer survives EA's $55 billion buyout, but none are pretty",
+      "url": "https://www.gamesradar.com/games/dragon-age/if-i-was-buying-bioware-i-would-want-everything-former-dragon-age-lead-thinks-there-are-several-ways-the-developer-survives-eas-usd55-billion-buyout-but-none-are-pretty/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:34:32+00:00"
+    },
+    {
+      "guid": "TBZhBkJunZX92bR8eU2k24",
+      "title": "The Witcher multiplayer spin-off Project Sirius reportedly hit with another wave of layoffs",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-multiplayer-spin-off-project-sirius-reportedly-hit-with-another-wave-of-layoffs/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:33:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204884",
+      "title": "Crimson Desert DLC on Track for 2026 Release as Dev Ponders Multiplayer Modes",
+      "url": "https://www.pushsquare.com/news/2026/08/crimson-desert-dlc-on-track-for-2026-release-as-dev-ponders-multiplayer-modes",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120969",
+      "title": "2 Snow Miku AMP+ Hatsune Miku Figures Revealed",
+      "url": "https://www.siliconera.com/2-snow-miku-amp-hatsune-miku-figures-revealed/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750559",
+      "title": "Prime Video Releases Neagley Trailer as Reacher Spinoff Sets September 2026 Premiere",
+      "url": "https://otakukart.com/prime-video-releases-neagley-trailer-as-reacher-spinoff-sets-september-2026-premiere/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:56:44+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=615718",
+      "title": "D&D: Five Ways To Play Up A Magical Villain Without Spell Slots",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-five-ways-to-play-up-a-magical-villain-without-spell-slots.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T17:00:00+00:00"
     }
   ]
 }
