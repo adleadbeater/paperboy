@@ -1090,28 +1090,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000723833",
-      "title": "Damn, The PS Plus Game Catalog Is Having One Of Its Best Months In A Long Time",
-      "url": "https://kotaku.com/damn-the-ps-plus-game-catalog-is-having-one-of-its-best-months-in-a-long-time-2000723833",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T17:00:32+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237031849",
       "title": "\u2018Don\u2019t Say Good Luck\u2019 Review: Melanie Lynskey And Sunny Sandler Shine In Heartbreaking Coming Of Age True Story",
       "url": "https://deadline.com/2026/08/dont-say-good-luck-review-melanie-lynskey-sunny-sandler-1237031849/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-12T17:18:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237031910",
-      "title": "Top House Judiciary Democrat Jamie Raskin Seeks Transcribed Interview With David Ellison Over Paramount-Warner Bros. Discovery Merger",
-      "url": "https://deadline.com/2026/08/paramount-warner-bros-democrats-david-ellison-1237031910/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T17:09:40+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236832963",
@@ -1128,22 +1112,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-12T17:12:32+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236831438",
-      "title": "\u2018Assassin\u2019s Creed\u2019 Creator\u2019s New Action-Adventure Game \u20181666: Amsterdam\u2019 Sets Early Access Release (Gaming News Roundup)",
-      "url": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T17:07:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750560",
-      "title": "ARC Raiders\u2019 Frozen Trail Update Launches October 8 With New Map, ARC Threats and Major Progression Changes",
-      "url": "https://otakukart.com/arc-raiders-frozen-trail-update-launches-october-8-with-new-map-arc-threats-and-major-progression-changes/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T17:00:56+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237031961",
@@ -1952,6 +1920,30 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-12T20:36:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031910",
+      "title": "Top House Judiciary Democrat Seeks Transcribed Interview With David Ellison Over Paramount-WBD Merger; Company Discussed Editorial Board For CNN",
+      "url": "https://deadline.com/2026/08/paramount-warner-bros-democrats-david-ellison-1237031910/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:49:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833281",
+      "title": "Walt Disney Studios Promotes Melissa Stone to Publicity Chief",
+      "url": "https://variety.com/2026/film/news/disney-studio-publicity-melissa-stone-1236833281/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T21:00:00+00:00"
+    },
+    {
+      "guid": "SvzBi2upPnQrNQfGX95jZV",
+      "title": "The Witcher 3's Geralt actor wishes he could \"sue every single AI platform\" for stealing his voice",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3s-geralt-actor-wishes-he-could-sue-every-single-ai-platform-for-stealing-his-voice/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T21:08:12+00:00"
     }
   ]
 }
