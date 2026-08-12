@@ -1064,102 +1064,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/crimson-desert-switch-2-multiplayer",
-      "title": "Crimson Desert getting a Switch 2 release, and Pearl Abyss sees \"significant potential\" for multiplayer, with \"live service operation models\" mentioned",
-      "url": "https://www.eurogamer.net/crimson-desert-switch-2-multiplayer",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:20:37+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000723777",
-      "title": "Witcher Multiplayer Project Suffers Another Round Of Layoffs",
-      "url": "https://kotaku.com/witcher-multiplayer-project-suffers-another-round-of-layoffs-2000723777",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:14:17+00:00"
-    },
-    {
-      "guid": "6K6XeDBiPfgBSUF7TcZeoW",
-      "title": "Nvidia reckons new $500 billion investment should allay fears AI companies are just funded by the same pot of cash moving around in one big circle. Reassured yet?",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-reckons-new-usd500-billion-investment-should-allay-fears-ai-companies-are-just-funded-by-the-same-pot-of-cash-moving-around-in-one-big-circle-reassured-yet/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:23:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236832982",
-      "title": "Steve Lacy Announces \u2018Oh Yeah?\u2019 Fall Tour Dates",
-      "url": "https://variety.com/2026/music/news/steve-lacy-oh-yeah-fall-2026-tour-dates-1236832982/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:17:51+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236672013",
-      "title": "Lakers to Be Sold to Bob Iger and Joshua Kushner\u2019s Firm",
-      "url": "https://www.hollywoodreporter.com/business/business-news/lakers-to-be-sold-to-bob-iger-and-joshua-kushners-firm-1236672013/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:25:36+00:00"
-    },
-    {
-      "guid": "6gNtiSnSdCsZt94VzgMbHb",
-      "title": "Ghost of Yotei: Complete Edition launches on disc alongside Echoes of Sekigahara DLC, a full-on \"narrative expansion\" with a new location",
-      "url": "https://www.gamesradar.com/games/open-world/ghost-of-yotei-complete-edition-launches-on-disc-alongside-echoes-of-sekigahara-dlc-a-full-on-narrative-expansion-with-a-new-location/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:23:02+00:00"
-    },
-    {
-      "guid": "bywzUmFBxLmXkwRZHAFEFc",
-      "title": "Amazon gives up on MMOs, hands Lost Ark and Throne and Liberty to the original devs instead of shutting them down like New World",
-      "url": "https://www.gamesradar.com/games/mmo/amazon-gives-up-on-mmos-hands-lost-ark-and-throne-and-liberty-to-the-original-devs-instead-of-shutting-them-down-like-new-world/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:20:58+00:00"
-    },
-    {
-      "guid": "PRHkU5KDCPinFnLPEakwZC",
-      "title": "Elder Scrolls 6 setting theory backed by ex-Bethesda dev as fans try to decipher Xbox CEO's teaser",
-      "url": "https://www.gamesradar.com/games/the-elder-scrolls/elder-scrolls-6-setting-theory-backed-by-ex-bethesda-dev-as-fans-try-to-decipher-xbox-ceos-teaser/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:18:57+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204903",
-      "title": "Ghost of Yotei: Complete Edition Announced, Includes New Expansion, Game Mode, More",
-      "url": "https://www.pushsquare.com/news/2026/08/ghost-of-yotei-complete-edition-announced-includes-new-expansion-game-mode-more",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:15:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1069062",
-      "title": "Ghost of Yotei narrative expansion, new combat survival mode launch October 1 alongside Complete Edition",
-      "url": "https://www.gematsu.com/2026/08/ghost-of-yotei-narrative-expansion-new-combat-survival-mode-launch-october-1-alongside-complete-edition",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:14:33+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750502",
-      "title": "Call of Duty: Modern Warfare 4 Pre-Orders Unlock Campaign Early Access on Switch 2",
-      "url": "https://otakukart.com/call-of-duty-modern-warfare-4-pre-orders-unlock-campaign-early-access-on-switch-2/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:28:08+00:00"
-    },
-    {
-      "guid": "t3_1vmfl6l",
-      "title": "Kotaku: The Witcher multiplayer project Project Sirius hit with another round of layoffs",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vmfl6l/kotaku_the_witcher_multiplayer_project_project/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:23:29+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/ghost-of-yotei-complete-edition-cost-release",
       "title": "Ghost of Y\u014dtei: Complete Edition is coming to PS5 later this year, with new story additions, a new roguelike survival mode, and more",
       "url": "https://www.eurogamer.net/ghost-of-yotei-complete-edition-cost-release",
@@ -1174,14 +1078,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-12T14:45:18+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000723775",
-      "title": "Epic Sells ArtStation And Users Are Already Thrilled: \u2018Free From Epic And Their Love Of AI Slop\u2019",
-      "url": "https://kotaku.com/epic-artstation-fortnite-unreal-sold-sketchfab-kitbash3d-2000723775",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:30:04+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237031779",
@@ -1230,14 +1126,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-12T14:55:04+00:00"
-    },
-    {
-      "guid": "1847459",
-      "title": "Ghost Of Yotei Expansion, Roguelike Survival Mode, And Complete Edition Announced",
-      "url": "https://www.gamespot.com/articles/ghost-of-yotei-expansion-roguelike-survival-mode-and-complete-edition-announced/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:29:48+00:00"
     },
     {
       "guid": "https://www.nintendolife.com/#article-204906",
@@ -2182,6 +2070,70 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-08-12T18:00:27+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723876",
+      "title": "I Need Every Overwatch Player To Change This Setting Immediately",
+      "url": "https://kotaku.com/overwatch-season-4-patch-notes-lifeweaver-life-grip-2000723876",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T18:17:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032159",
+      "title": "\u2018Industry\u2019s Sagar Radia Joins Meghann Fahy In HBO\u2019s True-Crime Limited Series \u2018The Trial Of Louise Woodward\u2019",
+      "url": "https://deadline.com/2026/08/the-trial-of-louise-woodward-hbo-series-cast-sagar-radia-1237032159/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T18:19:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833147",
+      "title": "Travis Kelce Speaks Out on Wedding to Taylor Swift: \u2018Best Night of My Life\u2019 and \u2018It Was Cool to Live Out My Childhood Dream\u2019 of Being in MSG",
+      "url": "https://variety.com/2026/music/news/travis-kelce-interview-taylor-swift-wedding-best-night-1236833147/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T18:27:29+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671538",
+      "title": "How an Abandoned Shopping Mall Was Transformed into the Las Vegas Strip for \u2018Fallout\u2019 Season Two",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/abandoned-mall-transformed-las-vegas-fallout-season-two-1236671538/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T18:15:00+00:00"
+    },
+    {
+      "guid": "jQXU7wYt8JMX7jZ5fNmmyA",
+      "title": "\"There is probably some end\" to No Man's Sky, says Hello Games boss, but he'll probably come back 10 years later for a surprise update anyway",
+      "url": "https://www.gamesradar.com/games/survival/there-is-probably-some-end-to-no-mans-sky-says-hello-games-boss-but-hell-probably-come-back-10-years-later-for-a-surprise-update-anyway/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T18:20:06+00:00"
+    },
+    {
+      "guid": "5iucKUBfL3ve2v5MsRPEEG",
+      "title": "DCU's Waller and Wonder Woman show Paradise Lost have reportedly been scrapped, but Lanterns may get a second season",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/dcus-waller-and-wonder-woman-show-paradise-lost-have-reportedly-been-scrapped-but-lanterns-may-get-a-second-season/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T18:10:03+00:00"
+    },
+    {
+      "guid": "9pfzRRd2ZmNJAVwqkYAgvn",
+      "title": "Now that The Elder Scrolls 6 is playable, Bethesda's RPG nightmare of its own making is nearly over",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/now-that-the-elder-scrolls-6-is-playable-bethesdas-rpg-nightmare-of-its-own-making-is-nearly-over/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T18:00:00+00:00"
+    },
+    {
+      "guid": "1847529",
+      "title": "Amazon Will Soon Be Out Of The MMO Business Entirely",
+      "url": "https://www.gamespot.com/articles/amazon-will-soon-be-out-of-the-mmo-business-entirely/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T18:13:40+00:00"
     }
   ]
 }
