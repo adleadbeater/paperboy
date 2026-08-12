@@ -1064,46 +1064,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "mKwTpRTk22pHwe46vDYBBQ",
-      "title": "Crimson Desert has done so well it'll be getting a DLC this year, with more details coming sooner than I expected given Pearl Abyss' breakneck pace",
-      "url": "https://www.pcgamer.com/games/action/crimson-desert-has-done-so-well-itll-be-getting-a-dlc-this-year-with-more-details-coming-sooner-than-i-expected-given-pearl-abyss-breakneck-pace/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:04:13+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236875970",
-      "title": "Jonas Brothers Set For NFL Halftime Performance In Melbourne Game With Los Angeles Rams & San Francisco 49ers",
-      "url": "https://deadline.com/2026/08/jonas-brothers-nfl-halftime-performance-melbourne-game-rams-49ers-1236875970/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:06:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236832906",
-      "title": "Mel Gibson Says \u2018Lethal Weapon 5\u2019 Is Stuck in \u2018Some Kind of Industrial Film Hell\u2019 Even Though the \u2018Script Is Better Than All the Others\u2019",
-      "url": "https://variety.com/2026/film/news/lethal-weapon-5-script-mel-gibson-1236832906/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:02:52+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1068894",
-      "title": "Non-linear ghost story adventure game Remaining Grace announced for PC",
-      "url": "https://www.gematsu.com/2026/08/non-linear-ghost-story-adventure-game-remaining-grace-announced-for-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:00:51+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750501",
-      "title": "Phantom Blade Zero Sets August 17 State of Play for 20-Minute Gameplay Deep Dive",
-      "url": "https://otakukart.com/phantom-blade-zero-sets-august-17-state-of-play-for-20-minute-gameplay-deep-dive/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T14:08:08+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/crimson-desert-switch-2-multiplayer",
       "title": "Crimson Desert getting a Switch 2 release, and Pearl Abyss sees \"significant potential\" for multiplayer, with \"live service operation models\" mentioned",
       "url": "https://www.eurogamer.net/crimson-desert-switch-2-multiplayer",
@@ -1118,14 +1078,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-12T14:14:17+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000723768",
-      "title": "Xbox Says July\u2019s Massive Outage Was Made Far Worse By A Bug That\u2019s Now Been Fixed",
-      "url": "https://kotaku.com/xbox-outage-bug-client-software-stack-update-cant-play-games-2000723768",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T14:11:22+00:00"
     },
     {
       "guid": "6K6XeDBiPfgBSUF7TcZeoW",
@@ -2206,6 +2158,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-12T17:36:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832645",
+      "title": "How \u2018Meet the Press,\u2019 TV\u2019s Longest-Running Program, Continues to Take the Nation\u2019s Political Pulse",
+      "url": "https://variety.com/2026/tv/news/meet-the-press-tv-longest-running-program-nbc-100-1236832645/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T18:02:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672221",
+      "title": "\u2018The Lowdown\u2019 Reveals Season 2 Storyline and Premiere Date",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-lowdown-season-2-premiere-date-details-1236672221/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T18:00:31+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/aos-competitive-innovations-in-the-mortal-realms-2026-08-12/",
+      "title": "[AoS] Competitive Innovations in the Mortal Realms: 2026-08-12",
+      "url": "https://www.tabletopbattles.com/aos-competitive-innovations-in-the-mortal-realms-2026-08-12/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T18:00:27+00:00"
     }
   ]
 }
