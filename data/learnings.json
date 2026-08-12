@@ -1090,14 +1090,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236832629",
-      "title": "\u2018Boys for Life\u2019 Cast: Alex Wolff, Will Angus and More Almost Friday Stars to Lead Paramount Primal Comedy (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/boys-for-life-cast-alex-wolff-will-angus-almost-friday-movie-1236832629/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T16:30:00+00:00"
-    },
-    {
       "guid": "b8edd38c-2c80-4b72-9465-efc78aa795e7",
       "title": "Halo 2's Midnight Release Turns Into a Hostage Situation in a New Short Film",
       "url": "https://www.ign.com/articles/halo-2s-midnight-release-turns-into-a-hostage-situation-in-a-new-short-film",
@@ -1128,14 +1120,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-12T17:00:21+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237031877",
-      "title": "Neal Huff, Gaby Hoffmann & Sky Yang Join Paramount+\u2019s \u2018The Best Of Us,\u2019 Formerly \u20189/12\u2019",
-      "url": "https://deadline.com/2026/08/neal-huff-gaby-hoffmann-paramount-plus-the-best-of-us-cast-1237031877/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T16:30:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236831746",
@@ -1208,14 +1192,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-12T16:33:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204884",
-      "title": "Crimson Desert DLC on Track for 2026 Release as Dev Ponders Multiplayer Modes",
-      "url": "https://www.pushsquare.com/news/2026/08/crimson-desert-dlc-on-track-for-2026-release-as-dev-ponders-multiplayer-modes",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T16:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1120969",
@@ -2024,6 +2000,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-12T20:06:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833290",
+      "title": "\u2018Chicago PD\u2019s\u2019 Jesse Lee Soffer, Matt Olmstead to Develop \u2018Strike Force\u2019 Drama at CBS, Jerry Bruckheimer to Produce",
+      "url": "https://variety.com/2026/tv/news/chicago-pd-jesse-lee-soffer-matt-olmstea-strike-force-cbs-1236833290/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:30:00+00:00"
     }
   ]
 }
