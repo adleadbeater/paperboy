@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Fields of Mistria Hits 1.0 \u2014 Is This the Best Farm Sim Since Stardew Valley?",
-      "tag": "fields of mistria",
-      "posted_at": "2026-08-05T20:22:37.412170+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/life-sim/fields-of-mistria-officially-becomes-the-best-farm-sim-since-stardew-valley-now-that-its-launched-a-1-0-update-today/"
-      ],
-      "article_titles": [
-        "Fields of Mistria officially becomes the best farm sim since Stardew Valley with its 1.0 update today"
-      ]
-    },
-    {
       "headline": "Path of Exile Devs Promise \"Extreme Shakeup\" to Fix Stale Endgame and Boring Loot",
       "tag": "path of exile",
       "posted_at": "2026-08-05T21:39:42.270829+00:00",
@@ -1082,67 +1071,24 @@
       "article_titles": [
         "Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out"
       ]
+    },
+    {
+      "headline": "Kingdom Hearts Gets a Disney D23 Panel Featuring Sora and Riku's Voice Actors",
+      "tag": "kingdom hearts",
+      "posted_at": "2026-08-12T20:29:16.392130+00:00",
+      "urls": [
+        "https://www.siliconera.com/disney-d23-kingdom-hearts-panel-features-sora-and-riku-voice-actors/",
+        "https://www.siliconera.com/disney-d23-kingdom-hearts-panel-features-sora-and-riku-voice-actors/"
+      ],
+      "article_titles": [
+        "Disney D23 Kingdom Hearts Panel Features Sora and Riku Voice Actors",
+        "Disney D23 Kingdom Hearts Panel Features Sora and Riku Voice Actors"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "diis6LDX98wyyYTrYU6FMS",
-      "title": "Amazon drops Lost Ark and Throne and Liberty",
-      "url": "https://www.pcgamer.com/games/mmo/amazon-drops-lost-ark-and-throne-and-liberty/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T16:01:40+00:00"
-    },
-    {
-      "guid": "1847479",
-      "title": "Mysterious Witcher Game Project Sirius Undergoes More Changes \u2013 Report",
-      "url": "https://www.gamespot.com/articles/mysterious-witcher-game-project-sirius-undergoes-more-changes-report/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T16:04:43+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1069144",
-      "title": "Warhammer 40,000: Dawn of War IV delayed to December 3",
-      "url": "https://www.gematsu.com/2026/08/warhammer-40000-dawn-of-war-iv-delayed-to-december-3",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T16:09:56+00:00"
-    },
-    {
-      "guid": "https://www.tribality.com/?p=38065",
-      "title": "DriveThruRPG to Offer Paizo\u2019s Title Catalog",
-      "url": "https://www.tribality.com/2026/08/12/drivethrurpg-to-offer-paizos-title-catalog/",
-      "source_name": "Tribality",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T16:00:55+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/dawn-of-war-4-release-date-delay-december",
-      "title": "Dawn of War 4 gets a release date delay to \"further refine the experience ahead of launch\"",
-      "url": "https://www.eurogamer.net/dawn-of-war-4-release-date-delay-december",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T16:21:22+00:00"
-    },
-    {
-      "guid": "tvSkQbiy6a3wwi6N3E5Lzn",
-      "title": "It looks like Windows updates might actually be speeding up the OS now",
-      "url": "https://www.pcgamer.com/software/windows/it-looks-like-windows-updates-might-actually-be-speeding-up-the-os-now/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T16:24:55+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237031724",
-      "title": "American Film Market 2026 Expands With AFM House, New Indoor-Outdoor Space To Host Innovation Hub",
-      "url": "https://deadline.com/2026/08/american-film-market-2026-afm-house-innovation-hub-1237031724/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T16:18:00+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236832629",
       "title": "\u2018Boys for Life\u2019 Cast: Alex Wolff, Will Angus and More Almost Friday Stars to Lead Paramount Primal Comedy (EXCLUSIVE)",
@@ -1150,38 +1096,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-12T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236672067",
-      "title": "Why Does Minnesota Keep Electing Entertainers?",
-      "url": "https://www.hollywoodreporter.com/news/politics-news/michele-tafoya-election-senate-minnesota-running-1236672067/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T16:25:07+00:00"
-    },
-    {
-      "guid": "1847501",
-      "title": "One Of This Year\u2019s Biggest Games Is Coming To Switch 2 Next Year",
-      "url": "https://www.gamespot.com/articles/one-of-this-years-biggest-games-is-coming-to-switch-2-next-year/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T16:22:05+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1069150",
-      "title": "Harvest Moon: Echoes of Teradea delayed to October 15",
-      "url": "https://www.gematsu.com/2026/08/harvest-moon-echoes-of-teradea-delayed-to-october-15",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T16:23:28+00:00"
-    },
-    {
-      "guid": "t3_1vmizod",
-      "title": "Asha Sharma (possibly?) teases subtitle for Elder Scrolls 6 on Twitter; BGS and Xbox CSO, VP of Games Marketing join in",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vmizod/asha_sharma_possibly_teases_subtitle_for_elder/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T16:27:58+00:00"
     },
     {
       "guid": "b8edd38c-2c80-4b72-9465-efc78aa795e7",
@@ -1990,6 +1904,126 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-12T19:27:38+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000723860",
+      "title": "Pokopia\u2019s New DLC Is Its Most Melancholy Yet",
+      "url": "https://kotaku.com/pokopias-new-dlc-is-its-most-melancholy-yet-2000723860",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:10:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032228",
+      "title": "Lionsgate Stock Falls To 4-Month Low After Activist Investor Pushes AI Agenda",
+      "url": "https://deadline.com/2026/08/lionsgate-stock-drops-activist-investor-ai-demands-1237032228/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:15:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032266",
+      "title": "Apple\u2019s Eddy Cue On \u2018Ted Lasso\u2019 Season 5 Renewal Possibility: \u201cThere\u2019s Plenty Of Stories To Go On\u201d",
+      "url": "https://deadline.com/2026/08/eddy-cue-ted-lasso-season-5-renewal-apple-tv-1237032266/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:10:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032208",
+      "title": "\u2018The Wrong Girls\u2019 Review: Kristen Stewart & Alia Shawkat Are Co-Dependent Buds Who Can Read Minds (And Coughs) In Heartfelt Stoner Comedy",
+      "url": "https://deadline.com/2026/08/the-wrong-girls-review-kristen-stewart-alia-shawkat-stoner-1237032208/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:05:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031468",
+      "title": "\u2018The Lincoln Lawyer\u2019 Spinoff Starring Cobie Smulders In Fast-Track Development At Netflix \u2013 The Dish",
+      "url": "https://deadline.com/2026/08/the-lincoln-lawyer-spinoff-cobie-smulders-emi-netflix-1237031468/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:01:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833163",
+      "title": "Jon Favreau on His First Documentary, National Geographic\u2019s \u2018Lion\u2019: Not Knowing Whether the Lead Character Would Survive Was \u2018Harrowing\u2019",
+      "url": "https://variety.com/2026/tv/features/jon-favreau-documentary-national-geographic-lion-1236833163/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:23:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831760",
+      "title": "Salli Richardson-Whitfield on Making Emmy History With \u2018Task\u2019 and \u2018The Gilded Age\u2019",
+      "url": "https://variety.com/2026/tv/focus/salli-richardson-whitfield-task-gilded-age-1236831760/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833271",
+      "title": "Paramount Has Considered Creating Oversight Body for CNN in Warner Deal",
+      "url": "https://variety.com/2026/tv/news/paramount-cnn-oversight-committee-warner-deal-1236833271/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:05:03+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832100",
+      "title": "EA\u2019s New \u2018Star Wars\u2019 Game Was Inspired by an AMC Revolutionary War TV Series and a Love for Turn-Based Tactics",
+      "url": "https://variety.com/2026/gaming/news/star-wars-zero-company-clone-wars-developer-lucasfilm-1236832100/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672250",
+      "title": "A Man Secured a Lost Billy Joel Interview. Then He Re-Created the Singer in AI. (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/music/music-news/billy-joel-ai-documentary-watch-1236672250/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:19:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672387",
+      "title": "White House Press Secretary Karoline Leavitt to Step Down, Trump Reveals",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/trumps-karoline-leavitt-white-house-press-secretary-exit-1236672387/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:15:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672388",
+      "title": "Ousted Disney CEO Bob Chapek Writing Tell-All Memoir",
+      "url": "https://www.hollywoodreporter.com/business/business-news/bob-chapek-releasing-disney-tell-all-memoir-ceo-iger-1236672388/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T20:13:57+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204911",
+      "title": "Kiki's Delivery Service Meets Akira in 'Crescent County', Launching Summer '27",
+      "url": "https://www.nintendolife.com/news/2026/08/kikis-delivery-service-meets-akira-in-crescent-county-launching-summer-27",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T20:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=616163",
+      "title": "D&D Executive Producer On Dark Sun\u2019s Dark Themes And \u201c2nd Party Publishers\u201d",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-executive-producer-on-dark-suns-dark-themes-and-2nd-party-publishers.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T20:12:58+00:00"
+    },
+    {
+      "guid": "t3_1vmp2o4",
+      "title": "HoYoverse is working on a Monster Hunter type game called The Weavers",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vmp2o4/hoyoverse_is_working_on_a_monster_hunter_type/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T20:06:16+00:00"
     }
   ]
 }
