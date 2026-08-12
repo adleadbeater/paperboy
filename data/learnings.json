@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Gears of War: E-Day Beta Is Adding PvP After Fans Demanded It",
-      "tag": "gears of war: e-day",
-      "posted_at": "2026-08-05T15:37:31.432216+00:00",
-      "urls": [
-        "https://www.eurogamer.net/gears-of-war-e-day-weekend-beta-pvp-versus"
-      ],
-      "article_titles": [
-        "Gears of War: E-Day's upcoming weekend beta suddenly gets PvP due to fan demand"
-      ]
-    },
-    {
-      "headline": "RuneScape Tried to Charge Players $12 for Single-Use Balloons and Players Pushed Back",
-      "tag": "runescape",
-      "posted_at": "2026-08-05T15:37:31.681502+00:00",
-      "urls": [
-        "https://kotaku.com/runescape-tried-charging-players-12-for-one-time-use-balloons-but-the-community-yelled-so-much-they-backed-down-2000721911"
-      ],
-      "article_titles": [
-        "Runescape Thought It Could Get Away With Charging Players $12 For Single-Use Balloons"
-      ]
-    },
-    {
       "headline": "Diablo 4 Reportedly Heading to Switch 2, But Clair Obscur Port Faces Major Hurdles",
       "tag": "nintendo switch 2",
       "posted_at": "2026-08-05T16:31:13.397577+00:00",
@@ -1037,19 +1015,48 @@
       "article_titles": [
         "Epic Sells ArtStation And Users Are Already Thrilled: \u2018Free From Epic And Their Love Of AI Slop\u2019"
       ]
+    },
+    {
+      "headline": "Amazon Is Getting Out of the MMO Business \u2014 Handing Lost Ark and Throne and Liberty Back to Their Developers",
+      "tag": "amazon games",
+      "posted_at": "2026-08-12T16:15:09.442135+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/mmo/amazon-drops-lost-ark-and-throne-and-liberty/",
+        "https://www.gamesradar.com/games/mmo/amazon-gives-up-on-mmos-hands-lost-ark-and-throne-and-liberty-to-the-original-devs-instead-of-shutting-them-down-like-new-world/"
+      ],
+      "article_titles": [
+        "Amazon drops Lost Ark and Throne and Liberty",
+        "Amazon gives up on MMOs, hands Lost Ark and Throne and Liberty to the original devs instead of shutting them down like New World"
+      ]
+    },
+    {
+      "headline": "Dawn of War IV Delayed \u2014 Relic Pushes RTS Sequel to December 3",
+      "tag": "warhammer 40,000: dawn of war iv",
+      "posted_at": "2026-08-12T16:15:09.689147+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/strategy/dawn-of-war-4-has-been-delayed-we-saw-an-opportunity-to-further-enhance-dawn-of-war-4-and-deliver-the-quality-of-experience-weve-always-envisioned/"
+      ],
+      "article_titles": [
+        "Dawn of War 4 has been delayed: 'We saw an opportunity to further enhance Dawn of War 4 and deliver the quality of experience we've always envisioned'"
+      ]
+    },
+    {
+      "headline": "The \"Untranslatable\" French Book That Inspired Clair Obscur: Expedition 33 Is Finally Getting an English Translation",
+      "tag": "clair obscur: expedition 33",
+      "posted_at": "2026-08-12T16:15:09.919963+00:00",
+      "urls": [
+        "https://www.eurogamer.net/horde-of-the-counterwind-translated-expedition-33",
+        "https://www.eurogamer.net/horde-of-the-counterwind-translated-expedition-33"
+      ],
+      "article_titles": [
+        "The \"untranslatable\" book that inspired Clair Obscur: Expedition 33 has been translated, and you can buy it later this year",
+        "The \"untranslatable\" book that inspired Clair Obscur: Expedition 33 has been translated, and you can buy it later this year"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "wBFxNEVFoKAVbkrsUUjKWW",
-      "title": "Micron's top brass wins the memory crisis corpo double speak award: 'We do not have line of sight as to when that supply vector will intersect the demand vector'",
-      "url": "https://www.pcgamer.com/hardware/memory/microns-top-brass-wins-the-memory-crisis-corpo-double-speak-award-we-do-not-have-line-of-sight-as-to-when-that-supply-vector-will-intersect-the-demand-vector/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T12:09:00+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237031707",
       "title": "Jenna Fischer Joins Outpouring Of Support For \u2018The Office\u2019 Star Lucy Davis After She Revealed Terminal Cancer Diagnosis",
@@ -1075,14 +1082,6 @@
       "published_dt": "2026-08-12T12:15:00+00:00"
     },
     {
-      "guid": "https://www.timeextension.com/#article-204890",
-      "title": "\"Let's Fly Again\" - Hamster Is Bringing A Japan-Exclusive PS1 Fighter To Switch 2 & PS5 This Week",
-      "url": "https://www.timeextension.com/news/2026/08/lets-fly-again-hamster-is-bringing-a-japan-exclusive-ps1-fighter-to-switch-2-and-ps5-this-week",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T12:05:00+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1069023",
       "title": "Helldivers II joins PlayStation Plus Game Catalog, \u2018Devoid of Liberty\u2019 update now available",
       "url": "https://www.gematsu.com/2026/08/helldivers-ii-joins-playstation-plus-game-catalog-devoid-of-liberty-update-now-available",
@@ -1097,14 +1096,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-12T12:18:35+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750521",
-      "title": "Sacred 2 Remaster Is Now Available on Nintendo Switch With All Expansions and Updates",
-      "url": "https://otakukart.com/sacred-2-remaster-is-now-available-on-nintendo-switch-with-all-expansions-and-updates/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T12:12:51+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237028562",
@@ -2025,6 +2016,78 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-08-12T15:38:00+00:00"
+    },
+    {
+      "guid": "77837b5e-92f0-4361-820c-3a29c78b0fd7",
+      "title": "Mel Gibson Says He Still Wants to Direct Lethal Weapon 5, Although It Sounds Like It's in Development Hell",
+      "url": "https://www.ign.com/articles/mel-gibson-says-he-still-wants-to-direct-lethal-weapon-5-although-it-sounds-like-its-in-development-hell",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T15:53:32+00:00"
+    },
+    {
+      "guid": "diis6LDX98wyyYTrYU6FMS",
+      "title": "Amazon drops Lost Ark and Throne and Liberty",
+      "url": "https://www.pcgamer.com/games/mmo/amazon-drops-lost-ark-and-throne-and-liberty/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T16:01:40+00:00"
+    },
+    {
+      "guid": "BJa6qnMx29nKRFcn2pbpWQ",
+      "title": "Dawn of War 4 has been delayed: 'We saw an opportunity to further enhance Dawn of War 4 and deliver the quality of experience we've always envisioned'",
+      "url": "https://www.pcgamer.com/games/strategy/dawn-of-war-4-has-been-delayed-we-saw-an-opportunity-to-further-enhance-dawn-of-war-4-and-deliver-the-quality-of-experience-weve-always-envisioned/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-12T16:00:00+00:00"
+    },
+    {
+      "guid": "1847479",
+      "title": "Mysterious Witcher Game Project Sirius Undergoes More Changes \u2013 Report",
+      "url": "https://www.gamespot.com/articles/mysterious-witcher-game-project-sirius-undergoes-more-changes-report/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:04:43+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204909",
+      "title": "Video: How Does Oblivion Remastered On Switch 2 Compare To The Steam Deck?",
+      "url": "https://www.nintendolife.com/news/2026/08/video-how-does-oblivion-remastered-on-switch-2-compare-to-the-steam-deck",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204897",
+      "title": "Phantom Blade Zero PS5 Demo Leaks Before Next Week's State of Play",
+      "url": "https://www.pushsquare.com/news/2026/08/phantom-blade-zero-ps5-demo-leaks-before-next-weeks-state-of-play",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1120959",
+      "title": "McDonald\u2019s Teased Hello Kitty x Godzilla Happy Meal Toys",
+      "url": "https://www.siliconera.com/mcdonalds-teases-hello-kitty-and-godzilla-happy-meal-campaign/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:00:22+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1069144",
+      "title": "Warhammer 40,000: Dawn of War IV delayed to December 3",
+      "url": "https://www.gematsu.com/2026/08/warhammer-40000-dawn-of-war-iv-delayed-to-december-3",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:09:56+00:00"
+    },
+    {
+      "guid": "https://www.tribality.com/?p=38065",
+      "title": "DriveThruRPG to Offer Paizo\u2019s Title Catalog",
+      "url": "https://www.tribality.com/2026/08/12/drivethrurpg-to-offer-paizos-title-catalog/",
+      "source_name": "Tribality",
+      "source_tier": 2,
+      "published_dt": "2026-08-12T16:00:55+00:00"
     }
   ]
 }
