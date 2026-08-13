@@ -1077,62 +1077,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "cb69502d-acd3-44ed-89cf-b0fbd95090d5",
-      "title": "Old School Runescape Officially Recognizes Player Who Reached Level 99 Fishing Catching Only Shrimp and Anchovies",
-      "url": "https://www.ign.com/articles/old-school-runescape-officially-recognizes-player-who-reached-level-99-fishing-catching-only-shrimp-and-anchovies",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T22:57:02+00:00"
-    },
-    {
-      "guid": "pHrXeyWrwHjcHbgT259zwD",
-      "title": "Take-Two won't reveal raw GTA 6 preorder numbers because it doesn't know what they mean: 'It's just never happened before'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-wont-reveal-raw-gta-6-preorder-numbers-because-it-doesnt-know-what-they-mean-its-just-never-happened-before/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T22:51:13+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237032448",
-      "title": "Former Disney CEO Bob Chapek Memoir \u2018Behind The Castle Walls\u2019 Gets Fall Release Date",
-      "url": "https://deadline.com/2026/08/former-disney-ceo-bob-chapek-memoir-fall-release-date-1237032448/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T23:04:43+00:00"
-    },
-    {
-      "guid": "https://variety.com/?post_type=pmc_list&p=1236832430",
-      "title": "\u2018Reacher\u2019 Season 4 Cast Guide: Who\u2019s Who in the Prime Video Action Series",
-      "url": "https://variety.com/lists/reacher-season-4-cast-characters/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T23:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236833429",
-      "title": "As \u2018The Comeback\u2019 and \u2018Hacks\u2019 End, Valerie Cherish and Deborah Vance Are Emmy Competitors for the First and Last Time",
-      "url": "https://variety.com/2026/tv/awards/deborah-vance-valerie-cherish-emmy-battle-hacks-comeback-1236833429/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T23:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236672446",
-      "title": "A Movie Theater Didn\u2019t Get Sent \u2018Spider-Man\u2019 Posters, So an Employee Drew His Own",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/viral-hand-drawn-spider-man-brand-new-day-poster-artist-speaks-1236672446/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T22:54:29+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236672432",
-      "title": "From \u2018Summer House\u2019 to \u2018Love Island\u2019: Bravo, Peacock\u2019s Frances Berwick Says Unscripted Is Finally Getting Some Respect",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/from-summer-house-to-love-island-bravo-1236672432/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T22:49:43+00:00"
-    },
-    {
       "guid": "8030ed7b-d0d2-40c9-a991-bfc439104a59",
       "title": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
       "url": "https://www.ign.com/articles/mcdonalds-announces-eight-hello-kitty-x-godzilla-toys-coming-to-happy-meals-this-august",
@@ -1163,6 +1107,22 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-12T23:58:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833079",
+      "title": "Hollywood\u2019s Top-Grossing Films of 2025 Show Limited Progress Toward Inclusion, Study Says: \u2018The Pace of Change Has Been Slow\u2019",
+      "url": "https://variety.com/2026/film/news/hollywood-diversity-study-annenberg-inclusion-initiative-1236833079/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T02:59:12+00:00"
+    },
+    {
+      "guid": "t3_1vmyrwb",
+      "title": "The Duskbloods Preview listed for August 20th.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vmyrwb/the_duskbloods_preview_listed_for_august_20th/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T02:56:09+00:00"
     }
   ]
 }
