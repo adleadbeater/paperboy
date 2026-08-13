@@ -1114,62 +1114,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236833766",
-      "title": "\u2018The Odyssey\u2019 Sets 20,000 Screen China Release, Including Near-Total Imax Commitment (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/the-odyssey-20000-screen-china-release-1236833766/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T14:26:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236833466",
-      "title": "\u2018Amores Perros\u2019 Exec Producer Francisco Gonz\u00e1lez Compean and \u2018Counterattack\u2019 Director Chava Cartas Launch Durango Films (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/amores-perros-francisco-gonzalez-chava-cartas-durango-films-1236833466/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T14:24:41+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236833781",
-      "title": "Music Industry Moves: MNEK Signs With 1916 Enterprises for Management; UnitedMasters Ups Four Execs",
-      "url": "https://variety.com/2026/music/news/mnek-signs-with-1916-enterprises-1236833781/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T14:20:16+00:00"
-    },
-    {
-      "guid": "fZxkegmZDhDUafJuty6RtC",
-      "title": "Despite being shelved for years, Looney Tunes movie Coyote vs. Acme debuts to near-perfect Rotten Tomatoes score",
-      "url": "https://www.gamesradar.com/entertainment/family-movies/despite-being-shelved-for-years-looney-tunes-movie-coyote-vs-acme-debuts-to-near-perfect-rotten-tomatoes-score/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T14:17:58+00:00"
-    },
-    {
-      "guid": "ummAvkeT6ZicHa92gK6PES",
-      "title": "Fellow cosplayers, I need you to give 3D printers a chance: they've changed the game for me",
-      "url": "https://www.gamesradar.com/hardware/fellow-cosplayers-i-need-you-to-give-3d-printers-a-chance-theyve-changed-the-game-for-me/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T14:16:56+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-204944",
-      "title": "Review: KONKR Pocket Advance - The Nintendo GBA, Perfected",
-      "url": "https://www.timeextension.com/reviews/konkr-pocket-advance-the-nintendo-gba-perfected",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T14:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750660",
-      "title": "HoYoverse\u2019s Reportedly Unannounced RPG Could Take Inspiration From Monster Hunter",
-      "url": "https://otakukart.com/hoyoverses-reportedly-unannounced-rpg-could-take-inspiration-from-monster-hunter/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T14:17:51+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/you-have-fewer-than-200-days-to-migrate-all-your-old-pokemon-from-pokemon-bank-to-pokemon-home-or-theyre-gone-forever",
       "title": "You have fewer than 200 days to migrate all your old Pok\u00e9mon from Pok\u00e9mon Bank to Pok\u00e9mon Home, or they're gone forever",
       "url": "https://www.eurogamer.net/you-have-fewer-than-200-days-to-migrate-all-your-old-pokemon-from-pokemon-bank-to-pokemon-home-or-theyre-gone-forever",
@@ -1290,14 +1234,6 @@
       "published_dt": "2026-08-13T14:54:39+00:00"
     },
     {
-      "guid": "NKvVzDahN7sV7nr26e6KbM",
-      "title": "Sony killing PlayStation discs will make PS Store prices cheaper, former Square Enix financial exec says, and you only need to look at Steam to understand why",
-      "url": "https://www.gamesradar.com/games/sony-killing-playstation-discs-will-make-ps-store-prices-cheaper-former-square-enix-financial-exec-says-and-you-only-need-to-look-at-steam-to-understand-why/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T14:29:18+00:00"
-    },
-    {
       "guid": "1847810",
       "title": "Nintendo Is Pulling The Plug On One Of The Best Ways To Get Rare Pokemon",
       "url": "https://www.gamespot.com/articles/nintendo-is-pulling-the-plug-on-one-of-the-best-ways-to-get-rare-pokemon/",
@@ -1312,22 +1248,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-13T14:37:42+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204917",
-      "title": "Nintendo Download: 13th August (North America)",
-      "url": "https://www.nintendolife.com/news/2026/08/nintendo-download-13th-august-north-america",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204955",
-      "title": "Darksiders 4, Next Kingdom Come Game Both Planned to Launch Before March 2028",
-      "url": "https://www.pushsquare.com/news/2026/08/darksiders-4-next-kingdom-come-game-both-planned-to-launch-before-march-2028",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T14:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121030",
@@ -2312,6 +2232,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-13T18:01:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831438",
+      "title": "\u2018Assassin\u2019s Creed\u2019 Creator\u2019s New Action-Adventure Game \u20181666: Amsterdam\u2019 Sets Early Access Release (Gaming News Roundup)",
+      "url": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T18:14:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236668252",
+      "title": "\u201cWe Don\u2019t See This as Entertainment\u201d: \u2018THR Presents\u2019 Q&A With Octavia Spencer on True Crime Docu-Series \u2018Lost Women of Alaska\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-videos/octavia-spencer-lost-women-of-alaska-emmy-nominee-narrator-1236668252/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672565",
+      "title": "Sally Field Recalls the Roles She Fought for the Hardest",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/sally-field-career-remarkably-bright-creatures-1236672565/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T18:30:00+00:00"
+    },
+    {
+      "guid": "QeMwDoWt9axmHEVoqtFFLB",
+      "title": "The Elder Scrolls 6 finally showing signs of life won't deter the Bethesda fan who is 132 days into making their own Daggerfall-style RPG",
+      "url": "https://www.gamesradar.com/games/rpg/the-elder-scrolls-6-finally-showing-signs-of-life-wont-deter-the-bethesda-fan-who-is-132-days-into-making-their-own-daggerfall-style-rpg/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T18:26:33+00:00"
     }
   ]
 }
