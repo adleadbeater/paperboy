@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Onimusha: Way of the Sword Gets a New \"Severing Fates\" Trailer",
-      "tag": "onimusha: way of the sword",
-      "posted_at": "2026-08-06T15:31:04.854453+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/08/onimusha-way-of-the-sword-severing-fates-trailer",
-        "https://www.nintendolife.com/previews/onimusha-way-of-the-sword-is-capcoms-next-banger"
-      ],
-      "article_titles": [
-        "Onimusha: Way of the Sword \u2018Severing Fates\u2019 trailer",
-        "Preview: Onimusha: Way Of The Sword Is Capcom's Next Banger"
-      ]
-    },
-    {
       "headline": "Quake Gets a Surprise Free Expansion on Its 30th Anniversary \u2014 Available Now on All Platforms",
       "tag": "quake",
       "posted_at": "2026-08-07T09:30:58.790548+00:00",
@@ -1047,6 +1034,32 @@
       "article_titles": [
         "Total War: Warhammer 3 Just Confirmed the Release Date for Its Biggest Piece of DLC in the Series 10-Year History"
       ]
+    },
+    {
+      "headline": "Marvel's Wolverine mechanic revealed: Sabretooth will literally steal your kills in co-op",
+      "tag": "marvel's wolverine",
+      "posted_at": "2026-08-13T15:31:27.842664+00:00",
+      "urls": [
+        "https://www.ign.com/articles/sabretooth-will-actually-steal-wolverines-kills-when-they-team-up-in-gameplay",
+        "https://www.ign.com/articles/sabretooth-will-actually-steal-wolverines-kills-when-they-team-up-in-gameplay"
+      ],
+      "article_titles": [
+        "Sabretooth Will Actually Steal Wolverine's Kills When They Team Up in Gameplay",
+        "Sabretooth Will Actually Steal Wolverine's Kills When They Team Up in Gameplay"
+      ]
+    },
+    {
+      "headline": "Marvel's Wolverine explains why the X-Men don't exist in its world \u2014 and it's a big lore choice",
+      "tag": "marvel's wolverine",
+      "posted_at": "2026-08-13T15:31:28.032647+00:00",
+      "urls": [
+        "https://www.ign.com/articles/why-the-x-men-dont-exist-in-marvels-wolverine",
+        "https://www.ign.com/articles/why-the-x-men-dont-exist-in-marvels-wolverine"
+      ],
+      "article_titles": [
+        "Why the X-Men Don't Exist in Marvel's Wolverine",
+        "Why the X-Men Don't Exist in Marvel's Wolverine"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -2035,6 +2048,30 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "UXjQgzZCjyJmkR5YY76gsJ",
+      "title": "Where to find the Shimanoyama region Treasure Hunt in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-shimanoyama-region-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:28:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032538",
+      "title": "\u2018Hope In The Water\u2019 Docuseries From David E. Kelley & Andrew Zimmern Renewed For Season 2 At PBS",
+      "url": "https://deadline.com/2026/08/hope-in-the-water-david-e-kelley-renewed-season-2-pbs-1237032538/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833444",
+      "title": "Dodger Great Orel Hershiser on the Devotion to Broadcasting, Baseball and Faith That Led Him to Hollywood Walk of Fame",
+      "url": "https://variety.com/2026/tv/news/orel-hershiser-hollywood-walk-of-fame-baseball-broadcast-1236833444/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:30:00+00:00"
     }
   ]
 }
