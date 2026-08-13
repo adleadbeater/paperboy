@@ -1101,22 +1101,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237032757",
-      "title": "Netflix To Add Dozens Of Classic Cantinflas Films, Teases More \u2018Counterattack\u2019",
-      "url": "https://deadline.com/2026/08/netflix-adding-cantinflas-films-mexican-cinema-day-1237032757/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T13:27:15+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1069269",
-      "title": "Pokemon Bank to end service on February 26, 2027; Pokemon HOME to add Pokemon FireRed and LeafGreen Version support in October",
-      "url": "https://www.gematsu.com/2026/08/pokemon-bank-to-end-service-on-february-26-2027-pokemon-home-to-add-pokemon-firered-and-leafgreen-version-support-in-october",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T13:28:18+00:00"
-    },
-    {
       "guid": "2fe88e43-f028-4335-953b-ff62d11aa9b8",
       "title": "Nautus: Echoes from Below Announced for PC",
       "url": "https://www.ign.com/articles/nautus-echoes-from-below-announced-for-pc",
@@ -1147,14 +1131,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-08-13T13:33:03+00:00"
-    },
-    {
-      "guid": "d9a9f773-165f-44e4-a402-eaf607b3f9bb",
-      "title": "Thanks to the New Vault Breaker Co-Op Mode, I Can Finally Appreciate Marathon\u2019s Most Intriguing Map",
-      "url": "https://www.ign.com/articles/thanks-to-the-new-vault-breaker-co-op-mode-i-can-finally-appreciate-marathons-most-intriguing-map",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T13:30:00+00:00"
     },
     {
       "guid": "https://www.videogameschronicle.com/?p=243952",
@@ -1235,38 +1211,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-13T13:54:06+00:00"
-    },
-    {
-      "guid": "xPoj9Pd7yzEpVkpw82fz2X",
-      "title": "Resident Evil Requiem is selling just as many physical copies as digital globally, with near-50% splits according to analysts \u2013 except for in the US, that is",
-      "url": "https://www.gamesradar.com/games/survival-horror/resident-evil-requiem-is-selling-just-as-many-physical-copies-as-digital-globally-with-near-50-percent-splits-according-to-analysts-except-for-in-the-us-that-is/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T13:29:10+00:00"
-    },
-    {
-      "guid": "1847772",
-      "title": "Assassin\u2019s Creed Black Flag Resynced Players Are Absolutely Destroying Edward Kenway\u2019s Back",
-      "url": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-players-are-absolutely-destroying-edward-kenways-back/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T13:30:25+00:00"
-    },
-    {
-      "guid": "1847750",
-      "title": "Twitch Is Now Using Channels To Train Generative AI, And The Company Knows It\u2019s Unpopular",
-      "url": "https://www.gamespot.com/articles/twitch-is-now-using-channels-to-train-generative-ai-and-the-company-knows-its-unpopular/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T13:26:02+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-204928",
-      "title": "Promising PS5 Sim Rideshare Rocked by Crazy AI Controversy, as CEO Crashes Out in Public",
-      "url": "https://www.pushsquare.com/news/2026/08/promising-ps5-sim-rideshare-rocked-by-crazy-ai-controversy-as-ceo-crashes-out-in-public",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T13:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121001",
@@ -2427,6 +2371,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-13T17:13:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671091",
+      "title": "Shooting Blancs: Why Hollywood Is Drunk on \u201cWhite Wine Thrillers\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/hollywood-white-wine-thrillers-1236671091/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672941",
+      "title": "\u2018MobLand\u2019 Season 2 Trailer: Tom Hardy Returns After Drama Over His Future on the Series as Pierce Brosnan\u2019s Conrad Goes \u201cBonkers Berserk\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/mobland-season-2-trailer-tom-hardy-pierce-brosnan-1236672941/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T17:28:10+00:00"
     }
   ]
 }
