@@ -1077,52 +1077,92 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "8030ed7b-d0d2-40c9-a991-bfc439104a59",
-      "title": "McDonald's Announces Eight Hello Kitty x Godzilla Toys Coming to Happy Meals This August",
-      "url": "https://www.ign.com/articles/mcdonalds-announces-eight-hello-kitty-x-godzilla-toys-coming-to-happy-meals-this-august",
-      "source_name": "IGN",
+      "guid": "https://deadline.com/?p=1237032267",
+      "title": "Matt Damon, Julia Roberts, Jimmy Kimmel & Alex Honnold Join David Letterman\u2019s \u2018My Next Guest Needs No Introduction\u2019",
+      "url": "https://deadline.com/2026/08/david-letterman-my-next-guest-needs-no-introduction-season-7-1237032267/",
+      "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-08-12T23:45:32+00:00"
+      "published_dt": "2026-08-13T12:30:00+00:00"
     },
     {
-      "guid": "oaPfQfmx9F4kMUuGE8Vo9N",
-      "title": "Big Walk review",
-      "url": "https://www.pcgamer.com/games/puzzle/big-walk-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T23:47:02+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236664212",
-      "title": "StubHub Is Spending Millions Trying to Stop a Bill That Would Cap Concert Ticket Resale Prices",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/stubhub-lobbying-spending-concert-ticket-bill-1236664212/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-12T23:57:48+00:00"
-    },
-    {
-      "guid": "8532geqziGieB7Ni8AA7nU",
-      "title": "Despite releasing one of the best reviewed games of the year, Big Walk devs don't know what's next for the friendslop banger or the studio: \"We need a good rest\"",
-      "url": "https://www.gamesradar.com/games/co-op/despite-releasing-one-of-the-best-reviewed-games-of-the-year-big-walk-devs-dont-know-whats-next-for-the-friendslop-banger-or-the-studio-we-need-a-good-rest/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-12T23:58:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236833079",
-      "title": "Hollywood\u2019s Top-Grossing Films of 2025 Show Limited Progress Toward Inclusion, Study Says: \u2018The Pace of Change Has Been Slow\u2019",
-      "url": "https://variety.com/2026/film/news/hollywood-diversity-study-annenberg-inclusion-initiative-1236833079/",
+      "guid": "https://variety.com/?p=1236833672",
+      "title": "\u2018Far From the Trees\u2019 Review: A Richly Contemplative Journey of Physical and Mental Meanderings, Beautifully Combining 4K Digital with Super 16",
+      "url": "https://variety.com/2026/film/reviews/far-from-the-trees-review-1236833672/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-08-13T02:59:12+00:00"
+      "published_dt": "2026-08-13T12:31:02+00:00"
     },
     {
-      "guid": "t3_1vmyrwb",
-      "title": "The Duskbloods Preview listed for August 20th.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vmyrwb/the_duskbloods_preview_listed_for_august_20th/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "https://variety.com/?p=1236833517",
+      "title": "David Letterman to Interview Matt Damon, Julia Roberts and More in \u2018My Next Guest\u2019 Season 7",
+      "url": "https://variety.com/2026/tv/news/david-letterman-interview-matt-damon-my-next-guest-1236833517/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T12:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833524",
+      "title": "\u2018How Long Gone\u2019 to Host Inaugural Awards Show \u2018The Goneies\u2019 in New York (EXCLUSIVE)",
+      "url": "https://variety.com/2026/legit/news/how-long-gone-awards-show-1236833524/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T12:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833651",
+      "title": "San Sebasti\u00e1n Co-Production Forum: Celina Murga, Mariana Rond\u00f3n, Matias Mariani, Santiago Loza and Christopher Murray Among Selected",
+      "url": "https://variety.com/2026/film/global/san-sebastian-co-production-forum-3-1236833651/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T12:16:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670057",
+      "title": "\u2018The State of Us\u2019 Directors on Platforming Positive Masculinity and Making a Gut-Wrenching British Indie: \u201cYou Have to Beg, Borrow and Steal\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/state-of-us-edinburgh-film-interview-howells-bottomley-uk-1236670057/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672478",
+      "title": "Matt Damon, Jimmy Kimmel Join David Letterman for \u2018My Next Guest Needs No Introduction\u2019 at Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/matt-damon-julia-roberts-david-letterman-my-next-guest-1236672478/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T12:30:00+00:00"
+    },
+    {
+      "guid": "NBR4VyeDuM6FpfjnqWWsUV",
+      "title": "The leaked Zelda Switch 2 Pro controller is stunning, but the OG is still around if you're not fussed about new gamepad perks",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-leaked-zelda-switch-2-pro-controller-is-stunning-but-the-og-is-still-around-if-youre-not-fussed-about-new-gamepad-perks/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-08-13T02:56:09+00:00"
+      "published_dt": "2026-08-13T12:08:06+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750638",
+      "title": "Space Marine 2 Maker Saber Interactive Says It Didn\u2019t Replace Writers With ChatGPT, Claims Writing Team Tripled Since 2023",
+      "url": "https://otakukart.com/space-marine-2-maker-saber-interactive-says-it-didnt-replace-writers-with-chatgpt-claims-writing-team-tripled-since-2023/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T12:26:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750637",
+      "title": "Pearl Abyss Says Crimson Desert Has Grown Significantly Since Launch With 17 Patches, 20+ Features and 120 Mounts and Pets",
+      "url": "https://otakukart.com/pearl-abyss-says-crimson-desert-has-grown-significantly-since-launch-with-17-patches-20-features-and-120-mounts-and-pets/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T12:16:20+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/",
+      "title": "Classic horror Dark Conspiracy RPG returns using Traveller rules",
+      "url": "https://www.enworld.org/threads/classic-horror-dark-conspiracy-rpg-returns-using-traveller-rules.720279/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T12:11:00+00:00"
     }
   ]
 }
