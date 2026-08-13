@@ -1,52 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Capcom Drops Monster Hunter Wilds to $39.99 and Launches Free Prologue Demo",
-      "tag": "monster hunter wilds",
-      "posted_at": "2026-08-06T13:31:24.518333+00:00",
-      "urls": [
-        "https://www.eurogamer.net/monster-hunter-wilds-surpass-worlds-price-ascendance-demo",
-        "https://otakukart.com/monster-hunter-wilds-prologue-demo-launches-as-base-game-price-drops-to-39-99/"
-      ],
-      "article_titles": [
-        "A generous demo, a big expansion, and \"pricing measures\": What Capcom is doing to get Monster Hunter Wilds' sales to \"surpass\" Monster Hunter World",
-        "Monster Hunter Wilds Prologue Demo Launches as Base Game Price Drops to $39.99"
-      ]
-    },
-    {
-      "headline": "Larian Got Temporarily Banned From YouTube and TikTok Over Baldur's Gate 3's Demonic Content",
-      "tag": "baldur's gate 3",
-      "posted_at": "2026-08-06T13:31:24.592596+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/baldurs-gate/larian-gets-briefly-kicked-off-youtube-tiktok-for-demonic-smut-reasons-in-baldurs-gate-3/"
-      ],
-      "article_titles": [
-        "Larian gets briefly kicked off YouTube, TikTok for demonic smut reasons in Baldur's Gate 3"
-      ]
-    },
-    {
-      "headline": "Devolver Digital Is Trying to Go Private After Its Stock Collapsed 95 Percent",
-      "tag": "devolver digital",
-      "posted_at": "2026-08-06T14:01:15.927771+00:00",
-      "urls": [
-        "https://kotaku.com/devolver-digital-stock-exchange-share-price-baby-steps-skate-story-2000722147"
-      ],
-      "article_titles": [
-        "Devolver Digital Wants To Go Private Again Following A 95 Percent Collapse In Its Share Price"
-      ]
-    },
-    {
-      "headline": "Sony Is Quietly Warning PS5 Buyers That the Disc Drive Era Is Ending",
-      "tag": "playstation",
-      "posted_at": "2026-08-06T15:01:01.288847+00:00",
-      "urls": [
-        "https://kotaku.com/ps5-playstation-5-discs-physical-digital-sony-sticker-label-warning-2000722144"
-      ],
-      "article_titles": [
-        "Sony Is Slapping Warning Labels On PS5s About Its Discless Future"
-      ]
-    },
-    {
       "headline": "Onimusha: Way of the Sword Gets a New \"Severing Fates\" Trailer",
       "tag": "onimusha: way of the sword",
       "posted_at": "2026-08-06T15:31:04.854453+00:00",
@@ -1024,6 +978,19 @@
       "article_titles": [
         "After this week's Elder Scrolls 6 tease, fans think they've figured out its full name - and it was hidden in Starfield all along"
       ]
+    },
+    {
+      "headline": "Darksiders 4 and the Next Kingdom Come Game Both Targeting Launch Before March 2028",
+      "tag": "",
+      "posted_at": "2026-08-13T15:01:29.165513+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/08/darksiders-4-next-kingdom-come-game-both-planned-to-launch-before-march-2028",
+        "https://www.gematsu.com/2026/08/darksiders-4-and-new-kingdom-come-game-to-launch-between-april-2027-and-march-2028"
+      ],
+      "article_titles": [
+        "Darksiders 4, Next Kingdom Come Game Both Planned to Launch Before March 2028",
+        "Darksiders 4 and new Kingdom Come game to launch between April 2027 and March 2028"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1628,6 +1595,206 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-13T14:17:51+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/you-have-fewer-than-200-days-to-migrate-all-your-old-pokemon-from-pokemon-bank-to-pokemon-home-or-theyre-gone-forever",
+      "title": "You have fewer than 200 days to migrate all your old Pok\u00e9mon from Pok\u00e9mon Bank to Pok\u00e9mon Home, or they're gone forever",
+      "url": "https://www.eurogamer.net/you-have-fewer-than-200-days-to-migrate-all-your-old-pokemon-from-pokemon-bank-to-pokemon-home-or-theyre-gone-forever",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T14:59:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724131",
+      "title": "Pok\u00e9mon Is Finally Burning The Bridge Between Old And New Generations",
+      "url": "https://kotaku.com/pokemon-3ds-bank-transporter-app-shutdown-online-services-2000724131",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T14:39:56+00:00"
+    },
+    {
+      "guid": "YeZKsqHnB3UBMsQeBqjENj",
+      "title": "Is it a bird? Is it a plane? No, it's the Steam Boy, a Steam Deck crammed inside a Game Boy-like chassis",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/is-it-a-bird-is-it-a-plane-no-its-the-steam-boy-a-steam-deck-crammed-inside-a-game-boy-like-chassis/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T14:57:23+00:00"
+    },
+    {
+      "guid": "HMNJgPmupD3A7pAGRgNM4c",
+      "title": "Stop Killing Games has joined a lawsuit against Sony's move to digital-only sales: 'You won't have any choice at all'",
+      "url": "https://www.pcgamer.com/gaming-industry/stop-killing-games-has-joined-a-lawsuit-against-sonys-move-to-digital-only-sales-you-wont-have-any-choice-at-all/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T14:53:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032618",
+      "title": "\u2018Marvel\u2019s Wolverine\u2019 Video Game Team Goes Beyond The Claws To Unearth A More Vulnerable Logan",
+      "url": "https://deadline.com/2026/08/marvels-wolverine-video-game-interview-game-devs-1237032618/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032716",
+      "title": "Leonardo DiCaprio\u2019s Appian Way Boards \u2018Freeing Flipper\u2019 Ahead Of TIFF Market, Story Of Dolphin Trainer Turned Activist Ric O\u2019Barry",
+      "url": "https://deadline.com/2026/08/freeing-flipper-ric-obarry-documentary-appian-way-1237032716/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237032665",
+      "title": "\u2018American Blue\u2019 Cop Drama Pilot Not Going Forward At HBO Max; Being Shopped To Other Buyers",
+      "url": "https://deadline.com/2026/08/american-blue-pilot-dead-hbo-max-shopped-milo-ventimiglia-1237032665/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T14:50:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831994",
+      "title": "From Snooki to Spielberg: How New Jersey Reinvented Itself Into Hollywood\u2019s Hottest Production Hub",
+      "url": "https://variety.com/2026/film/features/new-jersey-film-industry-production-hub-1236831994/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832093",
+      "title": "Watch Out, Spider-Man: \u2018Marvel\u2019s Wolverine\u2019 Game Could Be the Best Superhero Story of the Year",
+      "url": "https://variety.com/2026/gaming/news/wolverine-video-game-marvel-spider-man-1236832093/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236832349",
+      "title": "Jared Freid Sets Netflix Comedy Special \u2018The Family Plan\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/jared-freid-netflix-special-the-family-plan-1236832349/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833187",
+      "title": "New York Film Festival Reveals Currents Slate With Tala Hadid\u2019s \u2018Bardi,\u2019 Beatrice Gibson\u2019s \u2018At Night\u2019 and More",
+      "url": "https://variety.com/2026/film/news/new-york-film-festival-currents-lineup-2026-1236833187/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833285",
+      "title": "Mattel Game Studios Launches to Expand Self-Published Games Biz Across Hot Wheels, UNO and More IP (EXCLUSIVE)",
+      "url": "https://variety.com/2026/gaming/news/mattel-game-studios-hot-wheels-uno-1236833285/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833801",
+      "title": "Oscars: Switzerland Selects \u2018Who is Still Alive\u2019 About Palestinians Who Escaped Humanitarian Crisis in Gaza",
+      "url": "https://variety.com/2026/film/global/oscars-switzerland-who-is-still-alive-palestinians-gaza-1236833801/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T14:59:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671821",
+      "title": "Australian Medical Drama \u2018The F Ward\u2019 Sells to 100 Markets for Paramount",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/australian-medical-drama-the-f-ward-paramount-1236671821/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "Y5ozZ32vaFJjc77RehhS34",
+      "title": "Pokemon Bank shuts down next year, cutting off the only transfer path from older Pokemon games to the Switch generation",
+      "url": "https://www.gamesradar.com/games/pokemon/pokemon-bank-shuts-down-next-year-cutting-off-the-only-transfer-path-from-older-pokemon-games-to-the-switch-generation/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:54:39+00:00"
+    },
+    {
+      "guid": "NKvVzDahN7sV7nr26e6KbM",
+      "title": "Sony killing PlayStation discs will make PS Store prices cheaper, former Square Enix financial exec says, and you only need to look at Steam to understand why",
+      "url": "https://www.gamesradar.com/games/sony-killing-playstation-discs-will-make-ps-store-prices-cheaper-former-square-enix-financial-exec-says-and-you-only-need-to-look-at-steam-to-understand-why/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:29:18+00:00"
+    },
+    {
+      "guid": "1847810",
+      "title": "Nintendo Is Pulling The Plug On One Of The Best Ways To Get Rare Pokemon",
+      "url": "https://www.gamespot.com/articles/nintendo-is-pulling-the-plug-on-one-of-the-best-ways-to-get-rare-pokemon/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:38:17+00:00"
+    },
+    {
+      "guid": "1847807",
+      "title": "Elder Scrolls Fans Think They\u2019ve Worked Out The Subtitle For Elder Scrolls 6",
+      "url": "https://www.gamespot.com/articles/elder-scrolls-fans-think-theyve-worked-out-the-subtitle-for-elder-scrolls-6/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:37:42+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204917",
+      "title": "Nintendo Download: 13th August (North America)",
+      "url": "https://www.nintendolife.com/news/2026/08/nintendo-download-13th-august-north-america",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-204955",
+      "title": "Darksiders 4, Next Kingdom Come Game Both Planned to Launch Before March 2028",
+      "url": "https://www.pushsquare.com/news/2026/08/darksiders-4-next-kingdom-come-game-both-planned-to-launch-before-march-2028",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121030",
+      "title": "Pokemon Bank 3DS Service Ending After Pokemon Home Updates",
+      "url": "https://www.siliconera.com/pokemon-bank-3ds-service-ending-after-pokemon-home-updates/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-183066",
+      "title": "As Digital Takes Over, Mega Drive And Amiga Title 'UrbX Warriors' Is A Stand Against \"A System Built Around Access Rather Than Ownership\"",
+      "url": "https://www.timeextension.com/news/2026/08/as-digital-takes-over-mega-drive-and-amiga-title-urbx-warriors-is-a-stand-against-a-system-built-around-access-rather-than-ownership",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1069289",
+      "title": "Co-op island adventure game NAUTUS announced for PC",
+      "url": "https://www.gematsu.com/2026/08/co-op-island-adventure-game-nautus-announced-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:34:24+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750661",
+      "title": "Orbitals Dev Says GameShare Helped Make Nintendo Switch 2 the \u201cPerfect Fit\u201d for Co-Op",
+      "url": "https://otakukart.com/orbitals-dev-says-gameshare-helped-make-nintendo-switch-2-the-perfect-fit-for-co-op/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:43:52+00:00"
+    },
+    {
+      "guid": "t3_1vncij3",
+      "title": "The LEGO MARVEL Games series has been put on an indefinite hold: \u201cIt will be a long time before a new game in the series is developed.\u201d (via @LEGOTtNewsl)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vncij3/the_lego_marvel_games_series_has_been_put_on_an/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-13T14:36:55+00:00"
     }
   ]
 }
