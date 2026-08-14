@@ -1079,35 +1079,28 @@
         "\"Just buy the game on Steam\": Indie publisher behind a recent banger that sold 300k copies in its first week warns against key resellers after canceling hundreds of scalped keys",
         "Nintendo announces Pok\u00e9mon Pokopia has sold over 5m copies, meaning that roughly one in four Switch 2 users now owns the game"
       ]
+    },
+    {
+      "headline": "HBO's Lanterns Gets Early Reviews \u2014 And Critics Say the DC Chemistry Is There Even If the Show Isn't",
+      "tag": "lanterns",
+      "posted_at": "2026-08-14T17:31:06.346182+00:00",
+      "urls": [
+        "https://www.hollywoodreporter.com/tv/tv-news/lanterns-kyle-chandler-hal-jordan-ryan-reynolds-green-lantern-1236673492/",
+        "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-didnt-originally-feature-a-green-lantern-suit-as-star-reveals-the-dc-show-creators-werent-sure-about-including-it/",
+        "https://variety.com/2026/tv/reviews/lanterns-review-kyle-chandler-aaron-pierre-hbo-dc-1236833207/",
+        "https://www.hollywoodreporter.com/tv/tv-reviews/lanterns-review-hbo-kyle-chandler-aaron-pierre-1236673305/"
+      ],
+      "article_titles": [
+        "How Kyle Chandler\u2019s Hal Jordan in \u2018Lanterns\u2019 Series Will Compare to Ryan Reynolds\u2019 Take on Green Lantern",
+        "Lanterns didn't originally feature a Green Lantern suit as star reveals the DC show creators \"weren't sure\" about including it",
+        "Kyle Chandler and Aaron Pierre Are Great \u2018Lanterns\u2019, But HBO\u2019s DC Drama Is Overshadowed by Its Influences: TV Review",
+        "\u2018Lanterns\u2019 Review: Kyle Chandler and Aaron Pierre\u2019s Chemistry Helps HBO\u2019s Clever Action-Comedy Transcend Lackluster Superhero Backdrop"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000724454",
-      "title": "Matthew McConaughey On Why He Turned Down The Role Of Joel From The Last Of Us Show: \u2018It Wasn\u2019t For Me At The Time\u2019",
-      "url": "https://kotaku.com/matthew-mcconaughey-joel-last-of-us-craig-mazin-interview-2000724454",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T13:26:09+00:00"
-    },
-    {
-      "guid": "bEWq49zY4zYUCpd4AuxRJ",
-      "title": "Marvel Tokon: Fighting Souls review",
-      "url": "https://www.pcgamer.com/games/fighting/marvel-tokon-fighting-souls-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T13:23:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834548",
-      "title": "Ana Vaz Discusses the Impact of the Fukushima Nuclear Disaster, the Work of Yoko Hayasuke and Preferring to Be a Mother Rather than a Zombie",
-      "url": "https://variety.com/2026/film/global/ana-vaz-locarno-fukushima-nuclear-disaster-hanabi-1236834548/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T13:29:23+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000723361",
       "title": "How Two Film Grads, A TiVo Set And GameTrailers.com Changed Video Game Hype Forever",
@@ -2163,6 +2156,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-14T17:00:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724514",
+      "title": "World Of Warcraft Players Claim Their Characters Keep Fighting Bosses On Their Own After Disconnecting",
+      "url": "https://kotaku.com/world-of-warcraft-players-claim-their-characters-keep-fighting-bosses-on-their-own-after-disconnecting-2000724514",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T17:23:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834688",
+      "title": "Jeff Bezos Is Now Part-Owner of English Premiere League\u2019s Liverpool Soccer Team",
+      "url": "https://variety.com/2026/biz/news/jeff-bezos-acquires-ownership-stake-liverpool-football-club-1236834688/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T17:26:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236673492",
+      "title": "How Kyle Chandler\u2019s Hal Jordan in \u2018Lanterns\u2019 Series Will Compare to Ryan Reynolds\u2019 Take on Green Lantern",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/lanterns-kyle-chandler-hal-jordan-ryan-reynolds-green-lantern-1236673492/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T17:22:40+00:00"
+    },
+    {
+      "guid": "1850352",
+      "title": "Halo: Campaign Evolved Will Look Way Better Soon",
+      "url": "https://www.gamespot.com/articles/halo-campaign-evolved-will-look-way-better-soon/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-14T17:20:58+00:00"
     }
   ]
 }
