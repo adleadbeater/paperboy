@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Doom 2016's Mick Gordon Will Perform the Soundtrack Live for the First Time Ever",
-      "tag": "doom",
-      "posted_at": "2026-08-07T20:04:09.219935+00:00",
-      "urls": [
-        "https://www.ign.com/articles/doom-2016-composer-mick-gordon-is-performing-the-games-soundtrack-live-in-concert-for-the-very-first-time"
-      ],
-      "article_titles": [
-        "Doom 2016 Composer Mick Gordon Is Performing the Game's Soundtrack at a Music Festival for the Very First Time"
-      ]
-    },
-    {
-      "headline": "THQ Nordic Showcase 2026: Every Game Announced, Revealed, and Shown",
-      "tag": "thq nordic",
-      "posted_at": "2026-08-07T20:04:09.421299+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/thq-nordic-showcase-2026-all-the-news-trailers-and-reveals/"
-      ],
-      "article_titles": [
-        "THQ Nordic Showcase 2026: All The News, Trailers, And Reveals"
-      ]
-    },
-    {
       "headline": "GTA 6 Will Cost $80 \u2014 and Take-Two's Boss Says It's Still a Bargain",
       "tag": "gta 6",
       "posted_at": "2026-08-07T22:01:42.130187+00:00",
@@ -1107,43 +1085,24 @@
       "article_titles": [
         "Monkey Island Creator\u2019s Next Game Is Funded By A Rich Guy Because He Was Tired Of Bad Publisher Deals"
       ]
+    },
+    {
+      "headline": "Saber Interactive Adds AI Disclosure to Rideshare Simulator After CEO's Public Feud With Writer Who Claims She Was Replaced by ChatGPT",
+      "tag": "rideshare simulator",
+      "posted_at": "2026-08-14T21:13:17.196705+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/simulation/saber-finally-adds-ai-disclosure-to-rideshare-stimulator-amid-ceos-public-feud-with-a-former-writer-who-claims-she-was-replaced-by-chatgpt/",
+        "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer/"
+      ],
+      "article_titles": [
+        "Saber finally adds AI disclosure to Rideshare Stimulator amid CEO's public feud with a former writer who claims she was replaced by ChatGPT",
+        "Rideshare Stimulator Outlines AI Usage After Contentious Exchange With Ex-Writer"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "vrxzkr6CXR7Ekon2ZwdrEg",
-      "title": "A dev tried to warn WB Games not to launch Lord of the Rings: War in the North 10 days before Skyrim, but was 'overruled'",
-      "url": "https://www.pcgamer.com/games/rpg/a-dev-tried-to-warn-wb-games-not-to-launch-lord-of-the-rings-war-in-the-north-10-days-before-skyrim-but-was-overruled/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T17:07:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834666",
-      "title": "Venice: M-Appeal Picks Up Chinese Director Jie Dong\u2019s \u2018Zoom In, Zoom Out\u2019 Ahead of Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/m-appeal-jie-dongs-zoom-in-zoom-out-venice-1236834666/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T17:12:42+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834684",
-      "title": "Afrobeats Superstar Ayra Starr on the Freedom She Felt Making \u2018Starrgirl\u2019: \u2018I Kept Telling People, \u201cLet Me Cook!\u201d\u2019",
-      "url": "https://variety.com/2026/music/news/ayra-starr-starrgirl-afrobeats-1236834684/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T17:06:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834415",
-      "title": "Fronti\u00e8res at TIFF The Market Unveils Lineup, Featuring a \u2018Dim Sum Western,\u2019 Newlywed Night of Terror and Wolf-Tracking Dark Comedy (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/frontieres-tiff-market-johnnie-to-genre-showcase-unveiled-1236834415/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T17:01:24+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000724514",
       "title": "World Of Warcraft Players Claim Their Characters Keep Fighting Bosses On Their Own After Disconnecting",
@@ -1775,6 +1734,30 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-14T21:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834230",
+      "title": "\u2018Top Chef\u2019 Host Kristen Kish on How Her Fellow Judges and People Around Her \u2018Helped Me Get to a Place Where I Felt Like My Best Self\u2019",
+      "url": "https://variety.com/2026/tv/awards/top-chef-host-kristen-kish-podcast-interview-1236834230/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T21:10:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834102",
+      "title": "\u2018Hacks\u2019 Star Lauren Weedman on Appearing Four Emmy-Nominated Comedies This Year and How Bell\u2019s Palsy Changed Her Career",
+      "url": "https://variety.com/2026/awards/news/hacks-lauren-weedman-bells-palsy-1236834102/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T21:05:00+00:00"
+    },
+    {
+      "guid": "W8X3y2K8EUJJebh4oedVnh",
+      "title": "Saber finally adds AI disclosure to Rideshare Stimulator amid CEO's public feud with a former writer who claims she was replaced by ChatGPT",
+      "url": "https://www.gamesradar.com/games/simulation/saber-finally-adds-ai-disclosure-to-rideshare-stimulator-amid-ceos-public-feud-with-a-former-writer-who-claims-she-was-replaced-by-chatgpt/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-14T21:07:32+00:00"
     }
   ]
 }
