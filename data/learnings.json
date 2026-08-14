@@ -1102,30 +1102,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237040202",
-      "title": "Netflix Orders Supernatural YA Mystery Romance Series \u2018Sid & Zoey\u2019 From Jon Kasdan, John Shiban, Bad Robot & Blumhouse Atomic Monster",
-      "url": "https://deadline.com/2026/08/netflix-orders-ya-mystery-romance-series-sid-zoey-1237040202/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236671233",
-      "title": "Counsel of Champions: Hollywood\u2019s Top Sports Lawyers",
-      "url": "https://www.hollywoodreporter.com/lists/top-sports-lawyers/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T15:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750817",
-      "title": "Honkai: Star Rail Version 4.5 Launches August 26 With Robin and Aventurine Summer Variants",
-      "url": "https://otakukart.com/honkai-star-rail-version-4-5-launches-august-26-with-robin-and-aventurine-summer-variants/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-14T15:26:25+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000724465",
       "title": "Roblox Is Now Under Investigation By The U.S. Senate Over Child Safety",
       "url": "https://kotaku.com/roblox-is-now-under-investigation-by-the-u-s-senate-over-child-safety-2000724465",
@@ -2100,6 +2076,46 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-14T19:04:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834040",
+      "title": "After the YA Drama \u2018Sterling Point\u2019 Topped the Prime Video Charts, What\u2019s Next for LuckyChap TV?",
+      "url": "https://variety.com/2026/tv/features/luckychap-tv-sterling-point-life-is-strange-sex-criminals-1236834040/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T19:28:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834754",
+      "title": "Locarno Takeaways: A Charming Olivia Wilde, Navigating an Industry Crunch and One Reason Why There Should Be More Women Filmmakers",
+      "url": "https://variety.com/2026/film/global/locarno-takeaways-olivia-wilde-zoe-saldana-james-gray-1236834754/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T19:24:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672641",
+      "title": "How Oscar Isaac and Carey Mulligan Brought Their Own Backstories to the Lindsay-Josh Fight in \u2018Beef\u2019 Season 2",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/lee-sung-jin-beef-season-two-emmys-1236672641/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236669143",
+      "title": "Kathie Hoops, Longtime Financial Executive at Paramount, Dies at 66",
+      "url": "https://www.hollywoodreporter.com/business/business-news/kathie-hoops-dead-paramount-executive-residuals-1236669143/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T19:24:38+00:00"
+    },
+    {
+      "guid": "ib8qf9Z99PcPCmVJnhhTUg",
+      "title": "Palworld devs \"not planning to spend a year\" making a \"massive\" 1.1 update, publishing lead clarifies after quickly regretting asking fans for ideas",
+      "url": "https://www.gamesradar.com/games/survival/palworld-devs-not-planning-to-spend-a-year-making-a-massive-1-1-update-publishing-lead-clarifies-after-quickly-regretting-asking-fans-for-ideas/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-14T19:11:09+00:00"
     }
   ]
 }
