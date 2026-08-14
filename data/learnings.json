@@ -1113,36 +1113,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000724512",
-      "title": "KPop Demon Hunters\u2019 Criterion Blu-Ray Set Looks Incredible",
-      "url": "https://kotaku.com/kpop-demon-hunters-bluray-dvd-criterion-collection-date-2000724512",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T16:50:14+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000724483",
-      "title": "Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster",
-      "url": "https://kotaku.com/toy-story-3-on-xbox-is-being-delisted-to-make-way-for-the-remaster-2000724483",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T16:35:52+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237040472",
       "title": "Barry Keoghan Signs With CAA",
       "url": "https://deadline.com/2026/08/barry-keoghan-signs-caa-1237040472/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-14T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237040464",
-      "title": "\u2018Star Wars: Mandalorian & Grogu\u2019 To Stream On Disney+ End Of Summer",
-      "url": "https://deadline.com/2026/08/star-wars-mandalorian-grogu-disney-release-date-1237040464/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T16:32:23+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236834437",
@@ -1175,54 +1151,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-14T16:56:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673717",
-      "title": "\u2018Avengers: Doomsday\u2019 Tickets Put On Sale For All Theaters Nationwide",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-tickets-theaters-1236673717/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T16:44:41+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673681",
-      "title": "Nicole Kidman Grooves With Troye Sivan in Glam \u201cShe\u2019s the Best\u201d Music Video",
-      "url": "https://www.hollywoodreporter.com/music/music-news/nicole-kidman-troye-sivan-music-video-1236673681/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T16:42:32+00:00"
-    },
-    {
-      "guid": "Aa46BhbwhnDMBSyexBtKWR",
-      "title": "Ahead of GTA 6, Rockstar ramps up GTA Online roleplay as nopixel V prepares for exclusive Closed Beta launch in September",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-ramps-up-gta-online-roleplay-as-nopixel-v-prepares-for-exclusive-closed-beta-launch-in-september/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-14T16:46:30+00:00"
-    },
-    {
-      "guid": "6R72hArgrFnfaYb7mBbAXB",
-      "title": "\"Just buy the game on Steam\": Indie publisher behind a recent banger that sold 300k copies in its first week warns against key resellers after canceling hundreds of scalped keys",
-      "url": "https://www.gamesradar.com/games/simulation/just-buy-the-game-on-steam-indie-publisher-behind-a-recent-banger-that-sold-300k-copies-in-its-first-week-warns-against-key-resellers-after-canceling-hundreds-of-scalped-keys/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-14T16:34:59+00:00"
-    },
-    {
-      "guid": "xttpsjNGmw3VgWT29WnDDE",
-      "title": "GTA 6 isn't too expensive for superfans, as 90% opt for the pricier $100 copy according to analysts: \"It lives in a league of its own\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-isnt-too-expensive-for-superfans-as-90-percent-opt-for-the-pricier-usd100-copy-according-to-analysts-it-lives-in-a-league-of-its-own/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-14T16:30:39+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205014",
-      "title": "Thimbleweed Park 2 Is Being Funded By A Sole 'Wealthy Outsider'",
-      "url": "https://www.nintendolife.com/news/2026/08/thimbleweed-park-2-is-being-funded-by-a-sole-wealthy-outsider",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-14T16:45:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121090",
@@ -1879,6 +1807,30 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-14T20:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724549",
+      "title": "Activision Really Wants You To Know Call Of Duty: Modern Warfare 4\u2032s Campaign Isn\u2019t A Horrible Mess Like BLOPS7",
+      "url": "https://kotaku.com/activision-really-wants-you-to-know-call-of-duty-modern-warfare-4s-campaign-isnt-a-horrible-mess-like-blops7-2000724549",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T20:39:19+00:00"
+    },
+    {
+      "guid": "ZSScB93xMHybgxSuHbJuwP",
+      "title": "Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO",
+      "url": "https://www.pcgamer.com/games/mmo/old-school-runescape-began-when-a-dev-found-the-2007-server-in-their-desk-drawer-13-years-later-its-setting-subscriber-records-for-the-long-lived-mmo/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T20:49:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834891",
+      "title": "Grammys May Reconsider New Asian Pop Award After BTS Withdrawal: \u2018Some Artists Feel This Category Isn\u2019t Representing the Music They Create\u2019",
+      "url": "https://variety.com/2026/global/news/grammys-may-reconsider-asian-pop-award-bts-withdrawal-1236834891/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T20:31:20+00:00"
     }
   ]
 }
