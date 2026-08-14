@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Square Enix Rushed an Emergency Patch to Fix Final Fantasy XIV's Broken Load Times on Switch 2",
-      "tag": "final fantasy xiv",
-      "posted_at": "2026-08-07T16:01:15.035483+00:00",
-      "urls": [
-        "https://kotaku.com/final-fantasy-14-switch-2-loading-times-hotfix-2000722495",
-        "https://www.nintendolife.com/news/2026/08/final-fantasy-xiv-online-updated-on-switch-2-here-are-the-full-patch-notes"
-      ],
-      "article_titles": [
-        "Square Enix Deploys An Emergency Update To Fix Final Fantasy 14 Loading Times On The Switch 2",
-        "Final Fantasy XIV Online Updated On Switch 2, Here Are The Full Patch Notes"
-      ]
-    },
-    {
-      "headline": "Game Freak Just Showed Off the Earliest Prototype Footage of Pok\u00e9mon Pokopia",
-      "tag": "pok\u00e9mon pokopia",
-      "posted_at": "2026-08-07T16:01:15.201899+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/08/game-freak-reveals-early-prototype-video-for-pokemon-pokopia",
-        "https://otakukart.com/game-freak-reveals-first-pokemon-pokopia-prototype-footage-showing-early-gameplay-and-development-concepts/"
-      ],
-      "article_titles": [
-        "Game Freak Reveals Early Prototype Video For Pok\u00e9mon Pokopia",
-        "Game Freak reveals first Pok\u00e9mon Pokopia prototype footage, showing early gameplay and development concepts"
-      ]
-    },
-    {
       "headline": "Lydia Peckham joins the cast of the Legend of Zelda live-action movie",
       "tag": "the legend of zelda",
       "posted_at": "2026-08-07T16:13:44.443090+00:00",
@@ -1067,6 +1041,39 @@
       "article_titles": [
         "Roblox Is Now Under Investigation By The U.S. Senate Over Child Safety"
       ]
+    },
+    {
+      "headline": "Control Resonant Shows Off Exclusive Boss Fight Gameplay in IGN First",
+      "tag": "control resonant",
+      "posted_at": "2026-08-14T16:11:12.869450+00:00",
+      "urls": [
+        "https://www.ign.com/articles/control-resonant-exclusive-boss-fight-gameplay-ign-first"
+      ],
+      "article_titles": [
+        "Control Resonant: Exclusive Boss Fight Gameplay - IGN First"
+      ]
+    },
+    {
+      "headline": "Orwellian Surveillance Sim The Watcher Announced for PC",
+      "tag": "the watcher",
+      "posted_at": "2026-08-14T16:11:13.059346+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-watcher-an-orwellian-surveillance-sim-announced-for-pc"
+      ],
+      "article_titles": [
+        "The Watcher, an Orwellian Surveillance Sim, Announced for PC"
+      ]
+    },
+    {
+      "headline": "The X-Files Is Getting a New Comic Series From Dynamite Entertainment",
+      "tag": "the x-files",
+      "posted_at": "2026-08-14T16:11:13.214444+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-x-files-returns-to-comics-with-new-series-from-dynamite-entertainment"
+      ],
+      "article_titles": [
+        "The X-Files Returns to Comics With New Series From Dynamite Entertainment"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1919,6 +1926,118 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-14T15:35:36+00:00"
+    },
+    {
+      "guid": "a2eebd98-f994-4221-bfcc-df18281f9236",
+      "title": "Control Resonant: Exclusive Boss Fight Gameplay - IGN First",
+      "url": "https://www.ign.com/articles/control-resonant-exclusive-boss-fight-gameplay-ign-first",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:00:00+00:00"
+    },
+    {
+      "guid": "3ded235c-d52e-479d-8a6d-d2043341af2c",
+      "title": "Lanterns Series Premiere Review: Restoring Faith in James Gunn's DCU",
+      "url": "https://www.ign.com/articles/lanterns-series-premiere-review-restoring-faith-in-james-gunns-dcu",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:00:00+00:00"
+    },
+    {
+      "guid": "868d5015-5f25-441c-a8ad-7d2094019ddd",
+      "title": "The Watcher, an Orwellian Surveillance Sim, Announced for PC",
+      "url": "https://www.ign.com/articles/the-watcher-an-orwellian-surveillance-sim-announced-for-pc",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:00:00+00:00"
+    },
+    {
+      "guid": "4d5b101c-f847-41d3-a65c-2d3d032aaad9",
+      "title": "The X-Files Returns to Comics With New Series From Dynamite Entertainment",
+      "url": "https://www.ign.com/articles/the-x-files-returns-to-comics-with-new-series-from-dynamite-entertainment",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T15:59:25+00:00"
+    },
+    {
+      "guid": "20a2f6fa-1a12-4891-ae85-2c1a1f1a0718",
+      "title": "The Original Scary Movie Is Getting Its Own 4K Steelbook \u2013 Here\u2019s Where You Can Preorder It",
+      "url": "https://www.ign.com/articles/scary-movie-2000-4k-steelbook-where-to-buy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T15:57:49+00:00"
+    },
+    {
+      "guid": "b591c885-c5ac-4900-9413-3ce7d34faf07",
+      "title": "Xbox Confirms Call of Duty: Modern Warfare 4 Beta Will Feature Single-Player Campaign Mission for the First Time",
+      "url": "https://www.ign.com/articles/xbox-confirms-call-of-duty-modern-warfare-4-beta-will-feature-single-player-campaign-mission-for-the-first-time",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T15:52:48+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724503",
+      "title": "With The Shutdown Of Pok\u00e9mon Bank, Some Cool Elements From Old Games Are Being Lost",
+      "url": "https://kotaku.com/pokemon-bank-transporter-shutdown-trading-features-2000724503",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:04:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834268",
+      "title": "Oscar Predictions: Best Director \u2014 Could Christopher Nolan Triumph Again With \u2018The Odyssey\u2019?",
+      "url": "https://variety.com/feature/2027-oscars-best-director-predictions-1236834268/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236833207",
+      "title": "Kyle Chandler and Aaron Pierre Are Great \u2018Lanterns\u2019, But HBO\u2019s DC Drama Is Overshadowed by Its Influences: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/lanterns-review-kyle-chandler-aaron-pierre-hbo-dc-1236833207/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236673305",
+      "title": "\u2018Lanterns\u2019 Review: Kyle Chandler and Aaron Pierre\u2019s Chemistry Helps HBO\u2019s Clever Action-Comedy Transcend Lackluster Superhero Backdrop",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/lanterns-review-hbo-kyle-chandler-aaron-pierre-1236673305/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236673465",
+      "title": "Chinese Drama \u2018Take Off\u2019 Set for U.S. Release Via Orchid Tree Media",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/pengfei-take-off-american-release-orchid-tree-media-1236673465/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T16:00:00+00:00"
+    },
+    {
+      "guid": "u8CspfjCBAUScGH84tW6EF",
+      "title": "10 years after its messy launch, No Man\u2019s Sky boss Sean Murray wishes he could warn his younger self \"don\u2019t do all the press\"",
+      "url": "https://www.gamesradar.com/games/survival/10-years-after-its-messy-launch-no-mans-sky-boss-sean-murray-wishes-he-could-warn-his-younger-self-dont-do-all-the-press/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-14T16:06:36+00:00"
+    },
+    {
+      "guid": "TJHg8KyjnYKu9G3bH9rdr6",
+      "title": "The women of Grand Theft Auto: How film noir shaped (and limited) Rockstar's female characters",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-women-of-grand-theft-auto-how-film-noir-shaped-and-limited-rockstars-female-characters/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-14T16:06:05+00:00"
+    },
+    {
+      "guid": "qomDqWdvZBLUJVjzCKmbYP",
+      "title": "Lanterns review: \"A shining beacon of light when the DCU is at its shakiest\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-14T16:00:00+00:00"
     }
   ]
 }
