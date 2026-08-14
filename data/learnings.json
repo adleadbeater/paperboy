@@ -1155,70 +1155,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.pushsquare.com/#article-204949",
-      "title": "Gritty Action RPGs Will Soon Have Big Budget Competition from One of the World's Most Popular Devs",
-      "url": "https://www.pushsquare.com/news/2026/08/gritty-action-rpgs-will-soon-have-big-budget-competition-from-one-of-the-worlds-most-popular-devs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-13T23:00:00+00:00"
-    },
-    {
-      "guid": "b8f94153-a317-406e-b591-db4ba6049e3a",
-      "title": "Night School Staff Speak Out After Netflix Shuts Down Developer Following 'Top Tier' Launch of Unhinged",
-      "url": "https://www.ign.com/articles/night-school-staff-speak-out-after-netflix-shuts-down-developer-following-top-tier-launch-of-unhinged",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T22:43:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237033400",
-      "title": "Teamsters Pound Paramount Over WBD Merger Promises & Threats: \u201cStop Playing Games\u201d",
-      "url": "https://deadline.com/2026/08/paramount-merger-teamsters-protest-1237033400/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T22:50:28+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237033383",
-      "title": "John Cena Made Peace With \u2018Coyote vs. Acme\u2019 Never Coming Out: \u201cI Don\u2019t Own My Performance\u201d",
-      "url": "https://deadline.com/2026/08/john-cena-made-peace-coyote-vs-acme-never-coming-out-1237033383/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T22:41:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237033223",
-      "title": "Parties Lay Out Key Discovery And Other Dates For Pending Paramount-WBD Antitrust Trial",
-      "url": "https://deadline.com/2026/08/paramount-warner-bros-trial-schedule-1237033223/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T22:33:25+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673215",
-      "title": "Christy Knowings, \u2018All That\u2019 Star, Dies at 46",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/christy-knowings-dead-all-that-1236673215/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T22:55:10+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673233",
-      "title": "Why Green Day Wanted to Be Background Characters in Their Own Movie",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/green-day-background-characters-movie-nimrods-1236673233/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T22:49:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673308",
-      "title": "Perez Hilton\u2019s Sister Details Moment She Found Him Amid Self-Harm Livestream: \u201cI Didn\u2019t Recognize My Brother\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-sister-details-self-harm-livestream-1236673308/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-13T22:48:27+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237033458",
       "title": "\u2018The End Of Oak Street\u2019 Stomping To $38M-$48M WW Opening; U.S. Previews At $2M+ \u2013 Thursday PM Box Office",
       "url": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
@@ -1305,6 +1241,14 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-14T02:23:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236673163",
+      "title": "Alexa Nikolas Wins Key Ruling In Defamation Case Against Bryan Freedman Over Smear Claims",
+      "url": "https://www.hollywoodreporter.com/business/business-news/alexa-nikolas-defamation-case-bryan-freedman-1236673163/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-14T02:43:29+00:00"
     }
   ]
 }
