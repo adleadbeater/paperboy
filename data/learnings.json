@@ -1104,54 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "192fc049-32c7-4ed8-9862-8ee5795315e6",
-      "title": "The Dungeon Crawler Carl TV Series Could Make or Break the Future of LitRPG Adaptations",
-      "url": "https://www.ign.com/articles/the-dungeon-crawler-carl-tv-series-could-make-or-break-future-litrpg-book-adaptations",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/simpsons-hit-and-run-groening-d23-tease",
-      "title": "Simpsons creator Matt Groening seemingly lets slip that Hit & Run is coming back",
-      "url": "https://www.eurogamer.net/simpsons-hit-and-run-groening-d23-tease",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T16:56:47+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000724716",
-      "title": "Former Square Enix Exec Believes Disc-Free PlayStation Will Drive Game Prices Down",
-      "url": "https://kotaku.com/former-square-enix-exec-believes-disc-free-playstation-will-drive-game-prices-down-2000724716",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T17:00:20+00:00"
-    },
-    {
-      "guid": "wRm6oonVcDiUBu7sGp4Dkk",
-      "title": "Witcher 3 designer says it wasn't easy to convince players its NPC simulation wasn't 'just fakery': 'People nowadays are interested in those kinds of details, and it really came to haunt us'",
-      "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-designer-says-it-wasnt-easy-to-convince-players-its-npc-simulation-wasnt-just-fakery-people-nowadays-are-interested-in-those-kinds-of-details-and-it-really-came-to-haunt-us/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T17:04:02+00:00"
-    },
-    {
-      "guid": "ygxFRG5yVusPVQSRSzqCM7",
-      "title": "Nintendo's stinking \"nap room\" for overworked devs haunted legendary Super Metroid director for years: \"It\u2019s quite sad only having these kinds of memories!\"",
-      "url": "https://www.gamesradar.com/games/metroid/nintendos-stinking-nap-room-for-overworked-devs-haunted-legendary-super-metroid-director-for-years-its-quite-sad-only-having-these-kinds-of-memories/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=616493",
-      "title": "D&D: Five Roleplaying Tips For When You Don\u2019t Want To Roleplay",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-five-roleplaying-tips-for-when-you-dont-want-to-roleplay.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T17:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236835469",
       "title": "Adam Scott Says His Daughter\u2019s Acting Class Was Forced to Watch His Failed \u2018Office\u2019 Audition as an Example of What Not to Do",
       "url": "https://variety.com/2026/tv/news/adam-scott-daughter-failed-office-audition-john-krasinski-1236835469/",
@@ -1342,6 +1294,38 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-15T20:30:06+00:00"
+    },
+    {
+      "guid": "2634708a-3960-4c2e-af17-d10c9460258c",
+      "title": "The Best Deals Today: Project Hail Mary 4K Blu-ray, Resident Evil Requiem, AirPods Pro 3, and More",
+      "url": "https://www.ign.com/articles/best-deals-for-august-15-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T20:34:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041712",
+      "title": "Slipknot Announces Sid Wilson\u2019s Exit: \u201cWe Wish Him The Best\u201d",
+      "url": "https://deadline.com/2026/08/slipknot-announces-sid-wilson-exit-1237041712/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T20:52:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237040981",
+      "title": "\u2018Survivor\u2019 Cast & Creatives Look Back On Epic Season 50 & How It\u2019s A \u201cLeaping-Off Point\u201d For S51 & Beyond \u2013 Contenders TV Nominees Studio",
+      "url": "https://deadline.com/2026/08/survivor-cast-creatives-emmy-interview-season-50-future-1237040981/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T20:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835353",
+      "title": "Director Frieda Luk on Olivia Luccardi\u2019s \u2018Sacred Creatures\u2019 Role and the Fine Line Between \u2018Crazy\u2019 and \u2018Enlightened\u2019",
+      "url": "https://variety.com/2026/film/festivals/director-frieda-luk-olivia-luccardi-sacred-creatures-1236835353/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T20:46:03+00:00"
     }
   ]
 }
