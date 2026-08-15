@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6 Will Cost $80 \u2014 and Take-Two's Boss Says It's Still a Bargain",
-      "tag": "gta 6",
-      "posted_at": "2026-08-07T22:01:42.130187+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/grand-theft-auto/even-with-an-usd80-price-tag-grand-theft-auto-6-will-be-an-incredible-bargain-take-two-boss-says/",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vidzli/jason_schreier_rockstar_are_not_planning_anytime/"
-      ],
-      "article_titles": [
-        "Even with an $80 price tag, 'Grand Theft Auto 6 will be an incredible bargain,' Take-Two boss says",
-        "Jason Schreier: Rockstar are not planning 'anytime soon' about GTA Online in GTA 6"
-      ]
-    },
-    {
-      "headline": "Newly Surfaced Demon's Souls Prototype Footage Reveals a Scrapped First-Person Mode",
-      "tag": "demon's souls",
-      "posted_at": "2026-08-07T23:01:28.029835+00:00",
-      "urls": [
-        "https://www.ign.com/articles/newly-discovered-demons-souls-prototype-footage-shows-scrapped-first-person-option"
-      ],
-      "article_titles": [
-        "Newly Discovered Demon's Souls Prototype Footage Shows Scrapped First-Person Option"
-      ]
-    },
-    {
       "headline": "Amazon's God of War series is recasting Atreus and Thrud, looking for older actors",
       "tag": "god of war",
       "posted_at": "2026-08-08T12:19:26.545342+00:00",
@@ -1098,107 +1074,24 @@
         "Saber finally adds AI disclosure to Rideshare Stimulator amid CEO's public feud with a former writer who claims she was replaced by ChatGPT",
         "Rideshare Stimulator Outlines AI Usage After Contentious Exchange With Ex-Writer"
       ]
+    },
+    {
+      "headline": "Matt Groening Says The Simpsons: Hit & Run \"Is Coming Back in Some Form\" \u2014 Then Seemed to Regret It",
+      "tag": "the simpsons: hit & run",
+      "posted_at": "2026-08-15T00:30:40.233540+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/open-world/the-simpsons-hit-and-run-is-coming-back-in-some-form-says-matt-groening-but-it-looks-like-he-wasnt-supposed-to/",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vok85h/matt_groening_i_think_the_simpsons_hit_run_is/"
+      ],
+      "article_titles": [
+        "The Simpsons: Hit & Run \"is coming back in some form,\" says Matt Groening, but it looks like he wasn't supposed to",
+        "Matt Groening: \"I think [The Simpsons: Hit & Run] is coming back in some form\""
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000724533",
-      "title": "Monkey Island Creator\u2019s Next Game Is Funded By A Rich Guy Because He Was Tired Of Bad Publisher Deals",
-      "url": "https://kotaku.com/monkey-island-creators-next-game-is-funded-by-a-rich-guy-because-he-was-tired-of-bad-publisher-deals-2000724533",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T19:53:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236833420",
-      "title": "If Paramount Leaves California, It Might Cut Costs but Wouldn\u2019t Save on State Taxes",
-      "url": "https://variety.com/2026/film/news/paramount-state-taxes-leaving-california-1236833420/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T19:56:36+00:00"
-    },
-    {
-      "guid": "BTakLCuNGu7NeomdFusEH9",
-      "title": "Pocketpair 'not planning to spend a year making a massive update' for Palworld 1.1",
-      "url": "https://www.pcgamer.com/games/survival-crafting/pocketpair-not-planning-to-spend-a-year-making-a-massive-update-for-palworld-1-1/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:08:31+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237040761",
-      "title": "\u2018Scrubs\u2019 Adds Keyla Monterroso Mejia As New Nurse In Season 2 Of ABC Reboot",
-      "url": "https://deadline.com/2026/08/scrubs-keyla-monterroso-mejia-nurse-season-2-abc-reboot-1237040761/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:02:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834861",
-      "title": "Paramount-Warner Bros. Merger Gets Mexico\u2019s Approval, Leaving States\u2019 Lawsuit as the Only Barrier Left",
-      "url": "https://variety.com/2026/film/news/paramount-warner-bros-mexicos-settle-ellison-1236834861/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:30:12+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236833796",
-      "title": "\u2018Disney Dreamlight Valley\u2019 Reveals Details on Next Expansion, Including Oogie Boogie, Lilo, Hannah Montana and More",
-      "url": "https://variety.com/2026/gaming/news/disney-dreamlight-valley-oogie-boogie-hannah-montana-1236833796/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834736",
-      "title": "Frankie Valli Denies News Reports He Has Retired, Disavowing Brother\u2019s Statement",
-      "url": "https://variety.com/2026/music/news/frankie-valli-denies-retired-brother-claim-statement-1236834736/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:28:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834494",
-      "title": "Director Paul Wright Pushes George MacKay to the Edge in \u2018Mission\u2019: \u2018How Do You Feel Something When You\u2019ve Been Numbed to the Modern World?\u2019",
-      "url": "https://variety.com/2026/film/global/paul-wright-george-mackay-mission-1236834494/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:17:28+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834758",
-      "title": "Black Women Earned Record Emmy Directing Noms as Asian Auteurs Made Gains. Will Wins Follow?",
-      "url": "https://variety.com/2026/tv/awards/black-women-asian-directors-emmy-nominations-2026-1236834758/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673950",
-      "title": "\u2018Deli Boys\u2019 Canceled After Two Seasons on Hulu",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/deli-boys-canceled-hulu-2-seasons-1236673950/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:28:24+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673941",
-      "title": "Paramount Says It Has Secured All Global Clearances  to Close WBD Deal \u2026 Except for That Pesky Lawsuit",
-      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-secures-global-clearances-wbd-deal-except-lawsuit-1236673941/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-14T20:09:53+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121110",
-      "title": "Monster Hunter Rathalos Nendoroid Tail Can Be Severed",
-      "url": "https://www.siliconera.com/monster-hunter-rathalos-nendoroid-tail-can-be-severed/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-14T20:00:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000724549",
       "title": "Activision Really Wants You To Know Call Of Duty: Modern Warfare 4\u2032s Campaign Isn\u2019t A Horrible Mess Like BLOPS7",
@@ -1470,6 +1363,30 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-14T23:18:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834088",
+      "title": "Disney Is Launching a Series of Romantasy Webcomics on Webtoon Inspired by Movies Including \u2018Beauty and the Beast\u2019",
+      "url": "https://variety.com/2026/digital/news/disney-cursed-love-webtoon-romantasy-webcomics-beauty-and-the-beast-1236834088/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T00:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674062",
+      "title": "Anne Hathaway Says Films Where Dogs Die \u201cShould Automatically Be Rated R\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-films-dogs-die-rated-r-1236674062/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T00:06:58+00:00"
+    },
+    {
+      "guid": "xoWcuVHCoCoEcTbpxL4q9E",
+      "title": "The Simpsons: Hit & Run \"is coming back in some form,\" says Matt Groening, but it looks like he wasn't supposed to",
+      "url": "https://www.gamesradar.com/games/open-world/the-simpsons-hit-and-run-is-coming-back-in-some-form-says-matt-groening-but-it-looks-like-he-wasnt-supposed-to/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-15T00:10:51+00:00"
     }
   ]
 }
