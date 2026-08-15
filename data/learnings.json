@@ -1104,30 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/ps-store-prices-cheaper-disc-production-end",
-      "title": "Killing PlayStation discs could make PS Store games cheaper, according to a former Square Enix exec",
-      "url": "https://www.eurogamer.net/ps-store-prices-cheaper-disc-production-end",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T16:21:22+00:00"
-    },
-    {
-      "guid": "wcqgehHqBMNf97fZpumphR",
-      "title": "I got so freaked out by the fact that Gordon Freeman is canonically 27 that I decided to find out how old all the other classic FPS protagonists are, and it didn't make me feel better",
-      "url": "https://www.pcgamer.com/games/fps/i-got-so-freaked-out-by-the-fact-that-gordon-freeman-is-canonically-27-that-i-decided-to-find-out-how-old-all-the-other-classic-fps-protagonists-are-and-it-didnt-make-me-feel-better/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T16:32:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236834478",
-      "title": "Locarno: Marco Cavazzin\u2019s \u2018Mutrion,\u2019 Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
-      "url": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T16:24:57+00:00"
-    },
-    {
       "guid": "192fc049-32c7-4ed8-9862-8ee5795315e6",
       "title": "The Dungeon Crawler Carl TV Series Could Make or Break the Future of LitRPG Adaptations",
       "url": "https://www.ign.com/articles/the-dungeon-crawler-carl-tv-series-could-make-or-break-future-litrpg-book-adaptations",
@@ -1350,6 +1326,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-15T20:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041672",
+      "title": "Lucasfilm Co-Boss Dave Filoni On \u2018Hunt For Ben Solo\u2019 Pic Future: \u201cThe Force Is Not With Us\u2026\u201d \u2013 D23",
+      "url": "https://deadline.com/2026/08/kylo-ren-hunt-for-ben-solo-dave-filoni-adam-driver-d23-1237041672/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T20:13:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835494",
+      "title": "\u2018Lanterns\u2019 Bosses and Stars on How the Show\u2019s Grounded Approach Ushers in an \u2018Entirely Different Kind of Superhero\u2019",
+      "url": "https://variety.com/2026/tv/news/lanterns-creators-grounded-show-future-dcu-1236835494/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T20:30:06+00:00"
     }
   ]
 }
