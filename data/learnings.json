@@ -1104,38 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://otakukart.com/?p=1750940",
-      "title": "The Last House Review: A Claustrophobic Netflix Thriller That Runs Out of Ideas",
-      "url": "https://otakukart.com/the-last-house-review-a-claustrophobic-netflix-thriller-that-runs-out-of-ideas/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T19:09:52+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000724725",
-      "title": "Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too",
-      "url": "https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T19:31:42+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237041638",
-      "title": "Dave Marsh Dies: Pioneering Rock Critic, Bruce Springsteen Biographer Was 76",
-      "url": "https://deadline.com/2026/08/dave-marsh-dead-1237041638/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T19:21:47+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236672638",
-      "title": "The TikTok Comment That Let Megan Gallagher Know She Nailed the Representation of Motherhood in \u2018All Her Fault\u2019",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T19:30:00+00:00"
-    },
-    {
       "guid": "De8jRMhoLHVREtMF8dfjwe",
       "title": "Matthew McConaughey could have played Joel in The Last of Us, but says 'it just wasn't for me at the time'",
       "url": "https://www.pcgamer.com/movies-tv/matthew-mcconaughey-could-have-played-joel-in-the-last-of-us-but-says-it-just-wasnt-for-me-at-the-time/",
@@ -1302,6 +1270,22 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-08-15T23:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835550",
+      "title": "Disney Leaders Talk Streaming Strategy and Growth Drivers: Sports, Local Language, Vertical Media and Emerging Formats",
+      "url": "https://variety.com/2026/tv/news/d23-espn-disney-international-eric-schrier-carol-choi-1236835550/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T23:30:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674132",
+      "title": "Disney and Epic Games Launch Game That Connects Star Wars Theme Park Ride to New Fortnite Adventure",
+      "url": "https://www.hollywoodreporter.com/business/digital/disney-epic-games-star-wars-theme-park-ride-fortnite-1236674132/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T23:30:00+00:00"
     }
   ]
 }
