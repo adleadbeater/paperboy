@@ -1104,38 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000724708",
-      "title": "Simpsons Creator Says GTA-Like Hit & Run Game Is Coming Back, Maybe",
-      "url": "https://kotaku.com/simpsons-creator-says-gta-like-hit-run-game-is-coming-back-maybe-2000724708",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T14:37:54+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750923",
-      "title": "Spider-Man: Brand New Day Crosses $700 Million Domestic Box Office Milestone in Record Time",
-      "url": "https://otakukart.com/spider-man-brand-new-day-crosses-700-million-domestic-box-office-milestone-in-record-time/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T14:30:20+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750899",
-      "title": "Kingdom Hearts 4 Confirmed for Late 2027 With New Coco World",
-      "url": "https://otakukart.com/kingdom-hearts-4-confirmed-for-late-2027-with-new-coco-world/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T14:28:55+00:00"
-    },
-    {
-      "guid": "t3_1vp42ho",
-      "title": "Nikkei: Sony wants to create new character IP to rival the likes of Nintendo, Sega and Sanrio",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vp42ho/nikkei_sony_wants_to_create_new_character_ip_to/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T14:18:49+00:00"
-    },
-    {
       "guid": "jS9Qe9ZjAGpMW5KHYBnV4H",
       "title": "RPG companions need to be hateable, otherwise nobody's going to love them",
       "url": "https://www.pcgamer.com/games/rpg/rpg-companions-need-to-be-hateable-otherwise-nobodys-going-to-love-them/",
@@ -1158,14 +1126,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-08-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750924",
-      "title": "Marvel\u2019s X-Men Reboot Set for May 2028 Release With New MCU Mutant Team",
-      "url": "https://otakukart.com/marvels-x-men-reboot-set-for-may-2028-release-with-new-mcu-mutant-team/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T14:49:37+00:00"
     },
     {
       "guid": "2SXERajMzoqhmZu8rtpNoJ",
@@ -1406,6 +1366,38 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-15T18:00:00+00:00"
+    },
+    {
+      "guid": "dyDqGZKh5B6j3Rk3Neypo6",
+      "title": "Simpsons creator Matt Groening implies that a Hit & Run remaster is coming, current showrunner hastily disputes",
+      "url": "https://www.pcgamer.com/games/action/simpsons-creator-matt-groening-implies-that-a-hit-and-run-remaster-is-coming-current-showrunner-hastily-disputes/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T18:17:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237040796",
+      "title": "Kristen Kish Wants \u2018Top Chef\u2019 To Cook Up More Prize Money \u2013 Contenders TV Nominees Studio",
+      "url": "https://deadline.com/2026/08/kristen-kish-top-chef-prize-money-emmy-interview-1237040796/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T18:38:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835434",
+      "title": "\u2018The State of Us\u2019 Review: A Pair of Spirited Performances Lift a Familiar Yorkshire Tearjerker",
+      "url": "https://variety.com/2026/film/reviews/the-state-of-us-review-1236835434/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T18:41:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670575",
+      "title": "\u2018Paradise\u2019 Executive Producer Explains Why Julianne Nicholson\u2019s Character Had to Go Down with the Bunker in Season 2",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T18:30:00+00:00"
     }
   ]
 }
