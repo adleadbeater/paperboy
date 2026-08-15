@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Amazon's God of War series is recasting Atreus and Thrud, looking for older actors",
-      "tag": "god of war",
-      "posted_at": "2026-08-08T12:19:26.545342+00:00",
-      "urls": [
-        "https://www.pcgamer.com/movies-tv/god-of-war-tv-series-sees-further-recasts-as-amazon-seeks-older-actors-for-atreus-and-thrud/"
-      ],
-      "article_titles": [
-        "God of War TV series sees further recasts as Amazon seeks older actors for Atreus and Thrud"
-      ]
-    },
-    {
       "headline": "Final Fantasy 7 Revelation Gets a New Look at Gamescom Opening Night Live",
       "tag": "final fantasy 7 revelation",
       "posted_at": "2026-08-08T16:16:49.939022+00:00",
@@ -1098,6 +1087,17 @@
       "article_titles": [
         "A Kingdom Hearts Animated Series Is 'Coming Soon' to Disney Channel, Disney Plus"
       ]
+    },
+    {
+      "headline": "Simpsons Hit & Run Creator Says a Comeback Is in the Works",
+      "tag": "the simpsons: hit & run",
+      "posted_at": "2026-08-15T14:44:20.914153+00:00",
+      "urls": [
+        "https://kotaku.com/simpsons-creator-says-gta-like-hit-run-game-is-coming-back-maybe-2000724708"
+      ],
+      "article_titles": [
+        "Simpsons Creator Says GTA-Like Hit & Run Game Is Coming Back, Maybe"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1406,6 +1406,38 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724708",
+      "title": "Simpsons Creator Says GTA-Like Hit & Run Game Is Coming Back, Maybe",
+      "url": "https://kotaku.com/simpsons-creator-says-gta-like-hit-run-game-is-coming-back-maybe-2000724708",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T14:37:54+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750923",
+      "title": "Spider-Man: Brand New Day Crosses $700 Million Domestic Box Office Milestone in Record Time",
+      "url": "https://otakukart.com/spider-man-brand-new-day-crosses-700-million-domestic-box-office-milestone-in-record-time/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-15T14:30:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750899",
+      "title": "Kingdom Hearts 4 Confirmed for Late 2027 With New Coco World",
+      "url": "https://otakukart.com/kingdom-hearts-4-confirmed-for-late-2027-with-new-coco-world/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-15T14:28:55+00:00"
+    },
+    {
+      "guid": "t3_1vp42ho",
+      "title": "Nikkei: Sony wants to create new character IP to rival the likes of Nintendo, Sega and Sanrio",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vp42ho/nikkei_sony_wants_to_create_new_character_ip_to/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-15T14:18:49+00:00"
     }
   ]
 }
