@@ -1104,46 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236674275",
-      "title": "The Playlist: Seventeen\u2019s Vernon on His Hyperpop Roots, K-pop\u2019s Evolution and What Inspired \u2018V8\u2019",
-      "url": "https://www.hollywoodreporter.com/music/music-news/the-playlist-seventeen-vernon-hyperpop-k-pop-v8-interivew-1236674275/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:08:04+00:00"
-    },
-    {
-      "guid": "dyDqGZKh5B6j3Rk3Neypo6",
-      "title": "Simpsons creator Matt Groening implies that a Hit & Run remaster is coming, current showrunner hastily disputes",
-      "url": "https://www.pcgamer.com/games/action/simpsons-creator-matt-groening-implies-that-a-hit-and-run-remaster-is-coming-current-showrunner-hastily-disputes/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:17:42+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237040796",
-      "title": "Kristen Kish Wants \u2018Top Chef\u2019 To Cook Up More Prize Money \u2013 Contenders TV Nominees Studio",
-      "url": "https://deadline.com/2026/08/kristen-kish-top-chef-prize-money-emmy-interview-1237040796/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:38:19+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236835434",
-      "title": "\u2018The State of Us\u2019 Review: A Pair of Spirited Performances Lift a Familiar Yorkshire Tearjerker",
-      "url": "https://variety.com/2026/film/reviews/the-state-of-us-review-1236835434/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:41:41+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670575",
-      "title": "\u2018Paradise\u2019 Executive Producer Explains Why Julianne Nicholson\u2019s Character Had to Go Down with the Bunker in Season 2",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/paradise-producer-sinatra-sacrifice-season-two-finale-1236670575/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:30:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236835495",
       "title": "Selena Gomez Slams \u2018Completely Meritless\u2019 Wondermind Lawsuit, Will File to Dismiss \u2018Baseless Claims\u2019",
       "url": "https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495/",
@@ -1318,6 +1278,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-15T21:46:49+00:00"
+    },
+    {
+      "guid": "EtPxe8DL7XuLo7fZ2c9nRb",
+      "title": "Saber's AI Rideshare Stimulator controversy almost closes on high note with CEO apology, then he calls Portal scribe who mocked him an 'unsuccessful writer'",
+      "url": "https://www.pcgamer.com/gaming-industry/sabers-ai-rideshare-stimulator-controversy-almost-closes-on-high-note-with-ceo-apology-then-he-calls-portal-scribe-who-mocked-him-an-unsuccessful-writer/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T22:36:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041716",
+      "title": "Rob Rausch Played It Cool On \u2018The Traitors\u2019 But His Co-Stars Think \u201cMr. America\u201d Was A \u201cBad Boy\u201d \u2013 Contenders TV Nominees Studio",
+      "url": "https://deadline.com/2026/08/the-traitors-season-4-contestants-emmy-interview-1237041716/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T22:15:00+00:00"
     }
   ]
 }
