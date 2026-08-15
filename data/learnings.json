@@ -1104,30 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236835495",
-      "title": "Selena Gomez Slams \u2018Completely Meritless\u2019 Wondermind Lawsuit, Will File to Dismiss \u2018Baseless Claims\u2019",
-      "url": "https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:55:37+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236671092",
-      "title": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in \u2018Arthur\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236674118",
-      "title": "Where to Stream UFC 330: Makhachev vs. Machado Garry",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-330-livestream-paramount-plus-free-trial-1236674118/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T19:00:00+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1750940",
       "title": "The Last House Review: A Claustrophobic Netflix Thriller That Runs Out of Ideas",
       "url": "https://otakukart.com/the-last-house-review-a-claustrophobic-netflix-thriller-that-runs-out-of-ideas/",
@@ -1294,6 +1270,38 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-15T22:15:00+00:00"
+    },
+    {
+      "guid": "8bd8af62-49fc-4f5a-8533-e7a07c46366b",
+      "title": "Tetsuya Nomura Teases Involvement in Kingdom Hearts Anime Series, Tells Fans to Let Their 'Imagination Run Wild' | D23 2026",
+      "url": "https://www.ign.com/articles/tetsuya-nomura-teases-involvement-in-kingdom-hearts-anime-series-tells-fans-to-let-their-imagination-run-wild-d23-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T22:57:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041798",
+      "title": "Mason Thames Reveals He & McKenna Grace Filmed \u2018Nimrods\u2019 Before \u2018Regretting You\u2019, Talks Possibility Of Doing \u201cAnother Job Together\u201d",
+      "url": "https://deadline.com/2026/08/mason-thames-mckenna-grace-filmed-nimrods-regretting-you-1237041798/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T23:03:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674411",
+      "title": "Selena Gomez\u2019s Attorney Fires Back at Wondermind Lawsuit: \u201cCompletely Meritless\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/selena-gomez-responds-wondermind-lawsuit-completely-meritless-1236674411/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T22:49:08+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205029",
+      "title": "ARK: Survival Evolved Sunsets Official Switch Servers This Month",
+      "url": "https://www.nintendolife.com/news/2026/08/ark-survival-evolved-sunsets-official-switch-servers-this-month",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-15T23:00:00+00:00"
     }
   ]
 }
