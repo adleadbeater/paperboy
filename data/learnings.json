@@ -1104,38 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "2SXERajMzoqhmZu8rtpNoJ",
-      "title": "Star Wars: The Old Republic hopes to recapture the 'classic' experience with difficulty options and a new way to start from scratch",
-      "url": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-hopes-to-recapture-the-classic-experience-with-difficulty-options-and-a-new-way-to-start-from-scratch/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T15:18:09+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670925",
-      "title": "\u2018Mission\u2019 Stars George MacKay and Rosy McEwen on Capitalism, Creative Freedom and the Eternal Allure of British Independent Film",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/george-mackay-rosy-mcewen-mission-paul-wright-edinburgh-1236670925/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T15:15:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750925",
-      "title": "The Last House Director Explains Ending, Reveals Why Humans Are Not Earth\u2019s True Dominant Species",
-      "url": "https://otakukart.com/the-last-house-director-explains-ending-reveals-why-humans-are-not-earths-true-dominant-species/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T15:19:38+00:00"
-    },
-    {
-      "guid": "t3_1vp5gc3",
-      "title": "The new Sonic X Fortnite comic features models from the leaked C7S4 key art",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vp5gc3/the_new_sonic_x_fortnite_comic_features_models/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T15:17:22+00:00"
-    },
-    {
       "guid": "93f492ab-debb-44bf-92b1-31ffe951c5ca",
       "title": "I Love Handhelds, But I\u2019m Worried the RAM Crisis is Going to Kill Them",
       "url": "https://www.ign.com/articles/i-love-handhelds-but-im-worried-the-ram-crisis-is-going-to-kill-them",
@@ -1398,6 +1366,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-15T19:09:52+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724725",
+      "title": "Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too",
+      "url": "https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T19:31:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041638",
+      "title": "Dave Marsh Dies: Pioneering Rock Critic, Bruce Springsteen Biographer Was 76",
+      "url": "https://deadline.com/2026/08/dave-marsh-dead-1237041638/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T19:21:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672638",
+      "title": "The TikTok Comment That Let Megan Gallagher Know She Nailed the Representation of Motherhood in \u2018All Her Fault\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/tiktok-comment-all-her-fault-motherhood-tv-1236672638/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T19:30:00+00:00"
     }
   ]
 }
