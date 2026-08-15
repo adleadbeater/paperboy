@@ -1104,52 +1104,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237041597",
-      "title": "Ewan McGregor: The Actor Opens Up About His Career, His Return To Scotland & Taking A Chance With Obi-Wan: \u201cDeciding To Do \u2018Star Wars\u2019 Was Hard\u201d \u2013 Edinburgh Film Festival",
-      "url": "https://deadline.com/2026/08/ewan-mcgregor-obi-wan-kenobi-edinburgh-film-festival-1237041597/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237041593",
-      "title": "Anne Hathaway Knows You\u2019re Worried About The Fate Of Starbuck The Dog In \u2018The End Of Oak Street\u2019",
-      "url": "https://deadline.com/2026/08/anne-hathaway-starbuck-end-of-oak-street-1237041593/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T17:49:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236835488",
-      "title": "Dave Marsh, Bruce Springsteen Biographer and Rock Critic, Dies at 76",
-      "url": "https://variety.com/2026/music/news/dave-marsh-dead-bruce-springsteen-born-to-run-1236835488/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T18:02:21+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236674275",
       "title": "The Playlist: Seventeen\u2019s Vernon on His Hyperpop Roots, K-pop\u2019s Evolution and What Inspired \u2018V8\u2019",
       "url": "https://www.hollywoodreporter.com/music/music-news/the-playlist-seventeen-vernon-hyperpop-k-pop-v8-interivew-1236674275/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-15T18:08:04+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236674348",
-      "title": "Courtney Love Reveals Doctors Told Her She \u201cWas Going to Die\u201d in 2019: \u201cMy Body Just Exploded\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/courtney-love-doctors-told-her-she-was-going-to-die-1236674348/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T17:45:40+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205011",
-      "title": "After Several PS Store Knock-Offs, the Real TCG Card Shop Simulator Hits PS5 Next Month",
-      "url": "https://www.pushsquare.com/news/2026/08/after-several-ps-store-knock-offs-the-real-tcg-card-shop-simulator-hits-ps5-next-month",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T18:00:00+00:00"
     },
     {
       "guid": "dyDqGZKh5B6j3Rk3Neypo6",
@@ -1342,6 +1302,22 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-15T21:26:43+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835546",
+      "title": "Slipknot Confirms Sid Wilson\u2019s Sudden Exit: \u2018We Wish Him the Best\u2019",
+      "url": "https://variety.com/2026/music/news/slipknot-confirms-sid-wilson-sudden-exit-1236835546/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T21:41:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674408",
+      "title": "CBS News Chief Correspondent Matt Gutman\u00a0Accused of Harassment in Wrongful-Termination Suit by Former ABC News Producer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/cbs-news-matt-gutman-accused-harassment-abc-news-1236674408/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T21:46:49+00:00"
     }
   ]
 }
