@@ -1104,14 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236835469",
-      "title": "Adam Scott Says His Daughter\u2019s Acting Class Was Forced to Watch His Failed \u2018Office\u2019 Audition as an Example of What Not to Do",
-      "url": "https://variety.com/2026/tv/news/adam-scott-daughter-failed-office-audition-john-krasinski-1236835469/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T17:40:41+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237041597",
       "title": "Ewan McGregor: The Actor Opens Up About His Career, His Return To Scotland & Taking A Chance With Obi-Wan: \u201cDeciding To Do \u2018Star Wars\u2019 Was Hard\u201d \u2013 Edinburgh Film Festival",
       "url": "https://deadline.com/2026/08/ewan-mcgregor-obi-wan-kenobi-edinburgh-film-festival-1237041597/",
@@ -1326,6 +1318,30 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-15T20:46:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041064",
+      "title": "Scott Foley Returning To \u2018Scrubs\u2019 As Sean In Season 2 Of ABC Revival To Revisit Classic Storyline",
+      "url": "https://deadline.com/2026/08/scott-foley-returning-scrubs-sean-kelly-season-2-revival-1237041064/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T21:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041687",
+      "title": "\u2018Summer House\u2019 Enters A \u201cNew Chapter\u201d After Landing Its First Emmy Recognition \u2013 Contenders TV Nominees Studio",
+      "url": "https://deadline.com/2026/08/summer-house-season-10-emmy-interview-1237041687/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T21:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237040751",
+      "title": "All Things Spidey At D23: Tom Holland, Anniversary Comic Book, \u2018Friendly Neighborhood\u2019 Sneak-Peak, \u2018Amazing Friends\u2019 Renewal & Upcoming Special \u2018Spidey and the Avengers: Halloween Team-Up!\u2019",
+      "url": "https://deadline.com/2026/08/all-things-spidey-d23-friendly-neighborhood-amazing-friends-1237040751/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T21:26:43+00:00"
     }
   ]
 }
