@@ -1104,14 +1104,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://otakukart.com/?p=1750853",
-      "title": "Arc Raiders Earns $114.9 Million for Nexon in Q2 as Sales Reach 16.3 Million Units",
-      "url": "https://otakukart.com/arc-raiders-earns-114-9-million-for-nexon-as-sales-reach-16-3-million-units/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T12:10:13+00:00"
-    },
-    {
       "guid": "2c847488-9b9e-483e-a8c4-4565198f72e5",
       "title": "Star Trek\u2019s Babs Olusanmokun on the End of Strange New Worlds: \u2018I Don't See It as a Final Episode\u2019",
       "url": "https://www.ign.com/articles/star-treks-babs-olusanmokun-on-the-end-of-strange-new-worlds-i-dont-see-it-as-a-final-episode",
@@ -1152,52 +1144,12 @@
       "published_dt": "2026-08-15T13:00:00+00:00"
     },
     {
-      "guid": "8JKeLEKFkM8xrgJSYgynqV",
-      "title": "\"Please let your imaginations run wild\" - The Kingdom Hearts 4 team and Tetsuya Nomura are involved in the new Disney Plus anime",
-      "url": "https://www.gamesradar.com/games/kingdom-hearts/please-let-your-imaginations-run-wild-the-kingdom-hearts-4-team-and-tetsuya-nomura-are-involved-in-the-new-disney-plus-anime/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T12:43:15+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205028",
-      "title": "'It's a Relentless Onslaught': Wolverine PS5 Dev Responds to Unprecedented Criticism",
-      "url": "https://www.pushsquare.com/news/2026/08/its-a-relentless-onslaught-wolverine-ps5-dev-responds-to-unprecedented-criticism",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T12:30:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1121078",
       "title": "Bayani Mode Makes Yasmine Feel Special in Street Fighter 6",
       "url": "https://www.siliconera.com/bayani-mode-makes-yasmine-feel-special-in-street-fighter-6/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-15T13:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750857",
-      "title": "Pearl Abyss Says Crimson Desert Is \u201cNot a One-Off Title\u201d as Sequel Possibilities Emerge",
-      "url": "https://otakukart.com/pearl-abyss-says-crimson-desert-is-not-a-one-off-title-as-sequel-possibilities-emerge/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T12:45:23+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750855",
-      "title": "Netflix Pushes Back Against Tyra Banks\u2019 Defamation Lawsuit Over \u2018Reality Check\u2019 Docuseries",
-      "url": "https://otakukart.com/netflix-pushes-back-against-tyra-banks-defamation-lawsuit-over-reality-check-docuseries/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T12:41:05+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1750856",
-      "title": "Netflix Launches New YA Hub as Young Adult Shows and Movies Surpass 10.5 Billion Views Since 2023",
-      "url": "https://otakukart.com/netflix-launches-new-ya-hub-as-young-adult-shows-and-movies-surpass-10-5-billion-views-since-2023/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T12:38:41+00:00"
     },
     {
       "guid": "CvmvpgrVSmzGdJcYL2gS6h",
@@ -1526,6 +1478,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-15T15:45:39+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ps-store-prices-cheaper-disc-production-end",
+      "title": "Killing PlayStation discs could make PS Store games cheaper, according to a former Square Enix exec",
+      "url": "https://www.eurogamer.net/ps-store-prices-cheaper-disc-production-end",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T16:21:22+00:00"
+    },
+    {
+      "guid": "wcqgehHqBMNf97fZpumphR",
+      "title": "I got so freaked out by the fact that Gordon Freeman is canonically 27 that I decided to find out how old all the other classic FPS protagonists are, and it didn't make me feel better",
+      "url": "https://www.pcgamer.com/games/fps/i-got-so-freaked-out-by-the-fact-that-gordon-freeman-is-canonically-27-that-i-decided-to-find-out-how-old-all-the-other-classic-fps-protagonists-are-and-it-didnt-make-me-feel-better/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T16:32:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834478",
+      "title": "Locarno: Marco Cavazzin\u2019s \u2018Mutrion,\u2019 Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+      "url": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T16:24:57+00:00"
     }
   ]
 }
