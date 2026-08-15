@@ -1104,44 +1104,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "jS9Qe9ZjAGpMW5KHYBnV4H",
-      "title": "RPG companions need to be hateable, otherwise nobody's going to love them",
-      "url": "https://www.pcgamer.com/games/rpg/rpg-companions-need-to-be-hateable-otherwise-nobodys-going-to-love-them/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237040773",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Production Designer On Yelena\u2019s Bathhouse, Peter Parker\u2019s Sad Pad & The Challenge Of Building New York In The U.K.",
-      "url": "https://deadline.com/2026/08/spider-man-brand-new-day-production-designer-interview-1237040773/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204825",
-      "title": "Talking Point: Is An Analogue 3D Worth The Money?",
-      "url": "https://www.nintendolife.com/features/talking-point-is-an-analogue-3d-worth-the-money",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-15T15:00:00+00:00"
-    },
-    {
       "guid": "2SXERajMzoqhmZu8rtpNoJ",
       "title": "Star Wars: The Old Republic hopes to recapture the 'classic' experience with difficulty options and a new way to start from scratch",
       "url": "https://www.pcgamer.com/games/mmo/star-wars-the-old-republic-hopes-to-recapture-the-classic-experience-with-difficulty-options-and-a-new-way-to-start-from-scratch/",
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-08-15T15:18:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237033458",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Super $67M Third Weekend; \u2018Odyssey\u2019 Sailing Past Half Billion, Dinos Fight For Third \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-15T15:11:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236670925",
@@ -1398,6 +1366,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-15T18:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835495",
+      "title": "Selena Gomez Slams \u2018Completely Meritless\u2019 Wondermind Lawsuit, Will File to Dismiss \u2018Baseless Claims\u2019",
+      "url": "https://variety.com/2026/tv/news/selena-gomez-slams-wondermind-lawsuit-file-to-dismiss-1236835495/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T18:55:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671092",
+      "title": "Hollywood Flashback: When Dudley Moore Intoxicated Audiences in \u2018Arthur\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dudley-moore-author-1236671092/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674118",
+      "title": "Where to Stream UFC 330: Makhachev vs. Machado Garry",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-330-livestream-paramount-plus-free-trial-1236674118/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-15T19:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1750940",
+      "title": "The Last House Review: A Claustrophobic Netflix Thriller That Runs Out of Ideas",
+      "url": "https://otakukart.com/the-last-house-review-a-claustrophobic-netflix-thriller-that-runs-out-of-ideas/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-15T19:09:52+00:00"
     }
   ]
 }
