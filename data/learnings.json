@@ -1080,38 +1080,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
-      "title": "Saber Interactive finally adds an AI disclaimer to Rideshare Stimulator's Steam page",
-      "url": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T17:34:21+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237042108",
-      "title": "Kristen Bell Makes Surprise Performance At Savannah Bananas Game With \u2018Frozen\u2019, \u2018Wicked\u2019 & \u2018Dirty Dancing\u2019 Mashup",
-      "url": "https://deadline.com/2026/08/kristen-bell-savannah-bananas-surprise-performance-1237042108/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T17:22:41+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236835632",
-      "title": "Dolly Parton Skips Dollywood Ride Opening Amid Ongoing Health Problems: \u2018My Nashville Doctor Has Kinda Clipped My Wings\u2019",
-      "url": "https://variety.com/2026/music/news/dolly-parton-skips-dollywood-opening-health-issues-1236835632/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T17:18:19+00:00"
-    },
-    {
-      "guid": "t3_1vq2nmu",
-      "title": "Fortnite officially confirms the leaked keyart with an updated version",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vq2nmu/fortnite_officially_confirms_the_leaked_keyart/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T17:13:28+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000724774",
       "title": "Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update",
       "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
@@ -1334,6 +1302,38 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-16T20:51:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042281",
+      "title": "\u2018Teenage Sex And Death At Camp Miasma\u2019s Bloody Good Expansion As Indies Flex \u2013 Specialty Box Office",
+      "url": "https://deadline.com/2026/08/indie-film-box-office-teenage-sex-and-death-at-camp-miasma-1237042281/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T21:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835738",
+      "title": "Ariana Grande Brings Out \u2018Wicked\u2019 Co-Star Cynthia Erivo for \u2018Happy Days\u2019 and \u2018For Good\u2019 at Eternal Sunshine London Show",
+      "url": "https://variety.com/2026/music/news/ariana-grande-cynthia-erivo-eternal-sunshine-london-wicked-1236835738/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T21:27:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674749",
+      "title": "Alex Cooper Departing Talent Agency UTA",
+      "url": "https://www.hollywoodreporter.com/business/digital/alex-cooper-departing-talent-agency-uta-1236674749/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T21:27:58+00:00"
+    },
+    {
+      "guid": "t3_1vq8quf",
+      "title": "Info and details about the Cancelled Star Wars Magellan ARPG",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vq8quf/info_and_details_about_the_cancelled_star_wars/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-16T21:09:54+00:00"
     }
   ]
 }
