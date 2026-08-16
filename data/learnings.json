@@ -1080,44 +1080,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236835668",
-      "title": "Mariska Hargitay Says Jalen Brunson Is \u2018Definitely\u2019 Getting a Role in \u2018Law & Order: Special Victims Unit\u2019: \u2018It\u2019s Happening\u2019",
-      "url": "https://variety.com/2026/tv/news/mariska-hargitay-confirms-jalen-brunson-law-order-svu-role-1236835668/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T18:51:12+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236834279",
       "title": "\u2018The Challenge\u2019 Contestants Pay Tribute to Tyler Duckworth: \u2018You Were the Brother I Never Had\u2019",
       "url": "https://variety.com/2026/tv/news/the-challenge-tribute-tyler-duckworth-johnny-bananas-1236834279/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-16T19:08:34+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236835634",
-      "title": "\u2018I Don\u2019t Know\u2019: Kenneth Branagh on Directing,\u00a0 \u2018Harry Potter\u2019 and How Christopher Nolan Had Him Speaking Russian Backwards",
-      "url": "https://variety.com/2026/film/global/kenneth-branagh-harry-potter-christopher-nolan-1236835634/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T18:54:32+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236672644",
-      "title": "\u2018DTF St. Louis\u2019 Creator Steven Conrad Has No Plans to Make More Movies",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/dtf-st-louis-creator-plans-movies-1236672644/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673553",
-      "title": "In \u2018A Vineyard for A Lobster,\u2019 Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/a-vineyard-for-a-lobster-uganda-film-locarno-open-doors-1236673553/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T18:45:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000724780",
@@ -1310,6 +1278,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-16T22:21:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042312",
+      "title": "Call Her Moving: Alex Cooper In Talks With CAA After UTA Exit Under Cloud",
+      "url": "https://deadline.com/2026/08/alex-cooper-caa-talkls-uta-exit-1237042312/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T22:51:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835727",
+      "title": "Anne Hathaway Tears Up as She\u2019s Named a Disney Legend (and Her 2026 Box Office Crosses $2 Billion): \u2018I\u2019m One of the Most Insanely Lucky People in the World\u2019",
+      "url": "https://variety.com/2026/film/news/anne-hathaway-disney-legend-d23-princess-diaries-devil-wears-prada-1236835727/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T22:44:23+00:00"
     }
   ]
 }
