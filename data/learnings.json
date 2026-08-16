@@ -1080,30 +1080,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "wFGVzyLxG4VAofBprr5aFY",
-      "title": "You could win a slice of \u20ac30,000 by building the best mod for Mount & Blade 2's controversial seafaring expansion",
-      "url": "https://www.pcgamer.com/games/rpg/you-could-win-a-slice-of-eur30-000-by-building-the-best-mod-for-mount-and-blade-2s-controversial-seafaring-expansion/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T11:49:24+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204752",
-      "title": "Mailbox: Zelda-Themed Switch 2s, Kiddy Consoles, \"Take My Money, Nintendo\" Scenarios - Nintendo Life Letters",
-      "url": "https://www.nintendolife.com/news/2026/08/mailbox-zelda-themed-switch-2s-kiddy-consoles-take-my-money-nintendo-scenarios-nintendo-life-letters",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=514667",
-      "title": "D&D Accessories: We\u2019re Beholding the Beholder",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-accessories-were-beholding-the-beholder.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T12:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237042032",
       "title": "\u2018Borges And Me\u2019 Review: Marc Turtletaub\u2019s Hallucinatory \u201970s Road Trip Is Smart, Literary And Playful \u2013 Edinburgh Film Festival",
       "url": "https://deadline.com/2026/08/borges-and-me-review-marc-turtletaub-fionn-whitehead-alan-cumming-1237042032/",
@@ -1262,6 +1238,46 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-16T15:30:00+00:00"
+    },
+    {
+      "guid": "AtfHYhuXZ7ZYGk4qD5jakG",
+      "title": "The next big videogame TV adaptation is a Kingdom Hearts anime",
+      "url": "https://www.pcgamer.com/movies-tv/the-next-big-videogame-tv-adaptation-is-a-kingdom-hearts-anime/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T16:00:41+00:00"
+    },
+    {
+      "guid": "FyUXjHtdbe8jUNfovVRzAT",
+      "title": "Iron Nest is the best 'Battleship' game I've played in years\u2014and it doesn't even have boats",
+      "url": "https://www.pcgamer.com/games/sim/iron-nest-is-the-best-battleship-game-ive-played-in-years-and-it-doesnt-even-have-boats/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237033458",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 $70M Is Second-Best 3rd Weekend Ever; \u2018Odyssey\u2019 Sails Past Half Billion, Dino Pics $20M+ Apiece \u2013 Box Office Update",
+      "url": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T15:50:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834084",
+      "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Remains No. 1 With $70 Million, \u2018End of Oak Street\u2019 Debuts to $21 Million",
+      "url": "https://variety.com/2026/film/box-office/spiderman-box-office-brand-new-day-dominates-end-of-oak-street-debut-1236834084/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T16:08:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674564",
+      "title": "Nick Reiner\u00a0Blocked From Trust Fund Due to \u201cSlayer Statute\u201d Amid Charges For Parents\u2019 Murder",
+      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-blocked-trust-fund-charges-parents-murder-1236674564/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T15:42:52+00:00"
     }
   ]
 }
