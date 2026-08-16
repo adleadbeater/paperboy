@@ -1080,30 +1080,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237042021",
-      "title": "Mira Sorvino Calls \u2018Romy & Michele 2\u2019 Co-Star Lisa Kudrow A \u201cGreat Acting Partner\u201d & Reveals Why Film Has Withstood The Test Of Time",
-      "url": "https://deadline.com/2026/08/mira-sorvino-romy-and-michele-lisa-kudrow-d23-1237042021/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=616515",
-      "title": "D&D: If You Wanna Unleash Arcana, You Better Know Who Mystra Is",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-if-you-wanna-unleash-arcana-you-better-know-who-mystra-is.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T14:00:00+00:00"
-    },
-    {
-      "guid": "fPM9wVjJBT2zeesyGGABvK",
-      "title": "The Quake community simply cannot stop delivering, having just released a 22-map 'Deathmatch Jam' to celebrate the shooter's 30th birthday",
-      "url": "https://www.pcgamer.com/games/fps/the-quake-community-simply-cannot-stop-delivering-having-just-released-a-22-map-deathmatch-jam-to-celebrate-the-shooters-30th-birthday/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T14:09:31+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236835601",
       "title": "\u2018Mission\u2019 Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
       "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
@@ -1342,6 +1318,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-16T17:13:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724774",
+      "title": "Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update",
+      "url": "https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T17:55:42+00:00"
+    },
+    {
+      "guid": "vMWgB99JqFcavWrtkefRrU",
+      "title": "League of Legends YouTuber unearths the original investor pitch from when the game was called Onslaught: War of the Immortals",
+      "url": "https://www.pcgamer.com/games/moba/league-of-legends-youtuber-unearths-the-original-investor-pitch-from-when-the-game-was-called-onslaught-war-of-the-immortals/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T17:42:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042161",
+      "title": "Audrey Hepburn\u2019s Son Had \u201cSeveral Talks\u201d With Lily Collins About Upcoming Biopic, Shares Thoughts On Thomasin McKenzie Project",
+      "url": "https://deadline.com/2026/08/audrey-hepburn-son-several-talks-lily-collins-biopic-1237042161/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:03:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042155",
+      "title": "Disney\u2019s Josh D\u2019Amaro On The Biggest Opportunities As CEO & Why Other Media Companies \u201cAre Trying To Look Like Disney\u201d",
+      "url": "https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d23-1237042155/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T17:50:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671256",
+      "title": "The French Designer Behind the Sexiest Moments of Hollywood\u2019s Golden Age (Including That Marilyn Dress)",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/designer-marilyn-monroe-dress-hollywood-glamour-1236671256/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:00:00+00:00"
     }
   ]
 }
