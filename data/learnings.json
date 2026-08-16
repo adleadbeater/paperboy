@@ -1080,22 +1080,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236835601",
-      "title": "\u2018Mission\u2019 Review: An All-In George MacKay Performance Anchors a Fevered Mental Illness Portrait",
-      "url": "https://variety.com/2026/film/reviews/mission-review-george-mackay-1236835601/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T14:14:50+00:00"
-    },
-    {
-      "guid": "sodix8sq7hFnwVUtLELBtU",
-      "title": "The backlash against gen AI in video games proves voting with your wallet works",
-      "url": "https://www.gamesradar.com/games/the-backlash-against-gen-ai-in-video-games-proves-voting-with-your-wallet-works/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T14:30:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
       "title": "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI",
       "url": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
@@ -1358,6 +1342,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-16T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042210",
+      "title": "Sam Mendes\u2019 Beatles Biopic Recreates \u2018Abbey Road\u2019 Album Cover In Behind-The-Scenes Video \u2014\u00a0Watch",
+      "url": "https://deadline.com/2026/08/sam-mendes-beatles-biopic-recreates-abbey-road-1237042210/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:40:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041772",
+      "title": "\u2018Widow\u2019s Bay Creator Katie Dippold Says Season 2 Is \u201cFeeling Great\u201d; Why Matthew Rhys\u2019 Welsh Hometown Is Exactly Like The Island \u2013 Contenders TV Nominees Studio",
+      "url": "https://deadline.com/2026/08/widows-bay-season-2-katie-dippold-matthew-rhys-interview-1237041772/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835668",
+      "title": "Mariska Hargitay Says Jalen Brunson Is \u2018Definitely\u2019 Getting a Role in \u2018Law & Order: Special Victims Unit\u2019: \u2018It\u2019s Happening\u2019",
+      "url": "https://variety.com/2026/tv/news/mariska-hargitay-confirms-jalen-brunson-law-order-svu-role-1236835668/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:51:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236670578",
+      "title": "\u2018The Pitt\u2019 Showrunner Admits Season One\u2019s Notoriety Amped Up Pressure For Season Two: \u201cWe Had to Prove That It Wasn\u2019t Just a Fluke\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-pitt-showrunner-pressure-season-two-1236670578/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:30:00+00:00"
     }
   ]
 }
