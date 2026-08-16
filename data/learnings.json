@@ -1080,38 +1080,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/matthew-mcconaughey-last-of-us-joel-turned-down",
-      "title": "Matthew McConaughey explains why he turned down the role of Joel in The Last of Us",
-      "url": "https://www.eurogamer.net/matthew-mcconaughey-last-of-us-joel-turned-down",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T16:52:07+00:00"
-    },
-    {
-      "guid": "5VLRSQUXrtDXGc4RvF5aVL",
-      "title": "David Brevik, creator of Diablo, reveals the 'worst ending' to any game he's played:  'But I really love the game. It's amazing'",
-      "url": "https://www.pcgamer.com/gaming-industry/david-brevik-creator-of-diablo-reveals-the-worst-ending-to-any-game-hes-played-but-i-really-love-the-game-its-amazing/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T17:00:00+00:00"
-    },
-    {
-      "guid": "GoG9o87CE7YfP7sDE9H79M",
-      "title": "Where's the weirdest place you've heard videogame music?",
-      "url": "https://www.pcgamer.com/games/wheres-the-weirdest-place-youve-heard-videogame-music/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/",
-      "title": "Podcast #410 Livestream: Dragonlance, Paizo, unions, and 600% markups",
-      "url": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T16:46:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
       "title": "Saber Interactive finally adds an AI disclaimer to Rideshare Stimulator's Steam page",
       "url": "https://www.eurogamer.net/saber-rideshare-stimulator-steam-ai-disclaimer",
@@ -1358,6 +1326,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-16T20:31:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724793",
+      "title": "Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary",
+      "url": "https://kotaku.com/foundational-freeware-indie-metroidvania-knytt-remade-for-its-20th-anniversary-2000724793",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T20:51:14+00:00"
     }
   ]
 }
