@@ -1080,44 +1080,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "AtfHYhuXZ7ZYGk4qD5jakG",
-      "title": "The next big videogame TV adaptation is a Kingdom Hearts anime",
-      "url": "https://www.pcgamer.com/movies-tv/the-next-big-videogame-tv-adaptation-is-a-kingdom-hearts-anime/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T16:00:41+00:00"
-    },
-    {
-      "guid": "FyUXjHtdbe8jUNfovVRzAT",
-      "title": "Iron Nest is the best 'Battleship' game I've played in years\u2014and it doesn't even have boats",
-      "url": "https://www.pcgamer.com/games/sim/iron-nest-is-the-best-battleship-game-ive-played-in-years-and-it-doesnt-even-have-boats/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T16:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237033458",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 $70M Is Second-Best 3rd Weekend Ever; \u2018Odyssey\u2019 Sails Past Half Billion, Dino Pics $20M+ Apiece \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/08/box-office-spider-man-the-end-of-oak-street-1237033458/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T15:50:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236834084",
       "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Remains No. 1 With $70 Million, \u2018End of Oak Street\u2019 Debuts to $21 Million",
       "url": "https://variety.com/2026/film/box-office/spiderman-box-office-brand-new-day-dominates-end-of-oak-street-debut-1236834084/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-16T16:08:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236674564",
-      "title": "Nick Reiner\u00a0Blocked From Trust Fund Due to \u201cSlayer Statute\u201d Amid Charges For Parents\u2019 Murder",
-      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-blocked-trust-fund-charges-parents-murder-1236674564/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T15:42:52+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/kingdom-hearts-nomura-anime-series-tease-d23",
@@ -1358,6 +1326,54 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-16T19:24:57+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724790",
+      "title": "3D Model Markets Are Being Flooded With AI Sellers But No One\u2019s Buying",
+      "url": "https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T20:04:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042227",
+      "title": "Former ABC News Field Producer\u2019s Wrongful Termination Lawsuit Accuses Matt Gutman Of Making Inappropriate Sexualized Comments",
+      "url": "https://deadline.com/2026/08/matt-gutman-lawsuit-abc-field-producer-1237042227/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T19:56:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042242",
+      "title": "\u2018Hercules\u2019 Voice Actress Susan Egan Nominates Zendaya & Tom Holland For Potential Live-Action Remake: \u201cThe World Needs It\u201d \u2014 D23",
+      "url": "https://deadline.com/2026/08/hercules-susan-egan-nominates-zendaya-tom-holland-remake-1237042242/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T19:50:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237041848",
+      "title": "Why Emmy-Nominated \u2018SubwayTakes\u2019 YouTube Star Kareem Rahma Hasn\u2019t Written Off Traditional TV Just Yet \u2013 Contenders TV Nominees Studio",
+      "url": "https://deadline.com/2026/08/subwaytakes-star-kareem-rahma-emmy-video-interview-1237041848/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T19:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835704",
+      "title": "Alex Cooper Poised to Drop UTA After Tough Period of Media Scrutiny",
+      "url": "https://variety.com/2026/tv/news/alex-cooper-drop-uta-1236835704/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T19:50:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674685",
+      "title": "Paul Mescal, Joseph Quinn, Barry Keoghan and Harris Dickinson Seen Recreating \u2018Abbey Road\u2019 Album Cover",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sam-mendes-beatles-biopic-recreates-abbey-road-album-cover-1236674685/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T19:48:45+00:00"
     }
   ]
 }
