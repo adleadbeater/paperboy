@@ -1080,36 +1080,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237042210",
-      "title": "Sam Mendes\u2019 Beatles Biopic Recreates \u2018Abbey Road\u2019 Album Cover In Behind-The-Scenes Video \u2014\u00a0Watch",
-      "url": "https://deadline.com/2026/08/sam-mendes-beatles-biopic-recreates-abbey-road-1237042210/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T18:40:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237041772",
-      "title": "\u2018Widow\u2019s Bay Creator Katie Dippold Says Season 2 Is \u201cFeeling Great\u201d; Why Matthew Rhys\u2019 Welsh Hometown Is Exactly Like The Island \u2013 Contenders TV Nominees Studio",
-      "url": "https://deadline.com/2026/08/widows-bay-season-2-katie-dippold-matthew-rhys-interview-1237041772/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T18:40:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236835668",
       "title": "Mariska Hargitay Says Jalen Brunson Is \u2018Definitely\u2019 Getting a Role in \u2018Law & Order: Special Victims Unit\u2019: \u2018It\u2019s Happening\u2019",
       "url": "https://variety.com/2026/tv/news/mariska-hargitay-confirms-jalen-brunson-law-order-svu-role-1236835668/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-16T18:51:12+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236670578",
-      "title": "\u2018The Pitt\u2019 Showrunner Admits Season One\u2019s Notoriety Amped Up Pressure For Season Two: \u201cWe Had to Prove That It Wasn\u2019t Just a Fluke\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-pitt-showrunner-pressure-season-two-1236670578/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T18:30:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236834279",
@@ -1310,6 +1286,30 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-16T21:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042115",
+      "title": "Myki Meeks On Life-Changing Experience Winning \u2018RuPaul\u2019s Drag Race\u2019 & How The Team Raises The Bar Every Year \u2013 Contenders TV Nominees Studio",
+      "url": "https://deadline.com/2026/08/myki-meeks-rupauls-drag-race-winner-video-interview-1237042115/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T22:40:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1068371",
+      "title": "This Week\u2019s Japanese Game Releases: Starsand Island, STEINS;GATE RE:BOOT, more",
+      "url": "https://www.gematsu.com/2026/08/this-weeks-japanese-game-releases-starsand-island-steinsgate-reboot-more",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-16T22:33:00+00:00"
+    },
+    {
+      "guid": "t3_1vqag4j",
+      "title": "Need4Games: Seems like Grace Ashcroft's VA is replacing Jennifer English in Tides of Annihilation",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vqag4j/need4games_seems_like_grace_ashcrofts_va_is/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-16T22:21:13+00:00"
     }
   ]
 }
