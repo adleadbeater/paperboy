@@ -1080,46 +1080,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
-      "title": "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI",
-      "url": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T15:04:33+00:00"
-    },
-    {
-      "guid": "ravxGYuqMB3nWprjQreVeH",
-      "title": "Marvel T\u014dkon's simple but effective combo trials are an elegant tutorial solution that I wish more fighting games had",
-      "url": "https://www.pcgamer.com/games/fighting/marvel-tokons-simple-but-effective-combo-trials-are-an-elegant-tutorial-solution-that-i-wish-more-fighting-games-had/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T15:00:00+00:00"
-    },
-    {
-      "guid": "UJUsX8dxpaPutf3pRGczo4",
-      "title": "I played the economic simulator that could 'make a convert out of Karl Marx himself' to see if it could convert me",
-      "url": "https://www.pcgamer.com/games/sim/i-played-the-economic-simulator-that-could-make-a-convert-out-of-karl-marx-himself-to-see-if-it-could-convert-me/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-204991",
-      "title": "Talking Point: 'Pokopia 2' Feels Inevitable, But Do We Really Need A Sequel?",
-      "url": "https://www.nintendolife.com/features/talking-point-pokopia-2-feels-inevitable-but-do-we-really-need-a-sequel",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T15:00:00+00:00"
-    },
-    {
-      "guid": "t3_1vpzgyz",
-      "title": "PlayAsia states Phantom Blade 0 will have a physical release, despite digital only pre-orders so far",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vpzgyz/playasia_states_phantom_blade_0_will_have_a/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T15:08:17+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/halloween-the-game-new-zealand-digital-release-update",
       "title": "Halloween: The Game will get a digital release in New Zealand after all",
       "url": "https://www.eurogamer.net/halloween-the-game-new-zealand-digital-release-update",
@@ -1374,6 +1334,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-16T18:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834279",
+      "title": "\u2018The Challenge\u2019 Contestants Pay Tribute to Tyler Duckworth: \u2018You Were the Brother I Never Had\u2019",
+      "url": "https://variety.com/2026/tv/news/the-challenge-tribute-tyler-duckworth-johnny-bananas-1236834279/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T19:08:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835634",
+      "title": "\u2018I Don\u2019t Know\u2019: Kenneth Branagh on Directing,\u00a0 \u2018Harry Potter\u2019 and How Christopher Nolan Had Him Speaking Russian Backwards",
+      "url": "https://variety.com/2026/film/global/kenneth-branagh-harry-potter-christopher-nolan-1236835634/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:54:32+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672644",
+      "title": "\u2018DTF St. Louis\u2019 Creator Steven Conrad Has No Plans to Make More Movies",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/dtf-st-louis-creator-plans-movies-1236672644/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236673553",
+      "title": "In \u2018A Vineyard for A Lobster,\u2019 Snowfall in a Ugandan Village Becomes a Political and Colonial Allegory",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/a-vineyard-for-a-lobster-uganda-film-locarno-open-doors-1236673553/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T18:45:00+00:00"
     }
   ]
 }
