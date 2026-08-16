@@ -1080,30 +1080,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237042032",
-      "title": "\u2018Borges And Me\u2019 Review: Marc Turtletaub\u2019s Hallucinatory \u201970s Road Trip Is Smart, Literary And Playful \u2013 Edinburgh Film Festival",
-      "url": "https://deadline.com/2026/08/borges-and-me-review-marc-turtletaub-fionn-whitehead-alan-cumming-1237042032/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T13:00:00+00:00"
-    },
-    {
-      "guid": "su8Hi7ALm2u44koLj5Xh8h",
-      "title": "From Team X to unleashing Rage, here's the 8 Wolverine features we love after 2 hours playing",
-      "url": "https://www.gamesradar.com/games/action/best_marvels_wolverine_features_hands-on/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121143",
-      "title": "Review: Volcano Princess Gives Another Switch Child-Raising Option",
-      "url": "https://www.siliconera.com/review-volcano-princess-gives-another-switch-child-raising-option/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-16T13:00:00+00:00"
-    },
-    {
       "guid": "t3_1vpxb9n",
       "title": "Cancelled Avalanche game Contraband files found in theHunter: Call of the Wild",
       "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vpxb9n/cancelled_avalanche_game_contraband_files_found/",
@@ -1310,6 +1286,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-16T16:31:53+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/matthew-mcconaughey-last-of-us-joel-turned-down",
+      "title": "Matthew McConaughey explains why he turned down the role of Joel in The Last of Us",
+      "url": "https://www.eurogamer.net/matthew-mcconaughey-last-of-us-joel-turned-down",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T16:52:07+00:00"
+    },
+    {
+      "guid": "5VLRSQUXrtDXGc4RvF5aVL",
+      "title": "David Brevik, creator of Diablo, reveals the 'worst ending' to any game he's played:  'But I really love the game. It's amazing'",
+      "url": "https://www.pcgamer.com/gaming-industry/david-brevik-creator-of-diablo-reveals-the-worst-ending-to-any-game-hes-played-but-i-really-love-the-game-its-amazing/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T17:00:00+00:00"
+    },
+    {
+      "guid": "GoG9o87CE7YfP7sDE9H79M",
+      "title": "Where's the weirdest place you've heard videogame music?",
+      "url": "https://www.pcgamer.com/games/wheres-the-weirdest-place-youve-heard-videogame-music/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/",
+      "title": "Podcast #410 Livestream: Dragonlance, Paizo, unions, and 600% markups",
+      "url": "https://www.enworld.org/threads/podcast-410-livestream-dragonlance-paizo-unions-and-600-markups.720329/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-16T16:46:00+00:00"
     }
   ]
 }
