@@ -1,41 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Final Fantasy 7 Revelation Gets a New Look at Gamescom Opening Night Live",
-      "tag": "final fantasy 7 revelation",
-      "posted_at": "2026-08-08T16:16:49.939022+00:00",
-      "urls": [
-        "https://www.eurogamer.net/final-fantasy-y-revelation-gamescom-new-look"
-      ],
-      "article_titles": [
-        "Get a \"new look\" at Final Fantasy 7 Revelation at Gamescom's Opening Night Live"
-      ]
-    },
-    {
-      "headline": "THQ Nordic Has 12 Unannounced Games in Development",
-      "tag": "thq nordic",
-      "posted_at": "2026-08-08T22:14:44.494516+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/thq-nordic-says-it-has-12-unannounced-games-in-development/",
-        "https://www.videogameschronicle.com/news/thq-nordic-says-it-has-12-unannounced-games-in-development/"
-      ],
-      "article_titles": [
-        "THQ Nordic says it has 12 unannounced games in development",
-        "THQ Nordic says it has 12 unannounced games in development"
-      ]
-    },
-    {
-      "headline": "A Cancelled Quake 4 Expansion Just Surfaced on GitHub After Being Found on an Old Hard Drive",
-      "tag": "quake 4",
-      "posted_at": "2026-08-09T12:20:57.542993+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/fps/cancelled-quake-4-expansion-gets-surprise-github-release-after-former-xcom-2-developer-discovers-it-on-an-old-hard-drive-this-essentially-saved-my-life/"
-      ],
-      "article_titles": [
-        "Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive: 'This essentially saved my life'"
-      ]
-    },
-    {
       "headline": "The Witcher's Final Season Reportedly Pushed Back to 2027 on Netflix",
       "tag": "the witcher",
       "posted_at": "2026-08-09T15:23:38.964486+00:00",
@@ -1098,6 +1063,17 @@
       "article_titles": [
         "Simpsons Creator Says GTA-Like Hit & Run Game Is Coming Back, Maybe"
       ]
+    },
+    {
+      "headline": "Saber Interactive CEO apologizes after threatening to replace writer with AI",
+      "tag": "saber interactive",
+      "posted_at": "2026-08-16T15:09:02.085308+00:00",
+      "urls": [
+        "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco"
+      ],
+      "article_titles": [
+        "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1198,6 +1174,46 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-16T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
+      "title": "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI",
+      "url": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T15:04:33+00:00"
+    },
+    {
+      "guid": "ravxGYuqMB3nWprjQreVeH",
+      "title": "Marvel T\u014dkon's simple but effective combo trials are an elegant tutorial solution that I wish more fighting games had",
+      "url": "https://www.pcgamer.com/games/fighting/marvel-tokons-simple-but-effective-combo-trials-are-an-elegant-tutorial-solution-that-i-wish-more-fighting-games-had/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T15:00:00+00:00"
+    },
+    {
+      "guid": "UJUsX8dxpaPutf3pRGczo4",
+      "title": "I played the economic simulator that could 'make a convert out of Karl Marx himself' to see if it could convert me",
+      "url": "https://www.pcgamer.com/games/sim/i-played-the-economic-simulator-that-could-make-a-convert-out-of-karl-marx-himself-to-see-if-it-could-convert-me/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-16T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204991",
+      "title": "Talking Point: 'Pokopia 2' Feels Inevitable, But Do We Really Need A Sequel?",
+      "url": "https://www.nintendolife.com/features/talking-point-pokopia-2-feels-inevitable-but-do-we-really-need-a-sequel",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-16T15:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vpzgyz",
+      "title": "PlayAsia states Phantom Blade 0 will have a physical release, despite digital only pre-orders so far",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vpzgyz/playasia_states_phantom_blade_0_will_have_a/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-16T15:08:17+00:00"
     }
   ]
 }
