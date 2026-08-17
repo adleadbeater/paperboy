@@ -1,52 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Witcher's Final Season Reportedly Pushed Back to 2027 on Netflix",
-      "tag": "the witcher",
-      "posted_at": "2026-08-09T15:23:38.964486+00:00",
-      "urls": [
-        "https://kotaku.com/netflixs-final-season-of-the-witcher-reportedly-pushed-back-to-2027-2000722796",
-        "https://otakukart.com/the-witcher-season-5-reportedly-delayed-to-2027-after-netflix-previously-planned-a-2026-release/"
-      ],
-      "article_titles": [
-        "Netflix\u2019s Final Season Of The Witcher Reportedly Pushed Back To 2027",
-        "The Witcher Season 5 Reportedly Delayed to 2027 After Netflix Previously Planned a 2026 Release"
-      ]
-    },
-    {
-      "headline": "EA Quietly Killed Battlefield 6's Rush Mode From Quickplay \u2014 Then Steam Refunded a Player With 470 Hours",
-      "tag": "battlefield 6",
-      "posted_at": "2026-08-09T15:54:00.413804+00:00",
-      "urls": [
-        "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode"
-      ],
-      "article_titles": [
-        "Steam reportedly refunds Battlefield 6 player with 470 hours logged after EA quietly pulled Rush mode from Quickplay"
-      ]
-    },
-    {
-      "headline": "PS Plus Games Now Stream to Steam Deck \u2014 No PS5 or PS Portal Required",
-      "tag": "playstation",
-      "posted_at": "2026-08-09T16:18:42.292781+00:00",
-      "urls": [
-        "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi"
-      ],
-      "article_titles": [
-        "You can now stream PS Plus games to Steam Deck without owning a PS5 - and without buying a PS Portal"
-      ]
-    },
-    {
-      "headline": "Lies of P Developer Rebrands and Teases Sequel With Grand Ambitions",
-      "tag": "lies of p",
-      "posted_at": "2026-08-09T19:53:23.063281+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/action/lies-of-p-studio-reveals-name-change-and-hypes-up-sequel-my-goal-has-been-to-create-the-worlds-greatest-action-game/"
-      ],
-      "article_titles": [
-        "Lies of P studio reveals name change and hypes up sequel: 'My goal has been to create the world's greatest action game.'"
-      ]
-    },
-    {
       "headline": "Valve warns Steam Machine and Steam Controller owners after European hardware partner suffers cyberattack and data leak",
       "tag": "valve",
       "posted_at": "2026-08-10T12:37:34.720424+00:00",
@@ -1074,19 +1028,26 @@
       "article_titles": [
         "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI"
       ]
+    },
+    {
+      "headline": "Lanterns Showrunners Break Down That Wild Episode 1 Cliffhanger",
+      "tag": "lanterns",
+      "posted_at": "2026-08-17T02:12:00.878045+00:00",
+      "urls": [
+        "https://www.ign.com/articles/lanterns-showrunner-hbo-surprise-ending-kyle-chandler-hal-jordan-big-and-scary-to-commit-to",
+        "https://deadline.com/2026/08/lanterns-first-episode-hal-jordan-podcast-damon-lindelof-1237042209/",
+        "https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/"
+      ],
+      "article_titles": [
+        "Lanterns Showrunner Says That Episode 1 Surprise Ending Was \u2018Big and Scary\u2019 to Commit To",
+        "\u2018Lanterns\u2019 Creators On That OMG First Episode Ending \u2013 Crew Call Podcast",
+        "\u2018Lanterns\u2019 Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "5ddb9f82-8f69-4427-bada-23341c0539f1",
-      "title": "Avengers: Doomsday Trailer Sparks Theories About 2 Doctor Dooms as Fans Hope for a Surprise Cameo from Cillian Murphy",
-      "url": "https://www.ign.com/articles/avengers-doomsday-trailer-sparks-theories-about-2-doctor-dooms-as-fans-hope-for-a-surprise-cameo-from-cillian-murphy",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-16T21:51:24+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237042115",
       "title": "Myki Meeks On Life-Changing Experience Winning \u2018RuPaul\u2019s Drag Race\u2019 & How The Team Raises The Bar Every Year \u2013 Contenders TV Nominees Studio",
@@ -1158,6 +1119,38 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-17T01:41:58+00:00"
+    },
+    {
+      "guid": "888d1d8e-af8f-4abe-9695-7885cbf236a3",
+      "title": "Lanterns Showrunner Says That Episode 1 Surprise Ending Was \u2018Big and Scary\u2019 to Commit To",
+      "url": "https://www.ign.com/articles/lanterns-showrunner-hbo-surprise-ending-kyle-chandler-hal-jordan-big-and-scary-to-commit-to",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T02:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042209",
+      "title": "\u2018Lanterns\u2019 Creators On That OMG First Episode Ending \u2013 Crew Call Podcast",
+      "url": "https://deadline.com/2026/08/lanterns-first-episode-hal-jordan-podcast-damon-lindelof-1237042209/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T02:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835653",
+      "title": "\u2018Lanterns\u2019 Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger",
+      "url": "https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T02:00:00+00:00"
+    },
+    {
+      "guid": "4uf9chuvXA9igLTASWbUMe",
+      "title": "Lanterns' huge twist puts a daring new spin on a notoriously tricky franchise",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-hal-jordan-death-twist/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T02:00:00+00:00"
     }
   ]
 }
