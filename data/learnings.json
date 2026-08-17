@@ -1153,14 +1153,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-anti-cheat-tpm-2-0-secure-boot",
-      "title": "Call of Duty now has a guide on how to enable its convoluted security features so you can play the Modern Warfare 4 beta on PC",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-anti-cheat-tpm-2-0-secure-boot",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T12:12:23+00:00"
-    },
-    {
       "guid": "76c774a3-5f70-4b88-b15e-482a1824bfe1",
       "title": "Metroid Prime 4 and Pok\u00e9mon Legends: Z-A Drop to Just $32 for Switch 2",
       "url": "https://www.ign.com/articles/metroid-prime-4-pokemon-legends-za-switch-2-deals-woot",
@@ -2143,6 +2135,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-17T16:04:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000725022",
+      "title": "Body Horror Bon Vivant And Game Designer Screaming Mad George Dies At 69",
+      "url": "https://kotaku.com/body-horror-bon-vivant-and-game-designer-screaming-mad-george-dies-at-69-2000725022",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:21:18+00:00"
+    },
+    {
+      "guid": "KGvUbjSRsMYYBUQppJ3FNd",
+      "title": "Intel is keeping Raptor Lake CPUs around for 'years to come' as a cheaper alternative to DDR5-compatible chips",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-is-keeping-raptor-lake-cpus-around-for-years-to-come-as-a-cheaper-alternative-to-ddr5-compatible-chips/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:15:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042990",
+      "title": "\u2018Private Eyes West Coast\u2019 & \u2018Law & Order Toronto: Criminal Intent\u2019 Premiere Dates Set At The CW",
+      "url": "https://deadline.com/2026/08/private-eyes-west-coast-law-order-toronto-premiere-dates-1237042990/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:14:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675040",
+      "title": "\u2018Heated Rivalry\u2019 Producers Drop Hints on Season 2: \u201cThis Show Is Not Built on Secrets\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-producers-season-2-1236675040/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:29:57+00:00"
+    },
+    {
+      "guid": "gHLUJZAEYpjJss8R8f3tm9",
+      "title": "\"This win was purely out of spite\" \u2013 Fighting game icon SonicFox says winning Marvel Tokon's first major tournament was fuelled by catching flak for criticizing it",
+      "url": "https://www.gamesradar.com/games/fighting/this-win-was-purely-out-of-spite-fighting-game-icon-sonicfox-says-winning-marvel-tokons-first-major-tournament-was-fuelled-by-catching-flak-for-criticizing-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:23:25+00:00"
+    },
+    {
+      "guid": "s3BrzC94Jk9mRydwptwrdM",
+      "title": "Anime Origins codes (August 2026) for Rerolls, Gems, Prisms, and more",
+      "url": "https://www.gamesradar.com/games/strategy/anime-origins-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:22:23+00:00"
+    },
+    {
+      "guid": "ACEUPCo3nkfqQZRr4HUDCC",
+      "title": "The new Avengers: Doomsday trailer has fans convinced there's a huge Doctor Doom twist hiding in plain sight, and Cillian Murphy is a key part of the theory",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/the-new-avengers-doomsday-trailer-has-fans-convinced-theres-a-huge-doctor-doom-twist-hiding-in-plain-sight-and-cillian-murphy-is-a-key-part-of-the-theory/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:21:59+00:00"
+    },
+    {
+      "guid": "vjmR4HpFVA6UXAtcfqH5nE",
+      "title": "If you need a break from Pokopia, Woot's Summer of Gaming Switch game deals could hold your next big obsession",
+      "url": "https://www.gamesradar.com/games/if-you-need-a-break-from-pokopia-woots-summer-of-gaming-switch-game-deals-could-hold-your-next-big-obsession/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:21:03+00:00"
+    },
+    {
+      "guid": "J3hg72bQA5GcbtCfPP545W",
+      "title": "Ex PlayStation boss told Clair Obscur Expedition 33 devs not to call it a turn-based RPG: \"That alone might cause players to overlook it\"",
+      "url": "https://www.gamesradar.com/games/rpg/ex-playstation-boss-told-clair-obscur-expedition-33-devs-not-to-call-it-a-turn-based-rpg-that-alone-might-cause-players-to-overlook-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:19:47+00:00"
+    },
+    {
+      "guid": "TnG6jeyyhwYEvoUgSr7Ehd",
+      "title": "The PS6 doesn't have a release date yet, Sony CEO says, largely because getting parts is still a nightmare thanks to AI",
+      "url": "https://www.gamesradar.com/games/the-ps6-doesnt-have-a-release-date-yet-sony-ceo-says-largely-because-getting-parts-is-still-a-nightmare-thanks-to-ai/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:19:16+00:00"
     }
   ]
 }
