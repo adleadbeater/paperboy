@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Marvel T\u014dkon Is Launching on PC With Dire Performance Problems \u2014 and Players Are Getting Creative",
-      "tag": "marvel t\u014dkon",
-      "posted_at": "2026-08-10T14:09:55.562718+00:00",
-      "urls": [
-        "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes"
-      ],
-      "article_titles": [
-        "As developer Arc System Works promises a fix, Marvel T\u014dkon's suffering PC players are creating some bizarre home remedies for its dire performance woes"
-      ]
-    },
-    {
       "headline": "1666: Amsterdam, the Assassin's Creed Creator's Witchy Roguelike, Launches Early Access August 25",
       "tag": "1666: amsterdam",
       "posted_at": "2026-08-10T16:14:45.728113+00:00",
@@ -1071,6 +1060,30 @@
         "PlayStation 6 release date still hasn\u2019t been decided, Sony CEO Hiroki Totoki says",
         "Sony Still Hasn't Decided When to Launch PS6, Says CEO"
       ]
+    },
+    {
+      "headline": "Canceled Star Wars Action RPG Surfaces Online, Showing Jedi and Mandalorian Combat We'll Never Play",
+      "tag": "star wars",
+      "posted_at": "2026-08-17T14:20:21.349669+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/08/youll-never-play-this-cancelled-star-wars-action-rpg-appearing-online-following-studio-closure",
+        "https://www.gamesradar.com/games/action-rpg/canceled-star-wars-rpg-surfaces-1-year-after-it-was-officially-scrapped-revealing-jedi-and-mandalorian-combat-looter-shooter-gameplay-and-more-well-never-get-to-experience-ourselves/"
+      ],
+      "article_titles": [
+        "You'll Never Play This Cancelled Star Wars Action RPG, Appearing Online Following Studio Closure",
+        "Canceled Star Wars RPG surfaces 1 year after it was officially scrapped, revealing Jedi and Mandalorian combat, looter shooter gameplay, and more we'll never get to experience ourselves"
+      ]
+    },
+    {
+      "headline": "Marvel Confirms the 15 Movies and TV Shows You Need to Watch Before Avengers: Doomsday",
+      "tag": "avengers: doomsday",
+      "posted_at": "2026-08-17T14:20:21.546125+00:00",
+      "urls": [
+        "https://www.ign.com/articles/marvel-confirms-your-list-of-avengers-doomsday-homework-featuring-15-movies-and-tv-series-and-a-couple-of-deep-cuts"
+      ],
+      "article_titles": [
+        "Marvel Confirms Your List of Avengers: Doomsday Homework, Featuring 15 Movies and TV Series, And a Couple of Deep Cuts"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1507,6 +1520,70 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-17T14:00:00+00:00"
+    },
+    {
+      "guid": "d5c155ba-a476-4b18-9447-d57c06178327",
+      "title": "Marvel Confirms Your List of Avengers: Doomsday Homework, Featuring 15 Movies and TV Series, And a Couple of Deep Cuts",
+      "url": "https://www.ign.com/articles/marvel-confirms-your-list-of-avengers-doomsday-homework-featuring-15-movies-and-tv-series-and-a-couple-of-deep-cuts",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T13:58:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236835778",
+      "title": "Rosie O\u2019Donnell Was \u2018Surprised\u2019 by Jimmy Kimmel\u2019s Guest-Hosting Offer and Believes a David Ellison-Run CNN Would Be \u2018Tragic\u2019",
+      "url": "https://variety.com/2026/tv/news/rosie-o-donnell-jimmy-kimmel-host-surprise-david-ellison-bari-weiss-cbs-news-cnn-1236835778/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T14:00:00+00:00"
+    },
+    {
+      "guid": "yW6RdExpK5cSWD4fPgK74n",
+      "title": "New Disney Lorcana digital game sounds like a cross between MTG Arena and Pokemon TCG Pocket",
+      "url": "https://www.gamesradar.com/tabletop-gaming/new-disney-lorcana-digital-game-sounds-like-a-cross-between-mtg-arena-and-pokemon-tcg-pocket/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T14:10:08+00:00"
+    },
+    {
+      "guid": "6DMXMjPbYf2aEyXEAee87U",
+      "title": "Konami\u2019s Castlevania relaunch will be delisted and removed before the popular side-scroller gets the chance to escape Apple Arcade jail",
+      "url": "https://www.gamesradar.com/games/action-rpg/konamis-castlevania-relaunch-will-be-delisted-and-removed-before-the-popular-side-scroller-gets-the-chance-to-escape-apple-arcade-jail/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T14:08:20+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205050",
+      "title": "You'll Never Play This Cancelled Star Wars Action RPG, Appearing Online Following Studio Closure",
+      "url": "https://www.pushsquare.com/news/2026/08/youll-never-play-this-cancelled-star-wars-action-rpg-appearing-online-following-studio-closure",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121200",
+      "title": "Kingdom Hearts Kairi Voice Actress Hayden Panettiere Died",
+      "url": "https://www.siliconera.com/kingdom-hearts-kairi-voice-actress-hayden-panettiere-died/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751128",
+      "title": "Chainsaw Man\u2019s Denji Voice Actor Praises Manga\u2019s Controversial Ending, Calls It an \u201cAppropriate Finishing Point to the Story\u201d",
+      "url": "https://otakukart.com/chainsaw-mans-denji-voice-actor-praises-mangas-controversial-ending-calls-it-an-appropriate-finishing-point-to-the-story/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T14:12:49+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/",
+      "title": "Tome for dwarves, runes, mines, and monsters",
+      "url": "https://www.enworld.org/threads/tome-for-dwarves-runes-mines-and-monsters.720340/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T14:15:00+00:00"
     }
   ]
 }
