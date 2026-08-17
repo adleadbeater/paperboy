@@ -1,27 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "1666: Amsterdam, the Assassin's Creed Creator's Witchy Roguelike, Launches Early Access August 25",
-      "tag": "1666: amsterdam",
-      "posted_at": "2026-08-10T16:14:45.728113+00:00",
-      "urls": [
-        "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
-        "https://www.pcgamer.com/games/action/1666-amsterdam-has-the-makings-of-something-brilliant-but-i-came-away-from-its-preview-with-a-bad-feeling-as-its-early-access-release-creeps-too-close-for-comfort/",
-        "https://www.gamesradar.com/games/action/former-assassins-creed-leads-new-game-has-a-roguelike-twist-with-randomized-abilities-that-reset-on-death-and-your-witchy-protagonist-will-look-great-using-them/",
-        "https://www.gamesradar.com/games/action/with-gen-ai-assets-cut-from-assassins-creed-creators-new-game-demo-lead-admits-we-didnt-even-realize-it-was-ai-anymore-because-we-were-used-to-seeing-it/",
-        "https://www.gamesradar.com/games/action/1666-amsterdam-feels-like-the-assassins-creed-game-that-never-was-and-fighting-witch-hunters-with-my-time-traveling-familiar-left-me-hungry-for-more/",
-        "https://www.gematsu.com/2026/08/1666-amsterdam-launches-in-early-access-on-august-25"
-      ],
-      "article_titles": [
-        "Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected",
-        "1666: Amsterdam has the makings of something brilliant but I came away from its preview with a bad feeling as it's early access release creeps too close for comfort",
-        "Former Assassin's Creed lead's new game has a roguelike twist with randomized abilities that reset on death, and your witchy protagonist will look great using them",
-        "With gen AI assets cut from Assassin's Creed creator's new game demo, lead admits \"we didn't even realize it was AI anymore because we were used to seeing it\"",
-        "1666 Amsterdam feels like the Assassin's Creed game that never was, and fighting witch hunters with my time-traveling familiar left me hungry for more",
-        "1666: Amsterdam launches in Early Access on August 25"
-      ]
-    },
-    {
       "headline": "Persona 1 and 2 Remakes Sound More Likely Than Ever, Says Series Boss",
       "tag": "persona",
       "posted_at": "2026-08-10T17:15:25.969219+00:00",
@@ -1147,6 +1126,19 @@
         "There's Now a Fortnite Star Wars Skin You Need to Visit Disneyland to Unlock",
         "Disney Is Bringing Fortnite Into Its Real-World Star Wars Rides"
       ]
+    },
+    {
+      "headline": "Screaming Mad George, Body Horror Artist and Game Designer, Dies at 69",
+      "tag": "screaming mad george",
+      "posted_at": "2026-08-17T16:51:30.556607+00:00",
+      "urls": [
+        "https://kotaku.com/body-horror-bon-vivant-and-game-designer-screaming-mad-george-dies-at-69-2000725022",
+        "https://kotaku.com/body-horror-bon-vivant-and-game-designer-screaming-mad-george-dies-at-69-2000725022"
+      ],
+      "article_titles": [
+        "Body Horror Bon Vivant And Game Designer Screaming Mad George Dies At 69",
+        "Body Horror Bon Vivant And Game Designer Screaming Mad George Dies At 69"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1169,14 +1161,6 @@
       "published_dt": "2026-08-17T13:00:00+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000724948",
-      "title": "Dragon Ball Super Vol. 19 Alternate Cover Gives Us Our Sorta First Canon Glimpse Of Vegeta\u2019s Mother",
-      "url": "https://kotaku.com/dragon-ball-super-vol-19-alternate-cover-gives-us-our-sorta-first-canon-glimpse-of-vegetas-mother-2000724948",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T12:45:50+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237042586",
       "title": "\u2018The Terminal List\u2019 Reveals Season 2 Premiere Date & First-Look Photos",
       "url": "https://deadline.com/2026/08/the-terminal-list-season-2-premiere-date-photos-1237042586/",
@@ -1185,36 +1169,12 @@
       "published_dt": "2026-08-17T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237042575",
-      "title": "Hayden Panettiere Dies: \u201cHeroes,\u2019 \u2018Nashville\u2019 & \u2018Scream\u2019 Star Was 36; Update With Police Statement",
-      "url": "https://deadline.com/2026/08/hayden-panettiere-dead-1237042575/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T12:46:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237040433",
-      "title": "DramaBox Sets Brazilian Vertical Series From Cimarron & Trio Of Colombian Originals In Latin American Push",
-      "url": "https://deadline.com/2026/08/dramabox-cimarron-brazil-series-colombia-rollout-1237040433/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T12:45:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236836089",
       "title": "Johnnie To\u2019s English-Language Debut \u2018Two Gun Cohen\u2019 Launches Former XYZ Films Exec Todd Brown\u2019s Rawk Moving Pictures Corp (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/news/johnnie-to-english-debut-two-gun-cohen-todd-brown-rawk-1236836089/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-17T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236836204",
-      "title": "Hayden Panettiere\u2019s Death: No Signs of \u2018Foul Play or Suspicious Circumstances,\u2019 Police Say",
-      "url": "https://variety.com/2026/film/news/hayden-panettiere-death-no-foul-play-police-investigation-1236836204/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T12:45:05+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236674102",
@@ -1231,14 +1191,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-17T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236674794",
-      "title": "Hayden Panettiere, Actress on \u2018Heroes\u2019 and \u2018Nashville,\u2019 Dies at 36",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-dead-actress-heroes-nashville-scream-1236674794/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T12:38:10+00:00"
     },
     {
       "guid": "SDRA9wMyUhsvD5mvjS22vQ",
@@ -1289,14 +1241,6 @@
       "published_dt": "2026-08-17T13:00:00+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-205054",
-      "title": "Sony Still Hasn't Decided When to Launch PS6, Says CEO",
-      "url": "https://www.pushsquare.com/news/2026/08/sony-still-hasnt-decided-when-to-launch-ps6-says-ceo",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-17T12:45:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1121161",
       "title": "Review: Exstetra Embraces Its Kissing JRPG Concept",
       "url": "https://www.siliconera.com/review-exstetra-embraces-its-kissing-jrpg-concept/",
@@ -1311,14 +1255,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-17T13:08:46+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751107",
-      "title": "Matthew McConaughey Says He Turned Down The Last of Us\u2019 Joel Role Because the Timing Wasn\u2019t Right",
-      "url": "https://otakukart.com/matthew-mcconaughey-says-he-turned-down-the-last-of-us-joel-role-because-the-timing-wasnt-right/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-17T12:49:31+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000724967",
@@ -2215,6 +2151,94 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-17T16:19:16+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000725003",
+      "title": "Avengers: Doomsday Moviegoers Are Being Told To Watch Over 41 Hours Of MCU Movies And TV Shows",
+      "url": "https://kotaku.com/avengers-doomsday-disney-plus-marvel-what-to-watch-homework-2000725003",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:40:10+00:00"
+    },
+    {
+      "guid": "xNRwu3VVxuHtpDDW2D4EKA",
+      "title": "Beastfolk Barber is an adorable hairdressing sim that offers up more than just shop talk",
+      "url": "https://www.pcgamer.com/games/sim/beastfolk-barber-is-an-adorable-hairdressing-sim-that-offers-up-more-than-just-shop-talk/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:37:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237042930",
+      "title": "Creator Management Firm CMG Talent Unveils Raft Of Hires",
+      "url": "https://deadline.com/2026/08/cmg-talent-hires-1237042930/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:47:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237043010",
+      "title": "\u2018The Drop: A Snowfall Saga\u2019 Trailer Reveals Wanda & Leon Taking On The Music Industry",
+      "url": "https://deadline.com/2026/08/fx-the-drop-a-snowfall-saga-trailer-1237043010/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:36:29+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675057",
+      "title": "Workplace Comedies Are Having a Major Emmy Moment",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/emmys-2026-workplace-comedies-1236675057/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T16:50:00+00:00"
+    },
+    {
+      "guid": "FCeKChdV9ghU3zt792XEjD",
+      "title": "The Philips Evnia 32M2N8900 is a testament to 4K QD-OLED monitor tech, but I can see room for improvement",
+      "url": "https://www.gamesradar.com/hardware/tvs-monitors/philips-evnia-32m2n8900-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:46:47+00:00"
+    },
+    {
+      "guid": "bhfGFuncgGV4sCGdoWDLzi",
+      "title": "Kratos actor Christopher Judge clarifies he doesn't want to join the God of War TV show because he's \"old as balls,\" but wants game devs to \"get the love and respect they deserve\"",
+      "url": "https://www.gamesradar.com/games/action/kratos-actor-christopher-judge-clarifies-he-doesnt-want-to-join-the-god-of-war-tv-show-because-hes-old-as-balls-but-wants-game-devs-to-get-the-love-and-respect-they-deserve/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:46:33+00:00"
+    },
+    {
+      "guid": "RjXDocWCgFfzVu3se9CFrU",
+      "title": "Fable deserves a \"chance to shine\" \u2013 which is why Xbox should delay it one final time",
+      "url": "https://www.gamesradar.com/games/rpg/fable-deserves-a-chance-to-shine-which-is-why-xbox-should-delay-it-one-final-time/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:44:49+00:00"
+    },
+    {
+      "guid": "ay6uRYmdKGVHM6opvjKmbZ",
+      "title": "Two new Discworld board games are on the way, and one of them adapts fan-favorite Blue Moon City",
+      "url": "https://www.gamesradar.com/games/board-games/two-new-discworld-board-games-are-on-the-way-and-one-of-them-adapts-fan-favorite-blue-moon-city/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:35:59+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205070",
+      "title": "Marvel Cosmic Invasion Gets In On The Doomsday Hype With Its Upcoming DLC",
+      "url": "https://www.nintendolife.com/news/2026/08/marvel-cosmic-invasion-gets-in-on-the-doomsday-hype-with-its-upcoming-dlc",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205071",
+      "title": "This New Analogue Pocket Variant Is Designed To Give You Serious FOMO",
+      "url": "https://www.timeextension.com/news/2026/08/this-new-analogue-pocket-variant-is-designed-to-give-you-serious-fomo",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T16:30:00+00:00"
     }
   ]
 }
