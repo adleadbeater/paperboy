@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Valve warns Steam Machine and Steam Controller owners after European hardware partner suffers cyberattack and data leak",
-      "tag": "valve",
-      "posted_at": "2026-08-10T12:37:34.720424+00:00",
-      "urls": [
-        "https://www.eurogamer.net/valve-steam-machine-controller-europe-logistics-partner-hack",
-        "https://kotaku.com/steam-machine-and-controller-user-data-leaks-after-valves-european-supplier-gets-hit-with-cyber-attack-2000722955"
-      ],
-      "article_titles": [
-        "Valve issues warning to Steam Machine and Steam Controller customers to \"expect fake messages\" after its European hardware partner is hacked",
-        "Steam Machine And Controller User Data Leaks After Valve\u2019s European Supplier Gets Hit With Cyber Attack"
-      ]
-    },
-    {
       "headline": "Marvel T\u014dkon Is Launching on PC With Dire Performance Problems \u2014 and Players Are Getting Creative",
       "tag": "marvel t\u014dkon",
       "posted_at": "2026-08-10T14:09:55.562718+00:00",
@@ -1043,6 +1030,23 @@
         "\u2018Lanterns\u2019 Creators On That OMG First Episode Ending \u2013 Crew Call Podcast",
         "\u2018Lanterns\u2019 Premiere Shocker: Stars Kyle Chandler, Aaron Pierre and Show Creators Break Down That Time Jump and Cliffhanger"
       ]
+    },
+    {
+      "headline": "Mortal Shell 2 Reviews Are In \u2014 and Critics Are Calling It the Best Soulslike Since Elden Ring",
+      "tag": "mortal shell 2",
+      "posted_at": "2026-08-17T13:31:07.665088+00:00",
+      "urls": [
+        "https://www.ign.com/articles/mortal-shell-2-review",
+        "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/",
+        "https://www.ign.com/articles/mortal-shell-2-review",
+        "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/"
+      ],
+      "article_titles": [
+        "Mortal Shell 2 Review",
+        "Mortal Shell 2 review: \"The best Soulslike I've played since Elden Ring thanks to brilliant death-dealing toys and speedy combat\"",
+        "Mortal Shell 2 Review",
+        "Mortal Shell 2 review: \"The best Soulslike I've played since Elden Ring thanks to brilliant death-dealing toys and speedy combat\""
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1287,6 +1291,78 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-17T12:49:31+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000724967",
+      "title": "Kingdom Hearts Fans Watched History This Weekend, And Now It\u2019s Taken On A More Tragic Poignance",
+      "url": "https://kotaku.com/kingdom-hearts-d23-sora-riku-hayden-panettiere-kairi-death-2000724967",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T13:15:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836227",
+      "title": "Lena Dunham, Carly Rae Jepsen \u201910 Things I Hate About You\u2019 Musical Sets 2027 Broadway Debut",
+      "url": "https://variety.com/2026/legit/news/10-things-i-hate-about-you-musical-broadway-date-lena-dunham-1236836227/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T13:22:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236674848",
+      "title": "\u2018The Diplomat\u2019 Sets Season 4 Premiere Date as Keri Russell Tries to \u201cGet Back In\u201d to Marriage",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-season-4-premiere-date-teaser-trailer-1236674848/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-17T13:30:00+00:00"
+    },
+    {
+      "guid": "1851815",
+      "title": "Marvel\u2019s Wolverine Is Another Victim Of The Internet\u2019s Endless Gaming Negativity",
+      "url": "https://www.gamespot.com/articles/marvels-wolverine-is-another-victim-of-the-internets-endless-gaming-negativity/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T13:01:52+00:00"
+    },
+    {
+      "guid": "1851809",
+      "title": "The Simpsons: Hit & Run Revival? Series Creator Offers Biggest Hint Yet",
+      "url": "https://www.gamespot.com/articles/the-simpsons-hit-run-revival-series-creator-offers-biggest-hint-yet/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T12:58:21+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205045",
+      "title": "\"I Have To Admit That I'm A Little Bitter\" - Epic Mickey's Warren Spector Has A Bone To Pick With Oswald's New TV Show",
+      "url": "https://www.timeextension.com/news/2026/08/i-have-to-admit-that-im-a-little-bitter-epic-mickeys-warren-spector-has-a-bone-to-pick-with-oswalds-new-tv-show",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T13:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751126",
+      "title": "Injustice 2 Has Sold Over 9 Million Copies Worldwide, Ed Boon Confirms",
+      "url": "https://otakukart.com/injustice-2-has-sold-over-9-million-copies-worldwide-ed-boon-confirms/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T13:27:47+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751145",
+      "title": "Beast of Reincarnation Review: A Stylish Action RPG That Shows Game Freak\u2019s Ambitious New Direction",
+      "url": "https://otakukart.com/beast-of-reincarnation-review-a-stylish-action-rpg-that-shows-game-freaks-ambitious-new-direction/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T13:20:06+00:00"
+    },
+    {
+      "guid": "t3_1vqs21d",
+      "title": "The files of Marvel T\u014dkon indicate that Rocket Raccoon will be a DLC character at some point, Spider-Man/Green Goblin/Doctor Doom/Hulk will get Classic/Legacy costumes, & some details on the game's Battle Pass system",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vqs21d/the_files_of_marvel_t\u014dkon_indicate_that_rocket/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-17T13:15:28+00:00"
     }
   ]
 }
