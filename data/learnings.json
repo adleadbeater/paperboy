@@ -1216,44 +1216,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000725388",
-      "title": "12 Tips To Know Before You Start Playing Mortal Shell 2",
-      "url": "https://kotaku.com/12-tips-to-know-before-you-start-playing-mortal-shell-2-2000725388",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T17:10:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237044298",
-      "title": "ESPN Founder Bill Rasmussen Dies At 93",
-      "url": "https://deadline.com/2026/08/espn-founder-bill-rasmussen-dies-at-93-1237044298/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T17:01:22+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236837338",
       "title": "Phyllida Law, Scottish Actress and Mother of Emma and Sophie Thompson, Dies at 94",
       "url": "https://variety.com/2026/film/global/phyllida-law-dead-emma-thompson-1236837338/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-18T17:11:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236764955",
-      "title": "\u2018Heated Rivalry\u2019 Sets Collector\u2019s Edition Blu-ray Release With Steamy Posters, Collectible Art Cards and Special Features",
-      "url": "https://variety.com/2026/shopping/news/heated-rivalry-blu-ray-collectors-edition-buy-online-1236764955/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T17:07:49+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676141",
-      "title": "Laurie May Stepping Down From Elevation Pictures",
-      "url": "https://www.hollywoodreporter.com/business/business-news/laurie-may-elevation-pictures-1236676141/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T17:02:20+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237044367",
@@ -2182,6 +2150,54 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-18T21:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044576",
+      "title": "\u2018Remarkably Bright Creatures\u2019 Star Sally Field Has An Appreciation For Octopuses & Anger",
+      "url": "https://deadline.com/2026/08/sally-field-remarkably-bright-creatures-interview-1237044576/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T21:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044658",
+      "title": "Beth Behrs Joins ABC\u2019s \u2018Shifting Gears\u2019 For Season 3",
+      "url": "https://deadline.com/2026/08/beth-behrs-cast-abc-shifting-gears-season-3-1237044658/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T21:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837376",
+      "title": "Oscars Budget, \u2018Engaging\u2019 With AI and Hot Memorabilia: Inside the Academy\u2019s Annual All-Members Meeting (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/columns/oscars-youtube-ai-annual-budgets-member-meeting-1236837376/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T21:02:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837618",
+      "title": "Kat Dennings, Beth Behrs Set \u20182 Broke Girls\u2019 Reunion on \u2018Shifting Gears\u2019 Season 3",
+      "url": "https://variety.com/2026/tv/news/kat-dennings-beth-behrs-2-broke-girls-shifting-gears-1236837618/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T21:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676386",
+      "title": "Beth Behrs Joins ABC\u2019s \u2018Shifting Gears\u2019 for a \u20182 Broke Girls\u2019 Reunion",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/shifting-gears-beth-behrs-2-broke-girls-kat-dennings-1236676386/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T21:00:00+00:00"
+    },
+    {
+      "guid": "db9bCerK3FqahxHGAy8QMM",
+      "title": "Apparent GTA 6 leak smells of crypto scam, links to a manifesto demanding digital rights: \"This is not a cash grab\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/apparent-gta-6-leak-smells-of-crypto-scam-links-to-a-manifesto-demanding-digital-rights-this-is-not-a-cash-grab/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T20:59:16+00:00"
     }
   ]
 }
