@@ -1216,30 +1216,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "Ka4tpGbdn7j5XFx6RwAiT9",
-      "title": "The new Framework 12 laptop's secret weapon is its battery life courtesy of Intel's Wildcat Lake",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/the-new-framework-12-laptops-secret-weapon-is-its-battery-life-courtesy-of-intels-wildcat-lake/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T16:32:08+00:00"
-    },
-    {
-      "guid": "CQmHmn5EPcxNXK8nL2Ppj9",
-      "title": "The 3DMark Port Royal world record has been beaten, and all it took was a $5,000+ liquid nitrogen-cooled RTX 5090",
-      "url": "https://www.pcgamer.com/hardware/the-3dmark-port-royal-world-record-has-been-beaten-and-all-it-took-was-a-usd5-000-liquid-nitrogen-cooled-rtx-5090/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T16:31:29+00:00"
-    },
-    {
-      "guid": "HpHKAaY4UMW5jHDGkntAAX",
-      "title": "The memory crisis led me down a rabbit hole into nations forming rival factions to secure the flow of computer chips and AI, with names that wouldn't sound out of place in a Command & Conquer reboot",
-      "url": "https://www.pcgamer.com/hardware/the-memory-crisis-led-me-down-a-rabbit-hole-into-nations-forming-rival-factions-to-secure-the-flow-of-computer-chips-and-ai-with-names-that-wouldnt-sound-out-of-place-in-a-command-and-conquer-reboot/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T16:30:51+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237044260",
       "title": "Ken Kao\u2019s Waypoint Strikes First-Look With \u2018Splitsville\u2019 & \u201980 For Brady\u2019 Outfit Watch This Ready, First Project Revealed",
       "url": "https://deadline.com/2026/08/waypoint-first-look-splitsville-80-brady-watch-this-ready-1237044260/",
@@ -1256,76 +1232,12 @@
       "published_dt": "2026-08-18T16:45:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237044293",
-      "title": "Olivia Colman Joins \u2018Only Murders In The Building\u2019 Season 6",
-      "url": "https://deadline.com/2026/08/olivia-colman-murders-in-the-building-season-6-guest-star-1237044293/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T16:42:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676023",
-      "title": "Rosie O\u2019Donnell Crushed Her \u2018Kimmel\u2019 Monologue by Doing What Jimmy Kimmel Doesn\u2019t",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/rosie-odonnell-jimmy-kimmel-live-monologue-1236676023/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T16:38:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676119",
-      "title": "Phyllida Law, Actress and Mother of Sophie and Emma Thompson, Dies at 94",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/phyllida-law-dead-emma-thompson-sofie-1236676119/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T16:38:02+00:00"
-    },
-    {
-      "guid": "pUfDTbRLgJmEjRPTwaHxvc",
-      "title": "Pokemon Gamma Emerald solo dev spent 2 years working \"12 hours a day\" building their remake \"from scratch,\" including 384,000 frames of animation",
-      "url": "https://www.gamesradar.com/games/pokemon/pokemon-gamma-emerald-solo-dev-spent-2-years-working-12-hours-a-day-building-their-remake-from-scratch-including-384-000-frames-of-animation/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T16:35:13+00:00"
-    },
-    {
-      "guid": "REZdspC2QjhFEtbfMpDqYV",
-      "title": "Assassin's Creed 2 was supposed to cover Brotherhood's entire plot, but that was \"way too ambitious to deliver properly\" in just one game",
-      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-2-was-supposed-to-cover-brotherhoods-entire-plot-but-that-was-way-too-ambitious-to-deliver-properly-in-just-one-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T16:34:35+00:00"
-    },
-    {
-      "guid": "MxPD6C84GkRABYmgDecoUZ",
-      "title": "After Ubisoft canceled its remake, Prince of Persia: The Sands of Time gets an enhanced version from GOG",
-      "url": "https://www.gamesradar.com/games/platformer/after-ubisoft-canceled-its-remake-prince-of-persia-the-sands-of-time-gets-an-enhanced-version-from-gog/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T16:31:11+00:00"
-    },
-    {
-      "guid": "9SzwYhhYau8cUCRiPv3ZU8",
-      "title": "The Expanse RPG gets even more Mass Effect with choices that \u201cdefine the character you play,\u201d devs say, but you only have \u201cone chance to stay on everyone\u2019s good side\u201d",
-      "url": "https://www.gamesradar.com/games/action-rpg/the-expanse-rpg-gets-even-more-mass-effect-with-choices-that-define-the-character-you-play-devs-say-but-you-only-have-one-chance-to-stay-on-everyones-good-side/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T16:30:56+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1751448",
       "title": "ARC Raiders Update 1.42 Launches Phantom Targets Event With New Rewards",
       "url": "https://otakukart.com/arc-raiders-update-1-42-launches-phantom-targets-event-with-new-rewards/",
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-18T16:50:29+00:00"
-    },
-    {
-      "guid": "t3_1vrufg3",
-      "title": "Possible GTA VI gameplay clip leak",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vrufg3/possible_gta_vi_gameplay_clip_leak/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T16:37:05+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237044228",
@@ -2374,6 +2286,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-18T20:22:18+00:00"
+    },
+    {
+      "guid": "bsDMPLW3wYypbt3gs2Rh98",
+      "title": "Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-leaker-says-they-wont-stop-until-rockstar-and-take-two-apologize-for-anti-consumerism-and-make-a-concrete-commitment-to-do-better/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:39:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236829625",
+      "title": "Dale Dickey on Her First Emmy Nomination for \u2018Widow\u2019s Bay\u2019 and the Monologue That Made Her Say, \u2018What the F\u2014\u2018",
+      "url": "https://variety.com/2026/tv/awards/dale-dickey-widows-bay-first-emmy-nomination-1236829625/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676304",
+      "title": "Bill Rasmussen Founded ESPN and Left a Year Later. It Was Long Enough to Change TV Forever",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/how-espn-founder-bill-rasmussen-changed-tv-forever-1236676304/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:39:07+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676348",
+      "title": "Briarcliff Acquires North American Rights to \u2018Ash and Crayons,\u2019 Ukraine Doc From Oscar Nominee Evgeny Afineevsky (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/briarcliff-acquires-north-american-rights-ash-and-crayons-1236676348/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:37:25+00:00"
     }
   ]
 }
