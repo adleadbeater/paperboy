@@ -1190,22 +1190,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.gematsu.com/?p=1069335",
-      "title": "Teenage Mutant Ninja Turtles: Splintered Fate DLC character Slash now available alongside \u2018King\u2019s Gambit\u2019 update",
-      "url": "https://www.gematsu.com/2026/08/teenage-mutant-ninja-turtles-splintered-fate-dlc-character-slash-now-available-alongside-kings-gambit-update",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T15:00:50+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1069827",
-      "title": "Time management mystery adventure game Trainwatch to be published by 11 bit studios",
-      "url": "https://www.gematsu.com/2026/08/time-management-mystery-adventure-game-trainwatch-to-be-published-by-11-bit-studios",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T15:00:39+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000725329",
       "title": "Nidhogg Designer\u2019s Mash-Up Of Pac-Man And Vampire Survivors And Everything Else Hitting Game Pass In August 2026",
       "url": "https://kotaku.com/nidhogg-designers-mash-up-of-pac-man-and-vampire-survivors-and-everything-else-hitting-game-pass-in-august-2026-2000725329",
@@ -2332,6 +2316,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-18T18:57:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044399",
+      "title": "DOC NYC Set To Honor Documentary Visionaries Alex Gibney, JT Takagi, Stephen Maing, And Raney Aronson-Rath",
+      "url": "https://deadline.com/2026/08/2026-doc-nyc-visionaries-tribute-honorees-1237044399/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837300",
+      "title": "Will David Ellison Say Goodbye to Hollywood? Some See Paramount\u2019s Potential Exit From California as \u2018Strategically Unwise\u2019 \u2014 but Others Say It\u2019s Just Smart Business",
+      "url": "https://variety.com/2026/film/news/goodbye-to-hollywood-paramount-california-exit-david-ellison-1236837300/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676280",
+      "title": "Movie Theater Owners Reverse Course On Paramount-Warner Bros, Now Favor Settlement Talks",
+      "url": "https://www.hollywoodreporter.com/business/business-news/movie-theater-owners-paramount-warner-bros-settlement-1236676280/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:00:52+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121272",
+      "title": "FFXIV Mini Lamp Quest Icon Magnets Return",
+      "url": "https://www.siliconera.com/ffxiv-mini-lamp-quest-icon-magnets-return/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T19:00:00+00:00"
     }
   ]
 }
