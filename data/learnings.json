@@ -1,54 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Elden Ring: Tarnished Edition Gets a Story Trailer Ahead of Switch 2 Launch",
-      "tag": "elden ring",
-      "posted_at": "2026-08-11T19:01:02.635754+00:00",
-      "urls": [
-        "https://www.siliconera.com/elden-ring-tarnished-edition-switch-2-trailer-focuses-on-its-story/",
-        "https://www.nintendolife.com/news/2026/08/elden-ring-for-switch-2-is-looking-pretty-slick-in-new-story-trailer"
-      ],
-      "article_titles": [
-        "Elden Ring: Tarnished Edition Switch 2 Trailer Focuses on Its Story",
-        "Elden Ring For Switch 2 Is Looking Pretty Slick In New Story Trailer"
-      ]
-    },
-    {
-      "headline": "Bethesda Confirms Oblivion Remastered Patch Is Finally on the Way",
-      "tag": "the elder scrolls iv: oblivion remastered",
-      "posted_at": "2026-08-11T19:01:02.825508+00:00",
-      "urls": [
-        "https://www.ign.com/articles/bethesda-finally-confirms-the-elder-scrolls-iv-oblivion-remastered-patch-is-coming"
-      ],
-      "article_titles": [
-        "Bethesda Finally Confirms The Elder Scrolls IV: Oblivion Remastered Patch Is Coming"
-      ]
-    },
-    {
-      "headline": "Nvidia's RTX 5060 Ti Price Hike Is Now Live, Pushing Cards Past $800",
-      "tag": "nvidia",
-      "posted_at": "2026-08-11T19:01:03.026747+00:00",
-      "urls": [
-        "https://www.ign.com/articles/nvidias-price-increases-are-live-as-rtx-5060-ti-jumps-to-over-800"
-      ],
-      "article_titles": [
-        "Nvidia's Price Increases Are Live, As RTX 5060 Ti Jumps to Over $800"
-      ]
-    },
-    {
-      "headline": "Saber Interactive Allegedly Replaced Its Lead Writer With ChatGPT \u2014 and Didn't Disclose AI Use on Steam",
-      "tag": "saber interactive",
-      "posted_at": "2026-08-11T19:30:53.183266+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/simulation/saber-interactive-replaced-me-with-chatgpt-midway-through-development-but-ai-use-is-not-disclosed-on-steam-claims-former-lead-writer/",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vllwcu/former_lead_writer_for_saber_interactives/"
-      ],
-      "article_titles": [
-        "Saber Interactive \"replaced me with ChatGPT midway through development\" but AI use is not disclosed on Steam, claims former lead writer",
-        "Former lead writer for Saber Interactive's upcoming Rideshare \"Simulator\" claims they were replaced with ChatGPT midway through development and all the passenger voices were using AI at that time"
-      ]
-    },
-    {
       "headline": "A New Steam Game Is Channeling GoldenEye and Perfect Dark \u2014 and That's Exactly What It Says on the Tin",
       "tag": "goldeneye 007",
       "posted_at": "2026-08-11T20:31:16.386785+00:00",
@@ -1184,115 +1136,33 @@
       "article_titles": [
         "Bethesda Dev Says Cuts Were Rare Before Xbox Took Over: \u2018All Of A Sudden We Have Yearly Layoffs\u2019"
       ]
+    },
+    {
+      "headline": "Crunchyroll Shuts Down Its Online Store, Hitting Anime Fans Where It Hurts",
+      "tag": "crunchyroll",
+      "posted_at": "2026-08-18T19:31:09.254380+00:00",
+      "urls": [
+        "https://kotaku.com/crunchyroll-guts-online-store-just-as-anime-fans-feared-2000725383"
+      ],
+      "article_titles": [
+        "Crunchyroll Guts Online Store Just As Anime Fans Feared"
+      ]
+    },
+    {
+      "headline": "Star Wars: Starfighter Will Focus on 'Marginalized Outsiders' From the Galaxy's Fringes",
+      "tag": "star wars: starfighter",
+      "posted_at": "2026-08-18T19:31:09.464533+00:00",
+      "urls": [
+        "https://www.ign.com/articles/star-wars-starfighter-plot-outsiders"
+      ],
+      "article_titles": [
+        "Star Wars: Starfighter Follows \u2018Marginalized Outsiders' From the \u2018Wrong Side of the Galaxy\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000725329",
-      "title": "Nidhogg Designer\u2019s Mash-Up Of Pac-Man And Vampire Survivors And Everything Else Hitting Game Pass In August 2026",
-      "url": "https://kotaku.com/nidhogg-designers-mash-up-of-pac-man-and-vampire-survivors-and-everything-else-hitting-game-pass-in-august-2026-2000725329",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:20:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237044128",
-      "title": "New York Film Festival Sets Revivals Lineup With Ken Russell\u2019s \u2018The Devils\u2019, Powell & Pressburger\u2019s \u2018Gone To Earth\u2019",
-      "url": "https://deadline.com/2026/08/new-york-film-festival-revivals-lineup-1237044128/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:20:03+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837126",
-      "title": "Ascend Literary Management Signs \u2018Average Joe\u2019 Creator Robb Cullen (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/ascend-literary-management-robb-cullen-1236837126/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837163",
-      "title": "Shakira, Global Citizen, Live Nation and CAF Commit $1.25 Million to Rebuild Schools in Colombia Following Earthquake",
-      "url": "https://variety.com/2026/music/news/shakira-million-schools-colombia-earthquake-1236837163/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:06:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676031",
-      "title": "Jay Shetty Remembers Hayden Panettiere, Reflects on Their Emotional Interview: \u201cYou Were the Brave One\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/jay-shetty-remembers-hayden-panettiere-1236676031/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:16:59+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676019",
-      "title": "Oldenburg Names First Titles for 2026 Selection",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-oldenburg-film-festival-first-selections-1236676019/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:07:47+00:00"
-    },
-    {
-      "guid": "rC8WZoE23AvfyuFUWg9xqd",
-      "title": "Fans agree new Lego Batman Returns Batmobile looks great, but the lack of minifigures is a \"bit of a let down\"",
-      "url": "https://www.gamesradar.com/toys-collectibles/fans-agree-new-lego-batman-returns-batmobile-looks-great-but-the-lack-of-minifigures-is-a-bit-of-a-let-down/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T15:17:18+00:00"
-    },
-    {
-      "guid": "LnTigWKKso9ATK24ae4ZbP",
-      "title": "The physical media selection at Sony's Crunchyroll is even worse than fans feared after store update: all books removed and Blu-ray lineup gutted",
-      "url": "https://www.gamesradar.com/entertainment/anime-shows/the-physical-media-selection-at-sonys-crunchyroll-is-even-worse-than-fans-feared-after-store-update-all-books-removed-and-blu-ray-lineup-gutted/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T15:05:57+00:00"
-    },
-    {
-      "guid": "1853238",
-      "title": "Sony\u2019s Oasis-Loving CEO Thinks We\u2019re Going To Crave Human-Made Art In The Age Of AI",
-      "url": "https://www.gamespot.com/articles/sony-oasis-loving-ceo-thinks-were-going-to-crave-human-made-art-in-the-age-of-ai/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T15:21:08+00:00"
-    },
-    {
-      "guid": "KBpi8CaPMMpYLyvaetC2rY",
-      "title": "The Quake shareware CD-ROM contained encrypted copies of every id Software game\u2014and yes, it was cracked 39 days after release",
-      "url": "https://www.pcgamer.com/hardware/the-quake-shareware-cd-rom-contained-encrypted-copies-of-every-id-software-game-and-yes-it-was-cracked-39-days-after-release/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:27:30+00:00"
-    },
-    {
-      "guid": "betsEqApbgZi7UZUiVesgL",
-      "title": "OpenAI says it'd be a shame if something were to happen to your servers like what happened to Hugging Face, better use our AI models to protect yourself",
-      "url": "https://www.pcgamer.com/software/ai/openai-says-itd-be-a-shame-if-something-were-to-happen-to-your-servers-like-what-happened-to-hugging-face-better-use-our-ai-models-to-protect-yourself/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:22:49+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205120",
-      "title": "PlayStation's Official Desktop Speakers Arrive in November for $220",
-      "url": "https://www.pushsquare.com/news/2026/08/playstations-official-desktop-speakers-arrive-in-november-for-usd220",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T15:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751392",
-      "title": "Vin Diesel Says Fast Forever Starts Filming in December After Four Years of Development",
-      "url": "https://otakukart.com/vin-diesel-says-fast-forever-starts-filming-in-december-after-four-years-of-development/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T15:26:39+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000725319",
       "title": "Readers Are Freaking Out Thinking Wattpad\u2019s Updated Explicit Content Policy Is A Smut Ban",
@@ -1300,14 +1170,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-18T15:40:38+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000725317",
-      "title": "This New Factory Sim Is Exploding On Steam, And I Can Totally See Why",
-      "url": "https://kotaku.com/sandustry-steam-factory-incremental-mining-crafting-lantto-games-2000725317",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T15:30:28+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237044153",
@@ -2348,6 +2210,102 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-18T19:00:00+00:00"
+    },
+    {
+      "guid": "e523e746-8f84-4911-a0d2-52fa642c3aeb",
+      "title": "Star Wars: Starfighter Follows \u2018Marginalized Outsiders' From the \u2018Wrong Side of the Galaxy\u2019",
+      "url": "https://www.ign.com/articles/star-wars-starfighter-plot-outsiders",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T18:58:33+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000725468",
+      "title": "GTA 6 Gameplay And A Full Map Have Seemingly Leaked Ahead Of The Big Netflix Reveal",
+      "url": "https://kotaku.com/gta-6-gameplay-and-a-full-map-have-seemingly-leaked-ahead-of-the-big-netflix-reveal-2000725468",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:25:42+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000725383",
+      "title": "Crunchyroll Guts Online Store Just As Anime Fans Feared",
+      "url": "https://kotaku.com/crunchyroll-guts-online-store-just-as-anime-fans-feared-2000725383",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:07:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044492",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Fastest To Cross $800M At Domestic Box Office",
+      "url": "https://deadline.com/2026/08/spider-man-brand-new-day-800m-record-1237044492/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:16:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044415",
+      "title": "Phyllida Law Dies: Prolific TV & Film Actor, Mother Of Emma & Sophie Thompson Was 94",
+      "url": "https://deadline.com/2026/08/phyllida-law-dead-actor-emma-thompson-mother-1237044415/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:13:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837567",
+      "title": "Frank Beard, Longtime ZZ Top Drummer, Dies at 77",
+      "url": "https://variety.com/2026/music/news/frank-beard-dead-zz-top-drummer-1236837567/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:28:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837382",
+      "title": "How the \u2018Hacks\u2019 Production Team Created a \u201970s Sitcom Set and Overcame Las Vegas-Sized Challenges",
+      "url": "https://variety.com/2026/artisans/awards/hacks-70s-sitcom-set-las-vegas-blackout-1236837382/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:24:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834113",
+      "title": "Emmys: A Breakdown of the Music Nominees From Lady Gaga\u2019s \u2018Dead Dance\u2019 to Hans Zimmer\u2019s Race for His First Win",
+      "url": "https://variety.com/2026/artisans/news/emmys-music-nominations-1236834113/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:09:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675961",
+      "title": "\u2018House of the Dragon\u2019 Star Wants to Know: \u201cWhere the F*** is Mushroom?\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/house-of-the-dragon-mushroom-season-4-gayle-rankin-1236675961/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:15:21+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676285",
+      "title": "Hayden Panettiere\u2019s Mom Breaks Silence, Calls Out Boyfriend Who Was \u201cWith Her at Her Death\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hayden-panettieres-mom-boyfriend-1236676285/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:07:45+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=616815",
+      "title": "RPG: Starfinder\u2019s Tech Core Promises Technomagic Treats & Two New Classes",
+      "url": "https://www.belloflostsouls.net/2026/08/rpg-starfinders-tech-core-promises-technomagic-treats-two-new-classes.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T19:18:26+00:00"
+    },
+    {
+      "guid": "t3_1vrzddh",
+      "title": "Yanis v14 vs Leak map",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vrzddh/yanis_v14_vs_leak_map/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T19:29:21+00:00"
     }
   ]
 }
