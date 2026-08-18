@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A Jeff the Killer Movie Is in the Works as Hollywood Eyes Creepypasta IP",
-      "tag": "jeff the killer",
-      "posted_at": "2026-08-11T16:31:18.469731+00:00",
-      "urls": [
-        "https://kotaku.com/jeff-the-killer-movie-in-the-works-as-hollywood-chases-the-next-backrooms-hit-2000723415",
-        "https://kotaku.com/jeff-the-killer-movie-in-the-works-as-hollywood-chases-the-next-backrooms-hit-2000723415"
-      ],
-      "article_titles": [
-        "Jeff The Killer Movie In The Works As Hollywood Chases The Next Backrooms Hit",
-        "Jeff The Killer Movie In The Works As Hollywood Chases The Next Backrooms Hit"
-      ]
-    },
-    {
       "headline": "Marvel and Star Wars Are Crossing Over in Comics for the First Time Ever",
       "tag": "marvel/star wars",
       "posted_at": "2026-08-11T17:01:06.359477+00:00",
@@ -1212,6 +1199,17 @@
         "Fantagraphics Kicks Off a New Manga Imprint With Lovers of the Empire",
         "Fantagraphics Kicks Off a New Manga Imprint With Lovers of the Empire"
       ]
+    },
+    {
+      "headline": "Elden Ring Switch 2 Gameplay Showcase Drops Ahead of Console Launch",
+      "tag": "elden ring",
+      "posted_at": "2026-08-18T16:54:24.978135+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/08/video-elden-ring-gameplay-showcase-released-ahead-of-switch-2-launch"
+      ],
+      "article_titles": [
+        "Video: Elden Ring Gameplay Showcase Released Ahead Of Switch 2 Launch"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1224,14 +1222,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-08-18T13:01:32+00:00"
-    },
-    {
-      "guid": "2zoQg9FKSmv227uXrD7Dpj",
-      "title": "Post Malone breaks into his $2 million The One Ring, stressing out a whole room of Magic: The Gathering players: 'our insurance doesn't cover that card'",
-      "url": "https://www.pcgamer.com/games/card-games/post-malone-breaks-into-his-usd2-million-the-one-ring-stressing-out-a-whole-room-of-magic-the-gathering-players-our-insurance-doesnt-cover-that-card/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T12:51:27+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237043997",
@@ -1274,14 +1264,6 @@
       "published_dt": "2026-08-18T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236836867",
-      "title": "Publicis Groupe, 3 Arts, Travis Kelce Launch Venture to Help Advertisers Strike Deals With College Athletes",
-      "url": "https://variety.com/2026/tv/news/publicis-groupe-3-arts-travis-kelce-ads-college-athletes-1236836867/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T12:45:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236675838",
       "title": "A Ghost From the Past Returns in New \u2018Slow Horses\u2019 Season 6 Trailer",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/slow-horses-apple-drops-season-6-trailer-1236675838/",
@@ -1296,14 +1278,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-18T12:59:14+00:00"
-    },
-    {
-      "guid": "1853182",
-      "title": "PS6 Is Still A Mystery To Sony, Including When It\u2019s Coming Out",
-      "url": "https://www.gamespot.com/articles/ps6-is-still-a-mystery-to-sony-including-when-its-coming-out/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:41:22+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-204806",
@@ -1352,14 +1326,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-18T13:08:45+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751340",
-      "title": "Netflix\u2019s Don\u2019t Say Good Luck Earns 94% Rotten Tomatoes Score After August 14 Debut",
-      "url": "https://otakukart.com/netflixs-dont-say-good-luck-earns-94-rotten-tomatoes-score-after-august-14-debut/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:41:44+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236836871",
@@ -2248,6 +2214,134 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-18T16:17:42+00:00"
+    },
+    {
+      "guid": "Ka4tpGbdn7j5XFx6RwAiT9",
+      "title": "The new Framework 12 laptop's secret weapon is its battery life courtesy of Intel's Wildcat Lake",
+      "url": "https://www.pcgamer.com/hardware/gaming-laptops/the-new-framework-12-laptops-secret-weapon-is-its-battery-life-courtesy-of-intels-wildcat-lake/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:32:08+00:00"
+    },
+    {
+      "guid": "CQmHmn5EPcxNXK8nL2Ppj9",
+      "title": "The 3DMark Port Royal world record has been beaten, and all it took was a $5,000+ liquid nitrogen-cooled RTX 5090",
+      "url": "https://www.pcgamer.com/hardware/the-3dmark-port-royal-world-record-has-been-beaten-and-all-it-took-was-a-usd5-000-liquid-nitrogen-cooled-rtx-5090/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:31:29+00:00"
+    },
+    {
+      "guid": "HpHKAaY4UMW5jHDGkntAAX",
+      "title": "The memory crisis led me down a rabbit hole into nations forming rival factions to secure the flow of computer chips and AI, with names that wouldn't sound out of place in a Command & Conquer reboot",
+      "url": "https://www.pcgamer.com/hardware/the-memory-crisis-led-me-down-a-rabbit-hole-into-nations-forming-rival-factions-to-secure-the-flow-of-computer-chips-and-ai-with-names-that-wouldnt-sound-out-of-place-in-a-command-and-conquer-reboot/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:30:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044260",
+      "title": "Ken Kao\u2019s Waypoint Strikes First-Look With \u2018Splitsville\u2019 & \u201980 For Brady\u2019 Outfit Watch This Ready, First Project Revealed",
+      "url": "https://deadline.com/2026/08/waypoint-first-look-splitsville-80-brady-watch-this-ready-1237044260/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:46:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044200",
+      "title": "Verve Signs Filmmaker Anna Mastro",
+      "url": "https://deadline.com/2026/08/anna-mastro-signs-verve-1237044200/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044293",
+      "title": "Olivia Colman Joins \u2018Only Murders In The Building\u2019 Season 6",
+      "url": "https://deadline.com/2026/08/olivia-colman-murders-in-the-building-season-6-guest-star-1237044293/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:42:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676023",
+      "title": "Rosie O\u2019Donnell Crushed Her \u2018Kimmel\u2019 Monologue by Doing What Jimmy Kimmel Doesn\u2019t",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rosie-odonnell-jimmy-kimmel-live-monologue-1236676023/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:38:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676119",
+      "title": "Phyllida Law, Actress and Mother of Sophie and Emma Thompson, Dies at 94",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/phyllida-law-dead-emma-thompson-sofie-1236676119/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:38:02+00:00"
+    },
+    {
+      "guid": "pUfDTbRLgJmEjRPTwaHxvc",
+      "title": "Pokemon Gamma Emerald solo dev spent 2 years working \"12 hours a day\" building their remake \"from scratch,\" including 384,000 frames of animation",
+      "url": "https://www.gamesradar.com/games/pokemon/pokemon-gamma-emerald-solo-dev-spent-2-years-working-12-hours-a-day-building-their-remake-from-scratch-including-384-000-frames-of-animation/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:35:13+00:00"
+    },
+    {
+      "guid": "REZdspC2QjhFEtbfMpDqYV",
+      "title": "Assassin's Creed 2 was supposed to cover Brotherhood's entire plot, but that was \"way too ambitious to deliver properly\" in just one game",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-2-was-supposed-to-cover-brotherhoods-entire-plot-but-that-was-way-too-ambitious-to-deliver-properly-in-just-one-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:34:35+00:00"
+    },
+    {
+      "guid": "MxPD6C84GkRABYmgDecoUZ",
+      "title": "After Ubisoft canceled its remake, Prince of Persia: The Sands of Time gets an enhanced version from GOG",
+      "url": "https://www.gamesradar.com/games/platformer/after-ubisoft-canceled-its-remake-prince-of-persia-the-sands-of-time-gets-an-enhanced-version-from-gog/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:31:11+00:00"
+    },
+    {
+      "guid": "9SzwYhhYau8cUCRiPv3ZU8",
+      "title": "The Expanse RPG gets even more Mass Effect with choices that \u201cdefine the character you play,\u201d devs say, but you only have \u201cone chance to stay on everyone\u2019s good side\u201d",
+      "url": "https://www.gamesradar.com/games/action-rpg/the-expanse-rpg-gets-even-more-mass-effect-with-choices-that-define-the-character-you-play-devs-say-but-you-only-have-one-chance-to-stay-on-everyones-good-side/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:30:56+00:00"
+    },
+    {
+      "guid": "9pB6LFAbBFKdz92aQJaf9c",
+      "title": "WoW Classic players gang up to ban infamous PvP slayer on Twitch, immediately regret it after realizing they no longer know where in the MMO he's hiding",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-classic-players-gang-up-to-ban-infamous-pvp-slayer-on-twitch-immediately-regret-it-after-realizing-they-no-longer-know-where-in-the-mmo-hes-hiding/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:28:53+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205122",
+      "title": "Video: Elden Ring Gameplay Showcase Released Ahead Of Switch 2 Launch",
+      "url": "https://www.nintendolife.com/news/2026/08/video-elden-ring-gameplay-showcase-released-ahead-of-switch-2-launch",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751448",
+      "title": "ARC Raiders Update 1.42 Launches Phantom Targets Event With New Rewards",
+      "url": "https://otakukart.com/arc-raiders-update-1-42-launches-phantom-targets-event-with-new-rewards/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:50:29+00:00"
+    },
+    {
+      "guid": "t3_1vrufg3",
+      "title": "Possible GTA VI gameplay clip leak",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vrufg3/possible_gta_vi_gameplay_clip_leak/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:37:05+00:00"
     }
   ]
 }
