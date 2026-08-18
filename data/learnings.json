@@ -1186,19 +1186,22 @@
         "Pirated Marvel T\u014dkon Copies Reportedly Run Much Better On PC",
         "Pirated Marvel T\u014dkon Copies Reportedly Run Much Better On PC"
       ]
+    },
+    {
+      "headline": "Group Behind Alleged GTA 6 Gameplay Leak Demands End to Digital Pre-Orders",
+      "tag": "gta 6",
+      "posted_at": "2026-08-18T20:09:41.078714+00:00",
+      "urls": [
+        "https://kotaku.com/gta-6-leak-group-end-digital-pre-orders-2000725477"
+      ],
+      "article_titles": [
+        "Group Claiming Responsibility For Supposed GTA 6 Gameplay Leak Demands End to Digital Pre-Orders: \u2018If Publishers Want Revenue Before Launch, They Can Press Discs\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "uJN2Z5pjZZgGGgKQ8WV7qV",
-      "title": "Arc Raiders' map conditions 'will shift to fit specific regions' peak hours' as part of the latest Phantom Targets update",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-map-conditions-will-shift-to-fit-specific-regions-peak-hours-as-part-of-the-latest-phantom-targets-update/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T16:08:37+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237044266",
       "title": "Amanda Warren & Evan Jonigkeit To Topline Indie Sci-Fi Horror \u2018Door\u2019",
@@ -1222,14 +1225,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-18T16:10:44+00:00"
-    },
-    {
-      "guid": "ywNSe5cFw9TT7GfgFcTKe8",
-      "title": "15 PS5, Nintendo Switch, Xbox, and PC deals you don't want to miss in Best Buy's 60th Anniversary sale",
-      "url": "https://www.gamesradar.com/hardware/15-ps5-nintendo-switch-xbox-and-pc-deals-you-dont-want-to-miss-in-best-buys-60th-anniversary-sale/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T16:08:40+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000725360",
@@ -2294,6 +2289,70 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-18T19:52:28+00:00"
+    },
+    {
+      "guid": "7c9466e7-2ee0-4e6d-b7a6-a67a5b0451b8",
+      "title": "Report: Tom Holland Could Earn Up to $100 Million for Spider-Man: Brand New Day Following Record-Breaking Box Office Success",
+      "url": "https://www.ign.com/articles/report-tom-holland-could-earn-up-to-100-million-for-spider-man-brand-new-day-following-record-breaking-box-office-success",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T19:44:14+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000725133",
+      "title": "The Creators Of Big Walk Break Down The GOTY Contender\u2019s Development, Puzzles, And Stunning Ending",
+      "url": "https://kotaku.com/the-creators-of-big-walk-break-down-the-goty-contenders-development-puzzles-and-stunning-ending-2000725133",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:00:31+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000725477",
+      "title": "Group Claiming Responsibility For Supposed GTA 6 Gameplay Leak Demands End to Digital Pre-Orders: \u2018If Publishers Want Revenue Before Launch, They Can Press Discs\u2019",
+      "url": "https://kotaku.com/gta-6-leak-group-end-digital-pre-orders-2000725477",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:00:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236600966",
+      "title": "Everything We Know About \u2018Only Murders In The Building\u2019 Season 6 So Far",
+      "url": "https://deadline.com/feature/only-murders-in-the-building-season-6-news-updates-1236600966/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:04:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044005",
+      "title": "Screen Australia Report Points To Fight For Attention Facing Producers & Creators",
+      "url": "https://deadline.com/2026/08/screen-current-report-australia-report-findings-1237044005/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837591",
+      "title": "Motion Picture Academy Names Sean Baker and Samantha Quan as Chairs of Marquee Theater Committee",
+      "url": "https://variety.com/2026/film/news/sean-baker-samantha-quan-ampas-theater-committee-1236837591/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T20:02:54+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205133",
+      "title": "Wake Up, It Looks Like Terranigma Might Finally Be Getting A Re-Release",
+      "url": "https://www.timeextension.com/news/2026/08/wake-up-it-looks-like-terranigma-might-finally-be-getting-a-re-release",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T20:05:00+00:00"
+    },
+    {
+      "guid": "t3_1vs092i",
+      "title": "An Email Showing Rockstar Striking Leaked Clips",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vs092i/an_email_showing_rockstar_striking_leaked_clips/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T20:00:57+00:00"
     }
   ]
 }
