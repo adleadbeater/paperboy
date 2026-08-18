@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "SteamOS Beta Quietly Adds Support for the Steam Frame's Wireless Adapter",
-      "tag": "steam frame",
-      "posted_at": "2026-08-11T15:31:32.776565+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/vr-hardware/yet-another-sign-the-steam-frame-is-approaching-launch-maybe-really-for-real-this-time-as-the-steamos-beta-adds-preliminary-support-for-its-wireless-adapter/",
-        "https://www.pcgamer.com/hardware/vr-hardware/yet-another-sign-the-steam-frame-is-approaching-launch-maybe-really-for-real-this-time-as-the-steamos-beta-adds-preliminary-support-for-its-wireless-adapter/"
-      ],
-      "article_titles": [
-        "Yet another sign the Steam Frame is approaching launch\u2014maybe really for real this time?\u2014as the SteamOS beta adds 'preliminary support' for its wireless adapter",
-        "Yet another sign the Steam Frame is approaching launch\u2014maybe really for real this time?\u2014as the SteamOS beta adds 'preliminary support' for its wireless adapter"
-      ]
-    },
-    {
-      "headline": "Terraria Mod Calamity's Lead Dev Accused of \"Endangering Minors\" \u2014 Devs Ask Fans to Cancel Patreon Support",
-      "tag": "terraria",
-      "posted_at": "2026-08-11T16:01:17.585358+00:00",
-      "urls": [
-        "https://kotaku.com/devs-of-popular-decade-old-terraria-mod-ask-users-to-cancel-patreon-donations-following-allegations-of-its-lead-endangering-minors-2000723400"
-      ],
-      "article_titles": [
-        "Devs Of Popular, Decade-Old Terraria Mod Ask Users To \u2018Cancel Patreon Donations\u2019 Following Allegations Of Its Lead \u2018Endangering Minors\u2019"
-      ]
-    },
-    {
       "headline": "Stargate and Independence Day Writer Says He Wants to Reboot Doctor Who and Bring Back David Tennant",
       "tag": "doctor who",
       "posted_at": "2026-08-11T16:17:47.578374+00:00",
@@ -1238,27 +1214,22 @@
         "Sebastian Stan may have confirmed who he's playing in The Batman 2, and it's not Victor Zsasz",
         "Avengers: Doomsday star Sebastian Stan says he's never seen a full script of the movie so has \"absolutely no idea\" what happens"
       ]
+    },
+    {
+      "headline": "Control Resonant's Physical Edition Gets a Last-Minute Delay",
+      "tag": "control resonant",
+      "posted_at": "2026-08-18T16:16:17.450047+00:00",
+      "urls": [
+        "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition"
+      ],
+      "article_titles": [
+        "Control Resonant Developer Announces Last-Minute Delay For Physical Edition"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237044059",
-      "title": "ABC Files First Amendment Lawsuit Against FCC, Claiming Trump Administration \u201cRetaliatory Campaign\u201d Against Its Free Speech",
-      "url": "https://deadline.com/2026/08/abc-sues-fcc-first-amendment-lawsuit-1237044059/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T12:13:50+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237044029",
-      "title": "\u2018100 Years Of Solitude\u2019 Stars On Adapting Garc\u00eda M\u00e1rquez\u2019s \u201cImpossible\u201d Novel; Watch The Finale Trailer",
-      "url": "https://deadline.com/2026/08/100-years-of-solitude-finale-cast-trailer-netflix-1237044029/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T12:05:00+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236837028",
       "title": "ABC Files First Amendment Lawsuit Against FCC",
@@ -1282,30 +1253,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-18T12:25:04+00:00"
-    },
-    {
-      "guid": "Co2pPrHHnTtbhZBUk6NjKF",
-      "title": "\"Don\u2019t boycott GTA 6,\" fired Rockstar devs say: \"Support our legal battle instead\" and \"win justice for the people who helped make it\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/dont-boycott-gta-6-fired-rockstar-devs-say-support-our-legal-battle-instead-and-win-justice-for-the-people-who-helped-make-it/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:11:03+00:00"
-    },
-    {
-      "guid": "YPxtgTXwN2EJ6CNgdSvAWF",
-      "title": "Wonderland codes (August 2026) for Gems",
-      "url": "https://www.gamesradar.com/games/adventure/wonderland-codes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:09:28+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205105",
-      "title": "Elden Ring Switch 2 Preview Indicates That Performance Concerns Are A Thing Of The Past",
-      "url": "https://www.nintendolife.com/news/2026/08/elden-ring-switch-2-preview-indicates-that-performance-concerns-are-a-thing-of-the-past",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:15:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1751385",
@@ -2232,6 +2179,86 @@
       "title": "Review: Over Requiemz Is an Otome That\u2019s More About Roleplaying",
       "url": "https://www.siliconera.com/review-over-requiemz-is-an-otome-thats-more-about-roleplaying/",
       "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "guid": "6dff1ec5-14f8-4d3b-985b-7263cfa401fa",
+      "title": "Fantagraphics Kicks Off a New Manga Imprint With Lovers of the Empire",
+      "url": "https://www.ign.com/articles/fantagraphics-kicks-off-a-new-manga-imprint-with-lovers-of-the-empire",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "guid": "528a6657-9c6d-4848-acf8-de3af42b7cf2",
+      "title": "Control Resonant Developer Announces Last-Minute Delay For Physical Edition",
+      "url": "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:58:21+00:00"
+    },
+    {
+      "guid": "uJN2Z5pjZZgGGgKQ8WV7qV",
+      "title": "Arc Raiders' map conditions 'will shift to fit specific regions' peak hours' as part of the latest Phantom Targets update",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-map-conditions-will-shift-to-fit-specific-regions-peak-hours-as-part-of-the-latest-phantom-targets-update/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:08:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044266",
+      "title": "Amanda Warren & Evan Jonigkeit To Topline Indie Sci-Fi Horror \u2018Door\u2019",
+      "url": "https://deadline.com/2026/08/amanda-warren-evan-jonigkeit-to-star-door-sci-fi-horror-1237044266/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:12:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237043028",
+      "title": "Hollywood Climate Summit, Jackson Wild Unveil Finalists For Expanded Nature & Climate Storytelling Awards",
+      "url": "https://deadline.com/2026/08/hollywood-climate-summit-jackson-wild-climate-storytelling-awards-1237043028/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837169",
+      "title": "Fulvio Lucisano, Italian Producer of \u2018Planet of the Vampires\u2019 and \u2018What Have You Done to Solange?,\u2019  Dies at 98",
+      "url": "https://variety.com/2026/film/global/fulvio-lucisano-dead-italian-producer-planet-of-the-vampires-1236837169/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:12:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836839",
+      "title": "American Black Film Festival 2027 Heads to Los Angeles After 24 Years in Miami (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/american-black-film-festival-2027-los-angeles-1236836839/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675613",
+      "title": "The Estate of Marilyn Monroe Helped Mattel Design Barbie Doll for the Legend\u2019s 100th Birthday",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/marilyn-monroe-barbie-doll-100th-birthday-release-price-buy-1236675613/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:10:44+00:00"
+    },
+    {
+      "guid": "ywNSe5cFw9TT7GfgFcTKe8",
+      "title": "15 PS5, Nintendo Switch, Xbox, and PC deals you don't want to miss in Best Buy's 60th Anniversary sale",
+      "url": "https://www.gamesradar.com/hardware/15-ps5-nintendo-switch-xbox-and-pc-deals-you-dont-want-to-miss-in-best-buys-60th-anniversary-sale/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:08:40+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205078",
+      "title": "Preview: After Online Storm, Here's the Truth About Wolverine PS5",
+      "url": "https://www.pushsquare.com/previews/after-online-storm-heres-the-truth-about-wolverine-ps5",
+      "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-18T16:00:00+00:00"
     }
