@@ -1244,22 +1244,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "a5a27d48-d962-4dcf-9762-0f549c830f71",
-      "title": "Drakong\u2019s New Attack on Titan-Themed Collectible Controllers Come In a Blind Box",
-      "url": "https://www.ign.com/articles/drakongs-new-attack-on-titan-themed-collectible-controllers-come-in-a-blind-box",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/battlefield-6-free-trial-call-of-duty-modern-warfare-4-beta",
-      "title": "Battlefield 6 is hosting a free trial, just in time for Call of Duty: Modern Warfare 4's beta",
-      "url": "https://www.eurogamer.net/battlefield-6-free-trial-call-of-duty-modern-warfare-4-beta",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T11:54:47+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237044059",
       "title": "ABC Files First Amendment Lawsuit Against FCC, Claiming Trump Administration \u201cRetaliatory Campaign\u201d Against Its Free Speech",
       "url": "https://deadline.com/2026/08/abc-sues-fcc-first-amendment-lawsuit-1237044059/",
@@ -1274,38 +1258,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-18T12:05:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236675908",
-      "title": "\u2018How to Change the World,\u2019 Exec Produced by Mark Cuban, Puts Spotlight on Social Entrepreneurs (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/how-to-change-the-world-youtube-series-mark-cuban-1236675908/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205080",
-      "title": "7 PS Plus Extra, Premium Game Removals for September 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/08/7-ps-plus-extra-premium-game-removals-for-september-2026-confirmed",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205089",
-      "title": "\"It's Just Not As Much Fun For Me Anymore\" - Ultima & Deus Ex Legend Warren Spector Announces His Retirement From Games",
-      "url": "https://www.timeextension.com/news/2026/08/its-just-not-as-much-fun-for-me-anymore-ultima-and-deus-ex-legend-warren-spector-announces-his-retirement-from-games",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751337",
-      "title": "Shuhei Yoshida Says He Advised Expedition 33 Devs Not to Market It as a \u201cTurn-Based RPG\u201d Because of JRPG Stigma at the time",
-      "url": "https://otakukart.com/shuhei-yoshida-says-he-advised-expedition-33-devs-not-to-market-it-as-a-turn-based-rpg-because-of-jrpg-stigma-at-the-time/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T11:59:42+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236837028",
@@ -1346,30 +1298,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-18T12:09:28+00:00"
-    },
-    {
-      "guid": "NAAL6tJmKNDsvtZbrZfGKf",
-      "title": "Ex-PlayStation boss doesn't know if Sony killing physical games is \"such a big issue\" since players need to download patches and extra data anyway",
-      "url": "https://www.gamesradar.com/games/ex-playstation-boss-doesnt-know-if-sony-killing-physical-games-is-such-a-big-issue-since-players-need-to-download-patches-and-extra-data-anyway/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T11:59:35+00:00"
-    },
-    {
-      "guid": "8ys9bMfh3PfbagWhhVT6Pg",
-      "title": "New Spider-Man: Brand New Day merch is dropping all the time, here are the 12 pieces I'd swing towards first",
-      "url": "https://www.gamesradar.com/toys-collectibles/new-spider-man-brand-new-day-merch-is-dropping-all-the-time-here-are-the-12-pieces-id-swing-towards-first/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T11:58:58+00:00"
-    },
-    {
-      "guid": "1853149",
-      "title": "Baptiste\u2019s New Trailer Proves You Should Never, Ever Trust A Creepy Doll",
-      "url": "https://www.gamespot.com/articles/baptiste-new-trailer-proves-you-should-never-ever-trust-a-creepy-doll/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T12:00:00+00:00"
     },
     {
       "guid": "https://www.nintendolife.com/#article-205105",
@@ -2242,6 +2170,70 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-18T15:36:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237043520",
+      "title": "\u2018Weight To Date\u2019 Series Set At Netflix; Marks IPC\u2019s First Sale Since Founders Left Sony Pictures TV",
+      "url": "https://deadline.com/2026/08/weight-to-date-reality-series-netflix-ipc-1237043520/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044192",
+      "title": "Rosie O\u2019Donnell Takes Aim At Donald Trump In Fiery \u2018Jimmy Kimmel Live!\u2019 Monologue: \u201cHi, I Know You\u2019re Watching!\u201d",
+      "url": "https://deadline.com/2026/08/rosie-odonnell-donald-trump-jimmy-kimmel-live-monologue-1237044192/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:58:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836651",
+      "title": "Marilyn Monroe\u2019s Newest Barbie Doll Is Inspired by Her \u2018Diamonds Are a Girl\u2019s Best Friend\u2019 Ensemble",
+      "url": "https://variety.com/2026/shopping/news/marilyn-monroe-barbie-diamonds-are-a-girls-best-friend-buy-1236836651/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837138",
+      "title": "C+C Music Factory Co-Founder Robert Clivill\u00e9s Sues Freedom Williams for $30 Million, Alleging He Wrongfully Claimed Trademark Despite Never Being a Group Member",
+      "url": "https://variety.com/2026/music/news/cc-music-factory-robert-clivilles-sues-freedom-williams-1236837138/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:55:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676072",
+      "title": "Bill Rasmussen, Co-Founder of ESPN, Dies at 93",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-rasmussen-espn-co-founder-1236676072/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:58:55+00:00"
+    },
+    {
+      "guid": "P8AQ8Wr9M58uoVNhzGdH7a",
+      "title": "You can play Pokemon Snap in real life with the new Polaroid crossover",
+      "url": "https://www.gamesradar.com/toys-collectibles/you-can-play-pokemon-snap-in-real-life-with-the-new-polaroid-crossover/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:52:24+00:00"
+    },
+    {
+      "guid": "1853266",
+      "title": "Battlefield 6 Free Trial Overlaps With Call Of Duty: Modern Warfare 4 Beta This Weekend",
+      "url": "https://www.gamespot.com/articles/battlefield-6-free-trial-overlaps-with-call-of-duty-modern-warfare-4-beta-this-weekend/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:36:01+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121175",
+      "title": "Review: Over Requiemz Is an Otome That\u2019s More About Roleplaying",
+      "url": "https://www.siliconera.com/review-over-requiemz-is-an-otome-thats-more-about-roleplaying/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T16:00:00+00:00"
     }
   ]
 }
