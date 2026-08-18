@@ -1266,68 +1266,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236837005",
-      "title": "Oscars: Taiwan Selects \u2018A Foggy Tale\u2019 for International Feature Race",
-      "url": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T10:54:33+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236836130",
-      "title": "Diego Luna on Challenging How Migrants Are Viewed With \u2018Ashes\u2019: \u2018We\u2019re Not Thinking About What They Left Behind\u2019",
-      "url": "https://variety.com/2026/film/global/diego-luna-ashes-sarajevo-1236836130/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T10:45:58+00:00"
-    },
-    {
-      "guid": "vnCfSA3CARMGgbWxVREzq4",
-      "title": "Phantom Blade Zero State of Play bravely leaves comments on, is flooded with PlayStation fans telling Sony \"no disc no buy\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-state-of-play-bravely-leaves-comments-on-is-flooded-with-playstation-fans-telling-sony-no-disc-no-buy/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T10:45:27+00:00"
-    },
-    {
-      "guid": "3Juzs6En3NwZSgUNZvjEb8",
-      "title": "After 44 years, legendary Deus Ex and System Shock developer Warren Spector announces his retirement from game development: \"Wouldn't change a thing even if I could\"",
-      "url": "https://www.gamesradar.com/games/after-44-years-legendary-deus-ex-and-system-shock-developer-warren-spector-announces-his-retirement-from-game-development-wouldnt-change-a-thing-even-if-i-could/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T10:43:46+00:00"
-    },
-    {
-      "guid": "tQGV3vRivwCqTozcGzXpE3",
-      "title": "Yes, a 24K gold-plated Supreme Analogue Pocket is absurd, but it isn't for regular Game Boy enjoyers like me",
-      "url": "https://www.gamesradar.com/hardware/retro/yes-a-24k-gold-plated-supreme-analogue-pocket-is-absurd-but-it-isnt-for-regular-game-boy-enjoyers-like-me/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T10:30:38+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1751304",
       "title": "Pocketpair Lead Says Popular Games Face Constant Collab Pitches, but Palworld Won\u2019t Force Them: \u201cWe Don\u2019t Want to Just Shove Random Things In\u201d",
       "url": "https://otakukart.com/pocketpair-lead-says-popular-games-face-constant-collab-pitches-but-palworld-wont-force-them-we-dont-want-to-just-shove-random-things-in/",
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-18T10:59:51+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751302",
-      "title": "The Terminal List Season 2 First Look Reveals Chris Pratt\u2019s Return as James Reece",
-      "url": "https://otakukart.com/the-terminal-list-season-2-first-look-reveals-chris-pratts-return-as-james-reece/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T10:48:58+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751285",
-      "title": "Ma Dong Seok Formally Confirmed to Join Explosive Netflix Franchise in Extraction 3",
-      "url": "https://otakukart.com/ma-dong-seok-formally-confirmed-to-join-explosive-netflix-franchise-in-extraction-3/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T10:31:44+00:00"
     },
     {
       "guid": "a5a27d48-d962-4dcf-9762-0f549c830f71",
@@ -1928,6 +1872,126 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/xbox-pc-game-pass-august-lineup",
+      "title": "Here's your next batch of Xbox and PC Game Pass games for August",
+      "url": "https://www.eurogamer.net/xbox-pc-game-pass-august-lineup",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:39:08+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000725320",
+      "title": "Fired Rockstar Devs Say Players Should Still Buy GTA 6: \u2018Don\u2019t Boycott The Game, Support Our Legal Battle Instead\u2019",
+      "url": "https://kotaku.com/fired-rockstar-devs-say-players-should-still-buy-gta-6-dont-boycott-the-game-support-our-legal-battle-instead-2000725320",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:39:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044165",
+      "title": "Watermelon Pictures To Provide Healthcare Workers Free Tickets To \u2018American Doctor\u2019 Screenings",
+      "url": "https://deadline.com/2026/08/watermelon-pictures-healthcare-workers-american-doctor-1237044165/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:37:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044145",
+      "title": "Former UK Tech Minister Damian Collins Joins Microdrama Outfit Screenburn Group As Chairman",
+      "url": "https://deadline.com/2026/08/damian-collins-joins-screenburn-group-chairman-microdrama-1237044145/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:37:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836055",
+      "title": "\u2018Mother\u2019 Director Teona Mitevska Preps Sequel to Feminist Satirical Drama \u2018God Exists, Her Name Is Petrunya\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/mother-teona-mitevska-sequel-god-exists-her-name-is-petrunya-1236836055/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:48:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836639",
+      "title": "Music Industry Moves: Wolf Alice Signs With UTA for North America",
+      "url": "https://variety.com/2026/music/news/iheartmedias-alissa-pollack-president-mediabase-1236836639/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:35:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236826576",
+      "title": "Karol G Performs in Los Angeles, Aaron Pierre Premieres \u2018Lanterns\u2019 and More Red Carpet Photos: August 2026",
+      "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-august-2026/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:30:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236672818",
+      "title": "Jonathan Daviss\u00a0Thinks You Will Be Surprised With His Post-\u2018Outer Banks\u2019 Role",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/jonathan-daviss-outer-banks-snoop-dogg-biopic-interview-1236672818/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:45:00+00:00"
+    },
+    {
+      "guid": "uem9nCaErnaEC5ww2SXG8f",
+      "title": "The Witcher 3 devs tried to give NPCs \"fear reactions\" but it got cut after a few horrifying weeks when \"women were just dropping their babies, left and right\"",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-devs-tried-to-give-npcs-fear-reactions-but-it-got-cut-after-a-few-horrifying-weeks-when-women-were-just-dropping-their-babies-left-and-right/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:45:00+00:00"
+    },
+    {
+      "guid": "UYLLr9i9XPsGmZx9MaAtHK",
+      "title": "There's no official GTA 6 headset quite yet, but the LucidSound LS500 gets pretty close with its funky Sunset Paradise design",
+      "url": "https://www.gamesradar.com/hardware/headsets-headphones/theres-no-official-gta-6-headset-quite-yet-but-the-lucidsound-ls500-gets-pretty-close-with-its-funky-sunset-paradise-design/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:34:20+00:00"
+    },
+    {
+      "guid": "fj2GSmcohhFydTjfEdYrkD",
+      "title": "Uncharted difficulty was tuned to \"slow the player down if they were too good,\" says Naughty Dog designer: \"We can't charge 60 bucks for a 5-hour game\"",
+      "url": "https://www.gamesradar.com/games/action/uncharted-difficulty-was-tuned-to-slow-the-player-down-if-they-were-too-good-says-naughty-dog-designer-we-cant-charge-60-bucks-for-a-5-hour-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:32:33+00:00"
+    },
+    {
+      "guid": "7Djf2See2Dpe8L2qmQi39Z",
+      "title": "Marvel boss Kevin Feige says there could be \"100 more\" great X-Men movies, teases \"sagas upon sagas\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/marvel-boss-kevin-feige-says-there-could-be-100-more-great-x-men-movies-teases-sagas-upon-sagas/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:29:49+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205110",
+      "title": "The Big Marketing Push for PS5 Exclusive Marvel's Wolverine Has Begun in Style",
+      "url": "https://www.pushsquare.com/news/2026/08/the-big-marketing-push-for-ps5-exclusive-marvels-wolverine-has-begun-in-style",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751386",
+      "title": "Chinese Animated Film Niu Lai Becomes Box-Office Hit After Viewers Mock Its Bizarre Animation",
+      "url": "https://otakukart.com/chinese-animated-film-niu-lai-becomes-box-office-hit-after-viewers-mock-its-bizarre-animation/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:35:38+00:00"
+    },
+    {
+      "guid": "t3_1vrrhvj",
+      "title": "GTA VI has already made $429m and sold 4.38m copies/preorders as per Sensor Tower's data estimates",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vrrhvj/gta_vi_has_already_made_429m_and_sold_438m/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:55:12+00:00"
     }
   ]
 }
