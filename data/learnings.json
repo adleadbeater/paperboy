@@ -1249,84 +1249,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236675544",
-      "title": "Ariana Madix to Join \u2018Just in Time\u2019 Broadway Musical",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/ariana-madix-cast-just-in-time-broadway-musical-1236675544/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T21:42:08+00:00"
-    },
-    {
-      "guid": "5c67d933-6b2d-40e6-9850-f8bb49b4b1a9",
-      "title": "Tides of Annihilation Producer Responds After Gwendolyn's New Face Sparks Debate Among Fans",
-      "url": "https://www.ign.com/articles/tides-of-annihilation-producer-responds-after-gwendolyns-new-face-sparks-debate-among-fans",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T21:52:47+00:00"
-    },
-    {
-      "guid": "62a4ecfd-2e29-40c0-8b89-45e0fe4094cd",
-      "title": "Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players",
-      "url": "https://www.ign.com/articles/star-citizen-developer-stream-goes-horribly-off-the-rails-creating-further-distrust-among-players",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T21:47:03+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000725110",
-      "title": "Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: \u2018We Actually Had A Shuttle Fly Into a Building\u2019",
-      "url": "https://kotaku.com/fan-favorite-star-trek-fps-had-to-change-its-plot-after-9-11-we-actually-had-a-shuttle-fly-into-a-building-2000725110",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T22:00:45+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237043487",
-      "title": "Abby Phillip Signs New Deal To Remain At CNN",
-      "url": "https://deadline.com/2026/08/abby-phillip-cnn-contract-1237043487/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T22:05:22+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236836669",
       "title": "\u2018Spy Kids\u2019 Actor Alexa PenaVega Shares Heartbreak After Deaths of Fellow Child Stars Hayden Panettiere, Michelle Trachtenberg and Daveigh Chase: \u2018Hug Your People Close Today\u2019",
       "url": "https://variety.com/2026/film/news/alexa-vega-child-actor-deaths-hayden-panettiere-trachtenberg-1236836669/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-17T22:07:49+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236675491",
-      "title": "As Live Shopping Blows Up, It\u2019s a Bidding War for Auction-Fluencers",
-      "url": "https://www.hollywoodreporter.com/business/business-news/live-shopping-bidding-war-auction-fluencers-1236675491/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T22:02:15+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236675601",
-      "title": "\u2018Lanterns\u2019 Stars Kyle Chandler and Aaron Pierre Talk the Pilot Shocker, Early Fears and Season 2 Chances",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-kyle-chandler-and-aaron-pierre-death-1236675601/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-17T21:57:29+00:00"
-    },
-    {
-      "guid": "5BdjQcxheoGpkHc2e8jw5F",
-      "title": "After 8 years, Kingdom Hearts 4 will realize \"an idea that we had since Kingdom Hearts 3,\" Tetsuya Nomura says",
-      "url": "https://www.gamesradar.com/games/kingdom-hearts/after-8-years-kingdom-hearts-4-will-realize-an-idea-that-we-had-since-kingdom-hearts-3-tetsuya-nomura-says/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-17T21:49:33+00:00"
-    },
-    {
-      "guid": "t3_1vr679b",
-      "title": "NateTheHate: rumored new Xbox game is a sequel to something recent instead of an old IP being revived; and the developer behind it intrigued him.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vr679b/natethehate_rumored_new_xbox_game_is_a_sequel_to/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-17T21:57:21+00:00"
     },
     {
       "guid": "8zEG7ztDiMLqkvZY49jJ3L",
@@ -1479,6 +1407,14 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-18T01:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675810",
+      "title": "\u2018Scream 4\u2019 Casting Director Recalls Hayden Panettiere\u2019s \u201cFierce Warrior Nature\u201d Helping Her Land Role",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-scream-4-casting-director-tribute-death-1236675810/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T02:04:11+00:00"
     }
   ]
 }
