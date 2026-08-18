@@ -1,43 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Overwatch Is Finally Killing Its Most Annoying FOMO Systems",
-      "tag": "overwatch",
-      "posted_at": "2026-08-11T14:09:40.077571+00:00",
-      "urls": [
-        "https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394",
-        "https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394"
-      ],
-      "article_titles": [
-        "Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That\u2019s Plagued It For Years: \u2018My Suffering Has Ended\u2019",
-        "Overwatch Is Finally Cutting Out Some Of The FOMO Nonsense That\u2019s Plagued It For Years: \u2018My Suffering Has Ended\u2019"
-      ]
-    },
-    {
-      "headline": "Marvel's Wolverine Gets Its Own Limited Edition PS5 Console and Controller",
-      "tag": "marvel's wolverine",
-      "posted_at": "2026-08-11T14:31:03.898858+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/08/marvels-wolverine-limited-edition-ps5-consoles-controllers-announced-pre-orders-next-week",
-        "https://www.gematsu.com/2026/08/marvels-wolverine-limited-edition-ps5-console-bundle-and-accessories-announced"
-      ],
-      "article_titles": [
-        "Marvel's Wolverine Limited Edition PS5 Consoles, Controllers Announced, Pre-Orders Next Week",
-        "Marvel\u2019s Wolverine Limited Edition PS5 console bundle and accessories announced"
-      ]
-    },
-    {
-      "headline": "Saber CEO Confirms New Game Trailer Took a Direct Shot at Borderlands 4's Randy Pitchford",
-      "tag": "borderlands 4",
-      "posted_at": "2026-08-11T15:01:01.107757+00:00",
-      "urls": [
-        "https://kotaku.com/saber-ceo-confirms-new-game-trailer-contains-a-shot-at-gearboxs-randy-pitchford-as-payback-over-a-borderlands-4-joke-2000723395"
-      ],
-      "article_titles": [
-        "Saber CEO Confirms New Game Trailer Contains A Shot At Gearbox\u2019s Randy Pitchford As Payback Over A Borderlands 4 Joke"
-      ]
-    },
-    {
       "headline": "SteamOS Beta Quietly Adds Support for the Steam Frame's Wireless Adapter",
       "tag": "steam frame",
       "posted_at": "2026-08-11T15:31:32.776565+00:00",
@@ -1260,19 +1223,26 @@
         "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead",
         "\"Don\u2019t boycott GTA 6,\" fired Rockstar devs say: \"Support our legal battle instead\" and \"win justice for the people who helped make it\""
       ]
+    },
+    {
+      "headline": "Sebastian Stan Appears to Confirm He's Playing Two-Face in The Batman: Part 2",
+      "tag": "the batman: part 2",
+      "posted_at": "2026-08-18T15:06:30.320543+00:00",
+      "urls": [
+        "https://www.ign.com/articles/avengers-star-sebastian-stan-appears-to-confirm-hes-playing-harvey-dent-aka-two-face-in-the-batman-part-2",
+        "https://www.gamesradar.com/entertainment/dc-movies/sebastian-stan-the-batman-2-harvey-dent/",
+        "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-star-sebastian-stan-says-hes-never-seen-a-full-script-of-the-movie-so-has-absolutely-no-idea-what-happens/"
+      ],
+      "article_titles": [
+        "Avengers Star Sebastian Stan Appears to Confirm He's Playing Harvey Dent AKA Two-Face in The Batman: Part 2",
+        "Sebastian Stan may have confirmed who he's playing in The Batman 2, and it's not Victor Zsasz",
+        "Avengers: Doomsday star Sebastian Stan says he's never seen a full script of the movie so has \"absolutely no idea\" what happens"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://otakukart.com/?p=1751304",
-      "title": "Pocketpair Lead Says Popular Games Face Constant Collab Pitches, but Palworld Won\u2019t Force Them: \u201cWe Don\u2019t Want to Just Shove Random Things In\u201d",
-      "url": "https://otakukart.com/pocketpair-lead-says-popular-games-face-constant-collab-pitches-but-palworld-wont-force-them-we-dont-want-to-just-shove-random-things-in/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-18T10:59:51+00:00"
-    },
     {
       "guid": "a5a27d48-d962-4dcf-9762-0f549c830f71",
       "title": "Drakong\u2019s New Attack on Titan-Themed Collectible Controllers Come In a Blind Box",
@@ -1992,6 +1962,118 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-18T14:55:12+00:00"
+    },
+    {
+      "guid": "50996842-3683-42f0-aa7c-b37f92ceca3a",
+      "title": "Archie Lives: We Review Every Title in Oni Press' Ambitious Archie Comics Reboot",
+      "url": "https://www.ign.com/articles/archie-comics-reboot-oni-press-review-sabrina",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "c5668aee-2499-479e-bde2-fbc3cd23ac5e",
+      "title": "Avengers Star Sebastian Stan Appears to Confirm He's Playing Harvey Dent AKA Two-Face in The Batman: Part 2",
+      "url": "https://www.ign.com/articles/avengers-star-sebastian-stan-appears-to-confirm-hes-playing-harvey-dent-aka-two-face-in-the-batman-part-2",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T14:55:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237043568",
+      "title": "SXSW Launching Podcast Festival In 2027",
+      "url": "https://deadline.com/2026/08/sxsw-launching-podcast-festival-2027-1237043568/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836537",
+      "title": "Stella Lefty on the Rise of \u2018Boston\u2019 and Her Sudden Fame: \u2018When I First Started Writing Songs, No One Cared!\u2019",
+      "url": "https://variety.com/2026/music/news/stella-lefty-boston-sudden-fame-1236836537/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836769",
+      "title": "SXSW Sets Podcast Festival, Locals-Only Perks and Changes in Music Venues for 2027 Event in Austin",
+      "url": "https://variety.com/2026/film/news/sxsw-podcast-austin-perks-1236836769/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837122",
+      "title": "North Korea-Focused Film Fund Bearing North Launches With \u2018School for Defectors\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/north-korea-stories-new-film-fund-bearing-north-1236837122/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "XDwwN6SnghVCyHBNVTUXvV",
+      "title": "Star Wars: Galactic Racer has some of the best crashes I've seen in a long time, but with custom builds that incentivize checking yourself before you wreck yourself",
+      "url": "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-has-some-of-the-best-crashes-ive-seen-in-a-long-time-but-with-custom-builds-that-incentivize-checking-yourself-before-you-wreck-yourself/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204960",
+      "title": "TMNT: Splintered Fate Ver. 2.0 Update Caps Off The Main Story With A New Final Boss",
+      "url": "https://www.nintendolife.com/news/2026/08/tmnt-splintered-fate-ver-2-0-update-caps-off-the-main-story-with-a-new-final-boss",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205116",
+      "title": "Crazy Taxi's Gena Now Looks Like a Life Is Strange NPC on PS5",
+      "url": "https://www.pushsquare.com/news/2026/08/crazy-taxis-gena-now-looks-like-a-life-is-strange-npc-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121260",
+      "title": "Trails in the Sky 1st Chapter Legacy Patch Prepares for 2nd Chapter",
+      "url": "https://www.siliconera.com/trails-in-the-sky-1st-chapter-legacy-patch-prepares-for-2nd-chapter/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205106",
+      "title": "Review: Retroid Pocket Nova - The New Retro Emulation Handheld To Beat",
+      "url": "https://www.timeextension.com/reviews/retroid-pocket-nova-the-new-retro-emulation-handheld-to-beat",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1069335",
+      "title": "Teenage Mutant Ninja Turtles: Splintered Fate DLC character Slash now available alongside \u2018King\u2019s Gambit\u2019 update",
+      "url": "https://www.gematsu.com/2026/08/teenage-mutant-ninja-turtles-splintered-fate-dlc-character-slash-now-available-alongside-kings-gambit-update",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:00:50+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1069827",
+      "title": "Time management mystery adventure game Trainwatch to be published by 11 bit studios",
+      "url": "https://www.gematsu.com/2026/08/time-management-mystery-adventure-game-trainwatch-to-be-published-by-11-bit-studios",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T15:00:39+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751387",
+      "title": "Lanterns TV Show Co-Creator Tom King Says Hal Jordan\u2019s Death Was Designed to Solve a Superman Mystery",
+      "url": "https://otakukart.com/lanterns-tv-show-co-creator-tom-king-says-hal-jordans-death-was-designed-to-solve-a-superman-mystery/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:57:57+00:00"
     }
   ]
 }
