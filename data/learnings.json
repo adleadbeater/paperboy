@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Supermassive Games laying off up to 75 people, hitting the studio behind Until Dawn and Little Nightmares 3",
-      "tag": "supermassive games",
-      "posted_at": "2026-08-11T13:31:41.080216+00:00",
-      "urls": [
-        "https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs"
-      ],
-      "article_titles": [
-        "Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs"
-      ]
-    },
-    {
-      "headline": "Terraria's Biggest Mod Shuts Down After 10 Years Over Grooming Allegations and 'Irrecoverably Tainted Reputation'",
-      "tag": "terraria",
-      "posted_at": "2026-08-11T14:01:00.131723+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/survival-crafting/after-10-years-terrarias-biggest-mod-shuts-down-due-to-an-irrecoverably-tainted-reputation-and-grooming-allegations/"
-      ],
-      "article_titles": [
-        "After 10 years, Terraria's biggest mod shuts down due to an 'irrecoverably tainted reputation' and grooming allegations"
-      ]
-    },
-    {
       "headline": "Overwatch Is Finally Killing Its Most Annoying FOMO Systems",
       "tag": "overwatch",
       "posted_at": "2026-08-11T14:09:40.077571+00:00",
@@ -1269,6 +1247,19 @@
         "Xbox Game Pass Reveals Its Next Wave Of August 2026 Games",
         "Xbox Game Pass Is Losing The Witcher 3 And Several More Games In August"
       ]
+    },
+    {
+      "headline": "Fired Rockstar workers urge fans not to boycott GTA 6 \u2014 buy a shirt and fund their legal fight instead",
+      "tag": "gta 6",
+      "posted_at": "2026-08-18T14:01:11.857237+00:00",
+      "urls": [
+        "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
+        "https://www.gamesradar.com/games/grand-theft-auto/dont-boycott-gta-6-fired-rockstar-devs-say-support-our-legal-battle-instead-and-win-justice-for-the-people-who-helped-make-it/"
+      ],
+      "article_titles": [
+        "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead",
+        "\"Don\u2019t boycott GTA 6,\" fired Rockstar devs say: \"Support our legal battle instead\" and \"win justice for the people who helped make it\""
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1745,6 +1736,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-18T13:23:14+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
+      "title": "Don't boycott Grand Theft Auto 6, say workers fired by Rockstar - buy a T-shirt to help fund the legal battle instead",
+      "url": "https://www.eurogamer.net/rockstar-workers-dont-boycott-grand-theft-auto-6-support-union-costs",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:27:24+00:00"
+    },
+    {
+      "guid": "efSn7Uu6RrEatnNk2zd3Wj",
+      "title": "Star Wars: Galactic Racer's multiplayer 'tour' mode is a chaotic arcade racer spliced with a MOBA, and that somehow works brilliantly",
+      "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-multiplayer-tour-mode-is-a-chaotic-arcade-racer-spliced-with-a-moba-and-that-somehow-works-brilliantly/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:57:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837104",
+      "title": "Nicolas Altmayer, Beloved French Producer Behind \u2018OSS 117,\u2019 and Dior Executive Mathilde Favier Die in Car Crash",
+      "url": "https://variety.com/2026/film/global/nicolas-altmayer-dead-car-crash-mathilde-favier-1236837104/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:59:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837039",
+      "title": "War Child U.K. Kicks Off Secret 7\u2033 Record Auction, Featuring Tracks From John Lennon, the Last Dinner Party, Glass Animals and More",
+      "url": "https://variety.com/2026/music/global/war-child-uk-secret-7-record-auction-1236837039/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:43:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837083",
+      "title": "Oasis Documentary Trailer Takes Fans Behind the Scenes of Band\u2019s Dramatic Reunion: \u2018Will It Fall Apart Again?\u2019",
+      "url": "https://variety.com/2026/film/global/oasis-documentary-trailer-dont-look-back-in-anger-1236837083/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:33:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834163",
+      "title": "\u2018Toxic\u2019 Season 2, Hosted by Elizabeth Chambers, Sets Investigation Discovery Premiere Date, Unveils First Trailer (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/toxic-season-2-trailer-elizabeth-chambers-id-series-premiere-date-1236834163/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675999",
+      "title": "Culinary Talent Eitan Bernath Signs With CAA (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/eitan-bernath-signs-caa-1236675999/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:51:51+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675982",
+      "title": "Hayden Panettiere Was \u201cReally Lonely\u201d While Filming Final Movie, Co-Star Says",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hayden-panettiere-final-movie-1236675982/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-18T13:45:38+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205102",
+      "title": "A Brand New Mega Man X Fan Game Just Launched, With A Brilliant Original Soundtrack & 8 New Bosses",
+      "url": "https://www.timeextension.com/news/2026/08/a-brand-new-mega-man-x-fan-game-just-launched-with-a-brilliant-original-soundtrack-and-8-new-bosses",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751356",
+      "title": "Bethesda Says Fallout 4 Players Should Back Up Saves Before New Update Risks Breaking Mods",
+      "url": "https://otakukart.com/bethesda-says-fallout-4-players-should-back-up-saves-before-new-update-risks-breaking-mods/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-18T13:49:45+00:00"
     }
   ]
 }
