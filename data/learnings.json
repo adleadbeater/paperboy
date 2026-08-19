@@ -1,54 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "DC Studios Scraps Amanda Waller Series and Wonder Woman Prequel Paradise Lost",
-      "tag": "dc studios",
-      "posted_at": "2026-08-12T19:30:56.465651+00:00",
-      "urls": [
-        "https://variety.com/2026/tv/news/amanda-waller-series-wonder-woman-paradise-lost-dc-studios-1236833212/",
-        "https://www.gamesradar.com/entertainment/dc-tv-shows/dcus-waller-and-wonder-woman-show-paradise-lost-have-reportedly-been-scrapped-but-lanterns-may-get-a-second-season/"
-      ],
-      "article_titles": [
-        "Amanda Waller Series, Wonder Woman Prequel \u2018Paradise Lost\u2019 No Longer in Active Development at DC Studios",
-        "DCU's Waller and Wonder Woman show Paradise Lost have reportedly been scrapped, but Lanterns may get a second season"
-      ]
-    },
-    {
-      "headline": "Immortality Creator Sam Barlow Reveals Sci-Fi Horror Game Precognition, a Collab With Brandon Cronenberg",
-      "tag": "precognition",
-      "posted_at": "2026-08-12T19:32:45.936718+00:00",
-      "urls": [
-        "https://www.eurogamer.net/sam-barlow-immortality-precognition-brandon-cronenberg"
-      ],
-      "article_titles": [
-        "Immortality creator Sam Barlow's new video-scouring game is sci-fi horror Precognition, a collab with filmmaker Brandon Cronenberg, in which you see and change the future"
-      ]
-    },
-    {
-      "headline": "Twitch Is Quietly Using Your Content to Train Amazon AI \u2014 And Hiding the Opt-Out",
-      "tag": "twitch",
-      "posted_at": "2026-08-12T20:00:57.622391+00:00",
-      "urls": [
-        "https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891"
-      ],
-      "article_titles": [
-        "Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out"
-      ]
-    },
-    {
-      "headline": "Kingdom Hearts Gets a Disney D23 Panel Featuring Sora and Riku's Voice Actors",
-      "tag": "kingdom hearts",
-      "posted_at": "2026-08-12T20:29:16.392130+00:00",
-      "urls": [
-        "https://www.siliconera.com/disney-d23-kingdom-hearts-panel-features-sora-and-riku-voice-actors/",
-        "https://www.siliconera.com/disney-d23-kingdom-hearts-panel-features-sora-and-riku-voice-actors/"
-      ],
-      "article_titles": [
-        "Disney D23 Kingdom Hearts Panel Features Sora and Riku Voice Actors",
-        "Disney D23 Kingdom Hearts Panel Features Sora and Riku Voice Actors"
-      ]
-    },
-    {
       "headline": "Take-Two won't reveal GTA 6 preorder numbers because it says the scale is unprecedented",
       "tag": "gta 6",
       "posted_at": "2026-08-12T23:07:22.481984+00:00",
@@ -1198,35 +1150,26 @@
       "article_titles": [
         "Dire Forecast Predicts 39 Million Fewer Consoles Sold If PS6 And Xbox Helix Are $1,000"
       ]
+    },
+    {
+      "headline": "Naughty Dog's The Last of Us Online Wasn't a Side Project \u2014 It Was the Studio's Main Focus Before Being Scrapped",
+      "tag": "the last of us",
+      "posted_at": "2026-08-19T21:14:10.190033+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-last-of-us-online-was-not-a-side-project-majority-of-intergalactics-team-came-over-after-multiplayer-game-was-scrapped",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vsudrm/jason_schreier_intergalactic_did_not_have_the/",
+        "https://www.pushsquare.com/news/2026/08/majority-of-naughty-dog-was-working-on-the-last-of-us-online-before-it-was-cancelled"
+      ],
+      "article_titles": [
+        "The Last of Us Online Was Not a 'Side Project,' Majority of Intergalactic's Team Came Over After Multiplayer Game Was Scrapped",
+        "Jason Schreier: Intergalactic did not have the majority of staff until after Last of Us Online was cancelled, and then most people on the studio came over to work on Intergalactic.",
+        "Majority of Naughty Dog Was Working on The Last of Us Online Before It Was Cancelled"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "b54f42a9-b168-4768-8c41-8545b43034ef",
-      "title": "Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade",
-      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-will-fix-issues-that-have-plagued-the-series-for-the-better-part-of-a-decade",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T17:03:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838334",
-      "title": "Some U.S. Army Members Are Being Offered Four Days Off to Play \u2018GTA 6\u2019 if They Reenlist for at Least Two Years",
-      "url": "https://variety.com/2026/gaming/news/gta-6-us-army-four-day-pass-reenlistment-incentive-1236838334/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T17:08:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837654",
-      "title": "How \u2018Spider-Noir\u2019s\u2019 Artisans Created a Modern Noir Sonic Environment",
-      "url": "https://variety.com/2026/artisans/news/spider-noir-score-soundtrack-1236837654/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T17:08:06+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237045316",
       "title": "Warner Bros Locking Down Film Rights To Allen Levi Bestseller \u2018Theo Of Golden\u2019 With Tom Hanks To Star",
@@ -1962,6 +1905,46 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-19T21:00:00+00:00"
+    },
+    {
+      "guid": "aef0f9be-188f-4d98-b5cf-12cd023642bd",
+      "title": "The Last of Us Online Was Not a 'Side Project,' Majority of Intergalactic's Team Came Over After Multiplayer Game Was Scrapped",
+      "url": "https://www.ign.com/articles/the-last-of-us-online-was-not-a-side-project-majority-of-intergalactics-team-came-over-after-multiplayer-game-was-scrapped",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T21:03:39+00:00"
+    },
+    {
+      "guid": "6fd44634-da49-40e8-ac85-7bbb83358a30",
+      "title": "Winnie the Pooh's Voice Actor Isn't Happy About Getting Snubbed by Disney's Hall of Legends",
+      "url": "https://www.ign.com/articles/winnie-the-poohs-voice-actor-isnt-happy-about-getting-snubbed-by-disneys-hall-of-legends",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T20:41:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237045521",
+      "title": "Decision On Paramount\u2019s $1.88B WBD Merger Bond Pushed Close To Ticking Fee Start Date; L.A. County Report Again Predicts Big Job Losses If Deal Goes Through",
+      "url": "https://deadline.com/2026/08/paramount-merger-suit-bond-ruling-latest-1237045521/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T21:05:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838299",
+      "title": "\u2018Even Stevens\u2019 Star Christy Carlson Romano Says \u2018Early Fame Is Like CTE\u2019 After Hayden Panettiere\u2019s Death: \u2018Another Performer I Grew Up With, Gone Too Soon\u2019",
+      "url": "https://variety.com/2026/tv/news/christy-carlson-romano-hayden-panettiere-death-child-fame-cte-even-stevens-1236838299/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T21:09:46+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838567",
+      "title": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
+      "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-la-job-loss-production-1236838567/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T21:02:04+00:00"
     }
   ]
 }
