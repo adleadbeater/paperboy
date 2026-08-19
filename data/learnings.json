@@ -1204,14 +1204,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000725851",
-      "title": "Gaming Legends Behind Deus Ex And Dishonored Launch A New Immersive Sim Studio During An Industry Apocalypse",
-      "url": "https://kotaku.com/black-pony-immersive-dishonored-deus-ex-new-studio-prey-2000725851",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T15:33:40+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237045210",
       "title": "Nicolas Cage To Play Nuclear Apocalypse Survivor Battling Vicious Cannibals In Action-Thriller \u2018Parish\u2019 \u2014 TIFF Market",
       "url": "https://deadline.com/2026/08/nicolas-cage-to-battle-cannibals-in-action-movie-parish-1237045210/",
@@ -1220,60 +1212,12 @@
       "published_dt": "2026-08-19T15:46:29+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237045198",
-      "title": "Dutch Kids TV Classic \u2018De Fabeltjeskrant\u2019 Getting International Revival",
-      "url": "https://deadline.com/2026/08/de-fabeltjeskrant-international-revival-cgi-series-1237045198/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T15:40:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837576",
-      "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 to Rule in Fourth Weekend, \u2018Insidious: Out of the Further\u2019 Aims for $25 Million Debut",
-      "url": "https://variety.com/2026/film/box-office/box-office-spider-man-brand-new-day-to-beat-insidious-6-1236837576/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T15:40:34+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838239",
-      "title": "Julie Andrews to Narrate Jane Austen\u2019s \u2018Emma\u2019 for Noiser Podcast Network (EXCLUSIVE)",
-      "url": "https://variety.com/2026/digital/global/julie-andrews-narrate-jane-austen-emma-1236838239/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T15:39:52+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236647049",
-      "title": "A Con Artist With a Conscience: Apple TV\u2019s \u2018Lucky\u2018 Preserves the Novel\u2019s Central Identity Crisis",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/lucky-author-finale-book-season-two-1236647049/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T15:45:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676414",
-      "title": "\u2018Lanterns\u2019 Showrunner Chris Mundy Talks James Gunn\u2019s Hands-Off Approach: \u201cWe Weren\u2019t Shoehorned Into Anything\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-season-2-james-gunn-1236676414/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T15:36:37+00:00"
-    },
-    {
       "guid": "yyGC27UvqidABJVYk8Z5NM",
       "title": "Studio Ghibli is in no rush to make its next movie and only engaging in \"casual\" discussions: \"It's very unpredictable\"",
       "url": "https://www.gamesradar.com/entertainment/anime-movies/studio-ghibli-is-in-no-rush-to-make-its-next-movie-and-only-engaging-in-casual-discussions-its-very-unpredictable/",
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-19T15:47:24+00:00"
-    },
-    {
-      "guid": "zzQGxP3QLCd4z45v6PFPza",
-      "title": "I thought digital-only games would stop leaks, but GTA 6 just proved me wrong",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/i-thought-digital-only-games-would-stop-leaks-but-gta-6-just-proved-me-wrong/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T15:42:35+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237045194",
@@ -2178,6 +2122,62 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-19T19:22:09+00:00"
+    },
+    {
+      "guid": "F78o8qLWs5jJXw9AYyQ9yi",
+      "title": "Stop Killing Games distances itself from GTA 6 leak manifesto: 'Using illegal means to make a point is unacceptable to us'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/stop-killing-games-distances-itself-from-gta-6-leak-manifesto-using-illegal-means-to-make-a-point-is-unacceptable-to-us/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T19:34:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675791",
+      "title": "\u2018DTF St. Louis\u2019 Boss Explains How \u2013 and Why \u2013 He Pulled Off That Cringe Rap Scene",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/dtf-st-louis-boss-explains-rap-scene-1236675791/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T19:30:00+00:00"
+    },
+    {
+      "guid": "fSsox8hiWFvRuEuYMTSmPU",
+      "title": "\"If people weren't playing No Man's Sky, I don't think we would want to do updates,\" says Sean Murray, but he'd probably try to sneak in more content years later anyway",
+      "url": "https://www.gamesradar.com/games/survival/if-people-werent-playing-no-mans-sky-i-dont-think-we-would-want-to-do-updates-says-sean-murray-but-hed-probably-try-to-sneak-in-more-content-years-later-anyway/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T19:36:26+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205188",
+      "title": "Majority of Naughty Dog Was Working on The Last of Us Online Before It Was Cancelled",
+      "url": "https://www.pushsquare.com/news/2026/08/majority-of-naughty-dog-was-working-on-the-last-of-us-online-before-it-was-cancelled",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T19:15:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751687",
+      "title": "Jeong Eun Ji Prepares to Light Up Asia with Her Vibrant \u201cSUMMER, I\u201d Solo Concert Tour",
+      "url": "https://otakukart.com/jeong-eun-ji-prepares-to-light-up-asia-with-her-vibrant-summer-i-solo-concert-tour/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T19:36:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751692",
+      "title": "(G)I-DLE\u2019s Soyeon Prepares for Highly Anticipated Solo Return in Early September",
+      "url": "https://otakukart.com/gi-dles-soyeon-prepares-for-highly-anticipated-solo-return-in-early-september/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T19:32:56+00:00"
+    },
+    {
+      "guid": "t3_1vswoiz",
+      "title": "The \u201cpoll\u201d section opened briefly. Seems like there\u2019s new clips to come early tomorrow morning. [GTA VI]",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vswoiz/the_poll_section_opened_briefly_seems_like_theres/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T19:35:02+00:00"
     }
   ]
 }
