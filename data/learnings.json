@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Epic Games Has Sold ArtStation, and the Creative Community Is Relieved",
-      "tag": "artstation",
-      "posted_at": "2026-08-12T15:01:09.375081+00:00",
-      "urls": [
-        "https://kotaku.com/epic-artstation-fortnite-unreal-sold-sketchfab-kitbash3d-2000723775"
-      ],
-      "article_titles": [
-        "Epic Sells ArtStation And Users Are Already Thrilled: \u2018Free From Epic And Their Love Of AI Slop\u2019"
-      ]
-    },
-    {
       "headline": "Amazon Is Getting Out of the MMO Business \u2014 Handing Lost Ark and Throne and Liberty Back to Their Developers",
       "tag": "amazon games",
       "posted_at": "2026-08-12T16:15:09.442135+00:00",
@@ -1222,27 +1211,24 @@
         "Ewan McGregor wants to return as Obi-Wan so much that he cornered Star Wars boss Dave Filoni on the set of Ahsoka: \"There's got to be something\"",
         "Ewan McGregor Says Next Obi-Wan Kenobi Project Could Be Tracking Down Yoda or a \u2018Big Love Story\u2019 With Wife Mary Elizabeth Winstead\u2019s \u2018Ahsoka\u2019 Character: \u2018There\u2019s Got to Be Something\u2019"
       ]
+    },
+    {
+      "headline": "The Binding of Isaac: Repentance+ Online Launches the Same Day as GTA 6, and That's Extremely Bold",
+      "tag": "the binding of isaac: repentance+",
+      "posted_at": "2026-08-19T16:01:19.728789+00:00",
+      "urls": [
+        "https://www.siliconera.com/the-binding-of-isaac-repentance-online-launches-on-gta-vi-release-day/",
+        "https://www.pushsquare.com/news/2026/08/the-binding-of-isaac-repentanceplus-online-is-the-only-game-brave-enough-to-launch-the-same-day-as-gta-6"
+      ],
+      "article_titles": [
+        "The Binding of Isaac: Repentance + Online Launches on GTA VI Release Day",
+        "The Binding of Isaac: Repentance+ Online Is the Only Game Brave Enough to Launch the Same Day as GTA 6"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "8328aacf-a03b-4c5c-b4c8-a34b1243ff90",
-      "title": "It Ends Review",
-      "url": "https://www.ign.com/articles/it-ends-movie-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
-      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6",
-      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T11:59:42+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237045141",
       "title": "\u2018Club Kid\u2019 Trailer: Jordan Firstman Is A Messy Father In His Buzzy Directorial Debut",
@@ -1276,22 +1262,6 @@
       "published_dt": "2026-08-19T12:14:37+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236836519",
-      "title": "Producers Scout for K-pop Talent With U.S. Appeal During KCON Fan Festival in Los Angeles",
-      "url": "https://variety.com/2026/tv/news/girls-planet-2027-kim-sinyoung-kcon-music-tv-1236836519/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T12:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837607",
-      "title": "\u2018Club Kid\u2019 Trailer: Jordan Firstman Is a Party Promoter With a Surprise Son in His A24 Cannes Sensation",
-      "url": "https://variety.com/2026/film/news/club-kid-trailer-a24-jordan-firstman-cannes-1236837607/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T12:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236676903",
       "title": "Busan Film Festival Sets Kim Jong-kwan\u2019s \u2018The Table: Day and Night\u2019 as Opening Film",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/busan-film-festival-kim-jong-kwans-the-table-day-and-night-opening-film-1236676903/",
@@ -1300,44 +1270,12 @@
       "published_dt": "2026-08-19T12:14:01+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-205151",
-      "title": "Poll: Did You Get Into The Duskbloods Switch 2 Beta Test?",
-      "url": "https://www.nintendolife.com/features/poll-did-you-get-into-the-duskbloods-switch-2-beta-test",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205156",
-      "title": "'I Don't Understand If It's Such a Big Issue': Shuhei Yoshida Isn't Too Bothered About No More Discs",
-      "url": "https://www.pushsquare.com/news/2026/08/i-dont-understand-if-its-such-a-big-issue-shuhei-yoshida-isnt-too-bothered-about-no-more-discs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205148",
-      "title": "\"The Best News Of The Year\" - Panzer Dragoon Is Being Unofficially Ported To Dreamcast",
-      "url": "https://www.timeextension.com/news/2026/08/the-best-news-of-the-year-panzer-dragoon-is-being-unofficially-ported-to-dreamcast",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T12:00:00+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1069679",
       "title": "Baptiste launches this fall for PS5, Xbox Series, Switch 2, and PC",
       "url": "https://www.gematsu.com/2026/08/baptiste-launches-this-fall-for-ps5-xbox-series-switch-2-and-pc",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-19T12:00:53+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751524",
-      "title": "Crunchyroll Removes Physical Manga and Light Novels From Its Online Store",
-      "url": "https://otakukart.com/crunchyroll-removes-physical-manga-and-light-novels-from-its-online-store/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T11:54:11+00:00"
     },
     {
       "guid": "b8041c7b-8d88-4878-849b-ff7fc61f5922",
@@ -2306,6 +2244,70 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-19T15:42:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237045194",
+      "title": "\u2018Insidious: Out Of The Further\u2019 Review: Hit Horror Franchise Returns With A New Family And PG13 Zombie Twist That Feels A Bit Stale",
+      "url": "https://deadline.com/2026/08/insidious-out-of-the-further-review-hit-franchise-returns-1237045194/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837558",
+      "title": "\u2018Building the Band\u2019 Group Soulidified Signs to Atlantic Records (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/soulidified-signs-to-atlantic-records-building-the-band-1236837558/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838138",
+      "title": "Netflix Buys Wu-Tang Clan Doc \u2018The Disciple\u2019 Directed by Joanna Natasegara (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/netflix-buys-wu-tang-clan-doc-the-disciple-1236838138/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838209",
+      "title": "Nielsen Makes New Bid to Capture \u2018Co-Viewing\u2019 as  TV Season Approaches",
+      "url": "https://variety.com/2026/tv/news/nielsen-co-viewing-tv-ratings-1236838209/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676535",
+      "title": "Nielsen Rolls Out Suite of TV Ratings Updates for 2026-27 Season",
+      "url": "https://www.hollywoodreporter.com/business/business-news/nielsen-tv-ratings-changes-2026-27-season-1236676535/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676808",
+      "title": "\u2018Wild Horse Nine\u2019 to Open Mill Valley Film Festival With Star Sam Rockwell Set for Tribute (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/wild-horse-nine-sam-rockwell-mill-valley-film-festival-1236676808/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121322",
+      "title": "The Binding of Isaac: Repentance + Online Launches on GTA VI Release Day",
+      "url": "https://www.siliconera.com/the-binding-of-isaac-repentance-online-launches-on-gta-vi-release-day/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205159",
+      "title": "Against All Odds, The Janky Soviet-Themed FPS 'You Are Empty' Is Coming Back Later This Year, New & Improved",
+      "url": "https://www.timeextension.com/news/2026/08/against-all-odds-the-janky-soviet-themed-fps-you-are-empty-is-coming-back-later-this-year-new-and-improved",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T16:00:00+00:00"
     }
   ]
 }
