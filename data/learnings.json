@@ -1206,14 +1206,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "b8041c7b-8d88-4878-849b-ff7fc61f5922",
-      "title": "Tides of Annihilation is a Stylish King Arthur-Inspired Slash \u2018Em Up that Balances Spectacle with Substance | IGN Preview",
-      "url": "https://www.ign.com/articles/tides-of-annihilation-is-a-stylish-king-arthur-inspired-slash-em-up-that-balances-spectacle-with-substance-ign-preview",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000725804",
       "title": "Fans Debate Whether GTA 6 Looks \u2018Mid\u2019 In New Alleged Leak As Insider Claims It\u2019s From More Than A Year Ago",
       "url": "https://kotaku.com/fans-debate-whether-gta-6-looks-mid-in-new-alleged-leak-as-insider-claims-its-from-more-than-a-year-ago-2000725804",
@@ -1222,76 +1214,12 @@
       "published_dt": "2026-08-19T13:07:24+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237044411",
-      "title": "Jo Koy Sets Sixth Netflix Comedy Special \u2018Blue In The Face\u2019",
-      "url": "https://deadline.com/2026/08/jo-koy-new-netflix-special-premiere-date-blue-in-the-face-1237044411/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237045046",
-      "title": "Zero Gravity Management Signs Horror Director Alex Kahuam",
-      "url": "https://deadline.com/2026/08/zero-gravity-management-signs-alex-kahuam-1237045046/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236838121",
       "title": "Hook, An AI-Powered Music Remixing App, Strikes UMG Deal as It Takes Social-Forward Approach to Fan-Created Remixes",
       "url": "https://variety.com/2026/digital/news/hook-ai-powered-music-remixing-app-strikes-umg-deal-1236838121/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-19T13:10:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837057",
-      "title": "\u2018Mutiny\u2019 Review: Jason Statham Dies Hard on a Cargo Ship in a Thriller of Impeccable Bring-the-Pain Timing",
-      "url": "https://variety.com/2026/film/reviews/mutiny-review-jason-statham-1236837057/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:00:29+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837684",
-      "title": "Bloomberg Media Sets Interview Series \u2018Post Credits\u2019 Hosted by Ian Schafer (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/bloomberg-media-post-credits-ian-schafer-1236837684/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676401",
-      "title": "Wild! Mattel Sets UNO Card-Game Competition Series to Stream on Twitch",
-      "url": "https://www.hollywoodreporter.com/news/general-news/mattel-uno-card-game-competition-twitch-stream-1236676401/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205032",
-      "title": "Preview: 6 Ways PS5's Tides of Annihilation Blew Me Away After 2 Hours of Play",
-      "url": "https://www.pushsquare.com/previews/6-ways-ps5s-tides-of-annihilation-blew-me-away-after-2-hours-of-play",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205164",
-      "title": "PlayStation Scaling Back Horizon Live Service PS5 Game as Sony Failures Continue",
-      "url": "https://www.pushsquare.com/news/2026/08/playstation-scaling-back-horizon-live-service-ps5-game-as-sony-failures-continue",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T12:55:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121232",
-      "title": "Genshin Impact 7.0 Offers Valuable Answers",
-      "url": "https://www.siliconera.com/genshin-impact-7-0-offers-valuable-answers/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1069835",
@@ -2460,6 +2388,38 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-19T16:31:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237044181",
+      "title": "Vertical Video Economy Worth $150B, Even Without China \u2013 Owl & Co Report",
+      "url": "https://deadline.com/2026/08/vertical-video-economy-value-owl-and-co-report-1237044181/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836744",
+      "title": "\u2018It Finally Feels Like We\u2019re Back in 2019\u2019: Movie Theater Owners Rejoice Over $4 Billion Summer. Can the Fall Keep the Momentum?",
+      "url": "https://variety.com/2026/film/box-office/movie-theater-owners-summer-box-office-fall-films-1236836744/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121327",
+      "title": "Terranigma Might Appear at Pixel Arcadia Showcase",
+      "url": "https://www.siliconera.com/terranigma-might-appear-at-pixel-arcadia-showcase/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T17:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vss6l4",
+      "title": "A fourth GTA 6 gameplay clip has leaked",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vss6l4/a_fourth_gta_6_gameplay_clip_has_leaked/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T16:57:05+00:00"
     }
   ]
 }
