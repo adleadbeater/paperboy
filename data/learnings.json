@@ -1206,28 +1206,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service",
-      "title": "Horizon Hunters Gathering is reportedly no longer a live service game following negative feedback",
-      "url": "https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:43:57+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000725838",
       "title": "Rockstar Games Still Silent As Even More GTA 6 Gameplay Leaks",
       "url": "https://kotaku.com/rockstar-games-still-silent-as-even-more-gta-6-gameplay-leaks-2000725838",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-19T13:58:46+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000725805",
-      "title": "Everyone Hates AI So Much, Jason Kelce Is Telling Beer Drinkers To Send Jars Of Their Piss To Data Centers",
-      "url": "https://kotaku.com/liquid-death-garage-beer-ad-send-us-your-pee-ai-data-centers-jason-kelce-2000725805",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:30:35+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237044845",
@@ -1262,14 +1246,6 @@
       "published_dt": "2026-08-19T14:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236838097",
-      "title": "Steven Soderbergh Teams With British Arthouse Chain Everyman, Singani 63 on \u2018A Man Under the Influence\u2019 London Screening Series (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/steven-soderbergh-a-man-under-the-influence-london-1236838097/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:34:50+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236676915",
       "title": "David E. Kelley Gets Into Live Streaming \u2014\u00a0Salmon Included",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/david-e-kelley-nature-series-live-migrations-1236676915/",
@@ -1286,28 +1262,12 @@
       "published_dt": "2026-08-19T13:50:34+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676894",
-      "title": "Dina Duma\u2019s \u2018Skateboarding Is Not for Girls\u2019 Is About Much More Than Just Skateboarding",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/dina-duma-skateboarding-is-not-for-girls-film-sarajevo-fest-1236676894/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:35:38+00:00"
-    },
-    {
       "guid": "6QkFXmDALmFfz2A77Qdx3j",
       "title": "Grow a Chicken Fighter codes (August 2026) for Cash, Eggs, and Boosts",
       "url": "https://www.gamesradar.com/games/simulation/grow-a-chicken-fighter-codes/",
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-19T13:54:12+00:00"
-    },
-    {
-      "guid": "1855052",
-      "title": "Pokemon Krispy Kreme Boxes Are Being Listed For Ridiculous Sums Of Money",
-      "url": "https://www.gamespot.com/articles/pokemon-krispy-kreme-boxes-are-being-listed-for-ridiculous-sums-of-money/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:43:10+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121297",
@@ -1332,30 +1292,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-19T13:56:36+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751546",
-      "title": "Assassin\u2019s Creed Veteran Says AC2 Originally Covered Ezio\u2019s Story Through His Rise as Mentor",
-      "url": "https://otakukart.com/assassins-creed-veteran-says-ac2-originally-covered-ezios-story-through-his-rise-as-mentor/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:36:35+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751544",
-      "title": "Tom Holland Could Earn Over $100 Million From Spider-Man: Brand New Day Thanks to Uncapped Bonus Deal",
-      "url": "https://otakukart.com/tom-holland-could-earn-over-100-million-from-spider-man-brand-new-day-thanks-to-uncapped-bonus-deal/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:32:33+00:00"
-    },
-    {
-      "guid": "t3_1vsmors",
-      "title": "More GTA VI gameplay got leaked",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vsmors/more_gta_vi_gameplay_got_leaked/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:37:27+00:00"
     },
     {
       "guid": "t3_1vsmzsl",
@@ -2492,6 +2428,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-19T17:24:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237045399",
+      "title": "Mighty Aphrodite Pictures Behind Drama About Life & Legacy Of Slain U.S. Army Specialist Vanessa Guill\u00e9n",
+      "url": "https://deadline.com/2026/08/vanessa-guillen-army-soldier-subject-of-new-film-1237045399/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:35:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838202",
+      "title": "\u2018Slow Horses\u2019 Actor Jack Lowden Unpacks River Cartwright and Why Pride Gets in His Way",
+      "url": "https://variety.com/2026/awards/news/slow-horses-actor-jack-lowden-river-cartwright-season-5-1236838202/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677104",
+      "title": "David Krumholtz Clarifies Status of Acting Career After Shocking Announcement: \u201cLet it Heal\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-acting-career-on-hold-announcement-retirement-1236677104/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:39:59+00:00"
+    },
+    {
+      "guid": "1855391",
+      "title": "Army Unit Gives Soldiers 4-Day Pass To Play GTA 6 If They Re-Enlist",
+      "url": "https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T17:36:01+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205187",
+      "title": "'Tiny Team' Working on Next Horizon Single Player Game, Years Away from Release",
+      "url": "https://www.pushsquare.com/news/2026/08/tiny-team-working-on-next-horizon-single-player-game-years-away-from-release",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T17:45:00+00:00"
     }
   ]
 }
