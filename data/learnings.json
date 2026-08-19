@@ -1206,22 +1206,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "1853694",
-      "title": "Dishonored Director Announces New Studio, And Fans Should Be Very Excited",
-      "url": "https://www.gamespot.com/articles/dishonored-director-announces-new-studio-and-fans-should-be-very-excited/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:27:00+00:00"
-    },
-    {
-      "guid": "1855039",
-      "title": "Horizon Multiplayer Game Being Rebooted To Remove Live-Service, Next Mainline Horizon Game \u201cYears Away,\u201d Report Says",
-      "url": "https://www.gamespot.com/articles/horizon-multiplayer-game-being-rebooted-to-remove-live-service-next-mainline-horizon-game-years-away-report-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:17:49+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service",
       "title": "Horizon Hunters Gathering is reportedly no longer a live service game following negative feedback",
       "url": "https://www.eurogamer.net/horizon-hunters-gathering-reboot-away-live-service",
@@ -1244,14 +1228,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-19T13:30:35+00:00"
-    },
-    {
-      "guid": "KhRJpBCxdh3b5buRuEeCGg",
-      "title": "Keychron K8 Ultra 8K review",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/keychron-k8-ultra-8k-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T13:29:22+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237044845",
@@ -1332,14 +1308,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-19T13:43:10+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205167",
-      "title": "Hellraiser: Revival Confirmed For Switch 2, Launching October 2026",
-      "url": "https://www.nintendolife.com/news/2026/08/hellraiser-revival-confirmed-for-switch-2-launching-october-2026",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T13:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121297",
@@ -2444,6 +2412,86 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-19T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237045316",
+      "title": "Warner Bros Locking Down Film Rights To Allen Levi Bestseller \u2018Theo Of Golden\u2019 With Tom Hanks To Star",
+      "url": "https://deadline.com/2026/08/theo-of-golden-movie-tom-hanks-1237045316/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018779",
+      "title": "All The Songs In \u2018Ted Lasso\u2019 Season 4 So Far",
+      "url": "https://deadline.com/feature/ted-lasso-season-4-songs-soundtrack-1237018779/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:28:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837738",
+      "title": "\u2018Widow\u2019s Bay\u2019 and Other Contenders Continue to Complicate Emmy\u2019s Comedy Conundrum",
+      "url": "https://variety.com/2026/tv/awards/widows-bay-emmys-comedy-contenders-conundrum-1236837738/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838385",
+      "title": "Yash\u2019s \u2018Toxic\u2019 Unveils English-Language Trailer",
+      "url": "https://variety.com/2026/film/news/yash-toxic-english-trailer-1236838385/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:15:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838350",
+      "title": "David Harbour Talks Learning ASL for \u2018DTF St. Louis,\u2019 Shares a Line From \u2018Avengers: Doomsday\u2019 and Wants a Christopher Nolan-Directed \u2018Warcraft\u2019 Movie",
+      "url": "https://variety.com/2026/tv/awards/david-harbour-dtf-st-louis-asl-avengers-doomsday-warcraft-1236838350/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677107",
+      "title": "\u2018Good American Family\u2019 Renewed at Hulu, With Season 2 Tackling Lorena Bobbitt",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/good-american-family-renewed-hulu-lorena-bobbitt-1236677107/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T17:23:14+00:00"
+    },
+    {
+      "guid": "878QJxijuoMh6mWfXQSTgR",
+      "title": "Huge Subnautica 2 co-op patch adds proximity chat and a revive system as devs promise a \"new region\" and \"new story\" are still on the way",
+      "url": "https://www.gamesradar.com/games/survival/huge-subnautica-2-co-op-patch-adds-proximity-chat-and-a-revive-system-as-devs-promise-a-new-region-and-new-story-are-still-on-the-way/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T17:23:34+00:00"
+    },
+    {
+      "guid": "bfaaWf78GJkrz7Tas782u3",
+      "title": "EA devs feel \"the threat of layoffs at all times,\" especially after Saudi Arabia acquisition: \"It's hard to see how teams or games that underperform wouldn't be dissolved\"",
+      "url": "https://www.gamesradar.com/games/ea-devs-feel-the-threat-of-layoffs-at-all-times-especially-after-saudi-arabia-acquisition-its-hard-to-see-how-teams-or-games-that-underperform-wouldnt-be-dissolved/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T17:14:23+00:00"
+    },
+    {
+      "guid": "1855801",
+      "title": "The Original Xbox Is Back, And This Time You Have To Build It Yourself",
+      "url": "https://www.gamespot.com/articles/the-original-xbox-is-back-and-this-time-you-have-to-build-it-yourself/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T17:20:12+00:00"
+    },
+    {
+      "guid": "t3_1vssywd",
+      "title": "Gameplay details from the 4th GTA VI leaked clip",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vssywd/gameplay_details_from_the_4th_gta_vi_leaked_clip/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T17:24:34+00:00"
     }
   ]
 }
