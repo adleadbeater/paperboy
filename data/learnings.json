@@ -1245,70 +1245,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "76cc319e-76d1-405b-ae41-f7d30c61743a",
-      "title": "One of Breaking Bad's Best Episodes Is Coming to Theaters Soon",
-      "url": "https://www.ign.com/articles/one-of-breaking-bads-best-episodes-is-coming-to-theaters-soon",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T21:57:15+00:00"
-    },
-    {
-      "guid": "fd24b659-b0dc-4160-950d-53852d4210f7",
-      "title": "'Ash Is Done' \u2014 Bruce Campbell Says He Will No Longer Play Evil Dead's Ash Williams",
-      "url": "https://www.ign.com/articles/ash-is-done-bruce-campbell-says-he-will-no-longer-play-evil-deads-ash-williams",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T21:54:06+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000725370",
-      "title": "Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software",
-      "url": "https://kotaku.com/neverness-to-everness-devs-forget-to-remove-watermark-for-free-trial-of-ai-software-2000725370",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T22:00:10+00:00"
-    },
-    {
-      "guid": "iQ7Z4y4Sq22f3mFN83PhgC",
-      "title": "Industry legend Warren Spector is retiring: 'I'm feeling like I've done what I set out to do'",
-      "url": "https://www.pcgamer.com/gaming-industry/industry-legend-warren-spector-is-retiring-im-feeling-like-ive-done-what-i-set-out-to-do/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T22:03:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237044695",
-      "title": "John Irvin, Director Of \u2018Hamburger Hill\u2019 & \u2018Tinker Tailor Soldier Spy\u2019 TV Drama, Dies Aged 86",
-      "url": "https://deadline.com/2026/08/john-irvin-hamburger-hill-raw-deal-director-dies-aged-86-1237044695/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T22:03:43+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237043664",
-      "title": "Leslie Grossman Joins \u2018Power: Origins,\u2019 Returning As \u2018Raising Kanan\u2019 Character Flossie",
-      "url": "https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T21:52:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837264",
-      "title": "Hayden Panettiere \u2018Stuck Up for Background Actors When They Were Mistreated\u2019 on \u2018Heroes\u2019 Set and \u2018Knew Every Crew Members Name\u2019",
-      "url": "https://variety.com/2026/tv/news/hayden-panettiere-defended-mistreated-background-actors-heroes-set-1236837264/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T22:05:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837481",
-      "title": "How \u2018A Knight of the Seven Kingdoms,\u2019 \u2018Fallout\u2019 and \u2018Spider-Noir\u2019 Production Designers Built Out Their Worlds While Honoring the Source Material",
-      "url": "https://variety.com/2026/artisans/features/knight-seven-kingdoms-fallout-spider-noir-production-designers-1236837481/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-18T21:57:36+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236837516",
       "title": "Felicia Day, Wil Wheaton on New Tabletop Gaming Show \u2018Conludo,\u2019 How \u2018The Guild\u2019 Reunion Movie Will Be Impacted by a Denied California Tax Credit",
       "url": "https://variety.com/2026/tv/news/felicia-day-wil-wheaton-the-guild-movie-show-conludo-1236837516/",
@@ -1507,6 +1443,14 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-19T01:30:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837871",
+      "title": "\u2018Supergirl\u2019 Star David Krumholtz Posts and Deletes Plans to Retire From Acting: \u2018And Now, New Life\u2019",
+      "url": "https://variety.com/2026/film/news/david-krumholtz-posts-deletes-retire-from-acting-1236837871/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T01:43:48+00:00"
     }
   ]
 }
