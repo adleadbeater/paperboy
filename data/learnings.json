@@ -1204,44 +1204,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "WL5nhqDaCZKPrnnyXDuMVg",
-      "title": "Firefox has officially 'earned its place' on the GeForce Now supported browser list",
-      "url": "https://www.pcgamer.com/software/browsers/firefox-has-officially-earned-its-place-on-the-geforce-now-supported-browser-list/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T16:10:14+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237044854",
       "title": "\u2018Ms. Pat Show\u2019 Director Mary Lou Belli Knows Comedy Is More Than Getting A Laugh",
       "url": "https://deadline.com/2026/08/ms-pat-show-interview-season-5-1237044854/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-19T16:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837868",
-      "title": "\u2018Insidious: Out of the Further\u2019 Review: Latest Entry in the Franchise Serves Up Genuinely Terrifying Setpieces Despite a Convoluted Final Act",
-      "url": "https://variety.com/2026/film/reviews/insidious-out-of-the-further-review-1236837868/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T16:04:02+00:00"
-    },
-    {
-      "guid": "Yu4uzakCRepPLrvAe9MvDk",
-      "title": "Horizon 3 is reportedly still years away as a small team continues to plan the single-player sequel",
-      "url": "https://www.gamesradar.com/games/horizon/horizon-3-is-reportedly-still-years-away-as-a-small-team-continues-to-plan-the-single-player-sequel/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T16:03:48+00:00"
-    },
-    {
-      "guid": "NxWTVvCmsCKFmbmvFVZTub",
-      "title": "\"Think Deus Ex, think Dishonored, that's what we're doing\": Former Arkane devs reveal new studio dedicated to making single-player immersive sims",
-      "url": "https://www.gamesradar.com/games/action/think-deus-ex-think-dishonored-thats-what-were-doing-former-arkane-devs-reveal-new-studio-dedicated-to-making-single-player-immersive-sims/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-19T16:02:02+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-193256",
@@ -2130,6 +2098,46 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-19T19:59:29+00:00"
+    },
+    {
+      "guid": "d0bc5119-f8ae-40c7-98ae-e3a09c701d73",
+      "title": "Inde Navarrette Reportedly Passed Up a Role in Heat 2 for Marvel Studio's X-Men Movie",
+      "url": "https://www.ign.com/articles/inde-navarrette-reportedly-passed-up-a-role-in-heat-2-for-marvel-studios-x-men-movie",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T20:03:12+00:00"
+    },
+    {
+      "guid": "d8468c3d-21ac-471d-b5d5-f5f2f83d735d",
+      "title": "Wolverine: Origin III Explores Marvel's Controversial Prequel Arc",
+      "url": "https://www.ign.com/articles/wolverine-origin-iii-explores-marvels-controversial-prequel-arc",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T19:47:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838557",
+      "title": "\u2018Sons of Anarchy\u2019 Cast Reunites for FX Limited Series \u2018Legends\u2019",
+      "url": "https://variety.com/2026/tv/news/sons-of-anarchy-cast-reunion-fx-limited-series-legends-1236838557/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T20:03:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677153",
+      "title": "Georgian Director Ana Urushadze on Making Her Sarajevo Competition Film Before \u201cA Dead-End Situation\u201d Got Worse",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/ana-urushadze-supporting-role-georgia-sarajevo-film-1236677153/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-19T20:06:23+00:00"
+    },
+    {
+      "guid": "1855893",
+      "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash",
+      "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-19T19:54:11+00:00"
     }
   ]
 }
