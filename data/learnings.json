@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Nightdive's System Shock Remake Is Getting a Full VR Release",
-      "tag": "system shock",
-      "posted_at": "2026-08-13T22:08:29.425175+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/vr/nightdives-system-shock-remake-is-coming-to-vr/"
-      ],
-      "article_titles": [
-        "Nightdive's System Shock remake is coming to VR"
-      ]
-    },
-    {
       "headline": "Compulsion Games Quietly Takes Over South of Midnight's Steam Page, Signaling Full Xbox Split",
       "tag": "south of midnight",
       "posted_at": "2026-08-14T14:30:58.627950+00:00",
@@ -1233,75 +1222,24 @@
       "article_titles": [
         "US Army confirms it's offering 4 days to play GTA 6 to soldiers who reenlist for at least 2 years"
       ]
+    },
+    {
+      "headline": "Dave Bautista Is Now Kratos in Amazon's God of War Series",
+      "tag": "god of war",
+      "posted_at": "2026-08-20T22:13:43.277895+00:00",
+      "urls": [
+        "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
+        "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/"
+      ],
+      "article_titles": [
+        "Dave Bautista Set To Play Kratos In \u2018God Of War\u2019 As Amazon Series Recasts Lead",
+        "Dave Bautista Officially Set as Kratos in \u2018God of War\u2019 TV Series"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000726218",
-      "title": "Fortnite\u2018s Long Sonic Haunts My Nightmares",
-      "url": "https://kotaku.com/fortnite-sonic-skin-ugly-sega-sonic-the-hedgehog-2000726218",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T17:50:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677846",
-      "title": "Steven Yeun to Topline \u2018Pagans\u2019 Drama at Netflix",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/steven-yeun-pagans-netflix-1236677846/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T17:49:58+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237045729",
-      "title": "Netflix Nabs \u2018The Headlands House\u2019 Limited Series Starring Colman Domingo",
-      "url": "https://deadline.com/2026/08/colman-domingo-netflix-the-headlands-house-limited-series-1237045729/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236839200",
-      "title": "CBS Plans Special Morning, Primetime Coverage of 9/11 Anniversary",
-      "url": "https://variety.com/2026/tv/news/cbs-9-11-anniversary-tv-news-coverage-1236839200/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T18:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751958",
-      "title": "Code Vein II: Mask of Idris DLC Gets September 9 Release Date and New Forsaken World Adventure",
-      "url": "https://otakukart.com/code-vein-ii-mask-of-idris-dlc-gets-september-9-release-date-and-new-forsaken-world-adventure/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T17:53:31+00:00"
-    },
-    {
-      "guid": "2bb9f74d-04da-442b-b854-679528f7dac5",
-      "title": "Nitro Deck 2 Is Finally Out for Switch 2 Next Week",
-      "url": "https://www.ign.com/articles/nitro-deck-2-is-finally-out-for-switch-2-next-week",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T17:52:59+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726238",
-      "title": "Bricks & Minifigs\u2019 $200,000 Star Wars Lego Dispute That Spawned Reckless Ben Drama Reaches Partial Settlement",
-      "url": "https://kotaku.com/reckless-ben-star-wars-lego-bricks-minifigs-mansell-family-mormon-mafia-2000726238",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T18:05:48+00:00"
-    },
-    {
-      "guid": "tfzHN7mcvAMG9QUsXh6Xnh",
-      "title": "This wild new PC pro controller runs its own custom OS across a 2.79-inch color display slapped beneath the thumbsticks",
-      "url": "https://www.pcgamer.com/hardware/controllers/this-wild-new-pc-pro-controller-runs-its-own-custom-os-across-a-2-79-inch-color-display-slapped-beneath-the-thumbsticks/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T18:00:00+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237045435",
       "title": "Ron Perlman Latest To Join Amazon MGM\u2019s Horror Film \u2018Seasons\u2019 From Drew Hancock",
@@ -1309,62 +1247,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-20T18:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677484",
-      "title": "Lola Blankets\u2019 Biggest Sale of the Year Means Half Off Hollywood\u2019s Favorite Faux Fur Throw",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/lola-blankets-50-off-discount-christmas-in-august-sale-2026-1236677484/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T18:09:40+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673756",
-      "title": "Charles Melton in Talks to Play Kakashi in Destin Daniel Cretton\u2019s \u2018Naruto\u2019 Movie (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/charles-melton-in-talks-to-play-kakashi-in-destin-daniel-crettons-naruto-movie-exclusive-1236673756/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T18:03:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121388",
-      "title": "Osaka College Will Use Capcom\u2019s RE Engine for Game Courses",
-      "url": "https://www.siliconera.com/osaka-college-will-use-capcoms-re-engine-for-game-courses/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T18:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1751959",
-      "title": "Naruto X Boruto Ultimate Ninja Storm Connections Adds Nanashi Uchiha as Playable Character",
-      "url": "https://otakukart.com/naruto-x-boruto-ultimate-ninja-storm-connections-adds-nanashi-uchiha-as-playable-character/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T18:09:32+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=617032",
-      "title": "Up Your Game With New Minis From Atomic Mass, Para Bellum, &  Catalyst",
-      "url": "https://www.belloflostsouls.net/2026/08/up-your-game-with-new-minis-from-atomic-mass-para-bellum-catalyst.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T18:13:12+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/",
-      "title": "Dungeons & Dragons is playtesting new Underdark options, including a player-focused transformation into a mind flayer",
-      "url": "https://www.enworld.org/threads/dungeons-dragons-is-playtesting-new-underdark-options-including-a-player-focused-transformation-into-a-mind-flayer.720383/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T18:04:00+00:00"
-    },
-    {
-      "guid": "https://www.tabletopbattles.com/marvel-crisis-protocol-affiliation-spotlight-storm-uncanny-x-men/",
-      "title": "Marvel Crisis Protocol Affiliation Spotlight: Storm, Uncanny X-Men",
-      "url": "https://www.tabletopbattles.com/marvel-crisis-protocol-affiliation-spotlight-storm-uncanny-x-men/",
-      "source_name": "Goonhammer",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T18:00:45+00:00"
     },
     {
       "guid": "t3_1vtr8o6",
@@ -1421,22 +1303,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-20T18:25:40+00:00"
-    },
-    {
-      "guid": "NnYHAd6ynY8YtWd3sEaye9",
-      "title": "Ghost Rider release date, cast, trailer, story speculation, and more news on the upcoming Marvel movie",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/ghost-rider-release-date-cast-story-trailer-news/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T18:00:00+00:00"
-    },
-    {
-      "guid": "1856841",
-      "title": "Step Aside, GTA 6 Leaks, We Have To Talk About Zork",
-      "url": "https://www.gamespot.com/articles/step-aside-gta-6-leaks-we-have-to-talk-about-zork/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T18:01:13+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1751960",
@@ -2109,6 +1975,86 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T21:22:21+00:00"
+    },
+    {
+      "guid": "2847dae4-b640-4152-9d89-434c256ca4bc",
+      "title": "Halo: Reach Designer Reveals that Modern Warfare Series Were a 'Huge' Inspiration for Bungie",
+      "url": "https://www.ign.com/articles/halo-reach-designer-reveals-that-modern-warfare-series-were-a-huge-inspiration-for-bungie",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T21:43:11+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726316",
+      "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
+      "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T22:05:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046959",
+      "title": "Dave Bautista Set To Play Kratos In \u2018God Of War\u2019 As Amazon Series Recasts Lead",
+      "url": "https://deadline.com/2026/08/dave-bautista-cast-kratos-god-of-war-amazon-series-recast-1237046959/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T22:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839394",
+      "title": "Dave Bautista Officially Set as Kratos in \u2018God of War\u2019 TV Series",
+      "url": "https://variety.com/2026/tv/news/dave-bautista-kratos-god-of-war-tv-series-amazon-1236839394/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T22:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839526",
+      "title": "The Hollies Officially Call It Quits, as Last Two Members of Classic 1960s Lineup Retire After Being in Band for 63 Years",
+      "url": "https://variety.com/2026/music/news/hollies-retire-original-members-tony-hicks-bobby-elliott-1236839526/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T21:53:02+00:00"
+    },
+    {
+      "guid": "aN5uqrKACfVqM9EQ7t9Pa",
+      "title": "EA could sell \"dormant IPs\" like Ultima and Wing Commander after Saudi acquisition, former manager says: \"There are plenty of IPs like that at EA that nobody cares about at this moment\"",
+      "url": "https://www.gamesradar.com/games/rpg/ea-could-sell-dormant-ips-like-ultima-and-wing-commander-after-saudi-acquisition-former-manager-says-there-are-plenty-of-ips-like-that-at-ea-that-nobody-cares-about-at-this-moment/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T22:01:46+00:00"
+    },
+    {
+      "guid": "Ek4kktFKogj4kKtibFmuxn",
+      "title": "If PS6 and Xbox Project Helix are $1,000, 5-year sales could be 40% worse than the PS5 generation, analyst says",
+      "url": "https://www.gamesradar.com/hardware/if-ps6-and-xbox-project-helix-are-usd1-000-5-year-sales-could-be-40-percent-worse-than-the-ps5-generation-analyst-says/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T21:53:27+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205246",
+      "title": "'We Don't Need to Aggressively Sell the Console': Sony CEO Says Timing of Memory Crisis Is 'Lucky' for PS5",
+      "url": "https://www.pushsquare.com/news/2026/08/we-dont-need-to-aggressively-sell-the-console-sony-ceo-says-timing-of-memory-crisis-is-lucky-for-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121430",
+      "title": "4 Persona 3 the Movie Anime Adaptations Now Free on YouTube",
+      "url": "https://www.siliconera.com/4-persona-3-the-movie-anime-adaptations-now-free-on-youtube/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T22:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1070325",
+      "title": "Dragon Quest Monsters: The Withered World details antagonist, allies, different regions, and Waterwing Can",
+      "url": "https://www.gematsu.com/2026/08/dragon-quest-monsters-the-withered-world-details-antagonist-allies-different-regions-and-waterwing-can",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T22:00:39+00:00"
     }
   ]
 }
