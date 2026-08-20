@@ -1224,59 +1224,24 @@
         "Pirates Have Resonance: A Plague Tale Legacy A Week Before Release As Games Keep Leaking On PC",
         "A Plague Tale: Legacy \u2013 The First 30 Minutes on PC"
       ]
+    },
+    {
+      "headline": "Microsoft and EA Are Hiding Digital Sales Data \u2014 and That's Bad for Everyone",
+      "tag": "xbox",
+      "posted_at": "2026-08-20T20:52:28.767702+00:00",
+      "urls": [
+        "https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257",
+        "https://www.pushsquare.com/news/2026/08/microsoft-stops-sharing-digital-sales-data-with-circana"
+      ],
+      "article_titles": [
+        "Xbox And EA Aren\u2019t Sharing U.S. Digital Sales Data Anymore, And That\u2019s Worrisome",
+        "Microsoft Stops Sharing Digital Sales Data with Circana"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games",
-      "title": "Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign",
-      "url": "https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:44:12+00:00"
-    },
-    {
-      "guid": "2YD64zdFAepFnGaZVxd4i",
-      "title": "The latest GTA 6 leak confirms the leaker likely has or had access to a playable build",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-latest-gta-6-leak-confirms-the-leaker-likely-has-or-had-access-to-a-playable-build/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:45:31+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237046481",
-      "title": "\u2018The Odyssey\u2019 Slays \u2018Deadpool & Wolverine\u2019 To Become Highest Grossing R-Rated Movie Ever At Global Box Office",
-      "url": "https://deadline.com/2026/08/the-odyssey-box-office-record-r-rated-1237046481/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:51:46+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237046311",
-      "title": "ABC And FCC Duel Over Court Jurisdiction And Timing In Latest Filing In Network\u2019s First Amendment Case",
-      "url": "https://deadline.com/2026/08/abc-trump-fcc-lawsuit-hearing-1237046311/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:39:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838976",
-      "title": "\u2018The Odyssey\u2019 Beats \u2018Deadpool & Wolverine\u2019 as Biggest R-Rated Movie of All Time With $1.35 Billion",
-      "url": "https://variety.com/2026/film/box-office/the-odyssey-biggest-r-rated-movie-all-time-deadpool-wolverine-1236838976/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:51:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236839158",
-      "title": "Steven Yeun to Lead Netflix Series \u2018Pagans\u2019 From \u2018Say Nothing\u2019 Creator Joshua Zetumer",
-      "url": "https://variety.com/2026/tv/news/steven-yeun-netflix-series-pagans-1236839158/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:37:31+00:00"
-    },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236677747",
       "title": "Melissa McCarthy\u2019s Animated \u2018Margie Claus\u2019 Sets 2027 Release as Jim Gaffigan, Andrew Scott Join Cast",
@@ -1292,30 +1257,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-20T16:54:10+00:00"
-    },
-    {
-      "guid": "upAJUBcx4obg6JegFbPzbn",
-      "title": "Fallout co-creator says devs should look to \"bad games\" for inspiration and not just \"good\" ones: \"You could learn a lot\"",
-      "url": "https://www.gamesradar.com/games/fallout/fallout-co-creator-says-devs-should-look-to-bad-games-for-inspiration-and-not-just-good-ones-you-could-learn-a-lot/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T16:33:04+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205231",
-      "title": "Japanese Charts: Nintendo Continues To Dominate With Rhythm Heaven Groove",
-      "url": "https://www.nintendolife.com/news/2026/08/japanese-charts-nintendo-continues-to-dominate-with-rhythm-heaven-groove",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205240",
-      "title": "92% of PS5 Enthusiasts Believe PS Studios Needs New Management",
-      "url": "https://www.pushsquare.com/news/2026/08/92percent-of-ps5-enthusiasts-believe-ps-studios-needs-new-management",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T16:45:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237046474",
@@ -1500,14 +1441,6 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-20T17:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979037",
-      "title": "Akira | Trailer - Akira | Trailer",
-      "url": "http://www.crunchyroll.com/watch/G50UMZV5P/akira-trailer",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T16:50:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1751956",
@@ -2228,6 +2161,54 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-20T20:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726257",
+      "title": "Xbox And EA Aren\u2019t Sharing U.S. Digital Sales Data Anymore, And That\u2019s Worrisome",
+      "url": "https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:50:28+00:00"
+    },
+    {
+      "guid": "QcPYuxrT4fbmZKPuCkezzX",
+      "title": "Riot is ending development of its 2XKO fighting game",
+      "url": "https://www.pcgamer.com/games/fighting/riot-is-ending-development-of-its-2xko-fighting-game/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:37:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839410",
+      "title": "L.A. Mayor Karen Bass Weighs In on Paramount-Warner Bros. Merger, Urges California AG Rob Bonta to Settle Antitrust Case: \u2018This Is Not About Taking Sides\u2019",
+      "url": "https://variety.com/2026/film/news/la-mayor-karen-bass-paramount-warner-bros-merger-settle-antitrust-case-1236839410/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:42:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839404",
+      "title": "Neutrogena Comments on Hayden Panettiere\u2019s Death Amid Backlash and Says \u2018We Made Her Feel Unsupported\u2019; Actor Said the Company Nearly Fired Her for Talking About Postpartum",
+      "url": "https://variety.com/2026/tv/news/neutrogena-hayden-panettiere-backlash-postpartum-depression-1236839404/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:34:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678005",
+      "title": "Seth Rogen, Danny Boyle, Colman Domingo, Mo Abudu Join TIFF: The Market Summit Lineup",
+      "url": "https://www.hollywoodreporter.com/business/business-news/seth-rogen-tiff-the-market-summit-lineup-1236678005/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:39:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677969",
+      "title": "Neutrogena Responds to Backlash in Wake of Onetime Ambassador Hayden Panettiere\u2019s Death",
+      "url": "https://www.hollywoodreporter.com/news/general-news/neutrogena-hayden-panettiere-postpartum-depression-boycott-1236677969/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:39:02+00:00"
     }
   ]
 }
