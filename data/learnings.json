@@ -1286,14 +1286,6 @@
       "published_dt": "2026-08-20T15:14:42+00:00"
     },
     {
-      "guid": "1856517",
-      "title": "Arc Raiders Crossover Is Not What You Expect, I Guarantee It",
-      "url": "https://www.gamespot.com/articles/arc-raiders-crossover-is-not-what-you-expect-i-guarantee-it/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T15:01:08+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-205235",
       "title": "Rumour: The Duskbloods Might Be Out A Lot Sooner Than You Think",
       "url": "https://www.nintendolife.com/news/2026/08/rumour-the-duskbloods-might-be-out-a-lot-sooner-than-you-think",
@@ -2428,6 +2420,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T18:32:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046388",
+      "title": "Chuck Saftler, Top TV Acquisition Executive & FX Veteran, Leaving Disney After 32 Years",
+      "url": "https://deadline.com/2026/08/chuck-saftler-leaving-disney-acquisitions-executive-fx-1237046388/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677791",
+      "title": "Apple Music to Launch Labels on AI Tracks Later This Year",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/apple-music-to-launch-labels-on-ai-tracks-1236677791/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T19:05:56+00:00"
     }
   ]
 }
