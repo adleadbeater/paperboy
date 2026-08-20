@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Netflix Shuts Down Night School Studio (Oxenfree) and Moonloot in Mass Gaming Retreat",
-      "tag": "netflix games",
-      "posted_at": "2026-08-13T19:31:03.906135+00:00",
-      "urls": [
-        "https://kotaku.com/netflix-oxenfree-night-school-moonlight-shut-down-2000724221",
-        "https://variety.com/2026/gaming/news/netflix-closes-unhinged-video-game-studio-night-school-1236834103/",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vnjrfp/netflix_is_shutting_down_two_of_its_game_studios/"
-      ],
-      "article_titles": [
-        "Netflix Shuts Down Studio Behind Beloved Narrative Adventure Oxenfree",
-        "Netflix Shuts Down Studio Behind \u2018Unhinged\u2019 Game 6 Weeks After Release",
-        "Netflix is shutting down two of its game studios, Night School (Oxenfree) and Moonloot"
-      ]
-    },
-    {
       "headline": "Matthew McConaughey Says He Passed on Playing Joel in The Last of Us",
       "tag": "the last of us",
       "posted_at": "2026-08-13T21:01:27.174368+00:00",
@@ -1211,6 +1196,21 @@
       "article_titles": [
         "Riot Will End Active Development On 2XKO At The End Of The Year"
       ]
+    },
+    {
+      "headline": "Yahya Abdul-Mateen II Calls Out Marvel Over Wonder Man Cancellation and Blade Delays: \"Change That Narrative\"",
+      "tag": "marvel",
+      "posted_at": "2026-08-20T20:14:58.843344+00:00",
+      "urls": [
+        "https://deadline.com/2026/08/yahya-abdul-mateen-ii-optics-obvious-wonder-man-cancellation-blade-reboot-1237046695/",
+        "https://variety.com/2026/tv/news/yahya-abdul-mateen-calls-out-marvel-wonder-man-blade-failures-1236839058/",
+        "https://deadline.com/2026/08/yahya-abdul-mateen-ii-optics-obvious-wonder-man-cancellation-blade-reboot-1237046695/"
+      ],
+      "article_titles": [
+        "Yahya Abdul-Mateen II Says \u201cOptics Are Obvious\u201d Of \u2018Wonder Man\u2019 Cancellation & \u2018Blade\u2019 Reboot Delays: \u201cIt Should Be A Priority To Change That Narrative\u201d",
+        "Yahya Abdul-Mateen II Says the \u2018Optics\u2019 at Marvel Are \u2018Obvious\u2019 After \u2018Wonder Man\u2019 and \u2018Blade\u2019 Canceled: \u2018If I\u2019m Disney, I Do Not Want to Be Attached To These Optics\u2019",
+        "Yahya Abdul-Mateen II Says \u201cOptics Are Obvious\u201d Of \u2018Wonder Man\u2019 Cancellation & \u2018Blade\u2019 Reboot Delays: \u201cIt Should Be A Priority To Change That Narrative\u201d"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1225,44 +1225,12 @@
       "published_dt": "2026-08-20T16:16:30+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237046419",
-      "title": "Sundance Institute Names 2026 Episodic Intensive Fellows",
-      "url": "https://deadline.com/2026/08/sundance-institute-2026-episodic-intensive-fellows-1237046419/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:07:47+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237046327",
-      "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature \u2018Wekiwa\u2019 From Oscar Winner Richard L. Anderson",
-      "url": "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T16:01:38+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236831506",
       "title": "\u2018Practical Magic\u2019 Gets Witchy Jewelry Collection Ahead of Sequel",
       "url": "https://variety.com/2026/shopping/news/practical-magic-jewelry-collection-awe-inspired-shop-online-1236831506/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-20T16:15:39+00:00"
-    },
-    {
-      "guid": "MXRUV7UeBhYWZHovHpsiL7",
-      "title": "Fortnite Cheat Codes and how to use them to collect Sprites",
-      "url": "https://www.gamesradar.com/games/fortnite/fortnite-cheat-codes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T16:14:17+00:00"
-    },
-    {
-      "guid": "CqLzjtaMyQDWkq49wKAX64",
-      "title": "GTA 6 map leak is \"100% real,\" say fans who've spent years painstakingly mapping Rockstar's open-world game by hand",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-leak-is-100-percent-real-say-fans-whove-spent-years-painstakingly-mapping-rockstars-open-world-game-by-hand/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T16:12:37+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-205238",
@@ -1327,14 +1295,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-20T16:20:10+00:00"
-    },
-    {
-      "guid": "1856638",
-      "title": "GTA 6 Leaker Might Have Playable Build Of The Game",
-      "url": "https://www.gamespot.com/articles/gta-6-leaker-might-have-playable-build-of-the-game/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T16:12:19+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games",
@@ -2255,6 +2215,62 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-20T20:00:00+00:00"
+    },
+    {
+      "guid": "79fe21e0-aff0-4ec7-a08a-6ab75d267740",
+      "title": "Riot to End Active Development for 2XKO in December 2026, Online Play to Remain Unaffected",
+      "url": "https://www.ign.com/articles/riot-to-end-active-development-for-2xko-in-december-2026-online-play-to-remain-unaffected",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T19:59:52+00:00"
+    },
+    {
+      "guid": "8457d596-120c-40c8-8d39-08a69494687f",
+      "title": "Dan Aykroyd Reveals What the Original Ghostbusters Costumes Looked Like",
+      "url": "https://www.ign.com/articles/dan-aykroyd-original-ghostbusters-costumes",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T19:55:09+00:00"
+    },
+    {
+      "guid": "ff5980fc-97b1-4e6f-b0e6-c8b3f4b6d00b",
+      "title": "Thrilljoy Reveals Terrifying Cute IT: Welcome to Derry Pennywise Figures",
+      "url": "https://www.ign.com/articles/thrilljoy-reveals-terrifying-cute-it-welcome-to-derry-pennywise-figures",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T19:45:04+00:00"
+    },
+    {
+      "guid": "ZWkEfPb5PWhZiSCLGrbUyU",
+      "title": "Black Myth: Zhong Kui's 15-minute gameplay reveal shows off confident swordplay, boss fights with oyster men, and the coolest skeletons I've ever seen",
+      "url": "https://www.pcgamer.com/games/action/black-myth-zhong-kuis-15-minute-gameplay-reveal-shows-off-confident-swordplay-boss-fights-with-oyster-men-and-the-coolest-skeletons-ive-ever-seen/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:04:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677752",
+      "title": "Harry and Meghan Are Leaving California \u2014 But Are They Leaving Hollywood?",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/prince-harry-meghan-markle-uk-move-what-it-means-netflix-deal-1236677752/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T20:13:45+00:00"
+    },
+    {
+      "guid": "uURLeCui8Qv79Y4xPh2Uw",
+      "title": "Borderlands 4's next big DLC is a John Wick-inspired rescue mission to save a Borderlands 3 hero's dog",
+      "url": "https://www.gamesradar.com/games/borderlands/borderlands-4s-next-big-dlc-is-a-john-wick-inspired-rescue-mission-to-save-a-borderlands-3-heros-dog/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T20:05:49+00:00"
+    },
+    {
+      "guid": "TwfAnqynrjMDfdzURfpqaW",
+      "title": "Even after Elden Ring exploded, Hidetaka Miyazaki says FromSoftware doesn't make games for anyone: \"The motivation is that this is a game I want to see exist\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/even-after-elden-ring-exploded-hidetaka-miyazaki-says-fromsoftware-doesnt-make-games-for-anyone-the-motivation-is-that-this-is-a-game-i-want-to-see-exist/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T19:58:04+00:00"
     }
   ]
 }
