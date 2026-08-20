@@ -1200,19 +1200,24 @@
         "No, The Duskbloods isn't releasing on 24th September, according to Nintendo",
         "Nintendo Denies Rumoured Release Date For The Duskbloods"
       ]
+    },
+    {
+      "headline": "Silent Hill: Townfall Finally Gets a Gameplay Trailer \u2014 and It Looks Genuinely Unsettling",
+      "tag": "silent hill: townfall",
+      "posted_at": "2026-08-20T16:01:07.170916+00:00",
+      "urls": [
+        "https://kotaku.com/silent-hill-townfall-gameplay-demo-video-impressions-2000726181",
+        "https://kotaku.com/silent-hill-townfall-gameplay-demo-video-impressions-2000726181"
+      ],
+      "article_titles": [
+        "The Scariest Thing In The Silent Hill: Townfall Gameplay Trailer Is How Scots Pay For Electricity",
+        "The Scariest Thing In The Silent Hill: Townfall Gameplay Trailer Is How Scots Pay For Electricity"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "dba9d8fc-8e26-4866-87f7-d4791f3ac852",
-      "title": "Insidious: A Guide to the Most Menacing Ghosts of the Series",
-      "url": "https://www.ign.com/articles/insidious-a-guide-to-the-most-menacing-ghosts-of-the-series",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T12:00:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/black-myth-zhong-kui-15-minutes-gameplay",
       "title": "15 minutes of Black Myth: Zhong Kui gameplay footage provide our first proper look at Wukong's successor yet",
@@ -1230,22 +1235,6 @@
       "published_dt": "2026-08-20T12:18:25+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237045829",
-      "title": "Semafor Taps Ashley Gold For Key Role Covering Technology",
-      "url": "https://deadline.com/2026/08/semafor-ashley-gold-technology-1237045829/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T12:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237046137",
-      "title": "\u2018The Aggressives\u2019 Director Daniel Peddle To Adapt Southern Crime Thriller \u2018Cold Moon Rising\u2019",
-      "url": "https://deadline.com/2026/08/daniel-peddle-cold-moon-rising-michael-sledge-1237046137/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T11:55:07+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236838902",
       "title": "Charter Closes $34.5 Billion Cox Deal in Cable Megamerger, Company to Adopt Cox Communications Name",
       "url": "https://variety.com/2026/tv/news/charter-closes-cox-merger-new-company-name-1236838902/",
@@ -1260,46 +1249,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-20T12:02:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838772",
-      "title": "Mubi Set to Stream Manuela Martelli\u2019s \u2018The Meltdown\u2019 After Its Screening at San Sebasti\u00e1n (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/manuela-martelli-the-meltdown-mubi-san-sebastian-festival-1236838772/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T11:56:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838883",
-      "title": "Asghar Farhadi Condemns Politicians and Media for Focus on \u2018Difference\u2019 and \u2018Hate\u2019: \u2018Why Do You Think a Mother in Afghanistan Is Different Than Your Mom?\u2019",
-      "url": "https://variety.com/2026/film/global/asghar-farhadi-condemns-politicians-media-difference-hate-1236838883/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T11:55:14+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205131",
-      "title": "GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks",
-      "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205209",
-      "title": "'90s-Inspired Sim 'Car Park Capital' Asks You To \"Pave Paradise & Put Up A Parking Lot\" This October",
-      "url": "https://www.timeextension.com/news/2026/08/90s-inspired-sim-car-park-capital-asks-you-to-pave-paradise-and-put-up-a-parking-lot-this-october",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=536692",
-      "title": "Go On Your Own Epic Adventures With These Anime Inspired TTRPGs",
-      "url": "https://www.belloflostsouls.net/2026/08/fight-evil-by-moonlight-with-these-anime-themed-rpgs.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T12:00:00+00:00"
     },
     {
       "guid": "4b6a917c-1c12-4e1b-9376-75382497ffda",
@@ -2268,6 +2217,94 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T15:33:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726202",
+      "title": "FromSoftware Says Nintendo Has Been A Big Help In Making Sure Switch 2 Exclusive The Duskbloods Doesn\u2019t Just Drop Players In And Hope \u2018They Figure It Out\u2019",
+      "url": "https://kotaku.com/fromsoftware-says-nintendo-has-been-a-big-help-in-making-sure-switch-2-exclusive-the-duskbloods-doesnt-just-drop-players-in-and-hope-they-figure-it-out-2000726202",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:56:41+00:00"
+    },
+    {
+      "guid": "USmAWnHGwGZjk4BRZWmjjb",
+      "title": "Screw the wedding photos, I'm playing Doom on a DSLR camera like the good lord intended",
+      "url": "https://www.pcgamer.com/hardware/screw-the-wedding-photos-im-playing-doom-on-a-dslr-camera-like-the-good-lord-intended/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:54:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237045918",
+      "title": "All The Songs In \u2018Outer Banks\u2019 Season 5: Tame Impala, Stevie Wonder & More",
+      "url": "https://deadline.com/2026/08/outer-banks-season-5-soundtrack-songs-tame-impala-1237045918/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046317",
+      "title": "Sony\u2019s 3000 Pictures & Temple Hill Land \u2018Dolly All The Time\u2019 With Gemma Burgess Set To Adapt",
+      "url": "https://deadline.com/2026/08/dolly-all-the-time-movie-gemma-burgess-writer-1237046317/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838550",
+      "title": "BlizzCon 2026 Sets T-Pain, Simu Liu, deadmau5, YOASOBI and More Celeb Guests",
+      "url": "https://variety.com/2026/gaming/news/blizzcon-celeb-guests-tpain-simu-liu-deadmau5-1236838550/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "guid": "NVo44jfw7zSmpALAmwjxdZ",
+      "title": "The UK Switch 2 price increase isn't that bad, but I'd still recommend picking up this bundle before September hits",
+      "url": "https://www.gamesradar.com/hardware/the-uk-switch-2-price-increase-isnt-that-bad-but-id-still-recommend-picking-up-this-bundle-before-september-hits/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T15:58:18+00:00"
+    },
+    {
+      "guid": "wz4GteanoDdkLRL45oVrw7",
+      "title": "Former EA manager will \"believe\" the next Mass Effect is happening \"when I see it\" after $55 billion acquisition: \"They can pull the plug very, very easily\"",
+      "url": "https://www.gamesradar.com/games/mass-effect/former-ea-manager-will-believe-the-next-mass-effect-is-happening-when-i-see-it-after-usd55-billion-acquisition-they-can-pull-the-plug-very-very-easily/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T15:29:18+00:00"
+    },
+    {
+      "guid": "1856577",
+      "title": "Take-Two Loses Billions In Market Value Since GTA 6 Leaks Began",
+      "url": "https://www.gamespot.com/articles/take-two-loses-billions-in-market-value-since-gta-6-leaks-began/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T15:53:48+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121397",
+      "title": "Manga Mirai Service Ending and Series Head to MangaPlaza",
+      "url": "https://www.siliconera.com/manga-mirai-service-ending-and-series-head-to-mangaplaza/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205236",
+      "title": "This Dying Street Fighter II Cart Is A Sobering Reminder That Physical Doesn't Mean Forever",
+      "url": "https://www.timeextension.com/news/2026/08/this-dying-street-fighter-ii-cart-is-a-sobering-reminder-that-physical-doesnt-mean-forever",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vtnh6f",
+      "title": "A potential second leaker group has now hit GTA VI",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vtnh6f/a_potential_second_leaker_group_has_now_hit_gta_vi/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T15:58:10+00:00"
     }
   ]
 }
