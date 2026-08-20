@@ -1206,60 +1206,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-compiling-shaders-fix",
-      "title": "Call of Duty: Modern Warfare 4 beta may have eradicated the annoying 'Compiling Shaders' wait PC players loathe",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-compiling-shaders-fix",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T14:20:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838941",
-      "title": "Watermelon Pictures Acquires Diego Luna\u2019s Migration Drama \u2018Ashes\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/watermelon-pictures-buys-diego-lunas-migration-drama-ashes-1236838941/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677650",
-      "title": "\u2018Sons of Anarchy\u2019 Creator Kurt Sutter Reacts to Spinoff: \u201cI\u2019m Not Involved, Nor Should I Be\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-kurt-sutter-legends-spinoff-1236677650/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T14:24:59+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205226",
-      "title": "I Didn't Have a Golden Axe Cartoon on My 2026 Bingo Card",
-      "url": "https://www.pushsquare.com/news/2026/08/i-didnt-have-a-golden-axe-cartoon-on-my-2026-bingo-card",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121287",
-      "title": "Interview: How Vampires Influenced The Duskbloods Characters",
-      "url": "https://www.siliconera.com/interview-how-vampires-influenced-the-duskbloods-characters/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T14:30:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
       "title": "Final Fantasy: Crystal Chronicles composer speaks out about AI-generated Spotify album falsely using her name",
       "url": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-08-20T14:48:07+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/marvel-tokon-fighting-souls-crack-drm-performance",
-      "title": "A cracked version of Marvel T\u014dkon is reigniting questions around DRM and its impact on PC games",
-      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-crack-drm-performance",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T14:29:40+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000726159",
@@ -1324,14 +1276,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-20T14:38:28+00:00"
-    },
-    {
-      "guid": "fCzcgLBNVcTm92x28Yr5Nn",
-      "title": "How to get the Mortal Shell 2 Genessa Shell",
-      "url": "https://www.gamesradar.com/games/rpg/mortal-shell-2-genessa-unlock/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T14:25:37+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-205218",
@@ -2452,6 +2396,118 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T18:13:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839004",
+      "title": "What Does Prince Harry and Meghan Markle\u2019s Move Back to the U.K. Mean for the Royal Family?",
+      "url": "https://variety.com/2026/global/news/prince-harry-meghan-markle-uk-move-means-royal-family-1236839004/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T18:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839318",
+      "title": "Charles Melton in Talks for \u2018Naruto\u2019 Movie as Villain Kakashi",
+      "url": "https://variety.com/2026/film/news/charles-melton-in-talks-naruto-movie-villain-kakashi-1236839318/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T18:28:58+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676610",
+      "title": "Why \u2018A Knight of the Seven Kingdoms\u2019 Broke One of \u2018Game of Thrones\u2019 Biggest Musical Rules",
+      "url": "https://www.hollywoodreporter.com/music/music-features/knight-of-the-seven-kingdoms-game-of-thrones-music-rules-1236676610/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677757",
+      "title": "Film and TV Spending Dropped In New Mexico. But There\u2019s a Silver Lining",
+      "url": "https://www.hollywoodreporter.com/business/business-news/new-mexico-film-tv-spending-production-1236677757/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T18:22:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677458",
+      "title": "Ron Perlman Joins Lily James in Horror Thriller \u2018Seasons\u2019 for Amazon MGM Studios",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ron-perlman-lily-james-horror-thriller-seasons-amazon-1236677458/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T18:22:00+00:00"
+    },
+    {
+      "guid": "BpMw5tZfTgauoCh7TMhVPL",
+      "title": "Stop the Bloodborne hunt, Miyazaki says The Duskbloods is totally unrelated: \"I almost regret putting the word 'Blood' in the title\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/stop-the-bloodborne-hunt-miyazaki-says-the-duskbloods-is-totally-unrelated-i-almost-regret-putting-the-word-blood-in-the-title/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:25:40+00:00"
+    },
+    {
+      "guid": "NnYHAd6ynY8YtWd3sEaye9",
+      "title": "Ghost Rider release date, cast, trailer, story speculation, and more news on the upcoming Marvel movie",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/ghost-rider-release-date-cast-story-trailer-news/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:00:00+00:00"
+    },
+    {
+      "guid": "1856841",
+      "title": "Step Aside, GTA 6 Leaks, We Have To Talk About Zork",
+      "url": "https://www.gamespot.com/articles/step-aside-gta-6-leaks-we-have-to-talk-about-zork/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:01:13+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751960",
+      "title": "Prime Video Renews Sterling Point for Season 2 After No. 1 Global Debut",
+      "url": "https://otakukart.com/prime-video-renews-sterling-point-for-season-2-after-no-1-global-debut/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:29:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751812",
+      "title": "Legendary Actress Kim Hye Ja Returns to the Silver Screen with \u201cStill Radiant\u201d After Nine-Year Hiatus",
+      "url": "https://otakukart.com/legendary-actress-kim-hye-ja-returns-to-the-silver-screen-with-still-radiant-after-nine-year-hiatus/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:25:41+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751823",
+      "title": "Red Velvet\u2019s Wendy\u2019s Agency ASND Issues Warning of Strong Legal Action Against Malicious Comments",
+      "url": "https://otakukart.com/red-velvets-wendys-agency-asnd-issues-warning-of-strong-legal-action-against-malicious-comments/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:22:38+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751825",
+      "title": "BTS\u2019s Suga Faces Backlash as Newly Surfaced Video Sparks Heated Fan Debate",
+      "url": "https://otakukart.com/btss-suga-faces-backlash-as-newly-surfaced-video-sparks-heated-fan-debate/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:18:19+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=617007",
+      "title": "D&D: The New \u2018Bloodhound Ranger\u2019 Gives You Hunter\u2019s Mark Without Hunter\u2019s Mark",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-the-new-bloodhound-ranger-gives-you-hunters-mark-without-hunters-mark.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:28:46+00:00"
+    },
+    {
+      "guid": "t3_1vtrlxv",
+      "title": "The rumor about Yoshiaki Hirabayashi (RE Veronica) coming to Gamescom came originally from Screenfire Germany, who posted it 8 hours ago on his YouTube channel",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vtrlxv/the_rumor_about_yoshiaki_hirabayashi_re_veronica/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T18:26:43+00:00"
     }
   ]
 }
