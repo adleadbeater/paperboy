@@ -1171,70 +1171,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "73dec078-915c-4873-a220-afe061242f41",
-      "title": "LEGO Fans Are Closer Than Ever to Getting a Studio Ghibli Set",
-      "url": "https://www.ign.com/articles/lego-fans-studio-ghibli-ideas-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T22:00:00+00:00"
-    },
-    {
-      "guid": "e90eae89-4964-41ce-a63a-fa52defdcf0d",
-      "title": "Director of Marvel\u2019s Wolverine Responds After Extended Gameplay Footage Sparks Backlash",
-      "url": "https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T21:55:02+00:00"
-    },
-    {
-      "guid": "0e05b9b1-c64e-4537-9240-2e0274b1f65e",
-      "title": "Modern Warfare 4 Beta Reveals Multiplayer Matchmaking Plans, Will Continue to Use Divisive New Matchmaking System",
-      "url": "https://www.ign.com/articles/modern-warfare-4-beta-reveals-multiplayer-matchmaking-plans-will-continue-to-use-divisive-new-matchmaking-system",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T21:47:51+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237044928",
-      "title": "\u2018Degree of Certainty\u2019 Filmmaker Simon Schneider Tackles The Ironic Origins Of Climate Change Data \u2014 HollyShorts Film Festival",
-      "url": "https://deadline.com/2026/08/degree-of-uncertainty-interview-simon-schneider-1237044928/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T22:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237045701",
-      "title": "Josh Radnor Says He\u2019s Not Close To His \u2018How I Met Your Mother\u2019 Co-Stars \u201cNot Even A Little Bit\u201d: \u201cI Have Love For All These People\u201d",
-      "url": "https://deadline.com/2026/08/josh-radnor-not-close-how-i-met-your-mother-co-stars-1237045701/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T21:52:08+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838661",
-      "title": "Ariana Grande Granted Permission to Issue Expedited Subpoenas to Reveal Hacker Identities",
-      "url": "https://variety.com/2026/music/news/ariana-grande-permitted-subpoena-reveal-hacker-identities-1236838661/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T21:56:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838650",
-      "title": "Prince Harry and Meghan Markle Moving Back to U.K. in Shock Decision",
-      "url": "https://variety.com/2026/film/news/prince-harry-meghan-markle-moving-back-to-uk-1236838650/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T21:50:40+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677373",
-      "title": "Prince Harry, Meghan Markle to Move Back to the U.K.",
-      "url": "https://www.hollywoodreporter.com/news/general-news/prince-harry-meghan-markle-moving-back-uk-1236677373/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-19T21:52:29+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237045565",
       "title": "IATSE Local 479 Leadership Suspended Amid Corruption Concerns",
       "url": "https://deadline.com/2026/08/iatse-local-479-leadership-suspended-corruption-concerns-1237045565/",
@@ -1377,6 +1313,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T01:39:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677481",
+      "title": "Did Alex Vindman Just Get Burned by the Larry David Curse?",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/alex-vindman-larry-david-curse-angie-nixon-florida-primary-1236677481/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T02:02:24+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205134",
+      "title": "Start Your Trails in the Sky 2nd Chapter Adventure Early with PS5 Demo, Out Now",
+      "url": "https://www.pushsquare.com/news/2026/08/start-your-trails-in-the-sky-2nd-chapter-adventure-early-with-ps5-demo-out-now",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T02:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1028570",
+      "title": "Trails in the Sky 2nd Chapter demo now available",
+      "url": "https://www.gematsu.com/2026/08/trails-in-the-sky-2nd-chapter-demo-now-available",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T02:00:14+00:00"
     }
   ]
 }
