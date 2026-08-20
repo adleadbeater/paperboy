@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Halo's Co-Creator Calls Out the New Remake's Main Menu Ring as a Step Too Far",
-      "tag": "halo",
-      "posted_at": "2026-08-13T16:16:23.018094+00:00",
-      "urls": [
-        "https://www.ign.com/articles/halo-studios-went-too-far-in-the-wrong-direction-co-creator-of-halo-hits-out-at-the-main-menu-ring-in-xboxs-new-remake"
-      ],
-      "article_titles": [
-        "'Halo Studios Went Too Far in the Wrong Direction' \u2014 Co-Creator of Halo Hits Out at the Main Menu Ring in Xbox's New Remake"
-      ]
-    },
-    {
       "headline": "Final Fantasy XIV Hit With Emergency Worldwide Maintenance",
       "tag": "final fantasy xiv",
       "posted_at": "2026-08-13T16:31:20.008289+00:00",
@@ -1213,19 +1202,22 @@
         "The Scariest Thing In The Silent Hill: Townfall Gameplay Trailer Is How Scots Pay For Electricity",
         "The Scariest Thing In The Silent Hill: Townfall Gameplay Trailer Is How Scots Pay For Electricity"
       ]
+    },
+    {
+      "headline": "Miyazaki confirms FromSoftware isn't abandoning single-player games",
+      "tag": "fromsoftware",
+      "posted_at": "2026-08-20T16:19:21.140157+00:00",
+      "urls": [
+        "https://www.ign.com/articles/fromsoftware-isnt-done-with-single-player-games-miyazaki-reassures"
+      ],
+      "article_titles": [
+        "FromSoftware Isn't Done With Single-Player Games, Miyazaki Reassures"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/black-myth-zhong-kui-15-minutes-gameplay",
-      "title": "15 minutes of Black Myth: Zhong Kui gameplay footage provide our first proper look at Wukong's successor yet",
-      "url": "https://www.eurogamer.net/black-myth-zhong-kui-15-minutes-gameplay",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T12:07:19+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237046142",
       "title": "Snowglobe Co-Founder Eva Jakobsen Joins Nordisk Film",
@@ -1233,22 +1225,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-20T12:18:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838902",
-      "title": "Charter Closes $34.5 Billion Cox Deal in Cable Megamerger, Company to Adopt Cox Communications Name",
-      "url": "https://variety.com/2026/tv/news/charter-closes-cox-merger-new-company-name-1236838902/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T12:03:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236838882",
-      "title": "Christine Vachon on Why Landing Pedro Pascal to Replace Joaquin Phoenix in \u2018De Noche\u2019 Gave Todd Haynes the \u2018Happy Ending\u2019 He Deserved",
-      "url": "https://variety.com/2026/film/global/christine-vachon-pedro-pascal-joaquin-phoenix-de-noche-1236838882/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T12:02:44+00:00"
     },
     {
       "guid": "4b6a917c-1c12-4e1b-9376-75382497ffda",
@@ -2305,6 +2281,102 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T15:58:10+00:00"
+    },
+    {
+      "guid": "d39de716-5c5c-443e-936b-d11941c10eaf",
+      "title": "Marvel Addresses the Greatest Flaw of Civil War 20 Years Later",
+      "url": "https://www.ign.com/articles/marvel-addresses-the-greatest-flaw-of-civil-war-20-years-later",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:00:12+00:00"
+    },
+    {
+      "guid": "bf8db4b3-2d6d-4a66-b04b-1ba32cd8ad95",
+      "title": "FromSoftware Isn't Done With Single-Player Games, Miyazaki Reassures",
+      "url": "https://www.ign.com/articles/fromsoftware-isnt-done-with-single-player-games-miyazaki-reassures",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:51:42+00:00"
+    },
+    {
+      "guid": "502f3b0c-776d-441d-bc59-73993825d09e",
+      "title": "Best Buy Is Offering a Free $10 Gift Card With These Game Preorders",
+      "url": "https://www.ign.com/articles/best-buy-is-offering-a-free-10-gift-card-with-these-game-preorders",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:47:33+00:00"
+    },
+    {
+      "guid": "KDNSPkvwfoRthsbVgrG5GY",
+      "title": "'I would love that but we're cheap and poor': Jeff Kaplan speeds through everything players should know about his upcoming cowboy survival game, The Legend of California",
+      "url": "https://www.pcgamer.com/games/adventure/i-would-love-that-but-were-cheap-and-poor-jeff-kaplan-speeds-through-everything-players-should-know-about-his-upcoming-cowboy-survival-game-the-legend-of-california/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:16:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046419",
+      "title": "Sundance Institute Names 2026 Episodic Intensive Fellows",
+      "url": "https://deadline.com/2026/08/sundance-institute-2026-episodic-intensive-fellows-1237046419/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:07:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046327",
+      "title": "Billy Zane, Kevin Chapman & C.S. Lee Among Cast In Creature Feature \u2018Wekiwa\u2019 From Oscar Winner Richard L. Anderson",
+      "url": "https://deadline.com/2026/08/billy-zane-kevin-chapman-cs-lee-cast-in-wekiwa-1237046327/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:01:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831506",
+      "title": "\u2018Practical Magic\u2019 Gets Witchy Jewelry Collection Ahead of Sequel",
+      "url": "https://variety.com/2026/shopping/news/practical-magic-jewelry-collection-awe-inspired-shop-online-1236831506/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T16:15:39+00:00"
+    },
+    {
+      "guid": "MXRUV7UeBhYWZHovHpsiL7",
+      "title": "Fortnite Cheat Codes and how to use them to collect Sprites",
+      "url": "https://www.gamesradar.com/games/fortnite/fortnite-cheat-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T16:14:17+00:00"
+    },
+    {
+      "guid": "CqLzjtaMyQDWkq49wKAX64",
+      "title": "GTA 6 map leak is \"100% real,\" say fans who've spent years painstakingly mapping Rockstar's open-world game by hand",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-map-leak-is-100-percent-real-say-fans-whove-spent-years-painstakingly-mapping-rockstars-open-world-game-by-hand/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T16:12:37+00:00"
+    },
+    {
+      "guid": "1855871",
+      "title": "Game Companies Could Learn Wrong Lessons From GTA 6\u2019s $80 Price, Analyst Says",
+      "url": "https://www.gamespot.com/articles/game-companies-could-learn-wrong-lessons-from-gta-6s-80-price-analyst-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205230",
+      "title": "007 First Light Hits Major Sales Milestone, Still Confirmed For Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/08/007-first-light-hits-major-sales-milestone-still-confirmed-for-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205238",
+      "title": "This FMV Mystery Set in Akihabara Now Has a Demo, PS5 Pre-Orders Come with PS Plus Discount",
+      "url": "https://www.pushsquare.com/news/2026/08/this-fmv-mystery-set-in-akihabara-now-has-a-demo-ps5-pre-orders-come-with-ps-plus-discount",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T16:15:00+00:00"
     }
   ]
 }
