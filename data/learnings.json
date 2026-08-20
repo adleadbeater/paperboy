@@ -1241,60 +1241,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237046392",
-      "title": "Adeline Rudolph, Audra McDonald & Dylan McDermott Join Amazon MGM\u2019s Tennis Rom-Com \u2018Love Love\u2019",
-      "url": "https://deadline.com/2026/08/love-love-movie-adeline-rudolph-audra-mcdonald-dylan-mcdermott-1237046392/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T19:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237045916",
-      "title": "Andrew McCarthy Sci-Fi Pic \u2018Orion\u2019 Acquired By Hyde Park International",
-      "url": "https://deadline.com/2026/08/andrew-mccarthy-orion-hyde-park-international-1237045916/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T18:52:48+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121410",
-      "title": "Mega Rayquaza ex Headlines Pokemon TCG Mega Evolution Delta Reign",
-      "url": "https://www.siliconera.com/mega-rayquaza-ex-headlines-pokemon-tcg-mega-evolution-delta-reign/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T19:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237046388",
-      "title": "Chuck Saftler, Top TV Acquisition Executive & FX Veteran, Leaving Disney After 32 Years",
-      "url": "https://deadline.com/2026/08/chuck-saftler-leaving-disney-acquisitions-executive-fx-1237046388/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677791",
-      "title": "Apple Music to Launch Labels on AI Tracks Later This Year",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/apple-music-to-launch-labels-on-ai-tracks-1236677791/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T19:05:56+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000726270",
       "title": "Riot Will End Active Development On 2XKO At The End Of The Year",
       "url": "https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-20T19:18:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237046664",
-      "title": "A24\u2019s Kate Fassl Joins Ari Aster\u2019s Square Peg As Head Of Comms & Talent Relations",
-      "url": "https://deadline.com/2026/08/ari-aster-square-peg-kate-fassl-1237046664/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T19:07:33+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236839301",
@@ -1935,6 +1887,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T22:34:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047037",
+      "title": "Ariana Grande Slams Trump For Using Her Song In Anti-Trans TikTok: \u201cYour Truth Is False\u201d",
+      "url": "https://deadline.com/2026/08/ariana-grande-slams-trump-using-song-anti-trans-tiktok-1237047037/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T23:08:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677970",
+      "title": "\u2018Lanterns\u2019 EP Damon Lindelof Weighs In on 2026\u2019s Adaptation Wars: \u201cShouldn\u2019t We Be Beyond This by Now?\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-damon-lindelof-adaptations-1236677970/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T22:59:58+00:00"
     }
   ]
 }
