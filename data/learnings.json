@@ -1232,14 +1232,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.pushsquare.com/#article-205216",
-      "title": "PS6's Purported $1,000 Price Point Could Lead to a 40% Slump in Sales",
-      "url": "https://www.pushsquare.com/news/2026/08/ps6s-purported-usd1000-price-point-could-lead-to-a-40percent-slump-in-sales",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T13:30:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237046105",
       "title": "Josiah Green-Mhlanga Headshot, Karla Crome & Tom Stourton Join BBC & Starz Love Story \u2018You Are Here\u2019",
       "url": "https://deadline.com/2026/08/bbc-starz-drama-you-are-here-more-cast-1237046105/",
@@ -1294,14 +1286,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-20T13:48:13+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205193",
-      "title": "Nintendo Download: 20th August (North America)",
-      "url": "https://www.nintendolife.com/news/2026/08/nintendo-download-20th-august-north-america",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T13:30:00+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-205220",
@@ -2494,6 +2478,54 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-20T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046266",
+      "title": "Lukas Gage And Alex Akpobome Join Jonathan Bailey And Natalie Portman In Thriller \u2018Pumping Black\u2019",
+      "url": "https://deadline.com/2026/08/lukas-gage-alex-akpobome-natalie-portman-pumping-black-1237046266/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837769",
+      "title": "How This Year\u2019s Drama Nominees, From \u2018Paradise\u2019 to \u2018The Pitt,\u2019 Tackle Our Troubled Times",
+      "url": "https://variety.com/2026/tv/awards/emmy-drama-nominees-paradise-the-pitt-troubled-times-1236837769/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838927",
+      "title": "Jessica Simpson Doc Set at Netflix From \u2018Robbie Williams\u2019 Director Joe Pearlman (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/global/jessica-simpson-documentary-netflix-joe-pearlman-1236838927/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T17:30:00+00:00"
+    },
+    {
+      "guid": "AsQWcTZBoAPFj9byhUXFe4",
+      "title": "Nintendo denies The Duskbloods' September release date in the least convincing way possible",
+      "url": "https://www.gamesradar.com/games/co-op/nintendo-denies-the-duskbloods-september-release-date-in-the-least-convincing-way-possible/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T17:18:37+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1751957",
+      "title": "TEKKEN 8 Adds Bob as New Season 3 DLC Fighter With Early Access Now Live",
+      "url": "https://otakukart.com/tekken-8-adds-bob-as-new-season-3-dlc-fighter-with-early-access-now-live/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T17:28:30+00:00"
+    },
+    {
+      "guid": "t3_1vtq03m",
+      "title": "Resident Evil Veronica producer Yoshiaki Hirabayashi is coming to Gamescom 2026.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vtq03m/resident_evil_veronica_producer_yoshiaki/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T17:29:36+00:00"
     }
   ]
 }
