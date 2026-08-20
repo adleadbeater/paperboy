@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Marvel's Wolverine mechanic revealed: Sabretooth will literally steal your kills in co-op",
-      "tag": "marvel's wolverine",
-      "posted_at": "2026-08-13T15:31:27.842664+00:00",
-      "urls": [
-        "https://www.ign.com/articles/sabretooth-will-actually-steal-wolverines-kills-when-they-team-up-in-gameplay",
-        "https://www.ign.com/articles/sabretooth-will-actually-steal-wolverines-kills-when-they-team-up-in-gameplay"
-      ],
-      "article_titles": [
-        "Sabretooth Will Actually Steal Wolverine's Kills When They Team Up in Gameplay",
-        "Sabretooth Will Actually Steal Wolverine's Kills When They Team Up in Gameplay"
-      ]
-    },
-    {
-      "headline": "Marvel's Wolverine explains why the X-Men don't exist in its world \u2014 and it's a big lore choice",
-      "tag": "marvel's wolverine",
-      "posted_at": "2026-08-13T15:31:28.032647+00:00",
-      "urls": [
-        "https://www.ign.com/articles/why-the-x-men-dont-exist-in-marvels-wolverine",
-        "https://www.ign.com/articles/why-the-x-men-dont-exist-in-marvels-wolverine"
-      ],
-      "article_titles": [
-        "Why the X-Men Don't Exist in Marvel's Wolverine",
-        "Why the X-Men Don't Exist in Marvel's Wolverine"
-      ]
-    },
-    {
       "headline": "Halo's Co-Creator Calls Out the New Remake's Main Menu Ring as a Step Too Far",
       "tag": "halo",
       "posted_at": "2026-08-13T16:16:23.018094+00:00",
@@ -1213,6 +1187,19 @@
       "article_titles": [
         "Kingdom Hearts 4 features Pixar's Coco because Tetsuya Nomura thought it \"would be the best world\" for Sora's story"
       ]
+    },
+    {
+      "headline": "Nintendo Officially Denies That Duskbloods Launches September 24",
+      "tag": "the duskbloods",
+      "posted_at": "2026-08-20T15:54:59.407214+00:00",
+      "urls": [
+        "https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied",
+        "https://www.nintendolife.com/news/2026/08/nintendo-denies-rumoured-release-date-for-the-duskbloods"
+      ],
+      "article_titles": [
+        "No, The Duskbloods isn't releasing on 24th September, according to Nintendo",
+        "Nintendo Denies Rumoured Release Date For The Duskbloods"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1233,14 +1220,6 @@
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-08-20T12:07:19+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726124",
-      "title": "Even More Unofficial GTA 6 Footage Suggests Leaker Has A Playable Build",
-      "url": "https://kotaku.com/gta-6-footage-playable-build-cyberleek-radio-stations-flying-2000726124",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T11:51:04+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237046142",
@@ -1299,14 +1278,6 @@
       "published_dt": "2026-08-20T11:55:14+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236838899",
-      "title": "Karan Johar Hails \u2018Unpredictable Nature\u2019 of Show as \u2018The Traitors\u2019 India Season 2 Becomes Prime Video\u2019s No. 1 Non-English Title (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/karan-johar-traitors-india-season-2-no-1-1236838899/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-20T11:51:52+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-205131",
       "title": "GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks",
       "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks",
@@ -1323,28 +1294,12 @@
       "published_dt": "2026-08-20T12:00:00+00:00"
     },
     {
-      "guid": "https://otakukart.com/?p=1751890",
-      "title": "Chaos Zero Nightmare Season 4 Update Adds Arabella, Great Rift Mode and New Events",
-      "url": "https://otakukart.com/chaos-zero-nightmare-season-4-update-adds-arabella-great-rift-mode-and-new-events/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T11:52:19+00:00"
-    },
-    {
       "guid": "https://www.belloflostsouls.net/?p=536692",
       "title": "Go On Your Own Epic Adventures With These Anime Inspired TTRPGs",
       "url": "https://www.belloflostsouls.net/2026/08/fight-evil-by-moonlight-with-these-anime-themed-rpgs.html",
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-20T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/",
-      "title": "Is the 5.5e Dark Sun going to remove controversial aspects of the setting?",
-      "url": "https://www.enworld.org/threads/is-the-5-5e-dark-sun-going-to-remove-controversial-aspects-of-the-setting.720375/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-08-20T11:49:00+00:00"
     },
     {
       "guid": "4b6a917c-1c12-4e1b-9376-75382497ffda",
@@ -2225,6 +2180,94 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-20T15:12:37+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/james-bond-007-first-light-sales",
+      "title": "IO Interactive announces new sales milestone for James Bond game 007 First Light",
+      "url": "https://www.eurogamer.net/james-bond-007-first-light-sales",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:32:26+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied",
+      "title": "No, The Duskbloods isn't releasing on 24th September, according to Nintendo",
+      "url": "https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:30:08+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726181",
+      "title": "The Scariest Thing In The Silent Hill: Townfall Gameplay Trailer Is How Scots Pay For Electricity",
+      "url": "https://kotaku.com/silent-hill-townfall-gameplay-demo-video-impressions-2000726181",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:45:24+00:00"
+    },
+    {
+      "guid": "PMEUADQkFxQmowzDQLZPAJ",
+      "title": "AMD Ryzen 7 7700X3D review",
+      "url": "https://www.pcgamer.com/hardware/processors/amd-ryzen-7-7700x3d-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:49:27+00:00"
+    },
+    {
+      "guid": "gt7beGXN4D82kBzGeCafsF",
+      "title": "Where to find Mascot City's Tokyo City Dango area in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-mascot-citys-tokyo-city-dango-area-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:33:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046296",
+      "title": "Hayden Panettiere\u2019s \u2018Nashville\u2019 Husband Jonathan Jackson Pays Tribute To \u201cAmazingly Gifted\u201d Star: \u201cYou Will Always Be In Our Hearts\u201d",
+      "url": "https://deadline.com/2026/08/hayden-panettiere-nashville-jonathan-jackson-tribute-1237046296/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:36:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237046306",
+      "title": "Dennis Haysbert & Ashley Greene Among Seven Final Additions To Indie Horror Film \u2018Deify\u2019",
+      "url": "https://deadline.com/2026/08/deify-dennis-haysbert-ashley-greene-join-horror-movie-1237046306/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:36:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677667",
+      "title": "\u2018DAU\u2019 Director Defends Film After Ukraine Backlash",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dau-director-defends-film-ukraine-backlash-1236677667/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:49:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677672",
+      "title": "The Cloning Company Trying to Bring Back the Woolly Mammoth Enlists \u2018Paw Patrol\u2019 in Its Efforts (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/paw-patrol-genetic-engineering-bioscience-film-1236677672/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-20T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205233",
+      "title": "Denshattack's Free Update Challenges You to Earn Even Harder Platinum Medals on PS5",
+      "url": "https://www.pushsquare.com/news/2026/08/denshattacks-free-update-challenges-you-to-earn-even-harder-platinum-medals-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T15:45:00+00:00"
+    },
+    {
+      "guid": "t3_1vtmsq1",
+      "title": "Seems like a Rockstar India employee got phished and the result seems to be a screenshot of a GTA 6 devbuild from one month ago",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vtmsq1/seems_like_a_rockstar_india_employee_got_phished/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-20T15:33:20+00:00"
     }
   ]
 }
