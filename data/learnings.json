@@ -1,45 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Call of Duty: Modern Warfare 4 Beta Will Let Players Try a Campaign Mission for the First Time in CoD History",
-      "tag": "call of duty: modern warfare 4",
-      "posted_at": "2026-08-14T15:01:05.129099+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has/",
-        "https://www.pushsquare.com/news/2026/08/call-of-duty-modern-warfare-4s-ps5-beta-includes-campaign-mission-for-the-first-time"
-      ],
-      "article_titles": [
-        "Call Of Duty: Modern Warfare 4 Beta Will Do Something No Previous CoD Beta Has",
-        "Call of Duty: Modern Warfare 4's PS5 Beta Includes Campaign Mission for the First Time"
-      ]
-    },
-    {
-      "headline": "Epic Games Launcher Is Finally Coming to Linux",
-      "tag": "epic games",
-      "posted_at": "2026-08-14T15:12:29.703548+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/the-epic-games-launcher-will-be-available-on-linux-soon-says-dev-after-its-had-a-bit-of-work/",
-        "https://www.pcgamer.com/hardware/the-epic-games-launcher-will-be-available-on-linux-soon-says-dev-after-its-had-a-bit-of-work/"
-      ],
-      "article_titles": [
-        "The Epic Games Launcher will be available on Linux 'soon' says dev, after it's had a bit of work",
-        "The Epic Games Launcher will be available on Linux 'soon' says dev, after it's had a bit of work"
-      ]
-    },
-    {
-      "headline": "Palworld's New Trading Card Game Is Already Sold Out and Overrun by Scalpers",
-      "tag": "palworld",
-      "posted_at": "2026-08-14T15:12:29.946440+00:00",
-      "urls": [
-        "https://kotaku.com/palworld-official-card-game-tcg-pocketpair-bushiroad-scalpers-2000724457",
-        "https://kotaku.com/palworld-official-card-game-tcg-pocketpair-bushiroad-scalpers-2000724457"
-      ],
-      "article_titles": [
-        "Palworld\u2019s Brand New Trading Card Game Is Out Of Stock And Plagued By Scalpers",
-        "Palworld\u2019s Brand New Trading Card Game Is Out Of Stock And Plagued By Scalpers"
-      ]
-    },
-    {
       "headline": "The Mandalorian and Grogu Gets a Disney+ Release Date This September",
       "tag": "the mandalorian and grogu",
       "posted_at": "2026-08-14T15:31:25.716212+00:00",
@@ -1346,6 +1307,21 @@
         "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes",
         "Cyberleek's still at it: Another GTA 6 leak shows 2 full minutes of high speed driving, surprisingly few crashes"
       ]
+    },
+    {
+      "headline": "The Blood of Dawnwalker Won't Hit 60fps on PS5 or PS5 Pro at Launch",
+      "tag": "the blood of dawnwalker",
+      "posted_at": "2026-08-21T15:29:42.129016+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-blood-of-dawnwalker-wont-run-at-60fps-on-console-and-fans-arent-happy",
+        "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro",
+        "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro"
+      ],
+      "article_titles": [
+        "The Blood of Dawnwalker Won\u2019t Run at 60fps on Console, and Fans Aren\u2019t Happy",
+        "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro",
+        "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1982,6 +1958,206 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "0c3c1f8b-75a6-4e28-86c6-d6793fa0c027",
+      "title": "The Blood of Dawnwalker Won\u2019t Run at 60fps on Console, and Fans Aren\u2019t Happy",
+      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-wont-run-at-60fps-on-console-and-fans-arent-happy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:02:59+00:00"
+    },
+    {
+      "guid": "284b344d-c64f-46e6-a72a-3bd36099af56",
+      "title": "Spend \u00a369 on Video Games and Get an Extra \u00a310 Back at Amazon This Weekend",
+      "url": "https://www.ign.com/articles/spend-69-on-video-games-and-get-an-extra-10-back-at-amazon-this-weekend",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T14:59:41+00:00"
+    },
+    {
+      "guid": "224e1ebd-0049-4d69-b4aa-bcdd2689fdb6",
+      "title": "Duchess of Sussex Meghan Markle is Reportedly Getting Back Into Acting",
+      "url": "https://www.ign.com/articles/duchess-of-sussex-meghan-markle-is-reportedly-getting-back-into-acting",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T14:59:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726645",
+      "title": "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
+      "url": "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:02:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047399",
+      "title": "\u2018Hercule\u2019: BritBox Unveils First Look At Edward Bluemel As Title Character In Poirot Origin Series",
+      "url": "https://deadline.com/2026/08/hercule-edward-bluemel-first-look-polrot-origin-photo-1237047399/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:08:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839972",
+      "title": "Seth Rogen, Colman Domingo, Danny Boyle Join Speakers Lineup at Toronto Market Summit",
+      "url": "https://variety.com/2026/film/global/seth-rogen-colman-domingo-danny-boyle-jtoronto-market-1236839972/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:21:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836995",
+      "title": "Trump\u2019s White House Blasts Rosie O\u2019Donnell After \u2018Jimmy Kimmel Live\u2019 Hosting Run: A \u2018Nasty Woman\u2019 and \u2018Total Slob\u2019",
+      "url": "https://variety.com/2026/tv/news/trump-white-house-blasts-rosie-odonnell-jimmy-kimmel-live-1236836995/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:17:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840084",
+      "title": "\u2018The Pitt\u2019 Season 3 Trailer: Dr. Robby\u2019s First Day Back Is Filled With More Medical Emergencies",
+      "url": "https://variety.com/2026/tv/news/the-pitt-season-3-trailer-noah-wyle-dr-robby-1236840084/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:13:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839970",
+      "title": "Deauville American Film Festival Unveils Buzzy Lineup, Sets Honors for Brendan Fraser, Faye Dunaway, Ethan Hawke, Susan Surandon, Sophie Thatcher and Patrick Schwarzenegger",
+      "url": "https://variety.com/2026/film/global/deauville-american-film-festival-unveils-lineup-honorees-1236839970/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:12:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840077",
+      "title": "Korean Esports Group DRX Launches Digital Entertainment Division, Signs Two K-Drama Projects and Game Publishing Business",
+      "url": "https://variety.com/2026/tv/news/drx-digital-entertainment-k-drama-game-publishing-1236840077/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:07:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837033",
+      "title": "Can Microdramas Save Hollywood? Why the New Vertical Boom Isn\u2019t Quibi 2.0",
+      "url": "https://variety.com/2026/tv/features/can-microdramas-save-hollywood-why-vertical-boom-isnt-quibi-1236837033/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236837727",
+      "title": "Sam Smith Wears Their Heart on Their Sleeve With the Lovestruck \u2018Hazel Eyes\u2019: Album Review",
+      "url": "https://variety.com/2026/music/news/sam-smith-hazel-eyes-album-review-1236837727/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839795",
+      "title": "Magenta Light Studios Nabs U.S. and Canadian Distribution Rights to Brazilian Crime Drama \u2018The King of the Internet\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/magenta-light-studios-king-of-the-internet-fabricio-bittar-1236839795/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678303",
+      "title": "\u2018Insidious: Out of the Further\u2019 Hunts Down $3M in Box Office Previews",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/insidious-out-of-the-further-box-office-previews-spider-man-1236678303/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T15:16:58+00:00"
+    },
+    {
+      "guid": "xb9jffpZUvcngBFmwNh42o",
+      "title": "The Russo Brothers' foreword to key Avengers: Doomsday comic inspiration prove they understand the assignment for Doctor Doom: \"He is ambition and fear woven together\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/the-russo-brothers-foreword-to-key-avengers-doomsday-comic-inspiration-prove-they-understand-the-assignment-for-doctor-doom-he-is-ambition-and-fear-woven-together/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:19:04+00:00"
+    },
+    {
+      "guid": "EVCwamjWTsJNdJsSdHwTjm",
+      "title": "Dark Souls fans got this one right: new Soulslike where you play as a Sif-coded dog with a sword is now and forever \"Bark Souls\"",
+      "url": "https://www.gamesradar.com/games/dark-souls/dark-souls-fans-got-this-one-right-new-soulslike-where-you-play-as-a-sif-coded-dog-with-a-sword-is-now-and-forever-bark-souls/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:12:07+00:00"
+    },
+    {
+      "guid": "cY9aRoYyimhChwfC7vnC8W",
+      "title": "The Lexar Play X SSD combines an M.2 2230 drive with an adapter into a handy and speedy package, but you won't find it in the US yet",
+      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/lexar-play-x-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:11:28+00:00"
+    },
+    {
+      "guid": "PDQFwMaC9j5GsPBFtL4epd",
+      "title": "Dark Souls creator Hidetaka Miyazaki has good news for anyone worried about PvP in The Duskbloods: he sucks at it too, and you don't \"have to be great at PvP in order to win\"",
+      "url": "https://www.gamesradar.com/games/action/dark-souls-creator-hidetaka-miyazaki-has-good-news-for-anyone-worried-about-pvp-in-the-duskbloods-he-sucks-at-it-too-and-you-dont-have-to-be-great-at-pvp-in-order-to-win/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "WrK7haQktxyaVRazf87SdD",
+      "title": "My Baldur's Gate 3 no weapons run descended into chaos when Lae'zel got kidnapped, so I reshaped my party around it",
+      "url": "https://www.gamesradar.com/games/baldur-s-gate/my-baldurs-gate-3-no-weapons-run-descended-into-chaos-when-laezel-got-kidnapped-so-i-reshaped-my-party-around-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "KtUG3maEj2J679HWLCBdRB",
+      "title": "After over 1,000 hours in Cyberpunk 2077, I'm convinced the Nomads are the best group and lifepath in the RPG",
+      "url": "https://www.gamesradar.com/games/cyberpunk/after-over-1-000-hours-in-cyberpunk-2077-im-convinced-the-nomads-are-the-best-group-and-lifepath-in-the-rpg/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "g7nritgQAx5mnuwMnUWCvA",
+      "title": "4 years ago, Dave Bautista's casting as Kratos was manifested in a Guardians of the Galaxy special",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/4-years-ago-dave-bautistas-casting-as-kratos-was-manifested-in-a-guardians-of-the-galaxy-special/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T14:59:26+00:00"
+    },
+    {
+      "guid": "1857782",
+      "title": "Microsoft And Discord Subpoenaed In GTA 6 Leak Case",
+      "url": "https://www.gamespot.com/articles/microsoft-and-discord-subpoenaed-in-gta-6-leak-case/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T14:57:53+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205280",
+      "title": "\"Now, The Fight Becomes Super!\" - This SNES-Inspired Fighting Game Is Basically Transformers Meets Rock 'Em Sock 'Em Robots",
+      "url": "https://www.timeextension.com/news/2026/08/now-the-fight-becomes-super-this-snes-inspired-fighting-game-is-basically-transformers-meets-rock-em-sock-em-robots",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752086",
+      "title": "Sakamoto Days Season 2 Character Trailer Introduces Three Key New Characters",
+      "url": "https://otakukart.com/sakamoto-days-season-2-character-trailer-introduces-three-key-new-characters/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:19:13+00:00"
+    },
+    {
+      "guid": "t3_1vuj1no",
+      "title": "All known songs in GTA VI",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vuj1no/all_known_songs_in_gta_vi/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T15:10:31+00:00"
     }
   ]
 }
