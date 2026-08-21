@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Monkey Island Creator Ron Gilbert's Next Game Is Getting Funded by a Private Investor Fed Up With Publishers",
-      "tag": "ron gilbert",
-      "posted_at": "2026-08-14T20:00:48.482921+00:00",
-      "urls": [
-        "https://kotaku.com/monkey-island-creators-next-game-is-funded-by-a-rich-guy-because-he-was-tired-of-bad-publisher-deals-2000724533"
-      ],
-      "article_titles": [
-        "Monkey Island Creator\u2019s Next Game Is Funded By A Rich Guy Because He Was Tired Of Bad Publisher Deals"
-      ]
-    },
-    {
       "headline": "Saber Interactive Adds AI Disclosure to Rideshare Simulator After CEO's Public Feud With Writer Who Claims She Was Replaced by ChatGPT",
       "tag": "rideshare simulator",
       "posted_at": "2026-08-14T21:13:17.196705+00:00",
@@ -1308,75 +1297,24 @@
         "Jason Schreier: Rockstar has not yet figured out who was behind this week's widespread Grand Theft Auto VI leaks, nor how it happened, sources say. No plans to move next week's Netflix premiere. Inside the company: frustration, exhaustion, anger.",
         "Grand Theft Auto 6 Leaks Are Fueling A Crypto Pump-And-Dump Scheme"
       ]
+    },
+    {
+      "headline": "James Pond Reboot Devs Accused of Using Generative AI Art",
+      "tag": "james pond",
+      "posted_at": "2026-08-21T20:31:11.027874+00:00",
+      "urls": [
+        "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
+        "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706"
+      ],
+      "article_titles": [
+        "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot",
+        "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "ZcRrJ52eSajgiMKnqKSdfR",
-      "title": "Lone game dev builds an explorable cyberpunk city almost entirely out of ASCII characters",
-      "url": "https://www.pcgamer.com/hardware/lone-game-dev-builds-an-explorable-cyberpunk-city-almost-entirely-out-of-ascii-characters/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T16:16:42+00:00"
-    },
-    {
-      "guid": "XQEduP6EJATARZqpbWAoAB",
-      "title": "Take-Two kicks off GTA 6 leaker hunt with subpoenas demanding records from Microsoft and Discord",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-kicks-off-gta-6-leaker-hunt-with-subpoenas-demanding-records-from-microsoft-and-discord/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T16:10:58+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237047483",
-      "title": "Comedian Jack Assadourian Jr. Sets Premiere Date For Debut Special \u2018Mexican Armenian\u2019 Directed By Jeremiah Watkins \u2013 Watch The Trailer",
-      "url": "https://deadline.com/2026/08/jack-assadourian-jr-special-premiere-date-mexican-armenian-1237047483/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T16:11:09+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840135",
-      "title": "Bonnaroo to Take Off 2027 to Recover From Extreme Weather",
-      "url": "https://variety.com/2026/music/news/bonnaroo-take-off-2027-recover-from-extreme-weather-1236840135/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T16:12:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677441",
-      "title": "How \u2018The Magic Faraway Tree\u2019 Embraced Its Dated Source Material to Deliver a Humble Yet Epic Adaptation",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/magic-faraway-tree-movie-potential-sequel-andrew-garfield-1236677441/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T16:15:00+00:00"
-    },
-    {
-      "guid": "F5zEigZnjDNZ5qoAZJpArM",
-      "title": "Marvel Tokon debuts with less than 3,000 physical copies sold in Japan, well under Arc Systems' Guilty Gear and BlazBlue fighters",
-      "url": "https://www.gamesradar.com/games/fighting/marvel-tokon-debuts-with-less-than-3-000-physical-copies-sold-in-japan-well-under-arc-systems-guilty-gear-and-blazblue-fighters/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T16:16:58+00:00"
-    },
-    {
-      "guid": "t3_1vul2ss",
-      "title": "Search Reddit using phrases like \u201cGTA 6 leaked videos\u201d to find the leaked clips.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vul2ss/search_reddit_using_phrases_like_gta_6_leaked/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T16:25:24+00:00"
-    },
-    {
-      "guid": "1857827",
-      "title": "Nintendo\u2019s War On Switch Emulators Continues With 400 More GitHub Takedowns",
-      "url": "https://www.gamespot.com/articles/nintendos-war-on-switch-emulators-continues-with-400-more-github-takedowns/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T16:17:40+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237047508",
       "title": "White House Derides Rosie O\u2019Donnell As A \u201cNasty Woman\u201d After She Skewers Trump During Jimmy Kimmel Guest Host Gig",
@@ -2072,6 +2010,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-21T20:04:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840360",
+      "title": "Miss USA, Miss Teen USA Pageants Pulled From The CW Just a Week Before Air",
+      "url": "https://variety.com/2026/tv/news/miss-usa-miss-teen-usa-pageants-pulled-the-cw-1236840360/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T20:25:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236831709",
+      "title": "How Hollywood\u2019s Veterans Are Chasing Emmy History: Sally Field, Harrison Ford, Martin Short and More",
+      "url": "https://variety.com/2026/tv/awards/harrison-ford-sally-field-emmys-2026-oldest-winner-history-1236831709/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T20:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840276",
+      "title": "\u2018The Yogurt Shop Murders\u2019 Crew Thought Their Journey Was Done Until There Was a Big Break in the Case: \u2018We Have to Rally Now\u2019",
+      "url": "https://variety.com/2026/tv/focus/yogurt-shop-murders-break-case-1236840276/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T20:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840376",
+      "title": "\u2018The Odyssey\u2019 Sets Digital, 4K Blu-ray Release Dates",
+      "url": "https://variety.com/2026/film/news/odyssey-digital-4k-blu-ray-release-1236840376/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T20:11:40+00:00"
+    },
+    {
+      "guid": "zWddRBQSDQZdtUmtqpPMGk",
+      "title": "DC Studios' \"first foray into the true crime genre\" The People v. Gorilla Grodd greenlit at HBO Max as James Gunn calls it \"truly special\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/dc-studios-first-foray-into-the-true-crime-genre-the-people-v-gorilla-grodd-greenlit-at-hbo-max-as-james-gunn-calls-it-truly-special/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T20:24:36+00:00"
+    },
+    {
+      "guid": "1858015",
+      "title": "Call Of Duty\u2019s Most Controversial Item Is Back In Modern Warfare 4, But With Some Major Changes",
+      "url": "https://www.gamespot.com/articles/call-of-dutys-most-controversial-item-is-back-in-modern-warfare-4-but-with-some-major-changes/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T20:02:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752133",
+      "title": "Yen Press Announces The Boy and the Beast Audiobook and Three More New Titles for Anime NYC",
+      "url": "https://otakukart.com/yen-press-announces-the-boy-and-the-beast-audiobook-and-three-more-new-titles-for-anime-nyc/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T20:28:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752132",
+      "title": "Tencent Games\u00a0Reveals Its Largest-Ever gamescom 2026 Lineup With 20+ Games and Major Tech Showcases",
+      "url": "https://otakukart.com/tencent-games-reveals-its-largest-ever-gamescom-2026-lineup-with-20-games-and-major-tech-showcases/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T20:13:32+00:00"
+    },
+    {
+      "guid": "t3_1vurosd",
+      "title": "more information about the ps1 lego set",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vurosd/more_information_about_the_ps1_lego_set/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T20:28:02+00:00"
     }
   ]
 }
