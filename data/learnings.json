@@ -1353,46 +1353,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000726726",
-      "title": "Rockstar Games Reportedly Remains In The Dark About Who\u2019s Leaking GTA 6 But Still Moving Ahead With Netflix Reveal",
-      "url": "https://kotaku.com/rockstar-games-reportedly-still-in-the-dark-about-whos-leaking-gta-6-and-how-2000726726",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:20:07+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236035246",
-      "title": "TV Show Book Adaptations Arriving In 2026 So Far",
-      "url": "https://deadline.com/feature/tv-show-based-on-books-this-year-1236035246/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:23:21+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237047626",
-      "title": "Guest Column: Why Talk Show Legend Merrill Markoe Felt Right At Home On \u2018Hacks\u2019 After Years Of Real-Life Writing For \u2018Letterman\u2019",
-      "url": "https://deadline.com/2026/08/hacks-merrill-markoe-letterman-interview-1237047626/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:22:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840308",
-      "title": "Shaquille O\u2019Neal: Marvel Turned Me Down for the \u2018Avengers\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/shaquille-o-neal-marvel-turned-me-down-avengers-1236840308/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:28:14+00:00"
-    },
-    {
-      "guid": "ApLxEVaNEg8YDhUHjdRkhf",
-      "title": "Cyberleek's GTA 6 leaks won't change Rockstar's Netflix reveal plans, report says",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/cyberleeks-gta-6-leaks-wont-change-rockstars-netflix-reveal-plans-report-says/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T19:40:56+00:00"
-    },
-    {
       "guid": "8FkweQEdyDSA6kqdrTtqhY",
       "title": "2 Steam top sellers, 2 simultaneous betas, 2 very different shooters: It's Wardogs & Modern Warfare weekend",
       "url": "https://www.pcgamer.com/games/fps/2-steam-top-sellers-2-simultaneous-betas-2-very-different-shooters-its-wardogs-and-modern-warfare-weekend/",
@@ -1415,14 +1375,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-21T19:45:00+00:00"
-    },
-    {
-      "guid": "1857991",
-      "title": "GTA 6 Leaker Has Not Been Identified Yet \u2013 Report",
-      "url": "https://www.gamespot.com/articles/gta-6-leaker-has-not-been-identified-yet-report/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T19:29:14+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121491",
@@ -1871,6 +1823,78 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-21T22:59:33+00:00"
+    },
+    {
+      "guid": "HeAzFi4eQBrUsJdxxStdYY",
+      "title": "Rockstar employees frustrated by GTA 6 leaks, though they may have only whet appetites for the reveal",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-employees-frustrated-by-gta-6-leaks-though-they-may-have-only-whet-appetites-for-the-reveal/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:37:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047967",
+      "title": "Bruce Campbell Clarifies He\u2019s \u201cTapped Out\u201d Of The \u2018Evil Dead\u2019 Franchise, Didn\u2019t Want Ash To Be \u201cBorderline Geezer\u201d",
+      "url": "https://deadline.com/2026/08/bruce-campbell-clarifies-tapped-evil-dead-franchise-1237047967/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:39:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047966",
+      "title": "\u2018Chicago Fire\u2019 Adds Matthew Daddario For Season 15",
+      "url": "https://deadline.com/2026/08/chicago-fire-matthew-daddario-cast-season-15-1237047966/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:33:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047405",
+      "title": "Sony Double Feature At The B.O.: \u2018Spider-Man: Brand New Day\u2019 $35M, \u2018Insidious 6\u2019 $23M Opening \u2013 Box Office Update",
+      "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047976",
+      "title": "TikTok To Pay $400M In Justice Department Settlement Over Children\u2019s Privacy",
+      "url": "https://deadline.com/2026/08/tiktok-400m-justice-department-settlement-childrens-privacy-1237047976/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:28:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840245",
+      "title": "Secret Hollywood Group\u2019s AI Plan Focuses on Defining How AI Is Used \u2014 While Keeping Humans in Control",
+      "url": "https://variety.com/2026/biz/news/secret-hollywood-groups-ai-plan-protecting-copyrighted-work-1236840245/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:12:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678841",
+      "title": "Gavin Newsom Says Paramount Settlement Talks Happening In \u201cReal Time,\u201d Signals He\u2019d Like a Deal",
+      "url": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-support-paramount-antitrust-settlement-talks-1236678841/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:39:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678801",
+      "title": "Madonna and Kylie Minogue Take \u201cLove Sensation\u201d Straight Back to No. 1",
+      "url": "https://www.hollywoodreporter.com/music/music-news/madonna-kylie-minogue-love-sensation-1236678801/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:23:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678791",
+      "title": "Hayden Panettiere\u2019s Boyfriend Gave Her Narcan Before Death, Brother Says",
+      "url": "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-narcan-death-boyfriend-brian-hickerson-1236678791/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:13:18+00:00"
     }
   ]
 }
