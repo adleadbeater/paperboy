@@ -1320,14 +1320,6 @@
       "published_dt": "2026-08-21T13:06:00+00:00"
     },
     {
-      "guid": "5533e84e-c5a2-46a3-bbff-7e23f3c48fe7",
-      "title": "Exquisite Corpses: Fox Mask Killer Delivers a Blood-Drenched Comic Book Epic",
-      "url": "https://www.ign.com/articles/exquisite-corpses-fox-mask-killer-delivers-a-blood-drenched-comic-book-epic",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
       "title": "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
       "url": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
@@ -1360,14 +1352,6 @@
       "published_dt": "2026-08-21T13:15:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237047176",
-      "title": "New PE Firm BlackSun Raises $1 Billion For Sports, Media Fund",
-      "url": "https://deadline.com/2026/08/private-equity-firm-blacksun-sports-media-fund-1237047176/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236678084",
       "title": "Movie Theater Owner: What Worries Me About the War on Paramount and Warner Bros.",
       "url": "https://www.hollywoodreporter.com/business/business-news/movie-theater-owner-paramount-warner-bros-1236678084/",
@@ -1390,22 +1374,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-21T13:08:46+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121435",
-      "title": "Gintama and Osomatsu-san Collaboration Celebrates Anniversaries",
-      "url": "https://www.siliconera.com/gintama-and-osomatsu-san-collaboration-celebrates-anniversaries/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205249",
-      "title": "Review: Evercade Wireless Controller - The Perfect Interface For The Next Era Of Evercade",
-      "url": "https://www.timeextension.com/reviews/evercade-wireless-controller-the-perfect-interface-for-the-next-era-of-evercade",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1752080",
@@ -2430,6 +2398,22 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-21T16:30:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237017386",
+      "title": "Ruby Karp Sets Veeps Launch For Comedy Special \u2018I Don\u2019t Trust Adults\u2019",
+      "url": "https://deadline.com/2026/08/ruby-karp-special-streaming-premiere-date-i-dont-trust-adults-1237017386/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121466",
+      "title": "Dragon Quest Monsters: The Withered World Supporting Characters and Waterwing Can Shown",
+      "url": "https://www.siliconera.com/dragon-quest-monsters-the-withered-world-supporting-characters-and-waterwing-can-shown/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T17:00:00+00:00"
     }
   ]
 }
