@@ -1355,132 +1355,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237047545",
-      "title": "HBO Max\u2019s Jimmy Olsen & Gorilla Grodd \u2018Superman\u2019 Spinoff Series Gets Series Order & Title, Reveals Cast",
-      "url": "https://deadline.com/2026/08/hbo-max-jimmy-olsen-people-v-gorilla-grodd-series-cast-1237047545/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840183",
-      "title": "DC\u2019s \u2018People v. Gorilla Grodd\u2019 Mockumentary Series Set at HBO Max, Skyler Gisondo and Jimmy Tatro to Star",
-      "url": "https://variety.com/2026/tv/news/people-v-gorilla-grodd-hbo-max-skyler-gisondo-jimmy-tatro-1236840183/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:45:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677957",
-      "title": "The Fashion of \u2018The Shards\u2019: Halston, Claude Montana and \u201cWe All Bow Down to Armani\u201d",
-      "url": "https://www.hollywoodreporter.com/lifestyle/style/the-shards-style-halston-claude-montana-fx-1236677957/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:48:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840256",
-      "title": "Quality Control Co-Founder Pierre \u2018P\u2019 Thomas Hospitalized After Suffering Heart Attack",
-      "url": "https://variety.com/2026/music/news/pierre-p-thomas-quality-control-hospitalized-heart-attack-1236840256/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:53:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840080",
-      "title": "Why \u2018American Doctor\u2019 Director Quit Her ABC Executive Job and Drained Her Savings Account to Make a Documentary About Gaza Healthcare Workers",
-      "url": "https://variety.com/2026/film/features/american-doctor-director-documentary-gaza-healthcare-workers-1236840080/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:53:02+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676611",
-      "title": "\u2018Defying Democracy\u2019: How Political Satirist Randy Rainbow Sang His Way Into His First Emmy Performer Nomination",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/randy-rainbow-emmy-nomination-1236676611/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121484",
-      "title": "Chainsmoker Cat Yanineko Figma Figure Arrives After Anime",
-      "url": "https://www.siliconera.com/chainsmoker-cat-yanineko-figma-figure-arrives-after-anime/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T18:00:00+00:00"
-    },
-    {
-      "guid": "51d7fd0b-955f-41d4-9f5f-8663d65ca8ea",
-      "title": "A Classic Scene From the I Spy Books Has Been Recreated in LEGO",
-      "url": "https://www.ign.com/articles/a-classic-scene-from-the-i-spy-books-has-been-recreated-in-lego",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:59:13+00:00"
-    },
-    {
-      "guid": "4e1b3ba6-68d9-4540-8171-59a6a4713361",
-      "title": "Save 50% Off Razer's Premium 14-in-1 USB 4 Docking Station for Gaming Laptops",
-      "url": "https://www.ign.com/articles/razer-laptop-docking-station-deal-august-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:55:00+00:00"
-    },
-    {
-      "guid": "30842d8e-fff4-481b-9399-ee763ac23dd5",
-      "title": "Soulslike Game Where You Play as a Sword-Wielding Dog Goes Viral Because, Well, You're a Sword-Wielding Dog",
-      "url": "https://www.ign.com/articles/soulslike-game-where-you-play-as-a-sword-wielding-dog-goes-viral-because-well-youre-a-sword-wielding-dog",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:46:26+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726691",
-      "title": "Has Anyone Seen My Son Lifeweaver Overwatch?",
-      "url": "https://kotaku.com/overwatch-lifeweaver-disabled-disappeared-gone-bug-2000726691",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T18:04:14+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726668",
-      "title": "Kingdom Hearts 4 Director Tetsuya Nomura Sends Fans Spiraling With World Ends With You T-Shirt",
-      "url": "https://kotaku.com/kingdom-hearts-4-the-world-ends-with-you-characters-2000726668",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T18:00:54+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236839167",
-      "title": "\u2018It Ends\u2019: Is Alexander Ullom the Next Great Horror Director?",
-      "url": "https://variety.com/2026/film/features/it-ends-alexander-ullom-next-horror-movie-director-1236839167/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T18:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236678525",
       "title": "Michelle Pfeiffer Reveals Career Plans After Saying She \u201cNever\u201d Wanted to \u201cStar in Another Movie\u201d",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/michelle-pfeiffer-reveals-career-plans-never-star-in-movie-1236678525/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-21T18:15:12+00:00"
-    },
-    {
-      "guid": "1857894",
-      "title": "Naughty Dog\u2019s Intergalactic Adds An Actor From The Last Of Us And Uncharted",
-      "url": "https://www.gamespot.com/articles/naughty-dogs-intergalactic-adds-an-actor-from-the-last-of-us-and-uncharted/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T17:49:10+00:00"
-    },
-    {
-      "guid": "https://www.tabletopbattles.com/how-to-paint-everything-horrible-flesh-textures-for-trench-crusade/",
-      "title": "How to Paint Everything: Horrible Flesh Textures for Trench Crusade",
-      "url": "https://www.tabletopbattles.com/how-to-paint-everything-horrible-flesh-textures-for-trench-crusade/",
-      "source_name": "Goonhammer",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T18:00:36+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000726704",
@@ -2009,6 +1889,54 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-21T21:43:36+00:00"
+    },
+    {
+      "guid": "12015010-7370-4bb3-a70a-969f0d27f149",
+      "title": "GTA 6 U.S. Army Deal Has Already Convinced at Least 20 Soldiers to Reenlist",
+      "url": "https://www.ign.com/articles/gta-6-us-army-deal-has-already-convinced-at-least-20-soldiers-to-reenlist",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T21:40:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726752",
+      "title": "In This Soulslike, The Dog Will Pet You Back\u2026With A Sword",
+      "url": "https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T22:00:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047840",
+      "title": "Taylor Swift Goes Inside Capturing \u2018The Eras Tour: The Final Show\u2019 With Director Glenn Weiss On Emmy Campaign Trail",
+      "url": "https://deadline.com/2026/08/taylor-swift-eras-tour-final-show-emmy-nominations-1237047840/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T21:58:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047868",
+      "title": "Michelle Pfeiffer Clarifies She \u201cNever Said\u201d She\u2019s Retiring: \u201cThe Most Ridiculous Thing\u201d",
+      "url": "https://deadline.com/2026/08/michelle-pfeiffer-clarifies-never-said-retiring-1237047868/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T21:48:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1235195076",
+      "title": "The Best Sunscreens for Your Face (and Body), as Recommended by Beauty Insiders",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-sunscreens-for-face-body-experts-recommended-1235195076/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T21:51:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678719",
+      "title": "Julie Klausner Calls Phone Comedy \u201cIsolating\u201d and \u201cReductive\u201d at Live \u2018It Happened in Hollywood\u2019",
+      "url": "https://www.hollywoodreporter.com/news/general-news/julie-klausner-it-happened-in-hollywood-difficult-people-1236678719/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T21:44:13+00:00"
     }
   ]
 }
