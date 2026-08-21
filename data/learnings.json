@@ -1275,38 +1275,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
-      "title": "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
-      "url": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:22:13+00:00"
-    },
-    {
-      "guid": "B4RJ9RxD2s24Pa7RTCRbWh",
-      "title": "Someone has managed to run Zork on the Steam Controller's internal hardware, but it's risky business",
-      "url": "https://www.pcgamer.com/hardware/controllers/someone-has-managed-to-run-zork-on-the-steam-controllers-internal-hardware-but-its-risky-business/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:24:53+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237044502",
-      "title": "What\u2019s Next For ABC Vs. FCC: Lawsuit Looks To Put Trump Attacks On Trial, But The First Battle May Be About Timing",
-      "url": "https://deadline.com/2026/08/abc-fcc-lawsuit-explained-whats-next-1237044502/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752081",
-      "title": "Cyberpunk: Edgerunners 2 Trailer Confirms October 2026 Release Date for Netflix Anime",
-      "url": "https://otakukart.com/cyberpunk-edgerunners-2-trailer-confirms-october-2026-release-date-for-netflix-anime/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:26:12+00:00"
-    },
-    {
       "guid": "https://www.videogameschronicle.com/?p=244519",
       "title": "Marvel Tokon: Fighting Souls sold fewer than 3,000 units in Japan in its first week",
       "url": "https://www.videogameschronicle.com/news/marvel-tokon-fighting-souls-sold-fewer-than-3000-units-in-japan-in-its-first-week/",
@@ -1409,14 +1377,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-21T13:30:48+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205283",
-      "title": "Guide: Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What's Included",
-      "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:30:00+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-205281",
@@ -2377,6 +2337,62 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-21T17:13:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726673",
+      "title": "Everything\u2019s Riding On A Marvel T\u014dkon Redemption Arc After 2026 Becomes A Parade Of Disappointing 2D Fighting Games",
+      "url": "https://kotaku.com/marvel-tokon-2xko-avatar-invincible-fighting-games-fgc-2000726673",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:22:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047555",
+      "title": "Chris Yost & Eric Heisserer Set As Showrunners For Peacock Drama Series \u2018Dungeon Crawler Carl\u2019",
+      "url": "https://deadline.com/2026/08/chris-yost-eric-heisserer-showrunners-dungeon-crawler-carl-1237047555/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:29:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236657584",
+      "title": "Niki Byrne, Director of Chase Infiniti TIFF Movie \u2018The Juliet Set,\u2019  Signs with Underground (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-juliet-set-filmmaker-niki-byrne-signs-with-underground-1236657584/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc-gallery&p=1236674382",
+      "title": "\u2018Outer Banks\u2019 Celebrates Final Season, \u2018Fast & Furious\u2019 Turns 25 and This Week\u2019s Best Events",
+      "url": "https://www.hollywoodreporter.com/gallery/outer-banks-fast-and-furious-red-carpet-events-1236674382/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:28:46+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678473",
+      "title": "The CW Drops Miss USA Pageant a Week Before Scheduled Airing",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/miss-usa-2026-dropped-from-the-cw-1236678473/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:25:15+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205097",
+      "title": "Dev Behind Zelda: BotW 3DS 'Demake' Says It \"Wasn't Meant To Be Seen By Anyone\"",
+      "url": "https://www.timeextension.com/news/2026/08/dev-behind-zelda-botw-3ds-demake-says-it-wasnt-meant-to-be-seen-by-anyone",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T17:30:00+00:00"
+    },
+    {
+      "guid": "t3_1vumrti",
+      "title": "The Cyberleek Telegram channel has been shut down.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vumrti/the_cyberleek_telegram_channel_has_been_shut_down/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T17:26:35+00:00"
     }
   ]
 }
