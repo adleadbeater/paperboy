@@ -1,54 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Spider-Man: Beyond the Spider-Verse trailer leaks online \u2014 co-writer Chris Miller responds",
-      "tag": "spider-man: beyond the spider-verse",
-      "posted_at": "2026-08-14T16:31:36.091666+00:00",
-      "urls": [
-        "https://variety.com/2026/film/news/spider-man-beyond-spider-verse-trailer-leak-1236834648/"
-      ],
-      "article_titles": [
-        "\u2018Spider-Man: Beyond the Spider-Verse\u2019 Trailer Leaks Online, Prompting Co-Writer Chris Miller to Speak Out: \u2018Not a Fan of Leaks of Unfinished Footage\u2019"
-      ]
-    },
-    {
-      "headline": "Pok\u00e9mon Bank's shutdown is erasing unique elements from older games forever",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-08-14T16:31:36.172392+00:00",
-      "urls": [
-        "https://kotaku.com/pokemon-bank-transporter-shutdown-trading-features-2000724503",
-        "https://kotaku.com/pokemon-bank-transporter-shutdown-trading-features-2000724503"
-      ],
-      "article_titles": [
-        "With The Shutdown Of Pok\u00e9mon Bank, Some Cool Elements From Old Games Are Being Lost",
-        "With The Shutdown Of Pok\u00e9mon Bank, Some Cool Elements From Old Games Are Being Lost"
-      ]
-    },
-    {
-      "headline": "Toy Story 3 on Xbox Is Being Delisted to Make Way for Its Remaster",
-      "tag": "toy story 3",
-      "posted_at": "2026-08-14T17:01:12.673365+00:00",
-      "urls": [
-        "https://kotaku.com/toy-story-3-on-xbox-is-being-delisted-to-make-way-for-the-remaster-2000724483"
-      ],
-      "article_titles": [
-        "Toy Story 3 On Xbox Is Being Delisted To Make Way For The Remaster"
-      ]
-    },
-    {
-      "headline": "Pok\u00e9mon Pokopia Hits 5 Million Sales \u2014 One in Four Switch 2 Owners Has It",
-      "tag": "pok\u00e9mon pokopia",
-      "posted_at": "2026-08-14T17:01:12.891165+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/simulation/just-buy-the-game-on-steam-indie-publisher-behind-a-recent-banger-that-sold-300k-copies-in-its-first-week-warns-against-key-resellers-after-canceling-hundreds-of-scalped-keys/",
-        "https://www.eurogamer.net/pokemon-pokopia-5m-sales"
-      ],
-      "article_titles": [
-        "\"Just buy the game on Steam\": Indie publisher behind a recent banger that sold 300k copies in its first week warns against key resellers after canceling hundreds of scalped keys",
-        "Nintendo announces Pok\u00e9mon Pokopia has sold over 5m copies, meaning that roughly one in four Switch 2 users now owns the game"
-      ]
-    },
-    {
       "headline": "HBO's Lanterns Gets Early Reviews \u2014 And Critics Say the DC Chemistry Is There Even If the Show Isn't",
       "tag": "lanterns",
       "posted_at": "2026-08-14T17:31:06.346182+00:00",
@@ -1306,19 +1258,22 @@
         "Metal Gear Solid 4's most famous joke gets updated in Master Collection Vol. 2, with Konami even bringing back the original voice actor",
         "Metal Gear Solid 4's most famous joke gets updated in Master Collection Vol. 2, with Konami even bringing back the original voice actor"
       ]
+    },
+    {
+      "headline": "Compulsion Games Has Officially Left Xbox \u2014 Studio No Longer Part of Microsoft",
+      "tag": "compulsion games",
+      "posted_at": "2026-08-21T17:21:13.311804+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/compulsion-games-is-now-officially-an-ex-xbox-studio/"
+      ],
+      "article_titles": [
+        "Compulsion Games Is Now Officially An Ex-Xbox Studio"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "a680fd79-ea40-4290-a09c-719366fea8fc",
-      "title": "The Duskbloods, Tides of Annihilation, Aliens: Fireteam Elite 2 \u2013 Catch Up on IGN's Game Previews This Week ICYMI",
-      "url": "https://www.ign.com/articles/the-duskbloods-tides-of-annihilation-aliens-fireteam-elite-2-catch-up-on-igns-game-previews-this-week-icymi",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:06:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
       "title": "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
@@ -1326,86 +1281,6 @@
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-08-21T13:22:13+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/plague-tale-resonance-leaked-pc",
-      "title": "Careful, the new Plague Tale game appears to have leaked a week ahead of launch",
-      "url": "https://www.eurogamer.net/plague-tale-resonance-leaked-pc",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:01:53+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726622",
-      "title": "Cyberpunk Edgerunners\u2019 Second Season Gets A Release Date, And It\u2019s Soon",
-      "url": "https://kotaku.com/cyberpunk-edgerunners-season-2-release-date-netflix-trailer-2000726622",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:03:57+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237047256",
-      "title": "SXSW True Crime Doc \u2018I Got Bombed At Harvey\u2019s\u2019 Scores North American Deal",
-      "url": "https://deadline.com/2026/08/sxsw-true-crime-i-got-bombed-at-harveys-us-deal-release-1237047256/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236678084",
-      "title": "Movie Theater Owner: What Worries Me About the War on Paramount and Warner Bros.",
-      "url": "https://www.hollywoodreporter.com/business/business-news/movie-theater-owner-paramount-warner-bros-1236678084/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T13:15:00+00:00"
-    },
-    {
-      "guid": "1857743",
-      "title": "God Of War TV Show Has Found Its New Kratos, And It\u2019s Dave Bautista",
-      "url": "https://www.gamespot.com/articles/god-of-war-tv-show-has-found-its-new-kratos-and-its-dave-bautista/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:11:04+00:00"
-    },
-    {
-      "guid": "1857730",
-      "title": "Microsoft\u2019s 25th Anniversary Xbox Series X Could Be Its Most Expensive Console Yet",
-      "url": "https://www.gamespot.com/articles/microsoft-25th-anniversary-xbox-series-x-could-be-its-most-expensive-console-yet/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:08:46+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752080",
-      "title": "Blue Eye Samurai Season 2 Sets January 2027 Release as Netflix Confirms Season 3 Will End Mizu\u2019s Story",
-      "url": "https://otakukart.com/blue-eye-samurai-season-2-sets-january-2027-release-as-netflix-confirms-season-3-will-end-mizus-story/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:08:11+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752062",
-      "title": "Bass X Machina Teaser Reveals Netflix\u2019s Gritty Steampunk Western Ahead of Its 2026 Release",
-      "url": "https://otakukart.com/bass-x-machina-teaser-reveals-netflixs-gritty-steampunk-western-ahead-of-its-2026-release/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:02:33+00:00"
-    },
-    {
-      "guid": "t3_1vufy11",
-      "title": "Leak 6",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vufy11/leak_6/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:09:50+00:00"
-    },
-    {
-      "guid": "t3_1vufvge",
-      "title": "New gta 6 leaks on the site which was removed shortly after hypercar was uploaded, some sort of new currency",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vufvge/new_gta_6_leaks_on_the_site_which_was_removed/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T13:06:43+00:00"
     },
     {
       "guid": "B4RJ9RxD2s24Pa7RTCRbWh",
@@ -2414,6 +2289,94 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-21T17:00:00+00:00"
+    },
+    {
+      "guid": "0ac772fa-d56a-4746-86aa-bd8487c97180",
+      "title": "This Awesome LEGO-Like Original Xbox Building Kit Is Still Available to Preorder (But It's Sold Out at Amazon)",
+      "url": "https://www.ign.com/articles/mattel-brick-shop-original-xbox-building-kit-announcement-preorders",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T16:59:59+00:00"
+    },
+    {
+      "guid": "rmFPTHDSUATDTMUGZusiFP",
+      "title": "Don't tell Nintendo, but I turned GTA 5 into Pok\u00e9mon Go using a mod",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/dont-tell-nintendo-but-i-turned-gta-5-into-pokemon-go-using-a-mod/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047524",
+      "title": "Michael Showalter Directing \u2018Serendipity\u2019 Redo For Amazon MGM Studios & Miramax",
+      "url": "https://deadline.com/2026/08/new-serendipity-movie-michael-showalter-amazon-miramax-1237047524/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840141",
+      "title": "Meghan Markle in Talks to Join \u2018The Gentlemen\u2019 Season 3",
+      "url": "https://variety.com/2026/tv/global/meghan-markle-the-gentlemen-season-3-1236840141/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:17:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840197",
+      "title": "\u2018Dungeon Crawler Carl\u2019 TV Series Sets Netflix\u2019s \u2018Shadow and Bone\u2019 Creator Eric Heisserer as Co-Showrunner",
+      "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-eric-heisserer-co-showrunner-1236840197/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:10:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840176",
+      "title": "\u2018GTA 6\u2019 Developer Rockstar Games Subpoenas Microsoft, Discord Amid Leaks",
+      "url": "https://variety.com/2026/gaming/news/gta-6-leaks-rockstar-subpoenas-microsoft-discord-1236840176/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:01:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838758",
+      "title": "\u2018Insidious: Out of the Further\u2019 Writer-Director Jacob Chase Knows the Audience Is Asking, \u2018Why Are We Still Making These Movies?\u2019 So He Was Determined to Make a \u2018Fresh Start\u2019",
+      "url": "https://variety.com/2026/film/features/insidious-out-of-the-further-jump-scares-1236838758/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T17:00:00+00:00"
+    },
+    {
+      "guid": "JqY7mT6bVtHRCrMe6gsjmK",
+      "title": "Arc Raiders is shutting down Expeditions \"until early 2027\" to make \"major improvements\" after mountains of feedback",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-is-shutting-down-expeditions-until-early-2027-to-make-major-improvements-after-mountains-of-feedback/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T17:17:18+00:00"
+    },
+    {
+      "guid": "1857865",
+      "title": "Compulsion Games Is Now Officially An Ex-Xbox Studio",
+      "url": "https://www.gamespot.com/articles/compulsion-games-is-now-officially-an-ex-xbox-studio/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T16:46:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=617110",
+      "title": "D&D: Spellslinging For A Fistful Of GP, The New Nemesis Sorcerer Subclass",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-spellslinging-for-a-fistful-of-gp-the-new-nemesis-sorcerer-subclass.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T17:16:00+00:00"
+    },
+    {
+      "guid": "t3_1vumes1",
+      "title": "Samsung has raised the price of 8nm wafers by 10%, per Reuters sources (this node is used for the T239 SoC found in the Nintendo Switch 2)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vumes1/samsung_has_raised_the_price_of_8nm_wafers_by_10/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T17:13:28+00:00"
     }
   ]
 }
