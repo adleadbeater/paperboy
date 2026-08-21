@@ -1314,22 +1314,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "0c3c1f8b-75a6-4e28-86c6-d6793fa0c027",
-      "title": "The Blood of Dawnwalker Won\u2019t Run at 60fps on Console, and Fans Aren\u2019t Happy",
-      "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-wont-run-at-60fps-on-console-and-fans-arent-happy",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T15:02:59+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726645",
-      "title": "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
-      "url": "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T15:02:02+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237047399",
       "title": "\u2018Hercule\u2019: BritBox Unveils First Look At Edward Bluemel As Title Character In Poirot Origin Series",
       "url": "https://deadline.com/2026/08/hercule-edward-bluemel-first-look-polrot-origin-photo-1237047399/",
@@ -2248,6 +2232,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-21T18:54:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236676616",
+      "title": "\u2018Palm Royale\u2019 Went Full \u2018Dynasty\u2019 for Its Biggest Fight Yet",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/palm-royale-fight-scene-1236676616/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121488",
+      "title": "New Vampire Survivors Expansion Legacy of the Bloodmoon Release Date Set",
+      "url": "https://www.siliconera.com/new-vampire-survivors-expansion-legacy-of-the-bloodmoon-release-date-set/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T19:00:00+00:00"
     }
   ]
 }
