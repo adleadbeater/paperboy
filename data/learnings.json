@@ -1285,6 +1285,43 @@
         "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
         "Microsoft\u2019s 25th Anniversary Xbox Series X Could Be Its Most Expensive Console Yet"
       ]
+    },
+    {
+      "headline": "Take-Two Subpoenas Microsoft and Discord Records in Hunt for GTA 6 Leaker",
+      "tag": "gta 6",
+      "posted_at": "2026-08-21T14:01:05.956585+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/take-two-lost-usd2-8-billion-in-market-cap-after-gta-6-leaks-but-whats-more-shocking-to-me-is-it-probably-barely-felt-it/",
+        "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
+        "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633"
+      ],
+      "article_titles": [
+        "Take-Two lost $2.8 billion in market cap after GTA 6 leaks\u2014but what's more shocking to me is it probably barely felt it",
+        "Take-Two Subpoenas Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
+        "Take-Two Subpoenas Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker"
+      ]
+    },
+    {
+      "headline": "Marvel Tokon: Fighting Souls Sells Fewer Than 3,000 Copies in Japan in Its First Week",
+      "tag": "marvel tokon: fighting souls",
+      "posted_at": "2026-08-21T14:01:06.317127+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/marvel-tokon-fighting-souls-sold-fewer-than-3000-units-in-japan-in-its-first-week/"
+      ],
+      "article_titles": [
+        "Marvel Tokon: Fighting Souls sold fewer than 3,000 units in Japan in its first week"
+      ]
+    },
+    {
+      "headline": "FromSoftware Responds After The Duskbloods Network Test Hit by Login Errors",
+      "tag": "the duskbloods",
+      "posted_at": "2026-08-21T14:01:06.676590+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/from-software-responds-as-the-duskbloods-first-network-test-session-is-marred-by-failed-to-log-in-errors/"
+      ],
+      "article_titles": [
+        "From Software responds as The Duskbloods\u2019 first Network Test session is marred by \u2018Failed to log in\u2019 errors"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1537,6 +1574,134 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-21T13:26:12+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=244519",
+      "title": "Marvel Tokon: Fighting Souls sold fewer than 3,000 units in Japan in its first week",
+      "url": "https://www.videogameschronicle.com/news/marvel-tokon-fighting-souls-sold-fewer-than-3000-units-in-japan-in-its-first-week/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:49:56+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=244515",
+      "title": "From Software responds as The Duskbloods\u2019 first Network Test session is marred by \u2018Failed to log in\u2019 errors",
+      "url": "https://www.videogameschronicle.com/news/from-software-responds-as-the-duskbloods-first-network-test-session-is-marred-by-failed-to-log-in-errors/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:31:01+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726633",
+      "title": "Take-Two Subpoenas Trove Of Records From Microsoft And Discord As It Hunts For GTA 6 Leaker",
+      "url": "https://kotaku.com/take-two-subpoenas-microsoft-and-discord-records-related-to-spread-of-gta-6-leaks-2000726633",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:44:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726617",
+      "title": "The Gorgeous Translucent Green Anniversary Xbox Will Reportedly Cost $900",
+      "url": "https://kotaku.com/the-gorgeous-translucent-green-anniversary-xbox-will-reportedly-cost-900-2000726617",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:39:23+00:00"
+    },
+    {
+      "guid": "kshP7k8YHz8nVvDd7msDLH",
+      "title": "Take-Two lost $2.8 billion in market cap after GTA 6 leaks\u2014but what's more shocking to me is it probably barely felt it",
+      "url": "https://www.pcgamer.com/gaming-industry/take-two-lost-usd2-8-billion-in-market-cap-after-gta-6-leaks-but-whats-more-shocking-to-me-is-it-probably-barely-felt-it/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:50:49+00:00"
+    },
+    {
+      "guid": "Phkd8WvDQLcNd3Vo45frQd",
+      "title": "Don't tell Nvidia: 56% of you are willing to pay over $600 for your next graphics card... and 19% would spend over $1000 \ud83d\ude2e",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-tell-nvidia-56-percent-of-you-are-willing-to-pay-over-usd600-for-your-next-graphics-card-and-19-percent-would-spend-over-usd1000/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:31:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237045213",
+      "title": "How \u2018Monsters Of God\u2019 Director Eric Goode\u2019s Personal Avocation Led Him To The World\u2019s Most Notorious Reptile Traffickers For HBO Docuseries",
+      "url": "https://deadline.com/2026/08/monsters-of-god-eric-goode-interview-reptile-trafficking-1237045213/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839311",
+      "title": "Natalie Portman at the Center of Literary Furor as Rachel Cusk\u2019s \u2018Life of M\u2019 Nears Release",
+      "url": "https://variety.com/2026/film/features/natalie-portman-rachel-cusk-life-of-m-1236839311/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839743",
+      "title": "The Cramps\u2019 \u2018Gravest Gravy\u2019 Unearths Long-Lost Sessions From One of Rock\u2019s Most Brilliantly Deranged Bands: Album Review",
+      "url": "https://variety.com/2026/music/reviews/cramps-gravest-gravy-album-review-1236839743/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839745",
+      "title": "\u2018Our Loves\u2019: Director Avi Nesher on His October 7 Film, Netanyahu and Boycotts Over Israeli Art",
+      "url": "https://variety.com/2026/film/features/our-loves-avi-nesher-october-7-movie-1236839745/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839928",
+      "title": "Prince Harry, Elton John and More Ordered to Pay Initial $13 Million to Daily Mail Publisher After Losing Privacy Case",
+      "url": "https://variety.com/2026/global/news/prince-harry-ordered-to-pay-13-million-daily-mail-1236839928/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:31:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677412",
+      "title": "Chase Stokes Bids Farewell to \u2018Outer Banks\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/chase-stokes-outer-banks-finale-goodbye-interview-1236677412/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678362",
+      "title": "Meghan Markle Eyeing Acting Return as She and Prince Harry Move Back to the United Kingdom",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-return-prince-harry-move-united-kingdom-1236678362/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T13:30:48+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205283",
+      "title": "Guide: Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What's Included",
+      "url": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205281",
+      "title": "\"It's Been A Huge Part Of My Life\" - The Retro Hour's Ravi Abbott Is Stepping Away After More Than Ten Years",
+      "url": "https://www.timeextension.com/news/2026/08/its-been-a-huge-part-of-my-life-the-retro-hours-ravi-abbott-is-stepping-away-after-more-than-ten-years",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T13:45:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752082",
+      "title": "Fool Night Anime Reveals New Teaser, English Dub Cast, and November 2026 Netflix Release",
+      "url": "https://otakukart.com/fool-night-anime-reveals-new-teaser-english-dub-cast-and-november-2026-netflix-release/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T13:41:12+00:00"
     }
   ]
 }
