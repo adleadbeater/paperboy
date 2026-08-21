@@ -1336,6 +1336,19 @@
         "Pok\u00e9mon\u2019s Battle System May Not Be Turn-Based For Much Longer",
         "Pok\u00e9mon\u2019s Battle System May Not Be Turn-Based For Much Longer"
       ]
+    },
+    {
+      "headline": "Double Fine Is Now Fully Independent \u2014 and Owns Every Game It Made Under Xbox",
+      "tag": "double fine / psychonauts",
+      "posted_at": "2026-08-21T21:12:09.330738+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/the-newly-independent-psychonauts-dev-now-earns-all-the-revenue-when-you-buy-games-it-made-under-xbox-buying-any-of-our-games-helps-support-the-studio/",
+        "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713"
+      ],
+      "article_titles": [
+        "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
+        "Psychonauts Dev Now Owns All Its Games Made Under Xbox And Their Publishing Rights: \u2018Buying Any Of Our Games Helps Support The Studio\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1356,22 +1369,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-21T17:17:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840197",
-      "title": "\u2018Dungeon Crawler Carl\u2019 TV Series Sets Netflix\u2019s \u2018Shadow and Bone\u2019 Creator Eric Heisserer as Co-Showrunner",
-      "url": "https://variety.com/2026/tv/news/dungeon-crawler-carl-tv-series-eric-heisserer-co-showrunner-1236840197/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:10:35+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840176",
-      "title": "\u2018GTA 6\u2019 Developer Rockstar Games Subpoenas Microsoft, Discord Amid Leaks",
-      "url": "https://variety.com/2026/gaming/news/gta-6-leaks-rockstar-subpoenas-microsoft-discord-1236840176/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T17:01:47+00:00"
     },
     {
       "guid": "JqY7mT6bVtHRCrMe6gsjmK",
@@ -2044,6 +2041,46 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-21T20:52:43+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726696",
+      "title": "Clanker Runs Full Speed Into A Wall And Then Snaps In Half After Stumbling Backwards Like A Looney Toons Character",
+      "url": "https://kotaku.com/clanker-runs-full-speed-into-a-wall-and-then-snaps-in-half-after-stumbling-backwards-2000726696",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T21:00:48+00:00"
+    },
+    {
+      "guid": "pP4xVzYk2TaM9k5zNsQ8bn",
+      "title": "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
+      "url": "https://www.pcgamer.com/gaming-industry/the-newly-independent-psychonauts-dev-now-earns-all-the-revenue-when-you-buy-games-it-made-under-xbox-buying-any-of-our-games-helps-support-the-studio/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T21:05:18+00:00"
+    },
+    {
+      "guid": "iscnLSnmJgs245MtgMaCBU",
+      "title": "GTA 6 leaker Cyberleek is now charging a $165,000 fee for a chance to buy ad space on additional leaks",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-cyberleek-is-now-charging-a-usd165-000-fee-for-a-chance-to-buy-ad-space-on-additional-leaks/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T21:00:36+00:00"
+    },
+    {
+      "guid": "KurPKFVBSG3VVpCLmwxkS3",
+      "title": "First Mortal Shell 2 balance patch stacks the deck for players: refunds for anyone who wasted Glimpses, bosses nerfed, and gold drops buffed massively",
+      "url": "https://www.gamesradar.com/games/action-rpg/first-mortal-shell-2-balance-patch-stacks-the-deck-for-players-refunds-for-anyone-who-wasted-glimpses-bosses-nerfed-and-gold-drops-buffed-massively/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T21:00:31+00:00"
+    },
+    {
+      "guid": "t3_1vusixo",
+      "title": "Cyberleek website now offers a way to contact him",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vusixo/cyberleek_website_now_offers_a_way_to_contact_him/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-21T21:00:41+00:00"
     }
   ]
 }
