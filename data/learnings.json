@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Saber Interactive Adds AI Disclosure to Rideshare Simulator After CEO's Public Feud With Writer Who Claims She Was Replaced by ChatGPT",
-      "tag": "rideshare simulator",
-      "posted_at": "2026-08-14T21:13:17.196705+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/simulation/saber-finally-adds-ai-disclosure-to-rideshare-stimulator-amid-ceos-public-feud-with-a-former-writer-who-claims-she-was-replaced-by-chatgpt/",
-        "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer/"
-      ],
-      "article_titles": [
-        "Saber finally adds AI disclosure to Rideshare Stimulator amid CEO's public feud with a former writer who claims she was replaced by ChatGPT",
-        "Rideshare Stimulator Outlines AI Usage After Contentious Exchange With Ex-Writer"
-      ]
-    },
-    {
       "headline": "Matt Groening Says The Simpsons: Hit & Run \"Is Coming Back in Some Form\" \u2014 Then Seemed to Regret It",
       "tag": "the simpsons: hit & run",
       "posted_at": "2026-08-15T00:30:40.233540+00:00",
@@ -1349,67 +1336,22 @@
         "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
         "Psychonauts Dev Now Owns All Its Games Made Under Xbox And Their Publishing Rights: \u2018Buying Any Of Our Games Helps Support The Studio\u2019"
       ]
+    },
+    {
+      "headline": "Genki's New Controller Has a Built-In Screen and Its Own OS \u2014 and Works on Switch 2 and PC",
+      "tag": "nintendo switch 2",
+      "posted_at": "2026-08-21T23:11:46.960378+00:00",
+      "urls": [
+        "https://www.ign.com/articles/genkis-new-high-end-pc-and-switch-2-controller-has-a-built-in-screen-and-onboard-os"
+      ],
+      "article_titles": [
+        "Genki\u2019s New High-End PC and Switch 2 Controller Has a Built-in Screen and Onboard OS"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000726713",
-      "title": "Psychonauts Dev Now Owns All Its Games Made Under Xbox And Their Publishing Rights: \u2018Buying Any Of Our Games Helps Support The Studio\u2019",
-      "url": "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T18:57:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840149",
-      "title": "\u2018Novak Djokovic: The Wolf in Winter\u2019 Doc Director Unpacks the Tennis Champ\u2019s Resilience and His Retirement",
-      "url": "https://variety.com/2026/tv/news/novak-djokovic-the-wolf-in-winter-documentary-1236840149/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T18:50:46+00:00"
-    },
-    {
-      "guid": "xwJeagnwqFMst2Npomxapn",
-      "title": "Pokemon Gold and Silver keep getting referenced by official accounts, and I'm willing myself to believe the classic DS remakes are coming to Switch",
-      "url": "https://www.gamesradar.com/games/pokemon/pokemon-gold-and-silver-keep-getting-referenced-by-official-accounts-and-im-willing-myself-to-believe-the-classic-ds-remakes-are-coming-to-switch/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T18:51:43+00:00"
-    },
-    {
-      "guid": "t3_1vup6qt",
-      "title": "Jason Schreier: Rockstar has not yet figured out who was behind this week's widespread Grand Theft Auto VI leaks, nor how it happened, sources say. No plans to move next week's Netflix premiere. Inside the company: frustration, exhaustion, anger.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vup6qt/jason_schreier_rockstar_has_not_yet_figured_out/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T18:54:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676616",
-      "title": "\u2018Palm Royale\u2019 Went Full \u2018Dynasty\u2019 for Its Biggest Fight Yet",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/palm-royale-fight-scene-1236676616/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121488",
-      "title": "New Vampire Survivors Expansion Legacy of the Bloodmoon Release Date Set",
-      "url": "https://www.siliconera.com/new-vampire-survivors-expansion-legacy-of-the-bloodmoon-release-date-set/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T19:00:00+00:00"
-    },
-    {
-      "guid": "0481612d-e0dd-4bd4-b0cc-5af31f7b9835",
-      "title": "Today\u2019s Top Deals: Pok\u00e9mon Mega Zygarde ex Premium, $12 Star Wars Outlaws, Samsung Gaming Monitor",
-      "url": "https://www.ign.com/articles/todays-top-deals-pokmon-mega-zygarde-ex-premium-12-star-wars-outlaws-samsung-gaming-monitor",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:05:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000726726",
       "title": "Rockstar Games Reportedly Remains In The Dark About Who\u2019s Leaking GTA 6 But Still Moving Ahead With Netflix Reveal",
@@ -1441,30 +1383,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-21T19:28:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840301",
-      "title": "Mark Ruffalo Goes Scorched-Earth on Paramount-Warner Bros. Merger, Calling Out the Ellison Family\u2019s Complicity in Palestinian \u2018Genocide\u2019",
-      "url": "https://variety.com/2026/film/news/mark-ruffalo-paramount-warner-bros-merger-david-ellison-1236840301/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:04:28+00:00"
-    },
-    {
-      "guid": "1857946",
-      "title": "CoD: MW4 DLC Honors Real-Life Medal Of Honor Recipient Who Lost His Eye And Teeth In Grenade Blast",
-      "url": "https://www.gamespot.com/articles/cod-mw4-dlc-honors-real-life-medal-of-honor-recipient-who-lost-his-eye-and-teeth-in-grenade-blast/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T19:05:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236836639",
-      "title": "Music Industry Moves: My Morning Jacket and Jim James Sign Publishing Deal With Peermusic",
-      "url": "https://variety.com/2026/music/news/iheartmedias-alissa-pollack-president-mediabase-1236836639/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T19:10:00+00:00"
     },
     {
       "guid": "ApLxEVaNEg8YDhUHjdRkhf",
@@ -1913,6 +1831,46 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-08-21T22:36:00+00:00"
+    },
+    {
+      "guid": "d41c402c-169d-4270-9c1c-327effd77fca",
+      "title": "Double Fine Owns IP and Publishing Rights for All of Its Games Following Xbox Split, Psychonauts Studio Confirms",
+      "url": "https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T22:53:30+00:00"
+    },
+    {
+      "guid": "b079f0a6-acd3-49f7-b732-04d4232cbe42",
+      "title": "Genki\u2019s New High-End PC and Switch 2 Controller Has a Built-in Screen and Onboard OS",
+      "url": "https://www.ign.com/articles/genkis-new-high-end-pc-and-switch-2-controller-has-a-built-in-screen-and-onboard-os",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T22:42:12+00:00"
+    },
+    {
+      "guid": "1603f221-24d7-407a-91c2-4ac4c4272a3f",
+      "title": "For Today Only, Woot Has a Brand New, Fully Warrantied Apple iPad Mini for $359 or Less",
+      "url": "https://www.ign.com/articles/apple-ipad-mini-deal-august-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T22:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840519",
+      "title": "Vertical Media on Track to Generate $150 Billion in 2026 as the Booming Sector Fights Crowded Content Field and High Subscriber Acquisition Costs",
+      "url": "https://variety.com/2026/digital/news/vertical-media-150-billion-tiktok-microdramas-owl-co-1236840519/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T23:00:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677849",
+      "title": "\u2018The Girls\u2019: Khlo\u00e9 Kardashian Wanted Her Friends to Have Their Own Show. Then Things Got Complicated",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/khloe-kardashian-the-girls-hulu-reality-show-1236677849/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T22:59:33+00:00"
     }
   ]
 }
