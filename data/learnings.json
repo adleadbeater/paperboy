@@ -1301,30 +1301,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer",
-      "title": "The second season of Netflix's Cyberpunk Edgerunners anime releases this year",
-      "url": "https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T14:29:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236839269",
-      "title": "Box Office: \u2018Insidious: Out of the Further\u2019 Makes $3 Million in Previews",
-      "url": "https://variety.com/2026/tv/box-office/insidious-6-out-of-further-box-office-previews-1236839269/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-21T14:27:35+00:00"
-    },
-    {
-      "guid": "bqsraCtxFE7ZsV8BUBKLpM",
-      "title": "Alien: Isolation 2 release date \"won't\" be unveiled during Gamescom next week, confirm the survival horror game sequel's devs",
-      "url": "https://www.gamesradar.com/games/survival-horror/alien-isolation-2-release-date-wont-be-unveiled-during-gamescom-next-week-confirm-the-survival-horror-game-sequels-devs/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T14:26:44+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000726632",
       "title": "Archive Of Our Own Isn\u2019t Worried About The Wattpad User Exodus And You Shouldn\u2019t Be Either",
       "url": "https://kotaku.com/archive-of-our-own-wattpad-smut-ban-fanfiction-2000726632",
@@ -1379,14 +1355,6 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-08-21T14:45:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205286",
-      "title": "\"The A1200 Is Officially An Amiga Product\"",
-      "url": "https://www.timeextension.com/news/2026/08/the-a1200-is-officially-an-amiga-product",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-21T14:30:00+00:00"
     },
     {
       "guid": "t3_1vuifyt",
@@ -2379,6 +2347,38 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-08-21T18:00:36+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000726704",
+      "title": "Double Fine Is Bringing Back Its Beloved Game Jam As A Kickstarter So Fans Can Vote On Its Next Project",
+      "url": "https://kotaku.com/double-fine-live-game-jam-kickstarter-2000726704",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T18:18:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237047588",
+      "title": "Jason Blum Hosting Special \u2018Paranormal Activity\u2019 Performance On Broadway Next Week",
+      "url": "https://deadline.com/2026/08/jason-blum-hosts-paranormal-activity-broadway-performance-1237047588/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T18:28:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236928731",
+      "title": "Everything We Know About \u2018The Pitt\u2019 Season 3 So Far",
+      "url": "https://deadline.com/feature/the-pitt-season-3-news-updates-everything-we-know-1236928731/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T18:28:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678557",
+      "title": "HBO Max Officially Orders Jimmy Olsen Series, \u2018The People v. Gorilla Grodd\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jimmy-olsen-gorilla-grodd-series-hbo-max-1236678557/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-21T18:19:15+00:00"
     }
   ]
 }
