@@ -1351,38 +1351,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236840283",
-      "title": "How \u2018Abbott Elementary\u2019 Pulled Off Its Big Phillies Game Episode",
-      "url": "https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T17:05:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679050",
-      "title": "Janie Bradford, \u201cMoney (That\u2019s What I Want)\u201d Songwriter, Dies at 87",
-      "url": "https://www.hollywoodreporter.com/music/music-news/janie-bradford-dead-money-thats-what-i-want-songwriter-1236679050/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T17:02:14+00:00"
-    },
-    {
-      "guid": "FgLpWriUBidGytW8pPPko6",
-      "title": "GTA 6 and Red Dead Redemption 2 are \"the north stars of gaming,\" says Gamescom chief, but they won't last forever because \"most gamers aren't only interested in a single game\"",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-and-red-dead-redemption-2-are-the-north-stars-of-gaming-says-gamescom-chief-but-they-wont-last-forever-because-most-gamers-arent-only-interested-in-a-single-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=616533",
-      "title": "D&D: Five Reasons You Should Try Playing An Evil Character Now And Then",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-five-reasons-you-should-try-playing-an-evil-character-now-and-then.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T17:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000727049",
       "title": "SNK Reports Financial Woes As Tekken Director Kohei Ikeda Comes Aboard",
       "url": "https://kotaku.com/snk-reports-financial-woes-as-tekken-director-kohei-ikeda-reunites-with-katsuhiro-harada-2000727049",
@@ -1589,6 +1557,22 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-08-22T20:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840866",
+      "title": "Dale Morris, Titan of Nashville Management Who Forged Superstar Careers for Kenny Chesney and Alabama, Dies at 89",
+      "url": "https://variety.com/2026/music/obituaries-people-news/dale-morris-dead-manager-kenny-chesney-alabama-1236840866/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T21:00:11+00:00"
+    },
+    {
+      "guid": "t3_1vvnz91",
+      "title": "CyberLeek threatens to release the GTA6 build to 'millions of gamers around the globe'",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvnz91/cyberleek_threatens_to_release_the_gta6_build_to/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T21:06:46+00:00"
     }
   ]
 }
