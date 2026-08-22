@@ -1353,38 +1353,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/silent-hill-townfall-gameplay-trailer-ps5-exclusivity-window",
-      "title": "Silent Hill: Townfall's new gameplay trailer quietly confirms how long its PS5 exclusivity will last",
-      "url": "https://www.eurogamer.net/silent-hill-townfall-gameplay-trailer-ps5-exclusivity-window",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T11:52:17+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726747",
-      "title": "Grand Theft Auto 6\u2019s Latest Leak Told Me All I Need To Know",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta-6-leak-video-soundtrack-rockstar-2000726747",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T12:00:14+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752172",
-      "title": "Nintendo Dominates U.S. Physical Game Sales in 2026 With 63% Market Share",
-      "url": "https://otakukart.com/nintendo-dominates-u-s-physical-game-sales-in-2026-with-63-market-share/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T11:51:44+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752171",
-      "title": "Nintendo Takes Down Over 400 Switch Emulator Repositories in Major GitHub DMCA Sweep",
-      "url": "https://otakukart.com/nintendo-takes-down-over-400-switch-emulator-repositories-in-major-github-dmca-sweep/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T11:46:24+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000726776",
       "title": "Watching AI Scam Bots Having A Breakdown Is My New Guilty Pleasure",
       "url": "https://kotaku.com/ai-bots-scam-calls-breakdown-clips-funny-2000726776",
@@ -1631,6 +1599,70 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-22T15:18:40+00:00"
+    },
+    {
+      "guid": "f29932a0-3db7-412f-bacd-d1f388af08bb",
+      "title": "IGN's Top Reviewed Movies of 2026 So Far",
+      "url": "https://www.ign.com/articles/best-reviewed-movies-of-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:00:00+00:00"
+    },
+    {
+      "guid": "orimMWBcP4BdRuxgV9rrWY",
+      "title": "GTA6 leaker Cyberleek shows off gas station rampage, refueling, promises strip club gameplay if people juice his cryptocurrency enough",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta6-leaker-cyberleek-shows-off-gas-station-rampage-refueling-promises-strip-club-gameplay-if-people-juice-his-cryptocurrency-enough/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:03:22+00:00"
+    },
+    {
+      "guid": "9qCperSnavo4XxiGuMrpYh",
+      "title": "Fallout dev Tim Cain says we should pay more attention to bad games: '[Publishers] often don't learn from failure because they only look at the games that sold well'",
+      "url": "https://www.pcgamer.com/games/fallout-dev-tim-cain-says-we-should-pay-more-attention-to-bad-games-publishers-often-dont-learn-from-failure-because-they-only-look-at-the-games-that-sold-well/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:00:36+00:00"
+    },
+    {
+      "guid": "P3eCV9sBGPGkxUdHYz3JEg",
+      "title": "The first physical PC game I remember playing shows what Sony is thoughtlessly destroying",
+      "url": "https://www.pcgamer.com/games/fps/the-first-physical-pc-game-i-remember-playing-shows-what-sony-is-thoughtlessly-destroying/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048083",
+      "title": "Sarajevo Film Festival 2026 Awards Austria\u2019s \u2018Everytime\u2019 Best Film \u2014\u00a0See All Winners",
+      "url": "https://deadline.com/2026/08/sarajevo-film-festival-2026-awards-winners-1237048083/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:03:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840803",
+      "title": "Box Office: \u2018Insidious: Out of the Further\u2019 Takes First Place on Friday With $10.6 Million, But \u2018Spider-Man: Brand New Day\u2019 Will Win the Weekend",
+      "url": "https://variety.com/2026/film/box-office/box-office-insidious-out-of-the-further-spider-man-1236840803/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:06:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678980",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Swinging to Fourth Box Office Victory as It Tops \u2018Insidious\u2019 Sequel",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T15:55:04+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205288",
+      "title": "Feature: I Travelled 8,000km, from the UK to China, to Play a PS5 Game Set in London",
+      "url": "https://www.pushsquare.com/features/i-travelled-8000km-from-the-uk-to-china-to-play-a-ps5-game-set-in-london",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T16:00:00+00:00"
     }
   ]
 }
