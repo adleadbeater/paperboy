@@ -1340,38 +1340,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/blood-of-dawnwalker-no-60fps-console-launch",
-      "title": "The Blood of Dawnwalker's console modes top out at 40fps, with no 60fps option at launch",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-no-60fps-console-launch",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T15:06:33+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726779",
-      "title": "Trails In The Sky 1st Chapter\u2019s Mistake-Filled Localization Is Finally Being Fixed One Year Later",
-      "url": "https://kotaku.com/trails-in-the-sky-1st-chapters-mistake-filled-localization-is-finally-being-fixed-one-year-later-2000726779",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T15:00:53+00:00"
-    },
-    {
-      "guid": "KpepaSdtq4nu9thZaNg2Fh",
-      "title": "2XKO's shutdown has me feeling glum about Riot's future MMO\u2014because I don't think the genre can survive corporate cut-and-run tactics",
-      "url": "https://www.pcgamer.com/games/mmo/2xkos-shutdown-has-me-feeling-glum-about-riots-future-mmo-because-i-dont-think-the-genre-can-survive-corporate-cut-and-run-tactics/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840510",
-      "title": "Andrew Garfield on His Secret Instagram, Thoughts of Leaving Hollywood and Playing Roy in the \u2018Stranger Than Fiction\u2019 Siegfried & Roy Television Series",
-      "url": "https://variety.com/2026/film/columns/andrew-garfield-secret-instagram-siegfried-roy-television-series-1236840510/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T15:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237047405",
       "title": "Sony Double Feature At The B.O.: \u2018Spider-Man: Brand New Day\u2019 $36M+, \u2018Insidious 6\u2019 $23M+ Opening \u2013 Saturday AM Update",
       "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
@@ -1634,6 +1602,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-22T18:40:32+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679049",
+      "title": "Meghan Markle Dropped From Guy Ritchie\u2019s \u2018The Gentlemen\u2019 (Reports)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-dropped-guy-ritchie-the-gentlemen-1236679049/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T19:12:05+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205310",
+      "title": "Sony's Live Service Strategy May Have Failed, But Helldivers 2 Has Been a Monstrous Hit",
+      "url": "https://www.pushsquare.com/news/2026/08/sonys-live-service-strategy-may-have-failed-but-helldivers-2-has-been-a-monstrous-hit",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121369",
+      "title": "Hololive Dreams Isn\u2019t Made for PC",
+      "url": "https://www.siliconera.com/hololive-dreams-isnt-made-for-pc/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T19:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vvkvwb",
+      "title": "GTA 6 Leak #8 - Strip Club",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvkvwb/gta_6_leak_8_strip_club/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T19:03:47+00:00"
+    },
+    {
+      "guid": "t3_1vvl1g5",
+      "title": "anyone got the strip club in HDR?",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvl1g5/anyone_got_the_strip_club_in_hdr/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T19:09:46+00:00"
     }
   ]
 }
