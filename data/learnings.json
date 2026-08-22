@@ -1362,54 +1362,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679049",
-      "title": "Meghan Markle Dropped From Guy Ritchie\u2019s \u2018The Gentlemen\u2019 (Reports)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-dropped-guy-ritchie-the-gentlemen-1236679049/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T19:12:05+00:00"
-    },
-    {
-      "guid": "t3_1vvl1g5",
-      "title": "anyone got the strip club in HDR?",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvl1g5/anyone_got_the_strip_club_in_hdr/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T19:09:46+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727054",
-      "title": "PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don\u2019t Own Their Digital Games",
-      "url": "https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T19:30:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237048114",
-      "title": "Mark Ruffalo Blasts Paramount For Calling Him \u201cAntisemitic\u201d Over Merger Criticism: \u201cAppalling And Fundamentally Dishonest\u201d",
-      "url": "https://deadline.com/2026/08/mark-ruffalo-blasts-paramount-calling-him-antisemitic-1237048114/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T19:20:34+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840844",
-      "title": "Mark Ruffalo Fires Back After Paramount Slammed His Merger Attack as \u2018Antisemitic\u2019: \u2018Appalling and Fundamentally Dishonest\u2019",
-      "url": "https://variety.com/2026/film/news/mark-ruffalo-response-paramount-merger-antisemitic-1236840844/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T19:22:33+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752306",
-      "title": "EXCLUSIVE: Pile On Director Hu Lu Explains Childhood Memory, Human \u201cAnimality,\u201d and the Film\u2019s Dark Adult Mirror",
-      "url": "https://otakukart.com/exclusive-pile-on-director-hu-lu-explains-childhood-memory-human-animality-and-the-films-dark-adult-mirror/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T19:29:53+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236840854",
       "title": "Taylor Sheridan Accused of Stealing \u2018Yellowstone\u2019 From 2016 Pitch in Copyright Lawsuit",
       "url": "https://variety.com/2026/tv/news/taylor-sheridan-accused-stealing-yellowstone-lawsuit-1236840854/",
@@ -1536,6 +1488,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-22T23:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679105",
+      "title": "Bunny Levine, Former Librarian Turned Actress in \u2018Gilmore Girls,\u2019 Thelma\u2019 and \u2018You Don\u2019t Mess With the Zohan,\u2019 Dies at 97",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bunny-levine-dead-gilmore-girls-shameless-thelma-actress-1236679105/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T23:40:35+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205314",
+      "title": "GTA 6 Leaks Prompt Fans to Bring Out the Memes as Netflix Puts a Brave Face on Things",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6-leaks-prompt-fans-to-bring-out-the-memes-as-netflix-puts-a-brave-face-on-things",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T23:30:00+00:00"
     }
   ]
 }
