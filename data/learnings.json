@@ -1362,44 +1362,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "t3_1vvkgn9",
-      "title": "8th Grand Theft Auto VI leaked clip is now out",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvkgn9/8th_grand_theft_auto_vi_leaked_clip_is_now_out/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T18:47:29+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236679049",
       "title": "Meghan Markle Dropped From Guy Ritchie\u2019s \u2018The Gentlemen\u2019 (Reports)",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/meghan-markle-dropped-guy-ritchie-the-gentlemen-1236679049/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-22T19:12:05+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205310",
-      "title": "Sony's Live Service Strategy May Have Failed, But Helldivers 2 Has Been a Monstrous Hit",
-      "url": "https://www.pushsquare.com/news/2026/08/sonys-live-service-strategy-may-have-failed-but-helldivers-2-has-been-a-monstrous-hit",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121369",
-      "title": "Hololive Dreams Isn\u2019t Made for PC",
-      "url": "https://www.siliconera.com/hololive-dreams-isnt-made-for-pc/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T19:00:00+00:00"
-    },
-    {
-      "guid": "t3_1vvkvwb",
-      "title": "GTA 6 Leak #8 - Strip Club",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvkvwb/gta_6_leak_8_strip_club/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T19:03:47+00:00"
     },
     {
       "guid": "t3_1vvl1g5",
@@ -1552,6 +1520,22 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-22T22:23:00+00:00"
+    },
+    {
+      "guid": "tWuDdzqjvrHQsck9LsZN5b",
+      "title": "SWG lead's new MMO, Stars Reach, almost lost me\u2014until I met an animal conservationist mayor",
+      "url": "https://www.pcgamer.com/games/mmo/swg-leads-new-mmo-stars-reach-almost-lost-me-until-i-met-an-animal-conservationist-mayor/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T23:05:51+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205309",
+      "title": "Furious PS5 Players Unplug Their Consoles in Protest as Blackout Gets Underway",
+      "url": "https://www.pushsquare.com/news/2026/08/furious-ps5-players-unplug-their-consoles-in-protest-as-blackout-gets-underway",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T23:00:00+00:00"
     }
   ]
 }
