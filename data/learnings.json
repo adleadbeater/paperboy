@@ -1334,35 +1334,22 @@
       "article_titles": [
         "SNK Reports Financial Woes As Tekken Director Kohei Ikeda Comes Aboard"
       ]
+    },
+    {
+      "headline": "PlayStation Is Reminding Players They Don't Own Their Digital Games at the Worst Possible Time",
+      "tag": "playstation",
+      "posted_at": "2026-08-22T19:42:16.347599+00:00",
+      "urls": [
+        "https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054"
+      ],
+      "article_titles": [
+        "PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don\u2019t Own Their Digital Games"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237047405",
-      "title": "Sony Double Feature At The B.O.: \u2018Spider-Man: Brand New Day\u2019 $36M+, \u2018Insidious 6\u2019 $23M+ Opening \u2013 Saturday AM Update",
-      "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T15:14:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236678985",
-      "title": "Michael Wright, Star of \u2018The Five Heartbeats\u2019 and \u2018Sugar Hill,\u2019 Dies at 70",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-wright-dead-five-heartbeats-sugar-hill-1236678985/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T15:18:13+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752222",
-      "title": "Christopher Nolan\u2019s The Odyssey Becomes the Highest-Grossing R-Rated Film of All Time",
-      "url": "https://otakukart.com/christopher-nolans-the-odyssey-becomes-the-highest-grossing-r-rated-film-of-all-time/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T15:18:40+00:00"
-    },
     {
       "guid": "f29932a0-3db7-412f-bacd-d1f388af08bb",
       "title": "IGN's Top Reviewed Movies of 2026 So Far",
@@ -1642,6 +1629,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-22T19:09:46+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727054",
+      "title": "PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don\u2019t Own Their Digital Games",
+      "url": "https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T19:30:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048114",
+      "title": "Mark Ruffalo Blasts Paramount For Calling Him \u201cAntisemitic\u201d Over Merger Criticism: \u201cAppalling And Fundamentally Dishonest\u201d",
+      "url": "https://deadline.com/2026/08/mark-ruffalo-blasts-paramount-calling-him-antisemitic-1237048114/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T19:20:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840844",
+      "title": "Mark Ruffalo Fires Back After Paramount Slammed His Merger Attack as \u2018Antisemitic\u2019: \u2018Appalling and Fundamentally Dishonest\u2019",
+      "url": "https://variety.com/2026/film/news/mark-ruffalo-response-paramount-merger-antisemitic-1236840844/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T19:22:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752306",
+      "title": "EXCLUSIVE: Pile On Director Hu Lu Explains Childhood Memory, Human \u201cAnimality,\u201d and the Film\u2019s Dark Adult Mirror",
+      "url": "https://otakukart.com/exclusive-pile-on-director-hu-lu-explains-childhood-memory-human-animality-and-the-films-dark-adult-mirror/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T19:29:53+00:00"
     }
   ]
 }
