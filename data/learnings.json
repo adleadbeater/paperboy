@@ -1,41 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Matt Groening Says The Simpsons: Hit & Run \"Is Coming Back in Some Form\" \u2014 Then Seemed to Regret It",
-      "tag": "the simpsons: hit & run",
-      "posted_at": "2026-08-15T00:30:40.233540+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/open-world/the-simpsons-hit-and-run-is-coming-back-in-some-form-says-matt-groening-but-it-looks-like-he-wasnt-supposed-to/",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vok85h/matt_groening_i_think_the_simpsons_hit_run_is/"
-      ],
-      "article_titles": [
-        "The Simpsons: Hit & Run \"is coming back in some form,\" says Matt Groening, but it looks like he wasn't supposed to",
-        "Matt Groening: \"I think [The Simpsons: Hit & Run] is coming back in some form\""
-      ]
-    },
-    {
-      "headline": "A Kingdom Hearts Animated Series Is Coming to Disney Channel and Disney Plus",
-      "tag": "kingdom hearts",
-      "posted_at": "2026-08-15T12:12:03.422194+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/08/a-kingdom-hearts-animated-series-is-coming-soon-to-disney-channel-disney-plus"
-      ],
-      "article_titles": [
-        "A Kingdom Hearts Animated Series Is 'Coming Soon' to Disney Channel, Disney Plus"
-      ]
-    },
-    {
-      "headline": "Simpsons Hit & Run Creator Says a Comeback Is in the Works",
-      "tag": "the simpsons: hit & run",
-      "posted_at": "2026-08-15T14:44:20.914153+00:00",
-      "urls": [
-        "https://kotaku.com/simpsons-creator-says-gta-like-hit-run-game-is-coming-back-maybe-2000724708"
-      ],
-      "article_titles": [
-        "Simpsons Creator Says GTA-Like Hit & Run Game Is Coming Back, Maybe"
-      ]
-    },
-    {
       "headline": "Saber Interactive CEO apologizes after threatening to replace writer with AI",
       "tag": "saber interactive",
       "posted_at": "2026-08-16T15:09:02.085308+00:00",
@@ -1347,6 +1312,17 @@
       "article_titles": [
         "Genki\u2019s New High-End PC and Switch 2 Controller Has a Built-in Screen and Onboard OS"
       ]
+    },
+    {
+      "headline": "Modern Warfare 4 Beta Gets First Update With New Map, Mode, and Quieter Footsteps",
+      "tag": "call of duty: modern warfare 4",
+      "posted_at": "2026-08-22T16:45:49.015252+00:00",
+      "urls": [
+        "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance"
+      ],
+      "article_titles": [
+        "Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1369,14 +1345,6 @@
       "published_dt": "2026-08-22T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236840765",
-      "title": "Actor Michael Wright, Star of \u2018The Five Heartbeats\u2019 and \u2018V,\u2019 Dies at 70",
-      "url": "https://variety.com/2026/film/news/michael-wright-dead-five-heartbeats-the-principal-1236840765/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T12:38:46+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1121307",
       "title": "ANA Mofusand Pilot and Flight Attendant Plush Feel Like Display Pieces",
       "url": "https://www.siliconera.com/ana-mofusand-pilot-and-flight-attendant-plush-feel-like-display-pieces/",
@@ -1391,14 +1359,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-22T12:57:10+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752178",
-      "title": "007 First Light Surpasses 4 Million Sales as James Bond Sequel Plans Look Increasingly Likely",
-      "url": "https://otakukart.com/007-first-light-surpasses-4-million-sales-as-james-bond-sequel-plans-look-increasingly-likely/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T12:42:01+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1752206",
@@ -1663,6 +1623,38 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-22T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
+      "title": "Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps",
+      "url": "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:11:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727043",
+      "title": "James Gunn\u2019s DCU Finally Gives Comic Book Apes Their Due With Gorilla Grodd Miniseries",
+      "url": "https://kotaku.com/james-gunns-dcu-finally-gives-comic-book-apes-their-due-with-gorilla-grodd-miniseries-2000727043",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:12:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048098",
+      "title": "Rosie O\u2019Donnell Ends \u2018Jimmy Kimmel Live\u2019 Guest Run With Trump-Roasting Song: \u201cUse That Stable Genius Brain\u201d",
+      "url": "https://deadline.com/2026/08/rosie-odonnell-ends-jimmy-kimmel-live-trump-roasting-song-1237048098/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:44:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840728",
+      "title": "\u2018The Magic Faraway Tree\u2019 Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment",
+      "url": "https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T16:19:38+00:00"
     }
   ]
 }
