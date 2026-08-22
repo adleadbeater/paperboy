@@ -1362,52 +1362,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000727055",
-      "title": "Fans Dismayed Golden Axe Animated Streaming Series Resembles Every Animated Streaming Series",
-      "url": "https://kotaku.com/fans-dismayed-golden-axe-animated-streaming-series-resembles-every-animated-streaming-series-2000727055",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T18:31:39+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236676638",
-      "title": "Before \u2018The Pitt,\u2019 There Was \u2018St. Elsewhere\u2019",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-pitt-st-elsewhere-legacy-1236676638/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T18:30:00+00:00"
-    },
-    {
-      "guid": "t3_1vvkcxm",
-      "title": "8th GTA VI leak is also out (strip club)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvkcxm/8th_gta_vi_leak_is_also_out_strip_club/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T18:43:44+00:00"
-    },
-    {
       "guid": "t3_1vvkgn9",
       "title": "8th Grand Theft Auto VI leaked clip is now out",
       "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvkgn9/8th_grand_theft_auto_vi_leaked_clip_is_now_out/",
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-22T18:47:29+00:00"
-    },
-    {
-      "guid": "t3_1vvjz7q",
-      "title": "Volt the leeker has made a poll asking people what build they want leaked among the 3 is a debug build of rise of the tomb raider which they haven't shown yet",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvjz7q/volt_the_leeker_has_made_a_poll_asking_people/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T18:29:13+00:00"
-    },
-    {
-      "guid": "t3_1vvk9ww",
-      "title": "[ Removed by Reddit ]",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vvk9ww/removed_by_reddit/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-22T18:40:32+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236679049",
@@ -1576,6 +1536,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-22T22:06:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048159",
+      "title": "Kid Cudi Preparing To Film \u201cF*ckin Gnarly\u201d Followup To Directorial Debut \u2018Doe\u2019, Both Set For 2027",
+      "url": "https://deadline.com/2026/08/kid-cudi-fckin-gnarly-followup-directorial-debut-1237048159/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T22:30:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1235439129",
+      "title": "HBO Max Is Free Right Now For 7 Days With This Prime Video Promo",
+      "url": "https://variety.com/2026/shopping/news/best-hbo-max-deal-offer-1235439129/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-22T22:23:00+00:00"
     }
   ]
 }
