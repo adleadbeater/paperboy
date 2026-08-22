@@ -1351,38 +1351,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
-      "title": "Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps",
-      "url": "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T16:11:35+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727043",
-      "title": "James Gunn\u2019s DCU Finally Gives Comic Book Apes Their Due With Gorilla Grodd Miniseries",
-      "url": "https://kotaku.com/james-gunns-dcu-finally-gives-comic-book-apes-their-due-with-gorilla-grodd-miniseries-2000727043",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T16:12:31+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237048098",
-      "title": "Rosie O\u2019Donnell Ends \u2018Jimmy Kimmel Live\u2019 Guest Run With Trump-Roasting Song: \u201cUse That Stable Genius Brain\u201d",
-      "url": "https://deadline.com/2026/08/rosie-odonnell-ends-jimmy-kimmel-live-trump-roasting-song-1237048098/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T16:44:29+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840728",
-      "title": "\u2018The Magic Faraway Tree\u2019 Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment",
-      "url": "https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-22T16:19:38+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236840283",
       "title": "How \u2018Abbott Elementary\u2019 Pulled Off Its Big Phillies Game Episode",
       "url": "https://variety.com/2026/artisans/focus/abbott-elementary-phillies-game-episode-1236840283/",
@@ -1613,6 +1581,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-22T19:45:29+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205265",
+      "title": "The RetroTINK-6X CE Is A Powerful 1440p Scaler That Costs Just $230",
+      "url": "https://www.timeextension.com/news/2026/08/the-retrotink-6x-ce-is-a-powerful-1440p-scaler-that-costs-just-usd230",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-22T20:40:00+00:00"
     }
   ]
 }
