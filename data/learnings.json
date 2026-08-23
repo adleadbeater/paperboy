@@ -1384,38 +1384,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "bBRs7RPXfxC5anqm6P9vci",
-      "title": "The Duskbloods devs were \"definitely very happy\" with the Switch 2's reveal after FromSoftware struggled to get it running on a Switch 1",
-      "url": "https://www.gamesradar.com/games/action/the-duskbloods-devs-were-definitely-very-happy-with-the-switch-2s-reveal-after-fromsoftware-struggled-to-get-it-running-on-a-switch-1/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T19:10:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237048343",
-      "title": "Will Forte, Lana Condor \u201cHad Hope\u201d For \u2018Coyote vs. Acme\u2019 Release After \u201cFreakin\u2019 Awesome\u201d Funeral Screening",
-      "url": "https://deadline.com/2026/08/will-forte-lana-condor-had-hope-coyote-vs-acme-release-1237048343/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T19:36:49+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205321",
-      "title": "Feature: I Searched for Merch from My Fave PS5 Games in Chengdu's Enormous Anime Mall",
-      "url": "https://www.pushsquare.com/features/i-searched-for-merch-from-my-fave-ps5-games-in-chengdus-enormous-anime-mall",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T19:30:00+00:00"
-    },
-    {
-      "guid": "t3_1vwg98f",
-      "title": "Information about The Sims",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vwg98f/information_about_the_sims/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T19:19:13+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000727266",
       "title": "Alleged \u2018Peter Pan Stalker\u2019 Latest Stress Test On Content Creation And Boundaries",
       "url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
@@ -1550,6 +1518,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-23T22:29:04+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205321",
+      "title": "Feature: I Searched for Merch from My Fave PS5 Games in Chengdu's Enormous Anime Mall",
+      "url": "https://www.pushsquare.com/features/i-searched-for-merch-from-my-fave-ps5-games-in-chengdus-enormous-anime-mall",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T23:30:00+00:00"
     }
   ]
 }
