@@ -1384,22 +1384,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "M5gmsFXj7SRJM8EpYAJ8am",
-      "title": "Big Walk is a new co-op puzzle game classic",
-      "url": "https://www.pcgamer.com/games/puzzle/big-walk-is-a-new-co-op-puzzle-game-classic/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236677928",
-      "title": "Leslie Parrish, Actress in \u2018Li\u2019l Abner\u2019 and \u2018The Manchurian Candidate,\u2019 Dies at 90",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/leslie-parrish-dead-lil-abner-manchurian-candidate-1236677928/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T14:55:02+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237047405",
       "title": "Sony Double Feature At The B.O.: \u2018Spider-Man: Brand New Day\u2019 $39M, \u2018Insidious 6\u2019 $25M+ Opening \u2013 Sunday AM Update",
       "url": "https://deadline.com/2026/08/box-office-insidious-out-of-the-further-brand-new-day-1237047405/",
@@ -1638,6 +1622,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-23T18:32:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048328",
+      "title": "2026 Domestic Box Office Soars Past $7 Billion, +20% Over 2025",
+      "url": "https://deadline.com/2026/08/box-office-domestic-7-billion-1237048328/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T19:04:04+00:00"
+    },
+    {
+      "guid": "bBRs7RPXfxC5anqm6P9vci",
+      "title": "The Duskbloods devs were \"definitely very happy\" with the Switch 2's reveal after FromSoftware struggled to get it running on a Switch 1",
+      "url": "https://www.gamesradar.com/games/action/the-duskbloods-devs-were-definitely-very-happy-with-the-switch-2s-reveal-after-fromsoftware-struggled-to-get-it-running-on-a-switch-1/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T19:10:20+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121294",
+      "title": "Preview: Sniper Layla Is a The Duskbloods Network Test Standout",
+      "url": "https://www.siliconera.com/preview-sniper-layla-is-a-the-duskbloods-network-test-standout/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T19:00:00+00:00"
     }
   ]
 }
