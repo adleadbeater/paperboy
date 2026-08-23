@@ -1384,14 +1384,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "XKLQrTypQLfBuVbd7WFzoC",
-      "title": "If you're desperate for more Baldur's Gate 3, here's a 6-hour mini-campaign all about Astarion with 4 different endings and 6 new companions",
-      "url": "https://www.pcgamer.com/games/baldurs-gate/if-youre-desperate-for-more-baldurs-gate-3-heres-a-6-hour-mini-campaign-all-about-astarion-with-4-different-endings-and-6-new-companions/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T14:24:02+00:00"
-    },
-    {
       "guid": "M5gmsFXj7SRJM8EpYAJ8am",
       "title": "Big Walk is a new co-op puzzle game classic",
       "url": "https://www.pcgamer.com/games/puzzle/big-walk-is-a-new-co-op-puzzle-game-classic/",
@@ -1614,6 +1606,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-23T17:45:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048327",
+      "title": "Dr. Dre Admits He Uses AI To Produce, Doesn\u2019t See It \u201cAs A Threat\u201d: \u201cI\u2019m Embracing It\u201d",
+      "url": "https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T18:52:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841083",
+      "title": "Ridley Scott Says \u2018I\u2019m Not a Filmmaker, I\u2019m an Influencer\u2019",
+      "url": "https://variety.com/2026/film/news/ridley-scott-not-a-filmmaker-im-an-influencer-the-dog-stars-1236841083/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T18:20:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236675055",
+      "title": "There Are Scores of Great New Animated Shows. The Emmys Won\u2019t Nominate Them.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/why-emmys-overlook-animated-shows-legacy-1236675055/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T18:30:00+00:00"
+    },
+    {
+      "guid": "t3_1vwf03u",
+      "title": "Thomas Mahler (Game Director and Creative Director for Ori 1 and 2) says the Ori 3 rumors are nonsense",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vwf03u/thomas_mahler_game_director_and_creative_director/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T18:32:00+00:00"
     }
   ]
 }
