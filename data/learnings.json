@@ -1384,30 +1384,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237048315",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 No. 1 $109M WW, \u2018Insidious\u2019 Franchise Rises To $800M WW \u2013 Global Box Office",
-      "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T17:50:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236671527",
-      "title": "\u2018Tucci in Italy\u2019 Cinematographer Matt Ball on Making Italy Look Delicious",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/tucci-in-italy-cinematographer-italy-1236671527/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T18:00:00+00:00"
-    },
-    {
-      "guid": "t3_1vwdqj0",
-      "title": "Cyberleek has released a new poll for GTA 6 gameplay leaks.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vwdqj0/cyberleek_has_released_a_new_poll_for_gta_6/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T17:45:23+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237048327",
       "title": "Dr. Dre Admits He Uses AI To Produce, Doesn\u2019t See It \u201cAs A Threat\u201d: \u201cI\u2019m Embracing It\u201d",
       "url": "https://deadline.com/2026/08/dr-dre-uses-ai-doesnt-see-threat-1237048327/",
@@ -1582,6 +1558,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-23T21:31:53+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727274",
+      "title": "Streamer Files Class Action Lawsuit Against Twitch Over AI Training",
+      "url": "https://kotaku.com/streamer-files-class-action-lawsuit-against-twitch-over-ai-training-2000727274",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T22:01:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048354",
+      "title": "Shelley Fabares Dead: \u2018The Donna Reed Show\u2019 Star & Elvis Leading Lady Was 82",
+      "url": "https://deadline.com/2026/08/shelley-fabares-dead-1237048354/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T21:47:49+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205323",
+      "title": "PS5's Best-Selling Games List Is Broken on the PS Store",
+      "url": "https://www.pushsquare.com/news/2026/08/ps5s-best-selling-games-list-is-broken-on-the-ps-store",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T23:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vwkcge",
+      "title": "Paradox Interactive new IP game title accidentally leaked by forum filters",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vwkcge/paradox_interactive_new_ip_game_title/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T22:00:52+00:00"
     }
   ]
 }
