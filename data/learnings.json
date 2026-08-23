@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Saber Interactive CEO apologizes after threatening to replace writer with AI",
-      "tag": "saber interactive",
-      "posted_at": "2026-08-16T15:09:02.085308+00:00",
-      "urls": [
-        "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco"
-      ],
-      "article_titles": [
-        "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI"
-      ]
-    },
-    {
       "headline": "Lanterns Showrunners Break Down That Wild Episode 1 Cliffhanger",
       "tag": "lanterns",
       "posted_at": "2026-08-17T02:12:00.878045+00:00",
@@ -1367,6 +1356,17 @@
       "article_titles": [
         "Miyazaki explains how The Duskbloods plans to protect newcomers from its best players"
       ]
+    },
+    {
+      "headline": "Bethesda Artist Says Microsoft Has Brought \"Yearly Layoffs\" to a Studio That Never Had Them Before",
+      "tag": "bethesda",
+      "posted_at": "2026-08-23T16:47:32.347519+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/we-didnt-have-layoffs-before-and-now-all-of-a-sudden-we-have-yearly-layoffs-bethesda-artist-says-something-has-changed-under-microsoft/"
+      ],
+      "article_titles": [
+        "'We didn't have layoffs before, and now all of a sudden we have yearly layoffs': Bethesda artist says 'something has changed' under Microsoft"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1531,6 +1531,70 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-23T16:03:27+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
+      "title": "Epic Games Store overhaul might be \"too little, too late\", says Newzoo analyst",
+      "url": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:19:53+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727246",
+      "title": "Viral Chinese Cow Cartoon Becomes One Of The Most Profitable Movies Ever Made",
+      "url": "https://kotaku.com/viral-chinese-cow-cartoon-becomes-one-of-the-most-profitable-movies-ever-made-2000727246",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:38:24+00:00"
+    },
+    {
+      "guid": "RAShV9mpsEdzBp9oeuEVnf",
+      "title": "'We didn't have layoffs before, and now all of a sudden we have yearly layoffs': Bethesda artist says 'something has changed' under Microsoft",
+      "url": "https://www.pcgamer.com/gaming-industry/we-didnt-have-layoffs-before-and-now-all-of-a-sudden-we-have-yearly-layoffs-bethesda-artist-says-something-has-changed-under-microsoft/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:43:13+00:00"
+    },
+    {
+      "guid": "d35ziZucvyiwvbohTY79iK",
+      "title": "It's been 25 years and I'm still not over one of the greatest songs to grace JRPGs",
+      "url": "https://www.pcgamer.com/games/final-fantasy/its-been-25-years-and-im-still-not-over-one-of-the-greatest-songs-to-grace-jrpgs/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:26:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048294",
+      "title": "Melissa Gilbert Calls On Unions To Protect Child Actors After Hayden Panettiere\u2019s Death: \u201cSomething Has Got To Be Done\u201d",
+      "url": "https://deadline.com/2026/08/melissa-gilbert-protect-child-actors-hayden-panettiere-death-1237048294/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:25:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841004",
+      "title": "Grace Pass\u00f4\u2019s \u2018Our Secret\u2019 Nabs the Best Film Kikito at the 54th Gramado Film Festival",
+      "url": "https://variety.com/2026/film/global/passo-nosso-segredo-won-gramado-best-film-kikito-1236841004/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:46:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236839629",
+      "title": "Martin Short Gets Honest: What It\u2019s Like to Be All Over the Emmy Race, Thanks to Three Very Different Projects",
+      "url": "https://variety.com/2026/tv/awards/martin-short-busy-emmy-race-three-very-different-projects-1236839629/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679297",
+      "title": "Simon Wiesenthal Center CEO Calls Out Mark Ruffalo\u2019s Paramount Remarks: \u201cObsession and Demonization\u201d",
+      "url": "https://www.hollywoodreporter.com/business/business-news/simon-wiesenthal-center-slams-mark-ruffalo-paramount-comments-1236679297/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:44:34+00:00"
     }
   ]
 }
