@@ -1384,38 +1384,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "t3_1vw7mv3",
-      "title": "Leak #9 gas.mp4 OG HDR 1080p",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vw7mv3/leak_9_gasmp4_og_hdr_1080p/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T13:46:11+00:00"
-    },
-    {
-      "guid": "p8ncMuqXV8UDEuTzAApr4o",
-      "title": "Gunstoppable gives me the same head-empty unbridled joy as Ultrakill\u2014it doesn't hurt that Gabriel's voice actor is in it too",
-      "url": "https://www.pcgamer.com/games/fps/gunstoppable-gives-me-the-same-head-empty-unbridled-joy-as-ultrakill-it-doesnt-hurt-that-gabriels-voice-actor-is-in-it-too/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T14:00:00+00:00"
-    },
-    {
-      "guid": "WoRAwRmxfbCcaYQJvAjg5i",
-      "title": "The Legend of Zelda: Ocarina of Time leaker says Xbox is working on a new Ori game, 6 years after its last excellent Metroidvania",
-      "url": "https://www.gamesradar.com/games/platformer/the-legend-of-zelda-ocarina-of-time-leaker-says-xbox-is-working-on-a-new-ori-game-6-years-after-its-last-excellent-metroidvania/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T13:55:10+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=617145",
-      "title": "D&D: Unearthing The Arcana Of The Deep Imaskari",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-unearthing-the-arcana-of-the-deep-imaskari.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T14:00:00+00:00"
-    },
-    {
       "guid": "XKLQrTypQLfBuVbd7WFzoC",
       "title": "If you're desperate for more Baldur's Gate 3, here's a 6-hour mini-campaign all about Astarion with 4 different endings and 6 new companions",
       "url": "https://www.pcgamer.com/games/baldurs-gate/if-youre-desperate-for-more-baldurs-gate-3-heres-a-6-hour-mini-campaign-all-about-astarion-with-4-different-endings-and-6-new-companions/",
@@ -1622,6 +1590,30 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-23T17:29:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048315",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 No. 1 $109M WW, \u2018Insidious\u2019 Franchise Rises To $800M WW \u2013 Global Box Office",
+      "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T17:50:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236671527",
+      "title": "\u2018Tucci in Italy\u2019 Cinematographer Matt Ball on Making Italy Look Delicious",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/tucci-in-italy-cinematographer-italy-1236671527/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T18:00:00+00:00"
+    },
+    {
+      "guid": "t3_1vwdqj0",
+      "title": "Cyberleek has released a new poll for GTA 6 gameplay leaks.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vwdqj0/cyberleek_has_released_a_new_poll_for_gta_6/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T17:45:23+00:00"
     }
   ]
 }
