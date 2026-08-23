@@ -1384,46 +1384,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236838324",
-      "title": "Box Office: \u2018Spider-Man: Brand New Day\u2019 Triumphs Again in Fourth Weekend With $39 Million, \u2018Insidious 6\u2019 Launches to $25 Million",
-      "url": "https://variety.com/2026/film/box-office/spiderman-brand-new-day-box-office-insidious-6-opens-1236838324/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T15:41:54+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679301",
-      "title": "Nick Glennie-Smith, Composer on \u2018The Rock,\u2019 \u2018The Man in the Iron Mask\u2019 and \u2018Secretariat,\u2019 Dies at 74",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/nick-glennie-smith-man-in-iron-mask-secretariat-composer-1236679301/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T15:42:28+00:00"
-    },
-    {
-      "guid": "J4vugLGPJW3uQkU6unTDq6",
-      "title": "Ray Chase, the voice of Cyclops in X-Men '97, has '1,000 freaking hours' in Slay the Spire and is running a 'smell build' in Kingdom Come: Deliverance 2: ' I wear perfumes and walk into battle with my fancy boy outfit'",
-      "url": "https://www.pcgamer.com/gaming-industry/ray-chase-the-voice-of-cyclops-in-x-men-97-has-1-000-freaking-hours-in-slay-the-spire-and-is-running-a-smell-build-in-kingdom-come-deliverance-2-i-wear-perfumes-and-walk-into-battle-with-my-fancy-boy-outfit/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840981",
-      "title": "\u2018Sentimental Value\u2019 Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: \u2018It Feels Full Circle\u2019",
-      "url": "https://variety.com/2026/awards/awards/sentimental-value-anders-danielsen-lie-anne-marie-ottersen-1236840981/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T16:00:55+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236678980",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T16:03:27+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
       "title": "Epic Games Store overhaul might be \"too little, too late\", says Newzoo analyst",
       "url": "https://www.eurogamer.net/epic-games-store-recovery-newzoo-analyst-steam-fortnite",
@@ -1646,6 +1606,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-23T19:19:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727266",
+      "title": "Alleged \u2018Peter Pan Stalker\u2019 Latest Stress Test On Content Creation And Boundaries",
+      "url": "https://kotaku.com/alleged-peter-pan-stalker-latest-stress-test-on-content-creation-and-boundaries-2000727266",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T20:03:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048340",
+      "title": "Anthony Bourdain Biopic \u2018Tony\u2019 Sizzling At $5M Weekend, No. 7 Spot \u2013 Specialty Box Office",
+      "url": "https://deadline.com/2026/08/indie-film-box-office-tony-anthony-bourdain-biopic-sizzling-1237048340/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T19:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841114",
+      "title": "Katseye Earns First No. 1 on Albums Chart; Phoebe Bridgers Debuts at No. 2",
+      "url": "https://variety.com/2026/music/news/katseye-wild-first-no-1-phoebe-bridgers-no-2-albums-chart-1236841114/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T19:44:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679362",
+      "title": "Anna Paquin and Melissa Gilbert Call for Protection of Child Actors After Hayden Panettiere\u2019s Death: \u201cWhere Is the Collective Outrage?\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/anna-paquin-melissa-gilbert-protection-child-actors-hayden-panettiere-1236679362/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T19:55:06+00:00"
     }
   ]
 }
