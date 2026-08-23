@@ -1384,14 +1384,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237048319",
-      "title": "Bret Michaels Cancels 2026 Tour Dates As Doctors Pull Him \u201cOff The Road\u201d Following Recent Surgery",
-      "url": "https://deadline.com/2026/08/bret-michaels-cancels-2026-tour-dates-surgery-1237048319/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T17:29:28+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237048315",
       "title": "\u2018Spider-Man: Brand New Day\u2019 No. 1 $109M WW, \u2018Insidious\u2019 Franchise Rises To $800M WW \u2013 Global Box Office",
       "url": "https://deadline.com/2026/08/global-box-office-spider-man-brand-new-day-insidious-6-1237048315/",
@@ -1574,6 +1566,22 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-23T21:01:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841162",
+      "title": "Shelley Fabares, \u2018Coach\u2019 and \u2018The Donna Reed Show\u2019 Star, Dies at 82",
+      "url": "https://variety.com/2026/tv/news/shelley-fabares-dead-coach-the-donna-reed-show-1236841162/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T21:40:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679398",
+      "title": "Hayden Panettiere\u2019s Mom Blasts Gayle King After CBS Host Criticizes Her Reaction to Daughter\u2019s Death",
+      "url": "https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-mom-gayle-king-criticized-response-death-1236679398/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T21:31:53+00:00"
     }
   ]
 }
