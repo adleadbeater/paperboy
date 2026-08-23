@@ -1373,38 +1373,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki",
-      "title": "Miyazaki explains how The Duskbloods plans to protect newcomers from its best players",
-      "url": "https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-23T11:43:40+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205318",
-      "title": "Double Fine Returns To Kickstarter Post-Xbox, Announces New Game Jam",
-      "url": "https://www.nintendolife.com/news/2026/08/double-fine-returns-to-kickstarter-post-xbox-announces-new-game-jam",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205287",
-      "title": "Feature: Going Platinum: I Only Played Sound Shapes Because I Wanted at Least One PS Vita Plat",
-      "url": "https://www.pushsquare.com/features/going-platinum-i-only-played-sound-shapes-because-i-wanted-at-least-one-ps-vita-plat",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=503394",
-      "title": "Get Back to School With These D&D Accessories",
-      "url": "https://www.belloflostsouls.net/2026/08/get-back-to-school-with-these-dd-accessories.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T12:00:00+00:00"
-    },
-    {
       "guid": "YSzp6Wfd6vYiiiNxFU97RH",
       "title": "LA Noire still stands as Rockstar's extravagant, cinematic ode to noir fiction that could have changed everything",
       "url": "https://www.gamesradar.com/games/action/la-noire-still-stands-as-rockstars-extravagant-cinematic-ode-to-noir-fiction-that-could-have-changed-everything/",
@@ -1539,6 +1507,30 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-23T15:30:00+00:00"
+    },
+    {
+      "guid": "J4vugLGPJW3uQkU6unTDq6",
+      "title": "Ray Chase, the voice of Cyclops in X-Men '97, has '1,000 freaking hours' in Slay the Spire and is running a 'smell build' in Kingdom Come: Deliverance 2: ' I wear perfumes and walk into battle with my fancy boy outfit'",
+      "url": "https://www.pcgamer.com/gaming-industry/ray-chase-the-voice-of-cyclops-in-x-men-97-has-1-000-freaking-hours-in-slay-the-spire-and-is-running-a-smell-build-in-kingdom-come-deliverance-2-i-wear-perfumes-and-walk-into-battle-with-my-fancy-boy-outfit/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236840981",
+      "title": "\u2018Sentimental Value\u2019 Star Anders Danielsen Lie and Anne Marie Ottersen Inducted Into the Haugesund Walk of Fame: \u2018It Feels Full Circle\u2019",
+      "url": "https://variety.com/2026/awards/awards/sentimental-value-anders-danielsen-lie-anne-marie-ottersen-1236840981/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:00:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678980",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Hits No. 6 All-Time Globally as It Swings to Fourth Box Office Victory",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-insidious-mutiny-2-1236678980/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:03:27+00:00"
     }
   ]
 }
