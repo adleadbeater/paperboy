@@ -1367,27 +1367,22 @@
       "article_titles": [
         "'We didn't have layoffs before, and now all of a sudden we have yearly layoffs': Bethesda artist says 'something has changed' under Microsoft"
       ]
+    },
+    {
+      "headline": "Twitch Streamers Sue Amazon Over AI Training Using Their Content Without Consent",
+      "tag": "twitch",
+      "posted_at": "2026-08-23T17:00:53.413534+00:00",
+      "urls": [
+        "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers"
+      ],
+      "article_titles": [
+        "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "YSzp6Wfd6vYiiiNxFU97RH",
-      "title": "LA Noire still stands as Rockstar's extravagant, cinematic ode to noir fiction that could have changed everything",
-      "url": "https://www.gamesradar.com/games/action/la-noire-still-stands-as-rockstars-extravagant-cinematic-ode-to-noir-fiction-that-could-have-changed-everything/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121353",
-      "title": "Re-Ment Animal Crossing Happy Room Sets Are Delightful Dioramas",
-      "url": "https://www.siliconera.com/re-ment-animal-crossing-happy-room-sets-are-delightful-dioramas/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-23T13:00:00+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236840944",
       "title": "\u2018Seduction,\u2019 Helmed by Zelito Viana and Marcos Palmeira, to Premiere at the Inffinito Fest in Miami (EXCLUSIVE)",
@@ -1595,6 +1590,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-23T16:44:34+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
+      "title": "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI",
+      "url": "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-23T16:55:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752380",
+      "title": "Blue Lock Chapter 358: Spoilers, & Recap",
+      "url": "https://otakukart.com/blue-lock-chapter-358-spoilers-recap/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T16:53:22+00:00"
+    },
+    {
+      "guid": "t3_1vwchdj",
+      "title": "10th GTA VI is out as well (plane at night)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vwchdj/10th_gta_vi_is_out_as_well_plane_at_night/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T16:57:45+00:00"
+    },
+    {
+      "guid": "t3_1vwch2h",
+      "title": "Leak #10 Plane at night",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vwch2h/leak_10_plane_at_night/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-23T16:57:26+00:00"
     }
   ]
 }
