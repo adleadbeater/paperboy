@@ -1,47 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Mortal Shell 2 Reviews Are In \u2014 and Critics Are Calling It the Best Soulslike Since Elden Ring",
-      "tag": "mortal shell 2",
-      "posted_at": "2026-08-17T13:31:07.665088+00:00",
-      "urls": [
-        "https://www.ign.com/articles/mortal-shell-2-review",
-        "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/",
-        "https://www.ign.com/articles/mortal-shell-2-review",
-        "https://www.gamesradar.com/games/action-rpg/mortal-shell-2-review/"
-      ],
-      "article_titles": [
-        "Mortal Shell 2 Review",
-        "Mortal Shell 2 review: \"The best Soulslike I've played since Elden Ring thanks to brilliant death-dealing toys and speedy combat\"",
-        "Mortal Shell 2 Review",
-        "Mortal Shell 2 review: \"The best Soulslike I've played since Elden Ring thanks to brilliant death-dealing toys and speedy combat\""
-      ]
-    },
-    {
-      "headline": "Sony Abruptly Terminates Publisher Deal With Stonks-9800 Dev, 14 Games Set to Vanish Within Days",
-      "tag": "sony",
-      "posted_at": "2026-08-17T13:58:37.636015+00:00",
-      "urls": [
-        "https://kotaku.com/stonks-9800-playstation-store-sony-ternox-games-shovelware-2000724952"
-      ],
-      "article_titles": [
-        "Sony Terminates Stonks-9800 Dev\u2019s Publisher Agreement Without Warning, 14 Titles Set To Disappear In Under A Week"
-      ]
-    },
-    {
-      "headline": "Sony CEO Hiroki Totoki Says PS6 Release Date Still Hasn't Been Decided",
-      "tag": "playstation",
-      "posted_at": "2026-08-17T13:58:37.985906+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/playstation-6-release-date-still-hasnt-been-decided-sony-ceo-hiroki-totoki-says/",
-        "https://www.pushsquare.com/news/2026/08/sony-still-hasnt-decided-when-to-launch-ps6-says-ceo"
-      ],
-      "article_titles": [
-        "PlayStation 6 release date still hasn\u2019t been decided, Sony CEO Hiroki Totoki says",
-        "Sony Still Hasn't Decided When to Launch PS6, Says CEO"
-      ]
-    },
-    {
       "headline": "Canceled Star Wars Action RPG Surfaces Online, Showing Jedi and Mandalorian Combat We'll Never Play",
       "tag": "star wars",
       "posted_at": "2026-08-17T14:20:21.349669+00:00",
@@ -1422,6 +1381,32 @@
       "article_titles": [
         "Paradox commits a classic blunder and accidentally leaks its own post-apocalyptic grand strategy game"
       ]
+    },
+    {
+      "headline": "Final Fantasy Resonance Reveals Gilgamesh, Ultima Weapon, Lightning, Clive, and a Deep Completionist System",
+      "tag": "final fantasy resonance",
+      "posted_at": "2026-08-24T14:00:58.010630+00:00",
+      "urls": [
+        "https://www.siliconera.com/final-fantasy-resonance-has-gilgamesh-ultima-weapon-lightning-and-clive/",
+        "https://www.gamespot.com/articles/final-fantasy-resonance-has-more-going-for-it-than-its-impressive-cast/",
+        "https://www.gematsu.com/2026/08/final-fantasy-resonance-details-zoldaad-empire-mysidia-more-characters-visions-espers-and-completionist-elements"
+      ],
+      "article_titles": [
+        "Final Fantasy Resonance Has Gilgamesh, Ultima Weapon,\u00a0 Lightning, and Clive",
+        "Final Fantasy Resonance Has More Going for It Than Its Impressive Cast",
+        "Final Fantasy Resonance details Zoldaad Empire, Mysidia, more characters, Visions, espers, and completionist elements"
+      ]
+    },
+    {
+      "headline": "The Guild Movie Revival Becomes the Highest-Funded Kickstarter Film Ever",
+      "tag": "the guild",
+      "posted_at": "2026-08-24T14:00:58.083707+00:00",
+      "urls": [
+        "https://www.pcgamer.com/movies-tv/the-guild-movie-revival-becomes-highest-funded-kickstarter-film-ever-filling-me-with-millennial-nostalgia-and-making-me-very-nervous/"
+      ],
+      "article_titles": [
+        "'The Guild' movie revival becomes highest-funded Kickstarter film ever, filling me with millennial nostalgia and making me very nervous"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1754,6 +1739,102 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-24T13:27:20+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/hideo-kojima-63-years-old-still-wants-to-make-games",
+      "title": "\"I want to keep pouring my energy into game creation going forward\" - Hideo Kojima still wants to make games even at 63",
+      "url": "https://www.eurogamer.net/hideo-kojima-63-years-old-still-wants-to-make-games",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T13:57:16+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727526",
+      "title": "New GTA 6 Leak Is Filled With Boobs And Dicks",
+      "url": "https://kotaku.com/new-gta-6-leak-is-filled-with-boobs-and-dicks-2000727526",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T13:54:42+00:00"
+    },
+    {
+      "guid": "eGGsuXm23NkyRPg6N5KDb4",
+      "title": "'The Guild' movie revival becomes highest-funded Kickstarter film ever, filling me with millennial nostalgia and making me very nervous",
+      "url": "https://www.pcgamer.com/movies-tv/the-guild-movie-revival-becomes-highest-funded-kickstarter-film-ever-filling-me-with-millennial-nostalgia-and-making-me-very-nervous/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T13:52:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048790",
+      "title": "Craig T. Nelson Remembers \u2018Coach\u2019 Co-Star Shelley Fabares: \u201cAn Extraordinary Woman\u201d",
+      "url": "https://deadline.com/2026/08/craig-t-nelson-tribute-coach-costar-shelley-fabares-death-1237048790/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T13:59:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841374",
+      "title": "\u2018The Gentlemen\u2019 Officially Renewed for Season 3 as First Season 2 Trailer Drops: \u2018I\u2019m Looking Forward to Pushing the Boundaries Further,\u2019 Guy Ritchie Says (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/the-gentlemen-season-3-greenlight-1236841374/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841362",
+      "title": "Reggie Watts\u2019 Theme Song Axed From \u2018Comedy Bang Bang\u2019 Podcast After Report Alleging \u2018Reckless\u2019 Drug Use in Relationships",
+      "url": "https://variety.com/2026/digital/news/reggie-watts-theme-song-axed-comedy-bang-bang-podcast-1236841362/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T13:31:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679611",
+      "title": "Mike Schur: The Paramount-Warner Bros. Merger Is Existential for Writers",
+      "url": "https://www.hollywoodreporter.com/business/business-news/mike-schur-paramount-warner-bros-1236679611/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T13:50:00+00:00"
+    },
+    {
+      "guid": "LAdCGsUG7SjgdMu7g56kgZ",
+      "title": "One week with Razer's hand-painted and highly detailed keycap makes it easy to see why the $90 accessory sold out in minutes",
+      "url": "https://www.gamesradar.com/hardware/accessories/one-week-with-razers-hand-painted-and-highly-detailed-keycap-makes-it-easy-to-see-why-the-usd90-accessory-sold-out-in-minutes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T13:40:20+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121529",
+      "title": "Final Fantasy Resonance Has Gilgamesh, Ultima Weapon,\u00a0 Lightning, and Clive",
+      "url": "https://www.siliconera.com/final-fantasy-resonance-has-gilgamesh-ultima-weapon-lightning-and-clive/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071071",
+      "title": "Rune Factory 6 work-in-progress video",
+      "url": "https://www.gematsu.com/2026/08/rune-factory-6-work-in-progress-video",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T13:37:24+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071070",
+      "title": "Story of Seasons new title work-in-progress video",
+      "url": "https://www.gematsu.com/2026/08/story-of-seasons-new-title-work-in-progress-video",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T13:37:07+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752642",
+      "title": "Mark Ruffalo Denies Antisemitism After Paramount Calls His Warner Bros. Merger Criticism \u201cAppalling\u201d",
+      "url": "https://otakukart.com/mark-ruffalo-denies-antisemitism-after-paramount-calls-his-warner-bros-merger-criticism-appalling/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T13:38:43+00:00"
     }
   ]
 }
