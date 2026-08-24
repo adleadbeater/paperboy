@@ -1354,38 +1354,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237048823",
-      "title": "Netflix Renews \u2018The Gentlemen,\u2019 \u2018House Of Guinness\u2019 & \u2018Being Gordon Ramsay\u2019",
-      "url": "https://deadline.com/2026/08/netflix-renews-the-gentlemen-house-of-guinness-1237048823/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T14:30:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237048820",
-      "title": "\u2018The Gentlemen\u2019 Renewed For Season 3 At Netflix; Season 2 Trailer Released",
-      "url": "https://deadline.com/2026/08/the-gentlemen-renewed-season-3-netflix-season-2-trailer-1237048820/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T14:26:16+00:00"
-    },
-    {
-      "guid": "n2Zic4oZJ7CTBB9g4yRFf7",
-      "title": "Latest GTA 6 leaks see Cyberleek threaten Rockstar with Lucia story spoilers \u2013 and closely examine naked NPCs",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/latest-gta-6-leaks-see-cyberleek-threaten-rockstar-with-lucia-story-spoilers-and-closely-examine-naked-npcs/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T14:28:43+00:00"
-    },
-    {
-      "guid": "A8GAkYWTTsfXtjPqcUJfBY",
-      "title": "Ahsoka season 2 theory says the mysterious Jedi fought by Anakin and Ahsoka in the trailer links to The Clone Wars",
-      "url": "https://www.gamesradar.com/entertainment/star-wars-tv-shows/ahsoka-season-2-theory-says-the-mysterious-jedi-fought-by-anakin-and-ahsoka-in-the-trailer-links-to-the-clone-wars/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T14:27:37+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000727546",
       "title": "Final Fantasy 7, Witcher 3, And More: Everything To Expect From The Big Gamescom Showcase",
       "url": "https://kotaku.com/gamescom-opening-night-live-where-watch-date-time-stream-2000727546",
@@ -1440,14 +1408,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-24T14:42:30+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205347",
-      "title": "The Next Game from the PixelJunk Devs Leaks Online as Gamescom Looms",
-      "url": "https://www.pushsquare.com/news/2026/08/the-next-game-from-the-pixeljunk-devs-leaks-online-as-gamescom-looms",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T14:30:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000727520",
@@ -2400,6 +2360,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-24T18:12:22+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205365",
+      "title": "This Promising PS5 Indie Doesn't Deserve Being Buried in Next Month's Crowded Release Calendar",
+      "url": "https://www.pushsquare.com/news/2026/08/this-promising-ps5-indie-doesnt-deserve-being-buried-in-next-months-crowded-release-calendar",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=617476",
+      "title": "D&D: Embrace The Earth With The New Stone Sovereign Warlock Patron",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-embrace-the-earth-with-the-new-stone-sovereign-warlock-patron.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:28:05+00:00"
     }
   ]
 }
