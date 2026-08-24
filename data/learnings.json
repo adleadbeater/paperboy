@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Star Citizen's Dev Livestream Crashed So Hard They Were Told to Pull the Plug Mid-Show",
-      "tag": "star citizen",
-      "posted_at": "2026-08-17T21:01:14.930588+00:00",
-      "urls": [
-        "https://kotaku.com/star-citizen-live-stream-fail-siege-of-orison-mission-2000725084"
-      ],
-      "article_titles": [
-        "Star Citizen Dev Hosts Disastrous Livestream To Show How A Mission Works And Is Told To Pull The Plug: \u2018It\u2019s Your Show, Wrap It Up\u2019"
-      ]
-    },
-    {
       "headline": "Kingdom Hearts 4 Will Fulfill a Vision Nomura Has Had Since KH3",
       "tag": "kingdom hearts 4",
       "posted_at": "2026-08-17T22:10:42.325917+00:00",
@@ -1300,27 +1289,24 @@
         "The Duskbloods\u2019 Beloved Armored Sea Chicken, Zork, Drinks Blood With His Beak \u2018Like A Mosquito\u2019",
         "The Duskbloods\u2019 Beloved Armored Sea Chicken, Zork, Drinks Blood With His Beak \u2018Like A Mosquito\u2019"
       ]
+    },
+    {
+      "headline": "Leaked Footage Surfaces From Avalanche's Cancelled Iron Man Game",
+      "tag": "iron man (cancelled avalanche game)",
+      "posted_at": "2026-08-24T21:16:40.160069+00:00",
+      "urls": [
+        "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vx9bkf/footage_from_cancelled_iron_man_game_from/"
+      ],
+      "article_titles": [
+        "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
+        "Footage from cancelled Iron Man game from Avalanche Studios (Just Cause, Mad Max devs)"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237048503",
-      "title": "Disney Offering Voluntary Early Retirement Packages To Executives",
-      "url": "https://deadline.com/2026/08/disney-voluntary-early-retirement-packages-layoffs-1237048503/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:15:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049000",
-      "title": "CNN Says Outage Due To  Technical Issue Across Warner Bros. Discovery",
-      "url": "https://deadline.com/2026/08/cnn-outage-dana-bash-warner-bros-discovery-1237049000/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:13:07+00:00"
-    },
     {
       "guid": "https://variety.com/?p=1236841598",
       "title": "Former Child Star Raquel Lee Sues Disney Over Alleged Rape at 14 by Ex-Employee",
@@ -1338,36 +1324,12 @@
       "published_dt": "2026-08-24T17:21:57+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236841637",
-      "title": "Pixar\u2019s \u2018Cars\u2019 Returns to Theaters for 20th Anniversary",
-      "url": "https://variety.com/2026/film/news/cars-returns-theaters-20th-anniversary-1236841637/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:03:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841649",
-      "title": "CNN Blames \u2018Technical Issue\u2019 Across Warner Bros. Discovery for Channel Going Dark",
-      "url": "https://variety.com/2026/tv/news/cnn-streaming-technical-issues-channel-loss-1236841649/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:03:39+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236679776",
       "title": "Teletubbies Owner WildBrain Buys AI Firm for $11 Million",
       "url": "https://www.hollywoodreporter.com/business/business-news/wildbrain-personality-ai-1236679776/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-24T17:17:31+00:00"
-    },
-    {
-      "guid": "t3_1vx8ucb",
-      "title": "NateTheHate: Based on recent conversations, it does not seem likely that we'll get any new Xbox game announcements at Gamescom",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vx8ucb/natethehate_based_on_recent_conversations_it_does/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T17:10:13+00:00"
     },
     {
       "guid": "t3_1vx9bkf",
@@ -2080,6 +2042,38 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-24T21:00:00+00:00"
+    },
+    {
+      "guid": "d463c8f8-ecdf-4766-a229-60ac10dd4c36",
+      "title": "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
+      "url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T21:03:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679850",
+      "title": "Trump Trade War With Canada Puts Film, TV Spending Rules in Crosshairs",
+      "url": "https://www.hollywoodreporter.com/business/business-news/trump-trade-war-canada-1236679850/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T21:05:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680073",
+      "title": "Jacob Chase to Direct \u2018Sleepover\u2019 for Blumhouse Atomic Monster; Universal Sets 2028 Release",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jacob-chase-direct-sleepover-for-blumhouse-atomic-monster-1236680073/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T21:01:51+00:00"
+    },
+    {
+      "guid": "a8imCPPhYHUwXjDM4Eetuk",
+      "title": "Sekiro's combat is a \"remarkable refinement\" of the Souls games, says dev of new action RPG \"honored\" by comparisons to FromSoftware",
+      "url": "https://www.gamesradar.com/games/action-rpg/sekiros-combat-is-a-remarkable-refinement-of-the-souls-games-says-dev-of-new-action-rpg-honored-by-comparisons-to-fromsoftware/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T21:04:45+00:00"
     }
   ]
 }
