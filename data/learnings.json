@@ -1,23 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "It: Welcome to Derry Gets Season 2 Renewal at HBO, Jumps Back to 1935 and the Bradley Gang Massacre",
-      "tag": "it: welcome to derry",
-      "posted_at": "2026-08-17T18:18:37.449230+00:00",
-      "urls": [
-        "https://www.ign.com/articles/it-welcome-to-derry-season-2-renewed-bradley-gang",
-        "https://deadline.com/2026/08/it-welcome-to-derry-renewed-season-2-hbo-1237042942/",
-        "https://variety.com/2026/tv/news/it-welcome-to-derry-renewed-season-2-hbo-1236836194/",
-        "https://www.hollywoodreporter.com/tv/tv-news/it-welcome-to-derry-season-2-1236675073/"
-      ],
-      "article_titles": [
-        "IT: Welcome to Derry Season 2 Renewed, Will Cover Bradley Gang Massacre",
-        "\u2018It: Welcome To Derry\u2019 Renewed For Season 2 By HBO",
-        "\u2018It: Welcome to Derry\u2019 Renewed for Season 2 at HBO",
-        "\u2018IT: Welcome to Derry\u2019 Finally Renewed for Season 2, and It\u2019s Going Back to 1935"
-      ]
-    },
-    {
       "headline": "Hayden Panettiere, Kingdom Hearts and Until Dawn Star, Dies \u2014 Co-Stars and Fans Pay Tribute",
       "tag": "kingdom hearts",
       "posted_at": "2026-08-17T19:01:14.111098+00:00",
@@ -1350,19 +1333,26 @@
       "article_titles": [
         "GTA 6 Leaker Now Asking People To Antagonize Rockstar IRL And One Person Already Did It"
       ]
+    },
+    {
+      "headline": "Terranigma, the SNES Classic That Never Officially Released in North America, Is Finally Coming to Modern Platforms",
+      "tag": "terranigma",
+      "posted_at": "2026-08-24T18:21:30.861330+00:00",
+      "urls": [
+        "https://www.gematsu.com/2026/08/terranigma-announced-for-ps5-xbox-series-switch-2-ps4-switch-and-pc",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxamlk/terranigma_releases_2027_on_ps5_ps4_xbox_series/",
+        "https://www.gematsu.com/2026/08/well-dweller-adds-ps5-xbox-series-and-switch-2-versions-launches-september-22"
+      ],
+      "article_titles": [
+        "Terranigma announced for PS5, Xbox Series, Switch 2, PS4, Switch, and PC",
+        "Terranigma releases 2027 on PS5, PS4, Xbox Series, Switch 2, Switch, PC",
+        "Well Dweller adds PS5, Xbox Series, and Switch 2 versions, launches September 22"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://otakukart.com/?p=1752610",
-      "title": "Lanterns Showrunner Explains Why Episode 2\u2019s Big Green Lantern Ring Moment Had to Be Earned",
-      "url": "https://otakukart.com/lanterns-showrunner-explains-why-episode-2s-big-green-lantern-ring-moment-had-to-be-earned/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T14:05:30+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237048823",
       "title": "Netflix Renews \u2018The Gentlemen,\u2019 \u2018House Of Guinness\u2019 & \u2018Being Gordon Ramsay\u2019",
@@ -1380,22 +1370,6 @@
       "published_dt": "2026-08-24T14:26:16+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237048771",
-      "title": "Dianne Wiest & Ciar\u00e1n Hinds To Star In Comedy-Drama \u2018This Old Love Of Mine\u2019, WestEnd Launches Sales Ahead Of TIFF Market",
-      "url": "https://deadline.com/2026/08/dianne-wiest-and-ciaran-hinds-cast-in-this-old-love-of-mine-1237048771/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T14:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841484",
-      "title": "Orlando Bloom to Be Honored During Venice Film Festival With Filming Italy Award",
-      "url": "https://variety.com/2026/film/global/orlando-bloom-honored-venice-film-festival-1236841484/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T14:14:05+00:00"
-    },
-    {
       "guid": "n2Zic4oZJ7CTBB9g4yRFf7",
       "title": "Latest GTA 6 leaks see Cyberleek threaten Rockstar with Lucia story spoilers \u2013 and closely examine naked NPCs",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/latest-gta-6-leaks-see-cyberleek-threaten-rockstar-with-lucia-story-spoilers-and-closely-examine-naked-npcs/",
@@ -1410,30 +1384,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-24T14:27:37+00:00"
-    },
-    {
-      "guid": "LcQCribU82od5a8Gzehxya",
-      "title": "5 reasons why you should play Baldur's Gate 3, especially if you've never played D&D before",
-      "url": "https://www.gamesradar.com/games/rpg/5-reasons-why-you-should-play-baldurs-gate-3/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T14:13:09+00:00"
-    },
-    {
-      "guid": "mPpCdCcGHNCRVeVTxfKDKH",
-      "title": "The Marvels star Iman Vellani has some notes for the MCU: fewer team-ups and \"smaller characters in smaller movies\"",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/the-marvels-star-iman-vellani-has-some-notes-for-the-mcu-fewer-team-ups-and-smaller-characters-in-smaller-movies/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T14:08:01+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752608",
-      "title": "Helldivers 2 Reaches 22.9 Million Players Before Its PlayStation Plus Debut",
-      "url": "https://otakukart.com/helldivers-2-reaches-22-9-million-players-before-its-playstation-plus-debut/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T14:14:29+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000727546",
@@ -2306,6 +2256,150 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-24T18:00:00+00:00"
+    },
+    {
+      "guid": "abacf93d-9ea2-4550-a7ff-ce969f1f690c",
+      "title": "Call of Duty: Modern Warfare 4 Adds New Dynamic Cosmetic Options for Certain Characters Like Ghost",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-adds-new-dynamic-cosmetic-options-for-certain-characters-like-ghost",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:06:58+00:00"
+    },
+    {
+      "guid": "511bdc4e-7ad3-40e2-8850-5c74bf93052b",
+      "title": "Save 60% Off a Brand New Pair of Beats Studio Pro Wireless Noise Canceling Headphones",
+      "url": "https://www.ign.com/articles/beats-studio-pro-wireless-noise-canceling-headphone-deal-august-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T17:50:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727595",
+      "title": "Robot\u2019s Ass Catches On Fire And Other Dispatches From The Humanoid Robot Games",
+      "url": "https://kotaku.com/world-humanoid-robot-games-robots-catching-fire-fortnite-dance-emotes-2000727595",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049081",
+      "title": "Saudi Arabia To Invest $7 Billion In Three Theme Parks Near Paris",
+      "url": "https://deadline.com/2026/08/saudi-arabia-france-theme-parks-paris-1237049081/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:06:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049070",
+      "title": "NBC\u2019s \u2018Line Of Fire\u2019 Adds Sam Waterston, Campbell Scott & Chris Chalk As Guest Stars",
+      "url": "https://deadline.com/2026/08/line-of-fire-cast-sam-waterston-campbell-scott-chris-chalk-1237049070/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:04:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049010",
+      "title": "Ben McKenzie Joins Wife Morena Baccarin On \u2018Sheriff Country\u2019 Season 2 Premiere",
+      "url": "https://deadline.com/2026/08/ben-mckenzie-sheriff-country-morena-baccarin-season-2-1237049010/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:03:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049040",
+      "title": "\u2018Rooster\u2019 Ups Maximo Salas, Annie Mumolo & Rory Scovel To Series Regulars In Season 2",
+      "url": "https://deadline.com/2026/08/rooster-season-2-annie-mumolo-maximo-salas-series-regulars-1237049040/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841749",
+      "title": "Disney and NFL Team Up on Apparel Collection, Pairing Each of the League\u2019s 32 Teams With Beloved Franchise Characters",
+      "url": "https://variety.com/2026/shopping/news/disney-nfl-team-apparel-collection-shop-online-1236841749/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:20:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679708",
+      "title": "YouTube Changes How It Counts Views \u2014\u00a0But Not What Actually Counts",
+      "url": "https://www.hollywoodreporter.com/business/business-news/youtube-changes-public-view-counts-1236679708/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:07:33+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679901",
+      "title": "Brian Kavanaugh-Jones Joins \u2018Backrooms\u2019 Producer Oddfellows as Partner, Co-President",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/brian-kavanaugh-jones-oddfellows-1236679901/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T18:01:58+00:00"
+    },
+    {
+      "guid": "1859978",
+      "title": "Red Dead Redemption 2 Is Getting A Mexico Expansion Soon, But Not From Rockstar",
+      "url": "https://www.gamespot.com/articles/red-dead-redemption-2-is-getting-a-mexico-expansion-soon-but-not-from-rockstar/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:04:35+00:00"
+    },
+    {
+      "guid": "1860100",
+      "title": "Castlevania: Belmont\u2019s Curse Is Basically A Netflix Castlevania Reunion",
+      "url": "https://www.gamespot.com/articles/castlevania-belmonts-curse-is-basically-a-netflix-castlevania-reunion/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:03:25+00:00"
+    },
+    {
+      "guid": "1859773",
+      "title": "Why A Nintendo Direct Is Likely To Happen Next Month",
+      "url": "https://www.gamespot.com/articles/why-a-nintendo-direct-is-likely-to-happen-next-month/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T17:48:45+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205158",
+      "title": "Cult 16-Bit RPG Makes Its Official US Debut in 2027 on PS5",
+      "url": "https://www.pushsquare.com/news/2026/08/cult-16-bit-rpg-makes-its-official-us-debut-in-2027-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:10:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205324",
+      "title": "Ninja JajaMaru - Yokai Night Parade Is Hacking And Slashing Its Way To Modern Systems",
+      "url": "https://www.timeextension.com/news/2026/08/ninja-jajamaru-yokai-night-parade-is-hacking-and-slashing-its-way-to-modern-systems",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:10:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071022",
+      "title": "Terranigma announced for PS5, Xbox Series, Switch 2, PS4, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/08/terranigma-announced-for-ps5-xbox-series-switch-2-ps4-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:05:26+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/tabletop-battles-reviews-infinity-hexadome-legends/",
+      "title": "Tabletop Battles Reviews: Infinity Hexadome Legends",
+      "url": "https://www.tabletopbattles.com/tabletop-battles-reviews-infinity-hexadome-legends/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:00:44+00:00"
+    },
+    {
+      "guid": "t3_1vxamlk",
+      "title": "Terranigma releases 2027 on PS5, PS4, Xbox Series, Switch 2, Switch, PC",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxamlk/terranigma_releases_2027_on_ps5_ps4_xbox_series/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:12:22+00:00"
     }
   ]
 }
