@@ -1354,60 +1354,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "CgNQxkBfAVTYAvaeeRLzJk",
-      "title": "Both AMD and Intel's desktop CPU sales are falling off a cliff but Ryzen is falling a little slower",
-      "url": "https://www.pcgamer.com/hardware/processors/both-amd-and-intels-desktop-cpu-sales-are-falling-off-a-cliff-but-ryzen-is-falling-a-little-slower/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T15:27:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237048879",
-      "title": "Ren\u00e9 Malo Dies: Veteran Qu\u00e9b\u00e9cois Filmmaker & \u2018The Decline Of The American Empire\u2019 Producer Was 84",
-      "url": "https://deadline.com/2026/08/rene-malo-obit-the-decline-of-the-american-empire-producer-1237048879/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T15:19:06+00:00"
-    },
-    {
-      "guid": "1859316",
-      "title": "GTA 6 Leaks Don\u2019t Matter, So Please Calm Down, Ex-Rockstar Director Says",
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-dont-matter-and-arent-as-bad-as-hot-coffee-scandal-ex-rockstar-director-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:08:40+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205350",
-      "title": "UK Charts: Oblivion Remastered Takes A Tumble After Its Strong Debut",
-      "url": "https://www.nintendolife.com/news/2026/08/uk-charts-oblivion-remastered-takes-a-tumble-after-its-strong-debut",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1071082",
-      "title": "Castlevania: Belmont\u2019s Curse English voice cast announced",
-      "url": "https://www.gematsu.com/2026/08/castlevania-belmonts-curse-english-voice-cast-announced",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:14:49+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000727598",
       "title": "The Witcher 4 Won\u2019t Be At Gamescom, But Finally Has A 2028 Launch Window",
       "url": "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-24T15:52:21+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727521",
-      "title": "17 Sharpest Cosplay Fits From Dream Con 2026",
-      "url": "https://kotaku.com/cosplay-gallery-dream-con-2026-mineralblu-naruto-dragon-ball-batman-2000727521",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T15:30:04+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237047042",
@@ -1498,28 +1450,12 @@
       "published_dt": "2026-08-24T15:45:24+00:00"
     },
     {
-      "guid": "nfMWPzyvLpp8VSEJ6jM5kh",
-      "title": "There's now a replica Fortnite Victory Crown, so you can always feel like a winner even if you've never claimed a real-life Victory Royale",
-      "url": "https://www.gamesradar.com/toys-collectibles/theres-now-a-replica-fortnite-victory-crown-so-you-can-always-feel-like-a-winner-even-if-youve-never-claimed-a-real-life-victory-royale/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:29:54+00:00"
-    },
-    {
       "guid": "1859357",
       "title": "Witcher 4 Release Window Narrowed Down, As Dev Teases \u201cA Surprise Or Two\u201d At Gamescom About Other Things",
       "url": "https://www.gamespot.com/articles/witcher-4-release-window-narrowed-down-to-2028/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-24T15:33:22+00:00"
-    },
-    {
-      "guid": "1859344",
-      "title": "GTA 6 Leak Shows Off Apparent Nudist Colony",
-      "url": "https://www.gamespot.com/articles/gta-6-leak-shows-off-apparent-nudist-colony/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:29:05+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-205354",
@@ -1536,14 +1472,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-24T15:45:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205351",
-      "title": "'This Is Illegal': Stop Killing Games Movement Distances Itself from GTA 6 Leaks",
-      "url": "https://www.pushsquare.com/news/2026/08/this-is-illegal-stop-killing-games-movement-distances-itself-from-gta-6-leaks",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121507",
@@ -2344,6 +2272,126 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-24T19:06:53+00:00"
+    },
+    {
+      "guid": "de14bbb0-5b5e-4fbb-8e7a-2290bb3ccc48",
+      "title": "Today\u2019s Best Deals: Pok\u00e9mon Pitch Black Booster Bundle, Apple AirTag, and Elgato Stream Deck XL",
+      "url": "https://www.ign.com/articles/best-deals-for-august-24-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T19:05:00+00:00"
+    },
+    {
+      "guid": "e783f5d1-44aa-40bb-a667-57f4d1d5ac51",
+      "title": "Buddy Review",
+      "url": "https://www.ign.com/articles/buddy-movie-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T19:02:21+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727642",
+      "title": "Discord Says It Hasn\u2019t Been Served With A Subpoena Over GTA 6 Leaks Yet: \u2018We\u2019ll Evaluate The Validity And Scope Before Responding\u2019",
+      "url": "https://kotaku.com/discord-says-it-hasnt-been-served-with-a-subpoena-over-gta-6-leaks-yet-well-evaluate-the-validity-and-scope-before-responding-2000727642",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T19:20:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841814",
+      "title": "Warner Chappell Music Promotes Gabz Landman to Executive VP of A&R",
+      "url": "https://variety.com/2026/music/news/warner-chappell-promotes-gabz-landman-to-executive-vp-1236841814/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T19:17:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841782",
+      "title": "Emma Chamberlain Brings a Gen Z Twist to J. Crew\u2019s Signature Rollneck Sweater in New Campaign",
+      "url": "https://variety.com/2026/shopping/news/jcrew-tiny-rollneck-sweater-emma-chamberlain-shop-online-1236841782/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T19:10:02+00:00"
+    },
+    {
+      "guid": "F8mVs4zjiHLQv8JKdE97LJ",
+      "title": "After 31 years, one of the most beloved JRPGs on the Super Nintendo gets its first-ever North American release",
+      "url": "https://www.gamesradar.com/games/jrpg/after-31-years-one-of-the-most-beloved-jrpgs-on-the-super-nintendo-gets-its-first-ever-north-american-release/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:17:25+00:00"
+    },
+    {
+      "guid": "M9SzisjfdJmnHLqY88YijX",
+      "title": "Previously cancelled Coyote vs Acme movie has heartwarming dedication to \"everyone who posted, shared, held up signs and spoke out when it counted\"",
+      "url": "https://www.gamesradar.com/entertainment/comedy-movies/previously-cancelled-coyote-vs-acme-movie-has-heartwarming-dedication-to-everyone-who-posted-shared-held-up-signs-and-spoke-out-when-it-counted/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:08:47+00:00"
+    },
+    {
+      "guid": "MESFqKDgDugvWkEtqw6UvX",
+      "title": "The Duskbloods network test was not good between lag, stuttering, and bad PvP",
+      "url": "https://www.gamesradar.com/games/action-rpg/the-duskbloods-network-test-was-not-good-between-lag-stuttering-and-bad-pvp/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:59:47+00:00"
+    },
+    {
+      "guid": "1860122",
+      "title": "Call Of Duty: Modern Warfare 4 Is Way Ahead Of Black Ops 7 Already By One Metric",
+      "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:12:33+00:00"
+    },
+    {
+      "guid": "1859374",
+      "title": "GTA 6 Leaks: A Timeline Of The Events So Far",
+      "url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:01:36+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-199873",
+      "title": "He-Man's Bad Ass PS5 Brawler Now Launching in 2027",
+      "url": "https://www.pushsquare.com/news/2026/08/he-mans-bad-ass-ps5-brawler-now-launching-in-2027",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:25:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205165",
+      "title": "I'm Hyped This Unknown Irem Beat-'em-Up Is Adding a Bases Loaded Stage",
+      "url": "https://www.pushsquare.com/news/2026/08/im-hyped-this-unknown-irem-beat-em-up-is-adding-a-bases-loaded-stage",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:20:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205317",
+      "title": "Alien Breed Is Getting A 35th Anniversary Collection, And Its Publisher Couldn't Be More Apt",
+      "url": "https://www.timeextension.com/news/2026/08/alien-breed-is-getting-a-35th-anniversary-collection-and-its-publisher-couldnt-be-more-apt",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:10:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071154",
+      "title": "Alien Breed 35th Anniversary Collection announced for PS5, Xbox Series, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/08/alien-breed-35th-anniversary-collection-announced-for-ps5-xbox-series-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:10:16+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752723",
+      "title": "Tokyo Revengers: War of the Three Titans Arc Reveals New Visual, Trailer, and NYCC 2026 Plans",
+      "url": "https://otakukart.com/tokyo-revengers-war-of-the-three-titans-arc-reveals-new-visual-trailer-and-nycc-2026-plans/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:19:11+00:00"
     }
   ]
 }
