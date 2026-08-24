@@ -1308,38 +1308,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236841598",
-      "title": "Former Child Star Raquel Lee Sues Disney Over Alleged Rape at 14 by Ex-Employee",
-      "url": "https://variety.com/2026/film/news/child-star-raquel-lee-sues-disney-1236841598/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:26:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841669",
-      "title": "Paramount Says It Did Not Leak Discussions With California\u2019s Attorney General to the Press",
-      "url": "https://variety.com/2026/film/news/paramount-leak-discussions-california-attorney-general-1236841669/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:21:57+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679776",
-      "title": "Teletubbies Owner WildBrain Buys AI Firm for $11 Million",
-      "url": "https://www.hollywoodreporter.com/business/business-news/wildbrain-personality-ai-1236679776/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:17:31+00:00"
-    },
-    {
-      "guid": "t3_1vx9bkf",
-      "title": "Footage from cancelled Iron Man game from Avalanche Studios (Just Cause, Mad Max devs)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vx9bkf/footage_from_cancelled_iron_man_game_from/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T17:26:45+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000727623",
       "title": "GTA 6 Leaker Now Asking People To Antagonize Rockstar IRL And One Person Already Did It",
       "url": "https://kotaku.com/gta-6-leaker-now-encouraging-people-to-antagonize-rockstar-irl-and-one-person-already-did-it-2000727623",
@@ -1386,14 +1354,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-24T17:42:23+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205345",
-      "title": "Live: Watch the Pixel Arcadia Retro Game Livestream Here, Featuring Terranigma",
-      "url": "https://www.pushsquare.com/features/live-watch-the-pixel-arcadia-retro-game-livestream-here-featuring-terranigma",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T17:30:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237049007",
@@ -2074,6 +2034,14 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-24T21:04:45+00:00"
+    },
+    {
+      "guid": "fTzzwHNEyv6moohsg9toXV",
+      "title": "Spider-Man: Brand New Day is officially the highest-grossing Marvel movie at the US box office after dethroning Avengers: Endgame",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-is-officially-the-highest-grossing-marvel-movie-at-the-us-box-office-after-dethroning-avengers-endgame/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T21:19:59+00:00"
     }
   ]
 }
