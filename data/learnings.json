@@ -1354,22 +1354,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "KU5co7crNKoPD5TiNqvetX",
-      "title": "Blood of Dawnwalker is getting a 60fps mode at launch after backlash pushed Rebel Wolves to reshuffle plans: \"It was clear how much this mattered to many of you\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/blood-of-dawnwalker-is-getting-a-60fps-mode-at-launch-after-backlash-pushed-rebel-wolves-to-reshuffle-plans-it-was-clear-how-much-this-mattered-to-many-of-you/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:01:37+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121522",
-      "title": "Yoshitaka Amano Drew One Piece Trading Card Game Art",
-      "url": "https://www.siliconera.com/yoshitaka-amano-drew-one-piece-trading-card-game-art/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T15:00:40+00:00"
-    },
-    {
       "guid": "CgNQxkBfAVTYAvaeeRLzJk",
       "title": "Both AMD and Intel's desktop CPU sales are falling off a cliff but Ryzen is falling a little slower",
       "url": "https://www.pcgamer.com/hardware/processors/both-amd-and-intels-desktop-cpu-sales-are-falling-off-a-cliff-but-ryzen-is-falling-a-little-slower/",
@@ -1384,14 +1368,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-24T15:19:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679674",
-      "title": "R.J. Kizer, Sound Editor and ADR Expert, Dies at 73",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/rj-kizer-dead-master-commander-sound-editor-adr-expert-1236679674/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T15:06:12+00:00"
     },
     {
       "guid": "1859316",
@@ -2344,6 +2320,30 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-24T18:51:52+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071233",
+      "title": "Sanitarium Enhanced announced for PS5, Xbox Series, PS4, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/08/sanitarium-enhanced-announced-for-ps5-xbox-series-ps4-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T18:35:34+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752724",
+      "title": "NEXON\u2019s Project RX Officially Becomes FAREIDOLIA, Playable Demo Set for Tokyo Game Show 2026",
+      "url": "https://otakukart.com/nexons-project-rx-officially-becomes-fareidolia-playable-demo-set-for-tokyo-game-show-2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:04:04+00:00"
+    },
+    {
+      "guid": "t3_1vxc7x5",
+      "title": "It's just a guess, but I think this is a call for playtests of Fairgames/Break In",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxc7x5/its_just_a_guess_but_i_think_this_is_a_call_for/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T19:06:53+00:00"
     }
   ]
 }
