@@ -1308,38 +1308,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236841749",
-      "title": "Disney and NFL Team Up on Apparel Collection, Pairing Each of the League\u2019s 32 Teams With Beloved Franchise Characters",
-      "url": "https://variety.com/2026/shopping/news/disney-nfl-team-apparel-collection-shop-online-1236841749/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T18:20:19+00:00"
-    },
-    {
-      "guid": "t3_1vxamlk",
-      "title": "Terranigma releases 2027 on PS5, PS4, Xbox Series, Switch 2, Switch, PC",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxamlk/terranigma_releases_2027_on_ps5_ps4_xbox_series/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:12:22+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205365",
-      "title": "This Promising PS5 Indie Doesn't Deserve Being Buried in Next Month's Crowded Release Calendar",
-      "url": "https://www.pushsquare.com/news/2026/08/this-promising-ps5-indie-doesnt-deserve-being-buried-in-next-months-crowded-release-calendar",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:30:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=617476",
-      "title": "D&D: Embrace The Earth With The New Stone Sovereign Warlock Patron",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-embrace-the-earth-with-the-new-stone-sovereign-warlock-patron.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:28:05+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236841776",
       "title": "New York\u2019s AMC Kips Bay Movie Theater to Close at End of 2026",
       "url": "https://variety.com/2026/film/news/amc-kips-bay-closing-new-york-movie-theater-1236841776/",
@@ -1348,60 +1316,12 @@
       "published_dt": "2026-08-24T18:53:47+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236841684",
-      "title": "\u2018You\u2019 Author Caroline Kepnes Sets Series Directorial Debut With Psychological Thriller \u2018The Attentionist\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/you-caroline-kepnes-director-debut-the-attentionist-1236841684/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T18:43:08+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679819",
-      "title": "Seth Green and Matt Senreich Turn Failed \u2018Robot Chicken\u2019 Sketch Into Hellbent Cocktails Brand",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/seth-green-hellbent-cocktails-brand-robot-chicken-sketch-1236679819/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T18:34:42+00:00"
-    },
-    {
-      "guid": "1860115",
-      "title": "My Cat Doesn\u2019t Care About The Metal Gear Box, Just The Box It Came In",
-      "url": "https://www.gamespot.com/articles/my-cat-doesnt-care-about-the-metal-gear-box-just-the-box-it-came-in/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:34:49+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121626",
-      "title": "Terranigma Switch, Switch 2, PS5, Xbox Series X, and PC Versions",
-      "url": "https://www.siliconera.com/terranigma-switch-switch-2-ps5-xbox-series-x-and-pc-versions/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:45:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205133",
-      "title": "\"This Moment Has Been Long Awaited\" - Terranigma Is Coming To Switch, Switch 2, PS5, Xbox And PC Early Next Year",
-      "url": "https://www.timeextension.com/news/2026/08/this-moment-has-been-long-awaited-terranigma-is-coming-to-switch-switch-2-ps5-xbox-and-pc-early-next-year",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:30:00+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1071219",
       "title": "Carrier Command 2 coming to PS5, Xbox Series, Switch 2, and Switch",
       "url": "https://www.gematsu.com/2026/08/carrier-command-2-coming-to-ps5-xbox-series-switch-2-and-switch",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-24T18:51:52+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1071233",
-      "title": "Sanitarium Enhanced announced for PS5, Xbox Series, PS4, Switch, and PC",
-      "url": "https://www.gematsu.com/2026/08/sanitarium-enhanced-announced-for-ps5-xbox-series-ps4-switch-and-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:35:34+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1752724",
@@ -1930,6 +1850,14 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-24T22:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680074",
+      "title": "Disney and NFL Fandoms Collide in Character-Inspired Collection of Team Gear",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/buy-disney-nfl-champion-clothing-collab-2026-release-online-1236680074/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T22:43:00+00:00"
     }
   ]
 }
