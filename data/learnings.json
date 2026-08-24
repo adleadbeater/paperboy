@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Kingdom Hearts 4 Will Fulfill a Vision Nomura Has Had Since KH3",
-      "tag": "kingdom hearts 4",
-      "posted_at": "2026-08-17T22:10:42.325917+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/kingdom-hearts/after-8-years-kingdom-hearts-4-will-realize-an-idea-that-we-had-since-kingdom-hearts-3-tetsuya-nomura-says/"
-      ],
-      "article_titles": [
-        "After 8 years, Kingdom Hearts 4 will realize \"an idea that we had since Kingdom Hearts 3,\" Tetsuya Nomura says"
-      ]
-    },
-    {
       "headline": "Deus Ex and System Shock Creator Warren Spector Announces Retirement After 44 Years in Games",
       "tag": "warren spector",
       "posted_at": "2026-08-18T12:18:01.476858+00:00",
@@ -1302,59 +1291,33 @@
         "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
         "Footage from cancelled Iron Man game from Avalanche Studios (Just Cause, Mad Max devs)"
       ]
+    },
+    {
+      "headline": "The Witcher 3's Songs of the Past Expansion Will Include More Gwent",
+      "tag": "the witcher 3",
+      "posted_at": "2026-08-24T23:11:55.661279+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating"
+      ],
+      "article_titles": [
+        "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating"
+      ]
+    },
+    {
+      "headline": "Xbox and PlayStation Are Quietly Pulling Back on Promoting Multiplatform Releases",
+      "tag": "",
+      "posted_at": "2026-08-24T23:11:55.738054+00:00",
+      "urls": [
+        "https://www.ign.com/articles/xbox-and-playstation-appear-to-be-publicly-backing-down-from-promoting-multiplatform-releases"
+      ],
+      "article_titles": [
+        "Xbox and PlayStation Appear to Be Publicly Backing Down from Promoting Multiplatform Releases"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://variety.com/?p=1236841776",
-      "title": "New York\u2019s AMC Kips Bay Movie Theater to Close at End of 2026",
-      "url": "https://variety.com/2026/film/news/amc-kips-bay-closing-new-york-movie-theater-1236841776/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T18:53:47+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1071219",
-      "title": "Carrier Command 2 coming to PS5, Xbox Series, Switch 2, and Switch",
-      "url": "https://www.gematsu.com/2026/08/carrier-command-2-coming-to-ps5-xbox-series-switch-2-and-switch",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:51:52+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752724",
-      "title": "NEXON\u2019s Project RX Officially Becomes FAREIDOLIA, Playable Demo Set for Tokyo Game Show 2026",
-      "url": "https://otakukart.com/nexons-project-rx-officially-becomes-fareidolia-playable-demo-set-for-tokyo-game-show-2026/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T19:04:04+00:00"
-    },
-    {
-      "guid": "t3_1vxc7x5",
-      "title": "It's just a guess, but I think this is a call for playtests of Fairgames/Break In",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxc7x5/its_just_a_guess_but_i_think_this_is_a_call_for/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T19:06:53+00:00"
-    },
-    {
-      "guid": "de14bbb0-5b5e-4fbb-8e7a-2290bb3ccc48",
-      "title": "Today\u2019s Best Deals: Pok\u00e9mon Pitch Black Booster Bundle, Apple AirTag, and Elgato Stream Deck XL",
-      "url": "https://www.ign.com/articles/best-deals-for-august-24-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T19:05:00+00:00"
-    },
-    {
-      "guid": "e783f5d1-44aa-40bb-a667-57f4d1d5ac51",
-      "title": "Buddy Review",
-      "url": "https://www.ign.com/articles/buddy-movie-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T19:02:21+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000727642",
       "title": "Discord Says It Hasn\u2019t Been Served With A Subpoena Over GTA 6 Leaks Yet: \u2018We\u2019ll Evaluate The Validity And Scope Before Responding\u2019",
@@ -1372,14 +1335,6 @@
       "published_dt": "2026-08-24T19:17:42+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236841782",
-      "title": "Emma Chamberlain Brings a Gen Z Twist to J. Crew\u2019s Signature Rollneck Sweater in New Campaign",
-      "url": "https://variety.com/2026/shopping/news/jcrew-tiny-rollneck-sweater-emma-chamberlain-shop-online-1236841782/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T19:10:02+00:00"
-    },
-    {
       "guid": "F8mVs4zjiHLQv8JKdE97LJ",
       "title": "After 31 years, one of the most beloved JRPGs on the Super Nintendo gets its first-ever North American release",
       "url": "https://www.gamesradar.com/games/jrpg/after-31-years-one-of-the-most-beloved-jrpgs-on-the-super-nintendo-gets-its-first-ever-north-american-release/",
@@ -1388,36 +1343,12 @@
       "published_dt": "2026-08-24T19:17:25+00:00"
     },
     {
-      "guid": "M9SzisjfdJmnHLqY88YijX",
-      "title": "Previously cancelled Coyote vs Acme movie has heartwarming dedication to \"everyone who posted, shared, held up signs and spoke out when it counted\"",
-      "url": "https://www.gamesradar.com/entertainment/comedy-movies/previously-cancelled-coyote-vs-acme-movie-has-heartwarming-dedication-to-everyone-who-posted-shared-held-up-signs-and-spoke-out-when-it-counted/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T19:08:47+00:00"
-    },
-    {
-      "guid": "MESFqKDgDugvWkEtqw6UvX",
-      "title": "The Duskbloods network test was not good between lag, stuttering, and bad PvP",
-      "url": "https://www.gamesradar.com/games/action-rpg/the-duskbloods-network-test-was-not-good-between-lag-stuttering-and-bad-pvp/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T18:59:47+00:00"
-    },
-    {
       "guid": "1860122",
       "title": "Call Of Duty: Modern Warfare 4 Is Way Ahead Of Black Ops 7 Already By One Metric",
       "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-is-way-ahead-of-black-ops-7-already-by-one-metric/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-24T19:12:33+00:00"
-    },
-    {
-      "guid": "1859374",
-      "title": "GTA 6 Leaks: A Timeline Of The Events So Far",
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-a-timeline-of-the-events-so-far/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T19:01:36+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-199873",
@@ -1434,22 +1365,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-24T19:20:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205317",
-      "title": "Alien Breed Is Getting A 35th Anniversary Collection, And Its Publisher Couldn't Be More Apt",
-      "url": "https://www.timeextension.com/news/2026/08/alien-breed-is-getting-a-35th-anniversary-collection-and-its-publisher-couldnt-be-more-apt",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T19:10:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1071154",
-      "title": "Alien Breed 35th Anniversary Collection announced for PS5, Xbox Series, Switch, and PC",
-      "url": "https://www.gematsu.com/2026/08/alien-breed-35th-anniversary-collection-announced-for-ps5-xbox-series-switch-and-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T19:10:16+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1752723",
@@ -1858,6 +1773,62 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-24T22:43:00+00:00"
+    },
+    {
+      "guid": "84bebf2e-cbf5-4c83-adee-e6bb0d9cd9fa",
+      "title": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
+      "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T22:56:30+00:00"
+    },
+    {
+      "guid": "840bac24-985a-4543-8d80-e286096571f4",
+      "title": "The FlashForge AD5X Multi-Color 3D Printer Drops to Just $203 Shipped at AliExpress",
+      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-august-2026-updated-2",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T22:55:00+00:00"
+    },
+    {
+      "guid": "0507c87d-7fde-4950-9ff1-e490232124bf",
+      "title": "Xbox and PlayStation Appear to Be Publicly Backing Down from Promoting Multiplatform Releases",
+      "url": "https://www.ign.com/articles/xbox-and-playstation-appear-to-be-publicly-backing-down-from-promoting-multiplatform-releases",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T22:53:57+00:00"
+    },
+    {
+      "guid": "f5ee9b3b-7df5-49ea-b204-7aea1611e6a0",
+      "title": "The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $135 Shipped",
+      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-august-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T22:50:00+00:00"
+    },
+    {
+      "guid": "800f6da0-12d9-4d7d-b7ec-1daf87dc61de",
+      "title": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
+      "url": "https://www.ign.com/articles/persona-comes-to-beard-papas-with-special-30th-anniversary-collaboration",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T22:41:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679472",
+      "title": "Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/brenda-song-los-angeles-rams-sofi-stadium-macaulay-culkin-1236679472/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T22:49:37+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205369",
+      "title": "'We're Hoping to Continue the Remakes for a While': Falcom Doubles Down on Remaking Classic Trails Games",
+      "url": "https://www.pushsquare.com/news/2026/08/were-hoping-to-continue-the-remakes-for-a-while-falcom-doubles-down-on-remaking-classic-trails-games",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T23:00:00+00:00"
     }
   ]
 }
