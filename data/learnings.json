@@ -1306,14 +1306,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "ro77vYNbY6kzmmHdqMZPXT",
-      "title": "Former Rockstar dev says the GTA 6 leaks are a 'nothing burger': 'There won't be much damage'",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/former-rockstar-dev-says-the-gta-6-leaks-are-a-nothing-burger-there-wont-be-much-damage/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T16:52:01+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237048979",
       "title": "Michael Ian Black Releasing \u2018First Annual Retirement Special\u2019 With Comedy Dynamics",
       "url": "https://deadline.com/2026/08/new-michael-ian-black-special-premiere-date-1237048979/",
@@ -1330,22 +1322,6 @@
       "published_dt": "2026-08-24T17:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236841629",
-      "title": "Kit Harington Joins \u2018Harry Potter\u2019 Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult",
-      "url": "https://variety.com/2026/tv/global/kit-harington-harry-potter-gilderoy-lockhart-nicholas-hoult-exit-1236841629/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T16:42:33+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841590",
-      "title": "CAA Launches Indie Game Acceleration Fund Frame1Games (EXCLUSIVE)",
-      "url": "https://variety.com/2026/gaming/news/caa-indie-game-fund-frame1games-1236841590/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T16:32:31+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236679727",
       "title": "Fox News Names Emily Compagno As New Co-Host of \u2018The Five\u2019",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/fox-news-emily-compagno-1236679727/",
@@ -1354,52 +1330,12 @@
       "published_dt": "2026-08-24T17:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679807",
-      "title": "Kit Harington Cast In \u2018Harry Potter\u2019 Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/kit-harington-harry-potter-season-2-gilderoy-lockhart-1236679807/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T16:51:03+00:00"
-    },
-    {
-      "guid": "epraYRaDkpkTFyX7QSCaJS",
-      "title": "Castlevania: Belmont's Curse brings on the Netflix show's Dracula and 1 other star from the TV series as part of the new game's English cast",
-      "url": "https://www.gamesradar.com/games/action-rpg/castlevania-belmonts-curse-brings-on-the-netflix-shows-dracula-and-1-other-star-from-the-tv-series-as-part-of-the-new-games-english-cast/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T16:37:57+00:00"
-    },
-    {
-      "guid": "1859453",
-      "title": "Hideo Kojima Says He\u2019s Aware Of His Mortality As He Celebrates 63rd Birthday",
-      "url": "https://www.gamespot.com/articles/hideo-kojima-says-hes-aware-of-his-mortality-as-he-celebrates-63rd-birthday/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T16:34:06+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1121597",
       "title": "See More of Stellar Blade on Switch 2 in New Trailer",
       "url": "https://www.siliconera.com/see-more-of-stellar-blade-on-switch-2-in-new-trailer/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1071141",
-      "title": "Trine 6: Together in Time delayed to March 4, 2027",
-      "url": "https://www.gematsu.com/2026/08/trine-6-together-in-time-delayed-to-march-4-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T16:40:20+00:00"
-    },
-    {
-      "guid": "t3_1vx7v8r",
-      "title": "Devkit containing a debug build of GTA V has been found.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vx7v8r/devkit_containing_a_debug_build_of_gta_v_has_been/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T16:35:15+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000727554",
@@ -2152,6 +2088,54 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-24T20:25:46+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727664",
+      "title": "Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask",
+      "url": "https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T20:45:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049211",
+      "title": "BBC Files New Motion To Dismiss Donald Trump\u2019s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN",
+      "url": "https://deadline.com/2026/08/bbc-trump-documentary-lawsuit-1237049211/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T20:46:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049212",
+      "title": "New York City\u2019s AMC Kips Bay 15 To Close At Year\u2019s End",
+      "url": "https://deadline.com/2026/08/amc-kips-bay-15-closing-new-york-1237049212/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T20:44:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680058",
+      "title": "ESPN App Is Raising Prices",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/espn-app-raising-prices-1236680058/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T20:48:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679988",
+      "title": "Jacob Chase Talks Personalizing \u2018Insidious: Out of the Further\u2019 and That Time He Made Ben Affleck\u2019s Batman Cackle",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/insidious-out-of-the-further-horror-sequel-1236679988/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T20:38:43+00:00"
+    },
+    {
+      "guid": "t3_1vxf52e",
+      "title": "Square Enix may be setting up Final Fantasy 7 Revelation demos at Gamescom",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxf52e/square_enix_may_be_setting_up_final_fantasy_7/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T20:52:26+00:00"
     }
   ]
 }
