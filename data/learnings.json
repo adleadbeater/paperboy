@@ -1306,54 +1306,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237048979",
-      "title": "Michael Ian Black Releasing \u2018First Annual Retirement Special\u2019 With Comedy Dynamics",
-      "url": "https://deadline.com/2026/08/new-michael-ian-black-special-premiere-date-1237048979/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T16:55:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841577",
-      "title": "Emily Compagno Joins Fox News\u2019 \u2018The Five\u2019 as Co-Host",
-      "url": "https://variety.com/2026/tv/news/emily-compagno-fox-news-the-five-co-host-1236841577/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679727",
-      "title": "Fox News Names Emily Compagno As New Co-Host of \u2018The Five\u2019",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/fox-news-emily-compagno-1236679727/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121597",
-      "title": "See More of Stellar Blade on Switch 2 in New Trailer",
-      "url": "https://www.siliconera.com/see-more-of-stellar-blade-on-switch-2-in-new-trailer/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727554",
-      "title": "I\u2019m An Elden Ring Sicko, But 10 Hours With The Duskbloods Has Me Worried FromSoftware\u2019s Next Game Isn\u2019t For Me",
-      "url": "https://kotaku.com/the-duskbloods-pvp-network-test-losing-2000727554",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:00:31+00:00"
-    },
-    {
-      "guid": "FoQhfRptH2eAe3xeRCUCSh",
-      "title": "I turned car friction off in GTA 5. Help",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-turned-car-friction-off-in-gta-5-help/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237048503",
       "title": "Disney Offering Voluntary Early Retirement Packages To Executives",
       "url": "https://deadline.com/2026/08/disney-voluntary-early-retirement-packages-layoffs-1237048503/",
@@ -1368,22 +1320,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-24T17:13:07+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237048839",
-      "title": "Fox News Names Emily Compagno Co-Host Of \u2018The Five\u2019",
-      "url": "https://deadline.com/2026/08/emily-compagno-the-five-fox-news-1237048839/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237048939",
-      "title": "Mike Birbiglia Sets Focus Comedy \u2018Old Friends New Friends\u2019; Lucas Hedges, Patrick Schwarzenegger, Geraldine Viswanathan & Dylan Gelula To Star",
-      "url": "https://deadline.com/2026/08/mike-birbiglia-old-friends-new-friends-focus-features-1237048939/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T17:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236841598",
@@ -1424,30 +1360,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-24T17:17:31+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205361",
-      "title": "Ex-Forza Horizon Devs Finally Find a Publisher for Clutch, PS5's Promising Open World Racer",
-      "url": "https://www.pushsquare.com/news/2026/08/ex-forza-horizon-devs-finally-find-a-publisher-for-clutch-ps5s-promising-open-world-racer",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205316",
-      "title": "Watch: Pixel Arcadia (24th August 2026) - Live!",
-      "url": "https://www.timeextension.com/news/2026/08/watch-pixel-arcadia-24th-august-2026-live",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=616955",
-      "title": "D&D: Five Ways To Take Good Notes",
-      "url": "https://www.belloflostsouls.net/2026/08/dd-five-ways-to-take-good-notes.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T17:00:00+00:00"
     },
     {
       "guid": "t3_1vx8ucb",
@@ -2136,6 +2048,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-24T20:52:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049257",
+      "title": "\u2018Insidious 6\u2019 Director Jacob Chase Reteaming With Blumhouse Atomic Monster For \u2018Sleepover\u2019; Fall 2027 Release Set",
+      "url": "https://deadline.com/2026/08/sleepover-jacob-chase-insidious-out-of-the-further-1237049257/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T21:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841899",
+      "title": "\u2018Insidious: Out of the Further\u2019 Director Jacob Chase to Helm Horror Movie \u2018Sleepover\u2019 for Blumhouse Atomic Monster and Universal",
+      "url": "https://variety.com/2026/film/news/jacob-chase-sleepover-blumhouse-atomic-monster-1236841899/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-24T21:00:00+00:00"
+    },
+    {
+      "guid": "JpPWhn4Fjhw6F93uf5JiJG",
+      "title": "Fallout meets Crusader Kings as Paradox accidentally leaks its next grand strategy game ahead of Gamescom reveal",
+      "url": "https://www.gamesradar.com/games/strategy/fallout-meets-crusader-kings-as-paradox-accidentally-leaks-its-next-grand-strategy-game-ahead-of-gamescom-reveal/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T20:52:43+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121610",
+      "title": "Beard Papa Persona 30th Anniversary Event Starts in September",
+      "url": "https://www.siliconera.com/beard-papa-persona-30th-anniversary-event-starts-in-september/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-24T21:00:00+00:00"
     }
   ]
 }
