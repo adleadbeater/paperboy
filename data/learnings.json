@@ -1319,254 +1319,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236841801",
-      "title": "\u2018Survivor\u2019 vs. \u2018The Traitors\u2019: Will Emmy Voters Finally Give the Original Reality Juggernaut Its Due?",
-      "url": "https://variety.com/2026/tv/awards/survivor-emmys-season-50-the-traitors-reality-competition-1236841801/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T19:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236837808",
-      "title": "\u2018Big Brother\u2019 EPs and Host Julie Chen Moonves on Making 1,000 Episodes, Staying Competitive Against \u2018The Traitors\u2019 and the Chances of an All-Winners Season",
-      "url": "https://variety.com/2026/tv/features/big-brother-1000-episodes-history-all-winners-season-1236837808/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T19:42:56+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049193",
-      "title": "Paramount Developing \u2018How To Lose A Guy In 10 Days\u2019 Sequel With Producer Kate Hudson",
-      "url": "https://deadline.com/2026/08/how-to-lose-a-guy-in-10-days-2-in-works-paramount-1237049193/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T19:53:58+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121607",
-      "title": "New Story of Seasons Game and Rune Factory 6 Videos Shared",
-      "url": "https://www.siliconera.com/new-story-of-seasons-game-and-rune-factory-6-videos-shared/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T20:00:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727643",
-      "title": "The Duskbloods\u2019 Beloved Armored Sea Chicken, Zork, Drinks Blood With His Beak \u2018Like A Mosquito\u2019",
-      "url": "https://kotaku.com/the-duskbloods-zork-mosquito-ultra-man-2000727643",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:00:59+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049210",
-      "title": "Jimmy Kimmel Fears Late-Night Retirement",
-      "url": "https://deadline.com/2026/08/jimmy-kimmel-fears-retirement-1237049210/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:03:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680008",
-      "title": "James Lew, Stuntman and \u2018Hot Shots! Part Deux\u2019 Actor, Dies at 73",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-lew-dead-stuntman-hot-shots-part-deux-1236680008/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:14:19+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679994",
-      "title": "\u2018How to Lose a Guy in 10 Days\u2019 Sequel in the Works at Paramount",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/how-to-lose-a-guy-in-10-days-sequel-kate-hudson-paramount-1236679994/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:02:18+00:00"
-    },
-    {
-      "guid": "1860121",
-      "title": "The Duskbloods Playtest Was Even More Popular Than Elden Ring Nightreign\u2019s",
-      "url": "https://www.gamespot.com/articles/the-duskbloods-playtest-was-even-more-popular-than-elden-ring-nightreigns/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T19:52:57+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205368",
-      "title": "These 10+ Commodore 64 Games Are Coming to PS5 Soon",
-      "url": "https://www.pushsquare.com/news/2026/08/these-10plus-commodore-64-games-are-coming-to-ps5-soon",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T20:00:00+00:00"
-    },
-    {
-      "guid": "jGkMun3soZbuQAYLiP3sd9",
-      "title": "Latest GTA 6 leak confirms full dong",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/latest-gta-6-leak-confirms-full-dong/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:22:51+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680024",
-      "title": "Disney Tightens Spousal Health Benefits as Industry Costs Surge",
-      "url": "https://www.hollywoodreporter.com/news/general-news/disney-health-benefits-spouse-costs-surge-1236680024/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:29:04+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679983",
-      "title": "Free iPhone, Complimentary Netflix and $750 in Savings: T-Mobile\u2019s New \u201c250 Reasons\u201d Campaign Highlights All the Incentives to Switch",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/t-mobile-customer-perks-membership-benefits-network-savings-1236679983/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:14:46+00:00"
-    },
-    {
-      "guid": "9AicwXcYZsMTgdGjS5hBKE",
-      "title": "The new head of Pokemon designs made one of 2024's prettiest games",
-      "url": "https://www.gamesradar.com/games/pokemon/the-new-head-of-pokemon-designs-made-one-of-2024s-prettiest-games/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T20:27:17+00:00"
-    },
-    {
-      "guid": "qjYUJPcNEmatG7qM9ca8V9",
-      "title": "VisionQuest actor James Spader explains where the evil AI has been since Avengers: Age of Ultron",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-actor-james-spader-explains-where-the-evil-ai-has-been-since-avengers-age-of-ultron/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T20:25:46+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727664",
-      "title": "Game About Finding A Needle In A 5-Million-Piece Haystack Is Either Serene Or Stressful Depending On Who You Ask",
-      "url": "https://kotaku.com/find-needle-haystack-game-steam-5-million-twitter-x-2000727664",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:45:16+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049211",
-      "title": "BBC Files New Motion To Dismiss Donald Trump\u2019s $10 Billion Lawsuit, Challenges Claims Of U.S. Viewership Via VPN",
-      "url": "https://deadline.com/2026/08/bbc-trump-documentary-lawsuit-1237049211/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:46:59+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049212",
-      "title": "New York City\u2019s AMC Kips Bay 15 To Close At Year\u2019s End",
-      "url": "https://deadline.com/2026/08/amc-kips-bay-15-closing-new-york-1237049212/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:44:24+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680058",
-      "title": "ESPN App Is Raising Prices",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/espn-app-raising-prices-1236680058/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:48:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679988",
-      "title": "Jacob Chase Talks Personalizing \u2018Insidious: Out of the Further\u2019 and That Time He Made Ben Affleck\u2019s Batman Cackle",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/insidious-out-of-the-further-horror-sequel-1236679988/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T20:38:43+00:00"
-    },
-    {
-      "guid": "t3_1vxf52e",
-      "title": "Square Enix may be setting up Final Fantasy 7 Revelation demos at Gamescom",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxf52e/square_enix_may_be_setting_up_final_fantasy_7/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T20:52:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049257",
-      "title": "\u2018Insidious 6\u2019 Director Jacob Chase Reteaming With Blumhouse Atomic Monster For \u2018Sleepover\u2019; Fall 2027 Release Set",
-      "url": "https://deadline.com/2026/08/sleepover-jacob-chase-insidious-out-of-the-further-1237049257/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T21:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841899",
-      "title": "\u2018Insidious: Out of the Further\u2019 Director Jacob Chase to Helm Horror Movie \u2018Sleepover\u2019 for Blumhouse Atomic Monster and Universal",
-      "url": "https://variety.com/2026/film/news/jacob-chase-sleepover-blumhouse-atomic-monster-1236841899/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T21:00:00+00:00"
-    },
-    {
-      "guid": "JpPWhn4Fjhw6F93uf5JiJG",
-      "title": "Fallout meets Crusader Kings as Paradox accidentally leaks its next grand strategy game ahead of Gamescom reveal",
-      "url": "https://www.gamesradar.com/games/strategy/fallout-meets-crusader-kings-as-paradox-accidentally-leaks-its-next-grand-strategy-game-ahead-of-gamescom-reveal/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T20:52:43+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121610",
-      "title": "Beard Papa Persona 30th Anniversary Event Starts in September",
-      "url": "https://www.siliconera.com/beard-papa-persona-30th-anniversary-event-starts-in-september/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T21:00:00+00:00"
-    },
-    {
-      "guid": "d463c8f8-ecdf-4766-a229-60ac10dd4c36",
-      "title": "Canceled Iron Man Game Footage From Just Cause and Mad Max Developer Leaks Online",
-      "url": "https://www.ign.com/articles/canceled-iron-man-game-footage-from-just-cause-and-mad-max-developer-leaks-online",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T21:03:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679850",
-      "title": "Trump Trade War With Canada Puts Film, TV Spending Rules in Crosshairs",
-      "url": "https://www.hollywoodreporter.com/business/business-news/trump-trade-war-canada-1236679850/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T21:05:56+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680073",
-      "title": "Jacob Chase to Direct \u2018Sleepover\u2019 for Blumhouse Atomic Monster; Universal Sets 2028 Release",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jacob-chase-direct-sleepover-for-blumhouse-atomic-monster-1236680073/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T21:01:51+00:00"
-    },
-    {
-      "guid": "a8imCPPhYHUwXjDM4Eetuk",
-      "title": "Sekiro's combat is a \"remarkable refinement\" of the Souls games, says dev of new action RPG \"honored\" by comparisons to FromSoftware",
-      "url": "https://www.gamesradar.com/games/action-rpg/sekiros-combat-is-a-remarkable-refinement-of-the-souls-games-says-dev-of-new-action-rpg-honored-by-comparisons-to-fromsoftware/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T21:04:45+00:00"
-    },
-    {
-      "guid": "fTzzwHNEyv6moohsg9toXV",
-      "title": "Spider-Man: Brand New Day is officially the highest-grossing Marvel movie at the US box office after dethroning Avengers: Endgame",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-is-officially-the-highest-grossing-marvel-movie-at-the-us-box-office-after-dethroning-avengers-endgame/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T21:19:59+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727661",
-      "title": "Every Song And Radio Station We\u2019ve Spotted In The GTA 6 Leaks",
-      "url": "https://kotaku.com/every-song-and-radio-station-weve-spotted-in-the-gta-6-leaks-2000727661",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T21:30:01+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237049261",
       "title": "WildBrain Buys Personality AI In Deal Worth Up To $70 Million",
       "url": "https://deadline.com/2026/08/wildbrain-acquires-personality-ai-1237049261/",
@@ -1581,14 +1333,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-24T21:45:02+00:00"
-    },
-    {
-      "guid": "6Wa5xNwre3XrtDyKYxB8Vd",
-      "title": "Rockstar \"overreacts a bit at times,\" says former tech lead as GTA 6 leaks continue, but it's \"their job\" to stop them",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-overreacts-a-bit-at-times-says-former-tech-lead-as-gta-6-leaks-continue-but-its-their-job-to-stop-them/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T21:36:09+00:00"
     },
     {
       "guid": "b5a64dcb-7bcf-4bbe-8729-1a613eb1d75b",
@@ -1733,6 +1477,22 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-24T23:29:40+00:00"
+    },
+    {
+      "guid": "vuj6phsmUny4bG9vSvk4Kc",
+      "title": "How to Fish: Strategies for beating the Pufferfish",
+      "url": "https://www.pcgamer.com/games/sim/how-to-fish-pufferfish/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T01:09:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842092",
+      "title": "Taylor Swift Sings Mashup of \u2018All Too Well,\u2019 \u2018I Knew It, I Knew You\u2019 and \u2018August\u2019 in Grammy Museum Video",
+      "url": "https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T01:15:30+00:00"
     }
   ]
 }
