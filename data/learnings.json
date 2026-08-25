@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Bethesda Dev Says Xbox Takeover Brought \"Yearly Layoffs\" Where Cuts Were Once Rare",
-      "tag": "bethesda",
-      "posted_at": "2026-08-18T19:00:58.342547+00:00",
-      "urls": [
-        "https://kotaku.com/xbox-layoffs-rallies-cwa-bethesda-employee-interview-2000725366"
-      ],
-      "article_titles": [
-        "Bethesda Dev Says Cuts Were Rare Before Xbox Took Over: \u2018All Of A Sudden We Have Yearly Layoffs\u2019"
-      ]
-    },
-    {
       "headline": "Crunchyroll Shuts Down Its Online Store, Hitting Anime Fans Where It Hurts",
       "tag": "crunchyroll",
       "posted_at": "2026-08-18T19:31:09.254380+00:00",
@@ -1358,155 +1347,52 @@
         "Genshin Impact Studio Trades Zelda: Breath Of The Wild For Elden Ring In Its New Action-RPG",
         "Genshin Impact Studio Trades Zelda: Breath Of The Wild For Elden Ring In Its New Action-RPG"
       ]
+    },
+    {
+      "headline": "Game of Thrones: War for Westeros Gets Its First Gameplay Trailer \u2014 and Yes, the White Walkers Can Win",
+      "tag": "game of thrones: war for westeros",
+      "posted_at": "2026-08-25T19:01:23.557941+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/game-of-thrones-war-for-westeros-will-let-the-white-walkers-win/",
+        "https://www.gematsu.com/2026/08/game-of-thrones-war-for-westeros-gameplay-reveal-trailer-screenshots"
+      ],
+      "article_titles": [
+        "Game Of Thrones: War For Westeros Will Let The White Walkers Win",
+        "Game of Thrones: War for Westeros gameplay reveal trailer, screenshots"
+      ]
+    },
+    {
+      "headline": "Tides of Annihilation Drops Baldur's Gate 3 Star Jennifer English, Replaces Her With Resident Evil Requiem Actor",
+      "tag": "tides of annihilation",
+      "posted_at": "2026-08-25T19:01:23.809660+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/action/tides-of-annihilation-devs-confirm-resident-evil-requiems-grace-actor-will-replace-baldurs-gate-3-and-clair-obscur-expedition-33-star-jennifer-english/",
+        "https://www.pushsquare.com/news/2026/08/ps5s-tides-of-annihilation-replaces-jennifer-english-with-resident-evil-actress"
+      ],
+      "article_titles": [
+        "Tides of Annihilation devs confirm Resident Evil Requiem's Grace actor will replace Baldur's Gate 3 and Clair Obscur: Expedition 33 star Jennifer English",
+        "PS5's Tides of Annihilation Replaces Jennifer English with Resident Evil Actress"
+      ]
+    },
+    {
+      "headline": "Mega Man: Dual Override Gameplay Trailer Reveals Proto Man and a Pragmata Crossover \u2014 and It Looks Like Mega Man X",
+      "tag": "mega man: dual override",
+      "posted_at": "2026-08-25T19:01:24.103749+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/wait-is-mega-man-dual-override-just-mega-man-x-now/",
+        "https://www.nintendolife.com/news/2026/08/mega-man-dual-override-looks-immense-in-new-gameplay-trailer",
+        "https://www.siliconera.com/mega-man-dual-override-gets-protoman-pragmata-gets-crossover-skins/"
+      ],
+      "article_titles": [
+        "Wait, Is Mega Man: Dual Override Just Mega Man X Now?",
+        "Mega Man: Dual Override Looks Immense In New Gameplay Trailer",
+        "Mega Man Dual Override Gets Protoman, Pragmata Gets Crossover Skins"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/gamescom-opening-night-live-2026-report",
-      "title": "Gamescom Opening Night Live 2026 report - all the news and announcements as Witcher 3 expansion Songs of the Past shown for first time",
-      "url": "https://www.eurogamer.net/gamescom-opening-night-live-2026-report",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:33:38+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000727876",
-      "title": "New OLED ROG Xbox Ally X Almost Feels Like A Bargain In The Current RAMpocalypse",
-      "url": "https://kotaku.com/new-oled-rog-xbox-ally-x-almost-feels-like-a-bargain-in-the-current-rampocalypse-2000727876",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:45:39+00:00"
-    },
-    {
-      "guid": "tKn5DpTWnRpw6Qxf4nwtdV",
-      "title": "Microsoft had to change the anti-piracy hologram on the Windows 95 box because an undisclosed government assumed the baby on it was naked",
-      "url": "https://www.pcgamer.com/software/windows/microsoft-had-to-change-the-anti-piracy-hologram-on-the-windows-95-box-because-an-undisclosed-government-assumed-the-baby-on-it-was-naked/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:53:30+00:00"
-    },
-    {
-      "guid": "sgvrbu5AvMrQNZbB4yGkP9",
-      "title": "Hideo Kojima wants to 'continue to focus on making games' at 63, even as 'the time I have decreases'",
-      "url": "https://www.pcgamer.com/gaming-industry/hideo-kojima-wants-to-continue-to-focus-on-making-games-at-63-even-as-the-time-i-have-decreases/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:35:25+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049252",
-      "title": "Tyler Cameron To Host \u2018Let\u2019s Go Back To Your Place\u2019 For HGTV",
-      "url": "https://deadline.com/2026/08/tyler-cameron-lets-go-back-to-your-place-hgtv-1237049252/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049706",
-      "title": "Kennedy Center Warns Of \u201cDeath Spiral\u201d If Trump\u2019s Name Isn\u2019t Returned To Complex, While New Report Shows Fiscal Plunge After Previous POTUS Rebrand",
-      "url": "https://deadline.com/2026/08/trump-kennedy-center-naming-1237049706/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:51:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049378",
-      "title": "\u2018Brothers\u2019 Trailer: First Look At Real-Life Best Friends Matthew McConaughey & Woody Harrelson In Apple Comedy Series",
-      "url": "https://deadline.com/2026/08/brothers-trailer-matthew-mcconaughey-woody-harrelson-1237049378/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:46:03+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841440",
-      "title": "\u2018Our Loves,\u2019 Avi Nesher\u2019s Frontrunner for Israel\u2019s Oscar Entry, Boarded by Gersh and Other Angle Pictures (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/avi-nesher-our-loves-sales-agents-1236841440/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680618",
-      "title": "Andrew Garfield Gets Candid on Playing Sam Altman: \u201cDamage to the Soul of Humanity\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-sam-altman-ai-1236680618/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:42:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679631",
-      "title": "Everyone Wants a Paramount Settlement. First, Look Under the Hood",
-      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-settlement-deal-economics-1236679631/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:38:36+00:00"
-    },
-    {
-      "guid": "7eUXK23GetRcEThfSisHE5",
-      "title": "After Call of Duty: Modern Warfare 4 beta, devs promise to fix Captain Price's hair as his unexpected balding goes viral",
-      "url": "https://www.gamesradar.com/games/call-of-duty/after-call-of-duty-modern-warfare-4-beta-devs-promise-to-fix-captain-prices-hair-as-his-unexpected-balding-goes-viral/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:58:23+00:00"
-    },
-    {
-      "guid": "GoPJ9S3mV4zr3bEsDQSCoV",
-      "title": "Red Dead Redemption 2 fans make the DLC they've always wanted with a massive Mexico mod that features new NPCs, towns, wildlife, and a lot more",
-      "url": "https://www.gamesradar.com/games/red-dead/red-dead-redemption-2-fans-make-the-dlc-theyve-always-wanted-with-a-massive-mexico-mod-that-features-new-npcs-towns-wildlife-and-a-lot-more/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:55:25+00:00"
-    },
-    {
-      "guid": "hdTMcB37gUWCZts8D8aXHc",
-      "title": "Our favorite Knight of the Seven Kingdoms character probably won't ever return: \"Unfortunately, he's not in any more of the stories that George R.R. Martin has written\"",
-      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/our-favorite-knight-of-the-seven-kingdoms-character-probably-wont-ever-return-unfortunately-hes-not-in-any-more-of-the-stories-that-george-r-r-martin-has-written/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:47:04+00:00"
-    },
-    {
-      "guid": "iWgHXWXdReM39dKmDQkv2F",
-      "title": "Like Final Fantasy 7 Revelation boss, Dragon Quest creator Yuji Horii worries live streams may not actually sell games: \"Some people will be satisfied by just watching\"",
-      "url": "https://www.gamesradar.com/games/dragon-quest/like-final-fantasy-7-revelation-boss-dragon-quest-creator-yuji-horii-worries-live-streams-may-not-actually-sell-games-some-people-will-be-satisfied-by-just-watching/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:41:54+00:00"
-    },
-    {
-      "guid": "aVqptVp24ssWgLVBbaYCqY",
-      "title": "How to get Leeches in How to Fish",
-      "url": "https://www.gamesradar.com/games/co-op/how-to-fish-leeches/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:32:33+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121688",
-      "title": "You\u2019ll Be Able to Get a Persona 6 PS5 Physical Copy at Retail Stores",
-      "url": "https://www.siliconera.com/youll-be-able-to-get-a-persona-6-ps5-physical-copy-at-retail-stores/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752981",
-      "title": "Kit Harington Replaces Nicholas Hoult as Gilderoy Lockhart in HBO\u2019s Harry Potter Series",
-      "url": "https://otakukart.com/kit-harington-replaces-nicholas-hoult-as-gilderoy-lockhart-in-hbos-harry-potter-series/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:55:55+00:00"
-    },
-    {
-      "guid": "t3_1vy2503",
-      "title": "Billbil has revealed the PS Plus Essential lineup for September",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vy2503/billbil_has_revealed_the_ps_plus_essential_lineup/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:55:27+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000727904",
       "title": "Watch Newly Returning Pok\u00e9mon Artist Perfectly Explain How To Design A Critter",
@@ -1524,52 +1410,12 @@
       "published_dt": "2026-08-25T15:04:10+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237049356",
-      "title": "Hannah Berner To Host Paramount+\u2019s \u2018Making Love\u2019",
-      "url": "https://deadline.com/2026/08/hannah-berner-paramount-dating-show-making-love-1237049356/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841806",
-      "title": "Andy Cohen on Looking for Housewives in Nashville and Chicago, Tracy Tutor Joining \u2018RHOBH\u2019 and Rosie O\u2019Donnell\u2019s Possible Return to Talk Show Television",
-      "url": "https://variety.com/2026/tv/columns/andy-cohen-real-housewives-nashville-chicago-tracy-tutor-rhobh-and-rosie-odonnell-1236841806/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842351",
-      "title": "Stability AI Raises $76 Million in Funding Round Backed by Universal Music Group, Warner Music Group, Sony Music and Electronic Arts (EXCLUSIVE)",
-      "url": "https://variety.com/2026/biz/news/stability-ai-raises-76-million-funding-round-1236842351/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236680646",
       "title": "\u201930 Rock\u2019 Cast to Reunite for Live Benefit Show",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/30-rock-live-reunion-radio-city-1236680646/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-25T15:05:48+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679937",
-      "title": "Eater Bringing Tentpole Event Off Menu to Los Angeles (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/eater-off-menu-los-angeles-tickets-1236679937/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680201",
-      "title": "TCM Classic Film Festival Sets Dates for 2027 Edition",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tcm-classic-film-festival-2027-edition-1236680201/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:00:00+00:00"
     },
     {
       "guid": "9QzpWHAwTFHGTLXNuJAJFY",
@@ -1580,124 +1426,12 @@
       "published_dt": "2026-08-25T15:05:25+00:00"
     },
     {
-      "guid": "4ZxETdUYgLmNsRTLWK8MCo",
-      "title": "SanDisk is celebrating 30 years of Pokemon with Mew and Mewtwo edition drives, and gaming storage has never looked cuter",
-      "url": "https://www.gamesradar.com/hardware/ssd-hard-drives/sandisk-is-celebrating-30-years-of-pokemon-with-mew-and-mewtwo-edition-drives-and-gaming-storage-has-never-looked-cuter/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:33+00:00"
-    },
-    {
-      "guid": "CUCZU8f4uu7wmoRTQcqkq5",
-      "title": "Gamescom Opening Night Live 2026 Live Coverage \u2013 All the news as it happens",
-      "url": "https://www.gamesradar.com/news/live/gamescom-opening-night-live-live-coverage-2026-everything-announced/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:22+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-205411",
       "title": "PS Plus Essential Games for September 2026 Leaked Early",
       "url": "https://www.pushsquare.com/news/2026/08/ps-plus-essential-games-for-september-2026-leaked-early",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-25T15:05:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979043",
-      "title": "ZENSHU (Thai Dub) - Episode 6 - CHANGE",
-      "url": "http://www.crunchyroll.com/watch/G9DU9EM30/change",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979044",
-      "title": "ZENSHU (Thai Dub) - Episode 7 - FIRST LOVE",
-      "url": "http://www.crunchyroll.com/watch/GX9U3QWZ1/first-love",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979045",
-      "title": "ZENSHU (Thai Dub) - Episode 8 - CONFESSION",
-      "url": "http://www.crunchyroll.com/watch/G4VUWQV80/confession",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979046",
-      "title": "ZENSHU (Thai Dub) - Episode 9 - HERO",
-      "url": "http://www.crunchyroll.com/watch/G14UV41GP/hero",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979047",
-      "title": "ZENSHU (Thai Dub) - Episode 10 - CHAOS",
-      "url": "http://www.crunchyroll.com/watch/GJWUQ20E2/chaos",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979048",
-      "title": "ZENSHU (Thai Dub) - Episode 11 - DESPAIR",
-      "url": "http://www.crunchyroll.com/watch/GN7UND1VN/despair",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979049",
-      "title": "ZENSHU (Thai Dub) - Episode 12 - ZENSHU",
-      "url": "http://www.crunchyroll.com/watch/GK9UG3KDW/zenshu",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979038",
-      "title": "ZENSHU (Thai Dub) - Episode 1 - FIRST STROKE",
-      "url": "http://www.crunchyroll.com/watch/GWDU78JD1/first-stroke",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979039",
-      "title": "ZENSHU (Thai Dub) - Episode 2 - DEFEND",
-      "url": "http://www.crunchyroll.com/watch/GG1UX2NGG/defend",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979040",
-      "title": "ZENSHU (Thai Dub) - Episode 3 - DESTINY",
-      "url": "http://www.crunchyroll.com/watch/G0DUMNK8J/destiny",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979041",
-      "title": "ZENSHU (Thai Dub) - Episode 4 - ETERNITY",
-      "url": "http://www.crunchyroll.com/watch/GEVUWZDEX/eternity",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
-    },
-    {
-      "guid": "http://www.crunchyroll.com/media-979042",
-      "title": "ZENSHU (Thai Dub) - Episode 5 - JUSTICE",
-      "url": "http://www.crunchyroll.com/watch/G7PU34191/justice",
-      "source_name": "Crunchyroll News",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237049775",
@@ -2834,6 +2568,326 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-25T18:18:45+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/exodus-release-date-mass-effect",
+      "title": "Mass Effect-like Exodus gets a release date, while showcasing an octopus companion in a mech suit",
+      "url": "https://www.eurogamer.net/exodus-release-date-mass-effect",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:45:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000728011",
+      "title": "Anime \u2018GTA 6 Killer\u2019 Ananta Finally Has A Release Date And A Slick New Trailer",
+      "url": "https://kotaku.com/anime-gta-6-killer-ananta-finally-has-a-release-date-and-a-slick-new-trailer-2000728011",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:40:08+00:00"
+    },
+    {
+      "guid": "rg8HejR8c9fj3sq4FUq6Gf",
+      "title": "Exodus is out early next year, and I think I'm finally on board with the general Mass Effect vibes of it all",
+      "url": "https://www.pcgamer.com/games/rpg/exodus-is-out-early-next-year-and-i-think-im-finally-on-board-with-the-general-mass-effect-vibes-of-it-all/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:49:40+00:00"
+    },
+    {
+      "guid": "zPt8ahhJB6TnhhrwgT6kfm",
+      "title": "The next game from Hoyoverse sure looks like someone put Elden Ring's clothes on Monster Hunter",
+      "url": "https://www.pcgamer.com/games/action/the-next-game-from-hoyoverse-sure-looks-like-someone-put-elden-rings-clothes-on-monster-hunter/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:46:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049951",
+      "title": "\u2018Snoop\u2019 Movie Taps Lauren London To Play Rap Star\u2019s Mom In Universal Biopic",
+      "url": "https://deadline.com/2026/08/snoop-dogg-movie-lauren-london-1237049951/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050005",
+      "title": "Shonda Rhimes Renews Overall Deal With Netflix",
+      "url": "https://deadline.com/2026/08/shonda-rhimes-renews-overall-deal-netflix-1237050005/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050017",
+      "title": "Dolly Parton: Keke Palmer, Pedro Pascal, Kacey Musgraves & More Pay Tribute To \u201cOne Of One\u201d Country Music Legend",
+      "url": "https://deadline.com/2026/08/dolly-parton-tributes-hollywood-actors-country-musicians-1237050017/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:50:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050054",
+      "title": "Ron Livingston\u00a0Joins Alex Borstein & June Squibb In Dramedy \u2018Turn The Lights Back On\u2019",
+      "url": "https://deadline.com/2026/08/ron-livingston-joins-turn-the-lights-back-on-movie-1237050054/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:48:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049993",
+      "title": "Rob Bonta Says No Paramount-WBD Settlement Talks Scheduled After He Canceled Monday Session",
+      "url": "https://deadline.com/2026/08/rob-bonta-paramount-warner-bros-settlement-1237049993/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:41:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050023",
+      "title": "Simon Rex Joins Eiza Gonz\u00e1lez & Brandon Sklenar In Bodybuilding Drama \u2018Iron Jane\u2019 From Lissette Feliciano",
+      "url": "https://deadline.com/2026/08/simon-rex-joins-iron-jane-movie-lissette-feliciano-1237050023/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:36:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842717",
+      "title": "Shonda Rhimes Renews Netflix Overall Deal for Another Five Years",
+      "url": "https://variety.com/2026/tv/news/shonda-rhimes-renews-netflix-overall-deal-1236842717/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841877",
+      "title": "\u2018Warlock\u2019 Stars Tricia Helfer, Maggie Robertson Break Down New \u2018D&D\u2019 Video Game Characters as First Gameplay Footage Is Revealed",
+      "url": "https://variety.com/2026/digital/news/warlock-gameplay-trailer-dungeons-dragons-tasha-kaatri-1236841877/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:57:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842731",
+      "title": "Dolly Parton Honored by Kacey Musgraves, Keith Urban, Reba McEntire: \u2018We Will Always Love Her\u2019",
+      "url": "https://variety.com/2026/music/news/dolly-parton-celebrity-tributes-kacey-musgraves-reba-1236842731/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:53:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842748",
+      "title": "Rob Bonta Says He\u2019s Open to Paramount Talks if \u2018They Put a Lid on Their Lying Leaks\u2019",
+      "url": "https://variety.com/2026/film/news/rob-bonta-paramount-lying-leaks-1236842748/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:50:50+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236842766",
+      "title": "Dolly Parton: Her Life and Career in Photos",
+      "url": "https://variety.com/gallery/dolly-parton-her-life-and-career-in-photos/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:50:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841772",
+      "title": "YouTube Creator Kevin Langue Is Bringing His Comedy Channels to Netflix",
+      "url": "https://variety.com/2026/tv/news/netflix-youtube-kevin-langue-worlds-best-guesser-1236841772/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680900",
+      "title": "Shonda Rhimes Signs New Overall Deal at Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/shonda-rhimes-extends-netflix-overall-deal-1236680900/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680836",
+      "title": "Bruce Springsteen, Jon Stewart, Alex Warren and Hasan Minhaj Set for Stand Up for Heroes Event",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/stand-up-for-heroes-2026-lineup-event-bruce-springsteen-1236680836/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:50:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680847",
+      "title": "Perez Hilton\u2019s Brother-in-Law Details Recovery After Livestreamed Self-Harm Incident",
+      "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-update-health-broken-bones-brother-in-law-podcast-1236680847/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:42:58+00:00"
+    },
+    {
+      "guid": "7XbLCXBDXnwGdDb33dyCik",
+      "title": "Silent Hill: Townfall goes Until Dawn mode with celebrity cameos from The Odyssey and Lost actors",
+      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfall-goes-until-dawn-mode-with-celebrity-cameos-from-the-odyssey-and-lost-actors/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:51:13+00:00"
+    },
+    {
+      "guid": "ser9dN3zPfTjHS6XHjWFRP",
+      "title": "Tides of Annihilation devs confirm Resident Evil Requiem's Grace actor will replace Baldur's Gate 3 and Clair Obscur: Expedition 33 star Jennifer English",
+      "url": "https://www.gamesradar.com/games/action/tides-of-annihilation-devs-confirm-resident-evil-requiems-grace-actor-will-replace-baldurs-gate-3-and-clair-obscur-expedition-33-star-jennifer-english/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:50:27+00:00"
+    },
+    {
+      "guid": "NPbLvPTumsz96YAtKradiK",
+      "title": "Mass Effect-like RPG Exodus finally gets a release date, and it's not that far away",
+      "url": "https://www.gamesradar.com/games/mass-effect/mass-effect-like-rpg-exodus-finally-gets-a-release-date-and-its-not-that-far-away/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:46:08+00:00"
+    },
+    {
+      "guid": "tipVF82TFbA9deQVVV7kSk",
+      "title": "The Metroidvania I've wanted for 3 years is finally out next year, and it looks like Mexican Castlevania: \"Alucard's suit is like 90% of a mariachi suit already\"",
+      "url": "https://www.gamesradar.com/games/action/the-metroidvania-ive-wanted-for-3-years-is-finally-out-next-year-and-it-looks-like-mexican-castlevania-alucards-suit-is-like-90-percent-of-a-mariachi-suit-already/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:36:47+00:00"
+    },
+    {
+      "guid": "RrxMeSe4XzrkSWsLtcZC4d",
+      "title": "Ananta release date places the free-to-play anime take on GTA in January 2027, just 2 months after Rockstar's GTA 6",
+      "url": "https://www.gamesradar.com/games/open-world/ananta-release-date-places-the-free-to-play-anime-take-on-gta-in-january-2027-just-2-months-after-rockstars-gta-6/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:35:45+00:00"
+    },
+    {
+      "guid": "bqR3cnn9HgHVgwTyVZQE8L",
+      "title": "Crimson Desert is already getting an Enhanced edition with \"new story moments\" and new language options",
+      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-is-already-getting-an-enhanced-edition-with-new-story-moments-and-new-language-options/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:33:05+00:00"
+    },
+    {
+      "guid": "f4LRL5VcACMHqcWyu4ish7",
+      "title": "Nodusfall looks more like Monster Hunter and Elden Ring than the usual games from creator and Genshin Impact studio Hoyoverse",
+      "url": "https://www.gamesradar.com/games/action-rpg/nodusfall-looks-more-like-monster-hunter-and-elden-ring-than-the-usual-games-from-creator-and-genshin-impact-studio-hoyoverse/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:31:02+00:00"
+    },
+    {
+      "guid": "1861948",
+      "title": "Ananta\u2019s New Trailer Goes Hard On Memes",
+      "url": "https://www.gamespot.com/articles/anantas-new-trailer-goes-hard-on-memes/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:56:06+00:00"
+    },
+    {
+      "guid": "1861378",
+      "title": "Game Of Thrones: War For Westeros Will Let The White Walkers Win",
+      "url": "https://www.gamespot.com/articles/game-of-thrones-war-for-westeros-will-let-the-white-walkers-win/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:53:22+00:00"
+    },
+    {
+      "guid": "1861977",
+      "title": "New PUBG Game Ded Net Looks Nothing Like PUBG",
+      "url": "https://www.gamespot.com/articles/new-pubg-game-ded-net-looks-nothing-like-pubg/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:50:26+00:00"
+    },
+    {
+      "guid": "1861966",
+      "title": "Wait, Is Mega Man: Dual Override Just Mega Man X Now?",
+      "url": "https://www.gamespot.com/articles/wait-is-mega-man-dual-override-just-mega-man-x-now/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:48:44+00:00"
+    },
+    {
+      "guid": "1861529",
+      "title": "Exodus, The New Sci-Fi RPG From Former BioWare Devs, Finally Gets A Launch Date",
+      "url": "https://www.gamespot.com/articles/exodus-the-new-sci-fi-rpg-from-former-bioware-devs-finally-gets-a-launch-date/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:48:17+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205423",
+      "title": "Mega Man: Dual Override Looks Immense In New Gameplay Trailer",
+      "url": "https://www.nintendolife.com/news/2026/08/mega-man-dual-override-looks-immense-in-new-gameplay-trailer",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205419",
+      "title": "Leaked Months Ago, Roguelike Strategy Game Worms: Galactic Tactics Finally Announced",
+      "url": "https://www.pushsquare.com/news/2026/08/leaked-months-ago-roguelike-strategy-game-worms-galactic-tactics-finally-announced",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121720",
+      "title": "Mega Man Dual Override Gets Protoman, Pragmata Gets Crossover Skins",
+      "url": "https://www.siliconera.com/mega-man-dual-override-gets-protoman-pragmata-gets-crossover-skins/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:50:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121716",
+      "title": "Onimusha: Way of the Sword Demo Expanded",
+      "url": "https://www.siliconera.com/onimusha-way-of-the-sword-demo-expanded/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:35:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071720",
+      "title": "EXODUS launches April 7, 2027",
+      "url": "https://www.gematsu.com/2026/08/exodus-launches-april-7-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:44:36+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1069316",
+      "title": "Game of Thrones: War for Westeros gameplay reveal trailer, screenshots",
+      "url": "https://www.gematsu.com/2026/08/game-of-thrones-war-for-westeros-gameplay-reveal-trailer-screenshots",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:39:12+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753145",
+      "title": "Ananta Release Date Confirmed for January 15, 2027 as New Gamescom Trailer Reveals Second City",
+      "url": "https://otakukart.com/ananta-release-date-confirmed-for-january-15-2027-as-new-gamescom-trailer-reveals-second-city/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:38:29+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753144",
+      "title": "Gears of War: E-Day Story Trailer Reveals Marcus Fenix\u2019s First Locust Battle Ahead of October 6 Release",
+      "url": "https://otakukart.com/gears-of-war-e-day-story-trailer-reveals-marcus-fenixs-first-locust-battle-ahead-of-october-6-release/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:35:45+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=617641",
+      "title": "D&D: The Path Of The Unlight Barbarian Feels More Dimly Lit Than Radiant",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-the-path-of-the-unlight-barbarian-feels-more-dimly-lit-than-radiant.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:40:14+00:00"
     }
   ]
 }
