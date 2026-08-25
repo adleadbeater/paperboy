@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Post Malone Cracks Open His $2 Million One Ring MTG Card on Camera",
-      "tag": "magic: the gathering",
-      "posted_at": "2026-08-18T13:15:24.153835+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/card-games/post-malone-breaks-into-his-usd2-million-the-one-ring-stressing-out-a-whole-room-of-magic-the-gathering-players-our-insurance-doesnt-cover-that-card/"
-      ],
-      "article_titles": [
-        "Post Malone breaks into his $2 million The One Ring, stressing out a whole room of Magic: The Gathering players: 'our insurance doesn't cover that card'"
-      ]
-    },
-    {
-      "headline": "Xbox Game Pass Is Adding New August Games \u2014 and Losing The Witcher 3",
-      "tag": "xbox game pass",
-      "posted_at": "2026-08-18T13:31:15.532790+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/xbox-game-pass-reveals-its-next-wave-of-august-2026-games/",
-        "https://www.gamespot.com/articles/xbox-game-pass-is-losing-the-witcher-3-and-several-more-games-in-august/"
-      ],
-      "article_titles": [
-        "Xbox Game Pass Reveals Its Next Wave Of August 2026 Games",
-        "Xbox Game Pass Is Losing The Witcher 3 And Several More Games In August"
-      ]
-    },
-    {
       "headline": "Fired Rockstar workers urge fans not to boycott GTA 6 \u2014 buy a shirt and fund their legal fight instead",
       "tag": "gta 6",
       "posted_at": "2026-08-18T14:01:11.857237+00:00",
@@ -1311,6 +1287,19 @@
       "article_titles": [
         "The upcoming Resident Evil movie will have first-person POVs as it demonstrates how authenticity is a moving target for a series that spans 30 years"
       ]
+    },
+    {
+      "headline": "Nintendo Reveals Its First Switch 2 Bundles \u2014 With a Price Hike Attached",
+      "tag": "nintendo switch 2",
+      "posted_at": "2026-08-25T14:01:02.174497+00:00",
+      "urls": [
+        "https://www.gamesradar.com/hardware/nintendo-reveals-its-first-price-hiked-switch-2-bundles-but-i-wouldnt-recommend-waiting-for-them/",
+        "https://www.nintendolife.com/news/2026/08/nintendo-reveals-a-new-switch-2-bundle-launching-this-october"
+      ],
+      "article_titles": [
+        "Nintendo reveals its first price-hiked Switch 2 bundles, but I wouldn't recommend waiting for them",
+        "Nintendo Reveals A New Switch 2 Bundle, Launching This October"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1563,6 +1552,150 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-08-25T13:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727865",
+      "title": "Companies Back Off Multiplatform Messaging As Xbox Pulls PS5 Mentions And Sony Doubles Down On Console Exclusivity",
+      "url": "https://kotaku.com/companies-back-off-multiplatform-messaging-as-xbox-pulls-ps5-mentions-and-sony-doubles-down-on-console-exclusivity-2000727865",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T13:45:09+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727869",
+      "title": "Marvel T\u014dkon Devs Say Botched PC Launch Will Make Regaining Player Trust \u2018Extremely Challenging\u2019",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-port-arc-system-works-steam-2000727869",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T13:30:55+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049663",
+      "title": "\u2018Sweetpea\u2019: Ella Purnell Is Back In Killer Role In Trailer For Season 2 Of Sky And Starz Comedy-Drama",
+      "url": "https://deadline.com/2026/08/sweetpea-season-2-trailer-ella-purnell-1237049663/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841545",
+      "title": "\u2018Shark Tank\u2019 Investor Daniel Lubetzky Sets Launch of Interview Podcast \u2018Build or Break\u2019 With Guests Including Matthew McConaughey, Mark Cuban, Jason Alexander and More",
+      "url": "https://variety.com/2026/tv/news/shark-tank-daniel-lubetzky-podcast-interview-matthew-mcconaughey-mark-cuban-jason-alexander-1236841545/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841946",
+      "title": "Sanfic Industria and Guadalajara Film Fest Forge Joint Queer Incubator Initiative (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/sanfic-industria-guadalajara-queer-incubator-initiative-1236841946/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T13:52:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842378",
+      "title": "Oscars: Cambodia Selects \u2018Becoming Human\u2019 for International Feature Race (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/cambodia-oscar-submission-becoming-human-polen-ly-1236842378/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T13:47:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680561",
+      "title": "\u2018Heated Rivalry\u2019 Season 2 Adds Daniel Diemer and Shaheen Jafargholi as Ryan and Fabian",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/daniel-diemer-shaheen-jafargholi-heated-rivalry-season-2-1236680561/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680316",
+      "title": "Parke\u2019s Viral Sweatshirt Gets a Dose of School Spirit in Brand\u2019s Debut Collegiate Collection",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/parke-college-drop-buy-school-sweatshirt-mockneck-47-collab-1236680316/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T13:55:00+00:00"
+    },
+    {
+      "guid": "KkCmo24bNNSqwEotxfzjn6",
+      "title": "Roblox takes down controversial doomscrolling game, promises to remove others that reward watching \"a continuous feed of content\" as they're \"not appropriate for younger users\"",
+      "url": "https://www.gamesradar.com/games/simulation/roblox-takes-down-controversial-doomscrolling-game-promises-to-remove-others-that-reward-watching-a-continuous-feed-of-content-as-theyre-not-appropriate-for-younger-users/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:54:21+00:00"
+    },
+    {
+      "guid": "K6Ee7KzLj9MZb78dHnYiVF",
+      "title": "This is not a drill Scooby Gang, official Monster High Buffy the Vampire Slayer dolls are coming",
+      "url": "https://www.gamesradar.com/toys-collectibles/this-is-not-a-drill-scooby-gang-official-monster-high-buffy-the-vampire-slayer-dolls-are-coming/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:53:04+00:00"
+    },
+    {
+      "guid": "Au5cAM7xuQNtUkUj8YRxDX",
+      "title": "20 years on, fans are discovering a Jack Black Green Lantern movie almost happened",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/20-years-on-fans-are-discovering-a-jack-black-green-lantern-movie-almost-happened/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:50:14+00:00"
+    },
+    {
+      "guid": "pUSTg5nUCtrbEz6VL9NZof",
+      "title": "Nintendo reveals its first price-hiked Switch 2 bundles, but I wouldn't recommend waiting for them",
+      "url": "https://www.gamesradar.com/hardware/nintendo-reveals-its-first-price-hiked-switch-2-bundles-but-i-wouldnt-recommend-waiting-for-them/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:47:39+00:00"
+    },
+    {
+      "guid": "YxQfkci9UsJf8WJWPNhEUF",
+      "title": "Spider-Man: No Way Home producer explains the difference between Marvel's many worlds and the \"grounded\" multiverse of Dark Matter season 2",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/spider-man-no-way-home-producer-explains-the-difference-between-marvels-many-worlds-and-the-grounded-multiverse-of-dark-matter-season-2/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:45:23+00:00"
+    },
+    {
+      "guid": "imbDUTxaAjLZZkjhnqAX3Z",
+      "title": "Love and Deepspace fans beware, a Sylus Nendoroid figure is on the way",
+      "url": "https://www.gamesradar.com/toys-collectibles/love-and-deepspace-fans-beware-a-sylus-nendoroid-figure-is-on-the-way/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:43:21+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205403",
+      "title": "Nintendo Reveals A New Switch 2 Bundle, Launching This October",
+      "url": "https://www.nintendolife.com/news/2026/08/nintendo-reveals-a-new-switch-2-bundle-launching-this-october",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205404",
+      "title": "Manic Miner Is Back, But The Trailer Has The Suspicous Stink Of GenAI",
+      "url": "https://www.timeextension.com/news/2026/08/manic-miner-is-back-but-the-trailer-has-the-suspicous-stink-of-genai",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752978",
+      "title": "One Piece Film: God Valley May Be the First Franchise Movie Without Luffy and the Straw Hats",
+      "url": "https://otakukart.com/one-piece-film-god-valley-may-be-the-first-franchise-movie-without-luffy-and-the-straw-hats/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:52:53+00:00"
+    },
+    {
+      "guid": "t3_1vy09xr",
+      "title": "14th GTA IV leak (Game Store)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vy09xr/14th_gta_iv_leak_game_store/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T13:44:24+00:00"
     }
   ]
 }
