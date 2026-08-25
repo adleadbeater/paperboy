@@ -1409,75 +1409,35 @@
         "Exodus is out early next year, and I think I'm finally on board with the general Mass Effect vibes of it all",
         "Mass Effect-like RPG Exodus finally gets a release date, and it's not that far away"
       ]
+    },
+    {
+      "headline": "PUBG Has a New '90s Grunge-Themed Battle Royale Spin-Off",
+      "tag": "pubg",
+      "posted_at": "2026-08-25T19:31:03.649969+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/battle-royale/battle-royale-goes-grunge-theres-a-new-pubg-game-and-its-set-in-the-90s/"
+      ],
+      "article_titles": [
+        "Battle royale goes grunge: there's a new PUBG game and it's set in the '90s"
+      ]
+    },
+    {
+      "headline": "First Gameplay Footage Revealed for Warlock, the New D&D Video Game",
+      "tag": "warlock",
+      "posted_at": "2026-08-25T19:31:03.732069+00:00",
+      "urls": [
+        "https://variety.com/2026/digital/news/warlock-gameplay-trailer-dungeons-dragons-tasha-kaatri-1236841877/",
+        "https://variety.com/2026/digital/news/warlock-gameplay-trailer-dungeons-dragons-tasha-kaatri-1236841877/"
+      ],
+      "article_titles": [
+        "\u2018Warlock\u2019 Stars Tricia Helfer, Maggie Robertson Break Down New \u2018D&D\u2019 Video Game Characters as First Gameplay Footage Is Revealed",
+        "\u2018Warlock\u2019 Stars Tricia Helfer, Maggie Robertson Break Down New \u2018D&D\u2019 Video Game Characters as First Gameplay Footage Is Revealed"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680646",
-      "title": "\u201930 Rock\u2019 Cast to Reunite for Live Benefit Show",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/30-rock-live-reunion-radio-city-1236680646/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:05:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049775",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Conquers \u2018Avengers: Endgame\u2019 To Become 2nd Highest Grossing Pic At Domestic Box Office",
-      "url": "https://deadline.com/2026/08/spider-man-brand-new-day-avengers-endgame-box-office-1237049775/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:22:45+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049778",
-      "title": "Sarah Levy Joins Noah Beck, Siena Agudong & Charlie Gillespie In Tubi\u2019s YA Film \u2018Sidelined 3: End Game\u2019",
-      "url": "https://deadline.com/2026/08/sarah-levy-joins-noah-beck-siena-agudong-isidelined-3-1237049778/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:20:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842449",
-      "title": "New York Times Awards Columnist Kyle Buchanan Exits Paper to Launch Podcast Series (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/columns/new-york-times-kyle-buchanan-exits-paper-podcast-series-1236842449/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:20:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842425",
-      "title": "Series Entertainment Brings Vibe-Gaming to Life With \u2018RUN,\u2019\u00a0an AI-Based Platform to Create Games and Shows (EXCLUSIVE)",
-      "url": "https://variety.com/2026/gaming/news/series-entertainment-vibe-gaming-run-ai-platform-1236842425/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:15:00+00:00"
-    },
-    {
-      "guid": "NYSdCqLFUryESFPTKmRdQc",
-      "title": "Where to use the Sinking City 2 Graveyard key",
-      "url": "https://www.gamesradar.com/games/survival-horror/sinking-city-2-graveyard-key/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:08:41+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205406",
-      "title": "The Pixel Arcadia Showcase Featured A Secret Game Announcement That Everybody Missed",
-      "url": "https://www.timeextension.com/news/2026/08/the-pixel-arcadia-showcase-featured-a-secret-game-announcement-that-everybody-missed",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:30:00+00:00"
-    },
-    {
-      "guid": "oPKWLPLiAYvWTuLfsT5jY5",
-      "title": "DLSS 4.5 Ray Reconstruction is a definite improvement but path traced fidelity is still not a 100% solved issue",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-4-5-ray-reconstruction-is-a-definite-improvement-but-path-traced-fidelity-is-still-not-a-100-percent-solved-issue/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:30:00+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237049185",
       "title": "\u2018Martin\u2019 Spinoff \u2018The Varnell Hill Show\u2019 Trailer Sets Up  Frantic TV Host Retooling Series For TikTok Era",
@@ -1541,14 +1501,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-25T15:30:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842392",
-      "title": "Seth Rogen, Helen Mirren and Cinematographer Adam Pietkiewicz Added to TIFF Tribute Awards Honorees",
-      "url": "https://variety.com/2026/artisans/news/helen-mirren-seth-rogen-adam-pietkiewicz-tiff-honorees-1236842392/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T15:30:27+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236678850",
@@ -1621,14 +1573,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-25T15:35:56+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205410",
-      "title": "Anime Open World Ananta Could Release Just 8 Weeks After GTA 6 on PS5",
-      "url": "https://www.pushsquare.com/news/2026/08/anime-open-world-ananta-could-release-just-8-weeks-after-gta-6-on-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T15:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121674",
@@ -2901,6 +2845,150 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-25T18:54:27+00:00"
+    },
+    {
+      "guid": "78a138cc-3353-426a-83bc-c3842e9e4d44",
+      "title": "Here's Your Last Chance to Get a Nintendo Switch 2 Console for $399.99 Before the September 1 Price Hike",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-deal-last-chance",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:10:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/game-of-thrones-war-for-westeros-gameplay-trailer",
+      "title": "Game of Thrones RTS War for Westeros just got a first gameplay trailer confirming some familiar faces",
+      "url": "https://www.eurogamer.net/game-of-thrones-war-for-westeros-gameplay-trailer",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:05:29+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000728023",
+      "title": "Dolly Parton, Queen of Country Music And Our Hearts, Dies At 80",
+      "url": "https://kotaku.com/dolly-parton-queen-of-country-music-and-our-hearts-dies-at-80-2000728023",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:18:39+00:00"
+    },
+    {
+      "guid": "pd9crKBtzBNgzhff42aFuD",
+      "title": "Battle royale goes grunge: there's a new PUBG game and it's set in the '90s",
+      "url": "https://www.pcgamer.com/games/battle-royale/battle-royale-goes-grunge-theres-a-new-pubg-game-and-its-set-in-the-90s/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:07:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049958",
+      "title": "Ryan Gosling\u2019s Open Invite And Warner Bros. Developing \u2018Flintstones\u2019 Live-Action Reboot About Bamm-Bamm \u2013 The Dish",
+      "url": "https://deadline.com/2026/08/ryan-gosling-flintstones-bamm-bamm-movie-1237049958/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050007",
+      "title": "Dolly Parton Broadway Musical On Track To Open On What Would Have Been Superstar\u2019s 81st Birthday",
+      "url": "https://deadline.com/2026/08/dolly-parton-broadway-musical-opening-date-1237050007/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:28:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049918",
+      "title": "Jesikah Suggs Dies: \u2018My Life With The Walter Boys\u2019 Co-Producer & Writer Was 32",
+      "url": "https://deadline.com/2026/08/jesikah-suggs-dead-my-life-with-walter-boys-1237049918/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:09:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841944",
+      "title": "Haim Saban, Teddy Schwarzman and Lawrence Bender Among Those Condemning \u2018Antisemitic\u2019 Tropes in Mark Ruffalo\u2019s Paramount Discourse: It \u2018Puts Our Community in Grave Danger\u2019",
+      "url": "https://variety.com/2026/biz/global/paramount-antisemitic-tropes-mark-ruffalo-1236841944/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:30:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841527",
+      "title": "Meghan Markle\u2019s \u2018The Gentlemen\u2019 Rumors May Have Overshadowed Season 2 Launch \u2014 but Her Role Isn\u2019t Off the Table",
+      "url": "https://variety.com/2026/tv/global/meghan-markle-the-gentlemen-role-could-still-happen-1236841527/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:24:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680984",
+      "title": "Broadway Box Office: \u2018Moulin Rouge!\u2019 Tops Industry Grosses As Aaron Tveit Returns For Final Weeks",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-moulin-rouge-1236680984/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T19:19:18+00:00"
+    },
+    {
+      "guid": "G4K7yUUTqTPVqKdqEqS8mY",
+      "title": "1666 Amsterdam is out and unfinished \u2013 but that's the whole point",
+      "url": "https://www.gamesradar.com/games/action/1666-amsterdam-is-out-and-unfinished-but-thats-the-whole-point/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:30:00+00:00"
+    },
+    {
+      "guid": "QbCNP8kyPFWTz597gywqUm",
+      "title": "Hit roguelike and my GOTY Mewgenics is coming to console next month",
+      "url": "https://www.gamesradar.com/games/roguelike/hit-roguelike-and-my-goty-mewgenics-is-coming-to-console-next-month/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:15:01+00:00"
+    },
+    {
+      "guid": "47SNDXsw7PMpkVtFskhHHZ",
+      "title": "Warlock, the next big D&D game to come after Baldur's Gate 3, just showed off nearly 10 minutes of its Dragon's Dogma-style gameplay \u2013 and I can't wait to play next year",
+      "url": "https://www.gamesradar.com/games/open-world/warlock-the-next-big-d-and-d-game-to-come-after-baldurs-gate-3-just-showed-off-nearly-10-minutes-of-its-dragons-dogma-style-gameplay-and-i-cant-wait-to-play-next-year/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:10:59+00:00"
+    },
+    {
+      "guid": "y5XZfBikoXn5WDWVGzJgN",
+      "title": "Metro 2039 brings back weapon customization from Metro Exodus, but that isn't the only thing we learned from its stunning new gameplay trailer",
+      "url": "https://www.gamesradar.com/games/fps/metro-2039-brings-back-weapon-customization-from-metro-exodus-but-that-isnt-the-only-thing-we-learned-from-its-stunning-new-gameplay-trailer/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:08:02+00:00"
+    },
+    {
+      "guid": "1861950",
+      "title": "NBA 2K27 Teases GTA 6 Crossover Of Some Kind",
+      "url": "https://www.gamespot.com/articles/nba-2k27-teases-gta-6-crossover-of-some-kind/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:00:20+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121710",
+      "title": "Mewgenics Heads to Switch 2, PS5, and Xbox Series X",
+      "url": "https://www.siliconera.com/mewgenics-heads-to-switch-2-and-xbox-series-x/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:20:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121694",
+      "title": "Petit Planet Arrives Winter 2026, Pre-registration Opens",
+      "url": "https://www.siliconera.com/petit-planet-android-and-ios-pre-registration-pages-open/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:15:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1065383",
+      "title": "METRO 2039 \u2018Renegade\u2019 trailer, screenshots",
+      "url": "https://www.gematsu.com/2026/08/metro-2039-renegade-trailer-screenshots",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T19:02:03+00:00"
     }
   ]
 }
