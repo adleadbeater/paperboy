@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Control Resonant's Physical Edition Gets a Last-Minute Delay",
-      "tag": "control resonant",
-      "posted_at": "2026-08-18T16:16:17.450047+00:00",
-      "urls": [
-        "https://www.ign.com/articles/control-resonant-developer-announces-last-minute-delay-for-physical-edition"
-      ],
-      "article_titles": [
-        "Control Resonant Developer Announces Last-Minute Delay For Physical Edition"
-      ]
-    },
-    {
-      "headline": "Fantagraphics Launches Dedicated Manga Imprint With Lovers of the Empire",
-      "tag": "fantagraphics",
-      "posted_at": "2026-08-18T16:31:02.004616+00:00",
-      "urls": [
-        "https://www.ign.com/articles/fantagraphics-kicks-off-a-new-manga-imprint-with-lovers-of-the-empire",
-        "https://www.ign.com/articles/fantagraphics-kicks-off-a-new-manga-imprint-with-lovers-of-the-empire"
-      ],
-      "article_titles": [
-        "Fantagraphics Kicks Off a New Manga Imprint With Lovers of the Empire",
-        "Fantagraphics Kicks Off a New Manga Imprint With Lovers of the Empire"
-      ]
-    },
-    {
       "headline": "Elden Ring Switch 2 Gameplay Showcase Drops Ahead of Console Launch",
       "tag": "elden ring",
       "posted_at": "2026-08-18T16:54:24.978135+00:00",
@@ -1339,35 +1315,35 @@
         "You\u2019ll Be Able to Get a Persona 6 PS5 Physical Copy at Retail Stores",
         "You\u2019ll Be Able to Get a Persona 6 PS5 Physical Copy at Retail Stores"
       ]
+    },
+    {
+      "headline": "NBA 2K27 Is Teasing a GTA 6 Crossover Event with Rockstar Games",
+      "tag": "gta 6",
+      "posted_at": "2026-08-25T16:31:39.250695+00:00",
+      "urls": [
+        "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games"
+      ],
+      "article_titles": [
+        "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games"
+      ]
+    },
+    {
+      "headline": "Marvel T\u014dkon Devs Admit Rebuilding Trust After Botched PC Launch Will Be 'Extremely Challenging'",
+      "tag": "marvel t\u014dkon",
+      "posted_at": "2026-08-25T16:31:39.333864+00:00",
+      "urls": [
+        "https://www.ign.com/articles/marvel-tokon-devs-confess-regaining-trust-after-fumbled-pc-launch-will-be-extremely-challenging",
+        "https://kotaku.com/marvel-tokon-fighting-souls-pc-port-arc-system-works-steam-2000727869"
+      ],
+      "article_titles": [
+        "Marvel Tokon Devs Confess Regaining Trust After Fumbled PC Launch Will Be 'Extremely Challenging'",
+        "Marvel T\u014dkon Devs Say Botched PC Launch Will Make Regaining Player Trust \u2018Extremely Challenging\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "uyBEdZShLrYga38e72B79f",
-      "title": "Two architectures on one chip: Arm and IBM team up in a legendary crossover, but alas it's for 'enterprise infrastructure'",
-      "url": "https://www.pcgamer.com/hardware/processors/two-architectures-on-one-chip-arm-and-ibm-team-up-in-a-legendary-crossover-but-alas-its-for-enterprise-infrastructure/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T12:12:19+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680548",
-      "title": "Oscars: Belgium Picks Lukas Dhont\u2019s \u2018Coward\u2019 as Best Int\u2019l Feature Submission",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-belgium-picks-lukas-dhont-coward-1236680548/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T12:13:27+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752855",
-      "title": "Netflix Parts Ways With Key Ads Executive Jon Whitticom, With Leaked Memo Citing Need for Leaders to \u201cBuild and Maintain Trust\u201d",
-      "url": "https://otakukart.com/netflix-parts-ways-with-key-ads-executive-jon-whitticom-with-leaked-memo-citing-need-for-leaders-to-build-and-maintain-trust/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T12:16:42+00:00"
-    },
     {
       "guid": "bc20ea71-a83b-44fb-889d-98ecb963575c",
       "title": "Sony PlayStation 27\" Gaming Monitor Review",
@@ -2471,6 +2447,198 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-25T16:00:49+00:00"
+    },
+    {
+      "guid": "380ac416-316e-4c9d-9a46-57a391b7f636",
+      "title": "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games",
+      "url": "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:07:15+00:00"
+    },
+    {
+      "guid": "ff420f73-76f4-4bd9-8ae5-2b140d7db2cc",
+      "title": "Marvel Tokon Devs Confess Regaining Trust After Fumbled PC Launch Will Be 'Extremely Challenging'",
+      "url": "https://www.ign.com/articles/marvel-tokon-devs-confess-regaining-trust-after-fumbled-pc-launch-will-be-extremely-challenging",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:01:18+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727897",
+      "title": "One Of The Best SNES Action-RPGs Is Getting The Rebirth It Deserves",
+      "url": "https://kotaku.com/one-of-the-best-snes-action-rpgs-is-getting-the-rebirth-it-deserves-2000727897",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:07:50+00:00"
+    },
+    {
+      "guid": "kgS6UBZqSqCnCMXGDYouWm",
+      "title": "Lenovo says it is 'clear' Legion Go faults 'not user error' and even devices out of warranty could be repaired 'free of charge'",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovo-says-it-is-clear-legion-go-faults-not-user-error-and-even-devices-out-of-warranty-could-be-repaired-free-of-charge/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:23:51+00:00"
+    },
+    {
+      "guid": "MXF5Qb7bjLiYAqQiLsJGHi",
+      "title": "Total War: Warhammer shows off its spicy new endgames, including a 'rat counter' that tells you how many Skaven still need killing in The Vermintide",
+      "url": "https://www.pcgamer.com/games/strategy/total-war-warhammer-shows-off-its-spicy-new-endgames-including-a-rat-counter-that-tells-you-how-many-skaven-still-need-killing-in-the-vermintide/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:20:52+00:00"
+    },
+    {
+      "guid": "4zjHL52fraJEZTdMVkE5Uf",
+      "title": "GTA 6 leaker goes full cornball in newest videos, insists 'using crypto is the only way'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-goes-full-cornball-in-newest-videos-insists-using-crypto-is-the-only-way/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:14:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049513",
+      "title": "Mindy Kaling & \u2018Not Suitable For Work\u2019 Cast React To Hulu Cancellation: \u201cI Loved Making This Show, I Love These People\u201d",
+      "url": "https://deadline.com/2026/08/not-suitable-for-work-cast-reactions-cancellation-1237049513/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:20:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049560",
+      "title": "Independent Artist Group Hires Sandy Lam & Sara Gonzalez As Agents",
+      "url": "https://deadline.com/2026/08/independent-artist-group-sandy-lam-sara-gonzalez-agents-1237049560/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:10:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049841",
+      "title": "Brian Robbins\u2019 Big Shot Pictures Unveils Founding Executive Leadership Team; Co-Founder Sherry Liu Named President",
+      "url": "https://deadline.com/2026/08/big-shot-pictures-leadership-team-sherry-liu-president-1237049841/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:09:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841844",
+      "title": "\u2018Donnie Darko\u2019 Sequel Book to Release This Year From Filmmaker Richard Kelly; Cover and Teaser Revealed (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/donnie-darko-sequel-book-release-cover-teaser-1236841844/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842597",
+      "title": "\u2018Robocop\u2019 TV Series Casts Dan Stevens in Lead Role",
+      "url": "https://variety.com/2026/tv/news/robocop-tv-series-cast-dan-stevens-1236842597/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:10:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680751",
+      "title": "Leonard Morpurgo, Veteran Hollywood Publicist, Dies at 93",
+      "url": "https://www.hollywoodreporter.com/business/business-news/leonard-morpurgo-dead-rogers-cowan-universal-columbia-1236680751/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:29:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680733",
+      "title": "\u2018The Gilded Age\u2019 Drops Season 4 Teaser Ahead of November Return",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-gilded-age-season-4-teaser-november-premiere-1236680733/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:28:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680755",
+      "title": "Dan Stevens Cast as RoboCop in Prime Video\u2019s Reboot",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dan-stevens-robocop-prime-video-1236680755/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:22:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680696",
+      "title": "Awards Categories Set for Cannes-Winning \u2018All of a Sudden\u2019 Actresses Virginie Efira and Tao Okamoto (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/virginie-efira-tao-okamoto-awards-campaign-all-of-a-sudden-1236680696/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:11:01+00:00"
+    },
+    {
+      "guid": "x6mirPB52MCJjTvnhmymvn",
+      "title": "$50,000 NES collection stolen from 40-year collector who was going to use it to pay for his grandkids' college: \"I don't think I will ever collect another thing again in my life\"",
+      "url": "https://www.gamesradar.com/games/usd50-000-nes-collection-stolen-from-40-year-collector-who-was-going-to-use-it-to-pay-for-his-grandkids-college-i-dont-think-i-will-ever-collect-another-thing-again-in-my-life/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:25:00+00:00"
+    },
+    {
+      "guid": "gdA9rFpSQaoxpibTgQ3TTK",
+      "title": "Original Halo art director \"may disagree\" with some Campaign Evolved \"creative decisions,\" but says \"I\u2019m rooting for the team and for Halo\"",
+      "url": "https://www.gamesradar.com/games/halo/original-halo-art-director-may-disagree-with-some-campaign-evolved-creative-decisions-but-says-im-rooting-for-the-team-and-for-halo/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:24:19+00:00"
+    },
+    {
+      "guid": "8Ux4RLX9EvgzLvtcHA9XVd",
+      "title": "Razer just dropped a PC setup's worth of Xbox accessories that still cost less than the rumored price of the 25th anniversary Series X",
+      "url": "https://www.gamesradar.com/hardware/accessories/razer-just-dropped-a-pc-setups-worth-of-xbox-accessories-that-still-cost-less-than-the-rumored-price-of-the-25th-anniversary-series-x/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:21:12+00:00"
+    },
+    {
+      "guid": "NH4ayFQrHEK9NNSmYbw42L",
+      "title": "With a sequel coming, this Pokemon-like RPG inspired by Evangelion is free to keep on Steam and has already been claimed over 1 million times",
+      "url": "https://www.gamesradar.com/games/rpg/with-a-sequel-coming-this-pokemon-like-rpg-inspired-by-evangelion-is-free-to-keep-on-steam-and-has-already-been-claimed-over-1-million-times/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:18:31+00:00"
+    },
+    {
+      "guid": "nf9X8bKzRjYkmerzTNT5Md",
+      "title": "Avengers: Endgame Encore trailer relives Marvel's greatest cinematic moment and promises \"exclusive look\" at Doomsday",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-endgame-encore-trailer-relives-marvels-greatest-cinematic-moment-and-promises-exclusive-look-at-doomsday/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:08:41+00:00"
+    },
+    {
+      "guid": "zRGu5MA6ZXW89evspYka7J",
+      "title": "Backwards compatibility is neat, but I'd grab an original PS1 rather than listening to people saying \"just buy a PS2\"",
+      "url": "https://www.gamesradar.com/hardware/retro/backwards-compatibility-is-neat-but-id-grab-an-original-ps1-rather-than-listening-to-people-saying-just-buy-a-ps2/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:07:56+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071598",
+      "title": "Dispatch Deluxe Edition physical edition announced",
+      "url": "https://www.gematsu.com/2026/08/dispatch-deluxe-edition-physical-edition-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:15:24+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753095",
+      "title": "Nintendo Switch 2 Gets New Mario Kart World and Nintendo Switch Sports Resort Bundles",
+      "url": "https://otakukart.com/nintendo-switch-2-gets-new-mario-kart-world-and-nintendo-switch-sports-resort-bundles/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:29:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753093",
+      "title": "BURNOUT SYNDROMES Celebrates 10th Anniversary With New Haikyu!! Cover Album and \u201cPHOENIX\u201d JUMP MV",
+      "url": "https://otakukart.com/burnout-syndromes-celebrates-10th-anniversary-with-new-haikyu-cover-album-and-phoenix-jump-mv/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:12:12+00:00"
     }
   ]
 }
