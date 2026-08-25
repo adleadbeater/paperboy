@@ -1492,14 +1492,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "86302854-46d7-44bd-80f4-d79b979bf2b8",
-      "title": "Why Even Consider a Projector When Costco Has an Excellent 100\" Hisense 4K TV for Just $1,500?",
-      "url": "https://www.ign.com/articles/100-inch-hisense-qd7-4k-tv-deal-labor-day",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T17:10:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000727935",
       "title": "Nintendo Switch 2 To Receive Two Bundle Options, But Only After The Base Price Gets Hiked",
       "url": "https://kotaku.com/nintendo-switch-2-bundle-mario-kart-sports-resort-price-increase-2000727935",
@@ -1508,52 +1500,12 @@
       "published_dt": "2026-08-25T17:20:07+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000727929",
-      "title": "GTA 6 Beach Leak Has Fans Going Wild Over Crowd Density: \u2018Best Leak I\u2019ve Ever Seen!\u2019",
-      "url": "https://kotaku.com/gta-6-beach-leak-has-fans-going-wild-over-crowd-density-best-leak-ive-ever-seen-2000727929",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T17:02:14+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237049895",
       "title": "Roadside Attractions & Vertical Make First TIFF Acquisition This Year With Seth Rogen & Anna Kendrick Pic \u2018Babies\u2019",
       "url": "https://deadline.com/2026/08/seth-rogen-anna-kendrick-babies-tiff-acquisition-1237049895/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-25T17:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237047675",
-      "title": "Noah Wyle Builds Production Company With Jeremy Gold Hire Under Warner Bros. TV Overall Deal",
-      "url": "https://deadline.com/2026/08/noah-wyle-last-call-productions-jeremy-gold-warner-bros-tv-1237047675/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T17:09:34+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842676",
-      "title": "\u2018Only Murders in the Building\u2019 Reveals Season 6 Release Date, First Look at New London Setting (TV News Roundup)",
-      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-august-24-1236842676/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T17:14:33+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680809",
-      "title": "Jim Green, Former ABC Executive and Producer of \u2018Stephen King\u2019s It,\u2019 Dies at 83",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/jim-green-dead-abc-stephen-king-it-fallen-angel-1236680809/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T17:04:16+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680746",
-      "title": "Medical Drama \u2018Diplomatic Immunity\u2019 Scores USA Series Order",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/usa-network-medical-drama-diplomatic-immunity-1236680746/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T17:03:55+00:00"
     },
     {
       "guid": "t3_1vy6fht",
@@ -2930,6 +2882,86 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-25T20:50:53+00:00"
+    },
+    {
+      "guid": "72444063-119f-4685-945d-fc2b9e352987",
+      "title": "Some Razer Gaming Gear Is Getting (Slightly Different) Translucent Green Options for Xbox's 25th Anniversary",
+      "url": "https://www.ign.com/articles/some-razer-gaming-gear-is-getting-slightly-different-translucent-green-options-for-xboxs-25th-anniversary",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T21:09:27+00:00"
+    },
+    {
+      "guid": "854cfb83-e00c-4dfe-9b63-aef958d21f49",
+      "title": "Sea of Remnants Director Reveals 10 Minutes of Exclusive Gameplay, Details the Game\u2019s Hidden Secrets",
+      "url": "https://www.ign.com/articles/sea-of-remnants-exclusive-gameplay-secrets",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T20:56:19+00:00"
+    },
+    {
+      "guid": "Nud5u8N48AHM5DVJt44k2d",
+      "title": "Tarae: The Unbound is an 'Eastern dark fantasy' action RPG, and I for one am here for K-Diablo",
+      "url": "https://www.pcgamer.com/games/rpg/tarae-the-unbound-is-an-eastern-dark-fantasy-action-rpg-and-i-for-one-am-here-for-k-diablo/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T20:58:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050285",
+      "title": "\u2018Doc\u2019 Adds Barrett Carnahan, Raffa Virago, Cecilia Lee & Kolton Stewart To Season 3 Cast",
+      "url": "https://deadline.com/2026/08/doc-cast-barrett-carnahan-kolton-stewart-season-3-cast-1237050285/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T21:13:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050065",
+      "title": "Jane Fonda Remembers \u20189 To 5\u2019 Co-Star & \u201cLoyal Friend\u201d Dolly Parton: \u201cI Never Knew Anyone Like Her\u201d",
+      "url": "https://deadline.com/2026/08/9-to-5-lily-tomlin-jane-fonda-reaction-dolly-parton-dies-1237050065/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T21:08:28+00:00"
+    },
+    {
+      "guid": "5G9C7CxUQBrKgKS6Fp4wZa",
+      "title": "Coyote Vs. Acme director says it was a challenge to update classic Looney Tunes characters for modern audiences: \"We're trying to protect legacies that are so much older than us\"",
+      "url": "https://www.gamesradar.com/entertainment/comedy-movies/coyote-vs-acme-director-says-it-was-a-challenge-to-update-classic-looney-tunes-characters-for-modern-audiences-were-trying-to-protect-legacies-that-are-so-much-older-than-us/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T21:05:14+00:00"
+    },
+    {
+      "guid": "kb4TGUgH5QrBiD5qQSitic",
+      "title": "Coyote Vs. Acme director says the viral support after the movie was scrapped was \"kind of a miracle\": \"It led us to this moment today\"",
+      "url": "https://www.gamesradar.com/entertainment/comedy-movies/coyote-vs-acme-director-says-the-viral-support-after-the-movie-was-scrapped-was-kind-of-a-miracle-it-led-us-to-this-moment-today/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T21:04:51+00:00"
+    },
+    {
+      "guid": "gRCkBL2UQjTiZyMBdPUvJV",
+      "title": "The Commodore 77 looks like a C64 Ultimate for Edgerunners, but it also \"brings a slice of Cyberpunk 2077 and Night City to the long-established C64 demo scene\"",
+      "url": "https://www.gamesradar.com/hardware/retro/the-commodore-77-looks-like-a-c64-ultimate-for-edgerunners-but-it-also-brings-a-slice-of-cyberpunk-2077-and-night-city-to-the-long-established-c64-demo-scene/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T21:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752754",
+      "title": "I Want to Love You Till Your Dying Day Reveals New Special Visual Ahead of Episode 8",
+      "url": "https://otakukart.com/i-want-to-love-you-till-your-dying-day-reveals-new-special-visual-ahead-of-episode-8/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T21:03:09+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/",
+      "title": "Dungeons & Dragons: Warlock shows off first gameplay footage, will be set in Ravenloft",
+      "url": "https://www.enworld.org/threads/dungeons-dragons-warlock-shows-off-first-gameplay-footage-will-be-set-in-ravenloft.720439/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T21:01:00+00:00"
     }
   ]
 }
