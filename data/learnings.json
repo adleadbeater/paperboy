@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Deus Ex and System Shock Creator Warren Spector Announces Retirement After 44 Years in Games",
-      "tag": "warren spector",
-      "posted_at": "2026-08-18T12:18:01.476858+00:00",
-      "urls": [
-        "https://www.timeextension.com/news/2026/08/its-just-not-as-much-fun-for-me-anymore-ultima-and-deus-ex-legend-warren-spector-announces-his-retirement-from-games",
-        "https://www.gamesradar.com/games/after-44-years-legendary-deus-ex-and-system-shock-developer-warren-spector-announces-his-retirement-from-game-development-wouldnt-change-a-thing-even-if-i-could/"
-      ],
-      "article_titles": [
-        "\"It's Just Not As Much Fun For Me Anymore\" - Ultima & Deus Ex Legend Warren Spector Announces His Retirement From Games",
-        "After 44 years, legendary Deus Ex and System Shock developer Warren Spector announces his retirement from game development: \"Wouldn't change a thing even if I could\""
-      ]
-    },
-    {
       "headline": "Post Malone Cracks Open His $2 Million One Ring MTG Card on Camera",
       "tag": "magic: the gathering",
       "posted_at": "2026-08-18T13:15:24.153835+00:00",
@@ -1313,146 +1300,133 @@
       "article_titles": [
         "Xbox and PlayStation Appear to Be Publicly Backing Down from Promoting Multiplatform Releases"
       ]
+    },
+    {
+      "headline": "The New Resident Evil Movie Is Leaning Into First-Person POV to Stay True to the Games",
+      "tag": "resident evil",
+      "posted_at": "2026-08-25T12:20:26.304589+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/resident-evil/the-upcoming-resident-evil-movie-will-have-first-person-povs-as-it-demonstrates-how-authenticity-is-a-moving-target-for-a-series-that-spans-30-years/"
+      ],
+      "article_titles": [
+        "The upcoming Resident Evil movie will have first-person POVs as it demonstrates how authenticity is a moving target for a series that spans 30 years"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680074",
-      "title": "Disney and NFL Fandoms Collide in Character-Inspired Collection of Team Gear",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/buy-disney-nfl-champion-clothing-collab-2026-release-online-1236680074/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T22:43:00+00:00"
-    },
-    {
-      "guid": "84bebf2e-cbf5-4c83-adee-e6bb0d9cd9fa",
-      "title": "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating",
-      "url": "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating",
+      "guid": "481d7ce3-df0c-4972-8093-378dd1e39254",
+      "title": "Legend of the White Dragon Review",
+      "url": "https://www.ign.com/articles/legend-of-the-white-dragon-review",
       "source_name": "IGN",
       "source_tier": 1,
-      "published_dt": "2026-08-24T22:56:30+00:00"
+      "published_dt": "2026-08-25T12:00:00+00:00"
     },
     {
-      "guid": "840bac24-985a-4543-8d80-e286096571f4",
-      "title": "The FlashForge AD5X Multi-Color 3D Printer Drops to Just $203 Shipped at AliExpress",
-      "url": "https://www.ign.com/articles/flashforge-ad5x-3d-printer-deal-august-2026-updated-2",
-      "source_name": "IGN",
+      "guid": "https://kotaku.com/?p=2000727857",
+      "title": "GTA 6\u2032s Lucky Leak #13 Reveals Crowd Scenes You Will Not Believe",
+      "url": "https://kotaku.com/gta-6-leak-13-beach-crowds-bike-rockstar-cyberleek-grand-theft-auto-2000727857",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-08-24T22:55:00+00:00"
+      "published_dt": "2026-08-25T11:50:27+00:00"
     },
     {
-      "guid": "0507c87d-7fde-4950-9ff1-e490232124bf",
-      "title": "Xbox and PlayStation Appear to Be Publicly Backing Down from Promoting Multiplatform Releases",
-      "url": "https://www.ign.com/articles/xbox-and-playstation-appear-to-be-publicly-backing-down-from-promoting-multiplatform-releases",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T22:53:57+00:00"
-    },
-    {
-      "guid": "f5ee9b3b-7df5-49ea-b204-7aea1611e6a0",
-      "title": "The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $135 Shipped",
-      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-august-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T22:50:00+00:00"
-    },
-    {
-      "guid": "800f6da0-12d9-4d7d-b7ec-1daf87dc61de",
-      "title": "Persona Comes to Beard Papa's With Special 30th Anniversary Collaboration",
-      "url": "https://www.ign.com/articles/persona-comes-to-beard-papas-with-special-30th-anniversary-collaboration",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T22:41:35+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679472",
-      "title": "Brenda Song Loves the Los Angeles Rams So Much She Ended Up in a Broadcast Booth at SoFi Stadium",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/brenda-song-los-angeles-rams-sofi-stadium-macaulay-culkin-1236679472/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T22:49:37+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205369",
-      "title": "'We're Hoping to Continue the Remakes for a While': Falcom Doubles Down on Remaking Classic Trails Games",
-      "url": "https://www.pushsquare.com/news/2026/08/were-hoping-to-continue-the-remakes-for-a-while-falcom-doubles-down-on-remaking-classic-trails-games",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-24T23:00:00+00:00"
-    },
-    {
-      "guid": "8zAhv7nD3m3pfbm2879Su8",
-      "title": "Nearly 500k players showed up for the Wardogs beta: 'The reaction from the FPS community has been insane'",
-      "url": "https://www.pcgamer.com/games/fps/nearly-500k-players-showed-up-for-the-wardogs-beta-the-reaction-from-the-fps-community-has-been-insane/",
+      "guid": "uyBEdZShLrYga38e72B79f",
+      "title": "Two architectures on one chip: Arm and IBM team up in a legendary crossover, but alas it's for 'enterprise infrastructure'",
+      "url": "https://www.pcgamer.com/hardware/processors/two-architectures-on-one-chip-arm-and-ibm-team-up-in-a-legendary-crossover-but-alas-its-for-enterprise-infrastructure/",
       "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-08-24T23:11:55+00:00"
+      "published_dt": "2026-08-25T12:12:19+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237049420",
-      "title": "Everything We Know About Amazon MGM & Sony Pictures TV\u2019s \u2018God Of War\u2019 Adaptation So Far",
-      "url": "https://deadline.com/feature/god-of-war-tv-show-adaptation-news-updates-amazon-sony-tv-1237049420/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T23:39:50+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049415",
-      "title": "Field Of Vision Debuts Ukraine War-Themed \u2018When It Started To Burn\u2019 On Ukrainian Independence Day",
-      "url": "https://deadline.com/2026/08/when-it-started-to-burn-field-of-vision-premiere-1237049415/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-24T23:29:40+00:00"
-    },
-    {
-      "guid": "vuj6phsmUny4bG9vSvk4Kc",
-      "title": "How to Fish: Strategies for beating the Pufferfish",
-      "url": "https://www.pcgamer.com/games/sim/how-to-fish-pufferfish/",
+      "guid": "7jCix6sjnfPkkDSw7JVeEf",
+      "title": "The upcoming Resident Evil movie will have first-person POVs as it demonstrates how authenticity is a moving target for a series that spans 30 years",
+      "url": "https://www.pcgamer.com/games/resident-evil/the-upcoming-resident-evil-movie-will-have-first-person-povs-as-it-demonstrates-how-authenticity-is-a-moving-target-for-a-series-that-spans-30-years/",
       "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-08-25T01:09:14+00:00"
+      "published_dt": "2026-08-25T11:53:56+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236842092",
-      "title": "Taylor Swift Sings Mashup of \u2018All Too Well,\u2019 \u2018I Knew It, I Knew You\u2019 and \u2018August\u2019 in Grammy Museum Video",
-      "url": "https://variety.com/2026/music/news/taylor-swift-sings-mashup-all-too-well-grammy-museum-video-1236842092/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T01:15:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049456",
-      "title": "\u2018Hangover\u2019 Architects Jon Lucas & Scott Moore On Keeping Comedy In Theaters With \u2018Spa Weekend\u2019 \u2013 Crew Call Podcast",
-      "url": "https://deadline.com/2026/08/spa-weekend-jon-lucas-scott-moore-interview-1237049456/",
+      "guid": "https://deadline.com/?p=1237046102",
+      "title": "George Clooney, Alberto Barbera & Maggie Gyllenhaal Among Speakers At CAA-Finch & Partners Venice Forum",
+      "url": "https://deadline.com/2026/08/george-clooney-maggie-gyllenhaal-speakers-caa-venice-forum-1237046102/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-08-25T01:45:00+00:00"
+      "published_dt": "2026-08-25T12:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236842124",
-      "title": "Hulu Cancels Mindy Kaling-Created Comedy \u2018Not Suitable for Work\u2019 After One Season (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/not-suitable-for-work-hulu-canceled-mindy-kaling-one-season-1236842124/",
+      "guid": "https://variety.com/?p=1236839824",
+      "title": "George Clooney, Maggie Gyllenhaal, Alexandre Desplat and More Set for Finch & Partners and CAA\u2019s \u2018Future of Creativity\u2019 Forum in Venice",
+      "url": "https://variety.com/2026/film/festivals/george-clooney-maggie-gyllenhaal-caa-creativity-forum-venice-1236839824/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-08-25T01:48:31+00:00"
+      "published_dt": "2026-08-25T12:00:00+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-205372",
-      "title": "Pok\u00e9mon Artist & Plucky Squire Dev James Turner Starts New Role At The Pok\u00e9mon Company International",
-      "url": "https://www.nintendolife.com/news/2026/08/pokemon-artist-and-plucky-squire-dev-james-turner-starts-new-role-at-the-pokemon-company-international",
-      "source_name": "Nintendo Life",
+      "guid": "https://www.hollywoodreporter.com/?p=1236680548",
+      "title": "Oscars: Belgium Picks Lukas Dhont\u2019s \u2018Coward\u2019 as Best Int\u2019l Feature Submission",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-belgium-picks-lukas-dhont-coward-1236680548/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T12:13:27+00:00"
+    },
+    {
+      "guid": "sHvd9T3tAj6rit9Cry5hE6",
+      "title": "How to get Mortal Shell 2 Tarcores",
+      "url": "https://www.gamesradar.com/games/rpg/mortal-shell-2-tarcores/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-08-25T01:40:00+00:00"
+      "published_dt": "2026-08-25T12:02:57+00:00"
     },
     {
-      "guid": "t3_1vxmjkl",
-      "title": "Mewgenics appearing on the Xbox store, likely console release announcement at Opening Night Live",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxmjkl/mewgenics_appearing_on_the_xbox_store_likely/",
+      "guid": "nFNqvSSndjj6xoAetwMRGd",
+      "title": "Runaways codes (August 2026) for Credz and more",
+      "url": "https://www.gamesradar.com/games/action/runaways-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T11:53:19+00:00"
+    },
+    {
+      "guid": "3qfyfbzGjcU6BTga5Azg4V",
+      "title": "Lanterns fans are growing more suspicious of Sheriff Kane, but they don't think she's the Manhunter",
+      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/lanterns-fans-are-growing-more-suspicious-of-sheriff-kane-but-they-dont-think-shes-the-manhunter/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T11:53:06+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752855",
+      "title": "Netflix Parts Ways With Key Ads Executive Jon Whitticom, With Leaked Memo Citing Need for Leaders to \u201cBuild and Maintain Trust\u201d",
+      "url": "https://otakukart.com/netflix-parts-ways-with-key-ads-executive-jon-whitticom-with-leaked-memo-citing-need-for-leaders-to-build-and-maintain-trust/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T12:16:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752768",
+      "title": "Andrew Garfield\u2019s Artificial Breaks Luca Guadagnino\u2019s 17-Year R-Rating Streak With PG-13",
+      "url": "https://otakukart.com/andrew-garfields-artificial-breaks-luca-guadagninos-17-year-r-rating-streak-with-pg-13/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T11:57:59+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1752854",
+      "title": "Game Freak Says Pok\u00e9mon Battles May Change in Future Games as Pok\u00e9mon Champions Preserves the Classic System",
+      "url": "https://otakukart.com/game-freak-says-pokemon-battles-may-change-in-future-games-as-pokemon-champions-preserves-the-classic-system/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T11:52:42+00:00"
+    },
+    {
+      "guid": "t3_1vxxixt",
+      "title": "Marathon had a playtest yesterday focused on improving onboarding and the new PVE mode for Season 3",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxxixt/marathon_had_a_playtest_yesterday_focused_on/",
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
-      "published_dt": "2026-08-25T01:56:52+00:00"
+      "published_dt": "2026-08-25T11:47:25+00:00"
     }
   ]
 }
