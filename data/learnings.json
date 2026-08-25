@@ -1345,36 +1345,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "bc20ea71-a83b-44fb-889d-98ecb963575c",
-      "title": "Sony PlayStation 27\" Gaming Monitor Review",
-      "url": "https://www.ign.com/articles/sony-playstation-27-gaming-monitor-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T13:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237049690",
       "title": "Global Breakouts: Four Of 2026\u2019s Hottest New Titles So Far, From Norway To Ukraine",
       "url": "https://deadline.com/2026/08/global-breakouts-hottest-new-titles-1237049690/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-25T13:14:01+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049426",
-      "title": "\u2018Ali G: Who Iz I?\u2019 Trailer: Sacha Baron Cohen Reprises A Modern Classic Character In New Film From Amazon MGM Studios",
-      "url": "https://deadline.com/2026/08/new-ali-g-movie-who-iz-i-trailer-1237049426/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049450",
-      "title": "\u2018I Love Lucy\u2019 Set For TV Academy\u2019s Inaugural Legacy Award",
-      "url": "https://deadline.com/2026/08/i-love-lucy-legacy-award-television-academy-emmys-1237049450/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T13:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236842137",
@@ -1385,30 +1361,6 @@
       "published_dt": "2026-08-25T13:05:56+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236841396",
-      "title": "Thai Pop Star Ten Unveils First Solo U.S. Tour and Says New Album Is Underway: \u2018I Enjoy Showing Different Sides of Myself\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/music/news/ten-solo-us-tour-new-album-1236841396/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842108",
-      "title": "\u2018I Love Lucy\u2019 Will Receive the Television Academy\u2019s First-Ever Legacy Award at the Emmys",
-      "url": "https://variety.com/2026/tv/news/i-love-lucy-television-academy-legacy-award-emmys-1236842108/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842118",
-      "title": "\u2018Unleashed Spirits: The Rise of the Hollywood Vampires\u2019 to Open 42nd Boston Film Festival",
-      "url": "https://variety.com/2026/film/news/hollywood-vampires-film-open-boston-film-festival-1236842118/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236680135",
       "title": "\u2018Ali G: Who Iz I?\u2019 Trailer: Sacha Baron Cohen\u2019s Prankster Returns in Stunt Documentary",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/ali-g-who-iz-i-trailer-sacha-baron-cohen-1236680135/",
@@ -1417,36 +1369,12 @@
       "published_dt": "2026-08-25T13:04:48+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680322",
-      "title": "\u2018I Love Lucy\u2019 Set for TV Academy\u2019s Inaugural Legacy Award",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/i-love-lucy-tv-academy-inaugural-legacy-award-1236680322/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T13:00:00+00:00"
-    },
-    {
-      "guid": "AYHKzCdktuWVEnpLG2rikG",
-      "title": "Rediscovering my PS Vita has left me despairing for PlayStation's all-digital future",
-      "url": "https://www.gamesradar.com/games/rediscovering-my-ps-vita-has-left-me-despairing-for-playstations-all-digital-future/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T13:00:00+00:00"
-    },
-    {
       "guid": "1861397",
       "title": "New Mario Kart World Switch 2 Bundle Coming In September, And It\u2019s More Expensive Than The Original",
       "url": "https://www.gamespot.com/articles/two-new-switch-2-bundles-announced-just-before-price-hike/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-08-25T13:11:37+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121635",
-      "title": "Review: CloverPit Is an Instant Gratification Roguelike",
-      "url": "https://www.siliconera.com/review-cloverpit-is-an-instant-gratification-roguelike/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1071516",
@@ -2639,6 +2567,214 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-25T16:12:12+00:00"
+    },
+    {
+      "guid": "rNjr2EgKuU9hJ4aQYawPV8",
+      "title": "I attempted to become a professional driver in a GTA 5 where every car had no friction",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-attempted-to-become-a-professional-driver-in-a-gta-5-where-every-car-had-no-friction/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T17:00:00+00:00"
+    },
+    {
+      "guid": "mvxrXMB5atx2uh7xs89z5B",
+      "title": "Gamescom Opening Night Live 2026: every announcement as it happens",
+      "url": "https://www.pcgamer.com/news/live/gamescom-opening-night-live-2026-live-coverage/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:49:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049406",
+      "title": "\u2018Diplomatic Immunity\u2019 Lands Greenlight At USA Network; Medical Drama Comes From Matt Corman, Chris Ord & Fox Entertainment Studios",
+      "url": "https://deadline.com/2026/08/medical-drama-diplomatic-immunity-usa-network-fox-studios-1237049406/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049855",
+      "title": "Germany Selects Sandra Wollner\u2019s \u2018Everytime\u2019 For Best International Film Oscar; Three Films From Country In Running Due To New Rules",
+      "url": "https://deadline.com/2026/08/germany-selects-everytime-best-international-film-oscar-1237049855/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:33:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049105",
+      "title": "Blumhouse Atomic Monster Crosses $1B WW YTD At Box Office Boosted By \u2018Obsession\u2019, \u2018Backrooms\u2019, More",
+      "url": "https://deadline.com/2026/08/box-office-blumhouse-atomic-monster-billion-1237049105/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:31:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236834875",
+      "title": "\u2018Variety Confidential\u2019 Podcast Releases Special Episode Diving Into the Business of True Crime Storytelling",
+      "url": "https://variety.com/2026/digital/news/variety-confidential-episode-true-crime-storytelling-1236834875/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842096",
+      "title": "USA Network Orders Rome-Set Medical Drama \u2018Diplomatic Immunity,\u2019 From Matt Corman and Chris Ord",
+      "url": "https://variety.com/2026/tv/news/usa-network-medical-drama-diplomatic-immunity-1236842096/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842584",
+      "title": "Can Rob Bonta Make His Case Against Paramount Without the Three Largest Theater Chains?",
+      "url": "https://variety.com/2026/film/news/rob-bonta-paramount-theater-chains-1236842584/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:50:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841848",
+      "title": "From \u2018Donnie Darko\u2019 to \u2018Kenan & Kel Meet Zombies,\u2019 How Range Literary Publishing Is Facilitating the Relationship Between Hollywood and the Book Biz",
+      "url": "https://variety.com/2026/biz/news/range-literary-publishing-hollywood-book-partnership-1236841848/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842447",
+      "title": "Woody Allen\u2019s New Madrid-Set Movie Comes With Millions in Public Funding \u2014 and a Few Strings Attached",
+      "url": "https://variety.com/2026/film/global/woody-allen-madrid-movie-public-funding-city-title-1236842447/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:35:10+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678167",
+      "title": "How \u2018The Five Star Weekend\u2019 Could Expand the Book Into a Multi-Season Series",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/five-star-weekend-season-two-showrunner-interview-1236678167/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680770",
+      "title": "Oscars: Germany Picks Cannes Winner \u2018Everytime\u2019 as Best International Feature Selection",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-everytime-is-germany-international-feature-pick-1236680770/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:48:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680567",
+      "title": "Neil LaBute to Receive Career Honor at Oldenburg Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oldenburg-career-honor-for-director-neil-labute-1236680567/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:37:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680418",
+      "title": "Daniel Dae Kim and His Production Company 3AD Jump to CAA (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/daniel-dae-kim-production-company-3ad-caa-representation-1236680418/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T16:30:00+00:00"
+    },
+    {
+      "guid": "MSTqD7nzPjLttn4Z5EnJ67",
+      "title": "Horrified: Ravenloft is a slam-dunk for D&D fans, but innovation is starting to be 'mist'",
+      "url": "https://www.gamesradar.com/games/board-games/horrified-dungeons-and-dragons-ravenloft-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:54:12+00:00"
+    },
+    {
+      "guid": "VhEetiWSu7fQzU5rN73t2N",
+      "title": "When Valve killed its Ravenholm game, Arkane founder says \"we did not understand\" its thinking: \"It all came down to the economics behind Half-Life 2 and how the DLCs were selling\"",
+      "url": "https://www.gamesradar.com/games/stealth/when-valve-killed-its-ravenholm-game-arkane-founder-says-we-did-not-understand-its-thinking-it-all-came-down-to-the-economics-behind-half-life-2-and-how-the-dlcs-were-selling/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:48:28+00:00"
+    },
+    {
+      "guid": "5RUieqdLPkS5Fei4xShDKS",
+      "title": "JRPG remake Trails in the Sky 1st Chapter did so well, \"we're hoping to continue the remakes for a while,\" Falcom president says",
+      "url": "https://www.gamesradar.com/games/jrpg/jrpg-remake-trails-in-the-sky-1st-chapter-did-so-well-were-hoping-to-continue-the-remakes-for-a-while-falcom-president-says/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:42:52+00:00"
+    },
+    {
+      "guid": "kV5QMGPgueR9qzAbeXdgXo",
+      "title": "King Legacy codes (August 2026) for Cash, Gems, EXP boosts, and more",
+      "url": "https://www.gamesradar.com/games/rpg/king-legacy-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:36:05+00:00"
+    },
+    {
+      "guid": "Dwx58Hzy5Rv6FBqHj5jmkS",
+      "title": "Lies of P director says he wouldn't settle for a game-key card on Nintendo Switch 2 because everyone at his studio is a \"proud gamer\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/lies-of-p-director-says-he-wouldnt-settle-for-a-game-key-card-on-nintendo-switch-2-because-everyone-at-his-studio-is-a-proud-gamer/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:33:48+00:00"
+    },
+    {
+      "guid": "qQHTNeuQfiJGefh9mq8YHD",
+      "title": "The Sinking City 2 locked buoy solution",
+      "url": "https://www.gamesradar.com/games/survival-horror/sinking-city-2-locked-buoy/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:33:47+00:00"
+    },
+    {
+      "guid": "pTxB24SPTR2tpDeVtUCpTf",
+      "title": "New Paralives update adds the camera options we've wanted from The Sims 4 competitor since its Early Access release: \"You're welcome\"",
+      "url": "https://www.gamesradar.com/games/simulation/new-paralives-update-adds-the-camera-options-weve-wanted-from-the-sims-4-competitor-since-its-early-access-release-youre-welcome/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:32:58+00:00"
+    },
+    {
+      "guid": "rHNigyeGDyVvfVisFcePzd",
+      "title": "New GTA 6 leak shows physical media is alive and well in Vice City, including one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/new-gta-6-leak-shows-physical-media-is-alive-and-well-in-vice-city-including-one-game-that-pokes-fun-at-the-last-of-us-and-naughty-dogs-many-remasters/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:32:55+00:00"
+    },
+    {
+      "guid": "A8UvBW3jbzBY5V7ZK4fgU9",
+      "title": "How to beat the How to Fish Piranha boss",
+      "url": "https://www.gamesradar.com/games/co-op/how-to-fish-piranha-boss/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:30:41+00:00"
+    },
+    {
+      "guid": "1861687",
+      "title": "McDonald\u2019s Halo: Campaign Evolved Skin Has Me Loathin\u2019 It",
+      "url": "https://www.gamespot.com/articles/mcdonalds-halo-campaign-evolved-skin-has-me-loathin-it/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:31:08+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121685",
+      "title": "Hololive Vtuber, Kagurabachi Mangaka Make Forbes Japan 30 Under 30 List",
+      "url": "https://www.siliconera.com/hololive-vtuber-kagurabachi-mangaka-make-forbes-japan-30-under-30-list/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753115",
+      "title": "The Red Cathedral Digital Edition Demo Is Free on Steam Until September 6",
+      "url": "https://otakukart.com/the-red-cathedral-digital-edition-demo-is-free-on-steam-until-september-6/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T16:46:34+00:00"
     }
   ]
 }
