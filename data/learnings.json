@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A Very Real-Looking GTA 6 Gameplay Clip \u2014 and Possibly the Full Map \u2014 Just Leaked Online",
-      "tag": "gta 6",
-      "posted_at": "2026-08-18T18:17:47.016958+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/grand-theft-auto/a-very-real-looking-gta-6-clip-and-maybe-the-full-map-just-leaked-online/"
-      ],
-      "article_titles": [
-        "A very real-looking GTA 6 clip\u2014and maybe the full map\u2014just leaked online"
-      ]
-    },
-    {
       "headline": "Bethesda Dev Says Xbox Takeover Brought \"Yearly Layoffs\" Where Cuts Were Once Rare",
       "tag": "bethesda",
       "posted_at": "2026-08-18T19:00:58.342547+00:00",
@@ -1317,27 +1306,37 @@
         "RollerCoaster Tycoon Is Back, And This Time It Has Bubsy",
         "RollerCoaster Tycoon Wonderworks announced for consoles, PC"
       ]
+    },
+    {
+      "headline": "Humankind 2 Announced for 2027 With Climate Change as a Core Mechanic",
+      "tag": "humankind 2",
+      "posted_at": "2026-08-25T18:20:14.297402+00:00",
+      "urls": [
+        "https://www.eurogamer.net/humankind-2-announced-coming-2027-and-promises-climate-change-and-a-new-take-on-historical-strategy",
+        "https://www.gamespot.com/articles/humankind-2-forces-you-to-deal-with-the-consequences-of-climate-change/",
+        "https://www.gamespot.com/articles/humankind-2-forces-you-to-deal-with-the-consequences-of-climate-change/"
+      ],
+      "article_titles": [
+        "Humankind 2 announced, coming 2027, and promises climate change and \"a new take on historical strategy\"",
+        "Humankind 2 Forces You To Deal With The Consequences Of Climate Change",
+        "Humankind 2 Forces You To Deal With The Consequences Of Climate Change"
+      ]
+    },
+    {
+      "headline": "Ubisoft Is Making the First Single-Player Rainbow Six Game in 19 Years \u2014 and It's an XCOM-Style Tactics Game",
+      "tag": "rainbow six",
+      "posted_at": "2026-08-25T18:20:14.376597+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/strategy/ubisoft-is-making-the-first-singleplayer-rainbow-six-in-19-years-and-its-a-tactics-game-in-the-style-of-xcom/"
+      ],
+      "article_titles": [
+        "Ubisoft is making the first singleplayer Rainbow Six in 19 years, and it's a tactics game in the style of XCOM"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://variety.com/?p=1236842366",
-      "title": "Tom Hiddleston and Willem Dafoe\u2019s Mount Everest Drama \u2018Tenzing\u2019 to Open Zurich Film Festival",
-      "url": "https://variety.com/2026/film/global/tom-hiddleston-willem-dafoes-everest-tenzing-zurich-1236842366/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:03:20+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752979",
-      "title": "One Piece Elbaph Arc English Dub Gets Weekly Crunchyroll Release Date",
-      "url": "https://otakukart.com/one-piece-elbaph-arc-english-dub-gets-weekly-crunchyroll-release-date/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:05:54+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-player-reaction",
       "title": "\"People wanted faster movement, but not this fast\" - Call of Duty: Modern Warfare 4 beta players aren't happy with slide spammers and the increased pace of the game",
@@ -1347,28 +1346,12 @@
       "published_dt": "2026-08-25T14:25:02+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000727881",
-      "title": "New GTA 6 Leak Shows Game Store Selling Physical Discs As Leaker Claims This Is All About \u2018Ownership\u2019 In A \u2018Digital-Only Era\u2019",
-      "url": "https://kotaku.com/new-gta-6-leak-shows-game-store-selling-physical-discs-as-leaker-claims-this-is-all-about-ownership-in-an-digital-only-era-2000727881",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:15:01+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237049719",
       "title": "\u2018Chicken Shop Date\u2019 Star Amelia Dimoldenberg Developing \u2018Skins\u2019-Style Drama For The BBC",
       "url": "https://deadline.com/2026/08/chicken-shop-date-amelia-dimoldenberg-skins-drama-bbc-1237049719/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-25T14:20:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049692",
-      "title": "West End Play \u2018McQueen\u2019 Getting Film Adaptation With Ted Field\u2019s Radar Pictures",
-      "url": "https://deadline.com/2026/08/james-phillips-west-end-play-mcqueen-gets-film-adaptation-1237049692/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T14:15:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236842423",
@@ -1385,22 +1368,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-25T14:25:49+00:00"
-    },
-    {
-      "guid": "1861390",
-      "title": "Why GTA Games Are A \u201cStab In The Heart,\u201d But Also Amazing, For Ex-Dishonored Dev",
-      "url": "https://www.gamespot.com/articles/why-gta-games-are-a-stab-in-the-heart-but-also-amazing-for-ex-dishonored-dev/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:03:45+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205397",
-      "title": "Random: 'A Drink To The Past' Collects Cocktail & Mocktail Recipes Inspired By Zelda",
-      "url": "https://www.nintendolife.com/news/2026/08/random-a-drink-to-the-past-collects-cocktail-and-mocktail-recipes-inspired-by-zelda",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T14:15:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1752980",
@@ -2713,6 +2680,126 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-25T17:39:26+00:00"
+    },
+    {
+      "guid": "bf96ca4a-2bb5-4b39-8aa5-c9486cbec364",
+      "title": "Fans Pay Tribute to Dolly Parton After Country Music Legend Dies at 80",
+      "url": "https://www.ign.com/articles/fans-pay-tribute-to-dolly-parton-after-country-music-legend-dies-at-80",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:05:24+00:00"
+    },
+    {
+      "guid": "afaf3246-fef6-4d63-8533-01dc921c96e9",
+      "title": "Adventure Time Is Finally Getting the Full Blu-ray Treatment",
+      "url": "https://www.ign.com/articles/adventure-time-complete-series-blu-ray-where-to-buy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T17:48:13+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/humankind-2-announced-coming-2027-and-promises-climate-change-and-a-new-take-on-historical-strategy",
+      "title": "Humankind 2 announced, coming 2027, and promises climate change and \"a new take on historical strategy\"",
+      "url": "https://www.eurogamer.net/humankind-2-announced-coming-2027-and-promises-climate-change-and-a-new-take-on-historical-strategy",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:15:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727985",
+      "title": "New Rainbow Six Siege Tactical Spin-Off Looks A Lot Like X-Com",
+      "url": "https://kotaku.com/new-rainbow-six-siege-tactical-spin-off-looks-a-lot-like-x-com-2000727985",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:14:08+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000727990",
+      "title": "Genshin Impact Studio Trades Zelda: Breath Of The Wild For Elden Ring In Its New Action-RPG",
+      "url": "https://kotaku.com/genshin-impact-nodus-fall-elden-ring-2000727990",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:10:57+00:00"
+    },
+    {
+      "guid": "vPt4Ndwd8sPadvUVgNhnqT",
+      "title": "Ubisoft is making the first singleplayer Rainbow Six in 19 years, and it's a tactics game in the style of XCOM",
+      "url": "https://www.pcgamer.com/games/strategy/ubisoft-is-making-the-first-singleplayer-rainbow-six-in-19-years-and-its-a-tactics-game-in-the-style-of-xcom/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:14:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049959",
+      "title": "\u2018Who Wants To Be A Millionaire\u2019 Summer Finale Scores Ratings Wins For ABC",
+      "url": "https://deadline.com/2026/08/who-wants-to-be-a-millionaire-summer-finale-ratings-abc-1237049959/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:15:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049985",
+      "title": "Dolly Parton Dies: Iconic \u201cJolene\u201d Singer-Songwriter, \u20189 To 5\u2019 Star & 11-Time Grammy Winner Was 80",
+      "url": "https://deadline.com/2026/08/dolly-parton-dead-1237049985/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:08:03+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680832",
+      "title": "Kyle Buchanan Exits The New York Times, Set to Launch Video Podcast With Acast",
+      "url": "https://www.hollywoodreporter.com/news/general-news/kyle-buchanan-new-york-times-video-podcast-acast-1236680832/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:16:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680340",
+      "title": "Rhea Seehorn on Failed Auditions, \u201cLikability\u201d and Finally Topping a Call Sheet With \u2018Pluribus\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/rhea-seehorn-failed-auditions-pluribus-awards-chatter-1236680340/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:02:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680880",
+      "title": "Hamptons Film Fest Sets \u2018I Play Rocky\u2019 for Opening Night, Will Honor Phil Lord and Chris Miller (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-hamptons-film-fest-phil-lord-chris-miller-awards-1236680880/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-25T18:00:48+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121713",
+      "title": "New HoYoVerse Game Called Nodusfall",
+      "url": "https://www.siliconera.com/new-hoyoverse-game-called-nodusfall/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:17:53+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071681",
+      "title": "Mariachi Legends delayed to April 27, 2027",
+      "url": "https://www.gematsu.com/2026/08/mariachi-legends-delayed-to-april-27-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T17:56:07+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071531",
+      "title": "HUMANKIND II announced for PC",
+      "url": "https://www.gematsu.com/2026/08/humankind-ii-announced-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T17:50:44+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/turn-order-paper-minis-for-ttrpgs-the-artists-and-creators/",
+      "title": "Turn Order: Paper Minis for TTRPGs - The Artists and Creators",
+      "url": "https://www.tabletopbattles.com/turn-order-paper-minis-for-ttrpgs-the-artists-and-creators/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-08-25T18:00:45+00:00"
     }
   ]
 }
