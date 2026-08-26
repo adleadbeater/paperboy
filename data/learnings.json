@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Dishonored and Deus Ex Designer Founds New Studio Dedicated to Immersive Sims",
-      "tag": "immersive sims",
-      "posted_at": "2026-08-19T14:31:03.085779+00:00",
-      "urls": [
-        "https://www.ign.com/articles/dishonored-deus-ex-designer-stars-new-studio-black-pony-immersive-immersive-sims"
-      ],
-      "article_titles": [
-        "Dishonored, Deus Ex Designer Stars New Studio to Continue Focusing on Immersive Sims"
-      ]
-    },
-    {
       "headline": "Ewan McGregor Is Actively Pitching Dave Filoni on an Obi-Wan Kenobi Return",
       "tag": "obi-wan kenobi / star wars",
       "posted_at": "2026-08-19T14:58:41.292840+00:00",
@@ -1503,6 +1492,23 @@
         "Star Wars Zero Company review",
         "Star Wars Zero Company review: \"XCOM with lightsabers is a truly sweet deal, and it doesn't have to reinvent the tactics wheel to be forceful\""
       ]
+    },
+    {
+      "headline": "Elden Ring Runs Well on Nintendo Switch 2 \u2014 Early Hands-On Reports Are In",
+      "tag": "elden ring",
+      "posted_at": "2026-08-26T14:31:17.345585+00:00",
+      "urls": [
+        "https://kotaku.com/elden-ring-tarnished-edition-nintendo-switch-2-review-2000727880",
+        "https://www.gamesradar.com/games/rpg/elden-ring-on-switch-2-might-be-my-new-go-to-version-of-the-action-rpg-from-now-on/",
+        "https://kotaku.com/elden-ring-tarnished-edition-nintendo-switch-2-review-2000727880",
+        "https://www.gamesradar.com/games/rpg/elden-ring-on-switch-2-might-be-my-new-go-to-version-of-the-action-rpg-from-now-on/"
+      ],
+      "article_titles": [
+        "I Tested Elden Ring On Switch 2 In A Cozy Cafe And It Ran Just Fine, Which Is Great News For A Remarkable Game",
+        "Elden Ring on Switch 2 might be my new go-to version of the action-RPG from now on",
+        "I Tested Elden Ring On Switch 2 In A Cozy Cafe And It Ran Just Fine, Which Is Great News For A Remarkable Game",
+        "Elden Ring on Switch 2 might be my new go-to version of the action-RPG from now on"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1979,6 +1985,94 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-26T13:45:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050883",
+      "title": "Barry Keoghan To Reprise \u2018Top Boy\u2019 Role For Netflix Series \u2018Jonny Boy\u2019",
+      "url": "https://deadline.com/2026/08/barry-keoghan-reprise-top-boy-netflix-jonny-boy-1237050883/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T14:26:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050860",
+      "title": "CAT&Docs Boards Sales On TIFF-Bound Iranian Cosmetic Surgery Expos\u00e9 \u2018Tehran, Under The Skin\u2019 + Trailer",
+      "url": "https://deadline.com/2026/08/catdocs-tiff-iran-cosmetic-tehran-under-skin-trailer-1237050860/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T14:25:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050880",
+      "title": "\u2018Alice And Steve\u2019 Renewed For Season 2 At Disney+",
+      "url": "https://deadline.com/2026/08/alice-and-steve-renewed-season-2-disney-plus-hulu-1237050880/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T14:19:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050854",
+      "title": "Rupert Grint To Join Broadway\u2019s \u2018Harry Potter And the Cursed Child\u2019 In Ron Weasley Reprise",
+      "url": "https://deadline.com/2026/08/rupert-grint-harry-potter-and-the-cursed-child-broadway-1237050854/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T14:18:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843779",
+      "title": "Rupert Grint to Reprise Ron Weasley Role in \u2018Harry Potter and the Cursed Child\u2019 on Broadway",
+      "url": "https://variety.com/2026/legit/global/rupert-grint-ron-weasley-harry-potter-and-the-cursed-child-1236843779/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T14:19:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843745",
+      "title": "Oasis Documentary Captures Gallagher Brothers\u2019 \u2018Moment of Reconciliation\u2019 on Camera, Teases Disney+ EMEA Boss",
+      "url": "https://variety.com/2026/tv/news/oasis-doc-gallagher-reconciliation-disney-1236843745/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T14:16:25+00:00"
+    },
+    {
+      "guid": "FbEBQb3vQGoyawADWzL8wA",
+      "title": "The Scuf Nemesis Pro 8K drops the most frustrating feature of its 2026 lineup so far, but keeps the premium price tag",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-scuf-nemesis-pro-drops-the-most-frustrating-feature-of-its-2026-lineup-so-far-but-keeps-the-premium-price-tag/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T14:26:54+00:00"
+    },
+    {
+      "guid": "Q3jAiFHKATMDvpSr56Mugn",
+      "title": "Lies of P director says Resident Evil Requiem is one of the games he enjoyed most this year because Leon is \"still as cool and tough as ever\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/lies-of-p-director-says-resident-evil-requiem-is-one-of-the-games-he-enjoyed-most-this-year-because-leon-is-still-as-cool-and-tough-as-ever/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T14:24:38+00:00"
+    },
+    {
+      "guid": "UigAePWUMcc5oGoLsjthT5",
+      "title": "Ubisoft starts its own version of Steam Early Access with 4 games available to test, including 2 early prototypes",
+      "url": "https://www.gamesradar.com/games/ubisoft-starts-its-own-version-of-steam-early-access-with-4-games-available-to-test-including-2-early-prototypes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T14:17:27+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205500",
+      "title": "\"It Feels Like I've Left Something Behind For Her, Forever\" - The Untold Secret Behind The Creator Of A ZX Spectrum Classic",
+      "url": "https://www.timeextension.com/news/2026/08/it-feels-like-ive-left-something-behind-for-her-forever-the-untold-secret-behind-the-creator-of-a-zx-spectrum-classic",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1072949",
+      "title": "Chaotic co-op sandbox game Dumpster Gang announced for PC",
+      "url": "https://www.gematsu.com/2026/08/chaotic-co-op-sandbox-game-dumpster-gang-announced-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T14:12:42+00:00"
     }
   ]
 }
