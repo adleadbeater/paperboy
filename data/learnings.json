@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Call of Duty: Modern Warfare 4 Beta Promises to Fix Long-Standing Series Problems",
-      "tag": "call of duty: modern warfare 4",
-      "posted_at": "2026-08-19T17:15:41.532880+00:00",
-      "urls": [
-        "https://www.ign.com/articles/call-of-duty-modern-warfare-4-beta-will-fix-issues-that-have-plagued-the-series-for-the-better-part-of-a-decade",
-        "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-offers-these-rewards-as-you-climb-the-ranks/"
-      ],
-      "article_titles": [
-        "Call of Duty: Modern Warfare 4 Beta Will Fix Issues That Have Plagued the Series for the Better Part of a Decade",
-        "Call Of Duty: Modern Warfare 4 Beta Offers These Rewards As You Climb The Ranks"
-      ]
-    },
-    {
       "headline": "You Can Now Build a Full-Size Original Xbox Out of 3,509 Mattel Bricks",
       "tag": "xbox",
       "posted_at": "2026-08-19T18:31:06.551414+00:00",
@@ -1550,6 +1537,17 @@
         "Ridley Scott Drops \u2018Alien: Covenant\u2019 Sequel Update, Regrets Losing \u2018Blade Runner\u2019 Rights",
         "A sequel to Alien: Covenant about Michael Fassbender's David \"creating a brave new world for himself\" is in the works, according to Ridley Scott"
       ]
+    },
+    {
+      "headline": "The Division 2 Gets New Expansion \"Echoes of Central Park\" Announced",
+      "tag": "the division 2",
+      "posted_at": "2026-08-26T17:31:04.588329+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-division-2-echoes-of-central-park-announced"
+      ],
+      "article_titles": [
+        "The Division 2: Echoes of Central Park Announced"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1562,86 +1560,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-26T23:00:00+00:00"
-    },
-    {
-      "guid": "f4a4faaf-1742-4f7a-8186-4befc50b8d5e",
-      "title": "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More",
-      "url": "https://www.ign.com/articles/exclusive-lego-batman-legacy-of-the-dark-knight-deluxe-edition-mayhem-collection-dlc-trailer-reveals-the-joker-and-harley-quinn-story-mission-and-more",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:10:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237050826",
-      "title": "New York City Landmarks Dazzle For Dolly Parton",
-      "url": "https://deadline.com/2026/08/new-york-dolly-parton-empire-state-building-1237050826/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:29:08+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237050825",
-      "title": "Paramount UK Chief Ben Frow On Legal Battle Over 5 Crime Drama: \u201cWe Take Welfare Very Seriously\u201d",
-      "url": "https://deadline.com/2026/08/paramount-ben-frow-legal-fight-blackbox-1237050825/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:23:42+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237050770",
-      "title": "\u2018Wild Horse Nine\u2019 First Clip: John Malkovich & Sam Rockwell Get Themselves Into Trouble In Martin McDonagh\u2019s Dark Comedy",
-      "url": "https://deadline.com/2026/08/wild-horse-nine-first-clip-john-malkovich-sam-rockwell-1237050770/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:01:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236843642",
-      "title": "Gary Oldman on the \u2018Pleasure\u2019 of Playing \u2018Slow Horses\u2019 Spy Jackson Lamb: \u2018A Man Who Has Single-Handedly Lowered the Public\u2019s Expectation of Personal Hygiene\u2019",
-      "url": "https://variety.com/2026/tv/global/gary-oldman-slow-horses-edinburgh-tv-festival-1236843642/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:26:12+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842405",
-      "title": "\u2018Finding Emily\u2019 Review: The Working Title Romantic Comedy Gets a Fresh, Funny GenZ Makeover",
-      "url": "https://variety.com/2026/film/reviews/finding-emily-review-1236842405/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:16:20+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236681851",
-      "title": "DAZN Buys EverPass Media in Commercial Sports Rights Push",
-      "url": "https://www.hollywoodreporter.com/business/business-news/dazn-buys-everpass-media-sports-rights-1236681851/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:13:41+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236681831",
-      "title": "Jaye P. Morgan, Singer and Bawdy \u2018Gong Show\u2019 Panelist, Dies at 94",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/jaye-p-morgan-dead-gong-show-singer-1236681831/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T13:03:36+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1072889",
-      "title": "ANOMALITH physical edition for PS5 launches November 12 in the west",
-      "url": "https://www.gematsu.com/2026/08/anomalith-physical-edition-for-ps5-launches-november-12-in-the-west",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-26T13:25:23+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1072867",
-      "title": "Hollywood Hustle: A Prop Collector Simulator announced for PC",
-      "url": "https://www.gematsu.com/2026/08/hollywood-hustle-a-prop-collector-simulator-announced-for-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-26T13:14:55+00:00"
     },
     {
       "guid": "https://www.videogameschronicle.com/?p=244810",
@@ -2962,6 +2880,166 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-26T17:00:15+00:00"
+    },
+    {
+      "guid": "78a138cc-3353-426a-83bc-c3842e9e4d44",
+      "title": "Here's Your Last Chance to Get a Nintendo Switch 2 Console for $399.99 Before the September 1 Price Hike",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-deal-last-chance",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:00:00+00:00"
+    },
+    {
+      "guid": "fdf93f85-0116-48bb-bc80-798b61bd076a",
+      "title": "The Division 2: Echoes of Central Park Announced",
+      "url": "https://www.ign.com/articles/the-division-2-echoes-of-central-park-announced",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000728468",
+      "title": "One Of 2025\u2019s Hidden Gems Got A Huge Update And Is Cheaper Than Ever",
+      "url": "https://kotaku.com/battle-suit-aces-price-drop-dlc-roguelite-mode-update-2000728468",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:00:53+00:00"
+    },
+    {
+      "guid": "pK4WgZVmGfTvGgu8dofkEF",
+      "title": "HoYoverse's Nodusfall is free to play but isn't a typical gacha game: 'Characters are not obtained through random draws'",
+      "url": "https://www.pcgamer.com/games/action/hoyoverses-nodusfall-is-free-to-play-but-isnt-a-typical-gacha-game-characters-are-not-obtained-through-random-draws/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:02:24+00:00"
+    },
+    {
+      "guid": "hd8zYS24zuKhqhdhS66APT",
+      "title": "I added a gang notoriety system to GTA 5, but it mostly seems to make them murder everyone except me",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-added-a-gang-notoriety-system-to-gta-5-but-it-mostly-seems-to-make-them-murder-everyone-except-me/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237051280",
+      "title": "\u2018Big Brother: The Group Chat\u2019 Sets Kate Lawler & GK Barry As Hosts Of ITV2\u2019s \u2018BBUK\u2019 Companion Show",
+      "url": "https://deadline.com/2026/08/big-brother-the-group-chat-kate-lawler-gk-barry-hosts-itv2-1237051280/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:17:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237051205",
+      "title": "Rob Bonta Says It\u2019s \u201cTelling\u201d Meta Settled With State AGs In The Midst Of Instagram Head Adam Mosseri\u2019s Testimony & Before Mark Zuckerberg Took The Stand",
+      "url": "https://deadline.com/2026/08/meta-settlement-rob-bonta-instagram-facebook-1237051205/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:10:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048977",
+      "title": "MGM Alternative\u2019s Kitty Gambel Joins Skydance Sports",
+      "url": "https://deadline.com/2026/08/mgm-alternative-kitty-gambel-skydance-sports-1237048977/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:07:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236844098",
+      "title": "Busy Philipps Reveals She Had Brain Tumor Removed: \u2018Grateful That I\u2019m Alive\u2019",
+      "url": "https://variety.com/2026/tv/news/busy-philipps-brain-tumor-removed-1236844098/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:22:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236844095",
+      "title": "Wim-Wenders Produced \u2018I\u2019ll Be Gone in June\u2019 Bought for North America After Cannes Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/wim-wenders-ill-be-gone-in-june-north-america-cannes-kimstim-1236844095/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:16:43+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843545",
+      "title": "Todd Black to Receive Inaugural Career Producer Honor at the 39th Annual Virginia Film Festival (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/todd-black-career-producer-honor-virginia-film-festival-2-1236843545/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236681646",
+      "title": "How \u2018Hannah Montana\u2019 Introduced a New Generation to Dolly Parton",
+      "url": "https://www.hollywoodreporter.com/music/film-tv-music-news/hannah-montana-introduced-new-generation-dolly-parton-1236681646/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T17:03:06+00:00"
+    },
+    {
+      "guid": "UYLwd2Qh4hzQfNPKg92TjT",
+      "title": "Konami wants Silent Hill to have \"an annual release of new games,\" and it's already working on \"many\" unannounced projects",
+      "url": "https://www.gamesradar.com/games/silent-hill/konami-wants-silent-hill-to-have-an-annual-release-of-new-games-and-its-already-working-on-many-unannounced-projects/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:27:37+00:00"
+    },
+    {
+      "guid": "iDhLhKNENDBXeA9BR9n8Pn",
+      "title": "Warlock escapes Baldur's Gate 3's long shadow with a very different take on D&D that I'm happy to roll my dice on",
+      "url": "https://www.gamesradar.com/games/action-rpg/warlock-escapes-baldurs-gate-3s-long-shadow-with-a-very-different-take-on-d-and-d-that-im-happy-to-roll-my-dice-on/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205519",
+      "title": "The Wolf Among Us Remastered Goes Full Noir On Switch This October",
+      "url": "https://www.nintendolife.com/news/2026/08/the-wolf-among-us-remastered-goes-full-noir-on-switch-this-october",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205495",
+      "title": "So, Erm, Where's Forza Horizon 6 on PS5?",
+      "url": "https://www.pushsquare.com/news/2026/08/so-erm-wheres-forza-horizon-6-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073048",
+      "title": "Graveyard Keeper II launches September 22",
+      "url": "https://www.gematsu.com/2026/08/graveyard-keeper-ii-launches-september-22",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:19:23+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073130",
+      "title": "Greak 2: Alliance of the Storms announced for PS5, Xbox Series, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/08/greak-2-alliance-of-the-storms-announced-for-ps5-xbox-series-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:17:43+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073118",
+      "title": "Wolcen II announced for consoles, PC",
+      "url": "https://www.gematsu.com/2026/08/wolcen-ii-announced-for-consoles-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:11:20+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=617680",
+      "title": "D&D: Five Ways To Have A \u2018DMPC\u2019 Without Ruining Your Game",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-five-ways-to-have-a-dmpc-without-ruining-your-game.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T17:00:00+00:00"
     }
   ]
 }
