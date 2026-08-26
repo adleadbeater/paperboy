@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Ewan McGregor Is Actively Pitching Dave Filoni on an Obi-Wan Kenobi Return",
-      "tag": "obi-wan kenobi / star wars",
-      "posted_at": "2026-08-19T14:58:41.292840+00:00",
-      "urls": [
-        "https://www.gamesradar.com/entertainment/star-wars-tv-shows/ewan-mcgregor-wants-to-return-as-obi-wan-so-much-that-he-cornered-star-wars-boss-dave-filoni-on-the-set-of-ahsoka-theres-got-to-be-something/",
-        "https://variety.com/2026/film/global/ewan-mcgregor-obi-wan-kenobi-project-ideas-yoda-ahsoka-1236838079/"
-      ],
-      "article_titles": [
-        "Ewan McGregor wants to return as Obi-Wan so much that he cornered Star Wars boss Dave Filoni on the set of Ahsoka: \"There's got to be something\"",
-        "Ewan McGregor Says Next Obi-Wan Kenobi Project Could Be Tracking Down Yoda or a \u2018Big Love Story\u2019 With Wife Mary Elizabeth Winstead\u2019s \u2018Ahsoka\u2019 Character: \u2018There\u2019s Got to Be Something\u2019"
-      ]
-    },
-    {
       "headline": "The Binding of Isaac: Repentance+ Online Launches the Same Day as GTA 6, and That's Extremely Bold",
       "tag": "the binding of isaac: repentance+",
       "posted_at": "2026-08-19T16:01:19.728789+00:00",
@@ -1509,6 +1496,36 @@
         "I Tested Elden Ring On Switch 2 In A Cozy Cafe And It Ran Just Fine, Which Is Great News For A Remarkable Game",
         "Elden Ring on Switch 2 might be my new go-to version of the action-RPG from now on"
       ]
+    },
+    {
+      "headline": "Tim Curry, Rocky Horror and Video Game Icon, Dies at 80",
+      "tag": "tim curry",
+      "posted_at": "2026-08-26T15:57:02.185944+00:00",
+      "urls": [
+        "https://www.timeextension.com/news/2026/08/hollywood-legend-and-video-game-star-tim-curry-has-passed-away",
+        "https://kotaku.com/tim-curry-famous-for-rocky-horror-and-so-much-more-dies-at-80-2000728396",
+        "https://deadline.com/2026/08/tim-curry-dead-1237051024/",
+        "https://variety.com/2026/film/obituaries-people-news/tim-curry-dead-rocky-horror-picture-show-1236843955/",
+        "https://www.hollywoodreporter.com/movies/movie-news/tim-curry-dead-rocky-horror-picture-show-1236682015/"
+      ],
+      "article_titles": [
+        "Hollywood Legend And Video Game Star Tim Curry Has Passed Away",
+        "Tim Curry, Famous For Rocky Horror And So Much More, Dies At 80",
+        "Tim Curry Dies: \u2018The Rocky Horror Picture Show\u2019 Actor Was 80",
+        "Tim Curry, \u2018Rocky Horror Picture Show\u2019 Star, Dies at 80",
+        "Tim Curry, Outlandish Star of \u2018The Rocky Horror Picture Show,\u2019 Dies at 80"
+      ]
+    },
+    {
+      "headline": "New Persona 4 Revival Trailer Drops, Showing Off Story Details",
+      "tag": "persona 4 revival",
+      "posted_at": "2026-08-26T15:57:02.265334+00:00",
+      "urls": [
+        "https://www.gematsu.com/2026/08/persona-4-revival-story-trailer"
+      ],
+      "article_titles": [
+        "Persona 4 Revival \u2018Story\u2019 trailer"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1531,14 +1548,6 @@
       "published_dt": "2026-08-26T12:00:00+00:00"
     },
     {
-      "guid": "https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers",
-      "title": "Rockstar issues statement on GTA 6 gameplay leaks, says they may include some spoilers",
-      "url": "https://www.eurogamer.net/gta-6-leaks-rockstar-statement-spoilers",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T11:54:55+00:00"
-    },
-    {
       "guid": "mCoY2ntZpcZDtRdzAyPJQ4",
       "title": "Apex Legends is getting 'fatal error' crashes with RX 9070 XT GPUs, but there is a workaround",
       "url": "https://www.pcgamer.com/hardware/graphics-cards/apex-legends-is-getting-fatal-error-crashes-with-rx-9070-xt-gpus-but-there-is-a-workaround/",
@@ -1553,14 +1562,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-26T12:02:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237050794",
-      "title": "SXSW\u00a0Thriller \u2018And Her Body Was Never Found\u2019 Heads To TIFF Market",
-      "url": "https://deadline.com/2026/08/sxsw-thriller-and-her-body-was-never-found-tiff-market-1237050794/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T11:48:20+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236843679",
@@ -1585,14 +1586,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-26T12:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236681827",
-      "title": "Iranian Drama \u2018A Bit of Light\u2019 Sells Wide Ahead of Venice Premiere (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/iran-drama-a-bit-of-light-sells-ahead-of-venice-premiere-1236681827/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-26T11:48:14+00:00"
     },
     {
       "guid": "1863661",
@@ -1641,14 +1634,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-26T12:12:37+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753266",
-      "title": "Netflix\u2019s \u2018Trust Me: The False Prophet\u2019 Leader Samuel Bateman Gets 24 More Years Over Girls Found in Unventilated Trailer",
-      "url": "https://otakukart.com/netflixs-trust-me-the-false-prophet-leader-samuel-bateman-gets-24-more-years-over-girls-found-in-unventilated-trailer/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-26T11:52:37+00:00"
     },
     {
       "guid": "f4a4faaf-1742-4f7a-8186-4befc50b8d5e",
@@ -2281,6 +2266,254 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-26T14:54:25+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=244824",
+      "title": "CD Projekt Red reveals extended gameplay of The Witcher 3 Remastered and Songs of the Past DLC",
+      "url": "https://www.videogameschronicle.com/news/cd-projekt-red-reveals-extended-gameplay-of-the-witcher-3-remastered-and-songs-of-the-past-dlc/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:39:28+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000728396",
+      "title": "Tim Curry, Famous For Rocky Horror And So Much More, Dies At 80",
+      "url": "https://kotaku.com/tim-curry-famous-for-rocky-horror-and-so-much-more-dies-at-80-2000728396",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:54:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237051024",
+      "title": "Tim Curry Dies: \u2018The Rocky Horror Picture Show\u2019 Actor Was 80",
+      "url": "https://deadline.com/2026/08/tim-curry-dead-1237051024/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:45:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050994",
+      "title": "Clive Owen Joins Anya Taylor-Joy In Netflix Drama \u2018How To Kill Your Family\u2019",
+      "url": "https://deadline.com/2026/08/clive-owen-anya-taylor-joy-how-to-kill-your-family-netflix-1237050994/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:39:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237051021",
+      "title": "Emory Cohen To Star In Joshua Ryan Dietz\u2019s \u2018Thick,\u2019 A Dark Comedy Taking On Modern Masculinity",
+      "url": "https://deadline.com/2026/08/emory-cohen-to-star-thick-joshua-ryan-dietz-1237051021/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:29:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843955",
+      "title": "Tim Curry, \u2018Rocky Horror Picture Show\u2019 Star, Dies at 80",
+      "url": "https://variety.com/2026/film/obituaries-people-news/tim-curry-dead-rocky-horror-picture-show-1236843955/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:40:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843929",
+      "title": "Iowa and Montana Ask Supreme Court to Block \u2018Politicized\u2019 Paramount-Warner Bros. Antitrust Suit Filed by California and 11 Other States",
+      "url": "https://variety.com/2026/film/news/iowa-montana-lawsuit-supreme-court-block-politicized-paramount-warner-bros-california-1236843929/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:27:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843949",
+      "title": "Apichatpong Weerasethakul\u2019s Four Restored Films Acquired by The Match Factory for World Sales",
+      "url": "https://variety.com/2026/film/news/apichatpong-weerasethakuls-4k-restorations-match-factory-1236843949/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:26:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682001",
+      "title": "Netflix Reveals Its \u2018Wonka\u2019 Reality Show Trailer With Creepy AI Gene Wilder",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-wonka-reality-show-gene-wilder-1236682001/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:54:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682005",
+      "title": "Naomi Scott, Josh Finan, Nicola Coughlan Set for Adaptation of Roald Dahl\u2019s Short Stories for Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nicola-coughlan-naomi-scott-roald-dahl-stories-netflix-show-1236682005/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:48:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682030",
+      "title": "Megan Ellison\u2019s Annapurna Lays Off 30 Staffers",
+      "url": "https://www.hollywoodreporter.com/news/general-news/megan-ellisons-annapurna-lays-off-30-staffers-1236682030/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:39:53+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682000",
+      "title": "Restored Apichatpong Weerasethakul Films on Sale in Venice",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-match-takes-restored-apichatpong-weerasethakul-films-1236682000/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:33:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682015",
+      "title": "Tim Curry, Outlandish Star of \u2018The Rocky Horror Picture Show,\u2019 Dies at 80",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tim-curry-dead-rocky-horror-picture-show-1236682015/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T15:30:54+00:00"
+    },
+    {
+      "guid": "6zxmCuqAK2DsgFryXxPs7i",
+      "title": "Mihoyo CEO says Monster Hunter-like Nodusfall is very \"un-Mihoyo,\" and in a perfect world that means less gacha gunk",
+      "url": "https://www.gamesradar.com/games/action-rpg/mihoyo-ceo-says-monster-hunter-like-nodusfall-is-very-un-mihoyo-and-in-a-perfect-world-that-means-less-gacha-gunk/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:49:52+00:00"
+    },
+    {
+      "guid": "FSDxQ2MbJy9R2gRgCkVcbG",
+      "title": "JBL proves Gamescom is for headsets too as it unveils the new Quantum 850 alongside a trio of mid-range pairs",
+      "url": "https://www.gamesradar.com/hardware/headsets-headphones/jbl-proves-gamescom-is-for-headsets-too-as-it-unveils-the-new-quantum-850-alongside-a-trio-of-mid-range-pairs/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:48:30+00:00"
+    },
+    {
+      "guid": "h9iztr87qFCAbzBNCVZk3Q",
+      "title": "Xbox announces disc-to-digital conversion plan as part of its \"commitment to game preservation,\" and while it's a good idea the red flags have me scared",
+      "url": "https://www.gamesradar.com/games/xbox-announces-disc-to-digital-conversion-plan-as-part-of-its-commitment-to-game-preservation-and-while-its-a-good-idea-the-red-flags-have-me-scared/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:40:33+00:00"
+    },
+    {
+      "guid": "LCMt3xyiHuFvychatTucoE",
+      "title": "A sequel to Alien: Covenant about Michael Fassbender's David \"creating a brave new world for himself\" is in the works, according to Ridley Scott",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/a-sequel-to-alien-covenant-about-michael-fassbenders-david-creating-a-brave-new-world-for-himself-is-in-the-works-according-to-ridley-scott/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:32:59+00:00"
+    },
+    {
+      "guid": "ZiCgn5ykQ5USRtVA4WCyzL",
+      "title": "Listen up Drift fans, one of the best controllers we've tested so far is getting a full Fortnite makeover",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/listen-up-drift-fans-one-of-the-best-controllers-weve-tested-so-far-is-getting-a-full-fortnite-makeover/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:32:27+00:00"
+    },
+    {
+      "guid": "m2bVmoAR9eoaFyqgXB8HBG",
+      "title": "The Sinking City 2 storage lock code",
+      "url": "https://www.gamesradar.com/games/survival-horror/sinking-city-2-storage-code-combination-hospital/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:24:17+00:00"
+    },
+    {
+      "guid": "1857901",
+      "title": "PlayStation Plus Free Games For September 2026 Revealed",
+      "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-september-2026/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:33:37+00:00"
+    },
+    {
+      "guid": "1863771",
+      "title": "The Most Expensive Xbox Ever Now Includes Another Special Perk",
+      "url": "https://www.gamespot.com/articles/the-most-expensive-xbox-ever-now-includes-another-special-perk/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:36:42+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205503",
+      "title": "Round Up: The Reviews For Elden Ring: Tarnished Edition On Switch 2 Are In",
+      "url": "https://www.nintendolife.com/news/2026/08/round-up-the-reviews-for-elden-ring-tarnished-edition-on-switch-2-are-in",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205492",
+      "title": "PS Plus Essential Games for September 2026 Announced",
+      "url": "https://www.pushsquare.com/news/2026/08/ps-plus-essential-games-for-september-2026-announced",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205514",
+      "title": "Hollywood Legend And Video Game Star Tim Curry Has Passed Away",
+      "url": "https://www.timeextension.com/news/2026/08/hollywood-legend-and-video-game-star-tim-curry-has-passed-away",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:55:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073056",
+      "title": "UN:Me details souls, world, and more",
+      "url": "https://www.gematsu.com/2026/08/unme-details-souls-world-and-more",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:52:11+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073050",
+      "title": "Persona 4 Revival \u2018Story\u2019 trailer",
+      "url": "https://www.gematsu.com/2026/08/persona-4-revival-story-trailer",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:36:04+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071546",
+      "title": "PlayStation Plus Monthly Games lineup for September 2026 announced",
+      "url": "https://www.gematsu.com/2026/08/playstation-plus-monthly-games-lineup-for-september-2026-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:33:11+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073036",
+      "title": "NOSTALGIC TRAIN now available for Switch 2",
+      "url": "https://www.gematsu.com/2026/08/nostalgic-train-now-available-for-switch-2",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:26:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753327",
+      "title": "Jelly Roll Says Trump \u201cFumbled\u201d Flag-Waving and Jokes About His Weight During Jimmy Kimmel Live Monologue",
+      "url": "https://otakukart.com/jelly-roll-says-trump-fumbled-flag-waving-and-jokes-about-his-weight-during-jimmy-kimmel-live-monologue/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:46:30+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753344",
+      "title": "Eiichiro Oda Confirms One Piece Manga Will Run \u201cLonger Than Four Years\u201d With Ending Still Far Away",
+      "url": "https://otakukart.com/eiichiro-oda-confirms-one-piece-manga-will-run-longer-than-four-years-with-ending-still-far-away/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:28:00+00:00"
+    },
+    {
+      "guid": "t3_1vz0wdi",
+      "title": "Jez Corden says his sources have told him the entire supply chain for optical disc drive components is collapsing",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vz0wdi/jez_corden_says_his_sources_have_told_him_the/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T15:50:32+00:00"
     }
   ]
 }
