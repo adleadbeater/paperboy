@@ -1481,102 +1481,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "ee0c23f2-50c8-4c4c-b31d-e70c06030efc",
-      "title": "For Today Only, Best Buy Has a 5TB Seagate Portable Hard Drive for $169.99",
-      "url": "https://www.ign.com/articles/5tb-seagate-portable-hard-drive-deal-august-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T22:10:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000728082",
-      "title": "I Tried To Play Steam\u2019s Newest Hit Friendslop Game And Immediately Got Murdered By A Spider Crab",
-      "url": "https://kotaku.com/how-to-fish-spider-crab-murder-2000728082",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T22:00:15+00:00"
-    },
-    {
-      "guid": "hRdnsZxAmjMqmgKpCJrYNM",
-      "title": "Metro 2039 gameplay trailer looks like bad news for your aging graphics card",
-      "url": "https://www.pcgamer.com/games/fps/metro-2039-gameplay-trailer-looks-like-bad-news-for-your-aging-graphics-card/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T22:07:05+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049957",
-      "title": "Leonard Morpurgo Dies: Longtime Publicist For Universal, Columbia, Rogers & Cowan, More Was 93",
-      "url": "https://deadline.com/2026/08/leonard-morpurgo-dead-1237049957/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T21:59:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237050369",
-      "title": "CBS News To Air Special Commemorating The Life Of Dolly Parton",
-      "url": "https://deadline.com/2026/08/cbs-news-dolly-parton-special-1237050369/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T21:56:13+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237050380",
-      "title": "Julius Onah Signs With Blue Marble Management",
-      "url": "https://deadline.com/2026/08/julius-onah-blue-marble-management-1237050380/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T21:53:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236842066",
-      "title": "How \u2018The Pitt\u2019 Production Designer Expanded the Emergency Room for Season 2",
-      "url": "https://variety.com/2026/artisans/news/the-pitt-production-designer-nina-ruscio-season-2-changes-1236842066/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T22:08:05+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236843179",
-      "title": "Dolly Parton Tribute Specials Set on CBS, CMT",
-      "url": "https://variety.com/2026/tv/news/dolly-parton-tribute-special-cbs-cmt-1236843179/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T21:54:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236681335",
-      "title": "Trump Orders Flags to Fly at Half-Staff in Wake of Dolly Parton\u2019s Death: \u201cThe World Loves You\u201d",
-      "url": "https://www.hollywoodreporter.com/music/music-news/trump-dolly-parton-death-flags-fly-half-staff-1236681335/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T22:09:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236681345",
-      "title": "Snoop Dogg Biopic Finds Its Tupac Shakur in Camron Jones (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/snoop-dogg-biopic-finds-its-tupac-shakur-camron-jones-1236681345/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-25T22:00:00+00:00"
-    },
-    {
-      "guid": "P5ehuWpZEPr7647KY29rAf",
-      "title": "The Witcher 3 Remastered has \"improved combat,\" which hopefully fixes the 2015 RPG classic's biggest problem",
-      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-has-improved-combat-which-hopefully-fixes-the-2015-rpg-classics-biggest-problem/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T21:54:54+00:00"
-    },
-    {
-      "guid": "t3_1vye2dd",
-      "title": "XCancel is dead",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vye2dd/xcancel_is_dead/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-25T22:03:08+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000728088",
       "title": "The Hunt For The GTA 6 Leaker Seems To Be Getting Closer To Its Target",
       "url": "https://kotaku.com/the-hunt-for-the-gta-6-leaker-seems-to-be-getting-closer-to-its-target-2000728088",
@@ -1847,6 +1751,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-26T01:41:08+00:00"
+    },
+    {
+      "guid": "710686be-3e8e-4c89-97ae-a63abe10cb37",
+      "title": "Toxic: A Fairy Tale for Grown-Ups Review",
+      "url": "https://www.ign.com/articles/toxic-a-fairy-tale-for-grown-ups-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T02:00:00+00:00"
     }
   ]
 }
