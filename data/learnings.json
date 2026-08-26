@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Sony Is Scaling Back Its Horizon Live Service Game as the Next Single-Player Entry Remains \"Far, Far Away\"",
-      "tag": "horizon",
-      "posted_at": "2026-08-19T13:17:47.471395+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/08/playstation-scaling-back-horizon-live-service-ps5-game-as-sony-failures-continue",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vslckj/jason_schreier_the_next_mainline_singleplayer/"
-      ],
-      "article_titles": [
-        "PlayStation Scaling Back Horizon Live Service PS5 Game as Sony Failures Continue",
-        "Jason Schreier: \"the next mainline single-player Horizon game is still far, far away\""
-      ]
-    },
-    {
       "headline": "Dishonored and Deus Ex Designer Founds New Studio Dedicated to Immersive Sims",
       "tag": "immersive sims",
       "posted_at": "2026-08-19T14:31:03.085779+00:00",
@@ -1453,6 +1440,17 @@
       "article_titles": [
         "Rockstar issues statement on GTA 6 gameplay leaks, says they may include some spoilers"
       ]
+    },
+    {
+      "headline": "Ubisoft Sold Heroes of Might and Magic 3 on Steam for $10 and Forgot to Include the Actual Game",
+      "tag": "heroes of might and magic 3",
+      "posted_at": "2026-08-26T13:30:19.210706+00:00",
+      "urls": [
+        "https://kotaku.com/ubisoft-charges-steam-players-10-for-90s-classic-heroes-of-might-and-magic-3-and-forgets-to-actually-give-them-the-game-2000728357"
+      ],
+      "article_titles": [
+        "Ubisoft Charges Steam Players $10 For \u201990s Classic Heroes Of Might And Magic 3 And Forgets To Actually Give Them The Game"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1593,6 +1591,158 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-26T11:52:37+00:00"
+    },
+    {
+      "guid": "f4a4faaf-1742-4f7a-8186-4befc50b8d5e",
+      "title": "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More",
+      "url": "https://www.ign.com/articles/exclusive-lego-batman-legacy-of-the-dark-knight-deluxe-edition-mayhem-collection-dlc-trailer-reveals-the-joker-and-harley-quinn-story-mission-and-more",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:10:00+00:00"
+    },
+    {
+      "guid": "eee028cd-ef17-480c-9476-ca94f6d5a58b",
+      "title": "Star Wars Zero Company Review",
+      "url": "https://www.ign.com/articles/star-wars-zero-company-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000728357",
+      "title": "Ubisoft Charges Steam Players $10 For \u201990s Classic Heroes Of Might And Magic 3 And Forgets To Actually Give Them The Game",
+      "url": "https://kotaku.com/ubisoft-charges-steam-players-10-for-90s-classic-heroes-of-might-and-magic-3-and-forgets-to-actually-give-them-the-game-2000728357",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:00:42+00:00"
+    },
+    {
+      "guid": "BHPrnbhDYVeqgkfmrzgrNA",
+      "title": "Star Wars Zero Company review",
+      "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050826",
+      "title": "New York City Landmarks Dazzle For Dolly Parton",
+      "url": "https://deadline.com/2026/08/new-york-dolly-parton-empire-state-building-1237050826/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:29:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050825",
+      "title": "Paramount UK Chief Ben Frow On Legal Battle Over 5 Crime Drama: \u201cWe Take Welfare Very Seriously\u201d",
+      "url": "https://deadline.com/2026/08/paramount-ben-frow-legal-fight-blackbox-1237050825/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:23:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050770",
+      "title": "\u2018Wild Horse Nine\u2019 First Clip: John Malkovich & Sam Rockwell Get Themselves Into Trouble In Martin McDonagh\u2019s Dark Comedy",
+      "url": "https://deadline.com/2026/08/wild-horse-nine-first-clip-john-malkovich-sam-rockwell-1237050770/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:01:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237050419",
+      "title": "British Drama Series \u2018Secret Service\u2019 Starring Gemma Arterton Lands At MGM+",
+      "url": "https://deadline.com/2026/08/secret-service-gemma-arterton-mgm-1237050419/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843642",
+      "title": "Gary Oldman on the \u2018Pleasure\u2019 of Playing \u2018Slow Horses\u2019 Spy Jackson Lamb: \u2018A Man Who Has Single-Handedly Lowered the Public\u2019s Expectation of Personal Hygiene\u2019",
+      "url": "https://variety.com/2026/tv/global/gary-oldman-slow-horses-edinburgh-tv-festival-1236843642/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:26:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236842405",
+      "title": "\u2018Finding Emily\u2019 Review: The Working Title Romantic Comedy Gets a Fresh, Funny GenZ Makeover",
+      "url": "https://variety.com/2026/film/reviews/finding-emily-review-1236842405/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:16:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843699",
+      "title": "Women\u2019s Basketball League Unrivaled Raises More Than $100 Million From Carmelo Anthony, Ashton Kutcher, Alex Morgan, University of California Fund and More",
+      "url": "https://variety.com/2026/tv/news/unrivaled-raises-more-than-100-million-carmelo-anthony-ashton-kutcher-alex-morgan-uc-investments-1236843699/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T12:59:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236681851",
+      "title": "DAZN Buys EverPass Media in Commercial Sports Rights Push",
+      "url": "https://www.hollywoodreporter.com/business/business-news/dazn-buys-everpass-media-sports-rights-1236681851/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:13:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236681831",
+      "title": "Jaye P. Morgan, Singer and Bawdy \u2018Gong Show\u2019 Panelist, Dies at 94",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jaye-p-morgan-dead-gong-show-singer-1236681831/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-26T13:03:36+00:00"
+    },
+    {
+      "guid": "pDFfx9UJQvQeScebSKKPoX",
+      "title": "Star Wars Zero Company review: \"XCOM with lightsabers is a truly sweet deal, and it doesn't have to reinvent the tactics wheel to be forceful\"",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205487",
+      "title": "Video: Here's Your Best Look At Mega Man: Dual Override Running On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/08/video-heres-your-best-look-at-mega-man-dual-override-running-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121652",
+      "title": "Review: Fields of Mistria Is the Next Great Farming Life Sim",
+      "url": "https://www.siliconera.com/review-fields-of-mistria-is-the-next-great-farming-life-sim/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-200688",
+      "title": "\"\ufeffSomething Is Coming... Back!\" - A Legacy Evercade Collection Is Being Re-Released",
+      "url": "https://www.timeextension.com/news/2026/08/something-is-coming-back-a-legacy-evercade-collection-is-being-re-released",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1072889",
+      "title": "ANOMALITH physical edition for PS5 launches November 12 in the west",
+      "url": "https://www.gematsu.com/2026/08/anomalith-physical-edition-for-ps5-launches-november-12-in-the-west",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T13:25:23+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1072867",
+      "title": "Hollywood Hustle: A Prop Collector Simulator announced for PC",
+      "url": "https://www.gematsu.com/2026/08/hollywood-hustle-a-prop-collector-simulator-announced-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-26T13:14:55+00:00"
     }
   ]
 }
