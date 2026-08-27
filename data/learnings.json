@@ -1528,188 +1528,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "PbWshTrN65AtqFtaC3DgRi",
-      "title": "'It's just not our money to keep': Handheld console maker Panic is refunding US tariff fees to its customers",
-      "url": "https://www.pcgamer.com/gaming-industry/its-just-not-our-money-to-keep-handheld-console-maker-panic-is-refunding-us-tariff-fees-to-its-customers/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:36:09+00:00"
-    },
-    {
-      "guid": "58miyFYrsC6dBXgznDmVdM",
-      "title": "Warlock's take on D&D magic might make me willing to sell my soul",
-      "url": "https://www.pcgamer.com/games/action/warlocks-take-on-d-and-d-magic-might-make-me-willing-to-sell-my-soul/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:30:36+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237051838",
-      "title": "Rosie O\u2019Donnell Joins Producing Team Of London-Bound Musical \u2018Indigo\u2019 About Autistic Teenager",
-      "url": "https://deadline.com/2026/08/rosie-odonnell-indigo-london-theater-1237051838/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237060796",
-      "title": "Emma Thompson\u2019s \u2018Nanny McPhee\u2019 Musical Sets Summer 2027 London Debut",
-      "url": "https://deadline.com/2026/08/emma-thompson-nanny-mcphee-musical-london-1237060796/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:59:47+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237060764",
-      "title": "Prime Video Revs Up Doc Series About F1 Driver Lando Norris",
-      "url": "https://deadline.com/2026/08/prime-video-lando-norris-doc-series-1237060764/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:45:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237060798",
-      "title": "Acclaimed Pulitzer Finalist \u2018Here There Are Blueberries\u2019 To Open On Broadway This Fall",
-      "url": "https://deadline.com/2026/08/here-there-are-blueberries-broadway-debut-1237060798/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:43:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237049201",
-      "title": "Channel 4 Plays Down Report Of \u2018Bake Off\u2019 Rift Between Nigella Lawson And Paul Hollywood",
-      "url": "https://deadline.com/2026/08/channel-4-no-bake-off-nigella-lawson-paul-hollywood-rift-1237049201/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:41:52+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236844992",
-      "title": "Lando Norris Docuseries Set at Prime Video",
-      "url": "https://variety.com/2026/tv/global/lando-norris-docuseries-prime-video-1236844992/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:56:52+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236844959",
-      "title": "BBC Motoring Show \u2018Top Gear,\u2019 Whose Hosts Have Included Jeremy Clarkson and Matt LeBlanc, to Return",
-      "url": "https://variety.com/2026/tv/global/bbc-top-gear-return-1236844959/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:53:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236844932",
-      "title": "Eras Tour Opener Marie Ulven \u2013 Girl in Red \u2013 Is Not Playing Herself in \u2018Low Expectations\u2019: \u2018I Have a Real Interest in Acting\u2019",
-      "url": "https://variety.com/2026/film/global/marie-ulven-girl-in-red-low-expectations-acting-1236844932/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:32:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236683037",
-      "title": "\u2018Six\u2019 Will End Five-Year Broadway Run in January",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/six-closing-january-2027-end-five-year-broadway-run-1236683037/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:46:15+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236683027",
-      "title": "Authentic Brands Group Acquires Drake\u2019s Lifestyle Brand OVO",
-      "url": "https://www.hollywoodreporter.com/business/business-news/drake-sells-ovo-authentic-brands-group-1236683027/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T13:31:59+00:00"
-    },
-    {
-      "guid": "Cp4dzxwKeHVWKktBbVv8Vc",
-      "title": "Persona 6 producer doesn't want \"to make games for the global market,\" only something \"we ourselves genuinely find exciting\"",
-      "url": "https://www.gamesradar.com/games/persona/persona-6-producer-doesnt-want-to-make-games-for-the-global-market-only-something-we-ourselves-genuinely-find-exciting/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T13:39:03+00:00"
-    },
-    {
-      "guid": "afzaNeq27wx48CfadpjefF",
-      "title": "Google's new Pok\u00e9mon Sleep special edition Fitbit slaps Pikachu on your wrist",
-      "url": "https://www.gamesradar.com/toys-collectibles/googles-new-pokemon-sleep-special-edition-fitbit-slaps-pikachu-on-your-wrist/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T13:38:02+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121825",
-      "title": "Sega and Atlus TGS 2026 Games Include Persona 4, Sonic Spin-offs",
-      "url": "https://www.siliconera.com/sega-and-atlus-tgs-2026-games-include-persona-4-sonic-spin-offs/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205555",
-      "title": "A Year After Being Mysteriously Delisted, EGGCONSOLE's Puyo Puyo PC-9801 Reissue Returns To Nintendo Switch",
-      "url": "https://www.timeextension.com/news/2026/08/a-year-after-being-mysteriously-delisted-eggconsoles-puyo-puyo-pc-9801-reissue-returns-to-nintendo-switch",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T14:00:00+00:00"
-    },
-    {
-      "guid": "0bebd106-99c6-42cb-81c7-1a7899ed9860",
-      "title": "Reminiscent: Art of Zeronis Celebrates the Iconic League of Legends Artist",
-      "url": "https://www.ign.com/articles/reminiscent-art-of-zeronis-celebrates-the-iconic-league-of-legends-artist",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T14:00:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/gta-6-extended-look-netflix-live-report",
       "title": "GTA 6 Netflix extended look live report - all the gameplay and revelations from Rockstar's Grand Theft Auto 6 premiere",
       "url": "https://www.eurogamer.net/gta-6-extended-look-netflix-live-report",
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-08-27T14:03:38+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000726771",
-      "title": "Dolly Parton\u2019s Tennessee Theme Park Is Creating A New Mountain Mythology",
-      "url": "https://kotaku.com/dolly-partons-tennessee-theme-park-is-creating-a-new-mountain-mythology-2000726771",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T14:00:25+00:00"
-    },
-    {
-      "guid": "cSmpyAJyuntePJBwBNSYqn",
-      "title": "Alienware AW3926QW review",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/alienware-aw3926qw-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T14:00:26+00:00"
-    },
-    {
-      "guid": "7k9p7fBtPmsF6DhJiD8aAK",
-      "title": "The best talents for each specialization in Star Wars Zero Company",
-      "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-best-talents/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T14:00:00+00:00"
-    },
-    {
-      "guid": "rfzm8tLpdJyCwB8rmdFmqP",
-      "title": "How to respec your class and abilities in Star Wars Zero Company",
-      "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-respec-change-class/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T14:00:00+00:00"
-    },
-    {
-      "guid": "HRvDc3fy8aULiU47vHTSCN",
-      "title": "What's the best starting class in Star Wars Zero Company?",
-      "url": "https://www.pcgamer.com/games/strategy/star-wars-zero-company-best-class-specialization/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T14:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237060803",
@@ -2950,6 +2774,150 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-08-27T17:15:00+00:00"
+    },
+    {
+      "guid": "v6coZ6dXoYWGN79XRs2yJk",
+      "title": "Grand Theft Auto 6 reveal live coverage: breaking down the Netflix 'extended look' event",
+      "url": "https://www.pcgamer.com/news/live/grand-theft-auto-6-reveal-live-coverage-breaking-down-the-netflix-extended-look-event/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:30:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237060919",
+      "title": "Amazon MGM Orders Penn Badgley Murder Mystery Series \u2018Everyone In My Family Has Killed Someone\u2019",
+      "url": "https://deadline.com/2026/08/penn-badgley-everyone-in-my-family-has-killed-someone-show-1237060919/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061059",
+      "title": "\u2018The Pitt\u2019 & \u2018The Celebrity Traitors\u2019 Win Prizes At Edinburgh TV Festival Awards",
+      "url": "https://deadline.com/2026/08/the-pitt-the-traitors-edinburgh-tv-festival-awards-1237061059/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049205",
+      "title": "BBC Boss Matt Brittin Outlines Concept For YouTube-Style \u201cPublic Service Algorithm\u201d Propelled By Creators",
+      "url": "https://deadline.com/2026/08/matt-brittin-bbc-iplayer-overhaul-public-servic-algorithm-1237049205/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:37:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237051516",
+      "title": "Tyler Perry\u2019s \u2018Divorced Sistas\u2019 & \u2018Zatima\u2019 Among 4 Former BET+ Series Renewed By Paramount+",
+      "url": "https://deadline.com/2026/08/divorced-sistas-zatima-family-business-black-hamptons-renewed-1237051516/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845330",
+      "title": "Penn Badgley to Lead \u2018Everyone in My Family Has Killed Someone\u2019 Series at Amazon",
+      "url": "https://variety.com/2026/tv/news/penn-badgley-everyone-my-family-has-killed-someone-amazon-1236845330/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845381",
+      "title": "CNN Apologizes for Mistakenly Airing Photo of Dolly Parton Impersonator in Report on Late Singer",
+      "url": "https://variety.com/2026/tv/news/cnn-apologizes-photo-dolly-parton-impersonator-1236845381/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:48:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236844951",
+      "title": "BBC Director-General Matt Brittin Says Its News Service Is \u2018A Disinfectant for Misinformation\u2019",
+      "url": "https://variety.com/2026/tv/global/matt-brittin-bbc-director-general-edinburgh-tv-festival-1236844951/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:42:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236845193",
+      "title": "Brittany Snow, Ava Phillippe, Dave Grohl, Alexandra Shipp and More Celeb Photos at Mother Store Opening in Beverly Hills",
+      "url": "https://variety.com/gallery/brittany-snow-ava-phillippe-dave-grohl-alexandra-shippmother-store-beverly-hills/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:35:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683311",
+      "title": "Penn Badgley to Star in Murder Mystery \u2018Everyone in My Family Has Killed Someone\u2019 at Prime Video",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/penn-badgley-everyone-in-my-family-has-killed-someone-prime-video-1236683311/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T18:00:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683282",
+      "title": "Billy Porter Set to Receive Legacy Award From Elizabeth Taylor AIDS Foundation",
+      "url": "https://www.hollywoodreporter.com/news/general-news/billy-porter-legacy-award-elizabeth-taylor-aids-foundation-1236683282/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:52:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683199",
+      "title": "How Dolly Parton Crossed Over Into Hollywood \u2014 and America\u2019s Hearts",
+      "url": "https://www.hollywoodreporter.com/music/music-features/dolly-parton-hollywood-impact-america-hearts-1236683199/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:42:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683074",
+      "title": "Will Forte Says Glowing Reviews for \u2018Coyote vs. Acme\u2019 \u201cMake It Feel Like You\u2019re Not Crazy,\u201d Admits \u201cI Felt Gaslit For a While\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/will-forte-reviews-coyote-vs-acme-gaslit-1236683074/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:42:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683165",
+      "title": "Intense Six Flags Coaster Closed After Two Riders Suffer Brain Hemorrhages: \u201cIt\u2019s Got to Stop\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/six-flags-x2-coaster-closed-brain-injuries-1236683165/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:37:14+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683142",
+      "title": "\u2018Big Brother\u2019 Hits Milestone 1,000th Episode on a Ratings Upswing",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/big-brother-season-28-ratings-1000-episodes-1236683142/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121844",
+      "title": "Ryza Dressed as a Bride for a Wedding With Atelier Ryza 3 Figure",
+      "url": "https://www.siliconera.com/ryza-dressed-as-a-bride-for-a-wedding-with-atelier-ryza-3-figure/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T18:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753522",
+      "title": "hololive English -Justice- POP-UP STORE -City Groove Announces Five-City U.S. Tour",
+      "url": "https://otakukart.com/hololive-english-justice-pop-up-store-city-groove-announces-five-city-u-s-tour/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T18:00:22+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753505",
+      "title": "Mebius Dust Anime Original Soundtrack by D\u00c9 D\u00c9 MOUSE Gets September 2026 Release Date",
+      "url": "https://otakukart.com/mebius-dust-anime-original-soundtrack-by-de-de-mouse-gets-september-2026-release-date/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T17:42:36+00:00"
     }
   ]
 }
