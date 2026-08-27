@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Riot Games Is Killing 2XKO \u2014 Its Long-Awaited Fighting Game Is Done",
-      "tag": "2xko",
-      "posted_at": "2026-08-20T19:30:49.147394+00:00",
-      "urls": [
-        "https://kotaku.com/riot-will-end-active-development-on-2xko-at-the-end-of-the-year-2000726270"
-      ],
-      "article_titles": [
-        "Riot Will End Active Development On 2XKO At The End Of The Year"
-      ]
-    },
-    {
       "headline": "Yahya Abdul-Mateen II Calls Out Marvel Over Wonder Man Cancellation and Blade Delays: \"Change That Narrative\"",
       "tag": "marvel",
       "posted_at": "2026-08-20T20:14:58.843344+00:00",
@@ -1535,251 +1524,37 @@
       "article_titles": [
         "Star Citizen's Squadron 42 delayed again, this time to avoid 'the attention buzz saw of GTA 6' says Chris Roberts"
       ]
+    },
+    {
+      "headline": "DC Studios' Get Jiro Anime Gets a Premiere Date and a Bloody First Trailer",
+      "tag": "get jiro",
+      "posted_at": "2026-08-27T19:31:03.179794+00:00",
+      "urls": [
+        "https://otakukart.com/adult-swims-get-jiro-anime-series-gets-october-3-premiere-date-and-official-trailer/",
+        "https://www.hollywoodreporter.com/tv/tv-news/anthony-bourdain-get-jiro-premiere-date-trailer-adult-swim-1236682706/"
+      ],
+      "article_titles": [
+        "Adult Swim\u2019s Get Jiro Anime Series Gets October 3 Premiere Date and Official Trailer",
+        "Anthony Bourdain\u2019s \u2018Get Jiro\u2019 Lands Premiere Date and Bloody Trailer From DC Studios (Exclusive)"
+      ]
+    },
+    {
+      "headline": "Stellar Blade's Switch 2 Version Will Be Playable at TGS 2026",
+      "tag": "stellar blade",
+      "posted_at": "2026-08-27T19:31:03.260844+00:00",
+      "urls": [
+        "https://www.siliconera.com/stellar-blade-switch-2-version-will-be-playable-at-tgs-2026/",
+        "https://www.siliconera.com/stellar-blade-switch-2-version-will-be-playable-at-tgs-2026/"
+      ],
+      "article_titles": [
+        "Stellar Blade Switch 2 Version Will Be Playable at TGS 2026",
+        "Stellar Blade Switch 2 Version Will Be Playable at TGS 2026"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "bf8fd3a5-1ac5-42aa-b7c1-676189c57415",
-      "title": "Peter Cullen, Optimus Prime in Transformers, Dies at 85",
-      "url": "https://www.ign.com/articles/peter-cullen-optimus-prime-in-transformers-dies-at-85",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:01:30+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000728825",
-      "title": "GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash",
-      "url": "https://kotaku.com/gta6-grand-theft-auto-6-leaks-cyberleek-memecoin-rockstar-cash-out-2000728825",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:15:10+00:00"
-    },
-    {
-      "guid": "TGhAQm6ma2D2Fi9Uwd3kBo",
-      "title": "Xbox discs will now grant digital access to games as part of Microsoft's self-proclaimed 'broader commitment to game preservation'",
-      "url": "https://www.pcgamer.com/hardware/xbox-discs-will-now-grant-digital-access-to-games-as-part-of-microsofts-self-proclaimed-broader-commitment-to-game-preservation/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:22:08+00:00"
-    },
-    {
-      "guid": "9wiZuqKJXE5JQDwRPmMJv9",
-      "title": "Holy crap, it's happening: Dwarf Fortress gets its first Myth and Magic update later this year, bringing each player's world its own procedural magic system",
-      "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:12:30+00:00"
-    },
-    {
-      "guid": "HeWcj4ZFivwv2jFx6ne8uJ",
-      "title": "Almost 20 years later, Arkane's founder says he understands why Valve cancelled the Ravenholm game that never was: 'It all came down to the economics'",
-      "url": "https://www.pcgamer.com/games/fps/almost-20-years-later-arkanes-founder-says-he-understands-why-valve-cancelled-the-ravenholm-game-that-never-was-it-all-came-down-to-the-economics/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:11:38+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237060810",
-      "title": "Anonymous Content Names Steve Shikiya Chief Operating Officer",
-      "url": "https://deadline.com/2026/08/anonymous-content-steve-shikiya-chief-operating-officer-1237060810/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:15:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237060833",
-      "title": "\u2018Youth\u2019 Trailer: Sharon Horgan Is Searching For Sex & Love In HBO Comedy: \u201cIt\u2019s Just An Age Thing\u201d",
-      "url": "https://deadline.com/2026/08/youth-trailer-sharon-horgan-hbo-comedy-1237060833/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:14:52+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237060853",
-      "title": "Peter Cullen Dies: Voice Of Optimus Prime In \u2018Transformers\u2019 Was 85",
-      "url": "https://deadline.com/2026/08/peter-cullen-dead-optimus-prime-transformers-1237060853/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:04:08+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237060762",
-      "title": "Cercamon Boards John Trengove\u2019s Toronto-Bound 1970s Apartheid Era Drama \u2018The Smell Of Apples\u2019; Unveils Trailer",
-      "url": "https://deadline.com/2026/08/cercamon-john-trengove-toronto-smell-apples-trailer-1237060762/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:04:04+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236845166",
-      "title": "Dolby Laboratories Hires Meta, Amazon and Xbox Alum Marc Whitten as CEO, as Kevin Yeaman Retires",
-      "url": "https://variety.com/2026/film/news/dolby-marc-whitten-ceo-kevin-yeaman-retires-1236845166/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:28:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236845232",
-      "title": "Utopai Studios Unifies Asia-Pacific Operations, Taps Hyun Park to Lead Region (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/utopai-studios-apac-hyun-park-president-1236845232/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:23:15+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236844997",
-      "title": "Anonymous Content Names Steve Shikiya Chief Operating Officer",
-      "url": "https://variety.com/2026/biz/news/anonymous-content-steve-shikiya-chief-operating-officer-1236844997/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236683080",
-      "title": "Pulitzer Prize Finalist \u2018Here There Are Blueberries\u2019 Set For Broadway",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/here-there-are-blueberries-broadway-1236683080/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:22:33+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236683088",
-      "title": "Joe Russo Says Re-Watching \u2018Avengers: Endgame\u2019 Is \u201cRequired\u201d to Understand \u2018Avengers: Doomsday\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-encore-doomsday-russo-1236683088/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:19:17+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236682283",
-      "title": "Anonymous Content Taps Former Imagine Exec Steve Shikiya as COO",
-      "url": "https://www.hollywoodreporter.com/business/business-news/anonymous-content-steve-shikiya-coo-executive-leadership-1236682283/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236683084",
-      "title": "Jacob Tremblay Doesn\u2019t Like the World He Sees in Netflix\u2019s \u2018Unabomber\u2019 Trailer",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jacob-tremblay-as-unabomber-ted-kaczynski-netflix-trailer-1236683084/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:09:33+00:00"
-    },
-    {
-      "guid": "V64XtzSaKc4bxPKTyzK7ML",
-      "title": "GTA 6: An Extended Look will be 26 minutes long and features gameplay captured on a PS5",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-an-extended-look-will-be-26-minutes-long-and-features-gameplay-captured-on-a-ps5/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:11:05+00:00"
-    },
-    {
-      "guid": "zJ5tny6kwaFTAmQZBELVEP",
-      "title": "Persona 4 Revival is a faithful JRPG remake because the original's only gotten more relevant: \"We live in an age where information is everywhere\"",
-      "url": "https://www.gamesradar.com/games/persona/persona-4-revival-is-a-faithful-jrpg-remake-because-the-originals-only-gotten-more-relevant-we-live-in-an-age-where-information-is-everywhere/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:08:51+00:00"
-    },
-    {
-      "guid": "iDeLV4m2kkvxJJRjnVmQUM",
-      "title": "Days before movies like Terminator 2 are pulled from PlayStation libraries, StudioCanal launches new catalog label to restore classic movies \"as they were meant to be seen\"",
-      "url": "https://www.gamesradar.com/entertainment/streaming-services/days-before-movies-like-terminator-2-are-pulled-from-playstation-libraries-studiocanal-launches-new-catalog-label-to-restore-classic-movies-as-they-were-meant-to-be-seen/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:06:59+00:00"
-    },
-    {
-      "guid": "1864975",
-      "title": "Star Wars: Galactic Racer Wants To Break Racing Games Out Of Their Comfort Zone",
-      "url": "https://www.gamespot.com/articles/star-wars-galactic-racer-wants-to-break-racing-games-out-of-their-comfort-zone/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:04:40+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205584",
-      "title": "Stuntman: Hollywood Welcomes You to Jurassic World in Latest Trailer",
-      "url": "https://www.pushsquare.com/news/2026/08/stuntman-hollywood-welcomes-you-to-jurassic-world-in-latest-trailer",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1073753",
-      "title": "Scott Pilgrim EX DLC \u2018Back in the Band\u2019 now available alongside \u2018Coin-Op Chaos\u2019 update",
-      "url": "https://www.gematsu.com/2026/08/scott-pilgrim-ex-dlc-back-in-the-band-now-available-alongside-coin-op-chaos-update",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:24:54+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1040782",
-      "title": "The Seance of Blake Manor coming to PS5, Xbox Series, and Switch 2 on October 27",
-      "url": "https://www.gematsu.com/2026/08/the-seance-of-blake-manor-coming-to-ps5-xbox-series-and-switch-2-on-october-27",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:06:46+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1073740",
-      "title": "Armatus launches January 7, 2027",
-      "url": "https://www.gematsu.com/2026/08/armatus-launches-january-7-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:05:09+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1073746",
-      "title": "Deep Dish Dungeon launches October 13",
-      "url": "https://www.gematsu.com/2026/08/deep-dish-dungeon-launches-october-13",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:04:29+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1073555",
-      "title": "Joe & Mac Retro Collection launches October 29",
-      "url": "https://www.gematsu.com/2026/08/joe-mac-retro-collection-launches-october-29",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:01:11+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753488",
-      "title": "Netflix Reveals Brad Pitt\u2019s Cliff Booth Movie Title, Confirms Exclusive Two-Week Theatrical IMAX Run Starting November 25",
-      "url": "https://otakukart.com/netflix-reveals-brad-pitts-cliff-booth-movie-title-confirms-exclusive-two-week-theatrical-imax-run-starting-november-25/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:23:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753482",
-      "title": "Netflix Says \u201cAll Bets Are Off\u201d on Meghan Markle Joining The Gentlemen Season 3",
-      "url": "https://otakukart.com/netflix-says-all-bets-are-off-on-meghan-markle-joining-the-gentlemen-season-3/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:12:06+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753481",
-      "title": "Square Enix Says Kingdom Hearts 4 Will Have Fewer Worlds Because They Are the Most Detailed in the Series",
-      "url": "https://otakukart.com/square-enix-says-kingdom-hearts-4-will-have-fewer-worlds-because-they-are-the-most-detailed-in-the-series/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:02:34+00:00"
-    },
-    {
-      "guid": "t3_1vzwr0a",
-      "title": "Pitch deck presentation Rockstar Games sent to Miami-Dade County for GTA6 public promotions revealed via public records request",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vzwr0a/pitch_deck_presentation_rockstar_games_sent_to/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:12:45+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000728863",
       "title": "Trump Reportedly Flirting With A New Round Of Tariffs On Gaming Hardware",
@@ -1829,14 +1604,6 @@
       "published_dt": "2026-08-27T16:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236844683",
-      "title": "\u2018Tangles,\u2019 Hand-Drawn Cannes Standout, Lands at Independent Film Company for Oscar-Qualifying Run (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/awards/tangles-ifc-acquisition-oscars-animated-feature-1236844683/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-27T15:30:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236682706",
       "title": "Anthony Bourdain\u2019s \u2018Get Jiro\u2019 Lands Premiere Date and Bloody Trailer From DC Studios (Exclusive)",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/anthony-bourdain-get-jiro-premiere-date-trailer-adult-swim-1236682706/",
@@ -1867,22 +1634,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-27T15:49:50+00:00"
-    },
-    {
-      "guid": "N4N54u3bKjY6DMBgayUmMo",
-      "title": "OneXPlayer adds another pricey handheld to the Arc G3 pile, and this one is $2,000",
-      "url": "https://www.gamesradar.com/hardware/handhelds/onexplayer-adds-another-pricey-handheld-to-the-arc-g3-pile-and-this-one-is-usd2-000/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:29:34+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205537",
-      "title": "Nintendo Download: 27th August (North America)",
-      "url": "https://www.nintendolife.com/news/2026/08/nintendo-download-27th-august-north-america",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-08-27T15:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121829",
@@ -2819,6 +2570,222 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-27T18:53:59+00:00"
+    },
+    {
+      "guid": "918a47b8-cec8-4761-af46-5846fe722503",
+      "title": "Get a Cordless Rechargeable Electric Air Duster for Your PC Maintenance for Just $19.99",
+      "url": "https://www.ign.com/articles/cordless-electric-air-duster-deal-august-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:10:00+00:00"
+    },
+    {
+      "guid": "b41783be-0bba-4adc-85ff-e0c24db3450c",
+      "title": "GTA 6 Exclusive Preview",
+      "url": "https://www.ign.com/articles/gta-6-exclusive-preview",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:04:38+00:00"
+    },
+    {
+      "guid": "18ac4694-dd9a-446f-95ff-6580c04377e2",
+      "title": "\u2018It\u2019s a Step Forward in All Respects\u2019 \u2013 Exclusive GTA 6 Interview",
+      "url": "https://www.ign.com/articles/gta-6-rob-nelson-interview-rockstar-north",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:04:05+00:00"
+    },
+    {
+      "guid": "88e775a4-4729-4761-bb7d-5c63ec7f76b3",
+      "title": "GTA 6 Reveal: 15 New Screenshots, Including 1 Exclusive on IGN",
+      "url": "https://www.ign.com/articles/gta-6-reveal-15-new-screenshots-including-1-exclusive-on-ign",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:01:35+00:00"
+    },
+    {
+      "guid": "f2f6689d-51f2-4b00-abec-0d134d09ee18",
+      "title": "Rockstar Doesn\u2019t Mind if You Dislike GTA 6\u2019s Romantic Side: \u2018Don\u2019t Bother With It. Up to You\u2019",
+      "url": "https://www.ign.com/articles/gta-6-jason-lucia-relationship-system-explained",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:57+00:00"
+    },
+    {
+      "guid": "179ee6d8-d6d8-41f3-86ba-0fcedcd2d72b",
+      "title": "\u2018We Are Nervous!\u2019 \u2014 Rockstar Knows the Pressure on GTA 6 To Be a Success",
+      "url": "https://www.ign.com/articles/gta-6-rockstar-nervous-about-success",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:45+00:00"
+    },
+    {
+      "guid": "d285bc1c-8050-46ab-8a55-411a94f02a66",
+      "title": "\u2018Is It Four Characters Now?\u2019 \u2014 Rockstar Briefly Thought About Doubling the Number of GTA 6 Protagonists",
+      "url": "https://www.ign.com/articles/gta-6-four-protagonists-considered-by-rockstar",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:41+00:00"
+    },
+    {
+      "guid": "3f614f7b-07cb-489b-943b-c06f475928ed",
+      "title": "\u2018We Have To Be Careful\u2019 \u2014 Rockstar on GTA 6\u2019s Approach to Satire",
+      "url": "https://www.ign.com/articles/gta-6-satire-humor-rockstar-comments",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:37+00:00"
+    },
+    {
+      "guid": "3909d16d-c5c6-41bd-a8b3-cfcbe034b612",
+      "title": "\u2018It\u2019s a Big Map, a Very Big Map\u2019 \u2013 GTA 6 Is Rockstar\u2019s Most Complex World Yet",
+      "url": "https://www.ign.com/articles/gta-6-world-size-map-rockstar-confirms",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:34+00:00"
+    },
+    {
+      "guid": "fde623ec-0fde-4609-844d-7e11660bd1a4",
+      "title": "69 New GTA 6 Gameplay Details We Saw at Rockstar HQ",
+      "url": "https://www.ign.com/articles/gta-6-new-gameplay-details",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:21+00:00"
+    },
+    {
+      "guid": "2c470ceb-ca65-48ed-b772-ff02cf4d58ee",
+      "title": "Heads Up: GTA 6 Preloads Begin November 12",
+      "url": "https://www.ign.com/articles/heads-up-gta-6-preloads-begin-november-12-preorder",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T18:58:50+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia",
+      "title": "GTA 6 has a relationship system, and it sounds as though you can make-or-break Jason and Lucia's romance",
+      "url": "https://www.eurogamer.net/gta-6-romance-relationship-system-jason-lucia",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:27:26+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push",
+      "title": "GTA 6's driving and car-jacking will be \"more challenging\", Rockstar says, amid a seemingly big push for realism",
+      "url": "https://www.eurogamer.net/gta-6-driving-car-theft-more-challenging-rockstar-realism-push",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:22:10+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
+      "title": "GTA 6 is revamping the Wanted system and giving you a Criminal Profile",
+      "url": "https://www.eurogamer.net/gta-6-revamping-wanted-system-adding-criminal-profiles",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:16:54+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme",
+      "title": "The massive GTA 6 leaks might be done for good as Cyberleek cashes out nearly \u00a3200,000 from their crypto scheme",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cashes-out--cyberleek-crypto-scheme",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:12:47+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000728933",
+      "title": "Grand Theft Auto 6 Looks Incredible In Netflix\u2019s Big Gameplay Reveal",
+      "url": "https://kotaku.com/grand-theft-auto-6-looks-incredible-in-netflixs-big-gameplay-reveal-2000728933",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:03:04+00:00"
+    },
+    {
+      "guid": "5jQdZ8m3U8X5f3kyugixkf",
+      "title": "Cyberleek may have just cashed out on their GTA 6 leak, earning over $200,000 in the most predictable crypto rugpull ever performed",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-may-have-just-cashed-out-on-their-gta-6-leak-earning-over-usd200-000-in-the-most-predictable-crypto-rugpull-ever-performed/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:05:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061102",
+      "title": "\u2018Furious\u2019 Renewed For Season 2 By Hulu Ahead Of Season 1 Finale",
+      "url": "https://deadline.com/2026/08/furious-renewed-season-2-hulu-emmy-rossum-1237061102/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845475",
+      "title": "\u2018GTA 6\u2019 Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks",
+      "url": "https://variety.com/2026/tv/news/gta-6-netflix-trailer-extended-look-release-1236845475/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:14:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683374",
+      "title": "Tim Curry Honored by Past and Present Frank-N-Furters With \u201cI\u2019m Going Home\u201d Performance",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/tim-curry-honored-past-present-frank-n-furters-1236683374/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:20:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683383",
+      "title": "Andrea Eastman, Casting Director on \u2018The Godfather\u2019 and Former ICM Agent, Dies at 86",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/andrea-eastman-dead-godfather-casting-director-icm-agent-1236683383/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:15:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682421",
+      "title": "\u2018Idiots\u2019 Filmmaker Macon Blair Talks Surviving 13 Years of Setbacks, Recastings and a Title Change",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/idiots-macon-blair-setbacks-recastings-1236682421/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:10:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683341",
+      "title": "\u2018Furious\u2019 Renewed for Second Season at Hulu",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/furious-renewed-season-2-hulu-1236683341/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T19:00:00+00:00"
+    },
+    {
+      "guid": "1865177",
+      "title": "GTA 6 Skipping PC At Launch And Having No Online Right Away Is Good, Helldivers Boss Says",
+      "url": "https://www.gamespot.com/articles/gta-6-skipping-pc-at-launch-and-having-no-online-right-away-is-good-helldivers-boss-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T19:15:13+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205533",
+      "title": "GTA 6 Netflix Extended Look Live Now - Here Are All the New Things We've Learned",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6-netflix-extended-look-live-now-here-are-all-the-new-things-weve-learned",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073519",
+      "title": "Usual June launches October 28",
+      "url": "https://www.gematsu.com/2026/08/usual-june-launches-october-28",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T19:02:46+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753550",
+      "title": "Adult Swim\u2019s Get Jiro Anime Series Gets October 3 Premiere Date and Official Trailer",
+      "url": "https://otakukart.com/adult-swims-get-jiro-anime-series-gets-october-3-premiere-date-and-official-trailer/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T19:23:58+00:00"
     }
   ]
 }
