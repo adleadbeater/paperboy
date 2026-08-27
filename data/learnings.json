@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Golden Axe Is Getting an Animated Series From the Creator of Star Trek: Lower Decks",
-      "tag": "golden axe",
-      "posted_at": "2026-08-20T15:31:06.882992+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/you-dont-have-to-like-golden-axe-to-enjoy-the-new-animated-series-trailer/",
-        "https://www.timeextension.com/news/2026/08/heres-the-first-trailer-for-golden-axes-animated-tv-series-from-the-creator-of-star-trek-the-lower-decks"
-      ],
-      "article_titles": [
-        "You Don\u2019t Have To Like Golden Axe To Enjoy The New Animated Series\u2019 Trailer",
-        "Here's The First Trailer For Golden Axe's Animated TV Series, From The Creator Of Star Trek: The Lower Decks"
-      ]
-    },
-    {
-      "headline": "Kingdom Hearts 4 Is Adding Pixar's Coco as a World, and Nomura Explains Why",
-      "tag": "kingdom hearts 4",
-      "posted_at": "2026-08-20T15:31:07.106186+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/kingdom-hearts/kingdom-hearts-4-features-pixars-coco-because-tetsuya-nomura-thought-it-would-be-the-best-world-for-soras-story/"
-      ],
-      "article_titles": [
-        "Kingdom Hearts 4 features Pixar's Coco because Tetsuya Nomura thought it \"would be the best world\" for Sora's story"
-      ]
-    },
-    {
       "headline": "Nintendo Officially Denies That Duskbloods Launches September 24",
       "tag": "the duskbloods",
       "posted_at": "2026-08-20T15:54:59.407214+00:00",
@@ -1522,6 +1498,54 @@
         "Peter Cullen, Voice of Optimus Prime in \u2018Transformers,\u2019 Dies at 85",
         "Peter Cullen, Voice of Optimus Prime in \u2018Transformers,\u2019 Dies at 85"
       ]
+    },
+    {
+      "headline": "Xbox Discs Now Grant Digital Access to Games as Part of Microsoft's Game Preservation Push",
+      "tag": "xbox",
+      "posted_at": "2026-08-27T15:31:29.596109+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/xbox-discs-will-now-grant-digital-access-to-games-as-part-of-microsofts-self-proclaimed-broader-commitment-to-game-preservation/"
+      ],
+      "article_titles": [
+        "Xbox discs will now grant digital access to games as part of Microsoft's self-proclaimed 'broader commitment to game preservation'"
+      ]
+    },
+    {
+      "headline": "Dwarf Fortress Is Finally Getting Its First Myth and Magic Update, With Procedural Magic Systems",
+      "tag": "dwarf fortress",
+      "posted_at": "2026-08-27T15:31:29.748862+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/"
+      ],
+      "article_titles": [
+        "Holy crap, it's happening: Dwarf Fortress gets its first Myth and Magic update later this year, bringing each player's world its own procedural magic system"
+      ]
+    },
+    {
+      "headline": "Lancer TTRPG Is Getting New Hardcover Editions in 2027",
+      "tag": "lancer",
+      "posted_at": "2026-08-27T15:31:29.841803+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-lancer-ttrpg-new-hardcover-editions-in-2027"
+      ],
+      "article_titles": [
+        "Exclusive: The Lancer TTRPG Is Getting New Hardcover Editions in 2027"
+      ]
+    },
+    {
+      "headline": "Konami Is Bringing Castlevania, Silent Hill, and Suikoden to TGS 2026",
+      "tag": "konami",
+      "posted_at": "2026-08-27T15:31:29.933217+00:00",
+      "urls": [
+        "https://www.siliconera.com/konami-tgs-2026-games-include-castlevania-silent-hill-and-suikoden/",
+        "https://www.siliconera.com/sega-and-atlus-tgs-2026-games-include-persona-4-sonic-spin-offs/",
+        "https://www.siliconera.com/konami-tgs-2026-games-include-castlevania-silent-hill-and-suikoden/"
+      ],
+      "article_titles": [
+        "Konami TGS 2026 Games Include Castlevania, Silent Hill, and Suikoden",
+        "Sega and Atlus TGS 2026 Games Include Persona 4, Sonic Spin-offs",
+        "Konami TGS 2026 Games Include Castlevania, Silent Hill, and Suikoden"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -2110,6 +2134,374 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-27T14:55:38+00:00"
+    },
+    {
+      "guid": "bf8fd3a5-1ac5-42aa-b7c1-676189c57415",
+      "title": "Peter Cullen, Optimus Prime in Transformers, Dies at 85",
+      "url": "https://www.ign.com/articles/peter-cullen-optimus-prime-in-transformers-dies-at-85",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:01:30+00:00"
+    },
+    {
+      "guid": "0218a598-84de-4e15-bb43-7598e906ac5a",
+      "title": "Exclusive: The Lancer TTRPG Is Getting New Hardcover Editions in 2027",
+      "url": "https://www.ign.com/articles/the-lancer-ttrpg-new-hardcover-editions-in-2027",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "966a5656-27b6-4724-9a81-6c446036e993",
+      "title": "LIVE: Rockstar Set to Finally Reveal Official GTA 6 Gameplay",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-everything-revealed-on-netflix-ign-and-more",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T14:55:27+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000728825",
+      "title": "GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash",
+      "url": "https://kotaku.com/gta6-grand-theft-auto-6-leaks-cyberleek-memecoin-rockstar-cash-out-2000728825",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:15:10+00:00"
+    },
+    {
+      "guid": "TGhAQm6ma2D2Fi9Uwd3kBo",
+      "title": "Xbox discs will now grant digital access to games as part of Microsoft's self-proclaimed 'broader commitment to game preservation'",
+      "url": "https://www.pcgamer.com/hardware/xbox-discs-will-now-grant-digital-access-to-games-as-part-of-microsofts-self-proclaimed-broader-commitment-to-game-preservation/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:22:08+00:00"
+    },
+    {
+      "guid": "9wiZuqKJXE5JQDwRPmMJv9",
+      "title": "Holy crap, it's happening: Dwarf Fortress gets its first Myth and Magic update later this year, bringing each player's world its own procedural magic system",
+      "url": "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:12:30+00:00"
+    },
+    {
+      "guid": "HeWcj4ZFivwv2jFx6ne8uJ",
+      "title": "Almost 20 years later, Arkane's founder says he understands why Valve cancelled the Ravenholm game that never was: 'It all came down to the economics'",
+      "url": "https://www.pcgamer.com/games/fps/almost-20-years-later-arkanes-founder-says-he-understands-why-valve-cancelled-the-ravenholm-game-that-never-was-it-all-came-down-to-the-economics/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:11:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237060810",
+      "title": "Anonymous Content Names Steve Shikiya Chief Operating Officer",
+      "url": "https://deadline.com/2026/08/anonymous-content-steve-shikiya-chief-operating-officer-1237060810/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237060833",
+      "title": "\u2018Youth\u2019 Trailer: Sharon Horgan Is Searching For Sex & Love In HBO Comedy: \u201cIt\u2019s Just An Age Thing\u201d",
+      "url": "https://deadline.com/2026/08/youth-trailer-sharon-horgan-hbo-comedy-1237060833/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:14:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237060853",
+      "title": "Peter Cullen Dies: Voice Of Optimus Prime In \u2018Transformers\u2019 Was 85",
+      "url": "https://deadline.com/2026/08/peter-cullen-dead-optimus-prime-transformers-1237060853/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:04:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237060762",
+      "title": "Cercamon Boards John Trengove\u2019s Toronto-Bound 1970s Apartheid Era Drama \u2018The Smell Of Apples\u2019; Unveils Trailer",
+      "url": "https://deadline.com/2026/08/cercamon-john-trengove-toronto-smell-apples-trailer-1237060762/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:04:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845166",
+      "title": "Dolby Laboratories Hires Meta, Amazon and Xbox Alum Marc Whitten as CEO, as Kevin Yeaman Retires",
+      "url": "https://variety.com/2026/film/news/dolby-marc-whitten-ceo-kevin-yeaman-retires-1236845166/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:28:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845232",
+      "title": "Utopai Studios Unifies Asia-Pacific Operations, Taps Hyun Park to Lead Region (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/utopai-studios-apac-hyun-park-president-1236845232/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:23:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236844997",
+      "title": "Anonymous Content Names Steve Shikiya Chief Operating Officer",
+      "url": "https://variety.com/2026/biz/news/anonymous-content-steve-shikiya-chief-operating-officer-1236844997/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845027",
+      "title": "David Byrne\u2019s Dazzling Tour Being Turned Into a Film by \u2018Brutalist\u2019 Director Brady Corbet, Shooting in 70mm",
+      "url": "https://variety.com/2026/music/news/david-byrne-film-brady-corbet-tour-1236845027/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:00:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236841747",
+      "title": "\u2018Bunker\u2019 Director Florian Zeller on Casting Real-Life Couple Pen\u00e9lope Cruz and Javier Bardem for His Marriage-in-Crisis Drama",
+      "url": "https://variety.com/2026/film/festivals/bunker-director-florian-zeller-penelope-cruz-javier-bardem-1236841747/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843728",
+      "title": "Stephen King\u2019s London-Set Horror Story \u2018Crouch End\u2019 Getting Prime Video Adaptation (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/stephen-king-horror-story-crouch-endprime-video-adaptation-1236843728/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845117",
+      "title": "Sharon Horgan Seeks \u2018Fun, Lightly Degrading Sex\u2019 as a 50-Year-Old Divorcee in Trailer for HBO\u2019s \u2018Youth\u2019",
+      "url": "https://variety.com/2026/tv/news/hbo-youth-trailer-sharon-degrading-sex-1236845117/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683080",
+      "title": "Pulitzer Prize Finalist \u2018Here There Are Blueberries\u2019 Set For Broadway",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/here-there-are-blueberries-broadway-1236683080/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:22:33+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683088",
+      "title": "Joe Russo Says Re-Watching \u2018Avengers: Endgame\u2019 Is \u201cRequired\u201d to Understand \u2018Avengers: Doomsday\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-encore-doomsday-russo-1236683088/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:19:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682283",
+      "title": "Anonymous Content Taps Former Imagine Exec Steve Shikiya as COO",
+      "url": "https://www.hollywoodreporter.com/business/business-news/anonymous-content-steve-shikiya-coo-executive-leadership-1236682283/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683084",
+      "title": "Jacob Tremblay Doesn\u2019t Like the World He Sees in Netflix\u2019s \u2018Unabomber\u2019 Trailer",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jacob-tremblay-as-unabomber-ted-kaczynski-netflix-trailer-1236683084/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-27T15:09:33+00:00"
+    },
+    {
+      "guid": "V64XtzSaKc4bxPKTyzK7ML",
+      "title": "GTA 6: An Extended Look will be 26 minutes long and features gameplay captured on a PS5",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-an-extended-look-will-be-26-minutes-long-and-features-gameplay-captured-on-a-ps5/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:11:05+00:00"
+    },
+    {
+      "guid": "zJ5tny6kwaFTAmQZBELVEP",
+      "title": "Persona 4 Revival is a faithful JRPG remake because the original's only gotten more relevant: \"We live in an age where information is everywhere\"",
+      "url": "https://www.gamesradar.com/games/persona/persona-4-revival-is-a-faithful-jrpg-remake-because-the-originals-only-gotten-more-relevant-we-live-in-an-age-where-information-is-everywhere/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:08:51+00:00"
+    },
+    {
+      "guid": "iDeLV4m2kkvxJJRjnVmQUM",
+      "title": "Days before movies like Terminator 2 are pulled from PlayStation libraries, StudioCanal launches new catalog label to restore classic movies \"as they were meant to be seen\"",
+      "url": "https://www.gamesradar.com/entertainment/streaming-services/days-before-movies-like-terminator-2-are-pulled-from-playstation-libraries-studiocanal-launches-new-catalog-label-to-restore-classic-movies-as-they-were-meant-to-be-seen/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:06:59+00:00"
+    },
+    {
+      "guid": "zStM3fVGg2XsEPUihHCbGg",
+      "title": "How to pay the debt in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-debt/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "bjgysLkcVjBxvvDYSTsckG",
+      "title": "Best Talents in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-talents/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "mMsuLt8za39qve3EDc9DBn",
+      "title": "Best characters and team comp in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-best-characters-team/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "RqrDZTZKvF29mCXmxCPHeS",
+      "title": "Best weapons in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-weapons/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "QYgsUP87CSh2QFgRaujJ2e",
+      "title": "Best choice for Gorga's Revenge in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-gorgas-revenge-choice/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "tuG5edWzSPiWKz4bH2XN49",
+      "title": "How to beat the Droideka in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-droideka-destroyer-droid/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "BSkKmP9yiLxJ33UMzHXMN3",
+      "title": "How to get Droids in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-droid-astromech/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "RwWzzWqUNw6NM3Nk6CfZw7",
+      "title": "How to recruit a Jedi in Star Wars Zero Company",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-jedi/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "adFCxuSYQrbtqH9MYokEw",
+      "title": "Should you hire Cly in Star Wars Zero Company?",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-hire-cly-choice/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "jYgNsXyiJ2BSitUvoPVYRc",
+      "title": "What's the best specialization class for Hawks in Star Wars Zero Company?",
+      "url": "https://www.gamesradar.com/games/strategy/star-wars-zero-company-specialization-class/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:00:00+00:00"
+    },
+    {
+      "guid": "1864975",
+      "title": "Star Wars: Galactic Racer Wants To Break Racing Games Out Of Their Comfort Zone",
+      "url": "https://www.gamespot.com/articles/star-wars-galactic-racer-wants-to-break-racing-games-out-of-their-comfort-zone/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:04:40+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205584",
+      "title": "Stuntman: Hollywood Welcomes You to Jurassic World in Latest Trailer",
+      "url": "https://www.pushsquare.com/news/2026/08/stuntman-hollywood-welcomes-you-to-jurassic-world-in-latest-trailer",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073753",
+      "title": "Scott Pilgrim EX DLC \u2018Back in the Band\u2019 now available alongside \u2018Coin-Op Chaos\u2019 update",
+      "url": "https://www.gematsu.com/2026/08/scott-pilgrim-ex-dlc-back-in-the-band-now-available-alongside-coin-op-chaos-update",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:24:54+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1040782",
+      "title": "The Seance of Blake Manor coming to PS5, Xbox Series, and Switch 2 on October 27",
+      "url": "https://www.gematsu.com/2026/08/the-seance-of-blake-manor-coming-to-ps5-xbox-series-and-switch-2-on-october-27",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:06:46+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073740",
+      "title": "Armatus launches January 7, 2027",
+      "url": "https://www.gematsu.com/2026/08/armatus-launches-january-7-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:05:09+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073746",
+      "title": "Deep Dish Dungeon launches October 13",
+      "url": "https://www.gematsu.com/2026/08/deep-dish-dungeon-launches-october-13",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:04:29+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1073555",
+      "title": "Joe & Mac Retro Collection launches October 29",
+      "url": "https://www.gematsu.com/2026/08/joe-mac-retro-collection-launches-october-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:01:11+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753488",
+      "title": "Netflix Reveals Brad Pitt\u2019s Cliff Booth Movie Title, Confirms Exclusive Two-Week Theatrical IMAX Run Starting November 25",
+      "url": "https://otakukart.com/netflix-reveals-brad-pitts-cliff-booth-movie-title-confirms-exclusive-two-week-theatrical-imax-run-starting-november-25/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:23:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753482",
+      "title": "Netflix Says \u201cAll Bets Are Off\u201d on Meghan Markle Joining The Gentlemen Season 3",
+      "url": "https://otakukart.com/netflix-says-all-bets-are-off-on-meghan-markle-joining-the-gentlemen-season-3/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:12:06+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753481",
+      "title": "Square Enix Says Kingdom Hearts 4 Will Have Fewer Worlds Because They Are the Most Detailed in the Series",
+      "url": "https://otakukart.com/square-enix-says-kingdom-hearts-4-will-have-fewer-worlds-because-they-are-the-most-detailed-in-the-series/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:02:34+00:00"
+    },
+    {
+      "guid": "t3_1vzwr0a",
+      "title": "Pitch deck presentation Rockstar Games sent to Miami-Dade County for GTA6 public promotions revealed via public records request",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vzwr0a/pitch_deck_presentation_rockstar_games_sent_to/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-27T15:12:45+00:00"
     }
   ]
 }
