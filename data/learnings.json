@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Marvel's Wolverine Has Gone Gold \u2014 Insomniac's Next PS5 Exclusive Is Ready to Ship",
-      "tag": "marvel's wolverine",
-      "posted_at": "2026-08-21T16:26:18.809576+00:00",
-      "urls": [
-        "https://www.ign.com/articles/marvels-wolverine-comics-to-read-before-game",
-        "https://www.pushsquare.com/news/2026/08/next-major-ps5-exclusive-is-ready-to-release-wolverine-goes-gold",
-        "https://www.pushsquare.com/news/2026/08/next-major-ps5-exclusive-is-ready-to-release-wolverine-goes-gold"
-      ],
-      "article_titles": [
-        "Marvel's Wolverine: 6 Comics to Read to Prepare for the Game",
-        "Next Major PS5 Exclusive Is Ready to Release, Wolverine Goes Gold",
-        "Next Major PS5 Exclusive Is Ready to Release, Wolverine Goes Gold"
-      ]
-    },
-    {
       "headline": "Metal Gear Solid 4's iconic joke gets a modern update in Master Collection Vol. 2 \u2014 with the original voice actor back",
       "tag": "metal gear solid",
       "posted_at": "2026-08-21T16:31:18.748075+00:00",
@@ -1444,35 +1429,24 @@
         "Rockstar has to 'be careful' about what GTA 6 picks to satirize because 'very specific political issues or memes will date fast'",
         "Rockstar has to 'be careful' about what GTA 6 picks to satirize because 'very specific political issues or memes will date fast'"
       ]
+    },
+    {
+      "headline": "The Witcher 3 Remastered Targets 1080p/40fps on Switch 2 \u2014 and We've Seen the Handheld Footage",
+      "tag": "the witcher 3",
+      "posted_at": "2026-08-28T16:31:06.170539+00:00",
+      "urls": [
+        "https://otakukart.com/the-witcher-3-remastered-targets-1080p-and-up-to-40-fps-on-nintendo-switch-2/",
+        "https://www.nintendolife.com/news/2026/08/video-the-witcher-3-remastered-handheld-gameplay-on-switch-2"
+      ],
+      "article_titles": [
+        "The Witcher 3 Remastered Targets 1080p and Up to 40 FPS on Nintendo Switch 2",
+        "Video: The Witcher 3 Remastered Handheld Gameplay On Switch 2"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000728893",
-      "title": "This Cozy Diorama Puzzle Game Will Make Your Brain Feel Good",
-      "url": "https://kotaku.com/woodo-cozy-diorama-puzzle-game-2000728893",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T12:00:31+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236845869",
-      "title": "Pink Floyd\u2019s Roger Waters, Nobel Prize Winner Annie Ernaux and More Sign Open Letter Calling for Venice Film Festival to Take \u2018Concrete Action\u2019 in Support of Palestine",
-      "url": "https://variety.com/2026/film/festivals/roger-waters-annie-ernaux-petition-venice-palestine-1236845869/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T12:11:26+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1074014",
-      "title": "Marvel\u2019s Wolverine \u2018Game Features\u2019 trailer",
-      "url": "https://www.gematsu.com/2026/08/marvels-wolverine-game-features-trailer",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T12:05:32+00:00"
-    },
     {
       "guid": "bd224d36-2d35-4c50-b864-0f9a6fe98877",
       "title": "Colony Review",
@@ -2200,6 +2174,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-28T15:59:26+00:00"
+    },
+    {
+      "guid": "51c1f2ad-39b6-4db2-a1ec-37aed72c4876",
+      "title": "Gallipoli Review",
+      "url": "https://www.ign.com/articles/gallipoli-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:12:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729338",
+      "title": "Indie Dev Releases Tearful Message After Multiple Laptops Are Stolen At Gamescom",
+      "url": "https://kotaku.com/indie-dev-releases-tearful-message-after-multiple-laptops-are-stolen-at-gamescom-2000729338",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:00:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236846057",
+      "title": "Payal Kapadia, Neeraj Churi, Subhadra Mahajan Among Talent Behind SASO, IFFSA-Backed South Asian Toronto Market Projects (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/payal-kapadia-neeraj-churi-subhadra-mahajan-toronto-market-1236846057/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:15:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684274",
+      "title": "Roger Waters, Guy Pearce, Annie Ernaux Urge Venice Fest to Take \u201cConcrete Action\u201d for Palestine in Open Letter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:13:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684277",
+      "title": "\u2018Manifest\u2019 Spinoff \u2018Arrivals\u2019 Landing at Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/manifest-spinoff-arrivals-netflix-1236684277/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:08:03+00:00"
+    },
+    {
+      "guid": "XvQ3eYQ6kmku56seK2WUYE",
+      "title": "A GTA 6 scene that leaked in 2022 appears in the big extended look reveal, and the difference is massive",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-gta-6-scene-that-leaked-in-2022-appears-in-the-big-extended-look-reveal-and-the-difference-is-massive/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T16:20:37+00:00"
+    },
+    {
+      "guid": "iXLr4YuniZnnYQK4wvWJU4",
+      "title": "Game of the Week \u2013 Star Wars Zero Company has stolen my strategy-loving heart",
+      "url": "https://www.gamesradar.com/games/strategy/game-of-the-week-august-23-28-star-wars-zero-company/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T16:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753625",
+      "title": "Peter Cullen, Voice of Optimus Prime and Eeyore, Dies at 85",
+      "url": "https://otakukart.com/peter-cullen-voice-of-optimus-prime-and-eeyore-dies-at-85/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T16:22:22+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753624",
+      "title": "The Witcher 3 Remastered Targets 1080p and Up to 40 FPS on Nintendo Switch 2",
+      "url": "https://otakukart.com/the-witcher-3-remastered-targets-1080p-and-up-to-40-fps-on-nintendo-switch-2/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T16:05:21+00:00"
     }
   ]
 }
