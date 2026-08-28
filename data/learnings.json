@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "James Pond Reboot Devs Accused of Using Generative AI Art",
-      "tag": "james pond",
-      "posted_at": "2026-08-21T20:31:11.027874+00:00",
-      "urls": [
-        "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
-        "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706"
-      ],
-      "article_titles": [
-        "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot",
-        "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot"
-      ]
-    },
-    {
-      "headline": "Arc Raiders Is Suspending Its Expeditions Mode Until 2027 After Player Backlash",
-      "tag": "arc raiders",
-      "posted_at": "2026-08-21T20:45:47.422738+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-halting-expeditions-until-2027-so-it-can-make-major-improvements-to-the-system/",
-        "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-is-shutting-down-expeditions-until-early-2027-to-make-major-improvements-after-mountains-of-feedback/"
-      ],
-      "article_titles": [
-        "Arc Raiders is halting Expeditions until 2027 so it can make 'major improvements' to the system",
-        "Arc Raiders is shutting down Expeditions \"until early 2027\" to make \"major improvements\" after mountains of feedback"
-      ]
-    },
-    {
       "headline": "Pok\u00e9mon's Turn-Based Combat May Be on Its Way Out, Kotaku Reports",
       "tag": "pok\u00e9mon",
       "posted_at": "2026-08-21T21:00:52.704618+00:00",
@@ -1386,67 +1360,22 @@
         "ELDEN RING Tarnished Edition Brings Shadow of the Erdtree and New Content to Nintendo Switch 2",
         "Guide: Elden Ring Tarnished Edition New Content Locations: All New Weapons, Armour Sets, NPC Invasions & Horse Armour"
       ]
+    },
+    {
+      "headline": "A DDoS Attack Took Down a Major Gaming Wiki After an AI-Scraping Ban",
+      "tag": "gaming wikis / ai scraping",
+      "posted_at": "2026-08-28T21:00:44.824327+00:00",
+      "urls": [
+        "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335"
+      ],
+      "article_titles": [
+        "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237061902",
-      "title": "The Duffer Brothers Tap Josh Stern As President Of Upside Down Pictures",
-      "url": "https://deadline.com/2026/08/the-duffer-brothers-josh-stern-upside-down-pictures-1237061902/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237061803",
-      "title": "\u2018Lord Of The Rings\u2019 Producer Lines Up New \u201cLarge-Scale\u201d Fantasy Movie \u2018Wars Of The Drakons\u2019",
-      "url": "https://deadline.com/2026/08/lord-of-the-rings-producer-new-fantasy-movie-wars-drakons-1237061803/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:31:38+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236684304",
-      "title": "Late F1 Icon Gilles Villeneuve Drives For Speed, Trophies in \u2018Rise of a Legend\u2019 Trailer (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/rise-of-a-legend-trailer-gilles-villeneuve-1236684304/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:46:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236684292",
-      "title": "New Operator of L.A.\u2019s Bruin Theatre Says His Antisemitic Comments Are \u201cDistractions From Reopening\u201d",
-      "url": "https://www.hollywoodreporter.com/business/business-news/bruin-theatre-rui-pereira-antisemitic-comments-1236684292/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:46:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236684226",
-      "title": "Sacha Baron Cohen Ali G Movie Slammed as Racist, Activists Send 37,000 Emails to Theaters",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-movie-boycott-theaters-1236684226/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:35:27+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121919",
-      "title": "Stranger Than Heaven Gamescom Trailer Shows Off Combat",
-      "url": "https://www.siliconera.com/stranger-than-heaven-gamescom-trailer-shows-off-combat/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T17:00:00+00:00"
-    },
-    {
-      "guid": "757afa20-909d-4e67-9d50-774a4af86db0",
-      "title": "Everything Coming to Peacock in September",
-      "url": "https://www.ign.com/articles/whats-new-on-peacock-in-september-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T17:00:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000729359",
       "title": "Fans Think They\u2019ve Spotted GTA 6\u2018s First Returning Character And It Shows The Leap In Graphics From GTA 5",
@@ -1470,14 +1399,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-08-28T17:00:51+00:00"
-    },
-    {
-      "guid": "YAnLi4rkLvK7vYipiw2fU",
-      "title": "I have modded many dogs, several cows, 2 lions, and a chimpanzee into Grand Theft Auto 5, and they are all my friends",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-have-modded-many-dogs-several-cows-2-lions-and-a-chimpanzee-into-grand-theft-auto-5-and-they-are-all-my-friends/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T17:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237061975",
@@ -1510,14 +1431,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-28T17:10:11+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237062007",
-      "title": "ABC Developing Drama Series \u2018The Undertaker\u2019 From Gabriel Garza, Hanelle Culpepper, 20th Television & Elevate Entertainment",
-      "url": "https://deadline.com/2026/08/abc-developing-drama-series-the-undertaker-1237062007/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T17:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236846004",
@@ -1558,14 +1471,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-08-28T17:16:46+00:00"
-    },
-    {
-      "guid": "Utf2QApqYqTSMBn8CMQuUB",
-      "title": "Metro 2039 brings back a feature Metro Exodus sorely missed \u2013 military-grade ammunition once again functions as currency",
-      "url": "https://www.gamesradar.com/games/fps/metro-2039-brings-back-a-feature-metro-exodus-sorely-missed-military-grade-ammunition-once-again-functions-as-currency/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T17:00:00+00:00"
     },
     {
       "guid": "1866750",
@@ -1806,6 +1711,46 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-08-28T20:15:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729335",
+      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
+      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:51:22+00:00"
+    },
+    {
+      "guid": "uCZZDvSJsCSGv44v3SYSQ8",
+      "title": "Path of Exile 2's first event league goes 'oops, all bosses' and reworks its worst mode so sane people can finally enjoy it",
+      "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-first-event-league-goes-oops-all-bosses-and-reworks-its-worst-mode-so-sane-people-can-finally-enjoy-it/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:55:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062176",
+      "title": "James Walsh Dies: Tony-Winning Broadway Producer Of \u2018The Heidi Chronicles\u2019 & \u2018I\u2019m Not Rappaport\u2019 Was 89",
+      "url": "https://deadline.com/2026/08/james-walsh-dead-1237062176/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:56:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236846273",
+      "title": "Gladys Knight Cuts Back on Performing as She Transitions to \u2018Next Stage\u2019 of Career and Life",
+      "url": "https://variety.com/2026/music/news/gladys-knight-steps-back-performing-1236846273/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:52:59+00:00"
+    },
+    {
+      "guid": "1866885",
+      "title": "Leaked DLSS 5 Mod Shows Just How Much Nvidia\u2019s AI Filter Can Mess With Your Games",
+      "url": "https://www.gamespot.com/articles/leaked-dlss-5-mod-shows-just-how-much-nvidias-ai-filter-can-mess-with-your-games/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T20:41:36+00:00"
     }
   ]
 }
