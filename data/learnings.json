@@ -1,34 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Blood of Dawnwalker Won't Hit 60fps on PS5 or PS5 Pro at Launch",
-      "tag": "the blood of dawnwalker",
-      "posted_at": "2026-08-21T15:29:42.129016+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-blood-of-dawnwalker-wont-run-at-60fps-on-console-and-fans-arent-happy",
-        "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro",
-        "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro"
-      ],
-      "article_titles": [
-        "The Blood of Dawnwalker Won\u2019t Run at 60fps on Console, and Fans Aren\u2019t Happy",
-        "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro",
-        "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro"
-      ]
-    },
-    {
-      "headline": "GTA 6 Leaker Is Back With New Hyper-Realistic Footage",
-      "tag": "gta 6",
-      "posted_at": "2026-08-21T15:31:15.003347+00:00",
-      "urls": [
-        "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645",
-        "https://kotaku.com/gta-6-leaker-continues-taunting-with-fresh-footage-of-hyper-realistic-streets-2000726645"
-      ],
-      "article_titles": [
-        "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets",
-        "GTA 6 Leaker Continues Taunting With Fresh Footage Of Hyper-Realistic Streets"
-      ]
-    },
-    {
       "headline": "Marvel's Wolverine Has Gone Gold \u2014 Insomniac's Next PS5 Exclusive Is Ready to Ship",
       "tag": "marvel's wolverine",
       "posted_at": "2026-08-21T16:26:18.809576+00:00",
@@ -1448,19 +1420,22 @@
       "article_titles": [
         "Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears"
       ]
+    },
+    {
+      "headline": "Fable Shows Off Combat Gameplay at Gamescom 2026",
+      "tag": "fable",
+      "posted_at": "2026-08-28T15:31:21.544165+00:00",
+      "urls": [
+        "https://www.gematsu.com/2026/08/fable-gamescom-2026-combat-gameplay"
+      ],
+      "article_titles": [
+        "Fable Gamescom 2026 \u2018Combat\u2019 gameplay"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "3cWQaPQxZEk9kforaiKvuF",
-      "title": "Star Wars fan artist recreates Anakin and Obi-Wan's famous Revenge of the Sith duel with an incredible twist",
-      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/star-wars-fan-artist-recreates-anakin-and-obi-wans-famous-revenge-of-the-sith-duel-with-an-incredible-twist/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T11:01:53+00:00"
-    },
     {
       "guid": "acc4804a-6779-4950-b958-cbd5901c697a",
       "title": "Boorman and the Devil Review",
@@ -2004,6 +1979,134 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-28T14:39:31+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729131",
+      "title": "Fans At Pok\u00e9mon World Championships 2026 Battle \u2018Scalper Alley\u2019 For Exclusive Merch",
+      "url": "https://kotaku.com/pokemon-world-championships-2026-is-the-latest-event-impacted-by-scalpers-2000729131",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:05:04+00:00"
+    },
+    {
+      "guid": "53YDRnBSbzQTtoUgYSY4WY",
+      "title": "Rockstar has to 'be careful' about what GTA 6 picks to satirize because 'very specific political issues or memes will date fast'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-to-be-careful-about-what-gta-6-picks-to-satirize-because-very-specific-political-issues-or-memes-will-date-fast/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:27:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061668",
+      "title": "\u2018Manifest\u2019 Spinoff \u2018Arrivals\u2019 Ordered By Netflix",
+      "url": "https://deadline.com/2026/08/manifest-spinoff-series-arrivals-netflix-jeff-rake-1237061668/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:28:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061934",
+      "title": "\u2018Coyote Vs. Acme\u2019 $1.7M Previews, \u2018Dog Stars\u2019 $850K As Canines Rule Thursday \u2013 Box Office",
+      "url": "https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:16:13+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236838968",
+      "title": "Online Sleuthing Is Out of Control, and the Vitriol Against Patrick Clancy Proves It",
+      "url": "https://variety.com/2026/digital/news/patrick-clancy-didnt-do-it-why-does-the-internet-think-hes-guilty-1236838968/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845770",
+      "title": "Not Your Daddy\u2019s Films Expands With Film Independent as Fiscal Sponsor (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/not-your-daddys-films-film-independent-fiscal-sponsorship-1236845770/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845705",
+      "title": "Netflix Orders \u2018Manifest\u2019 Spinoff \u2018Arrivals,\u2019 With a New Mystery and Cast \u2014 Announced on 8/28, Of Course",
+      "url": "https://variety.com/2026/tv/news/manifest-spinoff-netflix-arrivals-new-mystery-cast-1236845705/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:28:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845964",
+      "title": "Edinburgh TV Festival Takeaways: YouTube\u2019s Rise, Commissioning Landscape and Move to Manchester",
+      "url": "https://variety.com/2026/tv/global/edinburgh-tv-festival-takeaways-youtube-commissioning-manchester-1236845964/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:07:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683533",
+      "title": "Pierce Thiot, Creative Executive at Maximum Effort, Dies at 40",
+      "url": "https://www.hollywoodreporter.com/business/business-news/maximum-effort-creative-executive-pierce-thiot-dead-1236683533/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T15:26:54+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205632",
+      "title": "Tech Experts Call GTA 6 'the Most Impressive Example of Real-Time Rendering We've Ever Seen'",
+      "url": "https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074084",
+      "title": "Fable Gamescom 2026 \u2018Combat\u2019 gameplay",
+      "url": "https://www.gematsu.com/2026/08/fable-gamescom-2026-combat-gameplay",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T15:04:53+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=71619",
+      "title": "Fuwa! Fuwa! Omurice Simulator Roguelite is a business management sim with rhythm game mechanics in which the goal is to \u201csurvive raging capitalism\u201d",
+      "url": "https://automaton-media.com/en/news/fuwa-fuwa-omurice-simulator-roguelite-is-a-business-management-sim-with-rhythm-game-mechanics-in-which-the-goal-is-to-survive-raging-capitalism/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753622",
+      "title": "Judge Rejects Netflix\u2019s Bid to Dismiss Buster Murdaugh Lawsuit Over Stephen Smith Death Claims",
+      "url": "https://otakukart.com/judge-rejects-netflixs-bid-to-dismiss-buster-murdaugh-lawsuit-over-stephen-smith-death-claims/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T15:21:19+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753659",
+      "title": "Hunter x Hunter Chapter 429 Update Teases Killua\u2019s Return as Togashi Shares New Artwork",
+      "url": "https://otakukart.com/hunter-x-hunter-chapter-429-update-teases-killuas-return-as-togashi-shares-new-artwork/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T15:13:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753658",
+      "title": "\u201cLeave The Anime To The Japanese Thanks\u201d \u2013 James Gunn Faces Anime Fan Backlash After Crunchyroll Anime Future Forum Appearance Announcement",
+      "url": "https://otakukart.com/leave-the-anime-to-the-japanese-thanks-james-gunn-faces-anime-fan-backlash-after-crunchyroll-anime-future-forum-appearance-announcement/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T15:06:27+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753621",
+      "title": "Netflix Reaches $12.6 Billion in Q2 2026 Revenue as Disney Generates $25.2 Billion",
+      "url": "https://otakukart.com/netflix-reaches-12-6-billion-in-q2-2026-revenue-as-disney-generates-25-2-billion/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T15:02:19+00:00"
     }
   ]
 }
