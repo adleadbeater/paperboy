@@ -1448,14 +1448,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "bd224d36-2d35-4c50-b864-0f9a6fe98877",
-      "title": "Colony Review",
-      "url": "https://www.ign.com/articles/colony-movie-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
       "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
       "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
@@ -1488,52 +1480,12 @@
       "published_dt": "2026-08-28T13:04:01+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236845906",
-      "title": "Apple TV Hikes Price of Streaming Service in U.S. Effective Immediately",
-      "url": "https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236684161",
       "title": "Apple TV Hikes Prices as Streaming Inflation Continues",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-price-hike-streaming-plans-monthly-annual-1236684161/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-28T13:23:17+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236683030",
-      "title": "Ride the \u2018Meteorite\u2019! Two Women, Smuggling Mobiles Into a Prison, Journey Through an Amusement Park (Exclusive Trailer)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-critics-week-meteorite-film-trailer-amusement-park-1236683030/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T13:00:00+00:00"
-    },
-    {
-      "guid": "1866637",
-      "title": "Saber Responds To AI Criticisms In Rideshare Game And Promises, \u201cWe Will Never Fire Someone And Replace Them With AI\u201d",
-      "url": "https://www.gamespot.com/articles/saber-responds-to-ai-criticisms-in-rideshare-game-and-promises-we-will-never-fire-someone-and-replace-them-with-ai/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T12:57:35+00:00"
-    },
-    {
-      "guid": "1866626",
-      "title": "Hellraiser: Revival Is More Than Just Cenobites and Gore \u2013 10 Things We Learned From Saber Interactive",
-      "url": "https://www.gamespot.com/articles/hellraiser-revival-is-more-than-just-cenobites-and-gore-10-things-we-learned-from-saber-interactive/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T12:55:53+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121873",
-      "title": "Review: Ledgerbound Is a Romantic Comedy With a Little Strategy, as a Treat",
-      "url": "https://www.siliconera.com/review-ledgerbound-is-a-romantic-comedy-with-a-little-strategy-as-a-treat/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1074064",
@@ -2246,6 +2198,70 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-28T16:05:21+00:00"
+    },
+    {
+      "guid": "PuSpFspkfvTtj5qMEjgJVP",
+      "title": "I tried the sequel to Task Manager and it has too many special effects",
+      "url": "https://www.pcgamer.com/hardware/i-tried-the-sequel-to-task-manager-and-it-has-too-many-special-effects/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:30:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061902",
+      "title": "The Duffer Brothers Tap Josh Stern As President Of Upside Down Pictures",
+      "url": "https://deadline.com/2026/08/the-duffer-brothers-josh-stern-upside-down-pictures-1237061902/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061803",
+      "title": "\u2018Lord Of The Rings\u2019 Producer Lines Up New \u201cLarge-Scale\u201d Fantasy Movie \u2018Wars Of The Drakons\u2019",
+      "url": "https://deadline.com/2026/08/lord-of-the-rings-producer-new-fantasy-movie-wars-drakons-1237061803/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:31:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684304",
+      "title": "Late F1 Icon Gilles Villeneuve Drives For Speed, Trophies in \u2018Rise of a Legend\u2019 Trailer (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/rise-of-a-legend-trailer-gilles-villeneuve-1236684304/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:46:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684292",
+      "title": "New Operator of L.A.\u2019s Bruin Theatre Says His Antisemitic Comments Are \u201cDistractions From Reopening\u201d",
+      "url": "https://www.hollywoodreporter.com/business/business-news/bruin-theatre-rui-pereira-antisemitic-comments-1236684292/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:46:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684226",
+      "title": "Sacha Baron Cohen Ali G Movie Slammed as Racist, Activists Send 37,000 Emails to Theaters",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-movie-boycott-theaters-1236684226/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:35:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236673322",
+      "title": "Meet Fernando Lindez, the \u2018Elite\u2019 Star Turned Hollywood Romantic Lead in \u2018The Last Sunrise\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/fernando-lindez-prime-video-romance-the-last-sunrise-1236673322/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121919",
+      "title": "Stranger Than Heaven Gamescom Trailer Shows Off Combat",
+      "url": "https://www.siliconera.com/stranger-than-heaven-gamescom-trailer-shows-off-combat/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T17:00:00+00:00"
     }
   ]
 }
