@@ -1392,70 +1392,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "51c1f2ad-39b6-4db2-a1ec-37aed72c4876",
-      "title": "Gallipoli Review",
-      "url": "https://www.ign.com/articles/gallipoli-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:12:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236846057",
-      "title": "Payal Kapadia, Neeraj Churi, Subhadra Mahajan Among Talent Behind SASO, IFFSA-Backed South Asian Toronto Market Projects (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/payal-kapadia-neeraj-churi-subhadra-mahajan-toronto-market-1236846057/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:15:36+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236684274",
-      "title": "Roger Waters, Guy Pearce, Annie Ernaux Urge Venice Fest to Take \u201cConcrete Action\u201d for Palestine in Open Letter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/roger-waters-annie-ernaux-venice-fest-action-palestine-1236684274/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:13:52+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236684277",
-      "title": "\u2018Manifest\u2019 Spinoff \u2018Arrivals\u2019 Landing at Netflix",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/manifest-spinoff-arrivals-netflix-1236684277/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:08:03+00:00"
-    },
-    {
-      "guid": "XvQ3eYQ6kmku56seK2WUYE",
-      "title": "A GTA 6 scene that leaked in 2022 appears in the big extended look reveal, and the difference is massive",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/a-gta-6-scene-that-leaked-in-2022-appears-in-the-big-extended-look-reveal-and-the-difference-is-massive/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T16:20:37+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753625",
-      "title": "Peter Cullen, Voice of Optimus Prime and Eeyore, Dies at 85",
-      "url": "https://otakukart.com/peter-cullen-voice-of-optimus-prime-and-eeyore-dies-at-85/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T16:22:22+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753624",
-      "title": "The Witcher 3 Remastered Targets 1080p and Up to 40 FPS on Nintendo Switch 2",
-      "url": "https://otakukart.com/the-witcher-3-remastered-targets-1080p-and-up-to-40-fps-on-nintendo-switch-2/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T16:05:21+00:00"
-    },
-    {
-      "guid": "PuSpFspkfvTtj5qMEjgJVP",
-      "title": "I tried the sequel to Task Manager and it has too many special effects",
-      "url": "https://www.pcgamer.com/hardware/i-tried-the-sequel-to-task-manager-and-it-has-too-many-special-effects/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:30:23+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237061902",
       "title": "The Duffer Brothers Tap Josh Stern As President Of Upside Down Pictures",
       "url": "https://deadline.com/2026/08/the-duffer-brothers-josh-stern-upside-down-pictures-1237061902/",
@@ -1494,14 +1430,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-08-28T16:35:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236673322",
-      "title": "Meet Fernando Lindez, the \u2018Elite\u2019 Star Turned Hollywood Romantic Lead in \u2018The Last Sunrise\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/fernando-lindez-prime-video-romance-the-last-sunrise-1236673322/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T16:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1121919",
@@ -1806,6 +1734,78 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-28T19:49:46+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729442",
+      "title": "Ex-Pok\u00e9mon World Champion Banned From Competing At World Championships After Cutting In Merch Line: \u2018I Believe This To Be Extremely Unjust\u2019",
+      "url": "https://kotaku.com/pokemon-world-championships-ban-luca-ceribelli-merch-line-2000729442",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:10:03+00:00"
+    },
+    {
+      "guid": "PP9tbv6vAFVp8gFsxr3fTR",
+      "title": "Bland or badass? The internet is split on GTA 6's Jason, and so is PC Gamer",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/bland-or-badass-the-internet-is-split-on-gta-6s-jason-and-so-is-pc-gamer/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:16:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062240",
+      "title": "\u2018Coyote Vs. Acme\u2019 Director Celebrates Film Release, Saying \u201cWe Won\u201d & \u201cIt\u2019s Proof That Movies Don\u2019t Just Go Away\u201d",
+      "url": "https://deadline.com/2026/08/coyote-vs-acme-director-celebrates-film-release-1237062240/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:23:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062167",
+      "title": "\u2018The Big Break\u2019 Reboot\u2019s Debut Season Shelved By The Golf Channel After Good Good Withdraws Title Sponsorship",
+      "url": "https://deadline.com/2026/08/the-big-break-reboot-season-shelved-golf-ad-scandal-1237062167/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:10:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684499",
+      "title": "Dave Franco Says Raunchy \u2018Idiots\u2019 Scene Is \u201cCraziest Thing\u201d He\u2019s Done on Camera",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/dave-franco-raunchy-idiots-scene-1236684499/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:19:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684510",
+      "title": "Sorry, Haters, the Gwyneth Paltrow\u2013Sam Altman Hamptons Dinner Party Is Apparently On Hold",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gwyneth-paltrow-sam-altman-hamptons-dinner-party-postponed-1236684510/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T20:19:12+00:00"
+    },
+    {
+      "guid": "eCz4GsbT55sUDkRJenUcZS",
+      "title": "After AI backlash, Assassin's Creed creator says 1666: Amsterdam \"won't be using any AI anymore\" and only used it \"in conception and pre-production\"",
+      "url": "https://www.gamesradar.com/games/action/after-ai-backlash-assassins-creed-creator-says-1666-amsterdam-wont-be-using-any-ai-anymore-and-only-used-it-in-conception-and-pre-production/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T20:21:07+00:00"
+    },
+    {
+      "guid": "GbVsbXbDpcTWVecX53Kpc3",
+      "title": "Star Wars: Galactic Racer is a \"sports movie\" story set after Return of the Jedi because it mirrors the real-life post-WW2 motorsports boom",
+      "url": "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-is-a-sports-movie-story-set-after-return-of-the-jedi-because-it-mirrors-the-real-life-post-ww2-motorsports-boom/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T20:00:28+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/",
+      "title": "Monte Cook Games replaces promotional video, releases statement after video uses AI assets",
+      "url": "https://www.enworld.org/threads/monte-cook-games-replaces-promotional-video-releases-statement-after-video-uses-ai-assets.720473/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T20:15:00+00:00"
     }
   ]
 }
