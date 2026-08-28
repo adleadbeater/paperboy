@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Last Night's Director Finally Breaks Silence on the Long-MIA Pixel-Art Cyberpunk Game",
-      "tag": "the last night",
-      "posted_at": "2026-08-21T12:18:59.808351+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-last-night-director-breaks-silence-gives-small-update-on-long-awaited-pixel-art-cyberpunk-game"
-      ],
-      "article_titles": [
-        "The Last Night Director Breaks Silence, Gives Small Update on Long-Awaited Pixel-Art Cyberpunk Game"
-      ]
-    },
-    {
-      "headline": "Microsoft's Translucent Green 25th Anniversary Xbox Series X Will Cost as Much as a PS5 Pro",
-      "tag": "xbox series x",
-      "posted_at": "2026-08-21T13:23:31.481854+00:00",
-      "urls": [
-        "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
-        "https://www.gamespot.com/articles/microsoft-25th-anniversary-xbox-series-x-could-be-its-most-expensive-console-yet/"
-      ],
-      "article_titles": [
-        "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
-        "Microsoft\u2019s 25th Anniversary Xbox Series X Could Be Its Most Expensive Console Yet"
-      ]
-    },
-    {
       "headline": "Take-Two Subpoenas Microsoft and Discord Records in Hunt for GTA 6 Leaker",
       "tag": "gta 6",
       "posted_at": "2026-08-21T14:01:05.956585+00:00",
@@ -1509,6 +1485,19 @@
       "article_titles": [
         "Looks like you can try DLSS 5 out today yourself"
       ]
+    },
+    {
+      "headline": "GTA 6 Confirmed at 30fps, and Rockstar May Never Add a 60fps Mode",
+      "tag": "gta 6",
+      "posted_at": "2026-08-28T13:30:56.453540+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-run-at-30fps-across-ps5-and-xbox-series-x-and-rockstar-is-reportedly-undecided-about-adding-a-performance-mode-to-better-that/"
+      ],
+      "article_titles": [
+        "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
+        "GTA 6 will run at 30fps across PS5 and Xbox Series X, and Rockstar is reportedly undecided about adding a performance mode to better that"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1705,6 +1694,102 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-28T12:05:32+00:00"
+    },
+    {
+      "guid": "bd224d36-2d35-4c50-b864-0f9a6fe98877",
+      "title": "Colony Review",
+      "url": "https://www.ign.com/articles/colony-movie-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
+      "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
+      "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:20:14+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729127",
+      "title": "The Smallest Tamagotchi Yet Lives Inside A One Inch Screen On Your Finger",
+      "url": "https://kotaku.com/the-smallest-tamagotchi-yet-lives-inside-a-one-inch-screen-on-your-finger-2000729127",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:14:22+00:00"
+    },
+    {
+      "guid": "bfQaud6MJhRqYfEDmeDJYY",
+      "title": "After seeing what GTA 6 does to a PS5 we're even more desperate to see what the PC version has for us",
+      "url": "https://www.pcgamer.com/hardware/after-seeing-what-gta-6-does-to-a-ps5-were-even-more-desperate-to-see-what-the-pc-version-has-for-us/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:20:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061804",
+      "title": "Apple TV Hikes Price, Will Now Cost $14.99 A Month In U.S.",
+      "url": "https://deadline.com/2026/08/apple-tv-raises-rates-monthly-annual-plans-1237061804/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:04:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845906",
+      "title": "Apple TV Hikes Price of Streaming Service in U.S. Effective Immediately",
+      "url": "https://variety.com/2026/tv/news/apple-tv-price-increase-streaming-service-monthly-plan-1236845906/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684161",
+      "title": "Apple TV Hikes Prices as Streaming Inflation Continues",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/apple-tv-price-hike-streaming-plans-monthly-annual-1236684161/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:23:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683030",
+      "title": "Ride the \u2018Meteorite\u2019! Two Women, Smuggling Mobiles Into a Prison, Journey Through an Amusement Park (Exclusive Trailer)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-critics-week-meteorite-film-trailer-amusement-park-1236683030/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-28T13:00:00+00:00"
+    },
+    {
+      "guid": "1866637",
+      "title": "Saber Responds To AI Criticisms In Rideshare Game And Promises, \u201cWe Will Never Fire Someone And Replace Them With AI\u201d",
+      "url": "https://www.gamespot.com/articles/saber-responds-to-ai-criticisms-in-rideshare-game-and-promises-we-will-never-fire-someone-and-replace-them-with-ai/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T12:57:35+00:00"
+    },
+    {
+      "guid": "1866626",
+      "title": "Hellraiser: Revival Is More Than Just Cenobites and Gore \u2013 10 Things We Learned From Saber Interactive",
+      "url": "https://www.gamespot.com/articles/hellraiser-revival-is-more-than-just-cenobites-and-gore-10-things-we-learned-from-saber-interactive/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T12:55:53+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1121873",
+      "title": "Review: Ledgerbound Is a Romantic Comedy With a Little Strategy, as a Treat",
+      "url": "https://www.siliconera.com/review-ledgerbound-is-a-romantic-comedy-with-a-little-strategy-as-a-treat/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074064",
+      "title": "STRANGER THAN HEAVEN Gamescom 2026 demo playthrough",
+      "url": "https://www.gematsu.com/2026/08/stranger-than-heaven-gamescom-2026-demo-playthrough",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-28T13:10:27+00:00"
     }
   ]
 }
