@@ -1351,14 +1351,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000729591",
-      "title": "Mike Judge Is Taking Beavis And Butt-Head Back From Paramount",
-      "url": "https://kotaku.com/mike-judge-to-take-beavis-and-butt-head-back-from-paramount-2000729591",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-29T18:27:36+00:00"
-    },
-    {
       "guid": "mhyvNUaPae39Yce4BwoBhT",
       "title": "Valve assures Deadlock players hungry for its next big update that it will notify them, 'or order a ton of pizza', when it's ready",
       "url": "https://www.pcgamer.com/games/moba/valve-assures-deadlock-players-hungry-for-its-next-big-update-that-it-will-notify-them-or-order-a-ton-of-pizza-when-its-ready/",
@@ -1437,6 +1429,14 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-29T21:30:00+00:00"
+    },
+    {
+      "guid": "t3_1w1zqu2",
+      "title": "Onimusha Way of the Sword broke street date",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w1zqu2/onimusha_way_of_the_sword_broke_street_date/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-29T22:16:52+00:00"
     }
   ]
 }
