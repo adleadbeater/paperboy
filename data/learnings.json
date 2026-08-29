@@ -1351,30 +1351,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.pushsquare.com/#article-205649",
-      "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (31st-6th September)",
-      "url": "https://www.pushsquare.com/news/2026/08/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-31st-6th-september",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-29T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237061934",
-      "title": "\u2018Spider-Man\u2019 Nearing $900M; \u2018Coyote Vs. Acme\u2019 Solid $14M Debut & \u2018A\u2019 CinemaScore, \u2018Dog Stars\u2019 Going To The Dogs \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/08/box-office-coyote-vs-acme-dog-stars-spider-man-1237061934/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-29T15:46:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753785",
-      "title": "Toy Story 5 Disney+ Release Date Confirmed After $1 Billion Box Office Run",
-      "url": "https://otakukart.com/toy-story-5-disney-release-date-confirmed-after-1-billion-box-office-run/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-29T15:41:56+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000729591",
       "title": "Mike Judge Is Taking Beavis And Butt-Head Back From Paramount",
       "url": "https://kotaku.com/mike-judge-to-take-beavis-and-butt-head-back-from-paramount-2000729591",
@@ -1397,6 +1373,30 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-29T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062692",
+      "title": "Owner Of \u2018Heated Rivalry\u2019 Cottage Did \u201cSoul Searching\u201d Before Agreeing To Season 2: \u201cI\u2019m A Private Guy\u201d",
+      "url": "https://deadline.com/2026/08/owner-heated-rivalry-cottage-soul-searching-season-2-1237062692/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T20:53:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236685167",
+      "title": "Final Emmy Predictions in 116 Categories: HBO Max Poised to Dominate With \u2018The Pitt\u2019 as \u2018Widow\u2019s Bay\u2019 and \u2018Hacks\u2019 Chase Opposite All-Time Records",
+      "url": "https://variety.com/lists/2026-emmys-predictions/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T20:55:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205655",
+      "title": "I'm Obsessed with GTA 6's Next-Gen Wanted System",
+      "url": "https://www.pushsquare.com/news/2026/08/im-obsessed-with-gta-6s-next-gen-wanted-system",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-29T21:00:00+00:00"
     }
   ]
 }
