@@ -1,43 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Pok\u00e9mon's Turn-Based Combat May Be on Its Way Out, Kotaku Reports",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-08-21T21:00:52.704618+00:00",
-      "urls": [
-        "https://kotaku.com/pokemon-champions-turn-based-real-time-battles-winds-waves-2000726753",
-        "https://kotaku.com/pokemon-champions-turn-based-real-time-battles-winds-waves-2000726753"
-      ],
-      "article_titles": [
-        "Pok\u00e9mon\u2019s Battle System May Not Be Turn-Based For Much Longer",
-        "Pok\u00e9mon\u2019s Battle System May Not Be Turn-Based For Much Longer"
-      ]
-    },
-    {
-      "headline": "Double Fine Is Now Fully Independent \u2014 and Owns Every Game It Made Under Xbox",
-      "tag": "double fine / psychonauts",
-      "posted_at": "2026-08-21T21:12:09.330738+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/the-newly-independent-psychonauts-dev-now-earns-all-the-revenue-when-you-buy-games-it-made-under-xbox-buying-any-of-our-games-helps-support-the-studio/",
-        "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713"
-      ],
-      "article_titles": [
-        "The newly independent Psychonauts dev now earns all the revenue when you buy games it made under Xbox: 'Buying any of our games helps support the studio'",
-        "Psychonauts Dev Now Owns All Its Games Made Under Xbox And Their Publishing Rights: \u2018Buying Any Of Our Games Helps Support The Studio\u2019"
-      ]
-    },
-    {
-      "headline": "Genki's New Controller Has a Built-In Screen and Its Own OS \u2014 and Works on Switch 2 and PC",
-      "tag": "nintendo switch 2",
-      "posted_at": "2026-08-21T23:11:46.960378+00:00",
-      "urls": [
-        "https://www.ign.com/articles/genkis-new-high-end-pc-and-switch-2-controller-has-a-built-in-screen-and-onboard-os"
-      ],
-      "article_titles": [
-        "Genki\u2019s New High-End PC and Switch 2 Controller Has a Built-in Screen and Onboard OS"
-      ]
-    },
-    {
       "headline": "Modern Warfare 4 Beta Gets First Update With New Map, Mode, and Quieter Footsteps",
       "tag": "call of duty: modern warfare 4",
       "posted_at": "2026-08-22T16:45:49.015252+00:00",
@@ -1371,18 +1334,64 @@
       "article_titles": [
         "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned"
       ]
+    },
+    {
+      "headline": "EA Responds to Iron Man Gameplay Leak: \"Well, That Didn't Go as Planned\"",
+      "tag": "iron man (ea)",
+      "posted_at": "2026-08-29T15:00:47.611472+00:00",
+      "urls": [
+        "https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet"
+      ],
+      "article_titles": [
+        "EA breaks its silence after Iron Man gameplay leak, admitting \"well, that didn't go as planned\""
+      ]
+    },
+    {
+      "headline": "GTA 6 Gameplay Reveal Peaked at 3.97 Million Twitch Viewers, Crushing the Competition",
+      "tag": "gta 6",
+      "posted_at": "2026-08-29T15:00:47.716653+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix"
+      ],
+      "article_titles": [
+        "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236846494",
-      "title": "\u2018The Song of Scorpions,\u2019 \u2018Qissa\u2019 Director Anup Singh Sets Mumbai Film \u2018Lasya: The Gentle Dance\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/anup-singh-lasya-the-gentle-dance-mumbai-film-1236846494/",
-      "source_name": "Variety",
+      "guid": "https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet",
+      "title": "EA breaks its silence after Iron Man gameplay leak, admitting \"well, that didn't go as planned\"",
+      "url": "https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-08-29T07:06:14+00:00"
+      "published_dt": "2026-08-29T14:56:18+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
+      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T14:25:56+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205649",
+      "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (31st-6th September)",
+      "url": "https://www.pushsquare.com/news/2026/08/these-26plus-ps5-and-ps-plus-games-are-coming-out-next-week-31st-6th-september",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-29T15:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753769",
+      "title": "Fable Director Says He\u2019s \u201cHappy to Avoid\u201d GTA 6 but Ready to Compete With God of War and Persona",
+      "url": "https://otakukart.com/fable-director-says-hes-happy-to-avoid-gta-6-but-ready-to-compete-with-god-of-war-and-persona/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-29T14:41:41+00:00"
     }
   ]
 }
