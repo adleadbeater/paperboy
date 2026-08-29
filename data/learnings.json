@@ -1377,118 +1377,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000729335",
-      "title": "DDoS Attack Breaks Beloved Video Game Wiki After AI Bro Was Banned",
-      "url": "https://kotaku.com/ddos-attack-breaks-beloved-video-game-wiki-after-ai-bro-was-banned-2000729335",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T20:51:22+00:00"
-    },
-    {
-      "guid": "uCZZDvSJsCSGv44v3SYSQ8",
-      "title": "Path of Exile 2's first event league goes 'oops, all bosses' and reworks its worst mode so sane people can finally enjoy it",
-      "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-first-event-league-goes-oops-all-bosses-and-reworks-its-worst-mode-so-sane-people-can-finally-enjoy-it/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T20:55:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237062176",
-      "title": "James Walsh Dies: Tony-Winning Broadway Producer Of \u2018The Heidi Chronicles\u2019 & \u2018I\u2019m Not Rappaport\u2019 Was 89",
-      "url": "https://deadline.com/2026/08/james-walsh-dead-1237062176/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T20:56:21+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236846273",
-      "title": "Gladys Knight Cuts Back on Performing as She Transitions to \u2018Next Stage\u2019 of Career and Life",
-      "url": "https://variety.com/2026/music/news/gladys-knight-steps-back-performing-1236846273/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T20:52:59+00:00"
-    },
-    {
-      "guid": "1866885",
-      "title": "Leaked DLSS 5 Mod Shows Just How Much Nvidia\u2019s AI Filter Can Mess With Your Games",
-      "url": "https://www.gamespot.com/articles/leaked-dlss-5-mod-shows-just-how-much-nvidias-ai-filter-can-mess-with-your-games/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T20:41:36+00:00"
-    },
-    {
-      "guid": "82c334e7-c3a2-43db-8bd3-068fbdf79592",
-      "title": "The Ultralight Gaming Mouse Arms Race Has Entered a New Phase",
-      "url": "https://www.ign.com/articles/ultralight-gaming-mice-future-innovation",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T21:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237062286",
-      "title": "Ridley Scott Teases \u2018Alien: Covenant\u2019 Sequel With Michael Fassbender That Explores \u201cF*cking Chaos\u201d Of AI: \u201cOff The Rails\u201d",
-      "url": "https://deadline.com/2026/08/ridley-scott-alien-covenant-sequel-michael-fassbender-ai-1237062286/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T21:22:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236846230",
-      "title": "Everything We Know About \u2018Grand Theft Auto VI\u2019",
-      "url": "https://variety.com/2026/gaming/news/gta-6-release-details-1236846230/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T21:24:13+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236841619",
-      "title": "Hooters Restaurant Movie in the Works \u2014 Film News in Brief",
-      "url": "https://variety.com/2026/film/news/film-news-in-brief-aug-24-2026-1236841619/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T21:20:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236846046",
-      "title": "LISTEN: Holywater Tech Chief Bogdan Nesvit on the Explosive Growth of Microdramas: \u2018Studios and Creators are Knocking on Our Doors\u2019",
-      "url": "https://variety.com/2026/tv/news/holywater-tech-bogdan-nesvit-microdrama-my-drama-my-muse-1236846046/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-28T21:11:20+00:00"
-    },
-    {
-      "guid": "quzDqGSEz3sMbNHWnvLBaG",
-      "title": "The '90s are a \"perfect time for horror,\" says Silent Hill: Townfall dev who wants the game to make you feel technologically vulnerable",
-      "url": "https://www.gamesradar.com/games/silent-hill/the-90s-are-a-perfect-time-for-horror-says-silent-hill-townfall-dev-who-wants-the-game-to-make-you-feel-technologically-vulnerable/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T21:03:39+00:00"
-    },
-    {
-      "guid": "GANewdadbXArSBkH8aQ2Qh",
-      "title": "Coyote Vs. Acme unveiled an anvil-shaped popcorn bucket to celebrate the film's long-awaited release, but I get why they only made one",
-      "url": "https://www.gamesradar.com/entertainment/comedy-movies/coyote-vs-acme-unveiled-an-anvil-shaped-popcorn-bucket-to-celebrate-the-films-long-awaited-release-but-i-get-why-they-only-made-one/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T20:58:11+00:00"
-    },
-    {
-      "guid": "1866888",
-      "title": "CD Projekt Red Offers To Help Gamescom Theft Victim As Industry Shows Its Support",
-      "url": "https://www.gamespot.com/articles/cd-projekt-red-offers-to-help-gamescom-theft-victim-as-industry-shows-its-support/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T21:18:09+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121955",
-      "title": "Xenoblade Chronicles 2 Nia Spoiler Figure Returns in 2027",
-      "url": "https://www.siliconera.com/xenoblade-chronicles-2-nia-spoiler-figure-returns-in-2027/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-08-28T21:00:00+00:00"
-    },
-    {
       "guid": "d3b8b97b-ba15-4980-b383-bc0baeb7dbc8",
       "title": "Zach Cregger's Resident Evil on Track to Have Biggest Opening Weekend of Any RE Movie in History",
       "url": "https://www.ign.com/articles/zach-creggers-resident-evil-on-track-to-have-biggest-opening-weekend-of-any-re-movie-in-history",
@@ -1503,6 +1391,14 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-08-28T23:57:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062523",
+      "title": "Judge Jackie Glass Dead: \u2018Swift Justice\u2019 TV Host Was 70",
+      "url": "https://deadline.com/2026/08/judge-jackie-glass-dead-swift-justice-tv-host-1237062523/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T03:06:13+00:00"
     }
   ]
 }
