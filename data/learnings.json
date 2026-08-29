@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "PlayStation Is Reminding Players They Don't Own Their Digital Games at the Worst Possible Time",
-      "tag": "playstation",
-      "posted_at": "2026-08-22T19:42:16.347599+00:00",
-      "urls": [
-        "https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054"
-      ],
-      "article_titles": [
-        "PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don\u2019t Own Their Digital Games"
-      ]
-    },
-    {
       "headline": "Arkane Austin Vets Form New Studio, Vow Not to Repeat Redfall's Mistakes",
       "tag": "arkane austin",
       "posted_at": "2026-08-22T22:08:32.464866+00:00",
@@ -1345,6 +1334,17 @@
       "article_titles": [
         "Mike Judge Is Taking Beavis And Butt-Head Back From Paramount"
       ]
+    },
+    {
+      "headline": "Donkey Kong 64 Gets a Native PC Port Built Entirely Without AI",
+      "tag": "donkey kong 64",
+      "posted_at": "2026-08-29T22:00:37.705889+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/action/donkey-kong-64-is-finally-playable-on-pc-thanks-to-a-team-of-programmers-who-boast-that-no-generative-ai-was-used-at-any-point-in-the-process/"
+      ],
+      "article_titles": [
+        "A native port of Donkey Kong 64 is finally playable on PC thanks to a team of programmers who boast that 'no generative AI [was] used at any point in the process'"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1397,6 +1397,46 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-29T21:00:00+00:00"
+    },
+    {
+      "guid": "PtjpHMAryfWE8NNqhSDveh",
+      "title": "A native port of Donkey Kong 64 is finally playable on PC thanks to a team of programmers who boast that 'no generative AI [was] used at any point in the process'",
+      "url": "https://www.pcgamer.com/games/action/donkey-kong-64-is-finally-playable-on-pc-thanks-to-a-team-of-programmers-who-boast-that-no-generative-ai-was-used-at-any-point-in-the-process/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T21:51:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062699",
+      "title": "\u2018Ali G: Who Iz I?\u2019 Sparks Calls For Theater Boycott, Trailer Slammed Over Racist Stereotypes",
+      "url": "https://deadline.com/2026/08/ali-g-who-iz-i-trailer-theater-boycott-racist-caricature-1237062699/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T21:45:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843724",
+      "title": "\u2018Borges and Me\u2019 Review: Gentle, Nostalgic Literary Road Movie Is More Perky Than Poetic",
+      "url": "https://variety.com/2026/film/news/borges-and-me-review-1236843724/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T21:36:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684965",
+      "title": "Heidi Montag Recalls Dolly Parton Defending Her Amid Plastic Surgery Criticism",
+      "url": "https://www.hollywoodreporter.com/news/general-news/heidi-montag-recalls-dolly-parton-defending-her-amid-plastic-surgery-criticism-1236684965/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T21:46:33+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205656",
+      "title": "Sony Will Explore New Game Projects via $180m Stake in Japanese Publisher, But PlayStation Is Not Involved",
+      "url": "https://www.pushsquare.com/news/2026/08/sony-will-explore-new-game-projects-via-usd180m-stake-in-japanese-publisher-but-playstation-is-not-involved",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-29T21:30:00+00:00"
     }
   ]
 }
