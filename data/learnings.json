@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Modern Warfare 4 Beta Gets First Update With New Map, Mode, and Quieter Footsteps",
-      "tag": "call of duty: modern warfare 4",
-      "posted_at": "2026-08-22T16:45:49.015252+00:00",
-      "urls": [
-        "https://www.eurogamer.net/modern-warfare-4-beta-day-1-update-footstep-audio-weapon-balance"
-      ],
-      "article_titles": [
-        "Modern Warfare 4 beta's first update is live, adding a new map, mode, and toned-down footsteps"
-      ]
-    },
-    {
-      "headline": "SNK Is in Financial Trouble \u2014 and Just Hired Tekken's Director to Help Fix It",
-      "tag": "snk",
-      "posted_at": "2026-08-22T17:41:48.094446+00:00",
-      "urls": [
-        "https://kotaku.com/snk-reports-financial-woes-as-tekken-director-kohei-ikeda-reunites-with-katsuhiro-harada-2000727049"
-      ],
-      "article_titles": [
-        "SNK Reports Financial Woes As Tekken Director Kohei Ikeda Comes Aboard"
-      ]
-    },
-    {
       "headline": "PlayStation Is Reminding Players They Don't Own Their Digital Games at the Worst Possible Time",
       "tag": "playstation",
       "posted_at": "2026-08-22T19:42:16.347599+00:00",
@@ -1356,27 +1334,22 @@
       "article_titles": [
         "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process"
       ]
+    },
+    {
+      "headline": "Mike Judge Is Wresting Beavis and Butt-Head Away From Paramount",
+      "tag": "beavis and butt-head",
+      "posted_at": "2026-08-29T18:57:11.834430+00:00",
+      "urls": [
+        "https://kotaku.com/mike-judge-to-take-beavis-and-butt-head-back-from-paramount-2000729591"
+      ],
+      "article_titles": [
+        "Mike Judge Is Taking Beavis And Butt-Head Back From Paramount"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet",
-      "title": "EA breaks its silence after Iron Man gameplay leak, admitting \"well, that didn't go as planned\"",
-      "url": "https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-29T14:56:18+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
-      "title": "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process",
-      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-29T14:25:56+00:00"
-    },
     {
       "guid": "https://www.pushsquare.com/#article-205649",
       "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out Next Week (31st-6th September)",
@@ -1384,14 +1357,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-08-29T15:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1753769",
-      "title": "Fable Director Says He\u2019s \u201cHappy to Avoid\u201d GTA 6 but Ready to Compete With God of War and Persona",
-      "url": "https://otakukart.com/fable-director-says-hes-happy-to-avoid-gta-6-but-ready-to-compete-with-god-of-war-and-persona/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-08-29T14:41:41+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237061934",
@@ -1408,6 +1373,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-08-29T15:41:56+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729591",
+      "title": "Mike Judge Is Taking Beavis And Butt-Head Back From Paramount",
+      "url": "https://kotaku.com/mike-judge-to-take-beavis-and-butt-head-back-from-paramount-2000729591",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T18:27:36+00:00"
+    },
+    {
+      "guid": "mhyvNUaPae39Yce4BwoBhT",
+      "title": "Valve assures Deadlock players hungry for its next big update that it will notify them, 'or order a ton of pizza', when it's ready",
+      "url": "https://www.pcgamer.com/games/moba/valve-assures-deadlock-players-hungry-for-its-next-big-update-that-it-will-notify-them-or-order-a-ton-of-pizza-when-its-ready/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-29T18:44:53+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205652",
+      "title": "'This Looks Like Dogsh*t': Disturbing DLSS 5 AI Filter Applied to Major PS5 Games After Leaking",
+      "url": "https://www.pushsquare.com/news/2026/08/this-looks-like-dogsht-disturbing-dlss-5-ai-filter-applied-to-major-ps5-games-after-leaking",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-29T19:00:00+00:00"
     }
   ]
 }
