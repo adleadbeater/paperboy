@@ -1351,22 +1351,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "xtLncWyfeW5GpNWjFtTfYm",
-      "title": "Thanks to a dedicated team 'art-directing' every single NPC, GTA 6 has over 10 times as many unique animations as GTA 5",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/thanks-to-a-dedicated-team-art-directing-every-single-npc-gta-6-has-over-10-times-as-many-unique-animations-as-gta-5/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-30T18:40:46+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205651",
-      "title": "$900 PS5 Pro Now Sold Out in US Amid GTA 6 Fever",
-      "url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-now-sold-out-in-us-amid-gta-6-fever",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-30T18:45:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237062926",
       "title": "\u2018Days of Thunder\u2019s Randy Quaid Calls Anne Hathaway \u201cHorrible Choice\u201d For Sequel In Problematic Diatribe: \u201cShe\u2019s Pregnant\u201d",
       "url": "https://deadline.com/2026/08/days-of-thunder-randy-quaid-calls-anne-hathaway-horrible-sequel-1237062926/",
@@ -1381,6 +1365,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-30T21:10:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062985",
+      "title": "Your Move, Mr. Governor: CA Post Production Tax Incentive Bill Passes State Senate; Moves To Newsom\u2019s Desk",
+      "url": "https://deadline.com/2026/08/ca-post-production-tax-incentive-bill-passes-1237062985/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-30T23:31:28+00:00"
     }
   ]
 }
