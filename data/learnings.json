@@ -1351,20 +1351,52 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "oG8riueT7zz4A7y86MPNij",
-      "title": "Peter Cullen, voice of Optimus Prime in The Transformers, dies aged 85",
-      "url": "https://www.pcgamer.com/movies-tv/peter-cullen-voice-of-optimus-prime-in-the-transformers-dies-aged-85/",
-      "source_name": "PC Gamer",
+      "guid": "79fbb69e-4fea-4e08-901e-bc7048d18bdd",
+      "title": "Grab Philips Shavers at a Steep Discount at Amazon Right Now",
+      "url": "https://www.ign.com/articles/best-philips-electric-shaver-deals",
+      "source_name": "IGN",
       "source_tier": 1,
-      "published_dt": "2026-08-30T04:46:46+00:00"
+      "published_dt": "2026-08-30T12:00:00+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-205657",
-      "title": "LEGO Teases Five New Smart Play Pok\u00e9mon, Arriving In 2027",
-      "url": "https://www.nintendolife.com/news/2026/08/lego-teases-five-new-smart-play-pokemon-arriving-in-2027",
+      "guid": "ccuB44kjSTFeo2gaauCyaM",
+      "title": "Gears of War: E-Day devs want to be known for \"all the things that made Gears resonate in the first place,\" without \"looking outside at other franchises\"",
+      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-devs-want-to-be-known-for-all-the-things-that-made-gears-resonate-in-the-first-place-without-looking-outside-at-other-franchises/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-30T12:21:16+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205659",
+      "title": "Mega Man Series Producer Says Capcom Would Love To Revisit Mega Man X",
+      "url": "https://www.nintendolife.com/news/2026/08/mega-man-series-producer-says-capcom-would-love-to-revisit-mega-man-x",
       "source_name": "Nintendo Life",
       "source_tier": 2,
-      "published_dt": "2026-08-30T05:30:00+00:00"
+      "published_dt": "2026-08-30T12:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205660",
+      "title": "Sony's Rumoured to Be Reversing Its Physical Discs Decision, But I Don't Buy It At All",
+      "url": "https://www.pushsquare.com/news/2026/08/sonys-rumoured-to-be-reversing-its-physical-discs-decision-but-i-dont-buy-it-at-all",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-30T12:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1753823",
+      "title": "Donkey Kong Bananza Sound Designer Says Nintendo Encourages Developers to Experiment Before Dismissing New Ideas",
+      "url": "https://otakukart.com/donkey-kong-bananza-sound-designer-says-nintendo-encourages-developers-to-experiment-before-dismissing-new-ideas/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-08-30T12:12:30+00:00"
+    },
+    {
+      "guid": "t3_1w2fvwt",
+      "title": "A user on Famiboards (Nintendo fan forum) claims that third-party developers/publishers have been disappointed/underwhelmed with sales of their games on Nintendo Switch 2.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w2fvwt/a_user_on_famiboards_nintendo_fan_forum_claims/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-30T12:09:26+00:00"
     }
   ]
 }
