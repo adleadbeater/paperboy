@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Terranigma, the SNES Classic That Never Officially Released in North America, Is Finally Coming to Modern Platforms",
-      "tag": "terranigma",
-      "posted_at": "2026-08-24T18:21:30.861330+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/08/terranigma-announced-for-ps5-xbox-series-switch-2-ps4-switch-and-pc",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1vxamlk/terranigma_releases_2027_on_ps5_ps4_xbox_series/",
-        "https://www.gematsu.com/2026/08/well-dweller-adds-ps5-xbox-series-and-switch-2-versions-launches-september-22"
-      ],
-      "article_titles": [
-        "Terranigma announced for PS5, Xbox Series, Switch 2, PS4, Switch, and PC",
-        "Terranigma releases 2027 on PS5, PS4, Xbox Series, Switch 2, Switch, PC",
-        "Well Dweller adds PS5, Xbox Series, and Switch 2 versions, launches September 22"
-      ]
-    },
-    {
       "headline": "Discord Responds to GTA 6 Leak Subpoena Situation: \"We'll Evaluate Before Responding\"",
       "tag": "gta 6",
       "posted_at": "2026-08-24T19:50:34.250381+00:00",
@@ -1343,35 +1328,22 @@
       "article_titles": [
         "PS5 Is Getting Free Live TV"
       ]
+    },
+    {
+      "headline": "Warlock: Dungeons & Dragons Shows Off Combat and Exploration in Extended Gameplay Reveal",
+      "tag": "warlock: dungeons & dragons",
+      "posted_at": "2026-08-31T18:31:04.430153+00:00",
+      "urls": [
+        "https://www.ign.com/articles/warlock-dungeons-dragons-gameplay-reveal-gives-extended-look-at-combat-exploration-and-traversal"
+      ],
+      "article_titles": [
+        "Warlock: Dungeons & Dragons Gameplay Reveal Gives Extended Look at Combat, Exploration, and Traversal"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000729876",
-      "title": "Another PlayStation Studio Cofounder Steps Down: \u2018Housemarque\u2019s Strategy And Creative Vision Are In Exceptional Hands\u2019",
-      "url": "https://kotaku.com/another-playstation-studio-cofounder-steps-down-housemarques-strategy-and-creative-vision-are-in-exceptional-hands-2000729876",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:29:07+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237063093",
-      "title": "John Galliano Pulls Out Of Met Gala Exhibit Amid Backlash",
-      "url": "https://deadline.com/2026/08/john-galliano-met-gala-canceled-backlash-1237063093/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:17:32+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236847151",
-      "title": "Amelia Dimoldenberg Started \u2018Chicken Shop Date\u2019 at a London Youth Club. Now, She\u2019s Giving Back Through Her Own Summer Academy",
-      "url": "https://variety.com/2026/digital/global/amelia-dimoldenberg-dimz-inc-academy-youth-club-1236847151/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:30:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000729877",
       "title": "Pok\u00e9mon Knows Its Worlds Lottery System Sucks, But Doesn\u2019t Have A Better Idea: \u2018The Public Is Unaware Of The Level Of Demand\u2019",
@@ -2291,6 +2263,38 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-08-31T17:45:26+00:00"
+    },
+    {
+      "guid": "f148939e-5a35-485b-a1d1-5b2ed5dbe104",
+      "title": "Warlock: Dungeons & Dragons Gameplay Reveal Gives Extended Look at Combat, Exploration, and Traversal",
+      "url": "https://www.ign.com/articles/warlock-dungeons-dragons-gameplay-reveal-gives-extended-look-at-combat-exploration-and-traversal",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T18:00:00+00:00"
+    },
+    {
+      "guid": "ba71de13-c76b-4200-851a-f6d27e04e55c",
+      "title": "GTA 6's Relationship Mechanic Is 'Cheating' on Your Real-Life Partner and Break Up Worthy, According to Angry Spouses",
+      "url": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T17:55:42+00:00"
+    },
+    {
+      "guid": "MpcqS5nLtTUGBc473fRZSf",
+      "title": "Some of WoW's hardest dungeons and raids have gotten just a bit easier\u2014that's on purpose, developers say",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/some-of-wows-hardest-dungeons-and-raids-have-gotten-just-a-bit-easier-thats-on-purpose-developers-say/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T18:19:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847552",
+      "title": "Joko Anwar\u2019s \u2018Satan\u2019s Slaves: Origin\u2019 Boarded by Barunson E&A for International Sales",
+      "url": "https://variety.com/2026/film/news/joko-anwar-satans-slaves-origin-barunson-ea-1236847552/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T18:15:47+00:00"
     }
   ]
 }
