@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Castlevania: Belmont's Curse Recruits Netflix Dracula and Cast for Its English Voice Roster",
-      "tag": "castlevania: belmont's curse",
-      "posted_at": "2026-08-24T17:01:04.312406+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/action-rpg/castlevania-belmonts-curse-brings-on-the-netflix-shows-dracula-and-1-other-star-from-the-tv-series-as-part-of-the-new-games-english-cast/",
-        "https://www.gematsu.com/2026/08/castlevania-belmonts-curse-english-voice-cast-announced"
-      ],
-      "article_titles": [
-        "Castlevania: Belmont's Curse brings on the Netflix show's Dracula and 1 other star from the TV series as part of the new game's English cast",
-        "Castlevania: Belmont\u2019s Curse English voice cast announced"
-      ]
-    },
-    {
       "headline": "Stellar Blade Is Coming to Nintendo Switch 2, New Trailer Shows It Off",
       "tag": "stellar blade",
       "posted_at": "2026-08-24T17:31:06.806108+00:00",
@@ -1325,6 +1312,17 @@
       "article_titles": [
         "Atlus Claims It Couldn\u2019t Get The Original English Voice Cast For Persona 4 Revival And Fans Are In Complete Disbelief"
       ]
+    },
+    {
+      "headline": "Take-Two Asks Court to Seal GTA 6 Leaker Subpoena to Avoid Tipping Off Suspects",
+      "tag": "gta 6",
+      "posted_at": "2026-08-31T17:01:19.323667+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/"
+      ],
+      "article_titles": [
+        "With GTA 6 leaker hunt 'rapidly evolving,' Take-Two asks court to keep latest subpoena request sealed to avoid tipping off leakers"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -2049,6 +2047,126 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-31T16:25:17+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729957",
+      "title": "Pok\u00e9mon\u2019s World Champion Made History By Dethroning Charizard",
+      "url": "https://kotaku.com/pokemon-world-championships-mega-dragonite-charizard-finals-2000729957",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T17:00:51+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729933",
+      "title": "The Blood Of Dawnwalker Reviews Are Divided On Whether It\u2019s A Great New RPG Or Repetitive And Janky",
+      "url": "https://kotaku.com/the-blood-of-dawnwalker-reviews-are-divided-on-whether-its-a-great-new-rpg-or-repetitive-and-janky-2000729933",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:48:49+00:00"
+    },
+    {
+      "guid": "h4ehXVt5yqZDzoPjmz5gq5",
+      "title": "With GTA 6 leaker hunt 'rapidly evolving,' Take-Two asks court to keep latest subpoena request sealed to avoid tipping off leakers",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/with-gta-6-leaker-hunt-rapidly-evolving-take-two-asks-court-to-keep-latest-subpoena-request-sealed-to-avoid-tipping-off-leakers/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:57:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063223",
+      "title": "\u2018Off Campus\u2019 Star Stephen Kalyn Joins Sydney Sweeney In \u2018Housemaid\u2019s Secret\u2019",
+      "url": "https://deadline.com/2026/08/off-campus-stephen-kalyn-sydney-sweeney-housemaids-secret-1237063223/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063182",
+      "title": "HBO Lands Hot Drama Spec \u2018Imposter\u2019 By DWA Assistant Kalos Chu With Lauren LeFranc Producing",
+      "url": "https://deadline.com/2026/08/hbo-imposter-drama-spec-assistant-kalos-chu-lauren-lefranc-1237063182/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:30:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847454",
+      "title": "Hollywood Assistant Horror Novel \u2018This Town Will Eat You Alive\u2019 Written Under Pseudonym by Industry Insider Set at Hanover Square Press (EXCLUSIVE)",
+      "url": "https://variety.com/2026/biz/news/hollywood-assistant-horror-novel-this-town-will-eat-you-alive-1236847454/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T17:00:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847437",
+      "title": "Stephen Kalyn Joins \u2018Housemaid\u2019s Secret\u2019 Cast After \u2018Off Campus\u2019 Fame",
+      "url": "https://variety.com/2026/film/news/stephen-kalyn-housemaids-secret-cast-off-campus-1236847437/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236685839",
+      "title": "\u2018Off Campus\u2019 Star Stephen Kalyn Joins \u2018The Housemaid\u2019s Secret\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/stephen-kalyn-the-housemaids-secret-1236685839/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T17:00:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236685737",
+      "title": "Norman Reedus Boards Apple TV Spy Thriller \u2018Disavowed\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/norman-reedus-apple-tv-disavowed-spy-series-1236685737/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684843",
+      "title": "Kenneth Lonergan Writes Letter in Defense of Mark Ruffalo, Calls Antisemitism Accusation \u201cCynical\u201d",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/kenneth-lonergan-letter-mark-ruffalo-1236684843/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:58:50+00:00"
+    },
+    {
+      "guid": "vtZy84RGHZbtsvzXoamq4P",
+      "title": "After parting with DC and Netflix, Zack Snyder sets world premiere for his 20-year passion project The Last Photograph",
+      "url": "https://www.gamesradar.com/entertainment/action-movies/after-parting-with-dc-and-netflix-zack-snyder-sets-world-premiere-for-his-20-year-passion-project-the-last-photograph/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T16:50:32+00:00"
+    },
+    {
+      "guid": "1869531",
+      "title": "PS5 Adds Free Live And On-Demand Movie And TV Channels, In Exchange For Watching Ads",
+      "url": "https://www.gamespot.com/articles/ps5-adds-free-live-and-on-demand-movie-and-tv-channels-in-exchange-for-watching-ads/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T16:31:01+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122025",
+      "title": "New Chrono Trigger Character Merchandise Includes Frog and Robo Plush",
+      "url": "https://www.siliconera.com/new-chrono-trigger-character-merchandise-includes-frog-and-robo-plush/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=617893",
+      "title": "D&D: Five Spells For Ruining Someone\u2019s Day",
+      "url": "https://www.belloflostsouls.net/2026/08/dd-five-spells-for-ruining-someones-day.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T17:00:00+00:00"
+    },
+    {
+      "guid": "t3_1w3jdut",
+      "title": "Fatshark's cancelled multiplayer SCREAM game discovered on Valve's Teraleak",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w3jdut/fatsharks_cancelled_multiplayer_scream_game/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T16:47:12+00:00"
     }
   ]
 }
