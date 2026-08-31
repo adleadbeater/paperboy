@@ -1,50 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Arkane Austin Vets Form New Studio, Vow Not to Repeat Redfall's Mistakes",
-      "tag": "arkane austin",
-      "posted_at": "2026-08-22T22:08:32.464866+00:00",
-      "urls": [
-        "https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068"
-      ],
-      "article_titles": [
-        "New Studio From Arkane Austin Devs Promises They Won\u2019t Commit Another Redfall"
-      ]
-    },
-    {
-      "headline": "FromSoftware's Miyazaki Details How The Duskbloods Will Shield New Players From Veterans",
-      "tag": "the duskbloods",
-      "posted_at": "2026-08-23T12:12:56.578370+00:00",
-      "urls": [
-        "https://www.eurogamer.net/the-duskbloods-skill-based-matchmaking-hidetaka-miyazaki"
-      ],
-      "article_titles": [
-        "Miyazaki explains how The Duskbloods plans to protect newcomers from its best players"
-      ]
-    },
-    {
-      "headline": "Bethesda Artist Says Microsoft Has Brought \"Yearly Layoffs\" to a Studio That Never Had Them Before",
-      "tag": "bethesda",
-      "posted_at": "2026-08-23T16:47:32.347519+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/we-didnt-have-layoffs-before-and-now-all-of-a-sudden-we-have-yearly-layoffs-bethesda-artist-says-something-has-changed-under-microsoft/"
-      ],
-      "article_titles": [
-        "'We didn't have layoffs before, and now all of a sudden we have yearly layoffs': Bethesda artist says 'something has changed' under Microsoft"
-      ]
-    },
-    {
-      "headline": "Twitch Streamers Sue Amazon Over AI Training Using Their Content Without Consent",
-      "tag": "twitch",
-      "posted_at": "2026-08-23T17:00:53.413534+00:00",
-      "urls": [
-        "https://www.eurogamer.net/twitch-amazon-generative-ai-training-lawsuit-streamers"
-      ],
-      "article_titles": [
-        "Twitch faces a class action lawsuit over using streamers' content to train Amazon's AI"
-      ]
-    },
-    {
       "headline": "Konami Says Metal Gear, Castlevania, and Silent Hill Reboots Are a Top Priority",
       "tag": "konami",
       "posted_at": "2026-08-24T12:20:09.011993+00:00",
@@ -1345,6 +1301,17 @@
       "article_titles": [
         "A native port of Donkey Kong 64 is finally playable on PC thanks to a team of programmers who boast that 'no generative AI [was] used at any point in the process'"
       ]
+    },
+    {
+      "headline": "A New Pok\u00e9mon Movie Is Coming in 2027 \u2014 *Pok\u00e9mon: Wild Card* Announced With Teaser",
+      "tag": "pok\u00e9mon",
+      "posted_at": "2026-08-31T06:20:58.490070+00:00",
+      "urls": [
+        "https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/"
+      ],
+      "article_titles": [
+        "\u2018Pok\u00e9mon: Wild Card\u2019 Movie Announced for 2027; Teaser Released"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1357,6 +1324,14 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-08-31T05:04:07+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236685585",
+      "title": "\u2018Pok\u00e9mon: Wild Card\u2019 Movie Announced for 2027; Teaser Released",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/pokemon-wild-card-movie-announced-2027-watch-teaser-1236685585/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T06:07:23+00:00"
     }
   ]
 }
