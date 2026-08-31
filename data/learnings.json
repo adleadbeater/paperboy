@@ -1349,14 +1349,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/join-us-real-ex-cult-members-playtest-reaction",
-      "title": "Cult simulator Join Us recruits four real ex-cult members to \"experience the game\u2019s darkly satirical take on cult life\"",
-      "url": "https://www.eurogamer.net/join-us-real-ex-cult-members-playtest-reaction",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:11:33+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000729876",
       "title": "Another PlayStation Studio Cofounder Steps Down: \u2018Housemarque\u2019s Strategy And Creative Vision Are In Exceptional Hands\u2019",
       "url": "https://kotaku.com/another-playstation-studio-cofounder-steps-down-housemarques-strategy-and-creative-vision-are-in-exceptional-hands-2000729876",
@@ -1373,76 +1365,12 @@
       "published_dt": "2026-08-31T14:17:32+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237063082",
-      "title": "MS Now Sets New Weekend Show \u2018The Assignment With Antonia Hylton\u2019",
-      "url": "https://deadline.com/2026/08/ms-now-new-weekend-show-the-assignment-with-antonia-hylton-1237063082/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:09:32+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236847151",
       "title": "Amelia Dimoldenberg Started \u2018Chicken Shop Date\u2019 at a London Youth Club. Now, She\u2019s Giving Back Through Her Own Summer Academy",
       "url": "https://variety.com/2026/digital/global/amelia-dimoldenberg-dimz-inc-academy-youth-club-1236847151/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-08-31T14:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236847079",
-      "title": "Chicago Cubs Sets Rom-Com Series \u2018Nine Innings to Love\u2019",
-      "url": "https://variety.com/2026/digital/news/chicago-cubs-rom-com-series-nine-innings-to-love-1236847079/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:05:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236847246",
-      "title": "Antonia Hylton\u2019s New MS NOW Weekend Show \u2018The Assignment\u2019 Debuts September 12",
-      "url": "https://variety.com/2026/tv/news/antonia-hyltos-ms-now-assignment-debut-september-12-1236847246/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:05:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236826576",
-      "title": "Tate McRae Attends the US Open in New York City, Olivia Rodrigo Performs at the Daisy Chain Fields Festival and More Red Carpet Photos: August 2026",
-      "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-august-2026/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:00:31+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236685648",
-      "title": "Randy Quaid Slams Tom Cruise Over Anne Hathaway \u2018Days of Thunder 2\u2019 Role: \u201cAnne Isn\u2019t Sexy\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/randy-quaid-tom-cruise-anne-hathaway-days-of-thunder-sequel-1236685648/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:03:31+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236685632",
-      "title": "Zack Snyder\u2019s \u2018The Last Photograph\u2019 to World Premiere at Toronto Film Festival",
-      "url": "https://www.hollywoodreporter.com/news/general-news/zack-snyder-the-last-photograph-toronto-premiere-2026-1236685632/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T14:01:18+00:00"
-    },
-    {
-      "guid": "1869435",
-      "title": "Fable Reboot\u2019s Main Story Is About 20 Hours Long, Dev Says",
-      "url": "https://www.gamespot.com/articles/fable-reboots-main-story-is-about-20-hours-long-dev-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-08-31T14:02:46+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205650",
-      "title": "Trophies Surprisingly Added to PS1 Shooter 2 Years After PS5 Release",
-      "url": "https://www.pushsquare.com/news/2026/08/trophies-surprisingly-added-to-ps1-shooter-2-years-after-ps5-release",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-31T14:15:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000729877",
@@ -2331,6 +2259,38 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-08-31T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063262",
+      "title": "\u2018Tires\u2019: Netflix Confirms Season 4, Part Of Two-Year Renewal For Shane Gillis\u2019 Workplace Comedy Series",
+      "url": "https://deadline.com/2026/08/tires-renewed-season-4-shane-gillis-netflx-2-year-deal-1237063262/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T18:04:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847491",
+      "title": "\u2018Big Mistakes\u2019 Season 2 Casts Lorenzo de Moor, Poorna Jagannathan",
+      "url": "https://variety.com/2026/tv/news/big-mistakes-season-2-lorenzo-de-moor-poorna-jagannathan-1236847491/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205697",
+      "title": "Guide: When Is PlayStation's State of Play for September 2026?",
+      "url": "https://www.pushsquare.com/guides/when-is-playstations-state-of-play-for-september-2026",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/detachment-focus-host-of-ascension/",
+      "title": "11th Edition Detachment Focus: Host of Ascension (Updated August 31, 2026)",
+      "url": "https://www.tabletopbattles.com/detachment-focus-host-of-ascension/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T17:45:26+00:00"
     }
   ]
 }
