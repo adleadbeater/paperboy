@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Witcher 4 Finally Has a Release Window \u2014 and It's 2028",
-      "tag": "the witcher 4",
-      "posted_at": "2026-08-24T16:01:13.503553+00:00",
-      "urls": [
-        "https://kotaku.com/the-witcher-4-release-window-2028-gamescom-trailer-2000727598",
-        "https://www.gamespot.com/articles/witcher-4-release-window-narrowed-down-to-2028/",
-        "https://www.pushsquare.com/news/2026/08/the-witcher-4-set-for-a-2028-release-cd-projekt-red-confirms"
-      ],
-      "article_titles": [
-        "The Witcher 4 Won\u2019t Be At Gamescom, But Finally Has A 2028 Launch Window",
-        "Witcher 4 Release Window Narrowed Down, As Dev Teases \u201cA Surprise Or Two\u201d At Gamescom About Other Things",
-        "The Witcher 4 Set for a 2028 Release, CD Projekt Red Confirms"
-      ]
-    },
-    {
       "headline": "Castlevania: Belmont's Curse Recruits Netflix Dracula and Cast for Its English Voice Roster",
       "tag": "castlevania: belmont's curse",
       "posted_at": "2026-08-24T17:01:04.312406+00:00",
@@ -1329,6 +1314,17 @@
         "The Blood of Dawnwalker review",
         "The Blood of Dawnwalker review: \"Despite clear Witcher 3 DNA, I wish this vampire RPG was messier\""
       ]
+    },
+    {
+      "headline": "Atlus Says It Couldn't Reunite the Original English Cast for Persona 4 Revival",
+      "tag": "persona 4",
+      "posted_at": "2026-08-31T16:01:20.369514+00:00",
+      "urls": [
+        "https://kotaku.com/why-atlus-recast-original-persona-4-revival-voice-actors-yuri-lowenthal-erin-fitzgerald-2000729848"
+      ],
+      "article_titles": [
+        "Atlus Claims It Couldn\u2019t Get The Original English Voice Cast For Persona 4 Revival And Fans Are In Complete Disbelief"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1781,6 +1777,118 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-08-31T15:16:11+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000729848",
+      "title": "Atlus Claims It Couldn\u2019t Get The Original English Voice Cast For Persona 4 Revival And Fans Are In Complete Disbelief",
+      "url": "https://kotaku.com/why-atlus-recast-original-persona-4-revival-voice-actors-yuri-lowenthal-erin-fitzgerald-2000729848",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T15:40:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062760",
+      "title": "Watch \u2018One In A Million\u2019 Trailer, Oscar Contender That Follows Incredible Journey Of Syrian Girl Across Tumultuous Decade",
+      "url": "https://deadline.com/2026/08/one-in-a-million-trailer-exclusive-1237062760/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063162",
+      "title": "Creative Arts Emmy Presenters Include Colin Hanks, Julianne Hough & Wanda Sykes",
+      "url": "https://deadline.com/2026/08/2026-creative-arts-emmy-presenters-1237063162/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T15:32:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236846021",
+      "title": "\u2018Onslaught\u2019 Review: Adria Arjona and Dan Stevens Star in Adam Wingard\u2019s Fun but Scattered Military Slasher",
+      "url": "https://variety.com/2026/film/reviews/onslaught-review-1236846021/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236685727",
+      "title": "Marty Nadler, Writer, Producer and Longtime Garry Marshall Contributor, Dies at 80",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/marty-nadler-dead-garry-marshall-happy-days-laverne-shirley-1236685727/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:00:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236678958",
+      "title": "Leonardo DiCaprio\u2019s Appian Way and Dax Dasilva Board Soleil Moon Frye\u2019s Shifty Shellshock Doc",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/soleil-moon-frye-doc-werewolf-in-the-waves-shifty-shellshock-1236678958/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682893",
+      "title": "\u2018Onslaught\u2019 Review: Adria Arjona Shines in Adam Wingard\u2019s Intriguingly Colorful, Ultimately Underwhelming Action Thriller",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/onslaught-review-adria-arjona-dan-stevens-adam-wingard-1236682893/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236685721",
+      "title": "Could the Galliano Met Gala Fiasco Mark the End of Anna Wintour\u2019s Reign?",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/galliano-met-gala-fiasco-anna-wintour-1236685721/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T15:46:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679031",
+      "title": "\u2018The Girl in the River\u2019 Review: Tiffany Haddish in a Police Procedural That\u2019s Like a Failed TV Pilot From a Past Era",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-girl-in-the-river-review-tiffany-haddish-ralph-macchio-1236679031/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-08-31T15:41:18+00:00"
+    },
+    {
+      "guid": "1869476",
+      "title": "Xbox CEO Reacts To The Irony Of Rising Console Prices Being An Issue That Microsoft Itself Contributed To",
+      "url": "https://www.gamespot.com/articles/xbox-ceo-reacts-to-the-irony-of-rising-console-prices-being-an-issue-that-microsoft-itself-created/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T15:29:48+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122021",
+      "title": "Fate/Extra Record Is an Aniplex Game Now",
+      "url": "https://www.siliconera.com/fate-extra-record-is-an-aniplex-game-now/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205704",
+      "title": "Following Last Year's Failed Kickstarter, Piko Is Back With Another Retro Platform Bearing The Bleem Name",
+      "url": "https://www.timeextension.com/news/2026/08/following-last-years-failed-kickstarter-piko-is-back-with-another-retro-platform-bearing-the-bleem-name",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074273",
+      "title": "Romancing SaGa 3: Destinies United rated for PS5, Xbox Series, Switch 2, Switch, and PC in Brazil",
+      "url": "https://www.gematsu.com/2026/08/romancing-saga-3-destinies-united-rated-for-ps5-xbox-series-switch-2-switch-and-pc-in-brazil",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T15:48:06+00:00"
+    },
+    {
+      "guid": "t3_1w3hazo",
+      "title": "Nash Weedle (Aug. 2 Tweet): \"A State of Play will take place on September 3rd\"",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w3hazo/nash_weedle_aug_2_tweet_a_state_of_play_will_take/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-08-31T15:35:11+00:00"
     }
   ]
 }
