@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "NBA 2K27 Is Teasing a GTA 6 Crossover Event with Rockstar Games",
-      "tag": "gta 6",
-      "posted_at": "2026-08-25T16:31:39.250695+00:00",
-      "urls": [
-        "https://www.ign.com/articles/nba-2k27-is-teasing-a-gta-6-themed-event-in-collaboration-with-rockstar-games"
-      ],
-      "article_titles": [
-        "NBA 2K27 Is Teasing a GTA 6-Themed Event in Collaboration with Rockstar Games"
-      ]
-    },
-    {
-      "headline": "Marvel T\u014dkon Devs Admit Rebuilding Trust After Botched PC Launch Will Be 'Extremely Challenging'",
-      "tag": "marvel t\u014dkon",
-      "posted_at": "2026-08-25T16:31:39.333864+00:00",
-      "urls": [
-        "https://www.ign.com/articles/marvel-tokon-devs-confess-regaining-trust-after-fumbled-pc-launch-will-be-extremely-challenging",
-        "https://kotaku.com/marvel-tokon-fighting-souls-pc-port-arc-system-works-steam-2000727869"
-      ],
-      "article_titles": [
-        "Marvel Tokon Devs Confess Regaining Trust After Fumbled PC Launch Will Be 'Extremely Challenging'",
-        "Marvel T\u014dkon Devs Say Botched PC Launch Will Make Regaining Player Trust \u2018Extremely Challenging\u2019"
-      ]
-    },
-    {
       "headline": "RollerCoaster Tycoon Is Back With a New Entry \u2014 and Bubsy Is Somehow in It",
       "tag": "rollercoaster tycoon",
       "posted_at": "2026-08-25T18:00:52.704558+00:00",
@@ -1401,43 +1377,22 @@
       "article_titles": [
         "Total War: Warhammer 40,000 is a sandbox that Creative Assembly will keep adding to rather than making sequels: 'The true experience is the sandbox'"
       ]
+    },
+    {
+      "headline": "Cyberpunk 2077 and 9 More Games Leaving Xbox Game Pass Soon",
+      "tag": "xbox game pass",
+      "posted_at": "2026-09-01T17:01:40.948882+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/xbox-game-pass-removes-cyberpunk-2077-and-9-other-games-very-soon/"
+      ],
+      "article_titles": [
+        "Xbox Game Pass Removes Cyberpunk 2077 And 9 Other Games Very Soon"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "7136c898-3c94-44d4-8d63-a6a752bc03d6",
-      "title": "Afterworld: The First Hands-On Preview: A (Probably Too Early) Taste of Paradox\u2019s Next Big Thing",
-      "url": "https://www.ign.com/articles/afterworld-the-first-hands-on-preview-a-probably-too-early-taste-of-paradoxs-next-big-thing",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "guid": "3c1a3f7c-5553-4b67-9d9f-a28350b1a241",
-      "title": "Alex Ross Returns for New Marvel Dimensions Graphic Novel",
-      "url": "https://www.ign.com/articles/alex-ross-returns-for-new-marvel-dimensions-graphic-novel",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "guid": "8ca10434-f571-46a1-85c2-6759a69d72e0",
-      "title": "Marvel\u2019s Wolverine: Explaining the Origins of the PS5 Game\u2019s Suits",
-      "url": "https://www.ign.com/articles/marvels-wolverine-ps5-game-costumes-origins",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/doom-the-dark-ages-revelations-id-software-crunch",
-      "title": "Laid off id Software developer says crunch on Doom: The Dark Ages' Revelations DLC was \"brutal\" with up to 17-hour days",
-      "url": "https://www.eurogamer.net/doom-the-dark-ages-revelations-id-software-crunch",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T13:00:35+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000730196",
       "title": "50 Minutes Behind Closed Doors With The Witcher 3: Songs Of The Past Shows An Expansion Trying To Give Fans Exactly What They Want",
@@ -1471,36 +1426,12 @@
       "published_dt": "2026-09-01T13:01:09+00:00"
     },
     {
-      "guid": "244reNoLY5eTBix6gwk9VG",
-      "title": "Nvidia snuck me into a room to show off DLSS 5 in person, and it's somehow beautiful, ugly, impressive, and troubling all at the same time",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-snuck-me-into-a-room-to-show-off-dlss-5-in-person-and-its-somehow-beautiful-ugly-impressive-and-troubling-all-at-the-same-time/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "guid": "tTteWDzLas6HxZitH3FN25",
-      "title": "Linux manages to avoid the age verification apocalypse, but SteamOS isn't in the clear yet",
-      "url": "https://www.pcgamer.com/software/operating-systems/linux-manages-to-avoid-the-age-verification-apocalypse-but-steamos-isnt-in-the-clear-yet/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T12:55:37+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237064071",
       "title": "\u2018Sopranos\u2019 Alums Michael Imperioli & Steve Schirripa Reunite For 9/11 Mob Drama \u2018UnderGround Zero\u2019 From iHeartPodcasts & Thoroughbred",
       "url": "https://deadline.com/2026/09/michael-imperioli-underground-zero-mob-podcast-sopranos-1237064071/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-09-01T13:13:28+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237064007",
-      "title": "Leslie Odom Jr. Reveals Documentary About His  \u2018Hamilton\u2019 Return & Talks Original Cast Reunions",
-      "url": "https://deadline.com/2026/09/leslie-odom-jr-hamilton-documentary-cast-reunions-1237064007/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T13:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236847881",
@@ -1519,14 +1450,6 @@
       "published_dt": "2026-09-01T13:24:28+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236848082",
-      "title": "Alex Kingston, Iain Glen, Mimi Keene and Arian Nik Join Ray Winstone in Prime Video Action Comedy Series \u2018Danger Money\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/danger-money-alex-kingston-iain-glen-mimi-keene-arian-nik-1236848082/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-01T13:00:00+00:00"
-    },
-    {
       "guid": "v2YtHDJMVvWHqVcvYF8zcJ",
       "title": "The Witcher 3 Remastered won't scrap saves or achievements from the OG RPG as CD Projekt Red confirms it'll all carry over",
       "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-wont-scrap-saves-or-achievements-from-the-og-rpg-as-cd-projekt-red-confirms-itll-all-carry-over/",
@@ -1541,22 +1464,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-01T13:02:47+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205748",
-      "title": "'Reasonable Consumers' Know They Don't Own Digital Games, Says Sony",
-      "url": "https://www.pushsquare.com/news/2026/09/reasonable-consumers-know-they-dont-own-digital-games-says-sony",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122131",
-      "title": "Final Fantasy Mini Melody TV Will Play Music From the Games",
-      "url": "https://www.siliconera.com/final-fantasy-mini-melody-tv-will-play-music-from-the-games/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-01T13:00:21+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1074412",
@@ -2565,6 +2472,174 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-01T16:14:38+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730212",
+      "title": "TikToks Arguing That Dating In GTA 6 Is Cheating IRL Are Going Viral",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-dating-jason-lucia-cheating-tiktok-2000730212",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:45:18+00:00"
+    },
+    {
+      "guid": "Qcni7rdeq7G72Nf7bs5rrV",
+      "title": "Despite horrendous layoffs, obscene hardware prices, and everything else, Saber Interactive exec says 'this is a great time to be in the industry'",
+      "url": "https://www.pcgamer.com/gaming-industry/despite-horrendous-layoffs-obscene-hardware-prices-and-everything-else-saber-interactive-exec-says-this-is-a-great-time-to-be-in-the-industry/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:45:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064255",
+      "title": "Indie Media Outfit Alexander Opens Film Arm With Kevin Chan, Hamish Moseley On Board And \u2018Ben\u2019imana\u2019 Set As First Release",
+      "url": "https://deadline.com/2026/09/benimana-alexander-kevin-chan-hamish-moseley-1237064255/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064273",
+      "title": "Paramount Signs Range Studios To Two-Year First-Look Deal",
+      "url": "https://deadline.com/2026/09/range-studios-sets-paramount-deal-1237064273/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:47:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063289",
+      "title": "Jean Smart Joins Romantic Comedy \u2018Egg Baby\u2019 From Amazon MGM Studios",
+      "url": "https://deadline.com/2026/09/jean-smart-joins-egg-baby-rom-com-amazon-1237063289/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063420",
+      "title": "California Lawmakers Officially Carve Out Compromises For Film Industry On Corporate Tax Credit Cap",
+      "url": "https://deadline.com/2026/09/california-corporate-tax-credit-cap-film-exemptions-passes-1237063420/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:39:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847511",
+      "title": "Emily Blunt to Receive Kirk Douglas Award for Excellence in Film at Santa Barbara Film Festival",
+      "url": "https://variety.com/2026/film/awards/emily-blunt-kirk-douglas-award-santa-barbara-disclosure-day-1236847511/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847768",
+      "title": "\u2018Tulsa King\u2019 Sets Season 4 Release Date, Drops Gun-Toting First Teaser",
+      "url": "https://variety.com/2026/tv/news/tulsa-king-season-4-release-date-first-teaser-1236847768/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848314",
+      "title": "Netflix Sets Trump Doc About Secret Plane Swap in Turkey",
+      "url": "https://variety.com/2026/tv/news/trump-plane-swap-documentary-netflix-1236848314/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:46:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236686713",
+      "title": "\u2018Tulsa King\u2019 Season 4 Trailer, Premiere Date Revealed as Showrunner Changes Yet Again",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/tulsa-king-season-4-trailer-release-date-stallone-1236686713/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236686756",
+      "title": "Miley Cyrus Announces New Album, Show Dates at Hollywood Bowl",
+      "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-new-album-hollywood-bowl-dates-1236686756/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:53:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236686751",
+      "title": "\u2018American Ninja Warrior\u2019 Scores Two-Season Renewal at NBC",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/american-ninja-warrior-renewed-through-season-20-nbc-1236686751/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T16:35:46+00:00"
+    },
+    {
+      "guid": "RY9XbLiD5QiZW7LZUZCeJZ",
+      "title": "The Blood of Dawnwalker creative director says all those glowing reviews are a \"great relief\" as the vampire ARPG's Metacritic score nearly matches The Witcher",
+      "url": "https://www.gamesradar.com/games/action-rpg/the-blood-of-dawnwalker-creative-director-says-all-those-glowing-reviews-are-a-great-relief-as-the-vampire-arpgs-metacritic-score-nearly-matches-the-witcher/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:50:49+00:00"
+    },
+    {
+      "guid": "5j9TXAB5DJrEBxLwBzynhW",
+      "title": "Assassin's Creed Black Flag Resynced now lets you save the stranded dog, as Ubisoft fixes the greatest crime in the whole game",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-now-lets-you-save-the-stranded-dog-as-ubisoft-fixes-the-greatest-crime-in-the-whole-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:48:13+00:00"
+    },
+    {
+      "guid": "pMEvJ9oS6e4Y7FpkMDuAr7",
+      "title": "I played 30 minutes of Alien Isolation 2 and yes, it is scarier than the original",
+      "url": "https://www.gamesradar.com/games/horror/i-played-30-minutes-of-alien-isolation-2-and-yes-it-is-scarier-than-the-original/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:29:35+00:00"
+    },
+    {
+      "guid": "nReitmkoFQ2vnNR6VRFqsJ",
+      "title": "GTA 6 will lock you out of story missions if you're too broke, so it's good to know the robbery mechanics have been massively expanded",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-will-lock-you-out-of-story-missions-if-youre-too-broke-so-its-good-to-know-the-robbery-mechanics-have-been-massively-expanded/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:29:22+00:00"
+    },
+    {
+      "guid": "F7GpexkcC2Myf9hee7PoGF",
+      "title": "\"Consoles are here to stay\": CD Projekt Red lead says The Witcher 3 studio isn't \"worried\" about next-gen consoles like the PS6 and Project Helix facing delays",
+      "url": "https://www.gamesradar.com/games/the-witcher/consoles-are-here-to-stay-cd-projekt-red-lead-says-the-witcher-3-studio-isnt-worried-about-next-gen-consoles-like-the-ps6-and-project-helix-facing-delays/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:26:40+00:00"
+    },
+    {
+      "guid": "1870481",
+      "title": "Xbox Game Pass Removes Cyberpunk 2077 And 9 Other Games Very Soon",
+      "url": "https://www.gamespot.com/articles/xbox-game-pass-removes-cyberpunk-2077-and-9-other-games-very-soon/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:26:02+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074454",
+      "title": "Game Pass adds RuneScape: Dragonwilds, SpeedRunners 2: King of Speed, The Royal Writ, and more in early September",
+      "url": "https://www.gematsu.com/2026/09/game-pass-adds-runescape-dragonwilds-speedrunners-2-king-of-speed-the-royal-writ-and-more-in-early-september",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:52:20+00:00"
+    },
+    {
+      "guid": "t3_1w4h3mb",
+      "title": "Saw II: Flesh & Blood (2010) playable PC build contained in Steam2 leak",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w4h3mb/saw_ii_flesh_blood_2010_playable_pc_build/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:32:21+00:00"
+    },
+    {
+      "guid": "t3_1w4hnxr",
+      "title": "Wolverine Trophy List Leak - All Bosses & Collectibles",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w4hnxr/wolverine_trophy_list_leak_all_bosses_collectibles/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T16:51:39+00:00"
     }
   ]
 }
