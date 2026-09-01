@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Witcher 3's Songs of the Past Expansion Will Include More Gwent",
-      "tag": "the witcher 3",
-      "posted_at": "2026-08-24T23:11:55.661279+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-witcher-3-songs-of-the-past-expansion-confirmed-to-include-more-gwent-and-everyone-is-already-celebrating"
-      ],
-      "article_titles": [
-        "The Witcher 3 Songs of the Past Expansion Confirmed to Include More Gwent, and Everyone Is Already Celebrating"
-      ]
-    },
-    {
-      "headline": "Xbox and PlayStation Are Quietly Pulling Back on Promoting Multiplatform Releases",
-      "tag": "",
-      "posted_at": "2026-08-24T23:11:55.738054+00:00",
-      "urls": [
-        "https://www.ign.com/articles/xbox-and-playstation-appear-to-be-publicly-backing-down-from-promoting-multiplatform-releases"
-      ],
-      "article_titles": [
-        "Xbox and PlayStation Appear to Be Publicly Backing Down from Promoting Multiplatform Releases"
-      ]
-    },
-    {
       "headline": "The New Resident Evil Movie Is Leaning Into First-Person POV to Stay True to the Games",
       "tag": "resident evil",
       "posted_at": "2026-08-25T12:20:26.304589+00:00",
@@ -1344,59 +1322,35 @@
         "\u2018Gargoyles\u2019 Live-Action Reboot Dead At Disney+",
         "James Wan's live-action TV show based on the '90s cult classic cartoon Gargoyles no longer moving ahead at Disney Plus"
       ]
+    },
+    {
+      "headline": "Capcom Reveals Its TGS 2026 Lineup With a Dedicated Spotlight Presentation",
+      "tag": "capcom",
+      "posted_at": "2026-09-01T04:46:25.115276+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/09/capcom-spotlight-presentation-kicks-off-tgs-2026-later-this-month",
+        "https://www.gematsu.com/2026/09/capcom-announces-tgs-2026-lineup-capcom-spotlight"
+      ],
+      "article_titles": [
+        "Capcom Spotlight Presentation Kicks Off TGS 2026 Later This Month",
+        "Capcom announces TGS 2026 lineup, Capcom Spotlight"
+      ]
+    },
+    {
+      "headline": "Star Wars Zero Company Studio Has Furloughed Most of Its Staff Despite Game Topping Steam Charts",
+      "tag": "star wars zero company",
+      "posted_at": "2026-09-01T04:46:25.382686+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/the-studio-behind-star-wars-zero-company-which-is-currently-a-steam-bestseller-has-reportedly-furloughed-the-majority-of-its-staff/"
+      ],
+      "article_titles": [
+        "The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237063575",
-      "title": "\u2018Gargoyles\u2019 Live-Action Reboot Dead At Disney+",
-      "url": "https://deadline.com/2026/08/gargoyles-live-action-reboot-dead-disney-1237063575/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T22:38:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236847834",
-      "title": "Trump Endorses U.S. Tax Incentive to Keep Hollywood Production: \u2018Let\u2019s Get This Done!\u2019",
-      "url": "https://variety.com/2026/film/news/trump-endorses-federal-incentive-hollywood-1236847834/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T22:40:16+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236686220",
-      "title": "President Trump Calls for Passage of Federal Film and Television Tax Incentive: \u201cLet\u2018s Get This Done!\u201d",
-      "url": "https://www.hollywoodreporter.com/business/business-news/president-trump-federal-film-and-tv-tax-incentive-1236686220/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-08-31T22:55:49+00:00"
-    },
-    {
-      "guid": "qXyAdZS5jo2FL98Nmjig2o",
-      "title": "Alien: Isolation 2 dev doesn't want you \"on the verge of having a heart attack\" playing the sequel, so \"turn the music down\" if you have to",
-      "url": "https://www.gamesradar.com/games/survival-horror/alien-isolation-2-dev-doesnt-want-you-on-the-verge-of-having-a-heart-attack-playing-the-sequel-so-turn-the-music-down-if-you-have-to/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-08-31T22:54:56+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205718",
-      "title": "30 New GTA 6 PS5 Screenshots Will Blow You Away After Extended Look",
-      "url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-will-blow-you-away-after-extended-look",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-31T23:15:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205660",
-      "title": "'There's a Lot of Resentment for Sony': Sources Go Back and Forth on Publisher Backlash to PS5 Physical Discs",
-      "url": "https://www.pushsquare.com/news/2026/09/theres-a-lot-of-resentment-for-sony-sources-go-back-and-forth-on-publisher-backlash-to-ps5-physical-discs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-08-31T23:00:00+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237063729",
       "title": "All Eyez On Guilty: Tupac Trial Jury Reaches Verdict In \u2018Poetic Justice\u2019 Star\u2019s 1996 Drive-By Shooting Death",
@@ -1444,6 +1398,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-01T01:11:09+00:00"
+    },
+    {
+      "guid": "mYGftGJtgoE2VaEefmQF25",
+      "title": "The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff",
+      "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-star-wars-zero-company-which-is-currently-a-steam-bestseller-has-reportedly-furloughed-the-majority-of-its-staff/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T04:27:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847970",
+      "title": "Sandra Bullock Recalls First \u2018Practical Magic\u2019 Bombing After Thinking \u2018People Are Going to Love It\u2019: \u2018And Then It Got Quiet\u2019",
+      "url": "https://variety.com/2026/film/columns/sandra-bullock-first-practical-magic-bombing-nicole-kidman-1236847970/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T04:25:32+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205724",
+      "title": "Capcom Spotlight Presentation Kicks Off TGS 2026 Later This Month",
+      "url": "https://www.nintendolife.com/news/2026/09/capcom-spotlight-presentation-kicks-off-tgs-2026-later-this-month",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T04:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1069852",
+      "title": "Capcom announces TGS 2026 lineup, Capcom Spotlight",
+      "url": "https://www.gematsu.com/2026/09/capcom-announces-tgs-2026-lineup-capcom-spotlight",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T04:16:21+00:00"
+    },
+    {
+      "guid": "t3_1w41sql",
+      "title": "Saber Interactive Chief Creative Officer (Tim Willits) denies the rumours that Saber is working with Xbox on a new Ori game",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w41sql/saber_interactive_chief_creative_officer_tim/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T04:44:06+00:00"
     }
   ]
 }
