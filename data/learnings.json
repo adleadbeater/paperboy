@@ -1394,6 +1394,17 @@
         "Double Fine Promises To Make Br\u00fctal Legend 2 But Only If Fans Give Them $100 Million",
         "I Am Begging One Cool Billionaire To Take Up Double Fine\u2019s Offer To Fund Brutal Legend 2"
       ]
+    },
+    {
+      "headline": "Nvidia Confirms DLSS 5's AI Frame Generation Cuts Your Actual Framerate in Half",
+      "tag": "nvidia dlss",
+      "posted_at": "2026-09-01T15:01:02.960319+00:00",
+      "urls": [
+        "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208"
+      ],
+      "article_titles": [
+        "Nvidia Confirms AI-Slop Filter DLSS 5 Will Cut Your Framerate In Half"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1886,6 +1897,78 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-09-01T14:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730208",
+      "title": "Nvidia Confirms AI-Slop Filter DLSS 5 Will Cut Your Framerate In Half",
+      "url": "https://kotaku.com/nvidia-dlss-5-framerates-ai-slop-nba-2k27-rtx-gpu-2000730208",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:30:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063015",
+      "title": "P-Pop Star Taneo Sebastian & Ymeiliza Tabora Head Cast Of Don Josephus Raphael Eblahan\u2019s Neo-Western \u2018Hum\u2019",
+      "url": "https://deadline.com/2026/09/taneo-sebastian-alamat-p-pop-ymeiliza-tabora-hum-1237063015/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848247",
+      "title": "WNBA Names Catbird Official Jewelry Partner, Launches Limited-Edition Basketball Collection",
+      "url": "https://variety.com/2026/shopping/news/wnba-catbird-jewelry-partner-collection-shop-online-1236848247/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:58:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848150",
+      "title": "CBS News\u2019 Abdul El-Sayed Post Sparks Digital Backlash",
+      "url": "https://variety.com/2026/tv/news/cbs-news-abdul-el-sayed-digital-backlash-1236848150/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848234",
+      "title": "Spike Jonze Launches Limited-Edition Eyewear Collection With Warby Parker",
+      "url": "https://variety.com/2026/shopping/news/spike-jonze-warby-parker-eyewear-collection-shop-online-1236848234/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:42:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236686642",
+      "title": "Gal Gadot on Henry Cavill\u2019s Superman Exit: \u201cI Was in the Middle of That\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/gal-gadot-henry-cavill-superman-exit-dc-studios-1236686642/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:45:16+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205759",
+      "title": "Charging Current Owners For The Witcher III Remastered \"Never A Question We Asked Ourselves\", Says CDPR",
+      "url": "https://www.nintendolife.com/news/2026/09/charging-current-owners-for-the-witcher-iii-remastered-never-a-question-we-asked-ourselves-says-cdpr",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122145",
+      "title": "Konami Press Start Stream Covers Castlevania, Silent Hill, and Rev.Noir",
+      "url": "https://www.siliconera.com/konami-press-start-stream-covers-castlevania-silent-hill-and-rev-noir/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205755",
+      "title": "\"Relive The Glory Days Of Console Gaming\" - New 4:3 Monitor Takes Aim At Retro Players",
+      "url": "https://www.timeextension.com/news/2026/09/relive-the-glory-days-of-console-gaming-new-43-monitor-takes-aim-at-retro-players",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T15:00:00+00:00"
     }
   ]
 }
