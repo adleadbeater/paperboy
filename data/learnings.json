@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The New Resident Evil Movie Is Leaning Into First-Person POV to Stay True to the Games",
-      "tag": "resident evil",
-      "posted_at": "2026-08-25T12:20:26.304589+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/resident-evil/the-upcoming-resident-evil-movie-will-have-first-person-povs-as-it-demonstrates-how-authenticity-is-a-moving-target-for-a-series-that-spans-30-years/"
-      ],
-      "article_titles": [
-        "The upcoming Resident Evil movie will have first-person POVs as it demonstrates how authenticity is a moving target for a series that spans 30 years"
-      ]
-    },
-    {
       "headline": "Nintendo Reveals Its First Switch 2 Bundles \u2014 With a Price Hike Attached",
       "tag": "nintendo switch 2",
       "posted_at": "2026-08-25T14:01:02.174497+00:00",
@@ -1346,50 +1335,246 @@
       "article_titles": [
         "The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff"
       ]
+    },
+    {
+      "headline": "The Witcher 3 Remastered Will Run on Steam Deck and Carry Over Your Old Saves and Achievements",
+      "tag": "the witcher 3",
+      "posted_at": "2026-09-01T13:31:22.856462+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-wont-scrap-saves-or-achievements-from-the-og-rpg-as-cd-projekt-red-confirms-itll-all-carry-over/",
+        "https://www.pcgamer.com/games/the-witcher/the-witcher-3-remastered-should-run-just-fine-on-the-steam-deck-say-devs/",
+        "https://www.pcgamer.com/games/the-witcher/the-witcher-3-remastered-should-run-just-fine-on-the-steam-deck-say-devs/"
+      ],
+      "article_titles": [
+        "The Witcher 3 Remastered won't scrap saves or achievements from the OG RPG as CD Projekt Red confirms it'll all carry over",
+        "The Witcher 3 Remastered should run just fine on the Steam Deck, say devs",
+        "The Witcher 3 Remastered should run just fine on the Steam Deck, say devs"
+      ]
+    },
+    {
+      "headline": "Nvidia's DLSS 5 Launches September 3 \u2014 But It Comes With a Significant Performance Cost",
+      "tag": "dlss 5",
+      "posted_at": "2026-09-01T13:31:23.018949+00:00",
+      "urls": [
+        "https://www.gamesradar.com/hardware/desktop-pc/nvidia-dlss-5-is-launching-on-september-3-heres-everything-i-learned-about-it-from-a-private-gamescom-demo/",
+        "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/",
+        "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/"
+      ],
+      "article_titles": [
+        "Nvidia DLSS 5 is launching on September 3: Here's everything I learned about it from a private Gamescom demo",
+        "DLSS 5 comes with a massive 50-60% performance hit, so I hope you like lower frame rates with your dose of AI image enhancement",
+        "DLSS 5 comes with a massive 50-60% performance hit, so I hope you like lower frame rates with your dose of AI image enhancement"
+      ]
+    },
+    {
+      "headline": "Laid-Off id Software Dev Describes \"Brutal\" 17-Hour Crunch Days on Doom: The Dark Ages' DLC",
+      "tag": "doom: the dark ages",
+      "posted_at": "2026-09-01T13:31:23.182612+00:00",
+      "urls": [
+        "https://www.eurogamer.net/doom-the-dark-ages-revelations-id-software-crunch"
+      ],
+      "article_titles": [
+        "Laid off id Software developer says crunch on Doom: The Dark Ages' Revelations DLC was \"brutal\" with up to 17-hour days"
+      ]
+    },
+    {
+      "headline": "Linux Dodges New Age Verification Laws \u2014 But SteamOS Still Has a Problem",
+      "tag": "steamos",
+      "posted_at": "2026-09-01T13:31:23.335547+00:00",
+      "urls": [
+        "https://www.pcgamer.com/software/operating-systems/linux-manages-to-avoid-the-age-verification-apocalypse-but-steamos-isnt-in-the-clear-yet/"
+      ],
+      "article_titles": [
+        "Linux manages to avoid the age verification apocalypse, but SteamOS isn't in the clear yet"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "mYGftGJtgoE2VaEefmQF25",
-      "title": "The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff",
-      "url": "https://www.pcgamer.com/gaming-industry/the-studio-behind-star-wars-zero-company-which-is-currently-a-steam-bestseller-has-reportedly-furloughed-the-majority-of-its-staff/",
+      "guid": "7136c898-3c94-44d4-8d63-a6a752bc03d6",
+      "title": "Afterworld: The First Hands-On Preview: A (Probably Too Early) Taste of Paradox\u2019s Next Big Thing",
+      "url": "https://www.ign.com/articles/afterworld-the-first-hands-on-preview-a-probably-too-early-taste-of-paradoxs-next-big-thing",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "guid": "3c1a3f7c-5553-4b67-9d9f-a28350b1a241",
+      "title": "Alex Ross Returns for New Marvel Dimensions Graphic Novel",
+      "url": "https://www.ign.com/articles/alex-ross-returns-for-new-marvel-dimensions-graphic-novel",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "guid": "8ca10434-f571-46a1-85c2-6759a69d72e0",
+      "title": "Marvel\u2019s Wolverine: Explaining the Origins of the PS5 Game\u2019s Suits",
+      "url": "https://www.ign.com/articles/marvels-wolverine-ps5-game-costumes-origins",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/doom-the-dark-ages-revelations-id-software-crunch",
+      "title": "Laid off id Software developer says crunch on Doom: The Dark Ages' Revelations DLC was \"brutal\" with up to 17-hour days",
+      "url": "https://www.eurogamer.net/doom-the-dark-ages-revelations-id-software-crunch",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:00:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730196",
+      "title": "50 Minutes Behind Closed Doors With The Witcher 3: Songs Of The Past Shows An Expansion Trying To Give Fans Exactly What They Want",
+      "url": "https://kotaku.com/50-minutes-behind-closed-doors-with-the-witcher-3-songs-of-the-past-shows-an-expansion-giving-fans-exactly-what-they-want-2000730196",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:15:10+00:00"
+    },
+    {
+      "guid": "wZYEXNwtqfZVdZpHEE3caC",
+      "title": "I've spent four months testing control pads in Counter-Strike and I've finally settled on my fave",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/ive-spent-four-months-testing-control-pads-in-counter-strike-and-ive-finally-settled-on-my-fave/",
       "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-09-01T04:27:31+00:00"
+      "published_dt": "2026-09-01T13:20:06+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236847970",
-      "title": "Sandra Bullock Recalls First \u2018Practical Magic\u2019 Bombing After Thinking \u2018People Are Going to Love It\u2019: \u2018And Then It Got Quiet\u2019",
-      "url": "https://variety.com/2026/film/columns/sandra-bullock-first-practical-magic-bombing-nicole-kidman-1236847970/",
+      "guid": "y9j22VyqvyJP65gTPaLaGo",
+      "title": "The Witcher 3 Remastered should run just fine on the Steam Deck, say devs",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3-remastered-should-run-just-fine-on-the-steam-deck-say-devs/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:14:04+00:00"
+    },
+    {
+      "guid": "UNKHZ4jimuQUfSHpb7PPrY",
+      "title": "DLSS 5 comes with a massive 50-60% performance hit, so I hope you like lower frame rates with your dose of AI image enhancement",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-comes-with-a-massive-50-60-percent-performance-hit-so-i-hope-you-like-lower-frame-rates-with-your-dose-of-ai-image-enhancement/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:01:09+00:00"
+    },
+    {
+      "guid": "244reNoLY5eTBix6gwk9VG",
+      "title": "Nvidia snuck me into a room to show off DLSS 5 in person, and it's somehow beautiful, ugly, impressive, and troubling all at the same time",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/nvidia-snuck-me-into-a-room-to-show-off-dlss-5-in-person-and-its-somehow-beautiful-ugly-impressive-and-troubling-all-at-the-same-time/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "guid": "tTteWDzLas6HxZitH3FN25",
+      "title": "Linux manages to avoid the age verification apocalypse, but SteamOS isn't in the clear yet",
+      "url": "https://www.pcgamer.com/software/operating-systems/linux-manages-to-avoid-the-age-verification-apocalypse-but-steamos-isnt-in-the-clear-yet/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T12:55:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064071",
+      "title": "\u2018Sopranos\u2019 Alums Michael Imperioli & Steve Schirripa Reunite For 9/11 Mob Drama \u2018UnderGround Zero\u2019 From iHeartPodcasts & Thoroughbred",
+      "url": "https://deadline.com/2026/09/michael-imperioli-underground-zero-mob-podcast-sopranos-1237064071/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:13:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064007",
+      "title": "Leslie Odom Jr. Reveals Documentary About His  \u2018Hamilton\u2019 Return & Talks Original Cast Reunions",
+      "url": "https://deadline.com/2026/09/leslie-odom-jr-hamilton-documentary-cast-reunions-1237064007/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847881",
+      "title": "Jeff Corwin to Return to Television With Wildlife Conservation Series \u2018Jeff Corwin\u2019s Southern Wild\u2019",
+      "url": "https://variety.com/2026/tv/news/jeff-corwins-southern-wild-wildlife-conservation-series-1236847881/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-01T04:25:32+00:00"
+      "published_dt": "2026-09-01T13:30:00+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-205724",
-      "title": "Capcom Spotlight Presentation Kicks Off TGS 2026 Later This Month",
-      "url": "https://www.nintendolife.com/news/2026/09/capcom-spotlight-presentation-kicks-off-tgs-2026-later-this-month",
-      "source_name": "Nintendo Life",
+      "guid": "https://variety.com/?p=1236847354",
+      "title": "Unifrance President Gilles P\u00e9lisson Discusses Industry Challenges, Winning Strategies Ahead of Rendez-Vous Market in Le Havre",
+      "url": "https://variety.com/2026/tv/global/unifrance-rendez-vous-le-havre-gilles-pelisson-1236847354/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:24:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848082",
+      "title": "Alex Kingston, Iain Glen, Mimi Keene and Arian Nik Join Ray Winstone in Prime Video Action Comedy Series \u2018Danger Money\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/danger-money-alex-kingston-iain-glen-mimi-keene-arian-nik-1236848082/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "guid": "v2YtHDJMVvWHqVcvYF8zcJ",
+      "title": "The Witcher 3 Remastered won't scrap saves or achievements from the OG RPG as CD Projekt Red confirms it'll all carry over",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-remastered-wont-scrap-saves-or-achievements-from-the-og-rpg-as-cd-projekt-red-confirms-itll-all-carry-over/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-09-01T04:30:00+00:00"
+      "published_dt": "2026-09-01T13:26:55+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1069852",
-      "title": "Capcom announces TGS 2026 lineup, Capcom Spotlight",
-      "url": "https://www.gematsu.com/2026/09/capcom-announces-tgs-2026-lineup-capcom-spotlight",
+      "guid": "UteoJTBJJPf3sdxdTQYcK8",
+      "title": "Nvidia DLSS 5 is launching on September 3: Here's everything I learned about it from a private Gamescom demo",
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/nvidia-dlss-5-is-launching-on-september-3-heres-everything-i-learned-about-it-from-a-private-gamescom-demo/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:02:47+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205748",
+      "title": "'Reasonable Consumers' Know They Don't Own Digital Games, Says Sony",
+      "url": "https://www.pushsquare.com/news/2026/09/reasonable-consumers-know-they-dont-own-digital-games-says-sony",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122131",
+      "title": "Final Fantasy Mini Melody TV Will Play Music From the Games",
+      "url": "https://www.siliconera.com/final-fantasy-mini-melody-tv-will-play-music-from-the-games/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:00:21+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074412",
+      "title": "Lawn Mowing Simulator 2 launches September 23",
+      "url": "https://www.gematsu.com/2026/09/lawn-mowing-simulator-2-launches-september-23",
       "source_name": "Gematsu",
       "source_tier": 2,
-      "published_dt": "2026-09-01T04:16:21+00:00"
+      "published_dt": "2026-09-01T13:14:18+00:00"
     },
     {
-      "guid": "t3_1w41sql",
-      "title": "Saber Interactive Chief Creative Officer (Tim Willits) denies the rumours that Saber is working with Xbox on a new Ori game",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w41sql/saber_interactive_chief_creative_officer_tim/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "https://www.gematsu.com/?p=1074410",
+      "title": "I Am Your Beast coming to Switch 2, Switch on October 20 alongside story DLC \u2018Quitting Time\u2019",
+      "url": "https://www.gematsu.com/2026/09/i-am-your-beast-coming-to-switch-2-switch-on-october-20-alongside-story-dlc-quitting-time",
+      "source_name": "Gematsu",
       "source_tier": 2,
-      "published_dt": "2026-09-01T04:44:06+00:00"
+      "published_dt": "2026-09-01T13:09:13+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754138",
+      "title": "Re:ZERO Season 4 Episode 15 Preview Released With New Stills and Trailer Ahead of Episode 81",
+      "url": "https://otakukart.com/rezero-season-4-episode-15-preview-released-with-new-stills-and-trailer-ahead-of-episode-81/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:27:21+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754075",
+      "title": "Netflix\u2019s New No. 1 Movie The Whisper Man Sparks Mixed Reactions Over Its Story and Robert De Niro-Led Cast",
+      "url": "https://otakukart.com/netflixs-new-no-1-movie-the-whisper-man-sparks-mixed-reactions-over-its-story-and-robert-de-niro-led-cast/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:05:37+00:00"
     }
   ]
 }
