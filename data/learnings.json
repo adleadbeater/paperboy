@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Nintendo Reveals Its First Switch 2 Bundles \u2014 With a Price Hike Attached",
-      "tag": "nintendo switch 2",
-      "posted_at": "2026-08-25T14:01:02.174497+00:00",
-      "urls": [
-        "https://www.gamesradar.com/hardware/nintendo-reveals-its-first-price-hiked-switch-2-bundles-but-i-wouldnt-recommend-waiting-for-them/",
-        "https://www.nintendolife.com/news/2026/08/nintendo-reveals-a-new-switch-2-bundle-launching-this-october"
-      ],
-      "article_titles": [
-        "Nintendo reveals its first price-hiked Switch 2 bundles, but I wouldn't recommend waiting for them",
-        "Nintendo Reveals A New Switch 2 Bundle, Launching This October"
-      ]
-    },
-    {
       "headline": "Xbox Quietly Scrubs PS5 Mentions While Sony Doubles Down on Console Exclusivity \u2014 Multiplatform Era May Be Shifting",
       "tag": "",
       "posted_at": "2026-08-25T14:10:47.911794+00:00",
@@ -1387,6 +1374,39 @@
       "article_titles": [
         "Linux manages to avoid the age verification apocalypse, but SteamOS isn't in the clear yet"
       ]
+    },
+    {
+      "headline": "CEO Steps Down at Saudi Arabia's $38 Billion Gaming Fund That Owns Pok\u00e9mon Go",
+      "tag": "savvy games group",
+      "posted_at": "2026-09-01T14:01:37.028486+00:00",
+      "urls": [
+        "https://kotaku.com/ceo-steps-down-at-saudi-arabias-38-billion-gaming-fund-that-owns-pokemon-go-2000730210"
+      ],
+      "article_titles": [
+        "CEO Steps Down At Saudi Arabia\u2019s $38 Billion Gaming Fund That Owns Pok\u00e9mon Go"
+      ]
+    },
+    {
+      "headline": "Don't Nod, Studio Behind Life Is Strange, Faces Another Round of Layoffs",
+      "tag": "don't nod",
+      "posted_at": "2026-09-01T14:01:37.257045+00:00",
+      "urls": [
+        "https://www.eurogamer.net/dont-nod-layoffs-restructuring-aphelion"
+      ],
+      "article_titles": [
+        "Life is Strange and Aphelion studio Don't Nod probably facing layoffs again, as it announces ominous-sounding \"transformation initiative\""
+      ]
+    },
+    {
+      "headline": "Sony Rolls Out New Anti-Harassment Policy That Could Lead to Legal Action Against Offenders",
+      "tag": "sony",
+      "posted_at": "2026-09-01T14:01:37.518174+00:00",
+      "urls": [
+        "https://kotaku.com/sony-playstation-customer-service-harassment-discs-2000730211"
+      ],
+      "article_titles": [
+        "Sony Institutes New Customer Anti-Harassment Policy, Which May Result In Legal Or Criminal Action If Broken"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1575,6 +1595,158 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-01T13:05:37+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/dont-nod-layoffs-restructuring-aphelion",
+      "title": "Life is Strange and Aphelion studio Don't Nod probably facing layoffs again, as it announces ominous-sounding \"transformation initiative\"",
+      "url": "https://www.eurogamer.net/dont-nod-layoffs-restructuring-aphelion",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:51:29+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730210",
+      "title": "CEO Steps Down At Saudi Arabia\u2019s $38 Billion Gaming Fund That Owns Pok\u00e9mon Go",
+      "url": "https://kotaku.com/ceo-steps-down-at-saudi-arabias-38-billion-gaming-fund-that-owns-pokemon-go-2000730210",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:58:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730211",
+      "title": "Sony Institutes New Customer Anti-Harassment Policy, Which May Result In Legal Or Criminal Action If Broken",
+      "url": "https://kotaku.com/sony-playstation-customer-service-harassment-discs-2000730211",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:45:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237061785",
+      "title": "ProgCore & Gungnir Form Fantasy Label Alongside Slate Of TV Shows & Podcasts",
+      "url": "https://deadline.com/2026/09/progcore-gungnir-fantasy-label-tv-shows-podcasts-1237061785/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064045",
+      "title": "Alex Kingston, Iain Glen & Sean Pertwee Among 7 Cast In Prime Video\u2019s Ray Winstone Action-Comedy Series \u2018Danger Money\u2019",
+      "url": "https://deadline.com/2026/09/danger-money-casting-alex-kingston-iain-glen-sean-pertwee-1237064045/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237031787",
+      "title": "History Is Paramount: As The Last Warner Bros Merger Trial Proved, A Legal Victory Is No Guarantee Of A Happy Ending",
+      "url": "https://deadline.com/2026/09/att-warner-bros-history-lesson-paramount-trial-1237031787/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:36:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847589",
+      "title": "\u2018La Bola Negra\u2019 Trailer: Netflix\u2019s Oscar Contender Is a Time-Bending Queer Epic That Won Best Director at Cannes",
+      "url": "https://variety.com/2026/film/news/la-bola-negra-trailer-netflix-oscars-1236847589/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847673",
+      "title": "Buffalo Bills QB Josh Allen Launches Out of Pocket Studios",
+      "url": "https://variety.com/2026/tv/news/buffalo-bills-josh-allen-out-of-pocket-studios-launch-1236847673/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847837",
+      "title": "Hershey Hopes Katseye Will Lure Younger Snackers to New Cr\u00e8me Bars",
+      "url": "https://variety.com/2026/tv/news/hershey-katseye-creme-bars-commercial-1236847837/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848102",
+      "title": "\u2018Down the Arm of God\u2019 Review: Caleb Landry Jones Finds That God\u2019s House Isn\u2019t a Home in a Stirring Social Drama",
+      "url": "https://variety.com/2026/film/reviews/down-the-arm-of-god-review-1236848102/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:58:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848103",
+      "title": "Gal Gadot Says \u2018Wonder Woman 3\u2019 Getting Axed and Henry Cavill\u2019s Superman Exit Were \u2018Not Handled Elegantly\u2019 by the Studio but \u2018We\u2019re All Adults and It\u2019s All Good\u2019",
+      "url": "https://variety.com/2026/film/news/gal-gadot-wonder-woman-3-canceled-henry-cavill-superman-exit-1236848103/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:48:55+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236827485",
+      "title": "Luca Guadagnino\u2019s \u2018Artificial\u2019 to World Premiere at New York Film Festival (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/artificial-movie-new-york-film-festival-premiere-1236827485/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236846056",
+      "title": "Emily Beecham to Lead Peter Mackie Burns\u2019 Third Feature \u2018Echolalic\u2019 as Michael Socha, Posy Sterling, Michele Austin and More Join Cast (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/emily-beecham-peter-mackie-burns-feature-echolalic-1236846056/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-01T13:30:00+00:00"
+    },
+    {
+      "guid": "1870381",
+      "title": "I Am Begging One Cool Billionaire To Take Up Double Fine\u2019s Offer To Fund Brutal Legend 2",
+      "url": "https://www.gamespot.com/articles/i-am-begging-one-cool-billionaire-to-take-up-double-fines-offer-to-fund-brutal-legend-2/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:41:36+00:00"
+    },
+    {
+      "guid": "1870349",
+      "title": "GTA 6 Cut This Feature Because It Was Too Real, But One Lifelike Detail Is Staying",
+      "url": "https://www.gamespot.com/articles/gta-6-cut-this-feature-because-it-was-too-real-but-one-lifelike-detail-is-staying/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:31:37+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122142",
+      "title": "Palworld 2026 Global Popularity Poll Covers Pals and Characters",
+      "url": "https://www.siliconera.com/palworld-2026-global-popularity-poll-covers-pals-and-characters/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205750",
+      "title": "No, Ayami Kojima Hasn't Created New Art For Castlevania's 40th (Not Yet, Anyway)",
+      "url": "https://www.timeextension.com/news/2026/09/no-ayami-kojima-hasnt-created-new-art-for-castlevanias-40th-not-yet-anyway",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754113",
+      "title": "Crimson Desert Is Among the Games Inspiring Korean Developers to Pursue More Console Games, Says Shift Up",
+      "url": "https://otakukart.com/crimson-desert-is-among-the-games-inspiring-korean-developers-to-pursue-more-console-games-says-shift-up/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:35:21+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754112",
+      "title": "Elden Ring Tarnished Edition Adds Two New NPCs, and a Dataminer Reveals Their Hidden Faces",
+      "url": "https://otakukart.com/elden-ring-tarnished-edition-adds-two-new-npcs-and-a-dataminer-reveals-their-hidden-faces/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-01T13:35:20+00:00"
     }
   ]
 }
