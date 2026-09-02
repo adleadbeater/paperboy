@@ -1,49 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Tim Curry, Rocky Horror and Video Game Icon, Dies at 80",
-      "tag": "tim curry",
-      "posted_at": "2026-08-26T15:57:02.185944+00:00",
-      "urls": [
-        "https://www.timeextension.com/news/2026/08/hollywood-legend-and-video-game-star-tim-curry-has-passed-away",
-        "https://kotaku.com/tim-curry-famous-for-rocky-horror-and-so-much-more-dies-at-80-2000728396",
-        "https://deadline.com/2026/08/tim-curry-dead-1237051024/",
-        "https://variety.com/2026/film/obituaries-people-news/tim-curry-dead-rocky-horror-picture-show-1236843955/",
-        "https://www.hollywoodreporter.com/movies/movie-news/tim-curry-dead-rocky-horror-picture-show-1236682015/"
-      ],
-      "article_titles": [
-        "Hollywood Legend And Video Game Star Tim Curry Has Passed Away",
-        "Tim Curry, Famous For Rocky Horror And So Much More, Dies At 80",
-        "Tim Curry Dies: \u2018The Rocky Horror Picture Show\u2019 Actor Was 80",
-        "Tim Curry, \u2018Rocky Horror Picture Show\u2019 Star, Dies at 80",
-        "Tim Curry, Outlandish Star of \u2018The Rocky Horror Picture Show,\u2019 Dies at 80"
-      ]
-    },
-    {
-      "headline": "New Persona 4 Revival Trailer Drops, Showing Off Story Details",
-      "tag": "persona 4 revival",
-      "posted_at": "2026-08-26T15:57:02.265334+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/08/persona-4-revival-story-trailer"
-      ],
-      "article_titles": [
-        "Persona 4 Revival \u2018Story\u2019 trailer"
-      ]
-    },
-    {
-      "headline": "CD Projekt Red Shows Extended Witcher 3 Remastered Gameplay and Songs of the Past DLC",
-      "tag": "the witcher 3",
-      "posted_at": "2026-08-26T16:01:13.257256+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/cd-projekt-red-reveals-extended-gameplay-of-the-witcher-3-remastered-and-songs-of-the-past-dlc/",
-        "https://www.videogameschronicle.com/news/cd-projekt-red-reveals-extended-gameplay-of-the-witcher-3-remastered-and-songs-of-the-past-dlc/"
-      ],
-      "article_titles": [
-        "CD Projekt Red reveals extended gameplay of The Witcher 3 Remastered and Songs of the Past DLC",
-        "CD Projekt Red reveals extended gameplay of The Witcher 3 Remastered and Songs of the Past DLC"
-      ]
-    },
-    {
       "headline": "Call of Duty: Modern Warfare 4 Beta Is Playable Free on Switch 2 This Weekend",
       "tag": "call of duty: modern warfare 4",
       "posted_at": "2026-08-26T16:31:02.070498+00:00",
@@ -1137,6 +1094,19 @@
       "article_titles": [
         "After 10 Years, Pok\u00e9mon Go is Getting a Pok\u00e9mon Anime Crossover Episode"
       ]
+    },
+    {
+      "headline": "Mario Kart 8 Deluxe Gets 8-Player Split Screen in New Switch 2 Patch",
+      "tag": "mario kart 8 deluxe",
+      "posted_at": "2026-09-02T16:01:38.126067+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/09/video-mario-kart-8-deluxe-looks-gorgeous-and-so-silly-on-switch-2",
+        "https://www.siliconera.com/mario-kart-8-deluxe-switch-2-patch-adds-8-player-split-screen/"
+      ],
+      "article_titles": [
+        "Video: Mario Kart 8 Deluxe Looks Gorgeous (And So Silly) On Switch 2",
+        "Mario Kart 8 Deluxe Switch 2 Patch Adds 8-Player Split Screen"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1901,6 +1871,150 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-02T15:25:27+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
+      "title": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates",
+      "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:53:39+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730500",
+      "title": "Counter-Strike 2 \u2018Slur Tracker\u2019 Reports 17 Percent Of Matches Contain Racist And Homophobic Language",
+      "url": "https://kotaku.com/counter-strike-2-slur-tracker-reports-17-percent-of-matches-contain-racist-and-homophobic-language-2000730500",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:45:24+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730532",
+      "title": "A Cow Is Playing One Of The Most Complex Games Ever On Twitch Right Now",
+      "url": "https://kotaku.com/eve-online-cow-plays-twitch-stream-fenris-creations-2000730532",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:30:24+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064857",
+      "title": "\u2018Mayday\u2019 Review:  Kenneth Branagh Steals The Show From Top Gun Ryan Reynolds In Skydance And Apple\u2019s Wild Buddy Action Comedy That Should Have Been In Theatres",
+      "url": "https://deadline.com/2026/09/mayday-review-kenneth-branagh-ryan-reynolds-action-comedy-1237064857/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065608",
+      "title": "Samson Kayo & Sonny Valicenti Join Apple TV Comedy \u2018Protective Custody\u2019 As Series Regulars",
+      "url": "https://deadline.com/2026/09/protective-custody-series-adds-samson-kayo-sonny-valicenti-1237065608/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065599",
+      "title": "\u2018Harry Potter\u2019 Trailer Gives Glimpse Of Sorting Ceremony, More Dumbledore & Snape In HBO Series",
+      "url": "https://deadline.com/2026/09/harry-potter-trailer-dumbledore-snape-hbo-1237065599/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:57:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064415",
+      "title": "Netflix Is \u2018Playing With Matches\u2019 In Its Next Social Experiment Reality Series",
+      "url": "https://deadline.com/2026/09/netflix-playing-with-matches-social-experiment-series-1237064415/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848829",
+      "title": "Owen Thiele, Este Haim, Kate Berlant, Lisa Gilroy, Joel Kim Booster Join Variety\u2019s Entertainment & Technology Summit",
+      "url": "https://variety.com/2026/biz/news/variety-entertainment-technology-2026-summit-programming-1236848829/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849262",
+      "title": "Kelly Clarkson Hits High Notes Singing \u2018Golden\u2019 During Final Talk Show; Lin-Manuel Miranda, Kristin Chenoweth and More \u2018Blown Away\u2019 by Performance",
+      "url": "https://variety.com/2026/music/news/kelly-clarkson-sings-golden-talk-show-demon-hunters-1236849262/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:44:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849387",
+      "title": "David Byrne\u2019s Hollywood Bowl Shows Put a Seal on One of the Greatest Rock Tours of All Time: Concert Review",
+      "url": "https://variety.com/2026/music/concert-reviews/david-byrne-hollywood-bowl-tour-concert-review-1236849387/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:36:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849064",
+      "title": "\u2018Black Book 2,\u2019 \u2018I\u2019m Coming for You\u2019 Headline Buzzy Slate of African Works in Progress at Inaugural TIFF Market (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/black-book-2-im-coming-for-you-africa-tiff-market-1236849064/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:33:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848659",
+      "title": "Nimesh Patel\u2019s Netflix Special \u2018Buy the Dip\u2019 Sets September Release (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/nimesh-patel-netflix-special-buy-the-dip-release-date-1236848659/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679707",
+      "title": "\u2018Mayday\u2019 Review: Ryan Reynolds and Kenneth Branagh Have Infectious Chemistry in Derivative but Diverting Apple TV Action-Comedy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/mayday-review-ryan-reynolds-kenneth-branagh-apple-1236679707/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "guid": "RoRB877zCEVo5LkMumihWR",
+      "title": "GamesRadar+ Fall Preview 2026: Your next favorite games make up our hefty Most Wanted list",
+      "url": "https://www.gamesradar.com/gamesradar-fall-preview-the-biggest-games-of-autumn-2026/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:45:15+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205812",
+      "title": "Video: Mario Kart 8 Deluxe Looks Gorgeous (And So Silly) On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/video-mario-kart-8-deluxe-looks-gorgeous-and-so-silly-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205806",
+      "title": "Square Enix Denies Rumours of Being Bought Out",
+      "url": "https://www.pushsquare.com/news/2026/09/square-enix-denies-rumours-of-being-bought-out",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122235",
+      "title": "The Summer Hikaru Died Horror Manga Will End in October",
+      "url": "https://www.siliconera.com/the-summer-hikaru-died-horror-manga-will-end-in-october/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074709",
+      "title": "My Hero Academia: All\u2019s Justice DLC character Izuku Midoriya Overlay Full Style launches September 3",
+      "url": "https://www.gematsu.com/2026/09/my-hero-academia-alls-justice-dlc-character-izuku-midoriya-overlay-full-style-launches-september-3",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:34:11+00:00"
     }
   ]
 }
