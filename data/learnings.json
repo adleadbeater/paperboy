@@ -1087,6 +1087,56 @@
       "article_titles": [
         "700+ Games Released On Steam Just Last Week, Setting A New Record"
       ]
+    },
+    {
+      "headline": "HBO's Harry Potter Series Drops Second Trailer With New Cast Footage",
+      "tag": "harry potter (hbo series)",
+      "posted_at": "2026-09-02T15:25:03.078847+00:00",
+      "urls": [
+        "https://variety.com/2026/tv/news/harry-potter-trailer-hbo-quidditch-1236699211/",
+        "https://www.hollywoodreporter.com/tv/tv-news/hbos-harry-potter-second-trailer-1236688194/",
+        "https://www.gamesradar.com/entertainment/fantasy-shows/harry-potter-hbo-tv-teaser-trailer/"
+      ],
+      "article_titles": [
+        "\u2018Harry Potter\u2019 Trailer: Harry Wears the Sorting Hat, Tries Quidditch and Puts on Invisibility Cloak in HBO\u2019s TV Remake",
+        "HBO\u2019s \u2018Harry Potter\u2019 Reveals Second Trailer With All-New Footage of Cast",
+        "Harry Potter goes to Hogwarts and faces the Sorting Hat in new trailer for the HBO show, and it all feels very familiar"
+      ]
+    },
+    {
+      "headline": "SteamDB Has Been Acquired by Nexus Mods \u2014 But No Ads or Paywalls Planned",
+      "tag": "steamdb",
+      "posted_at": "2026-09-02T15:25:03.272744+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/steamdb-changes-hands-to-nexus-mods-which-means-it-needs-to-make-money-now-but-there-wont-be-ads-or-paywalls/"
+      ],
+      "article_titles": [
+        "SteamDB changes hands to Nexus Mods, which means it 'needs to make money' now\u2014but there won't be ads or paywalls"
+      ]
+    },
+    {
+      "headline": "PC Gaming Show Tokyo Direct Announced for September 20 With 35+ Games and World Premieres",
+      "tag": "pc gaming show",
+      "posted_at": "2026-09-02T15:25:03.465759+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-is-hosting-the-pc-gaming-show-tokyo-direct-showing-off-over-35-games-and-a-bunch-of-world-premieres/",
+        "https://www.gematsu.com/2026/09/pc-gaming-show-tokyo-direct-set-for-september-20"
+      ],
+      "article_titles": [
+        "Award-winning presenter Frankie Ward is hosting the PC Gaming Show Tokyo Direct, showing off over 35 games and a bunch of world premieres",
+        "PC Gaming Show Tokyo Direct set for September 20"
+      ]
+    },
+    {
+      "headline": "Pok\u00e9mon Go Is Getting a Pok\u00e9mon Anime Crossover Episode for Its 10th Anniversary",
+      "tag": "pok\u00e9mon go",
+      "posted_at": "2026-09-02T15:25:03.654098+00:00",
+      "urls": [
+        "https://www.ign.com/articles/after-10-years-pokemon-go-is-getting-a-pokemon-anime-crossover-episode"
+      ],
+      "article_titles": [
+        "After 10 Years, Pok\u00e9mon Go is Getting a Pok\u00e9mon Anime Crossover Episode"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1651,6 +1701,182 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-02T14:39:35+00:00"
+    },
+    {
+      "guid": "a7333bf8-5c1b-4028-a356-2b16cdb97d86",
+      "title": "Warhammer Age of Sigmar: Deathmaster Plays a Bit Like a Stealthy Hollow Knight | IGN Preview",
+      "url": "https://www.ign.com/articles/warhammer-age-of-sigmar-deathmaster-plays-a-bit-like-a-stealthy-hollow-knight-ign-preview",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "guid": "6229c789-d9bf-45e2-9b14-86a7c14c0cd0",
+      "title": "After 10 Years, Pok\u00e9mon Go is Getting a Pok\u00e9mon Anime Crossover Episode",
+      "url": "https://www.ign.com/articles/after-10-years-pokemon-go-is-getting-a-pokemon-anime-crossover-episode",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:59:03+00:00"
+    },
+    {
+      "guid": "mEszvGUnADWpeULE3wJ8r",
+      "title": "The Expanse: Osiris Reborn turns the best Mass Effect mission into an entire game",
+      "url": "https://www.pcgamer.com/games/rpg/the-expanse-osiris-reborn-turns-the-best-mass-effect-mission-into-an-entire-game/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:13:09+00:00"
+    },
+    {
+      "guid": "7k3gjhYmDTQ7Wqr86AdFbN",
+      "title": "SteamDB changes hands to Nexus Mods, which means it 'needs to make money' now\u2014but there won't be ads or paywalls",
+      "url": "https://www.pcgamer.com/gaming-industry/steamdb-changes-hands-to-nexus-mods-which-means-it-needs-to-make-money-now-but-there-wont-be-ads-or-paywalls/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:10:50+00:00"
+    },
+    {
+      "guid": "sRoHRPmEykS3aJm6GKytae",
+      "title": "Award-winning presenter Frankie Ward is hosting the PC Gaming Show Tokyo Direct, showing off over 35 games and a bunch of world premieres",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-is-hosting-the-pc-gaming-show-tokyo-direct-showing-off-over-35-games-and-a-bunch-of-world-premieres/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:00:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065466",
+      "title": "Tiger Woods Pleads No Contest To Reckless Driving Charge In Florida Rollover Crash",
+      "url": "https://deadline.com/2026/09/tiger-woods-pleads-no-contest-reckless-driving-dui-1237065466/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:24:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065455",
+      "title": "\u2018Always Lalisa\u2019 Doc About K-Pop\u2019s Lisa Sets Imax, Theatrical And Streaming Release Dates",
+      "url": "https://deadline.com/2026/09/always-lalisa-lisa-release-dates-1237065455/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:08:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065462",
+      "title": "Javier Bardem, Marion Cotillard & Vanessa Redgrave Join Animated Movie \u2018The Turning Door\u2019",
+      "url": "https://deadline.com/2026/09/javier-bardem-marion-cotillard-join-the-turning-door-1237065462/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:00:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849057",
+      "title": "\u2018I\u2019m Hoping to See Sydney Sweeney\u2019: Meet the Superfans Who Camp Out All Night for Celebrity Sightings at Venice Film Festival",
+      "url": "https://variety.com/2026/film/festivals/venice-film-festival-fans-camp-out-see-stars-1236849057/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:23:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236699211",
+      "title": "\u2018Harry Potter\u2019 Trailer: Harry Wears the Sorting Hat, Tries Quidditch and Puts on Invisibility Cloak in HBO\u2019s TV Remake",
+      "url": "https://variety.com/2026/tv/news/harry-potter-trailer-hbo-quidditch-1236699211/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:13:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848866",
+      "title": "Inde Navarrette Sets Best Actress Oscar Campaign for \u2018Obsession\u2019 as Focus Features Mounts Full Awards Push (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/obsession-inde-navarrette-oscar-campaign-lead-actress-1236848866/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849095",
+      "title": "Javier Bardem, Marion Cotillard and Vanessa Redgrave Join Animated Fantasy Film \u2018The Turning Door\u2019",
+      "url": "https://variety.com/2026/film/global/javier-bardem-marion-cotillard-animation-the-turning-door-1236849095/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688194",
+      "title": "HBO\u2019s \u2018Harry Potter\u2019 Reveals Second Trailer With All-New Footage of Cast",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbos-harry-potter-second-trailer-1236688194/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:19:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687914",
+      "title": "Meryl Streep, Laura Poitras Join \u2018My Undesirable Friends: Part II\u2019 as Exec Producers (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/meryl-streep-laura-poitras-eps-my-undesirable-friends-doc-1236687914/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687901",
+      "title": "Javier Bardem, Marion Cotillard, Vanessa Redgrave Join \u2018The Turning Door\u2019 Animated Cast",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bardem-cotillard-redgrave-join-turning-door-animated-film-1236687901/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "guid": "A3DtR3Nm2gvHWvDSAm2FJH",
+      "title": "Harry Potter goes to Hogwarts and faces the Sorting Hat in new trailer for the HBO show, and it all feels very familiar",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/harry-potter-hbo-tv-teaser-trailer/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:17:36+00:00"
+    },
+    {
+      "guid": "TbR9B3ZB9NKoJTCPsJSLZj",
+      "title": "Genshin Impact devs' new action game Nodusfall feels like Elden Ring Nightreign at home, but don't write it off yet",
+      "url": "https://www.gamesradar.com/games/action/genshin-impact-devs-new-action-game-nodusfall-feels-like-elden-ring-nightreign-at-home-but-dont-write-it-off-yet/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "guid": "1872581",
+      "title": "You Can Watch A Cow Play Eve Online Right Now",
+      "url": "https://www.gamespot.com/articles/you-can-watch-a-cow-play-eve-online-right-now/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T14:53:57+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204791",
+      "title": "Feature: Playing Until We Get It Right - How Perfectionism Appears In Gaming",
+      "url": "https://www.nintendolife.com/features/playing-until-we-get-it-right-how-perfectionism-appears-in-gaming",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205744",
+      "title": "Preview: Silent Hill: Townfall Is a PS5 Horror Time Capsule I Can't Wait to Play More Of",
+      "url": "https://www.pushsquare.com/previews/silent-hill-townfall-is-a-ps5-horror-time-capsule-i-cant-wait-to-play-more-of",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074684",
+      "title": "PC Gaming Show Tokyo Direct set for September 20",
+      "url": "https://www.gematsu.com/2026/09/pc-gaming-show-tokyo-direct-set-for-september-20",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:00:39+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754335",
+      "title": "Gal Gadot Says DC Studios\u2019 Handling of Henry Cavill and Wonder Woman Was \u201cNot Handled Elegantly\u201d",
+      "url": "https://otakukart.com/gal-gadot-says-dc-studios-handling-of-henry-cavill-and-wonder-woman-was-not-handled-elegantly/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T15:19:36+00:00"
     }
   ]
 }
