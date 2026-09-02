@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Ridley Scott Confirms Alien: Covenant Sequel Is in Development, Featuring Michael Fassbender's David",
-      "tag": "alien",
-      "posted_at": "2026-08-26T17:01:29.659287+00:00",
-      "urls": [
-        "https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-alien-covenant-michael-fassbender-1236682050/",
-        "https://www.gamesradar.com/entertainment/sci-fi-movies/a-sequel-to-alien-covenant-about-michael-fassbenders-david-creating-a-brave-new-world-for-himself-is-in-the-works-according-to-ridley-scott/"
-      ],
-      "article_titles": [
-        "Ridley Scott Drops \u2018Alien: Covenant\u2019 Sequel Update, Regrets Losing \u2018Blade Runner\u2019 Rights",
-        "A sequel to Alien: Covenant about Michael Fassbender's David \"creating a brave new world for himself\" is in the works, according to Ridley Scott"
-      ]
-    },
-    {
       "headline": "The Division 2 Gets New Expansion \"Echoes of Central Park\" Announced",
       "tag": "the division 2",
       "posted_at": "2026-08-26T17:31:04.588329+00:00",
@@ -1094,27 +1081,24 @@
       "article_titles": [
         "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space"
       ]
+    },
+    {
+      "headline": "Monster Hunter Wilds' Ascendance Update Reveals Boosted Actions and Great Sword Overhaul",
+      "tag": "monster hunter wilds",
+      "posted_at": "2026-09-02T17:30:59.521790+00:00",
+      "urls": [
+        "https://www.siliconera.com/monster-hunter-wilds-ascendance-trailers-show-boosted-actions-and-great-sword/",
+        "https://www.siliconera.com/monster-hunter-wilds-ascendance-trailers-show-boosted-actions-and-great-sword/"
+      ],
+      "article_titles": [
+        "Monster Hunter Wilds Ascendance Trailers Show Boosted Actions and Great Sword",
+        "Monster Hunter Wilds Ascendance Trailers Show Boosted Actions and Great Sword"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine",
-      "title": "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend",
-      "url": "https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:26:54+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/september-2026-xbox-pc-game-pass-list",
-      "title": "September's first wave of Xbox Game Pass games revealed, and it brings RuneScape to console for the first time",
-      "url": "https://www.eurogamer.net/september-2026-xbox-pc-game-pass-list",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:25:42+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237065165",
       "title": "\u2018Ink\u2019 Trailer: Danny Boyle Charts The Rise Of A British Tabloid In Venice Film Festival Opener",
@@ -1124,100 +1108,12 @@
       "published_dt": "2026-09-02T13:32:52+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237065345",
-      "title": "Broadway\u2019s \u2018Galileo\u2019 Adds Cast: Javier Mu\u00f1oz, Bradley Dean Join Ra\u00fal Esparza; \u2018Stranger Things\u2019 Actor Michael Park To Alternate Lead",
-      "url": "https://deadline.com/2026/09/broadway-galileo-javier-munoz-michael-park-cast-1237065345/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:28:49+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236849216",
       "title": "Travis Kelce Breaks Down Wedding to Taylor Swift and Says Adam Sandler Officiating Was \u2018Absolutely Insane\u2019: \u2018He\u2019s the F\u2014ing Best Person on This Planet\u2019",
       "url": "https://variety.com/2026/music/news/travis-kelce-taylor-swift-wedding-sandler-officiating-1236849216/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-02T13:30:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236848837",
-      "title": "Chilean Alfredo Castro-Led Dark Comedy \u2018After Elena\u2019 World Premieres at Toronto Film Fest, Bows Trailer (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/alfredo-castro-dark-comedy-after-elena-premieres-toronto-1236848837/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:24:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236848762",
-      "title": "Rupert Murdoch \u2018Is Very Happy\u2019 Guy Pearce Is Playing Him in \u2018Ink\u2019; Actor Says Mogul\u2019s Daughter Shared Praise",
-      "url": "https://variety.com/2026/film/festivals/rupert-murdoch-very-happy-guy-pearce-playing-him-ink-1236848762/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:00:36+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236687936",
-      "title": "Rupert Murdoch Was \u201cVery Happy\u201d With the Casting of Danny Boyle\u2019s \u2018Ink\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-danny-boyle-ink-press-guy-pearce-jack-o-connell-1236687936/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:08:19+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688034",
-      "title": "Travis Kelce Details \u201cInsane\u201d Wedding to Taylor Swift: \u201cBiggest Night of Our Lives\u201d",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/travis-kelce-wedding-taylor-swift-podcast-new-heights-1236688034/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:01:30+00:00"
-    },
-    {
-      "guid": "kyH8PsvmjPZjktWN4Mnmqf",
-      "title": "Resident Evil Requiem is \"way too scary\" says Resident Evil 2 director Hideki Kamiya, who'd rather Capcom put paper bags over all the enemies' heads: \"It's not a joke\"",
-      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-is-way-too-scary-says-resident-evil-2-director-hideki-kamiya-whod-rather-capcom-put-paper-bags-over-all-the-enemies-heads-its-not-a-joke/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:22:01+00:00"
-    },
-    {
-      "guid": "Bi7cwpgpyyvoFA8EHhJJYC",
-      "title": "Silent Hill Townfall's atmosphere is spot-on, but slow-burn terrors leave a tepid first impression",
-      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfalls-atmosphere-is-spot-on-but-slow-burn-terrors-leave-a-tepid-first-impression/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:08:36+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205805",
-      "title": "Nintendo Adds Ninja Gaiden III, Ikari Warriors And R.C. Pro-Am II To Switch Online Today",
-      "url": "https://www.timeextension.com/news/2026/09/nintendo-adds-ninja-gaiden-iii-ikari-warriors-and-r-c-pro-am-ii-to-switch-online-today",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1074663",
-      "title": "Port of Jumanah launches September 7 for PS5, PC",
-      "url": "https://www.gematsu.com/2026/09/port-of-jumanah-launches-september-7-for-ps5-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:17:38+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754332",
-      "title": "Heartstopper Actor and Elden Ring\u2019s Messmer Voice Jack Barton Reportedly in the Running for James Bond",
-      "url": "https://otakukart.com/heartstopper-actor-and-elden-rings-messmer-voice-jack-barton-reportedly-in-the-running-for-james-bond/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:14:32+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/",
-      "title": "RPG Crowdfunding News \u2013 Skullcrusher, Time Without Tide, Jadestorm, and more",
-      "url": "https://www.enworld.org/threads/rpg-crowdfunding-news-%E2%80%93-skullcrusher-time-without-tide-jadestorm-and-more.720523/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:04:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000730486",
@@ -2314,6 +2210,86 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-02T16:55:24+00:00"
+    },
+    {
+      "guid": "6ecd5f66-f54c-4aa8-aed8-0c64abdab50d",
+      "title": "DC Villains 6-Film Limited Edition Steelbook Collection Glows in the Dark",
+      "url": "https://www.ign.com/articles/dc-villains-6-film-limited-edition-steelbook-collection-where-to-buy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:19:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/mario-kart-8-switch-2-update-eight-player-split-screen-nintendo",
+      "title": "Mario Kart 8 Deluxe gets a surprise Switch 2 update, bringing eight-player split-screen to the evergreen racing game",
+      "url": "https://www.eurogamer.net/mario-kart-8-switch-2-update-eight-player-split-screen-nintendo",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:11:48+00:00"
+    },
+    {
+      "guid": "ZVU99eYULoSggFHhAFBrCH",
+      "title": "I modded GTA 6 leak-accurate car fuelling into GTA 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-modded-gta-6-leak-accurate-car-fuelling-into-gta-5/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065780",
+      "title": "Evan Rachel Wood Calls Out \u2018Practical Magic 2\u2019 For Not Reaching Out Amid Recasting, Calls Joey King A \u201cSweetheart\u201d",
+      "url": "https://deadline.com/2026/09/evan-rachel-wood-practical-magic-2-recasting-joey-king-1237065780/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:30:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065765",
+      "title": "Alix Earle Is A Reality Television Star Now",
+      "url": "https://deadline.com/2026/09/alix-earle-reality-tv-star-earle-meets-world-netflix-1237065765/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:25:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064733",
+      "title": "Wayne Brady & Selma Blair To Guest Star In Season 20 Of \u2018Criminal Minds: Evolution\u2019",
+      "url": "https://deadline.com/2026/09/wayne-brady-selma-blair-guest-star-criminal-minds-evolution-1237064733/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848857",
+      "title": "Joel Crawford to Receive the Creative Impact in Animation Award from Variety at SCAD AnimationFest",
+      "url": "https://variety.com/2026/film/awards/joel-crawford-variety-creative-impact-animation-award-1236848857/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849459",
+      "title": "\u2018S.W.A.T. Exiles\u2019 Trailer: Shemar Moore Returns in High-Stakes Spinoff",
+      "url": "https://variety.com/2026/tv/news/swat-exiles-trailer-shemar-moore-spinoff-1236849459/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "SY5J8kWuW8aR9C3ZbeWEP3",
+      "title": "The Resident Evil movie popcorn bucket is gross, but surprisingly functional",
+      "url": "https://www.gamesradar.com/entertainment/horror-movies/the-resident-evil-movie-popcorn-bucket-is-gross-but-surprisingly-functional/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:02:26+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205826",
+      "title": "The Witcher Remake Put on Ice as Dev Focuses on New Expansion and The Witcher 4",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-remake-put-on-ice-as-dev-focuses-on-new-expansion-and-the-witcher-4",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:30:00+00:00"
     }
   ]
 }
