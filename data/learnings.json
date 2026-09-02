@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Call of Duty: Modern Warfare 4 Beta Is Playable Free on Switch 2 This Weekend",
-      "tag": "call of duty: modern warfare 4",
-      "posted_at": "2026-08-26T16:31:02.070498+00:00",
-      "urls": [
-        "https://www.ign.com/articles/call-of-duty-modern-warfare-4s-beta-will-be-playable-on-switch-2-for-free-this-weekend"
-      ],
-      "article_titles": [
-        "Call of Duty: Modern Warfare 4's Beta Will Be Playable on Switch 2 for Free This Weekend"
-      ]
-    },
-    {
-      "headline": "The Wolf Among Us Remastered Gets an October 29 Release Date",
-      "tag": "the wolf among us",
-      "posted_at": "2026-08-26T16:41:46.974309+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/08/the-wolf-among-us-remastered-brings-back-a-telltale-classic-this-october-on-ps5",
-        "https://www.gematsu.com/2026/08/the-wolf-among-us-remastered-launches-october-29"
-      ],
-      "article_titles": [
-        "The Wolf Among Us Remastered Brings Back a Telltale Classic This October on PS5",
-        "The Wolf Among Us Remastered launches October 29"
-      ]
-    },
-    {
       "headline": "Ridley Scott Confirms Alien: Covenant Sequel Is in Development, Featuring Michael Fassbender's David",
       "tag": "alien",
       "posted_at": "2026-08-26T17:01:29.659287+00:00",
@@ -1107,6 +1083,17 @@
         "Video: Mario Kart 8 Deluxe Looks Gorgeous (And So Silly) On Switch 2",
         "Mario Kart 8 Deluxe Switch 2 Patch Adds 8-Player Split Screen"
       ]
+    },
+    {
+      "headline": "Ace Combat 8 Reveals Live Service Multiplayer Modes \u2014 PvP, PvE, and a Social Hangout Space",
+      "tag": "ace combat 8",
+      "posted_at": "2026-09-02T17:01:08.936423+00:00",
+      "urls": [
+        "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed"
+      ],
+      "article_titles": [
+        "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1129,14 +1116,6 @@
       "published_dt": "2026-09-02T13:25:42+00:00"
     },
     {
-      "guid": "vxmdRBTgPzEGeQktT8NQyD",
-      "title": "After playing a bit of Lego Skylines, it seems like a city builder for people who care less about traffic jams and more about decorating",
-      "url": "https://www.pcgamer.com/games/city-builder/after-playing-a-bit-of-lego-skylines-it-seems-like-a-city-builder-for-people-who-care-less-about-traffic-jams-and-more-about-decorating/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237065165",
       "title": "\u2018Ink\u2019 Trailer: Danny Boyle Charts The Rise Of A British Tabloid In Venice Film Festival Opener",
       "url": "https://deadline.com/2026/09/ink-trailer-danny-boyle-venice-film-festival-1237065165/",
@@ -1151,14 +1130,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-09-02T13:28:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065179",
-      "title": "David Oyelowo & Nate Parker\u2019s Mansa Studios Debuts Slate Of TikTok Microdramas",
-      "url": "https://deadline.com/2026/09/david-oyelowo-nate-parker-tiktok-microdramas-mansa-studios-1237065179/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236849216",
@@ -1201,14 +1172,6 @@
       "published_dt": "2026-09-02T13:01:30+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236686790",
-      "title": "Elon Musk Unmasked in Alex Gibney Documentary: \u201cInsane a Person This Chaotic Has So Much Power\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/elon-musk-alex-gibney-documentary-1236686790/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:00:00+00:00"
-    },
-    {
       "guid": "kyH8PsvmjPZjktWN4Mnmqf",
       "title": "Resident Evil Requiem is \"way too scary\" says Resident Evil 2 director Hideki Kamiya, who'd rather Capcom put paper bags over all the enemies' heads: \"It's not a joke\"",
       "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-is-way-too-scary-says-resident-evil-2-director-hideki-kamiya-whod-rather-capcom-put-paper-bags-over-all-the-enemies-heads-its-not-a-joke/",
@@ -1225,52 +1188,12 @@
       "published_dt": "2026-09-02T13:08:36+00:00"
     },
     {
-      "guid": "FzrcY3kfeowLXdGS22YhFQ",
-      "title": "Lego Skylines' blend of city building and Lego click-clack needs to be heard to be believed",
-      "url": "https://www.gamesradar.com/games/city-builder/lego-skylines-blend-of-city-building-and-lego-click-clack-needs-to-be-heard-to-be-believed/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:00:00+00:00"
-    },
-    {
-      "guid": "a3y3CpebJrTa2KzqJ9ZawP",
-      "title": "Tomb Raider: Legacy of Atlantis isn't classic Lara Croft, but it manages to dodge the worst excesses of modern action game hand-holding",
-      "url": "https://www.gamesradar.com/games/tomb-raider/tomb-raider-legacy-of-atlantis-isnt-classic-lara-croft-but-it-manages-to-dodge-the-worst-excesses-of-modern-action-game-hand-holding/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205803",
-      "title": "If You Want the Marvel's Wolverine PS5 Platinum Trophy, Get Used to Parrying, Bub",
-      "url": "https://www.pushsquare.com/news/2026/09/if-you-want-the-marvels-wolverine-ps5-platinum-trophy-get-used-to-parrying-bub",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1121839",
-      "title": "Brigandine Abyss Adds a Pinch of Fire Emblem Flavor",
-      "url": "https://www.siliconera.com/brigandine-abyss-adds-a-pinch-of-fire-emblem-flavor/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.timeextension.com/#article-205805",
       "title": "Nintendo Adds Ninja Gaiden III, Ikari Warriors And R.C. Pro-Am II To Switch Online Today",
       "url": "https://www.timeextension.com/news/2026/09/nintendo-adds-ninja-gaiden-iii-ikari-warriors-and-r-c-pro-am-ii-to-switch-online-today",
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-02T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205797",
-      "title": "Random: \"It's Been The Butt Of Jokes Since Then\" - The Inside Story On Aero Blasters' \"Loading Screen\"",
-      "url": "https://www.timeextension.com/news/2026/09/random-its-been-the-butt-of-jokes-since-then-the-inside-story-on-aero-blasters-loading-screen",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1074663",
@@ -2183,6 +2106,214 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed",
+      "title": "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space",
+      "url": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:28:44+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730519",
+      "title": "Five Things We Just Learned From Tomb Raider: Legacy Of Atlantis Previews",
+      "url": "https://kotaku.com/five-things-we-just-learned-from-tomb-raider-legacy-of-atlantis-previews-2000730519",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:30:23+00:00"
+    },
+    {
+      "guid": "9FxaRvzQKjQgn9t6rZgJ39",
+      "title": "Doug Cockle believes Dandelion is Geralt's real soulmate in The Witcher 3, but 'in a very platonic way'",
+      "url": "https://www.pcgamer.com/games/the-witcher/doug-cockle-believes-dandelion-is-geralts-real-soulmate-in-the-witcher-3-but-in-a-very-platonic-way/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:32:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064814",
+      "title": "\u2018S.W.A.T. Exiles\u2019 Trailer: Shemar Moore\u2019s Hondo Is Out For One Last Shot At Redemption In Starz Spinoff",
+      "url": "https://deadline.com/2026/09/s-w-a-t-exiles-trailer-shemar-moore-hondo-star-spinoff-1237064814/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065713",
+      "title": "Artists First Signs Genre Filmmaker Alexander Henderson",
+      "url": "https://deadline.com/2026/09/alexander-henderson-signs-artists-first-1237065713/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:52:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064469",
+      "title": "Spectrum COO Nick Jeffery Touts \u201cThe Great Cable Comeback\u201d As He Assumes Charter Exec Post",
+      "url": "https://deadline.com/2026/09/charter-spectrum-coo-nick-jeffery-great-cable-comeback-1237064469/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:43:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849386",
+      "title": "Shaquille O\u2019Neal\u2019s \u2018Dunkman\u2019 Returns for Season 2",
+      "url": "https://variety.com/2026/sports/sports-stars/shaquille-oneals-dunkman-returns-1236849386/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849487",
+      "title": "Common, Patti LaBelle, Public Enemy and More to Be Honored at Black Music Action Coalition Gala",
+      "url": "https://variety.com/2026/music/news/common-2026-black-music-action-coalition-gala-1236849487/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849023",
+      "title": "Eva Longoria on How Sports Is Fueling Her Expanding Hyphenate Media Group, Including \u2018NFL Hometown Eats\u2019",
+      "url": "https://variety.com/2026/tv/news/eva-longoria-sports-hyphenate-media-nfl-hometown-eats-1236849023/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:33:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848826",
+      "title": "YouTube Travel Creator Drew Binsky Inks Netfix Deal",
+      "url": "https://variety.com/2026/tv/news/netfix-deal-drew-binsky-youtube-1236848826/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:33:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687377",
+      "title": "The Devil Wears Zara: Anna Wintour\u2019s Latest Met Gala Mess",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/anna-wintour-met-gala-mess-1236687377/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687388",
+      "title": "\u201cI Lost 17 Oscars, But I Won a Pig\u201d: How Diane Warren Saved Wilbur",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/diane-warren-saved-wilbur-1236687388/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687393",
+      "title": "You\u2019ll Never Guess Adam Scott\u2019s Favorite Indiana Jones Movie",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/adam-scott-hollywood-favorite-film-picks-book-1236687393/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688174",
+      "title": "Elliot Page Says He\u2019s Not Getting Lots of Offers After Acclaimed \u2018The Odyssey\u2019 Role",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/elliot-page-not-getting-offers-after-the-odyssey-1236688174/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:52:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688187",
+      "title": "\u2018Electra/Persona\u2019 Theater Review: Cate Blanchett and Nina Hoss Are Magnificent in Benedict Andrews\u2019 Ambitious Double Bill",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/electra-persona-theater-review-cate-blanchett-nina-hoss-1236688187/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:48:51+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688022",
+      "title": "\u2018The Runner\u2019 Review: Gal Gadot Sprints Through a Ticking-Clock Thriller That\u2019s Fun Enough if You Don\u2019t Stop to Think About It",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-runner-review-gal-gadot-kevin-macdonald-1236688022/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:37:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684224",
+      "title": "Studios Greenlight $250 Million Movies With a \u201cGo Big or Go Home\u201d Approach. There\u2019s Another Way",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/studios-summer-box-office-1236684224/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T16:34:55+00:00"
+    },
+    {
+      "guid": "A68dCWN3HDxrs53KB46SKg",
+      "title": "Afterworld will be strategy royalty Paradox's \"most approachable\" game, and after raising cannibal fish-mutants to conquer America I'm hooked",
+      "url": "https://www.gamesradar.com/games/strategy/afterworld-will-be-strategy-royalty-paradoxs-most-approachable-game-and-after-raising-cannibal-fish-mutants-to-conquer-america-im-hooked/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T16:40:02+00:00"
+    },
+    {
+      "guid": "FaqTXTdKHCf6VZD2LYguoP",
+      "title": "8BitDo and SteelSeries have combined forces to create a whimsical Cozy Collection of Xbox accessories",
+      "url": "https://www.gamesradar.com/hardware/accessories/8bitdo-and-steelseries-have-combined-forces-to-create-a-whimsical-cozy-collection-of-xbox-accessories/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T16:38:38+00:00"
+    },
+    {
+      "guid": "uyYjKKqaaC6dyfF8edEoXm",
+      "title": "Nexus Mods, \"the biggest modding platform in the world,\" has just acquired SteamDB: \"We don't take the responsibility of becoming its next steward lightly\"",
+      "url": "https://www.gamesradar.com/games/nexus-mods-the-biggest-modding-platform-in-the-world-has-just-acquired-steamdb-we-dont-take-the-responsibility-of-becoming-its-next-steward-lightly/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T16:29:45+00:00"
+    },
+    {
+      "guid": "jUe2F879nKVVJhJohgSFQZ",
+      "title": "StarCraft 3 rumors resurface as new report claims Nexon and IP owner Blizzard are nearly ready to finalize a deal",
+      "url": "https://www.gamesradar.com/games/real-time-strategy/starcraft-3-rumors-resurface-as-new-report-claims-nexon-and-ip-owner-blizzard-are-nearly-ready-to-finalize-a-deal/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T16:28:58+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205821",
+      "title": "UK Charts: Elden Ring Starts Strong, But It's Metal Gear That Takes The Crown",
+      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-elden-ring-starts-strong-but-its-metal-gear-that-takes-the-crown",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122242",
+      "title": "Monster Hunter Wilds Ascendance Trailers Show Boosted Actions and Great Sword",
+      "url": "https://www.siliconera.com/monster-hunter-wilds-ascendance-trailers-show-boosted-actions-and-great-sword/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205801",
+      "title": "\"Disney Started Freaking Out\" - Here's Why Pirates Of The Caribbean: The Curse of The Black Pearl Never Got A Proper Video Game Tie-In",
+      "url": "https://www.timeextension.com/news/2026/09/disney-started-freaking-out-heres-why-pirates-of-the-caribbean-the-curse-of-the-black-pearl-never-got-a-proper-video-game-tie-in",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=618259",
+      "title": "D&D: Five Monsters That PCs Could Take Feats To Turn Into",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-five-monsters-that-pcs-could-take-feats-to-turn-into.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "guid": "t3_1w5g0u0",
+      "title": "Possible Bloody roar new game reveal on State of play or konami press on Sept.3?",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w5g0u0/possible_bloody_roar_new_game_reveal_on_state_of/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T16:55:24+00:00"
     }
   ]
 }
