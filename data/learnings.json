@@ -1099,6 +1099,30 @@
       "article_titles": [
         "September's first wave of Xbox Game Pass games revealed, and it brings RuneScape to console for the first time"
       ]
+    },
+    {
+      "headline": "Nexus Mods Just Acquired SteamDB, the Community's Essential Steam Tracker",
+      "tag": "nexus mods / steamdb",
+      "posted_at": "2026-09-02T14:01:23.815644+00:00",
+      "urls": [
+        "https://kotaku.com/nexus-mods-steamdb-steam-2000730486"
+      ],
+      "article_titles": [
+        "The Biggest Mod Website Just Bought Everyone\u2019s Window Into Steam"
+      ]
+    },
+    {
+      "headline": "WoW Fans Dig \"Wow 2\" Evidence Out of Blizzard's Backend Amid Classic Plus Speculation",
+      "tag": "world of warcraft",
+      "posted_at": "2026-09-02T14:01:23.888430+00:00",
+      "urls": [
+        "https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine",
+        "https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine"
+      ],
+      "article_titles": [
+        "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend",
+        "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1287,6 +1311,78 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-09-02T13:04:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730486",
+      "title": "The Biggest Mod Website Just Bought Everyone\u2019s Window Into Steam",
+      "url": "https://kotaku.com/nexus-mods-steamdb-steam-2000730486",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T13:50:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065257",
+      "title": "Miss World Grand Finale To Stream Free On Fawesome",
+      "url": "https://deadline.com/2026/09/miss-world-grand-finale-fawesome-1237065257/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065313",
+      "title": "Danny Boyle Voices Fears For Journalism & Speaking Truth To Power In Age Of AI As \u2018Ink\u2019 Debuts In Venice",
+      "url": "https://deadline.com/2026/09/danny-boyle-journalism-truth-power-ai-venice-1237065313/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T13:35:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849246",
+      "title": "Blackpink and \u2018White Lotus\u2019 Star Lisa Documentary \u2018Always Lalisa\u2019 Sets Global Release",
+      "url": "https://variety.com/2026/music/news/blackpink-white-lotus-lisa-doc-always-lalisa-release-1236849246/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T13:39:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845356",
+      "title": "New Regency Takes International Rights to Ferran Adri\u00e0 Series \u2018Genesis\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/markets-festivals/new-regency-genesis-ferran-adria-genesis-3cat-1236845356/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T13:39:32+00:00"
+    },
+    {
+      "guid": "XPmY3X5cgLSZF27V9DH22F",
+      "title": "As if TCG scarcity wasn't bad enough already, an accessory maker just introduced a chase edition binder",
+      "url": "https://www.gamesradar.com/tabletop-gaming/as-if-tcg-scarcity-wasnt-bad-enough-already-an-accessory-maker-just-introduced-a-chase-edition-binder/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T13:39:47+00:00"
+    },
+    {
+      "guid": "1872522",
+      "title": "GTA 6 Has A Point Of No Return For Players Who Take Crime Too Far",
+      "url": "https://www.gamespot.com/articles/gta-6-morality-system-has-a-secret-breaking-point/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T13:36:10+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754333",
+      "title": "Netflix\u2019s The Early Spring Debuts at No. 2 on Global Non-English TV Chart With 2.4 Million Views",
+      "url": "https://otakukart.com/netflixs-the-early-spring-debuts-at-no-2-on-global-non-english-tv-chart-with-2-4-million-views/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T13:52:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754323",
+      "title": "IDOLY PRIDE\u2019s Mei Hayasaka VA Moka Hinata Suspended by Music Ray\u2019n Over Conduct That \u201cSeverely Damaged Trust\u201d",
+      "url": "https://otakukart.com/idoly-prides-mei-hayasaka-va-moka-hinata-suspended-by-music-rayn-over-conduct-that-severely-damaged-trust/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T13:35:29+00:00"
     }
   ]
 }
