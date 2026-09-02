@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Blue Dragon Finally Escapes Xbox 360 With a Full-Featured Unofficial PC Port",
-      "tag": "blue dragon",
-      "posted_at": "2026-08-26T20:00:59.542815+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/rpg/blue-dragon-has-been-stuck-on-the-xbox-360-for-20-years-but-no-longer-a-fantastic-unofficial-pc-port-unlocks-the-fps-goes-4k-and-even-adds-mod-support/"
-      ],
-      "article_titles": [
-        "Blue Dragon has been stuck on the Xbox 360 for 20 years, but no longer: a fantastic unofficial PC port unlocks the FPS, goes 4K, and even adds mod support"
-      ]
-    },
-    {
       "headline": "Magic: The Gathering's New Set Has a Card That Depicts a Graded Version of Itself",
       "tag": "magic: the gathering",
       "posted_at": "2026-08-26T20:31:26.304179+00:00",
@@ -1103,139 +1092,24 @@
       "article_titles": [
         "Fortnite Announces Crossover With Andrew Garfield Historical Drama The Uprising"
       ]
+    },
+    {
+      "headline": "Dwarf Fortress Co-Creator on Life After Going Millionaire: \"Basically Reattaining What My Parents Could Do With Regular Jobs\"",
+      "tag": "dwarf fortress",
+      "posted_at": "2026-09-02T20:31:09.283833+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/sim/dwarf-fortress-co-creator-says-his-life-as-a-millionaire-is-basically-like-reattaining-what-my-parents-could-do-with-regular-jobs/",
+        "https://www.pcgamer.com/games/sim/dwarf-fortress-co-creator-says-his-life-as-a-millionaire-is-basically-like-reattaining-what-my-parents-could-do-with-regular-jobs/"
+      ],
+      "article_titles": [
+        "Dwarf Fortress co-creator says his life as a millionaire is 'basically like reattaining what my parents could do with regular jobs'",
+        "Dwarf Fortress co-creator says his life as a millionaire is 'basically like reattaining what my parents could do with regular jobs'"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "55deeb55-96e9-4233-b535-01059b5f3015",
-      "title": "New Harry Potter Trailer Teases Snape, Quidditch, and the Sorting Hat",
-      "url": "https://www.ign.com/articles/harry-potter-philosophers-stone-trailer-highlights",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:12:02+00:00"
-    },
-    {
-      "guid": "b44d7aa8-e995-4e1c-9942-16866821758f",
-      "title": "The Humble Choice September 2026 Lineup Is Live With Frostpunk 2, Sonic X Shadow Generations, and 6 More Games",
-      "url": "https://www.ign.com/articles/humble-choice-september-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:09:11+00:00"
-    },
-    {
-      "guid": "29e52dfa-c785-46e2-a14c-ba43d566abe6",
-      "title": "\u2018It\u2019s Not a Revolutionary Thing For an RPG to Have\u2019 \u2014 Fable Explains The Very Obvious Reason as To Why Its Hero Design Has Changed",
-      "url": "https://www.ign.com/articles/its-not-a-revolutionary-thing-for-an-rpg-to-have-fable-explains-the-very-obvious-reason-as-to-why-its-hero-design-has-changed",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:05:25+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000730489",
-      "title": "Harvey Smith Explains What Most Games Are Missing And Why He\u2019s Still Making Them: \u2018It\u2019s An Act Of Rebellion To Try To Do Something Hopeful In Times Like This\u2019",
-      "url": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:47+00:00"
-    },
-    {
-      "guid": "n6MnPe5NC7QhNboK5K7QHF",
-      "title": "OpenAI head Sam Altman says 'people hate data centers,' but the company still plans to invest $50 million more in AI infrastructure this year alone",
-      "url": "https://www.pcgamer.com/software/ai/openai-head-sam-altman-says-people-hate-data-centers-but-the-company-still-plans-to-invest-usd50-million-more-in-ai-infrastructure-this-year-alone/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:21:21+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065638",
-      "title": "Black Bear Lands Greta Lee Starrer \u2018Jonah\u2019; Director Danya Taymor Reteaming With Rachel Bonds On Adaptation Of Her Off-Broadway Play",
-      "url": "https://deadline.com/2026/09/greta-lee-jonah-play-adaptation-rachel-bonds-black-bear-1237065638/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065393",
-      "title": "Paul Schrader On \u2018The Basics Of Philosophy\u2019, The \u201cGift\u201d Of Guilt & Tripping On Ayahuasca At Age 80 \u2014 Venice Film Festival",
-      "url": "https://deadline.com/2026/09/paul-schrader-basics-of-philosophy-interview-venice-1237065393/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:20:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236849274",
-      "title": "Ryan Reynolds Premieres \u2018Mayday\u2019 in New York City, Andrew Scott is Under \u2018Pressure\u2019 in London and More Red Carpet Photos: September 2026",
-      "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:20:04+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236687655",
-      "title": "Norman Lear Awards to Honor \u2018Abbott Elementary,\u2019 \u2018The Morning Show,\u2019 \u2018Grey\u2019s Anatomy\u2019 and More (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/norman-lear-awards-2026-winners-jay-pharoah-host-1236687655/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236593708",
-      "title": "\u2018Dancing With the Stars\u2019 Season 35 Cast: All About the Stars Hitting the Ballroom This Fall",
-      "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-season-35-cast/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:22:18+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688200",
-      "title": "Prime Video Grabs Local Streaming Rights for Six NHL Teams",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/nhl-prime-video-local-streaming-6-teams-1236688200/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:03:09+00:00"
-    },
-    {
-      "guid": "iHjPQUwDHyapV9y7e5qCLU",
-      "title": "Banjo-Kazooie composer says \"like 3 companies\" have pitched a new entry in the series, but \"Rare just typically say no to everything\"",
-      "url": "https://www.gamesradar.com/games/platformer/banjo-kazooie-composer-says-like-3-companies-have-pitched-a-new-entry-in-the-series-but-rare-just-typically-say-no-to-everything/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:17:26+00:00"
-    },
-    {
-      "guid": "jtZnLdwJEhnXYV5LMp3cBg",
-      "title": "My family loves board games and kaiju, so King of Tokyo: Godzilla was a day one purchase for me",
-      "url": "https://www.gamesradar.com/games/board-games/king-of-tokyo-godzilla-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:16:57+00:00"
-    },
-    {
-      "guid": "QtMYNgjQ2fZ3pNTJnvQvD5",
-      "title": "The Mandalorian and Grogu features a hidden Han Solo Easter egg in a Rotta the Hutt scene",
-      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/the-mandalorian-and-grogu-features-a-hidden-han-solo-easter-egg-in-a-rotta-the-hutt-scene/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:10:58+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed",
-      "title": "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space",
-      "url": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:28:44+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000730519",
-      "title": "Five Things We Just Learned From Tomb Raider: Legacy Of Atlantis Previews",
-      "url": "https://kotaku.com/five-things-we-just-learned-from-tomb-raider-legacy-of-atlantis-previews-2000730519",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:30:23+00:00"
-    },
     {
       "guid": "9FxaRvzQKjQgn9t6rZgJ39",
       "title": "Doug Cockle believes Dandelion is Geralt's real soulmate in The Witcher 3, but 'in a very platonic way'",
@@ -1371,30 +1245,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-02T16:38:38+00:00"
-    },
-    {
-      "guid": "uyYjKKqaaC6dyfF8edEoXm",
-      "title": "Nexus Mods, \"the biggest modding platform in the world,\" has just acquired SteamDB: \"We don't take the responsibility of becoming its next steward lightly\"",
-      "url": "https://www.gamesradar.com/games/nexus-mods-the-biggest-modding-platform-in-the-world-has-just-acquired-steamdb-we-dont-take-the-responsibility-of-becoming-its-next-steward-lightly/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:29:45+00:00"
-    },
-    {
-      "guid": "jUe2F879nKVVJhJohgSFQZ",
-      "title": "StarCraft 3 rumors resurface as new report claims Nexon and IP owner Blizzard are nearly ready to finalize a deal",
-      "url": "https://www.gamesradar.com/games/real-time-strategy/starcraft-3-rumors-resurface-as-new-report-claims-nexon-and-ip-owner-blizzard-are-nearly-ready-to-finalize-a-deal/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:28:58+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205821",
-      "title": "UK Charts: Elden Ring Starts Strong, But It's Metal Gear That Takes The Crown",
-      "url": "https://www.nintendolife.com/news/2026/09/uk-charts-elden-ring-starts-strong-but-its-metal-gear-that-takes-the-crown",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1122242",
@@ -2139,6 +1989,126 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-02T20:00:00+00:00"
+    },
+    {
+      "guid": "e1e28805-e645-4d52-bbe1-880cca7442b0",
+      "title": "Sony Is Making 59% More Revenue Per PlayStation User Since PS4 Generation, Says Analyst",
+      "url": "https://www.ign.com/articles/sony-is-making-59-more-revenue-per-playstation-user-since-ps4-generation-says-analyst",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:00:59+00:00"
+    },
+    {
+      "guid": "t5PfjYKNtUt7fbiHDvKwYS",
+      "title": "Double Fine's famous game jam returns with 26 new ideas and a promise to make Brutal Legend 2, if its Kickstarter stretch goal is met",
+      "url": "https://www.pcgamer.com/games/double-fines-famous-game-jam-returns-with-26-new-ideas-and-a-promise-to-make-brutal-legend-2-if-its-kickstarter-stretch-goal-is-met/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:18:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066047",
+      "title": "\u2018Being Heumann\u2019 Trailer: First Look At Si\u00e2n Heder\u2019s \u2018CODA\u2019 Follow-Up That Opens TIFF",
+      "url": "https://deadline.com/2026/09/being-heumann-trailer-sian-heder-1237066047/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:27:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066070",
+      "title": "Simu Liu Signs With WME",
+      "url": "https://deadline.com/2026/09/simu-liu-signs-wme-1237066070/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:26:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066064",
+      "title": "Robert Pattinson Finds \u2018The Batman: Part II\u2019 Fight Scenes \u201cSignificantly Harder\u201d: \u201cFeeling My Age\u201d",
+      "url": "https://deadline.com/2026/09/robert-pattinson-batman-ii-fight-scenes-significantly-harder-1237066064/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:23:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066052",
+      "title": "\u2018Judge Judy\u2019 Celebrates 30th Anniversary In CBS Primetime Special With Steven Spielberg, Samuel L. Jackson & More",
+      "url": "https://deadline.com/2026/09/judge-judy-cbs-anniversary-special-judy-sheindlin-1237066052/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:22:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065170",
+      "title": "Danny Boyle\u2019s \u2018Ink\u2019 Earns Five-Minute\u00a0Ovation At Venice World Premiere",
+      "url": "https://deadline.com/2026/09/danny-boyle-ink-ovation-venice-world-premiere-1237065170/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:03:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236836393",
+      "title": "Jack O\u2019Connell\u2019s Ruthless Tabloid Editor in \u2018Ink\u2019 Fires Up Venice as Danny Boyle Drama Earns Warm 4-Minute Ovation",
+      "url": "https://variety.com/2026/film/festivals/jack-oconnell-danny-boyle-ink-venice-premiere-1236836393/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:21:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845645",
+      "title": "Tim Curry\u2019s Cause of Death Revealed",
+      "url": "https://variety.com/2026/film/news/tim-curry-cause-of-death-1236845645/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:18:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849618",
+      "title": "Elliot Page Is \u2018Not Really\u2019 Getting Casting Calls After \u2018The Odyssey\u2019: \u2018If Someone Wants to Call Me\u2026I\u2019d Love to Do Good Work\u2019",
+      "url": "https://variety.com/2026/film/news/elliot-page-casting-calls-after-odyssey-1236849618/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:16:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849229",
+      "title": "Filmmaker Penny Lane Sets Documentary on Bronx Zoo Elephant, \u2018Happy\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/filmmaker-penny-lane-documentary-happy-bronx-zoo-elephant-1236849229/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688040",
+      "title": "Danny Boyle\u2019s Rupert Murdoch Drama \u2018Ink\u2019 Gives Venice a Rollicking Start on Opening Night",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyles-rupert-murdoch-drama-ink-venice-ovation-1236688040/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:10:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688664",
+      "title": "Dollywood Unveils Plans for 2027 in-Park Tributes and Resort Expansion",
+      "url": "https://www.hollywoodreporter.com/music/music-news/dollywood-in-park-tributes-resort-expansion-1236688664/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T20:00:34+00:00"
+    },
+    {
+      "guid": "1873151",
+      "title": "CD Projekt Red Is Still Raking In The Cash As We Wait For The Witcher 4",
+      "url": "https://www.gamespot.com/articles/cd-projekt-red-is-still-raking-in-the-cash-as-we-wait-for-the-witcher-4/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T19:56:05+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=618643",
+      "title": "D&D: Why Are Settings The Wave Of The Future?",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-why-are-settings-the-wave-of-the-future.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T20:06:19+00:00"
     }
   ]
 }
