@@ -1,58 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Bloodstained: The Scarlet Engagement Delayed to 2027",
-      "tag": "bloodstained: the scarlet engagement",
-      "posted_at": "2026-08-26T14:12:08.774701+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/we-understand-that-this-is-disappointing-news-bloodstained-the-scarlet-engagement-is-delayed-to-2027/"
-      ],
-      "article_titles": [
-        "\u2018We understand that this is disappointing news\u2019 Bloodstained: The Scarlet Engagement is delayed to 2027"
-      ]
-    },
-    {
-      "headline": "Roblox Bans \"Doomscrolling Games\" That Make Players Watch Reels on a Treadmill",
-      "tag": "roblox",
-      "posted_at": "2026-08-26T14:12:08.901264+00:00",
-      "urls": [
-        "https://kotaku.com/roblox-cracks-down-on-doomscrolling-games-like-steal-an-egg-that-forces-players-to-watch-reels-while-running-on-a-treadmill-2000727952"
-      ],
-      "article_titles": [
-        "Roblox Cracks Down On \u2018Doomscrolling Games\u2019 Like Steal An Egg That Force Players To Watch Reels While Running On A Treadmill"
-      ]
-    },
-    {
-      "headline": "LEGO Batman: Legacy of the Dark Knight Gets \"Mayhem Collection\" DLC With Joker and Harley Quinn Story Mission",
-      "tag": "lego batman: legacy of the dark knight",
-      "posted_at": "2026-08-26T14:12:08.997551+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/08/lego-batman-legacy-of-the-dark-knight-dlc-mayhem-collection-announced",
-        "https://www.ign.com/articles/exclusive-lego-batman-legacy-of-the-dark-knight-deluxe-edition-mayhem-collection-dlc-trailer-reveals-the-joker-and-harley-quinn-story-mission-and-more"
-      ],
-      "article_titles": [
-        "LEGO Batman: Legacy of the Dark Knight DLC \u2018Mayhem Collection\u2019 announced",
-        "Exclusive: LEGO Batman: Legacy of the Dark Knight Deluxe Edition - Mayhem Collection DLC Trailer Reveals The Joker and Harley Quinn Story Mission and More"
-      ]
-    },
-    {
-      "headline": "Star Wars Zero Company Reviews Are In \u2014 And XCOM With Lightsabers Mostly Delivers",
-      "tag": "star wars zero company",
-      "posted_at": "2026-08-26T14:12:09.085429+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/strategy/star-wars-zero-company-release-date-launch-times/",
-        "https://www.ign.com/articles/star-wars-zero-company-review",
-        "https://www.pcgamer.com/games/strategy/star-wars-zero-company-review/",
-        "https://www.gamesradar.com/games/strategy/star-wars-zero-company-review/"
-      ],
-      "article_titles": [
-        "Here's the Star Wars Zero Company release time for your region",
-        "Star Wars Zero Company Review",
-        "Star Wars Zero Company review",
-        "Star Wars Zero Company review: \"XCOM with lightsabers is a truly sweet deal, and it doesn't have to reinvent the tactics wheel to be forceful\""
-      ]
-    },
-    {
       "headline": "Elden Ring Runs Well on Nintendo Switch 2 \u2014 Early Hands-On Reports Are In",
       "tag": "elden ring",
       "posted_at": "2026-08-26T14:31:17.345585+00:00",
@@ -1123,6 +1071,28 @@
         "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend",
         "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend"
       ]
+    },
+    {
+      "headline": "Barbarian Director Zach Cregger Will Bring Resident Evil's Resource Management to His Movie",
+      "tag": "resident evil",
+      "posted_at": "2026-09-02T14:31:13.109631+00:00",
+      "urls": [
+        "https://www.pcgamer.com/movies-tv/zach-cregger-is-going-to-bring-the-resource-management-aspect-of-the-games-to-his-resident-evil-movie/"
+      ],
+      "article_titles": [
+        "Zach Cregger is going to bring the 'resource management aspect of the games' to his Resident Evil movie"
+      ]
+    },
+    {
+      "headline": "Square Enix Denies Reports That It's Going Private",
+      "tag": "square enix",
+      "posted_at": "2026-09-02T14:31:13.256911+00:00",
+      "urls": [
+        "https://www.eurogamer.net/square-enix-denies-going-private-report"
+      ],
+      "article_titles": [
+        "Square Enix denies it's going private following Japanese reports to the contrary"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1383,6 +1353,190 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-02T13:35:29+00:00"
+    },
+    {
+      "guid": "8b3f0294-baac-4668-99f7-57a0cefc0d74",
+      "title": "Epomaker Split 70 Keyboard Review",
+      "url": "https://www.ign.com/articles/epomaker-split-70-keyboard-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:15:00+00:00"
+    },
+    {
+      "guid": "871ea92e-555a-4578-9416-c8a387a6eba4",
+      "title": "The Best LEGO Castle Sets to Build in 2026",
+      "url": "https://www.ign.com/articles/the-best-lego-castle-sets",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/square-enix-denies-going-private-report",
+      "title": "Square Enix denies it's going private following Japanese reports to the contrary",
+      "url": "https://www.eurogamer.net/square-enix-denies-going-private-report",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:05:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730505",
+      "title": "After Worlds, Pok\u00e9mon Champions Got A Long-Awaited Update And One That Has Players Concerned",
+      "url": "https://kotaku.com/pokemon-champions-competitive-handbook-mobile-disconnect-2000730505",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:16:51+00:00"
+    },
+    {
+      "guid": "sPNjuyMgqoeCUFpae6QuMf",
+      "title": "Zach Cregger is going to bring the 'resource management aspect of the games' to his Resident Evil movie",
+      "url": "https://www.pcgamer.com/movies-tv/zach-cregger-is-going-to-bring-the-resource-management-aspect-of-the-games-to-his-resident-evil-movie/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:14:50+00:00"
+    },
+    {
+      "guid": "U2HjdXHuin78zLpruasmpE",
+      "title": "Was Geralt's voice actor inspired by Henry Cavill's take on him in The Witcher series? 'No, because we were first'",
+      "url": "https://www.pcgamer.com/games/the-witcher/was-geralts-voice-actor-inspired-by-henry-cavills-take-on-him-in-the-witcher-series-no-because-we-were-first/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:01:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065383",
+      "title": "\u2018The Fastest Man In The World\u2019: Biopic Of Four-Time Paralympic Gold Medalist Tony Volpentest In The Works",
+      "url": "https://deadline.com/2026/09/the-fastest-man-in-the-world-biopic-tony-volpentest-1237065383/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:02:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236846812",
+      "title": "\u2018My Notes on Mars\u2019 Review: Mackenzie Davis and Rupert Friend Star in an Imperfect Breakdown of Marriage and Memory",
+      "url": "https://variety.com/2026/film/news/my-notes-on-mars-review-1236846812/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849259",
+      "title": "Robert Pattinson Says \u2018The Batman 2\u2019 Action Scenes Are \u2018Significantly Harder\u2019 and \u2018I\u2019m Feeling My Age When Fighting a Lot\u2019",
+      "url": "https://variety.com/2026/film/news/robert-pattinson-batman-2-action-scenes-harder-1236849259/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:23:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848286",
+      "title": "\u2018The Girl With The Leica\u2019 Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa",
+      "url": "https://variety.com/2026/film/reviews/the-girl-with-the-leica-review-1236848286/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848979",
+      "title": "\u2018Fall 2: Deadpoint\u2019 Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation",
+      "url": "https://variety.com/2026/film/reviews/fall-2-deadpoint-review-1236848979/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849059",
+      "title": "Wrongful Terrorism Case of Sri Lankan Student Set as Feature Doc \u2018Framed\u2019 by Australia\u2019s Anupam Sharma, First-Look Poster Unveiled Ahead of Toronto Market (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/wrongful-terrorism-case-sri-lankan-student-doc-framed-first-look-poster-1236849059/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849136",
+      "title": "Jordan Firstman, Matteo Lane Lead U.S. Voice Cast of Cannes Breakout Comedy \u2018Jim Queen\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/jordan-firstman-matteo-lane-jim-queen-1236849136/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688087",
+      "title": "The Buzziest New Show on Netflix? A Video Game Trailer",
+      "url": "https://www.hollywoodreporter.com/business/digital/netflix-gta-streaming-1236688087/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:15:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236683984",
+      "title": "Emily Alyn Lind Is a Proud \u201cF***ing Know-It-All\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/emily-alyn-lind-company-venice-gossip-girl-interview-1236683984/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236680903",
+      "title": "\u2018Runner\u2019 Review: Alan Ritchson and Owen Wilson in an Impressively Visceral Buddy Thriller That Leaves Behind a Bad Taste",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/runner-review-alan-ritchson-owen-wilson-1236680903/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687326",
+      "title": "Why Casey Affleck Cast His Family in His Gothic New Film \u2018Company\u2019 (First Look)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/casey-affleck-company-venice-first-look-1236687326/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "5sxhaViGDtat46RBWi5FSa",
+      "title": "Viz Media is launching all 24 Pokemon movies into one Blu-ray collection shaped like a Poke Ball, but you'll need $400 to catch them all",
+      "url": "https://www.gamesradar.com/entertainment/viz-media-is-launching-all-24-pokemon-movies-into-one-blu-ray-collection-shaped-like-a-poke-ball-but-youll-need-usd400-to-catch-them-all/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T14:14:41+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205811",
+      "title": "Got A Spare $400? This Pok\u00e9mon 24-Movie Blu-Ray Collection Could Be Yours",
+      "url": "https://www.nintendolife.com/news/2026/09/got-a-spare-usd400-this-pokemon-24-movie-blu-ray-collection-could-be-yours",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205808",
+      "title": "You Might Benefit from a $7.85 Million Payout as PlayStation Settles Anti-Trust Lawsuit",
+      "url": "https://www.pushsquare.com/news/2026/09/you-might-benefit-from-a-usd7-85-million-payout-as-playstation-settles-anti-trust-lawsuit",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122208",
+      "title": "Mayla Producing NieR Automata Anime 2B Blouse",
+      "url": "https://www.siliconera.com/mayla-producing-nier-automata-anime-2b-blouse/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T14:00:03+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074579",
+      "title": "Fangtopia launches October 26",
+      "url": "https://www.gematsu.com/2026/09/fangtopia-launches-october-26",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T14:07:22+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1071372",
+      "title": "GIRLS\u2019 FRONTLINE 2: EXILIUM \u2013 \u2018Chiral Redundancy\u2019 update introduces OTs-14, the first MOD Doll Nemesis: Gnosis, and major rewards",
+      "url": "https://www.gematsu.com/2026/09/girls-frontline-2-exilium-chiral-redundancy-update-introduces-ots-14-the-first-mod-doll-nemesis-gnosis-and-major-rewards",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T14:00:07+00:00"
     }
   ]
 }
