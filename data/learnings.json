@@ -1109,126 +1109,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
-      "title": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates",
-      "url": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T15:53:39+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000730500",
-      "title": "Counter-Strike 2 \u2018Slur Tracker\u2019 Reports 17 Percent Of Matches Contain Racist And Homophobic Language",
-      "url": "https://kotaku.com/counter-strike-2-slur-tracker-reports-17-percent-of-matches-contain-racist-and-homophobic-language-2000730500",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T15:45:24+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237064857",
-      "title": "\u2018Mayday\u2019 Review:  Kenneth Branagh Steals The Show From Top Gun Ryan Reynolds In Skydance And Apple\u2019s Wild Buddy Action Comedy That Should Have Been In Theatres",
-      "url": "https://deadline.com/2026/09/mayday-review-kenneth-branagh-ryan-reynolds-action-comedy-1237064857/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065608",
-      "title": "Samson Kayo & Sonny Valicenti Join Apple TV Comedy \u2018Protective Custody\u2019 As Series Regulars",
-      "url": "https://deadline.com/2026/09/protective-custody-series-adds-samson-kayo-sonny-valicenti-1237065608/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065599",
-      "title": "\u2018Harry Potter\u2019 Trailer Gives Glimpse Of Sorting Ceremony, More Dumbledore & Snape In HBO Series",
-      "url": "https://deadline.com/2026/09/harry-potter-trailer-dumbledore-snape-hbo-1237065599/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T15:57:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237064415",
-      "title": "Netflix Is \u2018Playing With Matches\u2019 In Its Next Social Experiment Reality Series",
-      "url": "https://deadline.com/2026/09/netflix-playing-with-matches-social-experiment-series-1237064415/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T15:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236848829",
-      "title": "Owen Thiele, Este Haim, Kate Berlant, Lisa Gilroy, Joel Kim Booster Join Variety\u2019s Entertainment & Technology Summit",
-      "url": "https://variety.com/2026/biz/news/variety-entertainment-technology-2026-summit-programming-1236848829/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849262",
-      "title": "Kelly Clarkson Hits High Notes Singing \u2018Golden\u2019 During Final Talk Show; Lin-Manuel Miranda, Kristin Chenoweth and More \u2018Blown Away\u2019 by Performance",
-      "url": "https://variety.com/2026/music/news/kelly-clarkson-sings-golden-talk-show-demon-hunters-1236849262/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T15:44:33+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849387",
-      "title": "David Byrne\u2019s Hollywood Bowl Shows Put a Seal on One of the Greatest Rock Tours of All Time: Concert Review",
-      "url": "https://variety.com/2026/music/concert-reviews/david-byrne-hollywood-bowl-tour-concert-review-1236849387/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T15:36:31+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849064",
-      "title": "\u2018Black Book 2,\u2019 \u2018I\u2019m Coming for You\u2019 Headline Buzzy Slate of African Works in Progress at Inaugural TIFF Market (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/black-book-2-im-coming-for-you-africa-tiff-market-1236849064/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T15:33:34+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236679707",
-      "title": "\u2018Mayday\u2019 Review: Ryan Reynolds and Kenneth Branagh Have Infectious Chemistry in Derivative but Diverting Apple TV Action-Comedy",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/mayday-review-ryan-reynolds-kenneth-branagh-apple-1236679707/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "guid": "RoRB877zCEVo5LkMumihWR",
-      "title": "GamesRadar+ Fall Preview 2026: Your next favorite games make up our hefty Most Wanted list",
-      "url": "https://www.gamesradar.com/gamesradar-fall-preview-the-biggest-games-of-autumn-2026/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T15:45:15+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205812",
-      "title": "Video: Mario Kart 8 Deluxe Looks Gorgeous (And So Silly) On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/09/video-mario-kart-8-deluxe-looks-gorgeous-and-so-silly-on-switch-2",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T15:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122235",
-      "title": "The Summer Hikaru Died Horror Manga Will End in October",
-      "url": "https://www.siliconera.com/the-summer-hikaru-died-horror-manga-will-end-in-october/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1074709",
-      "title": "My Hero Academia: All\u2019s Justice DLC character Izuku Midoriya Overlay Full Style launches September 3",
-      "url": "https://www.gematsu.com/2026/09/my-hero-academia-alls-justice-dlc-character-izuku-midoriya-overlay-full-style-launches-september-3",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T15:34:11+00:00"
-    },
-    {
       "guid": "55deeb55-96e9-4233-b535-01059b5f3015",
       "title": "New Harry Potter Trailer Teases Snape, Quidditch, and the Sorting Hat",
       "url": "https://www.ign.com/articles/harry-potter-philosophers-stone-trailer-highlights",
@@ -1251,30 +1131,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-09-02T16:05:25+00:00"
-    },
-    {
-      "guid": "b1116b39-ce16-44ce-a0db-bc16772fcbb5",
-      "title": "Mayday Review",
-      "url": "https://www.ign.com/articles/mayday-review-ryan-reynolds-kenneth-branagh",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:12+00:00"
-    },
-    {
-      "guid": "2d7737e0-1bf1-41f0-8cec-b45a3ed8a148",
-      "title": "A Ghost Arm Made of Angry Ghosts: See the Weirdest New Superhero Comic of 2026",
-      "url": "https://www.ign.com/articles/a-ghost-arm-made-of-angry-ghosts-see-the-weirdest-new-superhero-comic-of-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "guid": "d8b6ed36-944d-48a0-9e14-3b79983895a2",
-      "title": "The Paper Season 2 Review",
-      "url": "https://www.ign.com/articles/the-paper-season-2-review-peacock-office-spinoff",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000730489",
@@ -1341,22 +1197,6 @@
       "published_dt": "2026-09-02T16:03:09+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236671090",
-      "title": "From Murdoch to Musk: This Year\u2019s Venice Lineup Is Its \u201cMost Political Ever\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/2026-venice-festival-lineup-political-1236671090/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236686217",
-      "title": "Deadpool Creator Rob Liefeld Signs with Range (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/deadpool-creator-rob-liefeld-signs-with-range-1236686217/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T16:00:00+00:00"
-    },
-    {
       "guid": "iHjPQUwDHyapV9y7e5qCLU",
       "title": "Banjo-Kazooie composer says \"like 3 companies\" have pitched a new entry in the series, but \"Rare just typically say no to everything\"",
       "url": "https://www.gamesradar.com/games/platformer/banjo-kazooie-composer-says-like-3-companies-have-pitched-a-new-entry-in-the-series-but-rare-just-typically-say-no-to-everything/",
@@ -1379,22 +1219,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-02T16:10:58+00:00"
-    },
-    {
-      "guid": "JbUE9cVjTMr2RyinfV4L3B",
-      "title": "Avengers: Doomsday director Joe Russo says going into production without a script allowed for \"magic\"",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-director-joe-russo-says-going-into-production-without-a-script-allowed-for-magic/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T15:58:33+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205813",
-      "title": "Ever Fancied Playing Ridge Racer In Portrait Ratio? This Flip Phone Port Has You Covered",
-      "url": "https://www.timeextension.com/news/2026/09/ever-fancied-playing-ridge-racer-in-portrait-ratio-this-flip-phone-port-has-you-covered",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T16:00:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed",
@@ -2235,6 +2059,86 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-02T19:05:48+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730611",
+      "title": "Peak Devs Are Using Their Mountain Of Cash To Publish New Indie Games",
+      "url": "https://kotaku.com/aggro-crab-peak-new-indie-publisher-outersloth-bigmode-2000730611",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T19:45:34+00:00"
+    },
+    {
+      "guid": "X6ntymPbkdPW2SoWAz8Zd4",
+      "title": "Dwarf Fortress co-creator says his life as a millionaire is 'basically like reattaining what my parents could do with regular jobs'",
+      "url": "https://www.pcgamer.com/games/sim/dwarf-fortress-co-creator-says-his-life-as-a-millionaire-is-basically-like-reattaining-what-my-parents-could-do-with-regular-jobs/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T19:55:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066028",
+      "title": "Tim Curry\u2019s Cause Of Death Revealed",
+      "url": "https://deadline.com/2026/09/tim-curry-cause-of-death-1237066028/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T19:41:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849434",
+      "title": "Evan Rachel Wood Got Recast in \u2018Practical Magic 2\u2019 Against Her Wish and Says \u2018No One Who Worked on the Original Film\u2019 Reached Out to Her",
+      "url": "https://variety.com/2026/film/news/evan-rachel-wood-shades-kidman-bullock-practical-magic-2-recasting-1236849434/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T19:51:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849493",
+      "title": "\u201860 Minutes\u2019 Faces New Challenge After Off-Season Chaos: Getting Back on the Air",
+      "url": "https://variety.com/2026/tv/news/60-minutes-challenge-off-season-chaos-back-on-air-1236849493/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T19:41:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688684",
+      "title": "\u2018The Gentlemen\u2019: Theo James Calls Meghan Markle Casting Reports \u201cA Lot of Hot Air\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/gentlemen-theo-james-meghan-markle-casting-1236688684/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T19:57:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688390",
+      "title": "\u2018Voicemails for Isabelle\u2019 Director Leah McKendrick on the Staying Power of the Romantic Comedy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/voicemails-for-isabelle-director-leah-mckendrick-interview-1236688390/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T19:49:31+00:00"
+    },
+    {
+      "guid": "1873123",
+      "title": "Long-Delayed Prison Architect 2 Gets Exciting Update After Two Years Of Mostly Silence",
+      "url": "https://www.gamespot.com/articles/long-delayed-prison-architect-2-gets-exciting-update-after-two-years-of-mostly-silence/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T19:40:49+00:00"
+    },
+    {
+      "guid": "1873149",
+      "title": "A Real-Life Romance (And The Love Of Fans) Fueled A Classic NES Remake",
+      "url": "https://www.gamespot.com/articles/a-real-life-romance-and-the-love-of-fans-fueled-a-classic-nes-remake/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T19:40:31+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122258",
+      "title": "Vampire Survivors Blood Drive Starts for Bloodmoon DLC",
+      "url": "https://www.siliconera.com/vampire-survivors-blood-drive-starts-for-bloodmoon-dlc/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T20:00:00+00:00"
     }
   ]
 }
