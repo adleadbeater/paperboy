@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Division 2 Gets New Expansion \"Echoes of Central Park\" Announced",
-      "tag": "the division 2",
-      "posted_at": "2026-08-26T17:31:04.588329+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-division-2-echoes-of-central-park-announced"
-      ],
-      "article_titles": [
-        "The Division 2: Echoes of Central Park Announced"
-      ]
-    },
-    {
       "headline": "GTA 6 Leaker Releases 4-Minute Lucia Prologue Footage After Rockstar Calls Leaks \"Heartbreaking\"",
       "tag": "gta 6",
       "posted_at": "2026-08-26T18:31:12.629063+00:00",
@@ -1094,99 +1083,35 @@
         "Monster Hunter Wilds Ascendance Trailers Show Boosted Actions and Great Sword",
         "Monster Hunter Wilds Ascendance Trailers Show Boosted Actions and Great Sword"
       ]
+    },
+    {
+      "headline": "Banjo-Kazooie Composer Reveals Multiple Studios Have Pitched New Games \u2014 Rare Just Keeps Saying No",
+      "tag": "banjo-kazooie",
+      "posted_at": "2026-09-02T18:01:17.395404+00:00",
+      "urls": [
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w5h97e/banjokazooie_composer_says_like_3_companies_have/",
+        "https://www.gamesradar.com/games/platformer/banjo-kazooie-composer-says-like-3-companies-have-pitched-a-new-entry-in-the-series-but-rare-just-typically-say-no-to-everything/"
+      ],
+      "article_titles": [
+        "Banjo-Kazooie composer says \"like 3 companies\" have pitched a new entry in the series, but \"Rare just typically say no to everything\"",
+        "Banjo-Kazooie composer says \"like 3 companies\" have pitched a new entry in the series, but \"Rare just typically say no to everything\""
+      ]
+    },
+    {
+      "headline": "No Rest for the Wicked Director Blasts Game Critics With Differing Opinions as 'Untrustworthy'",
+      "tag": "no rest for the wicked",
+      "posted_at": "2026-09-02T18:01:17.598879+00:00",
+      "urls": [
+        "https://kotaku.com/no-rest-for-the-wicked-thomas-mahler-ori-video-games-critic-2000730551"
+      ],
+      "article_titles": [
+        "No Rest For The Wicked Director Calls Video Game Critics Who Have Different Opinions \u2018Untrustworthy\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237065165",
-      "title": "\u2018Ink\u2019 Trailer: Danny Boyle Charts The Rise Of A British Tabloid In Venice Film Festival Opener",
-      "url": "https://deadline.com/2026/09/ink-trailer-danny-boyle-venice-film-festival-1237065165/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:32:52+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849216",
-      "title": "Travis Kelce Breaks Down Wedding to Taylor Swift and Says Adam Sandler Officiating Was \u2018Absolutely Insane\u2019: \u2018He\u2019s the F\u2014ing Best Person on This Planet\u2019",
-      "url": "https://variety.com/2026/music/news/travis-kelce-taylor-swift-wedding-sandler-officiating-1236849216/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:30:53+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000730486",
-      "title": "The Biggest Mod Website Just Bought Everyone\u2019s Window Into Steam",
-      "url": "https://kotaku.com/nexus-mods-steamdb-steam-2000730486",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:50:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065257",
-      "title": "Miss World Grand Finale To Stream Free On Fawesome",
-      "url": "https://deadline.com/2026/09/miss-world-grand-finale-fawesome-1237065257/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065313",
-      "title": "Danny Boyle Voices Fears For Journalism & Speaking Truth To Power In Age Of AI As \u2018Ink\u2019 Debuts In Venice",
-      "url": "https://deadline.com/2026/09/danny-boyle-journalism-truth-power-ai-venice-1237065313/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:35:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849246",
-      "title": "Blackpink and \u2018White Lotus\u2019 Star Lisa Documentary \u2018Always Lalisa\u2019 Sets Global Release",
-      "url": "https://variety.com/2026/music/news/blackpink-white-lotus-lisa-doc-always-lalisa-release-1236849246/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:39:40+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236845356",
-      "title": "New Regency Takes International Rights to Ferran Adri\u00e0 Series \u2018Genesis\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/markets-festivals/new-regency-genesis-ferran-adria-genesis-3cat-1236845356/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T13:39:32+00:00"
-    },
-    {
-      "guid": "XPmY3X5cgLSZF27V9DH22F",
-      "title": "As if TCG scarcity wasn't bad enough already, an accessory maker just introduced a chase edition binder",
-      "url": "https://www.gamesradar.com/tabletop-gaming/as-if-tcg-scarcity-wasnt-bad-enough-already-an-accessory-maker-just-introduced-a-chase-edition-binder/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:39:47+00:00"
-    },
-    {
-      "guid": "1872522",
-      "title": "GTA 6 Has A Point Of No Return For Players Who Take Crime Too Far",
-      "url": "https://www.gamespot.com/articles/gta-6-morality-system-has-a-secret-breaking-point/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:36:10+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754333",
-      "title": "Netflix\u2019s The Early Spring Debuts at No. 2 on Global Non-English TV Chart With 2.4 Million Views",
-      "url": "https://otakukart.com/netflixs-the-early-spring-debuts-at-no-2-on-global-non-english-tv-chart-with-2-4-million-views/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:52:33+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754323",
-      "title": "IDOLY PRIDE\u2019s Mei Hayasaka VA Moka Hinata Suspended by Music Ray\u2019n Over Conduct That \u201cSeverely Damaged Trust\u201d",
-      "url": "https://otakukart.com/idoly-prides-mei-hayasaka-va-moka-hinata-suspended-by-music-rayn-over-conduct-that-severely-damaged-trust/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T13:35:29+00:00"
-    },
     {
       "guid": "8b3f0294-baac-4668-99f7-57a0cefc0d74",
       "title": "Epomaker Split 70 Keyboard Review",
@@ -1194,14 +1119,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-09-02T14:15:00+00:00"
-    },
-    {
-      "guid": "871ea92e-555a-4578-9416-c8a387a6eba4",
-      "title": "The Best LEGO Castle Sets to Build in 2026",
-      "url": "https://www.ign.com/articles/the-best-lego-castle-sets",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/square-enix-denies-going-private-report",
@@ -1260,38 +1177,6 @@
       "published_dt": "2026-09-02T14:23:02+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236848286",
-      "title": "\u2018The Girl With The Leica\u2019 Review: An Impressionistic Portrait of Gerda Taro, the Woman Who Shared the Artistic Identity of Robert Capa",
-      "url": "https://variety.com/2026/film/reviews/the-girl-with-the-leica-review-1236848286/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236848979",
-      "title": "\u2018Fall 2: Deadpoint\u2019 Review: A Mostly Successful Sequel to the Dizzy Word-of-Mouth Sensation",
-      "url": "https://variety.com/2026/film/reviews/fall-2-deadpoint-review-1236848979/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849059",
-      "title": "Wrongful Terrorism Case of Sri Lankan Student Set as Feature Doc \u2018Framed\u2019 by Australia\u2019s Anupam Sharma, First-Look Poster Unveiled Ahead of Toronto Market (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/wrongful-terrorism-case-sri-lankan-student-doc-framed-first-look-poster-1236849059/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849136",
-      "title": "Jordan Firstman, Matteo Lane Lead U.S. Voice Cast of Cannes Breakout Comedy \u2018Jim Queen\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/jordan-firstman-matteo-lane-jim-queen-1236849136/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236688087",
       "title": "The Buzziest New Show on Netflix? A Video Game Trailer",
       "url": "https://www.hollywoodreporter.com/business/digital/netflix-gta-streaming-1236688087/",
@@ -1308,22 +1193,6 @@
       "published_dt": "2026-09-02T14:15:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680903",
-      "title": "\u2018Runner\u2019 Review: Alan Ritchson and Owen Wilson in an Impressively Visceral Buddy Thriller That Leaves Behind a Bad Taste",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/runner-review-alan-ritchson-owen-wilson-1236680903/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236687326",
-      "title": "Why Casey Affleck Cast His Family in His Gothic New Film \u2018Company\u2019 (First Look)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/casey-affleck-company-venice-first-look-1236687326/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
       "guid": "5sxhaViGDtat46RBWi5FSa",
       "title": "Viz Media is launching all 24 Pokemon movies into one Blu-ray collection shaped like a Poke Ball, but you'll need $400 to catch them all",
       "url": "https://www.gamesradar.com/entertainment/viz-media-is-launching-all-24-pokemon-movies-into-one-blu-ray-collection-shaped-like-a-poke-ball-but-youll-need-usd400-to-catch-them-all/",
@@ -1332,44 +1201,12 @@
       "published_dt": "2026-09-02T14:14:41+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-205811",
-      "title": "Got A Spare $400? This Pok\u00e9mon 24-Movie Blu-Ray Collection Could Be Yours",
-      "url": "https://www.nintendolife.com/news/2026/09/got-a-spare-usd400-this-pokemon-24-movie-blu-ray-collection-could-be-yours",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205808",
-      "title": "You Might Benefit from a $7.85 Million Payout as PlayStation Settles Anti-Trust Lawsuit",
-      "url": "https://www.pushsquare.com/news/2026/09/you-might-benefit-from-a-usd7-85-million-payout-as-playstation-settles-anti-trust-lawsuit",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122208",
-      "title": "Mayla Producing NieR Automata Anime 2B Blouse",
-      "url": "https://www.siliconera.com/mayla-producing-nier-automata-anime-2b-blouse/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T14:00:03+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1074579",
       "title": "Fangtopia launches October 26",
       "url": "https://www.gematsu.com/2026/09/fangtopia-launches-october-26",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-02T14:07:22+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1071372",
-      "title": "GIRLS\u2019 FRONTLINE 2: EXILIUM \u2013 \u2018Chiral Redundancy\u2019 update introduces OTs-14, the first MOD Doll Nemesis: Gnosis, and major rewards",
-      "url": "https://www.gematsu.com/2026/09/girls-frontline-2-exilium-chiral-redundancy-update-introduces-ots-14-the-first-mod-doll-nemesis-gnosis-and-major-rewards",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-02T14:00:07+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000730502",
@@ -2290,6 +2127,102 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-02T17:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730551",
+      "title": "No Rest For The Wicked Director Calls Video Game Critics Who Have Different Opinions \u2018Untrustworthy\u2019",
+      "url": "https://kotaku.com/no-rest-for-the-wicked-thomas-mahler-ori-video-games-critic-2000730551",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:30:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237062989",
+      "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Sensational Look At The Origins Of Rupert Murdoch\u2019s The Sun Is Also A Warning For Now \u2013 Venice Film Festival",
+      "url": "https://deadline.com/2026/09/ink-review-danny-boyle-rupert-murdoch-the-sun-1237062989/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T18:00:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237064820",
+      "title": "NBC\u2019s \u2018Newlyweds\u2019 Drop First-Look Photos Of Tim Daly & T\u00e9a Leoni",
+      "url": "https://deadline.com/2026/09/nbc-newlyweds-first-look-photos-tim-daly-tea-leoni-1237064820/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849047",
+      "title": "\u2018Ink\u2019 Review: Danny Boyle\u2019s Gripping, Sizzling Film About How a People\u2019s Paper Lost Its Humanity, and Won",
+      "url": "https://variety.com/2026/film/reviews/ink-review-1236849047/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849154",
+      "title": "Sci-Fi Comedy Adventure Series \u2018Maui & Elvis\u2019 Unites New Zealand\u2019s Whakaata Maori, Canada\u2019s APTN",
+      "url": "https://variety.com/2026/tv/news/sci-fi-comedy-maui-elvis-whakaata-maori-aptn-1236849154/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236684690",
+      "title": "The Tragedy of Perez Hilton",
+      "url": "https://www.hollywoodreporter.com/news/general-news/perez-hilton-suicide-attempt-tiktok-social-media-reckoning-1236684690/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236686614",
+      "title": "\u2018Ink\u2019 Review: Jack O\u2019Connell and Guy Pearce Trace Rupert Murdoch\u2019s Fleet Street Rise in Breathlessly Paced, Morally Opaque Danny Boyle Drama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/ink-review-jack-oconnell-guy-pearce-danny-boyle-murdoch-1236686614/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688356",
+      "title": "Shemar Moore\u2019s Hondo Trains LAPD Misfits for Redemption in \u2018S.W.A.T. Exiles\u2019 Trailer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/swat-exiles-trailer-shemar-moore-watch-1236688356/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-02T17:48:57+00:00"
+    },
+    {
+      "guid": "1872638",
+      "title": "This Horror Game Is Having A Dino Crisis Of A Different Sort",
+      "url": "https://www.gamespot.com/articles/this-horror-game-is-having-a-dino-crisis-of-a-different-sort/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122245",
+      "title": "Another Eden Begins Demo Debuts",
+      "url": "https://www.siliconera.com/another-eden-begins-demo-debuts/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "guid": "t3_1w5h97e",
+      "title": "Banjo-Kazooie composer says \"like 3 companies\" have pitched a new entry in the series, but \"Rare just typically say no to everything\"",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w5h97e/banjokazooie_composer_says_like_3_companies_have/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:37:43+00:00"
+    },
+    {
+      "guid": "t3_1w5hizm",
+      "title": "Marvel's Wolverine All 32 Suits Leak",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w5hizm/marvels_wolverine_all_32_suits_leak/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-02T17:47:12+00:00"
     }
   ]
 }
