@@ -1174,380 +1174,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "1b03d5e0-576e-4fbf-9828-214c5bc4b820",
-      "title": "Today\u2019s Top Deals: LEGO Autumn Cottage, Metroid Prime 4 for Switch 2, and 8Bitdo Ultimate 2 Controller",
-      "url": "https://www.ign.com/articles/best-deals-for-september-3-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:10:00+00:00"
-    },
-    {
-      "guid": "11390c1b-87f7-4b24-84f0-d10c5e3119e9",
-      "title": "Until Dawn 2 Was Co-Developed by Dispatch Developer AdHoc Studio",
-      "url": "https://www.ign.com/articles/until-dawn-2-was-co-developed-by-dispatch-developer-adhoc-studio",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:01:05+00:00"
-    },
-    {
-      "guid": "32189406-e917-4bca-b57f-9b8ebcdaf571",
-      "title": "STALZONE Is an Extraction Shooter with MMO DNA",
-      "url": "https://www.ign.com/articles/stalzone-is-an-extraction-shooter-with-mmo-dna",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "1c39d2cb-bc22-4efa-be40-75ac399c3cb9",
-      "title": "Bucking Fastard Review",
-      "url": "https://www.ign.com/articles/bucking-fastard-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T17:58:47+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000730969",
-      "title": "Square Enix Is Selling The Entire Final Fantasy 7 Remake Trilogy, Including Next Year\u2019s Revelation, For Just $85",
-      "url": "https://kotaku.com/square-enix-is-selling-the-entire-final-fantasy-7-remake-trilogy-including-next-years-revelation-for-just-85-2000730969",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:16+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000731012",
-      "title": "Game Pass Will Start Capping The Number Of Hours You Can Use Cloud Streaming Each Month But Says Not To Worry Because This Will Only Affect 4 Percent Of Players",
-      "url": "https://kotaku.com/game-pass-will-start-capping-the-number-of-hours-you-can-use-streaming-each-month-but-says-not-to-worry-because-it-will-only-affect-4-percent-of-players-2000731012",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T17:57:19+00:00"
-    },
-    {
-      "guid": "j9fJuTGDWPWHhW6RzENjea",
-      "title": "Onimusha: Way of the Sword launch times and release date",
-      "url": "https://www.pcgamer.com/games/action/onimusha-way-of-the-sword-launch-time-release-date/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T17:57:53+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067084",
-      "title": "Mindy Kaling And Max Greenfield Teaming With Tess Sanchez To Develop WBTV Adaptation Of Her Book \u2018We\u2019ve Decided To Go In A Different Direction\u2019",
-      "url": "https://deadline.com/2026/09/mindy-kaling-max-greenfield-tess-sanchez-essays-adaptation-1237067084/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067158",
-      "title": "Disability Advocacy Coalition 1IN4 Teams With TIFF On Film Festival Best Practices Guide \u2013 Read The Findings",
-      "url": "https://deadline.com/2026/09/1in4-film-festival-guide-unveiled-1237067158/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:28:43+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067236",
-      "title": "\u2018The Odyssey\u2019 Will Continue To Conquer Imax 70MM Screens Throughout September",
-      "url": "https://deadline.com/2026/09/the-odyssey-imax-extended-run-1237067236/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:15:43+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066951",
-      "title": "Nicholas Todisco & Brad Pence Join Linden Entertainment Following Atlas Artists Exit",
-      "url": "https://deadline.com/2026/09/nick-todisco-brad-pence-join-linden-entertainment-1237066951/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:15:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067245",
-      "title": "Warner Herzog\u2019s \u2018Bucking Fastard\u2019 Earns 7-1/2 Minute Venice Ovation As Kate & Rooney Mara Laugh & Hug",
-      "url": "https://deadline.com/2026/09/warner-herzog-bucking-fastard-7-1-2-ovation-venice-1237067245/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:11:45+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067241",
-      "title": "\u2018Lanterns\u2019 Summons Best Audience Yet For Third Episode",
-      "url": "https://deadline.com/2026/09/lanterns-ratings-record-episode-3-hbo-1237067241/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:08:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066422",
-      "title": "Exclusive: \u2018Tenzing\u2019 First Look Clip & How Director Jennifer Peedom, Genden Phuntsok and Tom Hiddleston Tackled Everest \u2013 Telluride Film Festival",
-      "url": "https://deadline.com/2026/09/tenzing-first-look-peedom-phuntsok-tom-hiddleston-telluride-1237066422/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067002",
-      "title": "\u2018Heated Rivalry\u2019: Kevin Zegers, Paul Gross & Milla Jovovich Latest To Join Connor Storrie & Hudson Williams In Season 2",
-      "url": "https://deadline.com/2026/09/heated-rivalry-season-2-kevin-zegers-milla-jovovich-1237067002/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067078",
-      "title": "\u2018The Rainmaker\u2019 Boss Teases Season 2 As First-Look Photos Of Merle Dandridge, Richard Kind & Returning Cast Drop",
-      "url": "https://deadline.com/2026/09/the-rainmaker-season-2-first-look-photos-interview-1237067078/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067100",
-      "title": "\u2018Wild Horse Nine\u2019: What The Critics Are Saying About Martin McDonagh\u2019s Dark Comedy",
-      "url": "https://deadline.com/2026/09/wild-horse-nine-reviews-what-the-critics-are-saying-1237067100/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T17:57:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850708",
-      "title": "\u2018By Any Means\u2019 Review: Mark Wahlberg Teaches the Virtues of Violence in Elegance Bratton\u2019s Bluntly Drawn Historical Thriller",
-      "url": "https://variety.com/2026/film/reviews/by-any-means-review-mark-wahlberg-1236850708/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:12:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850717",
-      "title": "\u2018Lanterns\u2019 Episode 3 Attracts 10 Million Viewers Globally on HBO Max, a New Series High",
-      "url": "https://variety.com/2026/tv/news/lanterns-episode-3-ratings-10-million-viewers-hbo-max-1236850717/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:07:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850397",
-      "title": "George Clooney Remembers \u2018Mortgaging His House\u2019 for \u2018Good Night and Good Luck,\u2019 Praises \u2018Badass\u2019 Wife Amal and Offers Aspiring Filmmaker a Job at Venice Masterclass",
-      "url": "https://variety.com/2026/film/global/george-clooney-career-activism-venice-masterclass-1236850397/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:02:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850683",
-      "title": "\u2018Heated Rivalry\u2019 Season 2 Casts Milla Jovovich, Kevin Zegers and Paul Gross",
-      "url": "https://variety.com/2026/tv/news/heated-rivalry-season-2-cast-kevin-zegers-paul-gross-1236850683/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850530",
-      "title": "\u2018Furious\u2019 Hits 43 Million Hours Viewed in Total, With Finale Jumping 90% From Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/furious-ratings-views-1236850530/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T17:57:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689761",
-      "title": "Harry Daniels Is Done Singing at Celebrities (Maybe)",
-      "url": "https://www.hollywoodreporter.com/music/music-features/harry-daniels-done-singing-celebrities-maybe-1236689761/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689950",
-      "title": "Connor Storrie\u2019s Managers Join Linden Entertainment, Home of Amy Adams, Brendan Fraser",
-      "url": "https://www.hollywoodreporter.com/business/business-news/connor-storries-managers-linden-entertainment-1236689950/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236680001",
-      "title": "\u2018Heated Rivalry\u2019 Season 2 Adds Kevin Zegers, Paul Gross and Milla Jovovich",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-season-2-coach-weibe-galina-commisioner-cast-1236680001/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688117",
-      "title": "Paul Schrader Doesn\u2019t Need Your Permission",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/paul-schrader-icon-venice-basics-of-philosophy-interview-1236688117/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "QFSqACyxaSTqZ3qTqVZwuD",
-      "title": "Stephen King recommends indie horror featuring Daredevil: Born Again actor Deborah Ann Woll: \"I don't usually pump up horror movies...but this is special\"",
-      "url": "https://www.gamesradar.com/entertainment/horror-movies/stephen-king-recommends-indie-horror-featuring-daredevil-born-again-actor-deborah-ann-woll-i-dont-usually-pump-up-horror-movies-but-this-is-special/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:04:18+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122317",
-      "title": "New Lollipop Chainsaw Game Will Premiere at TGS 2026",
-      "url": "https://www.siliconera.com/new-lollipop-chainsaw-game-will-premiere-at-tgs-2026/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754643",
-      "title": "Dark Gathering Season 2 Confirmed for 2027 With First Horror Visual Revealed",
-      "url": "https://otakukart.com/dark-gathering-season-2-confirmed-for-2027-with-first-horror-visual-revealed/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:29:15+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754631",
-      "title": "My Hero Academia: All\u2019s Justice Adds Izuku Midoriya Overlay Full Style as DLC 3",
-      "url": "https://otakukart.com/my-hero-academia-alls-justice-adds-izuku-midoriya-overlay-full-style-as-dlc-3/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:09:16+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=618693",
-      "title": "RPG: The Apocalyptic System That Helped Push The Scene Forward",
-      "url": "https://www.belloflostsouls.net/2026/09/rpg-the-apocalyptic-system-that-helped-push-the-scene-forward.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.tabletopbattles.com/warmachine-at-the-lone-star-championship-2026/",
-      "title": "Warmachine at the Lone Star Championship 2026",
-      "url": "https://www.tabletopbattles.com/warmachine-at-the-lone-star-championship-2026/",
-      "source_name": "Goonhammer",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:00:21+00:00"
-    },
-    {
-      "guid": "1873986",
-      "title": "Dungeons And Dragons Icons Could Take The TTRPG To A Modern-Day Setting",
-      "url": "https://www.gamespot.com/articles/dungeons-and-dragons-icons-could-take-the-ttrpg-to-a-modern-day-setting/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:13:57+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205895",
-      "title": "Video: 13 Exciting New Games Coming To Switch 1 & 2 In September 2026",
-      "url": "https://www.nintendolife.com/news/2026/09/video-13-exciting-new-games-coming-to-switch-1-and-2-in-september-2026",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:30:00+00:00"
-    },
-    {
-      "guid": "Ly6Nu2RvyxwGofXKvimkvn",
-      "title": "The bizarre spirit of classic Elder Scrolls games is alive and well in little lo-fi RPG A Short Quest",
-      "url": "https://www.pcgamer.com/games/rpg/the-bizarre-spirit-of-classic-elder-scrolls-games-is-alive-and-well-in-little-lo-fi-rpg-a-short-quest/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066163",
-      "title": "\u2018Kane Chronicles\u2019 Live-Action Series In Development At Disney+",
-      "url": "https://deadline.com/2026/09/kane-chronicles-series-development-disney-plus-rick-riordan-1237066163/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850481",
-      "title": "\u2018Atonement\u2019 Trailer: First Look at Reed Van Dyk\u2019s Searing War Movie About Combat Guilt and the Anguish of Loss (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/atonement-reed-van-dyk-trailer-1236850481/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850756",
-      "title": "Rick Riordan\u2019s \u2018Kane Chronicles\u2019 Series in the Works at Disney+",
-      "url": "https://variety.com/2026/tv/news/kane-chronicles-show-rick-riordan-disney-1236850756/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689743",
-      "title": "Series Based on Rick Riordan\u2019s \u2018Kane Chronicles\u2019 in the Works at Disney+",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/kane-chronicles-series-rick-riordan-disney-plus-1236689743/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236684981",
-      "title": "Where Hollywood Stays, Eats, Shops and Finds Art in Venice",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/venice-festival-where-hollywood-stays-eats-shops-finds-art-1236684981/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:59:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205903",
-      "title": "Final Fantasy 7 Revelation Will Ship on One PS5 Disc, Digital Download Required",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-ship-on-one-ps5-disc-digital-download-required",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T18:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122367",
-      "title": "Rev.Noir Release Window Set for 2027",
-      "url": "https://www.siliconera.com/rev-noir-release-window-set-for-2027/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "guid": "fa364fdb-cdba-4d90-b356-de1941872a3f",
-      "title": "Brandon Sanderson Makes the Case for Reading the Project Hail Mary Book Even If You've Seen the Movie Already",
-      "url": "https://www.ign.com/articles/brandon-sanderson-makes-the-case-for-reading-the-project-hail-mary-book-even-if-youve-seen-the-movie-already",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T18:58:08+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000730987",
       "title": "Gundam RG: XARX-ZERO\u2019s Director Talks About Anti-War Messaging And The Need To \u2018Betray\u2019 Fans\u2019 Expectations At Times",
       "url": "https://kotaku.com/gundam-rg-xarx-zeros-director-talks-about-anti-war-messaging-and-the-need-to-betray-fans-expectations-at-times-2000730987",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-09-03T19:25:05+00:00"
-    },
-    {
-      "guid": "VMvScth6UqK9nVPNsEnsva",
-      "title": "A multi-month delay for Deus Ex turned into a huge payoff for one of its best characters, says designer Harvey Smith",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/a-multi-month-delay-for-deus-ex-turned-into-a-huge-payoff-for-one-of-its-best-characters-says-designer-harvey-smith/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:04:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067328",
-      "title": "Oscars: Croatia Selects \u2018God Will Not Help\u2019 As Best International Feature Film Submission",
-      "url": "https://deadline.com/2026/09/oscars-croatia-god-will-not-help-best-international-feature-1237067328/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:15:01+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850761",
-      "title": "Raffaele Annecchino, Former President and CEO of Paramount International, Dies at 55",
-      "url": "https://variety.com/2026/tv/news/raffaele-annecchino-dead-president-ceo-paramount-1236850761/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:11:12+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236689993",
@@ -1564,38 +1196,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-03T19:25:41+00:00"
-    },
-    {
-      "guid": "QBuzRt67KoFYxuj3JKqiWB",
-      "title": "Days before BlizzCon, Blizzard begins mysterious StarCraft teaser amid rumors of StarCraft 3",
-      "url": "https://www.gamesradar.com/games/real-time-strategy/days-before-blizzcon-blizzard-begins-mysterious-starcraft-teaser-amid-rumors-of-starcraft-3/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:12:58+00:00"
-    },
-    {
-      "guid": "En6qWkgC9WaMEU4LYyxmpn",
-      "title": "Final Fantasy 7 Revelation's new gameplay showcase confirms cutscenes can be fast-forwarded, and JRPG fans are losing it: \"games are truly dead\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-new-gameplay-showcase-confirms-cutscenes-can-be-fast-forwarded-and-jrpg-fans-are-losing-it-games-are-truly-dead/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:03:35+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205831",
-      "title": "Nintendo Download: 3rd September (North America)",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-3rd-september-north-america",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205904",
-      "title": "Ratchet & Clank's PS5 Re-Release Will Have a Platinum Trophy When It Comes to PS Plus Premium",
-      "url": "https://www.pushsquare.com/news/2026/09/ratchet-and-clanks-ps5-re-release-will-have-a-platinum-trophy-when-it-comes-to-ps-plus-premium",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:00:00+00:00"
     },
     {
       "guid": "AeBys5532ss2ywQzaDRxyb",
@@ -2044,6 +1644,62 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-03T21:04:39+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000731028",
+      "title": "A Mysterious Internet Setting Has Been Ruining All My Elden Ring Nightreign Games",
+      "url": "https://kotaku.com/mysterious-internet-setting-ruining-elden-ring-nightreign-2000731028",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T23:00:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067015",
+      "title": "Universal Taps Chris MacBride To Pen \u2018Confession Of Murder\u2019 Remake With Glen Powell Producing",
+      "url": "https://deadline.com/2026/09/universal-chris-macbride-confession-of-murder-glen-powell-1237067015/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T23:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067582",
+      "title": "Stanley Kubrick\u2019s Daughter Addresses \u201cConspiracy Theory\u201d About \u2018Eyes Wide Shut\u2019s \u201cMissing 20 Minutes\u201d",
+      "url": "https://deadline.com/2026/09/stanley-kubrick-daughter-eyes-wide-shut-missing-20-minutes-1237067582/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T22:47:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851134",
+      "title": "Miley Cyrus Leads a Steamy Dance Floor Revolution With New Single and Video for \u2018Bass Persuades\u2019",
+      "url": "https://variety.com/2026/music/news/miley-cyrus-steamy-dance-floor-bass-persuades-music-video-1236851134/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T23:18:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236690268",
+      "title": "\u2018Criminal\u2019 Showrunner Ed Brubaker, Amazon MGM  Sued for Hostile Work Environment by Production Assistant",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ed-brubaker-amazon-mgm-sued-hostile-work-environment-1236690268/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T23:00:31+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205906",
+      "title": "Preview: 'There'll Be a Surprising Announcement Soon': I Played Crazy Taxi: World Tour and Spoke to Series Creator Kenji Kanno",
+      "url": "https://www.pushsquare.com/previews/therell-be-a-surprising-announcement-soon-i-played-crazy-taxi-world-tour-and-spoke-to-series-creator-kenji-kanno",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T23:00:00+00:00"
+    },
+    {
+      "guid": "t3_1w6nejs",
+      "title": "Unannounced Metro Multiplayer Game Pulled from Saber Latam Amid Studio Layoffs",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w6nejs/unannounced_metro_multiplayer_game_pulled_from/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T23:13:30+00:00"
     }
   ]
 }
