@@ -1111,70 +1111,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "424900d0-a928-4bd6-b1d8-e04fb7ea7604",
-      "title": "IKEA is Coming to The Elder Scrolls V: Skyrim and Fans Are All Saying the Same Thing",
-      "url": "https://www.ign.com/articles/ikea-is-coming-to-the-elder-scrolls-v-skyrim-and-fans-are-all-saying-the-same-thing",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T21:21:12+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000730624",
-      "title": "Resident Evil 2 Director Says Capcom Is Making Current Resident Evil Games Too Damn Scary",
-      "url": "https://kotaku.com/resident-evil-too-scary-resident-evil-2-hideki-kamiya-2000730624",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T21:15:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237061420",
-      "title": "\u2018Jawbreaker\u2019 Stage Musical Shines Spotlight On Vylette\u2019s \u201cTrans Narrative\u201d With Non-Binary Actor AJ Paramo",
-      "url": "https://deadline.com/2026/09/jawbreaker-stage-musical-vylette-trans-narrative-aj-paramo-1237061420/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T21:20:38+00:00"
-    },
-    {
-      "guid": "2dd6e387-5fa5-4e98-88dd-e8f23957e948",
-      "title": "Alienware Just Released the World's First 39\" 5K Monitor With RGB Stripe Tandem OLED Technology",
-      "url": "https://www.ign.com/articles/alienware-aw3926qw-39-5k-oled-gaming-monitor-is-now-available",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T23:20:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065872",
-      "title": "VodafoneThree Launching Vodafone TV In The UK, Bundling Netflix, HBO Max & Live Channels",
-      "url": "https://deadline.com/2026/09/vodafonethree-unveils-vodafone-tv-uk-with-netflix-hbo-max-1237065872/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T23:01:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066244",
-      "title": "Cassandra Wilson Dead: Grammy-Winning Jazz Musician Was 70",
-      "url": "https://deadline.com/2026/09/cassandra-wilson-dead-1237066244/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T22:55:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849830",
-      "title": "\u2018The Sun Never Sets\u2019 Review: Dakota Fanning and Jake Johnson Split, Maybe, in Joe Swanberg\u2019s Unsatisfying Romcom",
-      "url": "https://variety.com/2026/film/reviews/the-sun-never-sets-review-dakota-fanning-1236849830/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T23:14:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688949",
-      "title": "Carla Jeffery, Disney\u2019s \u2018Zombies\u2019 Actress, Dies at 33",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/carla-jeffery-dead-disney-zombies-1236688949/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-02T23:23:16+00:00"
-    },
-    {
       "guid": "https://variety.com/?post_type=pmc-gallery&p=1236849847",
       "title": "George Lucas Says Opening Lucas Museum \u2018Almost Broke My Will\u2019: \u2018It\u2019s Taken So Long to Get Here\u2019",
       "url": "https://variety.com/gallery/george-lucas-museum-star-wars-los-angeles/",
@@ -1213,6 +1149,14 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-03T00:50:39+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1074821",
+      "title": "Unannounced Inti Creates game playable at TGS 2026",
+      "url": "https://www.gematsu.com/2026/09/unannounced-inti-creates-game-playable-at-tgs-2026",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T03:36:16+00:00"
     }
   ]
 }
