@@ -1,65 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox Discs Now Grant Digital Access to Games as Part of Microsoft's Game Preservation Push",
-      "tag": "xbox",
-      "posted_at": "2026-08-27T15:31:29.596109+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/xbox-discs-will-now-grant-digital-access-to-games-as-part-of-microsofts-self-proclaimed-broader-commitment-to-game-preservation/"
-      ],
-      "article_titles": [
-        "Xbox discs will now grant digital access to games as part of Microsoft's self-proclaimed 'broader commitment to game preservation'"
-      ]
-    },
-    {
-      "headline": "Dwarf Fortress Is Finally Getting Its First Myth and Magic Update, With Procedural Magic Systems",
-      "tag": "dwarf fortress",
-      "posted_at": "2026-08-27T15:31:29.748862+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/sim/holy-crap-its-happening-dwarf-fortress-gets-its-first-myth-and-magic-update-later-this-year-bringing-each-players-world-its-own-procedural-magic-system/"
-      ],
-      "article_titles": [
-        "Holy crap, it's happening: Dwarf Fortress gets its first Myth and Magic update later this year, bringing each player's world its own procedural magic system"
-      ]
-    },
-    {
-      "headline": "Lancer TTRPG Is Getting New Hardcover Editions in 2027",
-      "tag": "lancer",
-      "posted_at": "2026-08-27T15:31:29.841803+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-lancer-ttrpg-new-hardcover-editions-in-2027"
-      ],
-      "article_titles": [
-        "Exclusive: The Lancer TTRPG Is Getting New Hardcover Editions in 2027"
-      ]
-    },
-    {
-      "headline": "Konami Is Bringing Castlevania, Silent Hill, and Suikoden to TGS 2026",
-      "tag": "konami",
-      "posted_at": "2026-08-27T15:31:29.933217+00:00",
-      "urls": [
-        "https://www.siliconera.com/konami-tgs-2026-games-include-castlevania-silent-hill-and-suikoden/",
-        "https://www.siliconera.com/sega-and-atlus-tgs-2026-games-include-persona-4-sonic-spin-offs/",
-        "https://www.siliconera.com/konami-tgs-2026-games-include-castlevania-silent-hill-and-suikoden/"
-      ],
-      "article_titles": [
-        "Konami TGS 2026 Games Include Castlevania, Silent Hill, and Suikoden",
-        "Sega and Atlus TGS 2026 Games Include Persona 4, Sonic Spin-offs",
-        "Konami TGS 2026 Games Include Castlevania, Silent Hill, and Suikoden"
-      ]
-    },
-    {
-      "headline": "Trump Is Reportedly Eyeing New Tariffs That Could Hit Gaming Hardware Prices",
-      "tag": "gaming hardware",
-      "posted_at": "2026-08-27T16:01:13.557367+00:00",
-      "urls": [
-        "https://kotaku.com/trump-reportedly-flirting-with-a-new-round-of-tariffs-on-gaming-hardware-2000728863"
-      ],
-      "article_titles": [
-        "Trump Reportedly Flirting With A New Round Of Tariffs On Gaming Hardware"
-      ]
-    },
-    {
       "headline": "GTA 6's Netflix Extended Look Is Live \u2014 Here's Everything Rockstar Just Showed",
       "tag": "gta 6",
       "posted_at": "2026-08-27T16:31:23.105477+00:00",
@@ -1199,6 +1140,17 @@
         "D&D Long Rest Tavern Has a Clever Premise But I Wish it (Literally) Went Deeper | IGN Preview",
         "Long Rest Tavern is a cozy D&D management game with some familiar faces from Baldur's Gate 3 \u2013 and yes, you can pet the baby mimics",
         "Long Rest Tavern is a cozy D&D management game with some familiar faces from Baldur's Gate 3 \u2013 and yes, you can pet the baby mimics"
+      ]
+    },
+    {
+      "headline": "Stalker 2's Studio Is Raffling Keychains Made From a Downed Russian Helicopter to Fund Real Chornobyl Demining",
+      "tag": "stalker 2",
+      "posted_at": "2026-09-03T16:01:16.906915+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/fps/stalker-2-studio-is-raffling-keychains-made-from-a-shot-down-russian-helicopter-to-raise-funds-for-mine-removal-in-the-real-world-chornobyl-exclusion-zone/"
+      ],
+      "article_titles": [
+        "Stalker 2 studio is raffling keychains made from a shot-down Russian helicopter to raise funds for mine removal in the real-world Chornobyl Exclusion Zone"
       ]
     }
   ],
@@ -2388,6 +2340,166 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-09-03T15:23:53+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=245507",
+      "title": "PlayStation State of Play: All the news from today\u2019s Japan live stream",
+      "url": "https://www.videogameschronicle.com/news/playstation-state-of-play-sep-2026-all-news/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:27:29+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/final-fantasy-7-revelation-release-date-resonance-demo",
+      "title": "Final Fantasy 7 Revelation finally gets a 2027 release date, as Final Fantasy Resonance gets a surprise demo",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-release-date-resonance-demo",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:35:54+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730834",
+      "title": "DLSS 5 Can Now Be Used To AI-Sloppify Real People",
+      "url": "https://kotaku.com/dlss-5-can-now-be-used-to-ai-sloppify-real-people-2000730834",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:30:34+00:00"
+    },
+    {
+      "guid": "etHTevAV2JRDjjCqZ38DHC",
+      "title": "Zach Cregger doesn't want to get bogged down in 'the wild aspects' of Resident Evil's lore: 'I'm not going to have a gigantic jacked dude in a trench coat'",
+      "url": "https://www.pcgamer.com/movies-tv/zach-cregger-doesnt-want-to-get-bogged-down-in-the-wild-aspects-of-resident-evils-lore-im-not-going-to-have-a-gigantic-jacked-dude-in-a-trench-coat/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:56:38+00:00"
+    },
+    {
+      "guid": "XiteACbKum6xEazgxmbwjR",
+      "title": "Stalker 2 studio is raffling keychains made from a shot-down Russian helicopter to raise funds for mine removal in the real-world Chornobyl Exclusion Zone",
+      "url": "https://www.pcgamer.com/games/fps/stalker-2-studio-is-raffling-keychains-made-from-a-shot-down-russian-helicopter-to-raise-funds-for-mine-removal-in-the-real-world-chornobyl-exclusion-zone/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:46:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066425",
+      "title": "POV Shorts Acquires Oscar Contender \u2018The Boys And The Bees\u2019; RaMell Ross, Stacey Reiss Join As E.P.s",
+      "url": "https://deadline.com/2026/09/the-boys-and-the-bees-pov-shorts-acquisition-1237066425/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066964",
+      "title": "\u2018Maxton Hall\u2019: Teaser Trailer For Prime Video\u2019s YA Hit Promises Explosive Finale For Ruby & James",
+      "url": "https://deadline.com/2026/09/maxton-hall-world-between-us-season-3-trailer-prime-video-1237066964/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:55:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237065820",
+      "title": "Venice Film Festival 2026: Read All Of Deadline\u2019s Reviews",
+      "url": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:54:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066953",
+      "title": "Warner Bros Discovery Strikes Turkish Scripted Deal With Local Media Giant Dogus",
+      "url": "https://deadline.com/2026/09/warner-bros-discovery-turkish-scripted-deal-1237066953/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:41:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849558",
+      "title": "Comic Relief Launches \u2018Neighborhood Festivals\u2019 in Los Angeles and Philadelphia (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/comic-relief-neighborhood-festivals-1236849558/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236850105",
+      "title": "\u2018Smile\u2019 Producers Temple Hill and Anton Team With YouTube Horror Star Sam Evenson for \u2018Ignore It,\u2019 Lily Collias to Lead Feature Adaptation of Viral Short (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/youtube-horror-star-sam-evenson-ignore-it-lily-collias-1236850105/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236850110",
+      "title": "Chinese Hit \u2018Dear You\u2019 Sets Wide North America Release Via Well Go USA, Clip Unveiled (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/chinese-hit-dear-you-wide-north-america-clip-1236850110/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687106",
+      "title": "\u2018By Any Means\u2019 Review: Yahya Abdul-Mateen II and Mark Wahlberg in a Shallow, if Occasionally Gripping, Historical Crime Thriller",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/by-any-means-review-mark-wahlberg-yahya-abdul-mateen-ii-1236687106/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236688964",
+      "title": "\u2018New York: A Documentary Film\u2019 Returns to PBS With Two New Episodes on the 21st Century (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/pbs-new-york-a-documentary-film-new-episodes-1236688964/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236689632",
+      "title": "Broadway Theaters to Dim Lights for Dolly Parton, Tim Curry",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-theaters-dim-lights-dolly-parton-tim-curry-1236689632/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:42:26+00:00"
+    },
+    {
+      "guid": "1873862",
+      "title": "The Witcher 4 Will Be Made \u201cPredominantly Using People\u201d And Not AI",
+      "url": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T15:35:08+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205883",
+      "title": "Final Fantasy VII Revelation Is A Game-Key Card On Switch 2, And It's No Wonder With That File Size",
+      "url": "https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-is-a-game-key-card-on-switch-2-and-its-no-wonder-with-that-file-size",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122355",
+      "title": "FFVII Revelation Deluxe and Collector\u2019s Edition Versions Appear",
+      "url": "https://www.siliconera.com/ffvii-revelation-deluxe-and-collectors-edition-versions-appear/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-188234",
+      "title": "'Sonic & The Secret Rings' Just Got \"Reignited\", Thanks To A Promising New Fan Remake For PC",
+      "url": "https://www.timeextension.com/news/2026/09/sonic-and-the-secret-rings-just-got-reignited-thanks-to-a-promising-new-fan-remake-for-pc",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205404",
+      "title": "\"We Understand The Concerns The Community Has\" - BBG Entertainment Admits It Used GenAI In Manic Miner Trailer",
+      "url": "https://www.timeextension.com/news/2026/09/we-understand-the-concerns-the-community-has-bbg-entertainment-admits-it-used-genai-in-manic-miner-trailer",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T15:30:00+00:00"
     }
   ]
 }
