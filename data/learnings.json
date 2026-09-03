@@ -1111,52 +1111,28 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236849847",
-      "title": "George Lucas Says Opening Lucas Museum \u2018Almost Broke My Will\u2019: \u2018It\u2019s Taken So Long to Get Here\u2019",
-      "url": "https://variety.com/gallery/george-lucas-museum-star-wars-los-angeles/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T01:08:52+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236849545",
-      "title": "Utopai Studios, DeNA Team on AI-Assisted Animation Projects in Japan (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/utopai-studios-dena-ai-animation-japan-1236849545/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T01:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688963",
-      "title": "Sony Dates Indian Epic \u2018Ramayana\u2019 For November",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/sony-dates-indian-epic-ramayana-1236688963/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T01:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688617",
-      "title": "Lemme, Honest Company and Chamberlain Coffee Among Hollywood Brands Discounted for iHerb Anniversary Sale",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/iherb-discount-code-30th-anniversary-sale-sept-2026-deals-1236688617/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T00:52:48+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754206",
-      "title": "Tom Cruise\u2019s Collateral Finds a New Audience on Pluto TV",
-      "url": "https://otakukart.com/tom-cruises-collateral-finds-a-new-audience-on-pluto-tv/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T00:50:39+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1074821",
       "title": "Unannounced Inti Creates game playable at TGS 2026",
       "url": "https://www.gematsu.com/2026/09/unannounced-inti-creates-game-playable-at-tgs-2026",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-03T03:36:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687818",
+      "title": "Frank Marshall and Nigel Sinclair Reveal and Discuss Their New Doc \u2018Pete Townshend: Behind Blue Eyes\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/frank-marshall-nigel-sinclair-pete-townshend-behind-blue-eyes-1236687818/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T04:58:12+00:00"
+    },
+    {
+      "guid": "t3_1w5xyfq",
+      "title": "Wolverine Gold Story",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w5xyfq/wolverine_gold_story/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T05:08:51+00:00"
     }
   ]
 }
