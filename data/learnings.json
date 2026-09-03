@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Peter Cullen, the Voice of Optimus Prime, Has Died at 85",
-      "tag": "transformers",
-      "posted_at": "2026-08-27T15:01:07.420639+00:00",
-      "urls": [
-        "https://kotaku.com/peter-cullen-optimus-prime-eeyore-obituary-death-85-voice-actor-2000728859",
-        "https://variety.com/2026/tv/news/peter-cullen-voice-of-optimus-prime-and-eeyore-dies-85-1236845132/",
-        "https://www.hollywoodreporter.com/movies/movie-news/peter-cullen-optimus-prime-transformers-eeyore-1236683075/"
-      ],
-      "article_titles": [
-        "Peter Cullen, Legendary Voice Of Optimus Prime, Has Died Aged 85",
-        "Peter Cullen, Voice of Optimus Prime in \u2018Transformers,\u2019 Dies at 85",
-        "Peter Cullen, Voice of Optimus Prime in \u2018Transformers,\u2019 Dies at 85"
-      ]
-    },
-    {
       "headline": "Xbox Discs Now Grant Digital Access to Games as Part of Microsoft's Game Preservation Push",
       "tag": "xbox",
       "posted_at": "2026-08-27T15:31:29.596109+00:00",
@@ -1185,6 +1170,36 @@
         "Everything We Saw At PlayStation\u2019s September State Of Play",
         "Fans Flood PlayStation State Of Play Chat With Calls For Destiny 3 And \u2018No Disc, No Buy\u2019"
       ]
+    },
+    {
+      "headline": "Sony and Microsoft Refuse to Pass Tariff Refunds On to Customers",
+      "tag": "playstation / xbox",
+      "posted_at": "2026-09-03T15:31:12.839531+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/both-microsoft-and-sony-say-theyre-under-no-obligation-to-pass-tariff-refunds-on-to-customers/",
+        "https://otakukart.com/sony-and-microsoft-reject-calls-for-console-tariff-refunds-as-lawsuits-continue/",
+        "https://www.gamespot.com/articles/sony-and-microsoft-were-keeping-tariff-refunds-for-ourselves-and-youll-get-nothing/"
+      ],
+      "article_titles": [
+        "Both Microsoft and Sony say they're under no obligation to pass tariff refunds on to customers",
+        "Sony and Microsoft Reject Calls for Console Tariff Refunds as Lawsuits Continue",
+        "Sony And Microsoft: We\u2019re Keeping Tariff Refunds For Ourselves And You\u2019ll Get Nothing"
+      ]
+    },
+    {
+      "headline": "D&D's Long Rest Tavern Is a Cozy Management Game With Baldur's Gate 3 Cameos \u2014 And Baby Mimics You Can Pet",
+      "tag": "d&d long rest tavern",
+      "posted_at": "2026-09-03T15:31:13.119798+00:00",
+      "urls": [
+        "https://www.ign.com/articles/dd-long-rest-tavern-has-a-clever-premise-but-i-wish-it-literally-went-deeper-ign-preview",
+        "https://www.gamesradar.com/games/management/long-rest-tavern-is-a-cozy-d-and-d-management-game-with-some-familiar-faces-from-baldurs-gate-3-and-yes-you-can-pet-the-baby-mimics/",
+        "https://www.gamesradar.com/games/management/long-rest-tavern-is-a-cozy-d-and-d-management-game-with-some-familiar-faces-from-baldurs-gate-3-and-yes-you-can-pet-the-baby-mimics/"
+      ],
+      "article_titles": [
+        "D&D Long Rest Tavern Has a Clever Premise But I Wish it (Literally) Went Deeper | IGN Preview",
+        "Long Rest Tavern is a cozy D&D management game with some familiar faces from Baldur's Gate 3 \u2013 and yes, you can pet the baby mimics",
+        "Long Rest Tavern is a cozy D&D management game with some familiar faces from Baldur's Gate 3 \u2013 and yes, you can pet the baby mimics"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -2285,6 +2300,94 @@
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "guid": "b7054d49-89c7-4ec2-82f8-47a24645beb4",
+      "title": "Fable 2 Was the Closest Xbox Ever Got to Having its Own Zelda-Like Action-Adventure",
+      "url": "https://www.ign.com/articles/fable-2-was-the-closest-xbox-ever-got-to-having-its-own-zelda-like-action-adventure",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:10:00+00:00"
+    },
+    {
+      "guid": "ff852328-c7df-4b68-9ccb-81908514a9fa",
+      "title": "Creature Corps Is the Twisted Pok\u00e9mon Parody You've Been Waiting For",
+      "url": "https://www.ign.com/articles/creature-corps-is-the-twisted-pokmon-parody-youve-been-waiting-for",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "guid": "6d9252e4-aff3-4779-89b5-1e51e1f9ef06",
+      "title": "D&D Long Rest Tavern Has a Clever Premise But I Wish it (Literally) Went Deeper | IGN Preview",
+      "url": "https://www.ign.com/articles/dd-long-rest-tavern-has-a-clever-premise-but-i-wish-it-literally-went-deeper-ign-preview",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "guid": "e7b94bc2-06aa-407f-b0e7-d09f2eda24f2",
+      "title": "NHL 27 Review",
+      "url": "https://www.ign.com/articles/ea-sports-nhl-27-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/lego-playstation-sony-state-of-play",
+      "title": "A Lego replica of the original PlayStation will be available next month",
+      "url": "https://www.eurogamer.net/lego-playstation-sony-state-of-play",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:24:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000730868",
+      "title": "Sony Officially Reveals New PlayStation Lego Set Featuring A Big Ol\u2019 Disc Drive",
+      "url": "https://kotaku.com/sony-officially-reveals-new-playstation-lego-set-featuring-a-big-ol-disc-drive-2000730868",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:22:11+00:00"
+    },
+    {
+      "guid": "EyskomRFWtGn3tuvEvRSjT",
+      "title": "Both Microsoft and Sony say they're under no obligation to pass tariff refunds on to customers",
+      "url": "https://www.pcgamer.com/hardware/both-microsoft-and-sony-say-theyre-under-no-obligation-to-pass-tariff-refunds-on-to-customers/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:13:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237066894",
+      "title": "Disney+ Will House \u201cSeveral Hundred\u201d Episodes From France\u2019s M6 After Latest Euro Deal",
+      "url": "https://deadline.com/2026/09/disney-groupe-m6-content-deal-1237066894/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:29:47+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236686863",
+      "title": "Maybe Paramount-Warner SHOULD Leave L.A.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/paramount-warner-leave-los-angeles-joseph-kahn-column-1236686863/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236689554",
+      "title": "George Clooney Gushes Over \u201cBadass\u201d Wife Amal and Takes Swipe at Trump During Jovial Venice Masterclass",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/george-clooney-amal-venice-film-festival-trump-politics-1236689554/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-03T15:22:11+00:00"
+    },
+    {
+      "guid": "1873793",
+      "title": "Double Fine Flexes Its Independence With Price Cuts And A New PS5 Release",
+      "url": "https://www.gamespot.com/articles/double-fine-flexes-its-independence-with-price-cuts-and-a-new-ps5-release/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-03T15:23:53+00:00"
     }
   ]
 }
