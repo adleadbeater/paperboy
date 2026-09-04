@@ -1174,476 +1174,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000730987",
-      "title": "Gundam RG: XARX-ZERO\u2019s Director Talks About Anti-War Messaging And The Need To \u2018Betray\u2019 Fans\u2019 Expectations At Times",
-      "url": "https://kotaku.com/gundam-rg-xarx-zeros-director-talks-about-anti-war-messaging-and-the-need-to-betray-fans-expectations-at-times-2000730987",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:25:05+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689993",
-      "title": "\u2018Onslaught\u2019 Star Dan Stevens on Expanding \u2018The Guest\u2019 Universe, Becoming RoboCop and His \u201cNasty\u201d \u2018Dexter\u2019 Role",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/onslaught-dan-stevens-the-guest-robocop-1236689993/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:29:33+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689608",
-      "title": "Congress Didn\u2019t Just Defund Public Media, It Defunded the Emergency Alert",
-      "url": "https://www.hollywoodreporter.com/business/business-news/public-media-fund-emergency-alert-1236689608/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:25:41+00:00"
-    },
-    {
-      "guid": "AeBys5532ss2ywQzaDRxyb",
-      "title": "Microsoft announces cap on Xbox Cloud Gaming hours for Game Pass subscribers, admits most aren't using it much anyway",
-      "url": "https://www.pcgamer.com/gaming-industry/microsoft-announces-cap-on-xbox-cloud-gaming-hours-for-game-pass-subscribers-admits-most-arent-using-it-much-anyway/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:53:34+00:00"
-    },
-    {
-      "guid": "4WsaYcnMmSArsQjHM6cWcJ",
-      "title": "DLSS 5 can be jammed into almost any game now, so I've been playing FM26 with neural rendered little computer people because that's just what I do",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-be-jammed-into-almost-any-game-now-so-ive-been-playing-fm26-with-neural-rendered-little-computer-people-because-thats-just-what-i-do/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:52:14+00:00"
-    },
-    {
-      "guid": "b3rzdvuh2bUdPkoQ7zXq5a",
-      "title": "Owner of nearly decade-old Dell laptop reportedly wore through the wrist rest and is 'being stabbed by carbon fibers'",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/owner-of-nearly-decade-old-dell-laptop-reportedly-wore-through-the-wrist-rest-and-is-being-stabbed-by-carbon-fibers/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:28:36+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066911",
-      "title": "Charlie\u00a0Carrick Upped To Series Regular For Hulu\u2019s \u2018The Testaments\u2019 Season 2 As Haley Wong Joins",
-      "url": "https://deadline.com/2026/09/the-testaments-tv-show-charlie-carrick-series-regular-1237066911/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067359",
-      "title": "\u2018Soul Train Awards\u2019 To Return This Fall On BET & CBS After Hiatus",
-      "url": "https://deadline.com/2026/09/soul-train-awards-return-bet-cbs-three-year-pause-1237067359/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:59:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066729",
-      "title": "\u2018Wild Horse Nine\u2019 Gets Rapturous 14-Minute Standing Ovation At Venice World Premiere",
-      "url": "https://deadline.com/2026/09/wild-horse-nine-14-minutes-ovation-venice-film-festival-1237066729/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:54:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850074",
-      "title": "John Malkovich Fights Back Tears During 13-Minute Venice Standing Ovation as \u2018Wild Horse Nine\u2019 Storms Into Oscar Race",
-      "url": "https://variety.com/2026/film/festivals/wild-horse-nine-john-malkovich-sam-rockwell-venice-premiere-1236850074/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:52:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850584",
-      "title": "Suno Kills Controversial Mary J. Blige Ad Where She Seems to Endorse the AI Music Generator\u00a0(EXCLUSIVE)",
-      "url": "https://variety.com/2026/digital/news/suno-kills-mary-j-blige-ad-endorse-ai-platform-1236850584/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:39:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850855",
-      "title": "World Cup Champion Lamine Yamal Launches American Collection",
-      "url": "https://variety.com/2026/shopping/news/lamine-yamal-american-eagle-collection-shop-online-1236850855/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:34:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850859",
-      "title": "\u2018Ellison Is Trump\u2019s B!tch!\u2019 Banner Flies Over Paramount Lot in Protest of Warner Bros. Merger",
-      "url": "https://variety.com/2026/film/news/plan-banner-ellison-is-trumps-bitch-1236850859/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:33:51+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689493",
-      "title": "\u2018Wild Horse Nine,\u2019 With Sam Rockwell and John Malkovich, Gets Venice\u2019s First Rapturous Reception of 2026",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/wild-horse-nine-venice-first-rapturous-reception-2026-1236689493/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:59:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689739",
-      "title": "Oprah Winfrey, Meghan Markle and More Pay Tribute to Gloria Steinem: \u201cHelped Shape the World for Women and All People\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/gloria-steinem-dead-tributes-1236689739/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:45:40+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236690009",
-      "title": "John Turturro Was Given a Rare Leading Film Role. Now He\u2019s in the Running for His First-Ever Oscar Nod",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/john-turturro-only-living-pickpocket-in-new-york-interview-1236690009/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T19:37:33+00:00"
-    },
-    {
-      "guid": "1874020",
-      "title": "The Last of Us Season 3 Did Not Include Naughty Dog\u2019s Involvement For Creative Choices",
-      "url": "https://www.gamespot.com/articles/the-last-of-us-season-3-did-not-include-naughty-dogs-involvement-for-creative-choices/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:32:17+00:00"
-    },
-    {
-      "guid": "1874050",
-      "title": "Something Is Brewing With StarCraft",
-      "url": "https://www.gamespot.com/articles/something-is-brewing-with-starcraft/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:31:28+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205898",
-      "title": "Castlevania: Belmont's Curse Trailer Will Give Veteran Fans Goosebumps",
-      "url": "https://www.nintendolife.com/news/2026/09/castlevania-belmonts-curse-trailer-will-give-veteran-fans-goosebumps",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205905",
-      "title": "Monster Hunter Wilds' Massive New Expansion Looks Mind Blowing to Me",
-      "url": "https://www.pushsquare.com/news/2026/09/monster-hunter-wilds-massive-new-expansion-looks-mind-blowing-to-me",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122363",
-      "title": "BloomLordmon and ZeedMillenniumon Teased for Digimon Story Time Stranger DLC",
-      "url": "https://www.siliconera.com/bloomlordmon-and-zeedmillenniumon-teased-for-digimon-story-time-stranger-dlc/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754265",
-      "title": "Nicolas Cage Leads a Star-Studded WWII Spy Thriller in the New Fortitude Trailer",
-      "url": "https://otakukart.com/nicolas-cage-leads-a-star-studded-wwii-spy-thriller-in-the-new-fortitude-trailer/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T19:50:09+00:00"
-    },
-    {
-      "guid": "bdf19584-b5a6-42a4-aad8-005802570190",
-      "title": "Dungeons & Dragons: Honor Among Thieves Directors Say Film Flopped Due to 'Not-So-Great' Timing",
-      "url": "https://www.ign.com/articles/dungeons-dragons-honor-among-thieves-directors-say-film-flopped-due-to-not-so-great-timing",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:21:57+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000731007",
-      "title": "11 Songs That Were Not Played At The Undertale Determination Symphony, In Increasing Order Of How Batshit It Was Not To Include Them",
-      "url": "https://kotaku.com/undertale-determination-symphony-music-concert-2000731007",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:08:06+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067309",
-      "title": "Zach Cregger\u2019s \u2018Resident Evil\u2019 To Freak Out Masses With Record Franchise Opening At U.S. Box Office",
-      "url": "https://deadline.com/2026/09/box-office-resident-evil-opening-projection-1237067309/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:15:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067266",
-      "title": "\u2018Fire Country\u2019 & \u2018Sheriff Country\u2019 Crossover Event Set At CBS; Matt Lopez Teases What\u2019s Ahead",
-      "url": "https://deadline.com/2026/09/fire-country-sheriff-country-crossover-event-interview-1237067266/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236848984",
-      "title": "Dolly Parton Tributes Score Big Ratings for the Networks; ABC\u2019s \u20189 to 5\u2019 Airing Is Most-Watched Broadcast Movie in More Than Three Years",
-      "url": "https://variety.com/2026/tv/news/dolly-parton-tributes-ratings-broadcast-networks-1236848984/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236848692",
-      "title": "\u2018Lego Harry Potter\u2019 Collection Coming to Nintendo Switch 2 (Gaming News Roundup)",
-      "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-week-august-31-1236848692/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:04:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850922",
-      "title": "Radu Jude\u2019s \u2018The Diary of a Chambermaid\u2019 Secures U.S. Distribution With Film Movement (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/radu-jude-the-diary-of-a-chambermaid-u-s-distribution-film-movement-1236850922/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:02:04+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689714",
-      "title": "Asia Surpasses North America and Europe to Lead in Streaming Scripted Series Orders",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/asia-now-leads-streaming-scripted-series-orders-netflix-1236689714/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:20:28+00:00"
-    },
-    {
-      "guid": "7WdkjxYa6X9osPNFSLJ8Fc",
-      "title": "Microsoft invents new level of 'own nothing and like it': 5 to 15 hours of playtime a month for Xbox cloud gaming, but you can \"purchase additional cloud playtime\"",
-      "url": "https://www.gamesradar.com/games/microsoft-invents-new-level-of-own-nothing-and-like-it-5-to-15-hours-of-playtime-a-month-for-xbox-cloud-gaming-but-you-can-purchase-additional-cloud-playtime/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:19:04+00:00"
-    },
-    {
-      "guid": "5CdQSPytpwJ5ckCKBYi6Hn",
-      "title": "Neflix orders Dungeons and Dragons TV show based on Ravenloft from Children of Men director Alfonso Cuar\u00f3n",
-      "url": "https://www.gamesradar.com/entertainment/live-action-shows/neflix-orders-dungeons-and-dragons-tv-show-based-on-ravenloft-from-children-of-men-director-alfonso-cuaron/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:15:09+00:00"
-    },
-    {
-      "guid": "NMvYgm3F6REPLmRQLP7Eu9",
-      "title": "No Man's Sky fan adds Nvidia's DLSS 5 to the game, Hello Games programmer worries the AI filter could ruin its \"unique look and feel\"",
-      "url": "https://www.gamesradar.com/games/survival/no-mans-sky-fan-adds-nvidias-dlss-5-to-the-game-hello-games-programmer-worries-the-ai-filter-could-ruin-its-unique-look-and-feel/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:14:12+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754462",
-      "title": "Sylvester Stallone\u2019s 9-Movie Action Saga Is Now Streaming on Paramount+",
-      "url": "https://otakukart.com/sylvester-stallones-9-movie-action-saga-is-now-streaming-on-paramount/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:15:32+00:00"
-    },
-    {
-      "guid": "t3_1w6ij0y",
-      "title": "New Starcraft game announcement is approaching?",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w6ij0y/new_starcraft_game_announcement_is_approaching/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:06:19+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067399",
-      "title": "Hulu\u2019s \u2018Prison Break\u2019 Adds Noah Emmerich, Catfish Jean & Greg Vrotsos Among 7",
-      "url": "https://deadline.com/2026/09/hulu-prison-break-cast-noah-emmerich-1237067399/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850765",
-      "title": "Gloria Steinem\u2019s Farewell Interview to Stream on Netflix",
-      "url": "https://variety.com/2026/tv/news/gloria-steinem-last-interview-netflix-1236850765/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236840079",
-      "title": "\u2018The Gentlemen\u2019 Producers on Balancing Quirkiness With Crime in \u2018Glamorous\u2019 Season 2: \u2018We Are Always Looking for New Ways To Murder People\u2019",
-      "url": "https://variety.com/2026/tv/global/the-gentlemen-season-2-producers-italy-1236840079/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:48:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850931",
-      "title": "Winnie the Pooh Celebrates 100 Years With $500 Cashmere Sweaters",
-      "url": "https://variety.com/2026/shopping/news/disney-winnie-the-pooh-redone-collection-shop-online-1236850931/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:44:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850677",
-      "title": "Dark Comedy \u2018Down to Die\u2019 Marks Actress Marta Pozzan Directorial Debut (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/columns/dark-comedy-down-to-die-marks-marta-pozzan-director-1236850677/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:42:30+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236688596",
-      "title": "Top Genre Filmmakers of 2026: From Curry Barker to Guillermo del Toro",
-      "url": "https://www.hollywoodreporter.com/lists/top-genre-filmmakers-2026-curry-barker-guillermo-del-toro/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:53:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689237",
-      "title": "It\u2019s \u2018John Wick\u2019 Meets Bigfoot as Genre Banner Badlands Picks up Horror Script \u2018Wildman\u2019 (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/wildman-john-wick-meets-bigfoot-1236689237/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:52:48+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688968",
-      "title": "Energy Shots Over Vodka Shots: 5-Hour Energy Makes Moves Into Mocktail Market",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/5-hour-energy-shot-mocktail-trend-ingredients-drink-recipes-1236688968/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:38:54+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754469",
-      "title": "Samuel L. Jackson Takes the Wheel in Explosive The Beast Trailer",
-      "url": "https://otakukart.com/samuel-l-jackson-takes-the-wheel-in-explosive-the-beast-trailer/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:39:35+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1752413",
-      "title": "15 TV Shows & Movies To Watch Before Avengers: Doomsday",
-      "url": "https://otakukart.com/15-tv-shows-movies-to-watch-before-avengers-doomsday/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T20:35:50+00:00"
-    },
-    {
-      "guid": "t3_1w6k070",
-      "title": "Wolverine Gold Credits",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w6k070/wolverine_gold_credits/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T21:00:03+00:00"
-    },
-    {
-      "guid": "468241a1-653d-4020-9043-e3f889d48ccc",
-      "title": "Netflix Is Making a Live-Action Dungeons & Dragons Series About Darklord Strahd Von Zarovich's Origin Story",
-      "url": "https://www.ign.com/articles/netflix-is-making-a-live-action-dungeons-dragons-series-about-darklord-strahd-von-zarovichs-origin-story",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T20:57:33+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000730974",
-      "title": "Letting You Be A Complete Psychopath Reveals The Scale Of Fable\u2018s Ambition",
-      "url": "https://kotaku.com/letting-you-be-a-complete-psychopath-reveals-the-scale-of-fables-ambition-2000730974",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:00:32+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237064528",
-      "title": "\u2018Chad Powers\u2019 Asks What A National Championship Is Really Worth In Season 2",
-      "url": "https://deadline.com/2026/09/chad-powers-season-2-interview-glen-powell-michael-waldron-1237064528/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:05:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067293",
-      "title": "\u2018Famous Last Words\u2019 Interview With Gloria Steinem Streaming Now On Netflix",
-      "url": "https://deadline.com/2026/09/gloria-steinem-famous-last-words-netflix-1237067293/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236690077",
-      "title": "Streaming Ratings: \u2018Ted Lasso\u2019 Has Its Best Premiere Week So Far",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-aug-3-9-2026-1236690077/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:04:03+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236690148",
-      "title": "Suno Scraps Mary J. Blige Ad After Making It Seem Singer Endorsed the AI Music Platform",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/suno-yanks-controversial-mary-j-blige-ad-1236690148/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:02:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236689988",
-      "title": "Gloria Steinem Featured in Netflix \u2018Famous Last Words\u2019 Interview",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/gloria-steinem-famous-last-words-interview-netflix-1236689988/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T21:00:00+00:00"
-    },
-    {
-      "guid": "gEbCLNqEHjGDCC3APNquFR",
-      "title": "Steam earned Valve $15 billion in revenue so far this year, with Crimson Desert alone topping $203 million according to analyst",
-      "url": "https://www.gamesradar.com/games/steam-earned-valve-usd15-billion-in-revenue-so-far-this-year-with-crimson-desert-alone-topping-usd203-million-according-to-analyst/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T21:04:40+00:00"
-    },
-    {
-      "guid": "9WvnpQGpdQcCDaMm6QpfPX",
-      "title": "Guild Wars 3 wants to solve every MMO's biggest problem, and might actually pull it off: \"No subscription fee helps there too\"",
-      "url": "https://www.gamesradar.com/games/mmo/guild-wars-3-wants-to-solve-every-mmos-biggest-problem-and-might-actually-pull-it-off-no-subscription-fee-helps-there-too/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T21:04:22+00:00"
-    },
-    {
-      "guid": "1873491",
-      "title": "GTA 6 Is Completely Changing How You Steal Cars",
-      "url": "https://www.gamespot.com/articles/gta-6-how-to-steal-cars/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T21:00:00+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-205907",
       "title": "Here's a Proper Look at Ghost of Yotei DLC Echoes of Sekigahara",
       "url": "https://www.pushsquare.com/news/2026/09/heres-a-proper-look-at-ghost-of-yotei-dlc-echoes-of-sekigahara",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-03T21:15:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122371",
-      "title": "Lego PlayStation Console Replica Costs $180",
-      "url": "https://www.siliconera.com/lego-playstation-console-replica-costs-180/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T21:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754475",
-      "title": "Scarlett Johansson\u2019s Ray Gunn Gets Early London Film Festival Premiere Before Netflix Release",
-      "url": "https://otakukart.com/scarlett-johanssons-ray-gunn-gets-early-london-film-festival-premiere-before-netflix-release/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T21:04:39+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000731028",
@@ -1700,6 +1236,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-03T23:13:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067692",
+      "title": "\u2018Big Brother\u2019 Season 28, Week 8 Eviction: First Member Of Jury Revealed",
+      "url": "https://deadline.com/2026/09/big-brother-season-28-week-8-eviction-cbs-1237067692/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T00:44:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067677",
+      "title": "Mark Sanchez Pleads Guilty In Trucker Stabbing Case; Ex-NFL QB & Fox Sports Talking Head Hopes To Avoid Looming Trial & Potential Jail Time",
+      "url": "https://deadline.com/2026/09/mark-sanchez-stabbing-plea-1237067677/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T00:44:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067699",
+      "title": "Nicole Kidman Wanted To Star In A \u2018Dune\u2019 Film But Denis Villeneuve \u201cNever Asks\u201d Her To Star In His Films: \u201cI\u2019m Obsessed\u201d",
+      "url": "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T00:41:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851177",
+      "title": "Pablo Torre Sounds Off on the NBA\u2019s Historic Ruling Against the Clippers, Kawhi Leonard and ESPN \u2014 and Teases His Next Big Sports Investigation",
+      "url": "https://variety.com/2026/sports/news/pablo-torre-clippers-nba-kawhi-leonard-steve-ballmer-espn-mark-walter-lakers-1236851177/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T00:30:30+00:00"
     }
   ]
 }
