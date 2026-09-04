@@ -1101,6 +1101,17 @@
       "article_titles": [
         "Trump Puts Racist Arcade Games On The White House Website"
       ]
+    },
+    {
+      "headline": "Miami Sheriff Calls Out GTA 6 for Glorifying Crimes in Their Own Backyard",
+      "tag": "gta 6",
+      "posted_at": "2026-09-04T15:01:03.808084+00:00",
+      "urls": [
+        "https://kotaku.com/gta-6-grand-theft-auto-vice-city-miami-mayor-sheriff-2000731268"
+      ],
+      "article_titles": [
+        "Miami Sheriff Slams GTA 6 For Glorifying Crimes They \u2018Work Every Single Day To Prevent\u2019 In Clash Over Turning Miami Into Vice City"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1393,6 +1404,150 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-04T14:22:04+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/nintendo-zelda-40th-anniversary-direct-another-nintendo-direct",
+      "title": "Next week, for the first time ever, Nintendo is hosting two Directs back-to-back - and the first one is dedicated to The Legend of Zelda's 40th anniversary",
+      "url": "https://www.eurogamer.net/nintendo-zelda-40th-anniversary-direct-another-nintendo-direct",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:30:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000731268",
+      "title": "Miami Sheriff Slams GTA 6 For Glorifying Crimes They \u2018Work Every Single Day To Prevent\u2019 In Clash Over Turning Miami Into Vice City",
+      "url": "https://kotaku.com/gta-6-grand-theft-auto-vice-city-miami-mayor-sheriff-2000731268",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:33:57+00:00"
+    },
+    {
+      "guid": "ppGWKzV9j7ThknbAEnezPH",
+      "title": "'That criticism is justified': Gamescom apologizes for its callous response to developer hardware thefts",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:27:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067760",
+      "title": "Netflix\u2019s Dan Brown TV Adaptation Of \u2018The Secret of Secrets\u2019 Rounds Out Cast, Releases First Look As Production Begins",
+      "url": "https://deadline.com/2026/09/netflix-dan-brown-series-secret-of-secrets-cast-production-1237067760/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068022",
+      "title": "Amber Eggers Dies: \u2018Love After Lockup\u2019 Star Was 41",
+      "url": "https://deadline.com/2026/09/amber-eggers-dead-1237068022/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:48:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067758",
+      "title": "Dan Brown\u2019s \u2018The Secret Of Secrets\u2019 TV Adaptation For Netflix Casts Mamadou Athie & Ben Levi Ross",
+      "url": "https://deadline.com/2026/09/netflix-robert-langdon-mamadou-athie-ben-levi-ross-1237067758/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068018",
+      "title": "FCC Asks Court To Dismiss ABC\u2019s First Amendment Lawsuit",
+      "url": "https://deadline.com/2026/09/fcc-seeks-dismissal-abc-first-amendment-lawsuit-1237068018/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:35:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068002",
+      "title": "\u2018America\u2019s Favorite\u2019: Dane DeHaan, Maddie Hasson, Paul Roffman, Greg Kinnear & Dennis Quaid Set For Dark Thriller Launching Sales At TIFF",
+      "url": "https://deadline.com/2026/09/dane-dehaan-maddie-hasson-dennis-quaid-americas-favorite-1237068002/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:33:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849599",
+      "title": "Lea Salonga on \u2018Miss Saigon,\u2019 \u2018Aladdin\u2019 and Supporting Her Trans Son Amid Anti-Trans Rhetoric: \u2018It Makes Me Intensely Afraid and Not Just for My Child\u2019",
+      "url": "https://variety.com/2026/film/columns/lea-salonga-miss-saigon-aladdin-trans-son-nic-1236849599/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851060",
+      "title": "Jeff Zucker on How He Ended Up Playing Himself in A24\u2019s \u2018Primetime\u2019: \u2018Jacob Elordi Wasn\u2019t Available\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/jeff-zucker-playing-himself-primetime-a24-1236851060/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851257",
+      "title": "\u2018Harry Potter\u2019 HBO Series Casts Dobby, Ginny Weasley and Tom Riddle for \u2018Chamber of Secrets\u2019 Season 2",
+      "url": "https://variety.com/2026/tv/news/harry-potter-hbo-series-casts-dobby-ginny-weasley-tom-riddle-1236851257/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851660",
+      "title": "Ann Hui, Carlo Chatrian to Head Pingyao\u2019s Fei Mu, Rossellini Juries",
+      "url": "https://variety.com/2026/film/festivals/ann-hui-carlo-chatrian-pingyao-juries-1236851660/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:44:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236682344",
+      "title": "\u2018A Place to Heal\u2019 Review: An Intensely Performed French Teen Psych Ward Drama That Shifts Uneasily Between Reality and Fiction",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/a-place-to-heal-review-cedric-kahn-1236682344/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236690729",
+      "title": "HBO\u2019s \u2018Harry Potter\u2019 Casts Tom Riddle, Dobby and a New Ginny Weasley",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/harry-potter-tom-riddle-dobby-ginny-weasley-recast-1236690729/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236687629",
+      "title": "Malcolm Todd Is The Luckiest Guy in the World",
+      "url": "https://www.hollywoodreporter.com/music/music-features/malcolm-todd-do-that-again-album-tour-grammy-buzz-interview-1236687629/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236689640",
+      "title": "Why Cate Blanchett Went All In on the Absurd, Sincere Alien Comedy \u2018Alpha Gang\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/alpha-gang-cate-blanchett-david-nathan-zellner-1236689640/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:34:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236690725",
+      "title": "Richard O\u2019Sullivan, British Sitcom Star Who Inspired John Ritter\u2019s \u2018Three\u2019s Company\u2019 Character, Dies at 82",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/richard-o-sullivan-dead-threes-company-actor-1236690725/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T14:32:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205943",
+      "title": "Sony Factory Will Still Have Significant PS5 Disc Manufacturing Capacity After Physical Media Deadline",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-factory-will-still-have-significant-ps5-disc-manufacturing-capacity-after-physical-media-deadline",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T14:45:00+00:00"
     }
   ]
 }
