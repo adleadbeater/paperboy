@@ -1174,70 +1174,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.pushsquare.com/#article-205907",
-      "title": "Here's a Proper Look at Ghost of Yotei DLC Echoes of Sekigahara",
-      "url": "https://www.pushsquare.com/news/2026/09/heres-a-proper-look-at-ghost-of-yotei-dlc-echoes-of-sekigahara",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T21:15:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000731028",
-      "title": "A Mysterious Internet Setting Has Been Ruining All My Elden Ring Nightreign Games",
-      "url": "https://kotaku.com/mysterious-internet-setting-ruining-elden-ring-nightreign-2000731028",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T23:00:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067015",
-      "title": "Universal Taps Chris MacBride To Pen \u2018Confession Of Murder\u2019 Remake With Glen Powell Producing",
-      "url": "https://deadline.com/2026/09/universal-chris-macbride-confession-of-murder-glen-powell-1237067015/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T23:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067582",
-      "title": "Stanley Kubrick\u2019s Daughter Addresses \u201cConspiracy Theory\u201d About \u2018Eyes Wide Shut\u2019s \u201cMissing 20 Minutes\u201d",
-      "url": "https://deadline.com/2026/09/stanley-kubrick-daughter-eyes-wide-shut-missing-20-minutes-1237067582/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T22:47:54+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236851134",
-      "title": "Miley Cyrus Leads a Steamy Dance Floor Revolution With New Single and Video for \u2018Bass Persuades\u2019",
-      "url": "https://variety.com/2026/music/news/miley-cyrus-steamy-dance-floor-bass-persuades-music-video-1236851134/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T23:18:17+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236690268",
-      "title": "\u2018Criminal\u2019 Showrunner Ed Brubaker, Amazon MGM  Sued for Hostile Work Environment by Production Assistant",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ed-brubaker-amazon-mgm-sued-hostile-work-environment-1236690268/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-03T23:00:31+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205906",
-      "title": "Preview: 'There'll Be a Surprising Announcement Soon': I Played Crazy Taxi: World Tour and Spoke to Series Creator Kenji Kanno",
-      "url": "https://www.pushsquare.com/previews/therell-be-a-surprising-announcement-soon-i-played-crazy-taxi-world-tour-and-spoke-to-series-creator-kenji-kanno",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T23:00:00+00:00"
-    },
-    {
-      "guid": "t3_1w6nejs",
-      "title": "Unannounced Metro Multiplayer Game Pulled from Saber Latam Amid Studio Layoffs",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w6nejs/unannounced_metro_multiplayer_game_pulled_from/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-03T23:13:30+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237067692",
       "title": "\u2018Big Brother\u2019 Season 28, Week 8 Eviction: First Member Of Jury Revealed",
       "url": "https://deadline.com/2026/09/big-brother-season-28-week-8-eviction-cbs-1237067692/",
@@ -1268,6 +1204,30 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-04T00:30:30+00:00"
+    },
+    {
+      "guid": "4uLiz2GTxp3mtD2HpzFLKB",
+      "title": "I've found DLSS 5 can slash frame rates by up to 73% on an RTX 5080 gaming PC in NBA 2K27, and I'm wondering what kind of mega-rig would justify the performance hit",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-slash-performance-by-up-to-73-percent-on-an-rtx-5080-gaming-pc-in-nba-2k27-and-im-left-wondering-what-kind-of-mega-rig-youd-need-to-justify-the-hit/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T04:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236690130",
+      "title": "Raffaele Annecchino, Former CEO of Paramount International, Dies at 55",
+      "url": "https://www.hollywoodreporter.com/business/business-news/raffaele-annecchino-dead-paramount-international-1236690130/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T03:39:18+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1075585",
+      "title": "Square Enix announces TGS 2026 lineup",
+      "url": "https://www.gematsu.com/2026/09/square-enix-announces-tgs-2026-lineup",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T03:37:01+00:00"
     }
   ]
 }
