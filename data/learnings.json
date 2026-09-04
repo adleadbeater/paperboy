@@ -1174,38 +1174,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237067692",
-      "title": "\u2018Big Brother\u2019 Season 28, Week 8 Eviction: First Member Of Jury Revealed",
-      "url": "https://deadline.com/2026/09/big-brother-season-28-week-8-eviction-cbs-1237067692/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T00:44:56+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067677",
-      "title": "Mark Sanchez Pleads Guilty In Trucker Stabbing Case; Ex-NFL QB & Fox Sports Talking Head Hopes To Avoid Looming Trial & Potential Jail Time",
-      "url": "https://deadline.com/2026/09/mark-sanchez-stabbing-plea-1237067677/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T00:44:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067699",
-      "title": "Nicole Kidman Wanted To Star In A \u2018Dune\u2019 Film But Denis Villeneuve \u201cNever Asks\u201d Her To Star In His Films: \u201cI\u2019m Obsessed\u201d",
-      "url": "https://deadline.com/2026/09/nicole-kidman-wanted-star-dune-film-1237067699/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T00:41:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236851177",
-      "title": "Pablo Torre Sounds Off on the NBA\u2019s Historic Ruling Against the Clippers, Kawhi Leonard and ESPN \u2014 and Teases His Next Big Sports Investigation",
-      "url": "https://variety.com/2026/sports/news/pablo-torre-clippers-nba-kawhi-leonard-steve-ballmer-espn-mark-walter-lakers-1236851177/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T00:30:30+00:00"
-    },
-    {
       "guid": "4uLiz2GTxp3mtD2HpzFLKB",
       "title": "I've found DLSS 5 can slash frame rates by up to 73% on an RTX 5080 gaming PC in NBA 2K27, and I'm wondering what kind of mega-rig would justify the performance hit",
       "url": "https://www.pcgamer.com/hardware/graphics-cards/dlss-5-can-slash-performance-by-up-to-73-percent-on-an-rtx-5080-gaming-pc-in-nba-2k27-and-im-left-wondering-what-kind-of-mega-rig-youd-need-to-justify-the-hit/",
@@ -1228,6 +1196,38 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-04T03:37:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237067284",
+      "title": "RTE\u2019s \u2018The Murder Of Mr. Moonlight\u2019 To Explore Infamous Irish Killing; BBC & Banijay Rights On Board Drama Series",
+      "url": "https://deadline.com/2026/09/murder-of-mr-moonlight-drama-rte-bbc-banijay-rights-1237067284/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T05:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236850060",
+      "title": "C\u00e9dric Kahn on Immersing Himself in an Adolescent Psychiatric Ward for His Venice Competition Film \u2018A Place to Heal\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/cedric-kahn-venice-a-place-to-heal-interview-1236850060/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T05:10:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236850367",
+      "title": "Online Gaming Drives the Search for a Missing Roommate in Dong Jie\u2019s Venice Critics\u2019 Week Debut \u2018Zoom In, Zoom Out,\u2019 Clip Unveiled (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/festivals/dong-jie-zoom-in-zoom-out-venice-critics-week-1236850367/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T05:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849304",
+      "title": "Venice Market Chief Pascal Diot Says He\u2019s Not Affected by New Toronto Market: \u2018Not What the Industry Wants Now\u2019",
+      "url": "https://variety.com/2026/film/global/venice-pascal-diot-toronto-market-not-industry-wants-1236849304/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T05:00:00+00:00"
     }
   ]
 }
