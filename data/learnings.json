@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Steam Labeled His Game About a Grumpy Old Man as Pornography \u2014 and the Dev Is Furious",
-      "tag": "",
-      "posted_at": "2026-08-28T15:01:24.220338+00:00",
-      "urls": [
-        "https://kotaku.com/steams-decision-to-brand-his-open-world-adventure-about-a-cranky-old-boomer-pornography-is-humiliating-and-surreal-developer-says-2000729298"
-      ],
-      "article_titles": [
-        "Steam\u2019s Decision To Brand His Open-World Adventure About A Cranky Old Boomer Pornography Is \u2018Humiliating And Surreal,\u2019 Developer Says"
-      ]
-    },
-    {
-      "headline": "Leaked Footage Shows EA Motive's Iron Man Game Is Fast, Frenetic, and Finally Real",
-      "tag": "iron man (ea motive)",
-      "posted_at": "2026-08-28T15:01:24.308223+00:00",
-      "urls": [
-        "https://www.eurogamer.net/ea-motive-iron-man-gameplay-footage-leak"
-      ],
-      "article_titles": [
-        "Footage of new Iron Man game from EA Motive appears to leak, showing blistering speed and freedom, as MIA superhero game finally reappears"
-      ]
-    },
-    {
       "headline": "Fable Shows Off Combat Gameplay at Gamescom 2026",
       "tag": "fable",
       "posted_at": "2026-08-28T15:31:21.544165+00:00",
@@ -1112,6 +1090,29 @@
       "article_titles": [
         "Miami Sheriff Slams GTA 6 For Glorifying Crimes They \u2018Work Every Single Day To Prevent\u2019 In Clash Over Turning Miami Into Vice City"
       ]
+    },
+    {
+      "headline": "HBO's Harry Potter Series Casts Dobby, Ginny Weasley, and Young Voldemort for Season 2",
+      "tag": "harry potter",
+      "posted_at": "2026-09-04T15:31:06.250761+00:00",
+      "urls": [
+        "https://www.ign.com/articles/harry-potter-series-dobby-and-young-voldemort-casting-revealed",
+        "https://deadline.com/2026/09/harry-potter-ginny-weasley-tom-riddle-dobby-actor-season-2-1237067720/",
+        "https://variety.com/2026/tv/news/harry-potter-hbo-series-casts-dobby-ginny-weasley-tom-riddle-1236851257/",
+        "https://www.hollywoodreporter.com/tv/tv-news/harry-potter-tom-riddle-dobby-ginny-weasley-recast-1236690729/",
+        "https://variety.com/2026/tv/news/harry-potter-hbo-series-casts-dobby-ginny-weasley-tom-riddle-1236851257/",
+        "https://www.hollywoodreporter.com/tv/tv-news/harry-potter-tom-riddle-dobby-ginny-weasley-recast-1236690729/",
+        "https://deadline.com/2026/09/harry-potter-ginny-weasley-tom-riddle-dobby-actor-season-2-1237067720/"
+      ],
+      "article_titles": [
+        "Harry Potter Series' Dobby and Young Voldemort Casting Revealed",
+        "\u2018Harry Potter\u2019 Finds Its New Ginny Weasley, Casts Tom Riddle & Dobby Roles In HBO Series Season 2",
+        "\u2018Harry Potter\u2019 HBO Series Casts Dobby, Ginny Weasley and Tom Riddle for \u2018Chamber of Secrets\u2019 Season 2",
+        "HBO\u2019s \u2018Harry Potter\u2019 Casts Tom Riddle, Dobby and a New Ginny Weasley",
+        "\u2018Harry Potter\u2019 HBO Series Casts Dobby, Ginny Weasley and Tom Riddle for \u2018Chamber of Secrets\u2019 Season 2",
+        "HBO\u2019s \u2018Harry Potter\u2019 Casts Tom Riddle, Dobby and a New Ginny Weasley",
+        "\u2018Harry Potter\u2019 Finds Its New Ginny Weasley, Casts Tom Riddle & Dobby Roles In HBO Series Season 2"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1660,6 +1661,54 @@
       "source_name": "Automaton",
       "source_tier": 2,
       "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "1505bf03-6471-4a12-9533-00d98ce54610",
+      "title": "Harry Potter Series' Dobby and Young Voldemort Casting Revealed",
+      "url": "https://www.ign.com/articles/harry-potter-series-dobby-and-young-voldemort-casting-revealed",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068084",
+      "title": "History Sets U.S. Premiere For Headline-Making Documentary \u2018Hitler\u2019s DNA\u2019",
+      "url": "https://deadline.com/2026/09/history-sets-us-premiere-for-hitlers-dna-documentary-1237068084/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:18:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236677326",
+      "title": "Meet Wynn Everett, the (Delightful) \u201cGus Fring\u201d of \u2018Chad Powers\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/wynn-everett-profile-gus-fring-of-chad-powers-glen-powell-1236677326/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T15:15:00+00:00"
+    },
+    {
+      "guid": "1875548",
+      "title": "Xbox\u2019s New TCL Partnership Couldn\u2019t Come At A Worse Time",
+      "url": "https://www.gamespot.com/articles/xbox-new-tcl-partnership-couldnt-come-at-a-worse-time/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T15:02:38+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754743",
+      "title": "Neil Druckmann Confirms He Had No Creative Role in The Last of Us Season 3",
+      "url": "https://otakukart.com/neil-druckmann-confirms-he-had-no-creative-role-in-the-last-of-us-season-3/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T15:23:42+00:00"
+    },
+    {
+      "guid": "t3_1w77k4y",
+      "title": "Upcoming Astro Bot Lego set spotted",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w77k4y/upcoming_astro_bot_lego_set_spotted/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T15:28:03+00:00"
     }
   ]
 }
