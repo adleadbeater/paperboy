@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Activision Served a Call of Duty Cheat Maker Legal Papers at His Home \u2014 and Filmed It",
-      "tag": "call of duty",
-      "posted_at": "2026-08-28T17:33:11.677235+00:00",
-      "urls": [
-        "https://kotaku.com/activision-notorious-call-of-duty-cheat-maker-elocarry-2000729370"
-      ],
-      "article_titles": [
-        "Activision Just Ambushed A Notorious Call Of Duty Cheat Maker With Legal Papers At His House And Filmed The Whole Thing"
-      ]
-    },
-    {
       "headline": "Elden Ring Tarnished Edition Brings Shadow of the Erdtree and New Content to Nintendo Switch 2",
       "tag": "elden ring",
       "posted_at": "2026-08-28T19:31:11.306709+00:00",
@@ -1124,99 +1113,33 @@
         "Nintendo Announces Two Directs For Next Week, 8th & 9th September 2026",
         "September 2026 Switch 2 and Legend of Zelda Nintendo Directs Scheduled"
       ]
+    },
+    {
+      "headline": "Miyazaki Says FromSoftware's First-Ever Player Romance in Elden Ring Nightreign Is About \"Transient, Ephemeral Love\"",
+      "tag": "elden ring",
+      "posted_at": "2026-09-04T18:01:16.264626+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/action-rpg/fromsoftwares-first-ever-player-romance-builds-on-the-maidens-in-elden-ring-says-hidetaka-miyazaki-its-a-transient-ephemeral-love-which-is-maybe-a-motif-im-striving-for/"
+      ],
+      "article_titles": [
+        "FromSoftware's first-ever player romance builds on \"the maidens in Elden Ring,\" says Hidetaka Miyazaki: \"It's a transient, ephemeral love, which is maybe a motif I'm striving for\""
+      ]
+    },
+    {
+      "headline": "Cult Steam Hit Fortune's Run May Be Cancelled After Developer Loses Control of the Game",
+      "tag": "fortune's run",
+      "posted_at": "2026-09-04T18:01:16.340129+00:00",
+      "urls": [
+        "https://kotaku.com/fortunes-run-immersive-sim-dizzie-valve-steam-abuse-accusations-2000731339"
+      ],
+      "article_titles": [
+        "Cult Steam Hit Fortune\u2019s Run Might Be Cancelled After Developer Loses Control Over The Game"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000731290",
-      "title": "We\u2019re Getting Not One, But Two Nintendo Directs Next Week",
-      "url": "https://kotaku.com/nintendo-direct-september-announcement-zelda-time-date-2000731290",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T13:54:52+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000731279",
-      "title": "Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: \u2018We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment\u2019",
-      "url": "https://kotaku.com/gamescom-laptop-indie-developers-stolen-theft-security-2000731279",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T13:45:10+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000731267",
-      "title": "Trump Puts Racist Arcade Games On The White House Website",
-      "url": "https://kotaku.com/white-house-racist-arcade-games-donald-trump-flappy-bird-tetris-2000731267",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T13:31:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237067993",
-      "title": "\u2018Game Of Thrones: The Mad King\u2019 Stage Adaptation Announces 2027 London Transfer",
-      "url": "https://deadline.com/2026/09/game-of-thrones-mad-king-london-1237067993/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T13:35:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236851556",
-      "title": "Don Lemon to Launch FAST Channel on Linear, Streaming Venues",
-      "url": "https://variety.com/2026/tv/news/don-lemon-channel-fast-launch-1236851556/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236851581",
-      "title": "CNBC Veteran Rick Santelli to Exit in October",
-      "url": "https://variety.com/2026/tv/news/cnbc-rick-santelli-exit-1236851581/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T13:41:28+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236690153",
-      "title": "TikTok to Make Toronto Festival Return With Creators, Emerging Filmmakers Showcase (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/digital/tiktok-toronto-film-festival-return-1236690153/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-04T14:00:00+00:00"
-    },
-    {
-      "guid": "DED7NyEFuTDVx3JW6xYPFT",
-      "title": "After 6 years, the survival game Palworld studio Pocketpair \"would not exist without\" is finally ready to escape Steam Early Access jail \u2013 and hopefully, its \"Mostly Negative\" rating, too",
-      "url": "https://www.gamesradar.com/games/survival/after-6-years-the-survival-game-palworld-studio-pocketpair-would-not-exist-without-is-finally-ready-to-escape-steam-early-access-jail-and-hopefully-its-mostly-negative-rating-too/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T13:32:46+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205933",
-      "title": "\"I'll Definitely Do The Job\" - Oji Hiroi Says The Story For Sakura Wars 6 Is Ready To Go",
-      "url": "https://www.timeextension.com/news/2026/09/ill-definitely-do-the-job-oji-hiroi-says-the-story-for-sakura-wars-6-is-ready-to-go",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T13:45:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754729",
-      "title": "Final Fantasy VII Revelation Sets 2027 Release Date With 130GB Switch 2 Requirement",
-      "url": "https://otakukart.com/final-fantasy-vii-revelation-sets-2027-release-date-with-130gb-switch-2-requirement/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T13:36:51+00:00"
-    },
-    {
-      "guid": "t3_1w751bj",
-      "title": "Zelda Direct and General Direct announced for the 8th and 9th of September",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w751bj/zelda_direct_and_general_direct_announced_for_the/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T13:52:39+00:00"
-    },
     {
       "guid": "a3f215db-01ae-497e-8aa3-6654877dc0fd",
       "title": "1 vs. 100 Live Was the Kind of Incredible Creative Risk I'd Like to See Xbox Get Back To",
@@ -1282,30 +1205,6 @@
       "published_dt": "2026-09-04T14:11:09+00:00"
     },
     {
-      "guid": "W2CLBdW7gtGeyx9DQ5NWV8",
-      "title": "Substructure is a Stardew Valley-inspired factory sim that takes one of Factorio's hardest and best mods and turns it into a dizzying, planet-wide game of its own",
-      "url": "https://www.gamesradar.com/games/simulation/substructure-is-a-stardew-valley-inspired-factory-sim-that-takes-one-of-factorios-hardest-and-best-mods-and-turns-it-into-a-dizzying-planet-wide-game-of-its-own/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T14:00:00+00:00"
-    },
-    {
-      "guid": "jUYAmaiKhUtGwXRzqwiHMT",
-      "title": "Labor Day Nintendo Switch deals are doing their best to beat price increases ahead of Black Friday",
-      "url": "https://www.gamesradar.com/hardware/labor-day-nintendo-switch-deals-are-doing-their-best-to-beat-price-increases-ahead-of-black-friday/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T13:59:13+00:00"
-    },
-    {
-      "guid": "5jpwdFZUVgF7MZRdGX8ZWW",
-      "title": "Nintendo Direct confirmed for next week, as well as a dedicated Zelda Anniversary stream where Ocarina of Time feels inevitable",
-      "url": "https://www.gamesradar.com/games/events-conferences/nintendo-direct-confirmed-for-next-week-as-well-as-a-dedicated-zelda-anniversary-stream-where-ocarina-of-time-feels-inevitable/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T13:57:45+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-205710",
       "title": "Nintendo Announces Two Directs For Next Week, 8th & 9th September 2026",
       "url": "https://www.nintendolife.com/news/2026/09/nintendo-announces-two-directs-for-next-week-8th-and-9th-september-2026",
@@ -1320,14 +1219,6 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-04T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122394",
-      "title": "Persona 4 Revival Junes Merchandise Appears",
-      "url": "https://www.siliconera.com/persona-4-revival-junes-merchandise-appears/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-04T14:00:07+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-205935",
@@ -2152,6 +2043,86 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-04T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000731339",
+      "title": "Cult Steam Hit Fortune\u2019s Run Might Be Cancelled After Developer Loses Control Over The Game",
+      "url": "https://kotaku.com/fortunes-run-immersive-sim-dizzie-valve-steam-abuse-accusations-2000731339",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T17:30:58+00:00"
+    },
+    {
+      "guid": "GXoHbQ7Buyk5VD6wKQMTgd",
+      "title": "The Blood of Dawnwalker endings and how to get each one",
+      "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalker-endings/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T17:31:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068219",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Crossing $900M U.S. Today, 2nd Pic To Hit Rare Milestone; \u2018By Any Means\u2019 $725K In Previews \u2013 Box Office",
+      "url": "https://deadline.com/2026/09/box-office-spider-man-brand-new-day-record-by-any-means-1237068219/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T17:50:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851017",
+      "title": "\u2018Wheel of Fortune\u2019 Announcer Jim Thornton Allegedly Visited Pedophilia Chatroom, Leading to Suspension",
+      "url": "https://variety.com/2026/tv/news/wheel-of-fortune-jim-thornton-pedophilia-chatroom-suspension-1236851017/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T17:42:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851810",
+      "title": "Mellody Hobson Tears Up Talking About Why Husband George Lucas Was Unwilling to Compromise on Lucas Museum of Narrative Art: \u2018I Saw Genius Work\u2019",
+      "url": "https://variety.com/2026/film/columns/mellody-hobson-tears-up-husband-george-lucas-lucas-museum-1236851810/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T17:42:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851794",
+      "title": "Dolly Parton Gets New Hollywood Walk of Fame Star After Original Was Vandalized Following Her Death",
+      "url": "https://variety.com/2026/music/news/dolly-parton-new-hollywood-walk-of-fame-star-1236851794/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-04T17:37:27+00:00"
+    },
+    {
+      "guid": "G5FxBXdEnZCyY24NFmFnSa",
+      "title": "FromSoftware's first-ever player romance builds on \"the maidens in Elden Ring,\" says Hidetaka Miyazaki: \"It's a transient, ephemeral love, which is maybe a motif I'm striving for\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/fromsoftwares-first-ever-player-romance-builds-on-the-maidens-in-elden-ring-says-hidetaka-miyazaki-its-a-transient-ephemeral-love-which-is-maybe-a-motif-im-striving-for/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T17:46:12+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122426",
+      "title": "Halloween Super Mario and Rosalina Merchandise Debuts in Japan",
+      "url": "https://www.siliconera.com/halloween-super-mario-and-rosalina-merchandise-debuts-in-japan/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1075837",
+      "title": "Double Fine Productions announces chaotic bus driving game Thank You Bus Driver for PC",
+      "url": "https://www.gematsu.com/2026/09/double-fine-productions-announces-chaotic-bus-driving-game-thank-you-bus-driver-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T17:50:22+00:00"
+    },
+    {
+      "guid": "t3_1w7ba4z",
+      "title": "Nash Weedle: Zelda Ocarina of Time Remake previews will take place around the week of September 14",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w7ba4z/nash_weedle_zelda_ocarina_of_time_remake_previews/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-04T17:41:44+00:00"
     }
   ]
 }
