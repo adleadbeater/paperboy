@@ -1163,14 +1163,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "51447ba3-beb7-4959-acbd-b92165e5625b",
-      "title": "14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct",
-      "url": "https://www.ign.com/articles/14-predictions-for-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-05T00:10:18+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236849120",
       "title": "Venice: \u2018My Undesirable Friends\u2019 Director on Epic Documentary About Death of Press Freedom in Russia, How Putin\u2019s Crackdown Is Warning for U.S.",
       "url": "https://variety.com/2026/film/global/venice-my-undesirable-friends-documentary-press-freedom-russia-1236849120/",
@@ -1193,6 +1185,86 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-05T03:33:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237063597",
+      "title": "\u2018Elsinore\u2019 Review: Andrew Scott Is Heartbreakingly Great As AIDS-Stricken Star Determined To Play \u2018Hamlet\u2019 \u2013 Telluride Film Festival",
+      "url": "https://deadline.com/2026/09/elsinore-review-andrew-scott-movie-1237063597/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T05:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236852070",
+      "title": "\u2018Elsinore\u2019 Review: Andrew Scott Is Powerfully Moving as Ian Charleson, the \u2018Chariots of Fire\u2019 Star Who Played Hamlet While Ravaged by AIDS",
+      "url": "https://variety.com/2026/film/reviews/elsinore-review-andrew-scott-1236852070/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T05:00:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851343",
+      "title": "Spain\u2019s Impulse Cinema and Italy\u2019s Fandango Forge Strategic Partnership to Boost Co-Production and Sales Opportunities (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/impulse-cinema-fandango-partnership-production-1236851343/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T05:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851681",
+      "title": "\u2018The Echo Chamber\u2019 Starring Alicia Vikander Seals International Distribution Deals Ahead of Venice Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/echo-chamber-alicia-vikander-international-sales-1236851681/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T05:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236844960",
+      "title": "Impact of War in Iran Set to Feature in Two Venice Film Festival Dramas",
+      "url": "https://variety.com/2026/film/global/war-in-iran-venice-film-festival-1236844960/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T04:55:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236848694",
+      "title": "\u2018The Idiot(s)\u2019 Review: Dostoevsky Is an Endearing Drunken Fool in This Rambunctious, Tonally Off-Kilter Two-Hander",
+      "url": "https://variety.com/2026/film/news/the-idiots-review-1236848694/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T04:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236690579",
+      "title": "\u2018Elsinore\u2019 Review: Andrew Scott Is Shattering as British Actor Ian Charleson, Throwing Himself Into Playing Hamlet While Succumbing to AIDS",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/elsinore-review-andrew-scott-ian-charleson-olivia-colman-1236690579/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T05:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236681228",
+      "title": "\u2018The Idiot(s)\u2019 Review: Aimee Lou Wood and Johnny Flynn Sparkle in a Playful, Indulgent Tribute to Fyodor Dostoevsky\u2019s Underappreciated Wife",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-idiots-review-aimee-lou-wood-johnny-flynn-dostoevsky-1236681228/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T04:30:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/news-digest-for-september-4-2026.720560/",
+      "title": "News Digest for September 3, 2026",
+      "url": "https://www.enworld.org/threads/news-digest-for-september-4-2026.720560/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-09-05T04:52:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/",
+      "title": "Diamond bankruptcy settlement hits snag as Sparkle Pop files objection",
+      "url": "https://www.enworld.org/threads/diamond-bankruptcy-settlement-hits-snag-as-sparkle-pop-files-objection.720559/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-09-05T04:34:00+00:00"
     }
   ]
 }
