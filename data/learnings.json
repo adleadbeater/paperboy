@@ -1189,22 +1189,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "c67e7350-9ddc-4980-b12f-9260d7254078",
-      "title": "Primetime Review",
-      "url": "https://www.ign.com/articles/primetime-movie-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-05T18:17:37+00:00"
-    },
-    {
-      "guid": "g69tJCzWcMRjUvGP23uGre",
-      "title": "8-year Old School RuneScape saga comes to a close with former dev sentenced for stealing $400K in gold and items from players",
-      "url": "https://www.pcgamer.com/games/mmo/8-year-old-school-runescape-saga-comes-to-a-close-with-former-dev-sentenced-for-stealing-usd400k-in-gold-and-items-from-players/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-05T18:10:16+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236852682",
       "title": "Telluride Toasts Andrew Haigh as \u2018A Long Winter\u2019 Hands Fred Hechinger and Caitr\u00edona Balfe Awards-Worthy Roles",
       "url": "https://variety.com/2026/film/awards/andrew-haigh-a-long-winter-telluride-oscars-1236852682/",
@@ -1213,28 +1197,12 @@
       "published_dt": "2026-09-05T18:34:34+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236852747",
-      "title": "Kid Cudi Defends Kanye West After Ending Feud: Kanye \u2018Apologized and It Was Sincere\u2019 After Antisemitic Outbursts",
-      "url": "https://variety.com/2026/music/news/kid-cudi-kanye-west-end-feud-antisemitic-1236852747/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-05T18:18:34+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236691197",
       "title": "Telluride: Danny Boyle, Jack O\u2019Connell and James Graham on \u2018Ink,\u2019 Rupert Murdoch and MAGA (Exclusive)",
       "url": "https://www.hollywoodreporter.com/movies/movie-features/telluride-danny-boyle-jack-oconnell-james-graham-ink-maga-1236691197/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-05T18:35:42+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236691960",
-      "title": "Johnny Flynn and Aimee Lou Wood on \u201cGetting Whipped Naked\u201d and \u201cEmbracing the Madness\u201d of Their Deranged Literary Biopic",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/the-idiots-johnny-flynn-aimee-lou-wood-exclusive-1236691960/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-05T18:12:35+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1754860",
@@ -1251,46 +1219,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-05T18:25:51+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754864",
-      "title": "IVE\u2019s An Yu Jin to Join Hong Kong Concert Seated Due to Knee Injury",
-      "url": "https://otakukart.com/ives-an-yu-jin-to-join-hong-kong-concert-seated-due-to-knee-injury/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-05T18:23:27+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754874",
-      "title": "Kwak Si Yang and Lovelyz\u2019s Yoo Jiae Announce November Marriage",
-      "url": "https://otakukart.com/kwak-si-yang-and-lovelyzs-yoo-jiae-announce-november-marriage/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-05T18:20:36+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754870",
-      "title": "THE BOYZ\u2019s Q Signs Exclusive Acting Contract with Jun Ji Hyun\u2019s PEACHY Company",
-      "url": "https://otakukart.com/the-boyzs-q-signs-exclusive-acting-contract-with-jun-ji-hyuns-peachy-company/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-05T18:16:34+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754866",
-      "title": "BAE173 Members Muzin, Junseo, and Youngseo Join Orca Music to Launch New Boy Group",
-      "url": "https://otakukart.com/bae173-members-muzin-junseo-and-youngseo-join-orca-music-to-launch-new-boy-group/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-05T18:13:04+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754868",
-      "title": "IU Prepares for Music Comeback with Unexpected Teaser Drop",
-      "url": "https://otakukart.com/iu-prepares-for-music-comeback-with-unexpected-teaser-drop/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-05T18:08:45+00:00"
     },
     {
       "guid": "D7J4x9sWhPoSUhZvovnWmi",
@@ -1331,6 +1259,54 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-05T20:20:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068524",
+      "title": "Telluride Film Festival 2026: Read All Of Deadline\u2019s Reviews",
+      "url": "https://deadline.com/2026/09/telluride-film-festival-2026-reviews-deadline-1237068524/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T22:17:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845853",
+      "title": "Liam and Noel Gallagher Raise Fists and Electrify Venice as Oasis Doc Gets 8-Minute Standing Ovation",
+      "url": "https://variety.com/2026/film/festivals/oasis-documentary-premiere-liam-noel-gallagher-venice-ovation-1236845853/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T22:08:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236690586",
+      "title": "Liam and Noel Gallagher Lock Arms at Venice Premiere of \u2018Oasis: Don\u2019t Look Back in Anger\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/liam-noel-gallagher-venice-oasis-dont-look-back-in-anger-1236690586/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T22:21:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236691991",
+      "title": "\u2018Primetime\u2019: Robert Pattinson Earns Raves as Chris Hansen \u2014 Here\u2019s What Critics Are Saying",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/primetime-robert-pattinson-review-roundup-critics-a24-1236691991/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T22:15:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236692009",
+      "title": "Jeff Zucker on His Venice Film Festival Debut for A24\u2019s \u2018Primetime\u2019: \u201cThis Is Very Surreal\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jeff-zucker-primetime-cameo-robert-pattinson-chris-hansen-1236692009/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T21:52:17+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205966",
+      "title": "Need More Resident Evil? This Manga Will Bring an All-Star Ensemble to Print",
+      "url": "https://www.pushsquare.com/news/2026/09/need-more-resident-evil-this-manga-will-bring-an-all-star-ensemble-to-print",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-05T23:15:00+00:00"
     }
   ]
 }
