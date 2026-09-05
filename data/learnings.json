@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "EA Responds to Iron Man Gameplay Leak: \"Well, That Didn't Go as Planned\"",
-      "tag": "iron man (ea)",
-      "posted_at": "2026-08-29T15:00:47.611472+00:00",
-      "urls": [
-        "https://www.eurogamer.net/ea-motive-iron-man-leak-response-tweet"
-      ],
-      "article_titles": [
-        "EA breaks its silence after Iron Man gameplay leak, admitting \"well, that didn't go as planned\""
-      ]
-    },
-    {
-      "headline": "GTA 6 Gameplay Reveal Peaked at 3.97 Million Twitch Viewers, Crushing the Competition",
-      "tag": "gta 6",
-      "posted_at": "2026-08-29T15:00:47.716653+00:00",
-      "urls": [
-        "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix"
-      ],
-      "article_titles": [
-        "GTA 6's gameplay reveal pulled in 3.97 million peak viewers, overwhelming Twitch and Netflix in the process"
-      ]
-    },
-    {
       "headline": "Mike Judge Is Wresting Beavis and Butt-Head Away From Paramount",
       "tag": "beavis and butt-head",
       "posted_at": "2026-08-29T18:57:11.834430+00:00",
@@ -1157,6 +1135,32 @@
         "Spider-Noir canceled after one season at Prime Video despite receiving 11 Emmy nominations",
         "\u2018Spider-Noir\u2019 Canceled by Prime Video After One Season"
       ]
+    },
+    {
+      "headline": "Bungie Is Looking to Sublease Much of Its Massive Seattle HQ After Gutting Its Workforce",
+      "tag": "bungie",
+      "posted_at": "2026-09-05T16:00:45.364039+00:00",
+      "urls": [
+        "https://kotaku.com/bungie-is-exploring-subleasing-parts-of-its-massive-210984-sq-ft-studio-after-laying-off-more-than-600-people-in-just-three-years-2000731541",
+        "https://kotaku.com/bungie-is-exploring-subleasing-parts-of-its-massive-210984-sq-ft-studio-after-laying-off-more-than-600-people-in-just-three-years-2000731541"
+      ],
+      "article_titles": [
+        "Bungie Is \u2018Exploring\u2019 Subleasing Parts Of Its Massive 210,984 Sq. Ft. Studio After Laying Off More Than 600 People In Just Three Years",
+        "Bungie Is \u2018Exploring\u2019 Subleasing Parts Of Its Massive 210,984 Sq. Ft. Studio After Laying Off More Than 600 People In Just Three Years"
+      ]
+    },
+    {
+      "headline": "Sony Clarifies: PlayStation Physical Disc Production Is Falling by 10 Percent in 2028, Not to 10 Percent",
+      "tag": "playstation",
+      "posted_at": "2026-09-05T16:00:45.469337+00:00",
+      "urls": [
+        "https://www.eurogamer.net/sony-playstation-disc-production-10-percent-decline-not-90",
+        "https://www.eurogamer.net/sony-playstation-disc-production-10-percent-decline-not-90"
+      ],
+      "article_titles": [
+        "Sony clarifies PlayStation disc production is dropping by 10 percent in 2028, not to 10 percent",
+        "Sony clarifies PlayStation disc production is dropping by 10 percent in 2028, not to 10 percent"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1369,6 +1373,46 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-05T15:03:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068829",
+      "title": "Director Matt Dougherty, E.P. Jane Campion Explore Riveting \u201cAnti-Guru\u201d U.G. Krishnamurti In \u2018The Natural State\u2019 \u2013 Telluride Film Festival",
+      "url": "https://deadline.com/2026/09/the-natural-states-interview-jane-campion-matt-dougherty-1237068829/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068890",
+      "title": "Robin Morgan Dies: Former Ms. Magazine Editor, Women\u2019s Media Center Co-Founder With Jane Fonda & Gloria Steinem Was 85",
+      "url": "https://deadline.com/2026/09/robin-morgan-dead-1237068890/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T15:56:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068888",
+      "title": "\u2018Primetime\u2019: What The Critics Are Saying About A24\u2019s Chris Hansen Movie Starring Robert Pattinson",
+      "url": "https://deadline.com/2026/09/primetime-reviews-reaction-robert-pattinson-a24-film-1237068888/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T15:54:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236691340",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Topping Box Office for Sixth Weekend in a Row",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T15:48:04+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1754876",
+      "title": "BLACKPINK\u2019s Lisa Speaks Candidly on Industry Pressures, Dating, and Independence",
+      "url": "https://otakukart.com/blackpinks-lisa-speaks-candidly-on-industry-pressures-dating-and-independence/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-05T15:44:10+00:00"
     }
   ]
 }
