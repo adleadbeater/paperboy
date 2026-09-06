@@ -1189,38 +1189,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236852682",
-      "title": "Telluride Toasts Andrew Haigh as \u2018A Long Winter\u2019 Hands Fred Hechinger and Caitr\u00edona Balfe Awards-Worthy Roles",
-      "url": "https://variety.com/2026/film/awards/andrew-haigh-a-long-winter-telluride-oscars-1236852682/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-05T18:34:34+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236691197",
-      "title": "Telluride: Danny Boyle, Jack O\u2019Connell and James Graham on \u2018Ink,\u2019 Rupert Murdoch and MAGA (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/telluride-danny-boyle-jack-oconnell-james-graham-ink-maga-1236691197/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-05T18:35:42+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754860",
-      "title": "Kim Ji Woong Confirmed to Star in Upcoming Police Investigation Drama \u201cSiren\u201d",
-      "url": "https://otakukart.com/kim-ji-woong-confirmed-to-star-in-upcoming-police-investigation-drama-siren/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-05T18:29:50+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1754872",
-      "title": "So Ji Sub Reveals Multi-City \u201cSoulmate The Timeless\u201d Fan Meeting Tour",
-      "url": "https://otakukart.com/so-ji-sub-reveals-multi-city-soulmate-the-timeless-fan-meeting-tour/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-05T18:25:51+00:00"
-    },
-    {
       "guid": "D7J4x9sWhPoSUhZvovnWmi",
       "title": "Peak studio Aggro Crab is publishing a sick-looking platformer about a blue collar guy doing dirty work on an alien world",
       "url": "https://www.pcgamer.com/games/action/peak-studio-aggro-crab-is-publishing-a-sick-looking-platformer-about-a-blue-collar-guy-doing-dirty-work-on-an-alien-world/",
@@ -1307,6 +1275,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-05T23:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849746",
+      "title": "Creative Arts Emmy Awards: Winners List (Updating Live)",
+      "url": "https://variety.com/2026/artisans/news/creative-arts-emmy-awards-winners-list-night-one-1236849746/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-05T23:40:00+00:00"
+    },
+    {
+      "guid": "t3_1w8gcgr",
+      "title": "DanielRPK: First trailer for The Legend of Zelda movie releases next week",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w8gcgr/danielrpk_first_trailer_for_the_legend_of_zelda/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-05T23:47:50+00:00"
     }
   ]
 }
