@@ -1189,28 +1189,60 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237069341",
-      "title": "Mel Gibson Says \u2018The Resurrection\u2019 Will Flesh Out Gaps In The Gospels",
-      "url": "https://deadline.com/2026/09/mel-gibson-the-resurrection-gospels-story-gaps-1237069341/",
+      "guid": "7dec25fb-f148-4466-940f-233024ff70be",
+      "title": "Lanterns Season 1, Episode 4 Review & Recap: \"The Weenie\"",
+      "url": "https://www.ign.com/articles/lanterns-season-1-episode-4-review-recap-the-weenie",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T14:00:00+00:00"
+    },
+    {
+      "guid": "LoFpgLsWxyp5Me6YVDFnKX",
+      "title": "I never thought a fishing sim could be this fun, but How to Fish proves me wrong with its ridiculous physics, killer spider crabs, and classic co-op chaos",
+      "url": "https://www.pcgamer.com/games/sim/i-never-thought-a-fishing-sim-could-be-this-fun-but-how-to-fish-proves-me-wrong-with-its-ridiculous-physics-killer-spider-crabs-and-classic-co-op-chaos/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237069433",
+      "title": "Telluride\u2019s Surprise Movie Sparks Industry Guessing Game As Studio Buyer Emerges \u2014 The Dish",
+      "url": "https://deadline.com/2026/09/telluride-surprise-movie-sparks-guessing-game-studio-buyer-1237069433/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-06T04:03:02+00:00"
+      "published_dt": "2026-09-06T14:04:23+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236688874",
-      "title": "\u2018A Tale of Two Cities\u2019 Review: Kit Harington Has Done Far, Far Better Things Than This Bland MGM+ Dickens Adaptation",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/a-tale-of-two-cities-review-kit-harington-mgm-dickens-1236688874/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236692303",
+      "title": "Cristian Mungiu Is Glad You\u2019re Arguing About \u2018Fjord.\u2019 Just Don\u2019t Assume His Politics",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/cristian-mungiu-fjord-telluride-feature-1236692303/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-06T03:43:17+00:00"
+      "published_dt": "2026-09-06T14:20:07+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236852836",
-      "title": "Wim Wenders on Why He Made a Documentary About Architect Peter Zumthor, and How Brad Pitt Helped Get It Made",
-      "url": "https://variety.com/2026/film/global/wim-wenders-peter-zumthor-venice-1236852836/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T05:00:00+00:00"
+      "guid": "mzzSkjoHCsjmrmThaLyvBJ",
+      "title": "After Persona 3 Reload, Atlus \"put all the effort into making a full remake\" of Persona 4 Golden: \"Let's take all the lessons we learned\"",
+      "url": "https://www.gamesradar.com/games/persona/after-persona-3-reload-atlus-put-all-the-effort-into-making-a-full-remake-of-persona-4-golden-lets-take-all-the-lessons-we-learned/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-06T13:58:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205974",
+      "title": "Preview: I Still Can't Believe This Insanely Ambitious PS5 Open World Is Real",
+      "url": "https://www.pushsquare.com/previews/i-still-cant-believe-this-insanely-ambitious-ps5-open-world-is-real",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-06T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=618995",
+      "title": "D&D: Dealing With Demonic Undead? It\u2019s Gotta Be Orcus \u2013 The Lore Of The Demon Prince of Undeath",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-dealing-with-demonic-undead-its-gotta-be-orcus-the-lore-of-the-demon-prince-of-undeath.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-06T14:00:00+00:00"
     }
   ]
 }
