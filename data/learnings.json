@@ -1189,62 +1189,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "7dec25fb-f148-4466-940f-233024ff70be",
-      "title": "Lanterns Season 1, Episode 4 Review & Recap: \"The Weenie\"",
-      "url": "https://www.ign.com/articles/lanterns-season-1-episode-4-review-recap-the-weenie",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T14:00:00+00:00"
-    },
-    {
-      "guid": "LoFpgLsWxyp5Me6YVDFnKX",
-      "title": "I never thought a fishing sim could be this fun, but How to Fish proves me wrong with its ridiculous physics, killer spider crabs, and classic co-op chaos",
-      "url": "https://www.pcgamer.com/games/sim/i-never-thought-a-fishing-sim-could-be-this-fun-but-how-to-fish-proves-me-wrong-with-its-ridiculous-physics-killer-spider-crabs-and-classic-co-op-chaos/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237069433",
-      "title": "Telluride\u2019s Surprise Movie Sparks Industry Guessing Game As Studio Buyer Emerges \u2014 The Dish",
-      "url": "https://deadline.com/2026/09/telluride-surprise-movie-sparks-guessing-game-studio-buyer-1237069433/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T14:04:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236692303",
-      "title": "Cristian Mungiu Is Glad You\u2019re Arguing About \u2018Fjord.\u2019 Just Don\u2019t Assume His Politics",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/cristian-mungiu-fjord-telluride-feature-1236692303/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T14:20:07+00:00"
-    },
-    {
-      "guid": "mzzSkjoHCsjmrmThaLyvBJ",
-      "title": "After Persona 3 Reload, Atlus \"put all the effort into making a full remake\" of Persona 4 Golden: \"Let's take all the lessons we learned\"",
-      "url": "https://www.gamesradar.com/games/persona/after-persona-3-reload-atlus-put-all-the-effort-into-making-a-full-remake-of-persona-4-golden-lets-take-all-the-lessons-we-learned/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-06T13:58:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-205974",
-      "title": "Preview: I Still Can't Believe This Insanely Ambitious PS5 Open World Is Real",
-      "url": "https://www.pushsquare.com/previews/i-still-cant-believe-this-insanely-ambitious-ps5-open-world-is-real",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=618995",
-      "title": "D&D: Dealing With Demonic Undead? It\u2019s Gotta Be Orcus \u2013 The Lore Of The Demon Prince of Undeath",
-      "url": "https://www.belloflostsouls.net/2026/09/dd-dealing-with-demonic-undead-its-gotta-be-orcus-the-lore-of-the-demon-prince-of-undeath.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-09-06T14:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000731676",
       "title": "Marvel\u2019s Wolverine Ending Leaks Online In Final Stretch Ahead Of Launch",
       "url": "https://kotaku.com/marvels-wolverine-ending-leaks-online-in-final-stretch-ahead-of-launch-2000731676",
@@ -1307,6 +1251,62 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-06T16:55:22+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000731690",
+      "title": "Buddy The Unicorn Kicked Out Of Universal Studios\u2019 Halloween Horror Nights",
+      "url": "https://kotaku.com/buddy-the-unicorn-kicked-out-of-universal-studios-halloween-horror-nights-2000731690",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T19:00:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237069582",
+      "title": "Oprah Moderates Convo For \u2018Everest: The Other Side,\u2019 Reveals If She Plans To Scale World\u2019s Tallest Mountain \u2013 Telluride Film Festival",
+      "url": "https://deadline.com/2026/09/everest-the-other-side-oprah-winfrey-telluride-qa-1237069582/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T18:58:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236853409",
+      "title": "Macklemore Calls Out \u2018Free Palestine\u2019 Onstage, Spurring Petition Demanding He Leave Ed Sheeran Tour",
+      "url": "https://variety.com/2026/music/news/macklemore-free-palestine-onstage-petition-ed-sheeran-1236853409/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T18:49:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236691754",
+      "title": "\u2018Mr. Nelson, Did You Kill People?\u2019 Review: A Vietnam Vet Reckons with PTSD in a Heavy-Handed Trauma Drama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/mr-nelson-did-you-kill-people-review-shinya-tsukamoto-1236691754/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T19:01:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236692357",
+      "title": "Telluride: The \u2018Wild Horse Nine\u2019 Team on Blending Genres, Shooting on Location and John Malkovich\u2019s Oscar Buzz",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/telluride-wild-horse-nine-team-interview-mcdonagh-malkovich-1236692357/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T18:46:40+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122203",
+      "title": "The Hanaori-san Still Wants to Fight in the Next Life Anime Adaptation Is Hilarious",
+      "url": "https://www.siliconera.com/the-hanaori-san-still-wants-to-fight-in-the-next-life-anime-adaptation-is-hilarious/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-06T19:00:00+00:00"
+    },
+    {
+      "guid": "t3_1w95eu9",
+      "title": "Digital Foundry corroborates Windows Central's report about the supply chain for disc based media falling apart. It's \"proving problematic\" for Microsoft to buy optical drives",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w95eu9/digital_foundry_corroborates_windows_centrals/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-06T19:19:03+00:00"
     }
   ]
 }
