@@ -1189,28 +1189,60 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237068778",
-      "title": "Betty Gilpin Recites \u201cManic Poem\u201d To Accept First Emmy For \u2018Widow\u2019s Bay\u2019: \u201cLet\u2019s All Lean Towards Sam Shepard & Less Toward Sam Altman\u201d",
-      "url": "https://deadline.com/2026/09/betty-gilpin-emmy-winner-widows-bay-sarah-speech-sam-altman-1237068778/",
+      "guid": "5d8cca46-a419-42d7-9949-af06f5e2cfbc",
+      "title": "The Secretlab Labor Day Sale Has Big Discounts on Its Titan Gaming Chairs Including the Nanogen Edition",
+      "url": "https://www.ign.com/articles/secretlab-labor-day-sale-2026-best-deals-on-titan-gaming-chairs",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-07T16:15:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ancestors-humankind-odyssey-sequel-patrice-desilets",
+      "title": "Patrice D\u00e9silets vows to make a sequel to Ancestors: The Humankind Odyssey",
+      "url": "https://www.eurogamer.net/ancestors-humankind-odyssey-sequel-patrice-desilets",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-07T16:12:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237069894",
+      "title": "\u2018South Park\u2019 Trolls Donald Trump After Winning First Animated Program Emmy In 13 Years",
+      "url": "https://deadline.com/2026/09/south-park-trolls-donald-trump-emmy-win-animated-program-1237069894/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-07T03:43:02+00:00"
+      "published_dt": "2026-09-07T16:17:07+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1075973",
-      "title": "The Exit 8 sales top three million",
-      "url": "https://www.gematsu.com/2026/09/the-exit-8-sales-top-three-million",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-07T04:06:04+00:00"
+      "guid": "https://variety.com/?p=1236854137",
+      "title": "Betty Gilpin Jabs at Sam Altman During \u2018Manic Poem\u2019 Acceptance Speech at the Emmys",
+      "url": "https://variety.com/2026/tv/news/betty-gilpin-sam-altman-acceptance-speech-emmys-1236854137/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-07T16:35:54+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1075957",
-      "title": "Kemco announces TGS 2026 lineup",
-      "url": "https://www.gematsu.com/2026/09/kemco-announces-tgs-2026-lineup",
+      "guid": "https://variety.com/?p=1236854139",
+      "title": "Film Industry Leaders Demand Structural Fix for Gender Gap at Lumiere Summit",
+      "url": "https://variety.com/2026/film/news/lumiere-summit-gender-panel-safer-sets-women-film-1236854139/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-07T16:22:34+00:00"
+    },
+    {
+      "guid": "pHBFkbYGDpWhwaBGQFqH7B",
+      "title": "Final Fantasy 7 Revelation director personally vetoed having to unlock new jobs for each character throughout the game",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-director-personally-vetoed-having-to-unlock-new-jobs-for-each-character-throughout-the-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-07T16:30:48+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1076179",
+      "title": "Beyond the Dark: Nightwatch launches October 22",
+      "url": "https://www.gematsu.com/2026/09/beyond-the-dark-nightwatch-launches-october-22",
       "source_name": "Gematsu",
       "source_tier": 2,
-      "published_dt": "2026-09-07T03:40:49+00:00"
+      "published_dt": "2026-09-07T16:11:22+00:00"
     }
   ]
 }
