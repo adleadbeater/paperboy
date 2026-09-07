@@ -1189,46 +1189,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000731690",
-      "title": "Buddy The Unicorn Kicked Out Of Universal Studios\u2019 Halloween Horror Nights",
-      "url": "https://kotaku.com/buddy-the-unicorn-kicked-out-of-universal-studios-halloween-horror-nights-2000731690",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T19:00:57+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237069582",
-      "title": "Oprah Moderates Convo For \u2018Everest: The Other Side,\u2019 Reveals If She Plans To Scale World\u2019s Tallest Mountain \u2013 Telluride Film Festival",
-      "url": "https://deadline.com/2026/09/everest-the-other-side-oprah-winfrey-telluride-qa-1237069582/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T18:58:28+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236691754",
-      "title": "\u2018Mr. Nelson, Did You Kill People?\u2019 Review: A Vietnam Vet Reckons with PTSD in a Heavy-Handed Trauma Drama",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/mr-nelson-did-you-kill-people-review-shinya-tsukamoto-1236691754/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-06T19:01:02+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122203",
-      "title": "The Hanaori-san Still Wants to Fight in the Next Life Anime Adaptation Is Hilarious",
-      "url": "https://www.siliconera.com/the-hanaori-san-still-wants-to-fight-in-the-next-life-anime-adaptation-is-hilarious/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-06T19:00:00+00:00"
-    },
-    {
-      "guid": "t3_1w95eu9",
-      "title": "Digital Foundry corroborates Windows Central's report about the supply chain for disc based media falling apart. It's \"proving problematic\" for Microsoft to buy optical drives",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1w95eu9/digital_foundry_corroborates_windows_centrals/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-06T19:19:03+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000731698",
       "title": "Former Capcom Employee Says Western Studios Spend Too Much Time On Jira",
       "url": "https://kotaku.com/former-capcom-employee-says-western-studios-spend-too-much-time-on-jira-2000731698",
@@ -1283,6 +1243,62 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-06T22:24:45+00:00"
+    },
+    {
+      "guid": "dMTx9c5M7BDTg2BqpwKR6L",
+      "title": "The Tetris Company confirms it had nothing to do with the White House's racist rip-off: 'we believe in the power of connection and bringing people together, not dividing them'",
+      "url": "https://www.pcgamer.com/gaming-industry/the-tetris-company-confirms-it-had-nothing-to-do-with-the-white-houses-racist-rip-off-we-believe-in-the-power-of-connection-and-bringing-people-together-not-dividing-them/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T23:53:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237068823",
+      "title": "Korea\u2019s Finecut Sells Toronto Title \u2018Long Long Night\u2019 & July Jung\u2019s \u2018Dora\u2019 To Japan",
+      "url": "https://deadline.com/2026/09/toronto-cannes-long-long-night-dora-finecut-japan-1237068823/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236852405",
+      "title": "Tokyo Film Festival Adds Nippon Cinema Now Competition, Crosscut Asia+ Section, New Award Honoring Women in Film",
+      "url": "https://variety.com/2026/film/festivals/tokyo-film-festival-new-competition-award-honoring-women-1236852405/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236853161",
+      "title": "Hong Sangsoo\u2019s Locarno Winner \u2018Nowhere to Lay My Eyes\u2019 Anchors Wave of Sales Deals for Finecut Ahead of Toronto",
+      "url": "https://variety.com/2026/film/news/hong-sangsoonowhere-to-lay-my-eyes-finecut-sales-1236853161/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-07T00:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236853165",
+      "title": "Creative Arts Emmy Awards Night 2: Winners List (Updating Live)",
+      "url": "https://variety.com/2026/tv/news/emmy-awards-winners-list-night-two-creative-arts-1236853165/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T23:51:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236685041",
+      "title": "Creative Arts Emmys, Night Two: Winners List (Updating Live)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-two-1236685041/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-06T23:54:14+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205980",
+      "title": "Rumour: Killzone Project in Early Development, Probably a Remake",
+      "url": "https://www.pushsquare.com/news/2026/09/rumour-killzone-project-in-early-development-probably-a-remake",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-07T00:00:00+00:00"
     }
   ]
 }
