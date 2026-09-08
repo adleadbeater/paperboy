@@ -1189,52 +1189,36 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000730975",
-      "title": "World End Syndrome Has A Fascinating Story If You Can Get Past Its Frustrating Game Mechanics",
-      "url": "https://kotaku.com/world-end-syndrome-has-a-fascinating-story-if-you-can-get-past-its-frustrating-game-mechanics-2000730975",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-07T20:00:19+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065820",
-      "title": "Venice Film Festival 2026: Read All Of Deadline\u2019s Reviews",
-      "url": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-07T19:46:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070339",
-      "title": "Director Pawo Choyning Dorji, Cellist Yo-Yo Ma Team On \u2018A Song For The Snow Lion\u2019 Set In Himalayas Of Bhutan \u2013 Telluride Film Festival",
-      "url": "https://deadline.com/2026/09/a-song-for-the-snow-lion-interview-pawo-choyning-dorji-cellist-yo-yo-ma-1237070339/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-07T19:45:24+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070152",
-      "title": "Ellen Burstyn Talks Future Direction Of U.S. As She Receives Venice Career Award: \u201cI Pray My Country Finds Its White Line\u201d",
-      "url": "https://deadline.com/2026/09/ellen-burstyn-venice-lifetime-award-future-us-1237070152/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-07T19:45:18+00:00"
-    },
-    {
-      "guid": "UL9xAV94VoqcAPJUdnrZCc",
-      "title": "Total War: Warhammer 40K will include Traitor Guard \"causing trouble\" at launch, confirms dev",
-      "url": "https://www.gamesradar.com/games/total-war/total-war-warhammer-40k-traitor-guard-factions/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-07T20:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237070457",
       "title": "Andrew Garfield Hopes \u2018The Uprising\u2019 Makes Billionaires \u201cScared Sh*tless\u201d: \u201cThey\u2019re The Most Soul Sick\u201d",
       "url": "https://deadline.com/2026/09/andrew-garfield-hopes-uprising-billionaires-scared-shtless-1237070457/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-09-07T22:33:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236693499",
+      "title": "Macklemore Responds to Backlash Over \u201cFree Palestine\u201d Plea: \u201cWanting All Humans to Be Treated Equal Should Never Be Controversial\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-news/macklemore-responds-backlash-free-palestine-plea-ed-sheeran-1236693499/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T00:44:51+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/",
+      "title": "Castle Ravenloft returns, as board game get reprint from Renegade Games",
+      "url": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T00:21:00+00:00"
+    },
+    {
+      "guid": "t3_1wa9m86",
+      "title": "Ocarina of Time Remake's price has leaked: 94.95 AUD (or roughly 59.99 US dollars)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wa9m86/ocarina_of_time_remakes_price_has_leaked_9495_aud/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T00:43:51+00:00"
     }
   ]
 }
