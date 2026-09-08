@@ -1189,60 +1189,204 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237070550",
-      "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary \u2018You Can See Everything\u2019",
-      "url": "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550/",
+      "guid": "303da847-b70a-4c07-b6e8-d7bdb9904cd8",
+      "title": "Valheim Review",
+      "url": "https://www.ign.com/articles/valheim-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732117",
+      "title": "Some Big Companies Are Seemingly Opting Out Of Xbox\u2019s Disc-To-Digital Service",
+      "url": "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:26:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237070727",
+      "title": "Javier Bardem & Pen\u00e9lope Cruz Talk Playing Fictitious Arguing Couple In \u2018Bunker\u2019:  \u201cWe Are Very Good At Creating Fiction & Reality\u201d \u2013 Venice",
+      "url": "https://deadline.com/2026/09/javier-bardem-penelope-cruz-playing-couple-bunker-1237070727/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-08T03:51:27+00:00"
+      "published_dt": "2026-09-08T13:25:05+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236854182",
-      "title": "Serielizados Unveils Lineup\u00a0with \u2018Celeste\u2019 Season 2, Hagai Levi, Diane Morgan and the S\u00e1nchez-Cabezudo Brothers Series in Competition (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/serielizados-celeste-s2-killing-a-bear-hagai-levi-naked-1236854182/",
+      "guid": "https://deadline.com/?p=1237070733",
+      "title": "\u201960 Minutes\u2019 Gives A Peek At Story Lineup For Season Premiere Following Tumultuous Revamp",
+      "url": "https://deadline.com/2026/09/60-minutes-season-premiere-preview-iran-1237070733/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:16:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237069370",
+      "title": "\u2018Murdoch Mysteries\u2019 Maker Shaftesbury Hires Nataline Rodrigues In Creative Push",
+      "url": "https://deadline.com/2026/09/shaftesbury-hires-nataline-rodrigues-murdoch-mysteries-1237069370/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237070723",
+      "title": "John Turturro To Receive Zurich Film Festival\u2019s Golden Eye Award",
+      "url": "https://deadline.com/2026/09/john-turturro-zurich-film-festival-golden-eye-award-1237070723/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236853899",
+      "title": "Pen\u00e9lope Cruz Says It Would Be \u2018Very Contradictory\u2019 to Star in \u2018Bunker\u2019 and Refuse to Talk About Politics: It \u2018Involves So Many Aspects of Where the World Is Right Now\u2019",
+      "url": "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-speaking-out-politics-venice-1236853899/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-08T03:50:00+00:00"
+      "published_dt": "2026-09-08T13:17:34+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236693586",
-      "title": "Why Andrew Garfield Says Billionaires Should Be \u201cScared Sh**less\u201d by \u2018The Uprising\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-billionaires-scared-the-uprising-movie-1236693586/",
+      "guid": "https://variety.com/?p=1236853440",
+      "title": "Watch Brad Pitt Talk to Dogs in New De\u2019Longhi Espresso Maker Ad Campaign (EXCLUSIVE)",
+      "url": "https://variety.com/2026/biz/columns/brad-pitt-talk-dogs-delonghi-espresso-maker-ad-1236853440/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854540",
+      "title": "John Turturro to Receive Zurich Film Festival\u2019s Golden Eye Award",
+      "url": "https://variety.com/2026/film/global/john-turturro-zurich-film-festival-golden-eye-award-1236854540/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854667",
+      "title": "Stevie Wonder Announces \u2018Songs in the Key of Life\u2019 50th Anniversary Tour Dates",
+      "url": "https://variety.com/2026/music/news/stevie-wonder-songs-in-the-key-of-life-50th-anniversary-tour-dates-1236854667/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T12:58:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854656",
+      "title": "Tom Jones Alleges \u2018The Voice U.K.\u2019 Fired Him at 86 Years Old Due to \u2018Financial Difficulty With Insurance\u2019",
+      "url": "https://variety.com/2026/tv/global/tom-jones-the-voice-uk-fired-86-insurance-1236854656/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T12:57:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236693767",
+      "title": "Javier Bardem Feels a \u201cResponsibility\u201d to Speak Out on Political Issues: \u201cI Have You Guys Listening to Me\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/javier-bardem-penelope-cruz-bunker-politics-women-venice-1236693767/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-08T03:55:20+00:00"
+      "published_dt": "2026-09-08T13:20:52+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1076323",
-      "title": "Tang Dynasty-set turn-based RPG Tianji: Shadow of the Ancients announced for PS5, Switch 2, Switch, and PC",
-      "url": "https://www.gematsu.com/2026/09/tang-dynasty-set-turn-based-rpg-tianji-shadow-of-the-ancients-announced-for-ps5-switch-2-switch-and-pc",
+      "guid": "https://www.hollywoodreporter.com/?p=1236685759",
+      "title": "How to Write Chad Powers: Go With \u201cYour First, Stupidest Thought\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/chad-powers-season-3-preview-michael-waldron-glen-powell-1236685759/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:09:33+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236686499",
+      "title": "Inside \u2018DAU,\u2019 the 20-Year Soviet Simulation That Became Cinema\u2019s Strangest Ghost Story",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dau-venice-film-festival-ilya-khrzhanovsky-1236686499/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236691389",
+      "title": "Carly Rae Jepsen Could\u2019ve Been a One-Hit Wonder or a Mainstream Megastar. Instead, She Became Far More Interesting",
+      "url": "https://www.hollywoodreporter.com/music/music-features/carly-rae-jepsen-day-and-night-interview-1236691389/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236693726",
+      "title": "John Turturro \u201cGrateful\u201d to Zurich Film Festival for Golden Eye Award Honor",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/john-turturro-zurich-film-festival-golden-eye-pickpocket-1236693726/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "1877320",
+      "title": "Resident Evil Director Says He Won\u2019t Do A Franchise Movie Again",
+      "url": "https://www.gamespot.com/articles/resident-evil-director-says-he-wont-do-a-franchise-movie-again/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:01:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205675",
+      "title": "Preview: 'How Are Monsters Made?' & 5 Other Things I Learned Playing Dragon Quest Monsters: The Withered World",
+      "url": "https://www.nintendolife.com/previews/how-are-monsters-made-and-5-other-things-i-learned-playing-dragon-quest-monsters-the-withered-world",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206046",
+      "title": "Thousands Fooled by 'Insane' Sony Leak and Fake PS6 Reveal",
+      "url": "https://www.pushsquare.com/news/2026/09/thousands-fooled-by-insane-sony-leak-and-fake-ps6-reveal",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:15:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122294",
+      "title": "Legend of Zelda: Breath of the Wild Deluxe Double Vinyl Soundtrack Covers the Hits",
+      "url": "https://www.siliconera.com/legend-of-zelda-breath-of-the-wild-deluxe-double-vinyl-soundtrack-covers-the-hits/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206050",
+      "title": "\"I Was Determined To Breathe As Much Life Into The Population Of Britannia As Possible\" - The Ultima VII Team On Making The Epic RPG",
+      "url": "https://www.timeextension.com/news/2026/09/i-was-determined-to-breathe-as-much-life-into-the-population-of-britannia-as-possible-the-ultima-vii-team-on-making-the-epic-rpg",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206037",
+      "title": "The Original Super Mario RPG Has Been Modded With The Switch Remake's Special Features",
+      "url": "https://www.timeextension.com/news/2026/09/the-original-super-mario-rpg-has-been-modded-with-the-switch-remakes-special-features",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1076416",
+      "title": "Absolum coming to iOS, Android on November 5",
+      "url": "https://www.gematsu.com/2026/09/absolum-coming-to-ios-android-on-november-5",
       "source_name": "Gematsu",
       "source_tier": 2,
-      "published_dt": "2026-09-08T04:13:16+00:00"
+      "published_dt": "2026-09-08T13:09:07+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236854395",
-      "title": "Lumiere Declaration Sets 15 Principles for Global Film Governance, Calling Audience Attention \u2018a Trust to Be Honored, Not a Resource to Be Captured\u2019",
-      "url": "https://variety.com/2026/film/news/lumiere-declaration-global-film-governance-1236854395/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T05:17:36+00:00"
+      "guid": "https://otakukart.com/?p=1755326",
+      "title": "$8,000 PSA 10 One Piece Card Stolen From Pennsylvania Store as Police Search for Two Suspects",
+      "url": "https://otakukart.com/8000-psa-10-one-piece-card-stolen-from-pennsylvania-store-as-police-search-for-two-suspects/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:12:46+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236852825",
-      "title": "Inside the Restoration of Indian Cult Classic \u2018English, August,\u2019 Heading to Venice as Relevant as Ever (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/festivals/english-august-restoration-venice-indian-cult-classic-1236852825/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T05:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236853486",
-      "title": "Prada Foundation Film Fund Chief Paolo Moretti on First-Year Journey That Helped  Spawn Rubaiyat Hossain\u2019s Venice Horizons Entry \u2018The Difficult\u00a0Bride\u2019",
-      "url": "https://variety.com/2026/film/global/prada-film-fund-paolo-moretti-rubaiyat-venice-bride-1236853486/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T04:55:00+00:00"
+      "guid": "https://otakukart.com/?p=1755313",
+      "title": "Rockstar Lead Says GTA 6 Will Track Jason and Lucia\u2019s Sleep via In-Game Health App, Affecting Attribute Recovery",
+      "url": "https://otakukart.com/rockstar-lead-says-gta-6-will-track-jason-and-lucias-sleep-via-in-game-health-app-affecting-attribute-recovery/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T13:12:07+00:00"
     }
   ]
 }
