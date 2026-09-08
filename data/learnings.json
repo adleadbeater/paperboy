@@ -1189,30 +1189,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236693499",
-      "title": "Macklemore Responds to Backlash Over \u201cFree Palestine\u201d Plea: \u201cWanting All Humans to Be Treated Equal Should Never Be Controversial\u201d",
-      "url": "https://www.hollywoodreporter.com/music/music-news/macklemore-responds-backlash-free-palestine-plea-ed-sheeran-1236693499/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T00:44:51+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/",
-      "title": "Castle Ravenloft returns, as board game get reprint from Renegade Games",
-      "url": "https://www.enworld.org/threads/castle-ravenloft-returns-as-board-game-get-reprint-from-renegade-games.720596/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T00:21:00+00:00"
-    },
-    {
-      "guid": "t3_1wa9m86",
-      "title": "Ocarina of Time Remake's price has leaked: 94.95 AUD (or roughly 59.99 US dollars)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wa9m86/ocarina_of_time_remakes_price_has_leaked_9495_aud/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T00:43:51+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237070550",
       "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary \u2018You Can See Everything\u2019",
       "url": "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550/",
@@ -1243,6 +1219,30 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-08T04:13:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854395",
+      "title": "Lumiere Declaration Sets 15 Principles for Global Film Governance, Calling Audience Attention \u2018a Trust to Be Honored, Not a Resource to Be Captured\u2019",
+      "url": "https://variety.com/2026/film/news/lumiere-declaration-global-film-governance-1236854395/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T05:17:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236852825",
+      "title": "Inside the Restoration of Indian Cult Classic \u2018English, August,\u2019 Heading to Venice as Relevant as Ever (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/festivals/english-august-restoration-venice-indian-cult-classic-1236852825/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T05:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236853486",
+      "title": "Prada Foundation Film Fund Chief Paolo Moretti on First-Year Journey That Helped  Spawn Rubaiyat Hossain\u2019s Venice Horizons Entry \u2018The Difficult\u00a0Bride\u2019",
+      "url": "https://variety.com/2026/film/global/prada-film-fund-paolo-moretti-rubaiyat-venice-bride-1236853486/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T04:55:00+00:00"
     }
   ]
 }
