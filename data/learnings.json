@@ -1189,14 +1189,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237070457",
-      "title": "Andrew Garfield Hopes \u2018The Uprising\u2019 Makes Billionaires \u201cScared Sh*tless\u201d: \u201cThey\u2019re The Most Soul Sick\u201d",
-      "url": "https://deadline.com/2026/09/andrew-garfield-hopes-uprising-billionaires-scared-shtless-1237070457/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-07T22:33:26+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236693499",
       "title": "Macklemore Responds to Backlash Over \u201cFree Palestine\u201d Plea: \u201cWanting All Humans to Be Treated Equal Should Never Be Controversial\u201d",
       "url": "https://www.hollywoodreporter.com/music/music-news/macklemore-responds-backlash-free-palestine-plea-ed-sheeran-1236693499/",
@@ -1219,6 +1211,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-08T00:43:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237070550",
+      "title": "The Talk Of Telluride: Secret Screening Of Elizabeth Holmes Documentary \u2018You Can See Everything\u2019",
+      "url": "https://deadline.com/2026/09/elizabeth-holmes-documentary-you-can-see-everything-telluride-reaction-1237070550/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T03:51:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854182",
+      "title": "Serielizados Unveils Lineup\u00a0with \u2018Celeste\u2019 Season 2, Hagai Levi, Diane Morgan and the S\u00e1nchez-Cabezudo Brothers Series in Competition (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/serielizados-celeste-s2-killing-a-bear-hagai-levi-naked-1236854182/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T03:50:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236693586",
+      "title": "Why Andrew Garfield Says Billionaires Should Be \u201cScared Sh**less\u201d by \u2018The Uprising\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-billionaires-scared-the-uprising-movie-1236693586/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T03:55:20+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1076323",
+      "title": "Tang Dynasty-set turn-based RPG Tianji: Shadow of the Ancients announced for PS5, Switch 2, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/09/tang-dynasty-set-turn-based-rpg-tianji-shadow-of-the-ancients-announced-for-ps5-switch-2-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T04:13:16+00:00"
     }
   ]
 }
