@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Cyberpunk 2077 and 9 More Games Leaving Xbox Game Pass Soon",
-      "tag": "xbox game pass",
-      "posted_at": "2026-09-01T17:01:40.948882+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/xbox-game-pass-removes-cyberpunk-2077-and-9-other-games-very-soon/"
-      ],
-      "article_titles": [
-        "Xbox Game Pass Removes Cyberpunk 2077 And 9 Other Games Very Soon"
-      ]
-    },
-    {
       "headline": "Christopher Judge explains why he turned down the God of War TV show",
       "tag": "god of war",
       "posted_at": "2026-09-01T21:28:15.090812+00:00",
@@ -872,371 +861,22 @@
       "article_titles": [
         "Thousands Of Pok\u00e9mon TCG 30th Celebration Orders Suddenly Cancelled As Company Pushes Back Against Scalper Bots"
       ]
+    },
+    {
+      "headline": "Stellar Blade Dev's CTO Addresses AI Controversy After Blood Rain Music Video Fallout",
+      "tag": "stellar blade",
+      "posted_at": "2026-09-08T18:51:14.003970+00:00",
+      "urls": [
+        "https://www.ign.com/articles/shift-up-cto-clarifies-stellar-blade-developers-stance-on-ai-after-blood-rain-music-video-controversy"
+      ],
+      "article_titles": [
+        "Shift Up CTO Clarifies Stellar Blade Developer's Stance on AI After Blood Rain Music Video Controversy"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "7v9mLPjYAJL3wHW9qnqwxP",
-      "title": "Sources say another 10% price increase for Intel CPUs is on the way, and it could be here as soon as October",
-      "url": "https://www.pcgamer.com/hardware/processors/sources-say-another-10-percent-price-increase-for-intel-cpus-is-on-the-way-and-it-could-be-here-as-soon-as-october/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T13:31:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066939",
-      "title": "MS NOW Entering DTC Era With Launch Of Membership Program And Dedicated Streaming Outlet",
-      "url": "https://deadline.com/2026/09/ms-now-launches-memberships-streaming-1237066939/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070751",
-      "title": "Cornerstone Boards Sports Comedy \u2018Hot Curlers\u2019 With June Squibb, Linda Hamilton, Jayne Eastwood & Caroline Aaron \u2013 Toronto",
-      "url": "https://deadline.com/2026/09/cornerstone-hot-curlers-june-squibb-linda-hamilton-toronto-1237070751/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070767",
-      "title": "CNN To Host Debate Between California Gubernatorial Candidates Xavier Becerra And Steve Hilton",
-      "url": "https://deadline.com/2026/09/cnn-debate-steve-hilton-xavier-becerra-california-governor-1237070767/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T13:30:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236854582",
-      "title": "June Squibb, Linda Hamilton, Caroline Aaron and Jayne Eastwood Team for New Zealand Sports Comedy \u2018Hot Curlers\u2019",
-      "url": "https://variety.com/2026/film/global/june-squibb-linda-hamilton-sports-comedy-hot-curlers-1236854582/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236854600",
-      "title": "MS NOW\u2019s New \u2018Membership\u2019 Service Lets Users Talk to Rachel Maddow, \u2018Morning Joe\u2019",
-      "url": "https://variety.com/2026/tv/news/ms-nows-subscription-launch-interactive-talk-rachel-maddow-1236854600/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236854605",
-      "title": "Documentary About Formula One World Champion Niki Lauda to Be Directed by James Erskine, WestEnd Films Handling World Sales",
-      "url": "https://variety.com/2026/film/global/niki-lauda-documentary-james-erskine-westend-films-1236854605/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236693715",
-      "title": "German Police Rush to Prevent an Islamic Terror Attack in \u2018Blindspot Berlin\u2019 (Exclusive Trailer)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/blindspot-berlin-trailer-tiff-2026-beta-film-1236693715/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "79uXjc4xuS2eVhk3Mq6TLm",
-      "title": "A new Lanterns theory suggests that Hal Jordan might not be dead after all, and it's all down to Zoe",
-      "url": "https://www.gamesradar.com/entertainment/dc-tv-shows/a-new-lanterns-theory-suggests-that-hal-jordan-might-not-be-dead-after-all-and-its-all-down-to-zoe/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T13:44:21+00:00"
-    },
-    {
-      "guid": "7Ds3yVgWpbGaBh7vCBHLgX",
-      "title": "Here's Replay's August winners: some comforting words in Call of Duty and a flying Red Dead gator",
-      "url": "https://www.gamesradar.com/games/third-person-shooter/heres-replays-august-winners-some-comforting-words-in-call-of-duty-and-a-flying-red-dead-gator/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T13:41:09+00:00"
-    },
-    {
-      "guid": "1877337",
-      "title": "EA Used AI To Clone John Buccigross\u2019 Voice In NHL 27",
-      "url": "https://www.gamespot.com/articles/ea-used-ai-to-clone-john-buccigross-voice-in-nhl-27/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T13:46:32+00:00"
-    },
-    {
-      "guid": "1877304",
-      "title": "The Legend of Zelda 40th Anniversary Direct: All The Biggest Announcements",
-      "url": "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-all-the-biggest-announcements/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T13:45:08+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122516",
-      "title": "Atelier Karia Release Date Falls in February",
-      "url": "https://www.siliconera.com/atelier-karia-release-date-falls-in-february/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-205915",
-      "title": "\"We Take Copyright Infringement Very Seriously\" - White House Removes 'Build The Wall' Game Following Statement From The Tetris Company",
-      "url": "https://www.timeextension.com/news/2026/09/we-take-copyright-infringement-very-seriously-white-house-removes-build-the-wall-game-following-statement-from-the-tetris-company",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T13:45:00+00:00"
-    },
-    {
-      "guid": "b35ac5f0-794e-4cbd-8069-af5ddef91bef",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Release Date Confirmed, and It Looks Like a Faithful-Looking Return With a Few Surprises",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-fully-revealed",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:25:33+00:00"
-    },
-    {
-      "guid": "1fd9fe1b-ed07-4825-8e14-c9dfdfaff902",
-      "title": "Nintendo Reveals Lego Link & Epona Set for The Legend of Zelda 40th Anniversary",
-      "url": "https://www.ign.com/articles/nintendo-reveals-lego-link-epona-set-for-the-legend-of-zelda-40th-anniversary",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:19:39+00:00"
-    },
-    {
-      "guid": "fc782e52-03ff-4bf7-a899-3c5744ec92a4",
-      "title": "Call of Duty 2 Signaled the Beginning of the End of Halo's Reign As the King of Console Shooters",
-      "url": "https://www.ign.com/articles/call-of-duty-2-signaled-the-beginning-of-the-end-of-halos-reign-as-the-king-of-console-shooters",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:14:00+00:00"
-    },
-    {
-      "guid": "2b7099f3-48a8-462b-800d-0650add7d2a5",
-      "title": "The Legend of Zelda Live-Action Movie Will Be an Original Story Based on the Series So Far",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-live-action-movie-detailed",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:10:24+00:00"
-    },
-    {
-      "guid": "76e896d2-3435-4283-8955-67385d0905cb",
-      "title": "Donnie Darko Returning to Theaters in 4K for 25th Anniversary",
-      "url": "https://www.ign.com/articles/donnie-darko-25th-anniversary-4k-theatrical-re-release",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/the-legend-of-zelda-film-trailer-first-look",
-      "title": "The Legend of Zelda film is just called \"The Legend of Zelda\", apparently, and there's a good reason it doesn't have a subtitle",
-      "url": "https://www.eurogamer.net/the-legend-of-zelda-film-trailer-first-look",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:10:35+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000732136",
-      "title": "Here\u2019s What The Zelda: Ocarina Of Time Remake Looks Like",
-      "url": "https://kotaku.com/heres-what-the-zelda-ocarina-of-time-remake-looks-like-2000732136",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:14:51+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000732108",
-      "title": "Hands-On With Gundam Rogue Orbit: An Ideal Jumping-In Point For Newcomers To The 40-Year-Old Mech Franchise",
-      "url": "https://kotaku.com/hands-on-with-gundam-rogue-orbit-an-ideal-jumping-in-point-for-newcomers-to-the-40-year-old-mech-franchise-2000732108",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:04+00:00"
-    },
-    {
-      "guid": "MUpDagxU9FmmQsdXygZrDN",
-      "title": "Valheim 1.0 review",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:27:59+00:00"
-    },
-    {
-      "guid": "4YPVdvdEaf3FWLbvg8XYJ5",
-      "title": "Chinese memory makers have reportedly stocked up on enough western DUV machines for the next three years of expansion",
-      "url": "https://www.pcgamer.com/hardware/chinese-memory-makers-have-reportedly-stocked-up-on-enough-western-duv-machines-for-the-next-three-years-of-expansion/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:27:45+00:00"
-    },
-    {
-      "guid": "8KDMoreRdsBEAvJrWXnSg8",
-      "title": "SteelSeries throws everything but the kitchen sink in the feature list of its Aeon Pro controller",
-      "url": "https://www.pcgamer.com/hardware/controllers/steelseries-throws-everything-but-the-kitchen-sink-in-the-feature-list-of-its-aeon-pro-controller/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237065820",
-      "title": "Venice Film Festival 2026: Read All Of Deadline\u2019s Reviews",
-      "url": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:18:36+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070635",
-      "title": "WestEnd Films Boards World Sales On James Erskine\u2019s Niki Lauda Documentary \u2014 TIFF Market",
-      "url": "https://deadline.com/2026/09/lauda-westend-films-james-erskine-tiff-market-1237070635/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236852165",
-      "title": "\u2018Heat 2\u2019: Stephen Graham Confirmed for Michael Mann\u2019s Sequel (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/heat-2-stephen-graham-confirmed-michael-manns-sequel-1236852165/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236854254",
-      "title": "Kirk Franklin Signs With Uptown Records (EXCLUSIVE)",
-      "url": "https://variety.com/2026/music/news/kirk-franklin-signs-with-uptown-records-1236854254/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:17:08+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236854489",
-      "title": "David Jonsson, Olivia Colman and Kunal Nayyar to Lead Voice Cast of Animated Family Movie \u2018Bollywoof\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/david-jonsson-olivia-colman-kunal-nayyar-bollywoof-1236854489/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:05:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236691029",
-      "title": "Scott Rudin Plans Two New Broadway Shows, Including One With Julia Roberts and Paul Rudd",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/scott-rudin-julia-roberts-paul-rudd-broadway-1236691029/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:19:32+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236692409",
-      "title": "\u2018Tenzing\u2019 Review: Tom Hiddleston and Genden Phuntsok Lead Apple\u2019s Staid Mount Everest Drama",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/tenzing-review-tom-hiddleston-apple-1236692409/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:18:52+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236693801",
-      "title": "Tom Jones Claims He\u2019s Been Fired From \u2018The Voice U.K.\u2019 Over \u201cFinancial Difficulty With Insurance\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/tom-jones-fired-the-voice-uk-judge-instagram-post-itv-tv-1236693801/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:18:08+00:00"
-    },
-    {
-      "guid": "JEnaKj7vXxvmewAFYJo6AL",
-      "title": "Shigeru Miyamoto reveals The Legend of Zelda movie will be an \"original\" story, and there's a reason it has no subtitle",
-      "url": "https://www.gamesradar.com/entertainment/live-action-movies/legend-of-zelda-movie-original-story/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:18:21+00:00"
-    },
-    {
-      "guid": "ci8v8sfuKvwvZ4iqzurL6o",
-      "title": "New Godzilla Minus Zero trailer teases gravity-defying action, King Ghidorah, and the end of the story",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/godzilla-minus-zero-trailer-2/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:10:34+00:00"
-    },
-    {
-      "guid": "3CdTyzjs58VNMFXZ57iHe",
-      "title": "SteelSeries launches a seriously impressive controller for Xbox and PC, but at $259 / \u00a3229, the Aeon Pro has an uphill battle ahead of it",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/steelseries-launches-a-seriously-impressive-controller-for-xbox-and-pc-but-at-usd259-gbp229-the-aeon-pro-has-an-uphill-battle-ahead-of-it/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205975",
-      "title": "Zelda: Ocarina Of Time Launches On Switch 2 On 5th November 2026",
-      "url": "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:28:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122480",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Release Date Set",
-      "url": "https://www.siliconera.com/the-legend-of-zelda-ocarina-of-time-remake-release-date-set/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:25:40+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1076137",
-      "title": "The Legend of Zelda live-action film titled The Legend of Zelda",
-      "url": "https://www.gematsu.com/2026/09/the-legend-of-zelda-live-action-film-titled-the-legend-of-zelda",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:08:55+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755334",
-      "title": "Studio Ghibli Producer Says He Ignored \u201cGhibli-Style\u201d AI Art Because He Expected Fans to Get Bored",
-      "url": "https://otakukart.com/studio-ghibli-producer-says-he-ignored-ghibli-style-ai-art-because-he-expected-fans-to-get-bored/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:10:38+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755348",
-      "title": "Onimusha: Way of the Sword Sells 1 Million Copies on Launch Day",
-      "url": "https://otakukart.com/onimusha-way-of-the-sword-sells-1-million-copies-on-launch-day/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:02:47+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=617505",
-      "title": "Cryptids, Creepy One-Shots, And Mysteries Can Be Found In These 5E Supplements",
-      "url": "https://www.belloflostsouls.net/2026/09/cryptids-creepy-one-shots-and-mysteries-can-be-found-in-these-5e-supplements.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:30:00+00:00"
-    },
-    {
-      "guid": "t3_1wapjk2",
-      "title": "Tom Warren doubles down that Microsoft is planning to delay Forza Horizon 6 for PS5 to early 2027",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wapjk2/tom_warren_doubles_down_that_microsoft_is/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:12:27+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-gameplay-finally-revealed-during-40th-anniversary-nintendo-direct-and-it-looks-interesting",
-      "title": "The Legend of Zelda: Ocarina of Time remake gameplay finally revealed during 40th anniversary Nintendo Direct, and it looks\u2026 interesting",
-      "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-gameplay-finally-revealed-during-40th-anniversary-nintendo-direct-and-it-looks-interesting",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:31:35+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/everything-announced-legend-of-zelda-40th-anniversary-nintendo-direct",
-      "title": "Everything announced at Nintendo's The Legend of Zelda 40th Anniversary Direct",
-      "url": "https://www.eurogamer.net/everything-announced-legend-of-zelda-40th-anniversary-nintendo-direct",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:30:46+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000732124",
       "title": "Everything We Saw At The Legend Of Zelda 40th Anniversary Direct",
@@ -1268,22 +908,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-09-08T14:51:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070827",
-      "title": "AMC Global Media Settles Breach Of Contract Suit With \u2018Walking Dead\u2019 Creator Robert Kirkman, Producers",
-      "url": "https://deadline.com/2026/09/amc-global-media-settles-lawsuit-walking-dead-creator-producers-1237070827/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:37:57+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070553",
-      "title": "\u2018Dexter: Resurrection\u2019 Sets Season 2 Premiere Date & Drops Teaser Trailer",
-      "url": "https://deadline.com/2026/09/dexter-resurrection-season-2-premiere-date-teaser-trailer-1237070553/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:35:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236849930",
@@ -1326,92 +950,12 @@
       "published_dt": "2026-09-08T14:51:09+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236854751",
-      "title": "\u2018Godzilla Minus Zero\u2019 Unveils New Trailer, Cast Members",
-      "url": "https://variety.com/2026/film/news/godzilla-minus-zero-new-trailer-cast-members-1236854751/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:38:12+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236851973",
-      "title": "\u2018Dexter: Resurrection\u2019 Season 2 Sets October Premiere Date, Drops Mysterious Teaser",
-      "url": "https://variety.com/2026/tv/news/dexter-resurrection-season-2-release-date-1236851973/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T14:35:00+00:00"
-    },
-    {
       "guid": "rbEwktHxjGqLcCvjsEkXg9",
       "title": "Nintendo says Zelda: Ocarina of Time remake isn't aiming \"for realistic graphics,\" and that's great for everyone but Young Link",
       "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-says-zelda-ocarina-of-time-remake-isnt-aiming-for-realistic-graphics-and-thats-great-for-everyone-but-young-link/",
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-08T14:51:29+00:00"
-    },
-    {
-      "guid": "N9HR8Y3JzWmBQAbg7sE3vH",
-      "title": "Leaked Zelda Switch 2 is officially out in October with the \"game sold separately\"",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/leaked-zelda-switch-2-is-officially-out-in-october-with-the-game-sold-separately/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:48:29+00:00"
-    },
-    {
-      "guid": "Kzb8BskViQsgoN4ryQP87M",
-      "title": "Zelda: Ocarina of Time remake release date set for November as Nintendo joins GTA 6 in a weird month",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-release-date-set-for-november-as-nintendo-joins-gta-6-in-a-weird-month/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:35:22+00:00"
-    },
-    {
-      "guid": "3eUCFu4SCp5WwkGCLrWmwQ",
-      "title": "Nintendo announces electronic Master Sword to accompany new Legend of Zelda Ocarina of Time Remake, as well as a playable ocarina",
-      "url": "https://www.gamesradar.com/toys-collectibles/nintendo-announces-electronic-master-sword-to-accompany-new-legend-of-zelda-ocarina-of-time-remake-as-well-as-a-playable-ocarina/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:33:25+00:00"
-    },
-    {
-      "guid": "Mz5tunMFj9xvNqQnQhsjij",
-      "title": "New Lego Legend of Zelda Link and Epona set revealed",
-      "url": "https://www.gamesradar.com/toys-collectibles/new-lego-legend-of-zelda-link-and-epona-set-revealed/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:31:00+00:00"
-    },
-    {
-      "guid": "1877386",
-      "title": "Zelda: Ocarina Of Time Remake Borrows At Least One Mechanic From Breath Of The Wild",
-      "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-borrows-at-least-one-mechanic-from-breath-of-the-wild/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:43:43+00:00"
-    },
-    {
-      "guid": "1877367",
-      "title": "The Legend Of Zelda Anniversary Concert Tour Coming In 2027",
-      "url": "https://www.gamespot.com/articles/the-legend-of-zelda-anniversary-concert-tour-coming-in-2027/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:26:41+00:00"
-    },
-    {
-      "guid": "1877375",
-      "title": "Legend Of Zelda: Ocarina Of Time Remake Release Date Is November 5, Just Before GTA 6",
-      "url": "https://www.gamespot.com/articles/legend-of-zelda-ocarina-of-time-remake-release-date-is-november-5-just-before-gta-6/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:25:42+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206033",
-      "title": "The Zelda: Ocarina Of Time Special Edition Switch 2 Console & Pro Controller Launch This October",
-      "url": "https://www.nintendolife.com/news/2026/09/the-zelda-ocarina-of-time-special-edition-switch-2-console-and-pro-controller-launch-this-october",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:40:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1122532",
@@ -1422,14 +966,6 @@
       "published_dt": "2026-09-08T15:00:00+00:00"
     },
     {
-      "guid": "https://www.siliconera.com/?p=1122524",
-      "title": "Here Are All The Legend of Zelda 40th Anniversary Direct Reveals",
-      "url": "https://www.siliconera.com/here-are-all-the-legend-of-zelda-40th-anniversary-direct-reveals/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:37:43+00:00"
-    },
-    {
       "guid": "https://www.timeextension.com/#article-206045",
       "title": "Ahead Of GTA 6's Release, DMA Design's Original Founder Is Set To Make A Rare Public Appearance Later This Month",
       "url": "https://www.timeextension.com/news/2026/09/ahead-of-gta-6s-release-dma-designs-original-founder-is-set-to-make-a-rare-public-appearance-later-this-month",
@@ -1438,52 +974,12 @@
       "published_dt": "2026-09-08T15:00:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1076490",
-      "title": "Nintendo Switch 2 \u2013 The Legend of Zelda 40th Anniversary Edition announced",
-      "url": "https://www.gematsu.com/2026/09/nintendo-switch-2-the-legend-of-zelda-40th-anniversary-edition-announced",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:29:05+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1068548",
-      "title": "The Legend of Zelda: Ocarina of Time remake launches November 5",
-      "url": "https://www.gematsu.com/2026/09/the-legend-of-zelda-ocarina-of-time-remake-launches-november-5",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:25:58+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1755354",
       "title": "Evil Dead Star Bruce Campbell Says He Has About Five Years to Live After Cancer Diagnosis",
       "url": "https://otakukart.com/evil-dead-star-bruce-campbell-says-he-has-about-five-years-to-live-after-cancer-diagnosis/",
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-08T14:53:03+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755397",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Gets November 2026 Release Date",
-      "url": "https://otakukart.com/the-legend-of-zelda-ocarina-of-time-remake-gets-november-2026-release-date/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:36:42+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755335",
-      "title": "Pok\u00e9mon Champions Dev Says Game Isn\u2019t Getting Single-Player Modes Because They Could Increase PvP Match Times",
-      "url": "https://otakukart.com/pokemon-champions-dev-says-game-isnt-getting-single-player-modes-because-they-could-increase-pvp-match-times/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:35:40+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755391",
-      "title": "Nintendo confirms The Legend of Zelda Movie Will Tell an Original Story Inspired by the Games",
-      "url": "https://otakukart.com/the-legend-of-zelda-movie-will-tell-an-original-story-inspired-by-the-games/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T14:31:12+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/battlefield-6-redsec-warzone-resurgence-rapid-royale",
@@ -2436,6 +1932,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-08T17:06:04+00:00"
+    },
+    {
+      "guid": "8ca10434-f571-46a1-85c2-6759a69d72e0",
+      "title": "Marvel\u2019s Wolverine: Every Comic Book Costume In the PS5 Game",
+      "url": "https://www.ign.com/articles/marvels-wolverine-ps5-game-costumes-origins",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:17:00+00:00"
+    },
+    {
+      "guid": "83197d96-9700-46a4-875a-9483e8192788",
+      "title": "Shift Up CTO Clarifies Stellar Blade Developer's Stance on AI After Blood Rain Music Video Controversy",
+      "url": "https://www.ign.com/articles/shift-up-cto-clarifies-stellar-blade-developers-stance-on-ai-after-blood-rain-music-video-controversy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:16:21+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732118",
+      "title": "One Big Nintendo Property Was All Over PAX West, And Nintendo Didn\u2019t Even Have To Show Up",
+      "url": "https://kotaku.com/nintendo-pax-west-2026-pikmin-bloom-2000732118",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:30:19+00:00"
+    },
+    {
+      "guid": "SaeZ7seoZjFpcLSmPcnBXM",
+      "title": "Just days after The Tetris Company warned that 'we take copyright infringement very seriously,' the Tetris clone in the White House Arcade suddenly disappears",
+      "url": "https://www.pcgamer.com/games/just-days-after-the-tetris-company-warned-that-we-take-copyright-infringement-very-seriously-the-tetris-clone-in-the-white-house-arcade-suddenly-disappears/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:19:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237071226",
+      "title": "Netflix Will Begin Reporting Box Office On Six Upcoming Titles Including \u2018La Bola Negra\u2019, \u2018Cliff Booth\u2019, \u2018Narnia\u2019 & More",
+      "url": "https://deadline.com/2026/09/netflix-box-office-reporting-cliff-booth-narnia-1237071226/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:39:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237071197",
+      "title": "Leila George Lands Lead Role Opposite Miles Teller In Black Label Thriller \u2018Copperhead\u2019",
+      "url": "https://deadline.com/2026/09/leila-george-joins-copperhead-movie-miles-teller-1237071197/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:20:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236693799",
+      "title": "\u2018From Inside Out: The Architecture of Peter Zumthor\u2019 Review: Wim Wenders\u2019 Technically Dazzling, Slightly Dry 3D Doc",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/from-inside-out-architecture-peter-zumthor-wim-wenders-3d-1236693799/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:25:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236694128",
+      "title": "How to Do Venice Right During Festival Week",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/venice-festival-hotels-excelsior-san-clemente-1236694128/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T18:23:17+00:00"
+    },
+    {
+      "guid": "8PazkHmfzXFwrqiMGWenC9",
+      "title": "After Clair Obscur Expedition 33, president of France announces international festival of video games: \"Video games are part of our culture\"",
+      "url": "https://www.gamesradar.com/games/rpg/after-clair-obscur-expedition-33-president-of-france-announces-international-festival-of-video-games-video-games-are-part-of-our-culture/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-08T18:29:31+00:00"
     }
   ]
 }
