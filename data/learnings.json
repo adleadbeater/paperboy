@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Christopher Judge explains why he turned down the God of War TV show",
-      "tag": "god of war",
-      "posted_at": "2026-09-01T21:28:15.090812+00:00",
-      "urls": [
-        "https://kotaku.com/video-game-kratos-christopher-judge-explains-why-he-didnt-want-to-star-in-the-god-of-war-tv-show-i-just-have-no-desire-to-live-that-way-again-2000730345"
-      ],
-      "article_titles": [
-        "Video Game Kratos Christopher Judge Explains Why He Didn\u2019t Want To Star In The God Of War TV Show: \u2018I Just Have No Desire To Live That Way Again\u2019"
-      ]
-    },
-    {
       "headline": "Star Wars Zero Company Started Life as a Titanfall Universe Game Before EA Pivoted to Star Wars",
       "tag": "star wars zero company",
       "posted_at": "2026-09-01T23:27:42.833565+00:00",
@@ -918,35 +907,24 @@
       "article_titles": [
         "PowerWash Simulator Execs Absurdly Tried To Soften The Blow Of Layoffs By Referring To Let-Go Workers As \u2018The Leavers\u2019"
       ]
+    },
+    {
+      "headline": "Street Fighter 2's Original Designer Wants to Rebalance Super Turbo \u2014 30 Years Later",
+      "tag": "street fighter 2",
+      "posted_at": "2026-09-08T21:30:59.139138+00:00",
+      "urls": [
+        "https://www.ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release",
+        "https://www.ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release"
+      ],
+      "article_titles": [
+        "One of Street Fighter 2's Original Designers Wants to Rebalance Super Turbo 3 Decades After Its Release",
+        "One of Street Fighter 2's Original Designers Wants to Rebalance Super Turbo 3 Decades After Its Release"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237071039",
-      "title": "Rose Gilroy & Ilene Chaiken Developing OnlyFans Comedy \u2018Subs\u2019 With Run-A-Muck",
-      "url": "https://deadline.com/2026/09/rose-gilroy-ilene-chaiken-onlyfans-comedy-subs-run-a-muck-1237071039/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T17:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236854862",
-      "title": "Mo\u2019Nique Signs With Innovative",
-      "url": "https://variety.com/2026/tv/news/monique-agency-innovative-1236854862/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T17:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236665934",
-      "title": "Esports Was Supposed to Be Bigger Than the NBA. What Happened?",
-      "url": "https://www.hollywoodreporter.com/business/business-news/what-happened-to-esports-1236665934/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T17:30:00+00:00"
-    },
     {
       "guid": "8ca10434-f571-46a1-85c2-6759a69d72e0",
       "title": "Marvel\u2019s Wolverine: Every Comic Book Costume In the PS5 Game",
@@ -1458,6 +1436,14 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-08T21:06:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854923",
+      "title": "\u2018The Walking Dead: Daryl Dixon\u2019 Final Season Reveals First-Look Teaser (TV News Roundup)",
+      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-7-1236854923/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T21:29:14+00:00"
     }
   ]
 }
