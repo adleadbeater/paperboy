@@ -926,84 +926,164 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "8fuemN38Es24s8hFR9ME35",
-      "title": "Steam may have leaked achievements for countless forthcoming PC games via a third party site, including Persona 6, Ace Combat 8, and even some unannounced games",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-may-have-leaked-achievements-for-countless-forthcoming-pc-games-via-a-third-party-site-including-persona-6-ace-combat-8-and-even-some-unannounced-games/",
-      "source_name": "PC Gamer",
+      "guid": "https://www.eurogamer.net/the-blood-of-dawnwalker-patch-controller-issues-sequel",
+      "title": "The Blood of Dawnwalker controller issues tackled in latest hotfix, and Rebel Wolves talks more about a sequel",
+      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-patch-controller-issues-sequel",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-09-09T04:09:43+00:00"
+      "published_dt": "2026-09-09T13:29:31+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237071830",
-      "title": "Jon Stewart Likens Donald Trump Aide Natalie Harp To Elizabeth Holmes In Viral \u2018You Can See Everything\u2019 Trailer",
-      "url": "https://deadline.com/2026/09/jon-stewart-donald-trump-aide-natalie-harp-elizabeth-holmes-1237071830/",
+      "guid": "https://kotaku.com/?p=2000732708",
+      "title": "Anthropic Researcher Declares AI Could Wipe Out Humanity In 10 Years (It Won\u2019t)",
+      "url": "https://kotaku.com/anthropic-ai-genai-claude-openai-opinion-the-end-of-humanity-2000732708",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:45:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732716",
+      "title": "Shift Up CTO Says The Stellar Blade Maker Is taking Fan Complaints About AI \u2018Seriously,\u2019 But Believes It Should Still Be \u2018Used As A Tool\u2019 To Make A \u2018Great, High-Quality Game\u2019",
+      "url": "https://kotaku.com/shift-up-cto-says-the-stellar-blade-maker-is-taking-fan-complaints-about-ai-seriously-but-believes-it-should-still-be-used-as-a-tool-to-make-a-great-high-quality-game-2000732716",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:36:22+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072073",
+      "title": "Aaron Eckhart Pic \u2018Butcher\u2019s War\u2019: Samuel Goldwyn Takes U.S., Voltage Pictures Acquires International Rights \u2013 TIFF",
+      "url": "https://deadline.com/2026/09/aaron-eckhart-butchers-war-1237072073/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-09T04:01:28+00:00"
+      "published_dt": "2026-09-09T13:47:53+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237071814",
-      "title": "Jeff Lowell Dies: \u2018John Tucker Must Die\u2019 Writer & \u2018The Crew\u2019 Creator Was 52",
-      "url": "https://deadline.com/2026/09/jeff-lowell-dies-john-tucker-must-die-the-crew-1237071814/",
+      "guid": "https://deadline.com/?p=1237071947",
+      "title": "Pablo Larra\u00edn\u2019s \u2018My Sad Dead\u2019 Trailer: \u201cThe Dead Start To Make Themselves Present\u201d",
+      "url": "https://deadline.com/2026/09/my-sad-dead-trailer-pablo-larrain-netflix-1237071947/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-09T03:53:43+00:00"
+      "published_dt": "2026-09-09T13:32:58+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236855432",
-      "title": "Jon Stewart Uses Nathan Fielder\u2019s \u2018You Can See Everything\u2019 Trailer to Troll Donald Trump and His \u2018Human Printer\u2019 Aide",
-      "url": "https://variety.com/2026/tv/news/jon-stewart-nathan-fielder-you-can-see-everything-trump-1236855432/",
+      "guid": "https://deadline.com/?p=1237072028",
+      "title": "ABC News Names Rachel Scott And Rhiannon Ally As Co-Anchors Of \u2018Good Morning America Weekend\u2019",
+      "url": "https://deadline.com/2026/09/good-morning-america-weekend-anchors-rachel-scott-1237072028/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855227",
+      "title": "Jade on Life After Little Mix, Her Mercury Prize Nomination and What\u2019s Next",
+      "url": "https://variety.com/2026/music/news/jade-on-life-after-little-mix-her-mercury-prize-1236855227/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-09T03:54:27+00:00"
+      "published_dt": "2026-09-09T14:00:00+00:00"
     },
     {
-      "guid": "t3_1wbb0qf",
-      "title": "Half-Life MULTIPLAYER GAME Achievements Leaked",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wbb0qf/halflife_multiplayer_game_achievements_leaked/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T04:09:52+00:00"
-    },
-    {
-      "guid": "t3_1wbap5w",
-      "title": "Fable Leaked",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wbap5w/fable_leaked/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T03:54:23+00:00"
-    },
-    {
-      "guid": "t3_1wbb5fl",
-      "title": "PHOENIX WRIGHT VS PROF LAYTON ACHIEVEMENTS",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wbb5fl/phoenix_wright_vs_prof_layton_achievements/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T04:16:28+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236855275",
-      "title": "\u2018Runner\u2019 Review: Alan Ritchson and Owen Wilson Lend Some Personality to a Good-Enough Action Thriller",
-      "url": "https://variety.com/2026/film/news/runner-review-alan-ritchson-owen-wilson-1236855275/",
+      "guid": "https://variety.com/?p=1236855688",
+      "title": "AI \u2018Could Kill Us All,\u2019 Warns Anthropic Researcher as He Quits the Company: AI Companies Are \u2018Gambling With Our Lives\u2019",
+      "url": "https://variety.com/2026/biz/news/ai-could-kill-us-all-anthropic-researcher-jacob-coxon-1236855688/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-09T05:05:27+00:00"
+      "published_dt": "2026-09-09T13:35:53+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-206083",
-      "title": "Multiple amiibo Listings Have Apparently Been Spotted On GameStop's Internal Database",
-      "url": "https://www.nintendolife.com/news/2026/09/multiple-amiibo-listings-have-apparently-been-spotted-on-gamestops-internal-database",
+      "guid": "https://variety.com/?p=1236855368",
+      "title": "ABC News Adds Rachel Scott, Rhiannon Ally to Weekend \u2018Good Morning America\u2019",
+      "url": "https://variety.com/2026/tv/news/abc-news-shakes-up-weekend-gma-rachel-scott-rhiannon-ally-1236855368/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236694438",
+      "title": "Mariska Hargitay Reveals Her Emmy Hosting Plan \u2013 And It May Involve a Knick",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/mariska-hargitay-interview-emmys-2026-hosting-knicks-1236694438/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236689339",
+      "title": "\u2018DAU\u2019 Review: A Towering and Immersive Cinematic Epic That Recreates the Dark Ages of Soviet Oppression",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/dau-review-ilya-khrzhanovsky-1236689339/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695258",
+      "title": "Fox Says DOJ Taking Closer Look at Roku Megadeal",
+      "url": "https://www.hollywoodreporter.com/business/business-news/fox-says-doj-reviewing-roku-mega-deal-1236695258/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:34:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236665909",
+      "title": "The Athlete Is the Studio",
+      "url": "https://www.hollywoodreporter.com/business/business-news/coco-gauff-tennis-star-media-mogul-iroc-1236665909/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236694159",
+      "title": "The 50 Most Powerful TV Producers of 2026",
+      "url": "https://www.hollywoodreporter.com/lists/top-tv-producers-2026-survey/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T13:30:00+00:00"
+    },
+    {
+      "guid": "BNVSYjTVMJgrdeEsRteRfg",
+      "title": "GTA 6 DualSense pre-orders drop soon, here's how to secure your Vice City controller",
+      "url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T13:53:34+00:00"
+    },
+    {
+      "guid": "kW28xo9c742XUW4V8ntJVC",
+      "title": "Reacher 4 has just revealed what was hidden on the USB, but what is the chemical toxin?",
+      "url": "https://www.gamesradar.com/entertainment/action-shows/reacher-4-has-just-revealed-what-was-hidden-on-the-usb-but-what-is-the-chemical-toxin/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T13:37:40+00:00"
+    },
+    {
+      "guid": "1879083",
+      "title": "AI Could \u201cKill All Humans\u201d In Next Decade, Anthropic Lead Says",
+      "url": "https://www.gamespot.com/articles/ai-could-kill-all-humans-in-next-decade-anthropic-lead-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T13:28:08+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205953",
+      "title": "Watch: Nintendo Direct September 2026 - Live!",
+      "url": "https://www.nintendolife.com/news/2026/09/watch-nintendo-direct-september-2026-live",
       "source_name": "Nintendo Life",
       "source_tier": 2,
-      "published_dt": "2026-09-09T04:55:00+00:00"
+      "published_dt": "2026-09-09T13:30:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1076754",
-      "title": "Seven games in the ONI series coming to Switch on January 28, 2027 in Japan",
-      "url": "https://www.gematsu.com/2026/09/seven-games-in-the-oni-series-coming-to-switch-on-january-28-2027-in-japan",
-      "source_name": "Gematsu",
+      "guid": "https://www.pushsquare.com/#article-206110",
+      "title": "Dawnwalker Dev Gearing Up for Sequel After Promising a Franchise",
+      "url": "https://www.pushsquare.com/news/2026/09/dawnwalker-dev-gearing-up-for-sequel-after-promising-a-franchise",
+      "source_name": "Push Square",
       "source_tier": 2,
-      "published_dt": "2026-09-09T05:26:32+00:00"
+      "published_dt": "2026-09-09T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206115",
+      "title": "\"We're Genuinely Sorry\" - The Neo Geo AES+ Has Been Delayed",
+      "url": "https://www.timeextension.com/news/2026/09/were-genuinely-sorry-the-neo-geo-aesplus-has-been-delayed",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T13:30:00+00:00"
     }
   ]
 }
