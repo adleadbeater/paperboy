@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Monster Hunter Wilds' Ascendance Update Reveals Boosted Actions and Great Sword Overhaul",
-      "tag": "monster hunter wilds",
-      "posted_at": "2026-09-02T17:30:59.521790+00:00",
-      "urls": [
-        "https://www.siliconera.com/monster-hunter-wilds-ascendance-trailers-show-boosted-actions-and-great-sword/",
-        "https://www.siliconera.com/monster-hunter-wilds-ascendance-trailers-show-boosted-actions-and-great-sword/"
-      ],
-      "article_titles": [
-        "Monster Hunter Wilds Ascendance Trailers Show Boosted Actions and Great Sword",
-        "Monster Hunter Wilds Ascendance Trailers Show Boosted Actions and Great Sword"
-      ]
-    },
-    {
       "headline": "Banjo-Kazooie Composer Reveals Multiple Studios Have Pitched New Games \u2014 Rare Just Keeps Saying No",
       "tag": "banjo-kazooie",
       "posted_at": "2026-09-02T18:01:17.395404+00:00",
@@ -990,19 +977,50 @@
         "Xenoblade Chronicles 3's Switch 2 edition puts an end to years of Mythra kid theories, and fans can't decide if they're relieved or if \"it's so over\"",
         "Xenoblade Chronicles 3 Switch 2 Edition Gets Shimmer, Roguelike Heroes\u2019 Vault Mode"
       ]
+    },
+    {
+      "headline": "Blizzard Workers Vote Through \"Historic\" Union Contract Protecting Nearly 1,900 Employees Against Layoffs and AI Replacement",
+      "tag": "blizzard entertainment",
+      "posted_at": "2026-09-09T17:31:35.570442+00:00",
+      "urls": [
+        "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
+        "https://www.gamesradar.com/games/its-a-new-day-at-blizzard-union-wins-historic-contract-protecting-1-900-world-of-warcraft-diablo-overwatch-and-more-workers-as-microsoft-plans-another-1-600-layoffs/"
+      ],
+      "article_titles": [
+        "Almost 1,900 Blizzard workers vote through a \"historic\" union contract securing protections against layoffs and gen-AI",
+        "\"It's a new day at Blizzard\": Union wins historic contract protecting 1,900 World of Warcraft, Diablo, Overwatch, and more workers as Microsoft plans another 1,600 layoffs"
+      ]
+    },
+    {
+      "headline": "Switch 2 Still Has No New 3D Mario \u2014 Breaking a Nintendo Tradition That Goes Back 30 Years",
+      "tag": "nintendo switch 2",
+      "posted_at": "2026-09-09T17:31:35.809202+00:00",
+      "urls": [
+        "https://kotaku.com/mario-is-missing-nintendo-switch-2-2000732836"
+      ],
+      "article_titles": [
+        "There\u2019s Still No Sign Of A New 3D Mario On Switch 2, Bucking 30-Year Trend"
+      ]
+    },
+    {
+      "headline": "Final Fantasy and Persona Veterans Announce New Turn-Based JRPG Eternal Anima for PS5",
+      "tag": "eternal anima",
+      "posted_at": "2026-09-09T17:31:36.058262+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/09/final-fantasy-persona-veterans-announce-turn-based-jrpg-eternal-anima-for-ps5",
+        "https://www.siliconera.com/new-marvelous-jrpg-is-eternal-anima/",
+        "https://www.siliconera.com/new-marvelous-jrpg-is-eternal-anima/"
+      ],
+      "article_titles": [
+        "Final Fantasy, Persona Veterans Announce Turn-Based JRPG Eternal Anima for PS5",
+        "New Marvelous JRPG Is Eternal Anima",
+        "New Marvelous JRPG Is Eternal Anima"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/the-blood-of-dawnwalker-patch-controller-issues-sequel",
-      "title": "The Blood of Dawnwalker controller issues tackled in latest hotfix, and Rebel Wolves talks more about a sequel",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-patch-controller-issues-sequel",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T13:29:31+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000732708",
       "title": "Anthropic Researcher Declares AI Could Wipe Out Humanity In 10 Years (It Won\u2019t)",
@@ -1036,14 +1054,6 @@
       "published_dt": "2026-09-09T13:32:58+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237072028",
-      "title": "ABC News Names Rachel Scott And Rhiannon Ally As Co-Anchors Of \u2018Good Morning America Weekend\u2019",
-      "url": "https://deadline.com/2026/09/good-morning-america-weekend-anchors-rachel-scott-1237072028/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T13:30:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236855227",
       "title": "Jade on Life After Little Mix, Her Mercury Prize Nomination and What\u2019s Next",
       "url": "https://variety.com/2026/music/news/jade-on-life-after-little-mix-her-mercury-prize-1236855227/",
@@ -1058,14 +1068,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-09T13:35:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236855368",
-      "title": "ABC News Adds Rachel Scott, Rhiannon Ally to Weekend \u2018Good Morning America\u2019",
-      "url": "https://variety.com/2026/tv/news/abc-news-shakes-up-weekend-gma-rachel-scott-rhiannon-ally-1236855368/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T13:30:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236694438",
@@ -1092,22 +1094,6 @@
       "published_dt": "2026-09-09T13:34:18+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236665909",
-      "title": "The Athlete Is the Studio",
-      "url": "https://www.hollywoodreporter.com/business/business-news/coco-gauff-tennis-star-media-mogul-iroc-1236665909/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236694159",
-      "title": "The 50 Most Powerful TV Producers of 2026",
-      "url": "https://www.hollywoodreporter.com/lists/top-tv-producers-2026-survey/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T13:30:00+00:00"
-    },
-    {
       "guid": "BNVSYjTVMJgrdeEsRteRfg",
       "title": "GTA 6 DualSense pre-orders drop soon, here's how to secure your Vice City controller",
       "url": "https://www.gamesradar.com/news/live/gta-6-dualsense-pre-orders-where-to-buy-live/",
@@ -1122,38 +1108,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-09T13:37:40+00:00"
-    },
-    {
-      "guid": "1879083",
-      "title": "AI Could \u201cKill All Humans\u201d In Next Decade, Anthropic Lead Says",
-      "url": "https://www.gamespot.com/articles/ai-could-kill-all-humans-in-next-decade-anthropic-lead-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T13:28:08+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-205953",
-      "title": "Watch: Nintendo Direct September 2026 - Live!",
-      "url": "https://www.nintendolife.com/news/2026/09/watch-nintendo-direct-september-2026-live",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206110",
-      "title": "Dawnwalker Dev Gearing Up for Sequel After Promising a Franchise",
-      "url": "https://www.pushsquare.com/news/2026/09/dawnwalker-dev-gearing-up-for-sequel-after-promising-a-franchise",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206115",
-      "title": "\"We're Genuinely Sorry\" - The Neo Geo AES+ Has Been Delayed",
-      "url": "https://www.timeextension.com/news/2026/09/were-genuinely-sorry-the-neo-geo-aesplus-has-been-delayed",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T13:30:00+00:00"
     },
     {
       "guid": "d6244a1e-f988-437e-aff6-27630c1d6c64",
@@ -2594,6 +2548,270 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
+      "title": "Almost 1,900 Blizzard workers vote through a \"historic\" union contract securing protections against layoffs and gen-AI",
+      "url": "https://www.eurogamer.net/1900-blizzard-vote-historic-contract-union-layoffs-ai",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:15:06+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732821",
+      "title": "Kirby\u2019s Truman Show Moment Is Perfect",
+      "url": "https://kotaku.com/kirbys-truman-show-moment-is-perfect-2000732821",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:20:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732836",
+      "title": "There\u2019s Still No Sign Of A New 3D Mario On Switch 2, Bucking 30-Year Trend",
+      "url": "https://kotaku.com/mario-is-missing-nintendo-switch-2-2000732836",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072337",
+      "title": "\u2018Place To Be\u2019 Review: 93-Year-Old Ellen Burstyn Shines Teaming With Taika Waititi And A Wayward Pigeon In Korn\u00e9l Mundrucz\u00f3\u2019s Touching Road Movie \u2013 Venice Film Festival",
+      "url": "https://deadline.com/2026/09/place-to-be-review-ellen-burstyn-taika-waititi-1237072337/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:15:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072408",
+      "title": "\u2018The Rainmaker\u2019 Sets Season 2 Release Date; Unveils Full Trailer",
+      "url": "https://deadline.com/2026/09/the-rainmaker-season-2-release-date-trailer-usa-network-1237072408/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:13:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072287",
+      "title": "Comcast CFO Notes Ongoing Epic Universe Softness, Dinging Stock; NBCU Split on Track",
+      "url": "https://deadline.com/2026/09/comcast-nbcuniversal-epic-universe-nbc-universal-split-1237072287/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:03:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072463",
+      "title": "Digital Creators Are Finally Accepted By IMDb",
+      "url": "https://deadline.com/2026/09/digital-creators-influencers-imdb-1237072463/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:02:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237071793",
+      "title": "Netflix Nabs Nicholas Binge\u2019s \u2018Understudy\u2019 Produced By Steven Yeun, Phil Lord & Chris Miller In 7-Figure Deal",
+      "url": "https://deadline.com/2026/09/netflix-nicholas-binge-understudy-lord-miller-steven-yeun-1237071793/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072434",
+      "title": "Jalen Brunson To Host \u2018SNL\u2019 Season 52 Premiere; Dakota Johnson, Shane Gillis & Inde Navarrette Also Set For Studio 8H",
+      "url": "https://deadline.com/2026/09/jalen-brunson-snl-season-52-premiere-1237072434/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855050",
+      "title": "NBC Sports Leaders Talk LA 28 Games, Bringing Back the NBA and Innovating in Real Time: \u2018If You\u2019re Not Getting Better, You\u2019re Getting Worse\u2019",
+      "url": "https://variety.com/2026/tv/news/nbc-sports-la-28-rick-cordella-sam-flood-molly-solomon-1236855050/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855957",
+      "title": "\u2018La Bola Negra\u2019 to Open New York City LGBTQ+ Film Festival NewFest (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/columns/la-bola-negra-open-lgbtq-film-festival-newfest-1236855957/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236856022",
+      "title": "Bruno Dumont\u2019s Cannes Movie \u2018Red Rocks\u2019 Sells to North America (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/bruno-dumont-cannes-movie-red-rocks-north-america-1236856022/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:26:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854745",
+      "title": "Best Seat in the House: How NBC Shaped Sports Broadcasting With Historic Firsts, Innovations and Relentless Drive to Serve Fans",
+      "url": "https://variety.com/2026/tv/news/nbc-sports-historic-firsts-innovations-heidi-bowl-1236854745/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236845860",
+      "title": "Ellen Burstyn Wipes Away Tears, Hugs Taika Waititi and Pamela Anderson as Heartfelt Drama \u2018Place to Be\u2019 Earns 6-Minute Venice Ovation",
+      "url": "https://variety.com/2026/film/festivals/ellen-burstyn-place-to-be-venice-standing-ovation-1236845860/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236850593",
+      "title": "\u2018SNL\u2019 Sets Inde Navarrette, Jalen Brunson, Dakota Johnson and More as Season 52 Hosts",
+      "url": "https://variety.com/2026/tv/news/snl-tk-host-season-premiere-tk-musical-guest-1236850593/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855007",
+      "title": "Peyton Manning on Doing His Own Stunts and Recruiting A-Listers Like Anne Hathaway and Larry David for \u2018ManningCast\u2019 Announcement Video (EXCLUSIVE)",
+      "url": "https://variety.com/2026/digital/news/peyton-manning-manningcast-heist-video-stunts-guest-stars-1236855007/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855248",
+      "title": "\u2018Primetime,\u2019 \u2018Victorian Psycho\u2019 and \u2018Wicker\u2019 Join Beyond Fest\u2019s 2026 Lineup",
+      "url": "https://variety.com/2026/film/festivals/beyond-fest-2026-primtetime-victorian-pscyho-1236855248/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855393",
+      "title": "Nathan Lane to Be Honored Following \u2018The Birdcage\u2019 30th Anniversary Screening at Virginia Film Festival  (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/columns/nathan-lane-visionary-award-virginia-film-festival-30th-anniversary-the-birdcage-1236855393/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855759",
+      "title": "\u2018Landman\u2019 Season 3 Casts \u2018Lioness\u2019 Star Michael Kelly",
+      "url": "https://variety.com/2026/tv/news/landman-season-3-cast-michael-kelly-1236855759/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236692387",
+      "title": "\u2018The Color of the Sun\u2019 Review: A Teenager in Okinawa Navigates Grief and Longing in an Attractive but Undercooked Coming-of-Age Drama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-color-of-the-sun-review-1236692387/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:27:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695532",
+      "title": "Broadway Box Office: \u2018Hamilton\u2019 Leads Labor Day Weekend Grosses",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-leads-labor-day-grosses-1236695532/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:12:51+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695543",
+      "title": "New \u2018Italian Job\u2019 Movie in the Works From Paul Feig at Paramount",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/italian-job-paul-feig-paramount-1236695543/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:04:07+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695525",
+      "title": "Nina Shipman, Actress in \u2018The Oregon Trail\u2019 and \u2018The Munsters,\u2019 Dies at 88",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nina-shipman-dead-munsters-oregon-trail-1236695525/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:01:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695470",
+      "title": "\u2018Landman\u2019 Season 3 Recruits Michael Kelly",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/landman-season-3-michael-kelly-cast-1236695470/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695508",
+      "title": "Jalen Brunson to Host \u2018Saturday Night Live\u2019 Season 52 Premiere",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-season-52-hosts-musical-guests-list-1236695508/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "ExWDaBZUM5DcSdXJEuukdS",
+      "title": "After 33 years, Japan's most beloved Dragon Quest spin-off and the progenitor of the entire roguelike Mystery Dungeon series is out in English for the first time",
+      "url": "https://www.gamesradar.com/games/roguelike/after-33-years-japans-most-beloved-dragon-quest-spin-off-and-the-progenitor-of-the-entire-roguelike-mystery-dungeon-series-is-out-in-english-for-the-first-time/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:15:06+00:00"
+    },
+    {
+      "guid": "EgcJ8x8v2jPDQYeUzFDtMF",
+      "title": "Pretend to be shocked: scalpers are already reselling the Zelda Ocarina of Time Switch 2 for over $850 as demand immediately outstrips supply",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/pretend-to-be-shocked-scalpers-are-already-reselling-the-zelda-ocarina-of-time-switch-2-for-over-usd850-as-demand-immediately-outstrips-supply/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:13:34+00:00"
+    },
+    {
+      "guid": "P9jrhmXbAFMWKrCiKGQ7Gm",
+      "title": "Legend of Zelda Master Sword replica by Hasbro goes up for pre-order, and it's cheaper than I thought it'd be",
+      "url": "https://www.gamesradar.com/toys-collectibles/legend-of-zelda-master-sword-replica-by-hasbro-goes-up-for-pre-order-and-its-cheaper-than-i-thought-itd-be/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206142",
+      "title": "'Yo-kai Watch 2: Haunted Domain' Is Real, And It's Coming To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/09/yo-kai-watch-2-haunted-domain-is-real-and-its-coming-to-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206125",
+      "title": "Final Fantasy, Persona Veterans Announce Turn-Based JRPG Eternal Anima for PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-persona-veterans-announce-turn-based-jrpg-eternal-anima-for-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755536",
+      "title": "Andrew Garfield Plays Sam Altman in First Creepy Teaser for Luca Guadagnino\u2019s Artificial",
+      "url": "https://otakukart.com/andrew-garfield-plays-sam-altman-in-first-creepy-teaser-for-luca-guadagninos-artificial/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:09:24+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755599",
+      "title": "Carrie Trailer Reveals Mike Flanagan\u2019s New Stephen King Series Coming to Prime Video",
+      "url": "https://otakukart.com/carrie-trailer-reveals-mike-flanagans-new-stephen-king-series-coming-to-prime-video/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:08:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755610",
+      "title": "Persona 6 and Persona 4 Revival Confirmed for Nintendo Switch 2",
+      "url": "https://otakukart.com/persona-6-and-persona-4-revival-confirmed-for-nintendo-switch-2/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T17:05:21+00:00"
     }
   ]
 }
