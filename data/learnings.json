@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6 Is Ditching the Classic 'Tap to Sprint' Control \u2014 and Fans Have Feelings",
-      "tag": "gta 6",
-      "posted_at": "2026-09-02T18:32:14.394240+00:00",
-      "urls": [
-        "https://kotaku.com/rockstar-is-finally-ditching-tap-x-to-sprint-in-gta-6-but-not-everyone-is-happy-im-honestly-a-little-disappointed-2000730560"
-      ],
-      "article_titles": [
-        "Rockstar Is Finally Ditching \u2018Tap X To Sprint\u2019 In GTA 6, But Not Everyone Is Happy: \u2018I\u2019m Honestly A Little Disappointed\u2019"
-      ]
-    },
-    {
-      "headline": "Disney Was Secretly Building Its Own Smash Bros. Fighter \u2014 and It Got Cancelled",
-      "tag": "\u2014",
-      "posted_at": "2026-09-02T18:32:14.662418+00:00",
-      "urls": [
-        "https://www.ign.com/articles/disney-was-working-on-its-own-smash-bros-like-fighting-game-confirms-ex-concept-artist"
-      ],
-      "article_titles": [
-        "Disney Was Working on Its Own Smash Bros.-Like Fighting Game, Confirms Ex-Concept Artist"
-      ]
-    },
-    {
       "headline": "StarCraft Could Be Coming Back \u2014 Nexon's Arc Raiders Publisher Is Reportedly Pursuing the Rights",
       "tag": "starcraft",
       "posted_at": "2026-09-02T18:49:19.278081+00:00",
@@ -1003,27 +981,24 @@
       "article_titles": [
         "Ikea Just Released An Official Skyrim Mod Starring Matt Berry As A Shelf"
       ]
+    },
+    {
+      "headline": "Metroid Ravenous Announced \u2014 Nintendo Seems to Be Letting Samus Loose in a Big Way",
+      "tag": "metroid",
+      "posted_at": "2026-09-09T18:44:41.323166+00:00",
+      "urls": [
+        "https://kotaku.com/metroid-ravenous-samus-personality-feminine-rage-2000732816",
+        "https://kotaku.com/metroid-ravenous-samus-personality-feminine-rage-2000732816"
+      ],
+      "article_titles": [
+        "Metroid Ravenous Looks Like Nintendo Is Finally Letting Samus Off The Leash",
+        "Metroid Ravenous Looks Like Nintendo Is Finally Letting Samus Off The Leash"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/metroid-ravenous-switch-2-release-date",
-      "title": "Metroid Ravenous announced, launches January 2027 exclusively for Nintendo Switch 2",
-      "url": "https://www.eurogamer.net/metroid-ravenous-switch-2-release-date",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:41:17+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/onyx-the-dark-grip-nintendo-switch-2-reveal",
-      "title": "Onyx: The Dark Grip is a new Bloober Team horror game coming exclusively to the Nintendo Switch 2",
-      "url": "https://www.eurogamer.net/onyx-the-dark-grip-nintendo-switch-2-reveal",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:35:16+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000732788",
       "title": "Kirby Gets A Big Sword And Smashes Open The Sky In His Next Open World Adventure",
@@ -1031,30 +1006,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-09-09T14:48:36+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000732759",
-      "title": "Professor Layton And The New World Of Steam *Finally* Has A Release Date",
-      "url": "https://kotaku.com/professor-layton-and-the-new-world-of-steam-release-date-2000732759",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:43:03+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000732772",
-      "title": "Mario Kart World Gets Classic SNES Courses In Its Latest Free Update",
-      "url": "https://kotaku.com/mario-kart-world-gets-classic-snes-courses-in-its-latest-free-update-2000732772",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:41:44+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000732769",
-      "title": "Metroid Ravenous Launches In January",
-      "url": "https://kotaku.com/metroid-ravenous-release-date-january-2027-nintendo-switch-2-2000732769",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:34:04+00:00"
     },
     {
       "guid": "TnM5orcStFeEfVMe4NqtUZ",
@@ -1065,22 +1016,6 @@
       "published_dt": "2026-09-09T14:53:41+00:00"
     },
     {
-      "guid": "hUjv6dh5dP9uRQjyivwPCR",
-      "title": "Turns out, a lot of Sega's biggest fans don't play its videogames: 'In some cases, their engagement is even higher than that of fans who actually play'",
-      "url": "https://www.pcgamer.com/gaming-industry/turns-out-a-lot-of-segas-biggest-fans-dont-play-its-videogames-in-some-cases-their-engagement-is-even-higher-than-that-of-fans-who-actually-play/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:41:34+00:00"
-    },
-    {
-      "guid": "Kg8RzxRcsTu46AyRTbwytB",
-      "title": "That's just great: Graphics card prices in China are set to increase again as Nvidia shifts even more of production towards AI GPUs",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/thats-just-great-graphics-card-prices-in-china-are-set-to-increase-again-as-nvidia-shifts-even-more-of-production-towards-ai-gpus/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:33:14+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237071616",
       "title": "\u2018Maxton Hall\u2019 Uses Amazon AI Technology To Sync Actors\u2019 Lips With Human-Dubbed Audio",
       "url": "https://deadline.com/2026/09/maxton-hall-amazon-ai-technology-lip-sync-dubbing-1237071616/",
@@ -1089,28 +1024,12 @@
       "published_dt": "2026-09-09T14:45:14+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237065820",
-      "title": "Venice Film Festival 2026: Read All Of Deadline\u2019s Reviews",
-      "url": "https://deadline.com/2026/09/venice-film-festival-2026-reviews-deadline-1237065820/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:32:51+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236855396",
       "title": "Halloween Film Festival Launched by Ripcord; Indie Platform Aims to Connect Filmmakers With Genre Fans (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/news/halloween-film-festival-ripcord-indie-platform-1236855396/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236806947",
-      "title": "\u2018Disclosure Day\u2019 Sets Peacock Streaming Release Date",
-      "url": "https://variety.com/2026/film/news/disclosure-day-peacock-release-date-streaming-how-to-watch-1236806947/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T14:34:08+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236694955",
@@ -1153,22 +1072,6 @@
       "published_dt": "2026-09-09T14:45:27+00:00"
     },
     {
-      "guid": "ozWacNh7NvMQQEnkHdDk9L",
-      "title": "Metroid Ravenous, the first 2D Metroid since Dread, is coming to Nintendo Switch 2 in January",
-      "url": "https://www.gamesradar.com/games/metroid/metroid-ravenous-the-first-2d-metroid-since-dread-is-coming-to-nintendo-switch-2-in-january/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T14:40:57+00:00"
-    },
-    {
-      "guid": "W66sUR8HLuxvuZuinPxRLd",
-      "title": "The Odyssey star Robert Pattinson is getting Oscar buzz for his latest movie as it lands a near-perfect Rotten Tomatoes score",
-      "url": "https://www.gamesradar.com/entertainment/drama-movies/the-odyssey-star-robert-pattinson-is-getting-oscar-buzz-for-his-latest-movie-as-it-lands-a-near-perfect-rotten-tomatoes-score/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T14:36:28+00:00"
-    },
-    {
       "guid": "1879197",
       "title": "Mario Kart World Free Update Is Out Today With All This New Stuff",
       "url": "https://www.gamespot.com/articles/mario-kart-world-free-update-is-out-today-with-all-this-new-stuff/",
@@ -1185,44 +1088,12 @@
       "published_dt": "2026-09-09T14:46:51+00:00"
     },
     {
-      "guid": "1879207",
-      "title": "A New Handheld-Only Switch 2 Game Is Coming From The Silent Hill 2 Remake Devs",
-      "url": "https://www.gamespot.com/articles/a-new-handheld-only-switch-2-game-is-coming-from-the-silent-hill-2-remake-devs/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T14:37:33+00:00"
-    },
-    {
-      "guid": "1879193",
-      "title": "Samus Is Returning To 2D In Metroid Ravenous, And She Talks Again",
-      "url": "https://www.gamespot.com/articles/samus-is-returning-to-2d-in-metroid-ravenous-and-she-talks-again/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T14:35:09+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-206124",
       "title": "'Kirby And The World Beyond' Goes Big On Switch 2 Next Spring",
       "url": "https://www.nintendolife.com/news/2026/09/kirby-and-the-world-beyond-goes-big-on-switch-2-next-spring",
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-09-09T14:55:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206121",
-      "title": "Mario Kart World Goes Retro In New Free Update, Launching Today",
-      "url": "https://www.nintendolife.com/news/2026/09/mario-kart-world-goes-retro-in-new-free-update-launching-today",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T14:40:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206120",
-      "title": "Metroid Ravenous Announced For Switch 2, Release Date Confirmed",
-      "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announced-for-switch-2-release-date-confirmed",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T14:35:00+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-206116",
@@ -1247,14 +1118,6 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-09T14:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122656",
-      "title": "Professor Layton and the New World of Steam Release Date Announced",
-      "url": "https://www.siliconera.com/professor-layton-and-the-new-world-of-steam-release-date-announced/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T14:32:28+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-28085",
@@ -2631,6 +2494,46 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-09T18:19:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072585",
+      "title": "Ross Weiner Joins Gersh As Theater Talent Agent",
+      "url": "https://deadline.com/2026/09/ross-weiner-joins-gersh-theater-agent-1237072585/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T18:32:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236693408",
+      "title": "\u2018Holy Wood Dust\u2019 Review: Victor Kossakovsky\u2019s Soothing, if Slightly Dull, Documentary Will Make You Want to Hug a Tree",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/holy-wood-dust-victor-kossakovsky-trees-1236693408/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T18:33:15+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=619287",
+      "title": "D&D: Venger\u2019s Back With Demonic Power For Days",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-vengers-back-with-demonic-power-for-days.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T18:39:43+00:00"
+    },
+    {
+      "guid": "t3_1wbtvcb",
+      "title": "KiwiTalkz: \u201cGoing forward, the Metroid series will no longer have droughts. Nintendo plan on having something Metroid related for release every 1 to 2 years max! Whether that\u2019s a new release, remaster, Switch 2 edition or NSO release.\u201d",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wbtvcb/kiwitalkz_going_forward_the_metroid_series_will/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T18:28:36+00:00"
+    },
+    {
+      "guid": "t3_1wbu7xw",
+      "title": "Possible GTA 6 collectors edition",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wbu7xw/possible_gta_6_collectors_edition/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T18:40:49+00:00"
     }
   ]
 }
