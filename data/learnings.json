@@ -1,56 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "HBO's Harry Potter Series Drops Second Trailer With New Cast Footage",
-      "tag": "harry potter (hbo series)",
-      "posted_at": "2026-09-02T15:25:03.078847+00:00",
-      "urls": [
-        "https://variety.com/2026/tv/news/harry-potter-trailer-hbo-quidditch-1236699211/",
-        "https://www.hollywoodreporter.com/tv/tv-news/hbos-harry-potter-second-trailer-1236688194/",
-        "https://www.gamesradar.com/entertainment/fantasy-shows/harry-potter-hbo-tv-teaser-trailer/"
-      ],
-      "article_titles": [
-        "\u2018Harry Potter\u2019 Trailer: Harry Wears the Sorting Hat, Tries Quidditch and Puts on Invisibility Cloak in HBO\u2019s TV Remake",
-        "HBO\u2019s \u2018Harry Potter\u2019 Reveals Second Trailer With All-New Footage of Cast",
-        "Harry Potter goes to Hogwarts and faces the Sorting Hat in new trailer for the HBO show, and it all feels very familiar"
-      ]
-    },
-    {
-      "headline": "SteamDB Has Been Acquired by Nexus Mods \u2014 But No Ads or Paywalls Planned",
-      "tag": "steamdb",
-      "posted_at": "2026-09-02T15:25:03.272744+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/steamdb-changes-hands-to-nexus-mods-which-means-it-needs-to-make-money-now-but-there-wont-be-ads-or-paywalls/"
-      ],
-      "article_titles": [
-        "SteamDB changes hands to Nexus Mods, which means it 'needs to make money' now\u2014but there won't be ads or paywalls"
-      ]
-    },
-    {
-      "headline": "PC Gaming Show Tokyo Direct Announced for September 20 With 35+ Games and World Premieres",
-      "tag": "pc gaming show",
-      "posted_at": "2026-09-02T15:25:03.465759+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/events-conferences/award-winning-presenter-frankie-ward-is-hosting-the-pc-gaming-show-tokyo-direct-showing-off-over-35-games-and-a-bunch-of-world-premieres/",
-        "https://www.gematsu.com/2026/09/pc-gaming-show-tokyo-direct-set-for-september-20"
-      ],
-      "article_titles": [
-        "Award-winning presenter Frankie Ward is hosting the PC Gaming Show Tokyo Direct, showing off over 35 games and a bunch of world premieres",
-        "PC Gaming Show Tokyo Direct set for September 20"
-      ]
-    },
-    {
-      "headline": "Pok\u00e9mon Go Is Getting a Pok\u00e9mon Anime Crossover Episode for Its 10th Anniversary",
-      "tag": "pok\u00e9mon go",
-      "posted_at": "2026-09-02T15:25:03.654098+00:00",
-      "urls": [
-        "https://www.ign.com/articles/after-10-years-pokemon-go-is-getting-a-pokemon-anime-crossover-episode"
-      ],
-      "article_titles": [
-        "After 10 Years, Pok\u00e9mon Go is Getting a Pok\u00e9mon Anime Crossover Episode"
-      ]
-    },
-    {
       "headline": "Mario Kart 8 Deluxe Gets 8-Player Split Screen in New Switch 2 Patch",
       "tag": "mario kart 8 deluxe",
       "posted_at": "2026-09-02T16:01:38.126067+00:00",
@@ -989,6 +939,32 @@
       ],
       "article_titles": [
         "Overcooked team returns with a first proper look at its adorably spooky co-op adventure Stage Fright, and it's out next year"
+      ]
+    },
+    {
+      "headline": "Long-Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Gets Its First Western Release as a PS5 Remaster",
+      "tag": "dragon quest",
+      "posted_at": "2026-09-09T16:01:28.637381+00:00",
+      "urls": [
+        "https://www.siliconera.com/dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd-debuts/",
+        "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today"
+      ],
+      "article_titles": [
+        "Dragon Quest Heroes: Torneko\u2019s Mystery Dungeon Classic HD Debuts",
+        "Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today"
+      ]
+    },
+    {
+      "headline": "PS Plus Extra and Premium Games for September 2026 Revealed, Including WWE 2K26",
+      "tag": "playstation plus",
+      "posted_at": "2026-09-09T16:01:28.922162+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-september-2026-include-wwe-2k26-and-more/",
+        "https://www.pushsquare.com/news/2026/09/10-ps-plus-extra-premium-games-for-september-2026-announced"
+      ],
+      "article_titles": [
+        "PlayStation Plus Extra/Premium Games For September 2026 Include WWE 2K26 And More",
+        "10 PS Plus Extra, Premium Games for September 2026 Announced"
       ]
     }
   ],
@@ -1994,6 +1970,222 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-09T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=246079",
+      "title": "Pikmin 4 is getting a Nintendo Switch 2 Edition with new content and voice commands",
+      "url": "https://www.videogameschronicle.com/news/pikmin-4-is-getting-a-nintendo-switch-2-edition-with-new-content-and-voice-commands/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:41:18+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=246069",
+      "title": "Mario Kart World gets a free update today adding 10 classic SNES tracks and two more Knockout Tours",
+      "url": "https://www.videogameschronicle.com/news/mario-kart-world-gets-a-free-update-today-adding-10-classic-snes-tracks-and-two-more-knockout-tours/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:35:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072288",
+      "title": "\u2018The View\u2019s Whoopi Goldberg Shuts Down Audience Boos At Ted Cruz Mention: \u201cWe Don\u2019t Gel With Them Always, But We Are Respectful\u201d",
+      "url": "https://deadline.com/2026/09/the-view-whoopi-goldberg-audience-boos-ted-cruz-1237072288/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:52:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072264",
+      "title": "Peacock Sets \u2018Disclosure Day\u2019 Exclusive Streaming Debut Date",
+      "url": "https://deadline.com/2026/09/disclosure-day-peacock-streaming-debut-1237072264/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:50:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237071654",
+      "title": "Netflix Searches For \u2018Love At First Sight\u2019 With Latest Dating Show From Velvet Hammer",
+      "url": "https://deadline.com/2026/09/netflix-love-at-first-sight-dating-show-velvet-hammer-1237071654/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237071522",
+      "title": "Rosal\u00eda In Early Talks To Join Alma Har\u2019el\u2019s Stacked Family Drama \u2018Wet\u2019, Would Be Singer\u2019s Biggest Film Role To Date \u2014 The Dish",
+      "url": "https://deadline.com/2026/09/rosalia-in-talks-join-javier-bardem-connor-storrie-wet-1237071522/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:33:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855246",
+      "title": "Channing Tatum, Gemma Chan and a 9-Year-Old Front the \u2018Josephine\u2019 Oscar Campaign (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/josephine-oscars-campaign-channing-tatum-gemma-chan-1236855246/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855362",
+      "title": "\u2018The Pitt\u2019 to Be Honored by Cedars-Sinai (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/columns/the-pitt-honored-by-cedars-sinai-1236855362/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236854556",
+      "title": "Xilam Animation Unveils Raft of Legacy, Returning IP Series Presales at Unifrance Rendez-vous (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/markets-festivals/xilam-animation-unifrance-rendez-vous-oggy-chickies-sales-1236854556/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:59:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855665",
+      "title": "\u2018Call My Agent! The Movie\u2019 Premieres in Paris as Ted Sarandos Touts Netflix\u2019s \u2018Vital\u2019 Role in France Amid Regulatory Fight",
+      "url": "https://variety.com/2026/film/global/call-my-agent-movie-premiere-paris-ted-sarandos-netflix-1236855665/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:47:49+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855878",
+      "title": "Fox Says DOJ Requests More Documents in Review of $22 Billion Roku Deal \u2018as Expected\u2019",
+      "url": "https://variety.com/2026/tv/news/fox-roku-deal-doj-merger-review-1236855878/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:42:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695323",
+      "title": "Secret Nudes, 10 Pairs of Cowboy Boots and a Pig in the Kitchen: What\u2019s Inside the Biggest Book on Schwarzenegger Ever",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/arnold-schwarzenegger-taschen-book-secret-nudes-1236695323/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:57:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695321",
+      "title": "Elon Musk\u2019s Estranged Daughter Vivian Wilson Goes Anti-AI Fronting Desigual Fashion Campaign",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/elon-musk-trans-daughter-vivian-wilson-desigual-ad-1236695321/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T15:34:56+00:00"
+    },
+    {
+      "guid": "aTXbEKwYiftpqD4ssnkzkd",
+      "title": "Metroid Ravenous: Everything we know so far about the new 2D Metroid game",
+      "url": "https://www.gamesradar.com/games/metroid/metroid-ravenous-guide/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:53:24+00:00"
+    },
+    {
+      "guid": "U3eiVaG4xDrfdW3JewDeCS",
+      "title": "Raid codes (September 2026) for Champions, resources, and more",
+      "url": "https://www.gamesradar.com/games/rpg/raid-shadow-legends-promo-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:50:41+00:00"
+    },
+    {
+      "guid": "CXBvJx254jknJMYYHxBn3E",
+      "title": "Rings of Power Seasons 1 and 2 are getting an official 4K Blu-ray release, and if even Amazon can admit physical media is still worth our time, I have no idea what that says about PlayStation",
+      "url": "https://www.gamesradar.com/entertainment/rings-of-power-seasons-1-and-2-are-getting-an-official-4k-blu-ray-release-and-if-even-amazon-can-admit-physical-media-is-still-worth-our-time-i-have-no-idea-what-that-says-about-playstation/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:27:25+00:00"
+    },
+    {
+      "guid": "1879320",
+      "title": "The Duskbloods Was A No-Show At The September Nintendo Direct And Now I\u2019m Worried",
+      "url": "https://www.gamespot.com/articles/the-duskbloods-was-a-no-show-at-the-september-nintendo-direct-and-now-im-worried/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:45:34+00:00"
+    },
+    {
+      "guid": "1879361",
+      "title": "PlayStation Plus Extra/Premium Games For September 2026 Include WWE 2K26 And More",
+      "url": "https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-september-2026-include-wwe-2k26-and-more/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:41:43+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205973",
+      "title": "Guide: Nintendo Direct September 2026 - Every Game, Announcement And Trailer",
+      "url": "https://www.nintendolife.com/guides/nintendo-direct-september-2026-every-game-announcement-and-trailer",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:50:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206105",
+      "title": "10 PS Plus Extra, Premium Games for September 2026 Announced",
+      "url": "https://www.pushsquare.com/news/2026/09/10-ps-plus-extra-premium-games-for-september-2026-announced",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122691",
+      "title": "Dragon Quest Heroes: Torneko\u2019s Mystery Dungeon Classic HD Debuts",
+      "url": "https://www.siliconera.com/dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd-debuts/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122690",
+      "title": "Kirby and the World Beyond Goes Open World",
+      "url": "https://www.siliconera.com/kirby-and-the-world-beyond-goes-open-world/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:50:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122676",
+      "title": "Stellar Blade Switch 2 Release Date and Bayonetta Costume Shown",
+      "url": "https://www.siliconera.com/stellar-blade-switch-2-release-date-and-bayonetta-costume-shown/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:40:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122450",
+      "title": "All the September 2026 Nintendo Direct Switch and Switch 2 Games",
+      "url": "https://www.siliconera.com/all-the-september-2026-nintendo-direct-switch-and-switch-2-games/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:35:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206103",
+      "title": "Anniversary: Crash Bandicoot Turns 30 Today! What Are Your Favourite Games From The Mad Marsupial?",
+      "url": "https://www.timeextension.com/news/2026/09/anniversary-crash-bandicoot-turns-30-today-what-are-your-favourite-games-from-the-mad-marsupial",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-197870",
+      "title": "Spy Drops Gaiden Might Just Be The 2D Metal Gear Spiritual Successor You've Been After, & It's Out Next Month",
+      "url": "https://www.timeextension.com/news/2026/09/spy-drops-gaiden-might-just-be-the-2d-metal-gear-spiritual-successor-youve-been-after-and-its-out-next-month",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755535",
+      "title": "Steven Knight Says Knowing the Next James Bond Actor Made Bond 26 \u201cA Little Easier\u201d to Write",
+      "url": "https://otakukart.com/steven-knight-says-knowing-the-next-james-bond-actor-made-bond-26-a-little-easier-to-write/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T15:52:24+00:00"
     }
   ]
 }
