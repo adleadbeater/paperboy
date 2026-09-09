@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "StarCraft Could Be Coming Back \u2014 Nexon's Arc Raiders Publisher Is Reportedly Pursuing the Rights",
-      "tag": "starcraft",
-      "posted_at": "2026-09-02T18:49:19.278081+00:00",
-      "urls": [
-        "https://kotaku.com/new-starcraft-game-nexon-licensing-deal-blizzard-2000730552",
-        "https://kotaku.com/new-starcraft-game-nexon-licensing-deal-blizzard-2000730552"
-      ],
-      "article_titles": [
-        "Arc Raiders Publisher Reportedly Wants The Rights To Make A New StarCraft Game",
-        "Arc Raiders Publisher Reportedly Wants The Rights To Make A New StarCraftGame"
-      ]
-    },
-    {
-      "headline": "Fortnite Is Crossing Over With Andrew Garfield's Historical Drama The Uprising",
-      "tag": "fortnite",
-      "posted_at": "2026-09-02T19:31:08.362294+00:00",
-      "urls": [
-        "https://www.ign.com/articles/fortnite-andrew-garfield-the-uprising-crossover"
-      ],
-      "article_titles": [
-        "Fortnite Announces Crossover With Andrew Garfield Historical Drama The Uprising"
-      ]
-    },
-    {
       "headline": "Dwarf Fortress Co-Creator on Life After Going Millionaire: \"Basically Reattaining What My Parents Could Do With Regular Jobs\"",
       "tag": "dwarf fortress",
       "posted_at": "2026-09-02T20:31:09.283833+00:00",
@@ -994,243 +970,57 @@
         "Metroid Ravenous Looks Like Nintendo Is Finally Letting Samus Off The Leash",
         "Metroid Ravenous Looks Like Nintendo Is Finally Letting Samus Off The Leash"
       ]
+    },
+    {
+      "headline": "Attack on Titan Is Coming to 4DX Theaters \u2014 With a Catch",
+      "tag": "attack on titan",
+      "posted_at": "2026-09-09T19:31:14.168021+00:00",
+      "urls": [
+        "https://www.ign.com/articles/attack-on-titan-is-coming-to-4dx-theaters-but-theres-a-catch"
+      ],
+      "article_titles": [
+        "Attack on Titan is Coming to 4DX Theaters, But There's a Catch"
+      ]
+    },
+    {
+      "headline": "Call of Duty Has a Gun Skin Only Visible on Xbox \u2014 and That's a Strange Exclusivity Move",
+      "tag": "call of duty",
+      "posted_at": "2026-09-09T19:31:14.319754+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/call-of-duty/call-of-duty-introduces-a-gun-skin-that-you-can-only-see-on-an-xbox-console/"
+      ],
+      "article_titles": [
+        "Call of Duty introduces a gun skin that you can only see on an Xbox console"
+      ]
+    },
+    {
+      "headline": "Silent Hill f Crosses Over With Japan's Biggest Indie Game of 2025",
+      "tag": "silent hill f",
+      "posted_at": "2026-09-09T19:31:14.473373+00:00",
+      "urls": [
+        "https://kotaku.com/silent-hill-f-urban-myth-dissolution-center-crossover-collaboration-free-minigame-2000732691"
+      ],
+      "article_titles": [
+        "Silent Hill f Just Collaborated With Japan\u2019s Biggest Indie Game Of 2025"
+      ]
+    },
+    {
+      "headline": "Persona 30th Anniversary Livestream Officially Announced",
+      "tag": "persona",
+      "posted_at": "2026-09-09T19:31:14.626063+00:00",
+      "urls": [
+        "https://www.siliconera.com/persona-30th-anniversary-livestream-announced/",
+        "https://www.siliconera.com/persona-30th-anniversary-livestream-announced/"
+      ],
+      "article_titles": [
+        "Persona 30th Anniversary Livestream Announced",
+        "Persona 30th Anniversary Livestream Announced"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/kirby-and-the-world-beyond-reveal-trailer-nintendo-direct",
-      "title": "Kirby and the World Beyond, which seemingly includes a Legend of Zelda crossover, coming to Nintendo Switch 2 in Spring 2027",
-      "url": "https://www.eurogamer.net/kirby-and-the-world-beyond-reveal-trailer-nintendo-direct",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:20:42+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000732730",
-      "title": "Everything We Saw At The September Nintendo Direct",
-      "url": "https://kotaku.com/nintendo-direct-september-kirby-metroid-mario-danganronpa-2000732730",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:11:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237072134",
-      "title": "Anthropic Researcher Jacob Coxon Resigns, Warns A.I. Industry Is \u201cGambling With Our Lives\u201d",
-      "url": "https://deadline.com/2026/09/anthropic-jacob-coxon-resignation-artificial-intelligence-1237072134/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:11:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237072150",
-      "title": "\u2018Rivals\u2019 Sets Season 2 Part 2 Release Date; First-Look Photos & Teaser",
-      "url": "https://deadline.com/2026/09/rivals-season-2-part-2-release-date-photos-teaser-1237072150/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:09:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237072170",
-      "title": "Martin Herlihy Leaving \u2018Saturday Night Live\u2019 After 5 Years",
-      "url": "https://deadline.com/2026/09/martin-herlihy-leaving-saturday-night-live-1237072170/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:02:53+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237072020",
-      "title": "MS NOW Streamer Sets Original Series With Rachel Maddow, Lawrence O\u2019Donnell, More",
-      "url": "https://deadline.com/2026/09/ms-now-new-streaming-series-rachel-maddow-lawrence-odonnell-1237072020/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:02:22+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236855321",
-      "title": "Beehiiv Expands Roster of Creators With Dana Harris-Bridson, David Covucci and Peter Greenberg",
-      "url": "https://variety.com/2026/tv/news/beehiiv-expands-creator-roster-media-collective-1236855321/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:20:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236855355",
-      "title": "Jeff Goldblum on Being Honored by Oceana and Hosting \u2018SNL U.K.\u2019 Season 2 Premiere: \u2018I\u2019m a Big Anglophile\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/columns/jeff-goldblum-oceana-and-hosting-snl-u-k-season-2-premiere-1236855355/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:13:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236855521",
-      "title": "Ginevra Elkann\u2019s \u2018The Roses of Marrakesh,\u2019 Starring Fanny Ardant, Boarded by True Colours (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/ginevra-elkann-roses-of-marrakesh-fanny-ardant-true-colours-1236855521/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:04:21+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236695340",
-      "title": "Martin Herlihy of Please Don\u2019t Destroy Exits \u2018SNL\u2019",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/martin-herlihy-exits-snl-please-dont-destroy-1236695340/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:08:13+00:00"
-    },
-    {
-      "guid": "6RkY5ZmhAqeQaCJZdBGHGJ",
-      "title": "Star Fox Adventures finally hits Switch 2 today, and I'm willing myself to believe the Zelda-like is as good as I thought it was when I was 12",
-      "url": "https://www.gamesradar.com/games/action/star-fox-adventures-finally-hits-switch-2-today-and-im-willing-myself-to-believe-the-zelda-like-is-as-good-as-i-thought-it-was-when-i-was-12/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:08:34+00:00"
-    },
-    {
-      "guid": "KFuECi4RbgjSwwFwP5WCoM",
-      "title": "You probably shouldn't play the Zelda Ocarina of Time remake with an N64 controller, but I'm holding for OG atmospheric controls",
-      "url": "https://www.gamesradar.com/hardware/retro/you-probably-shouldnt-play-the-zelda-ocarina-of-time-remake-with-an-n64-controller-but-im-holding-for-og-atmospheric-controls/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:06:32+00:00"
-    },
-    {
-      "guid": "EycfKuryGAqRK52SSdoehP",
-      "title": "Kirby and the World Beyond looks like the first open-world Kirby game, and it's coming to Switch 2 in spring 2027",
-      "url": "https://www.gamesradar.com/games/kirby/kirby-and-the-world-beyond-looks-like-the-first-open-world-kirby-game-and-its-coming-to-switch-2-in-spring-2027/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:02:28+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206126",
-      "title": "A Trio Of Resident Evil Remakes Hit Switch 2 In October",
-      "url": "https://www.nintendolife.com/news/2026/09/a-trio-of-resident-evil-remakes-hit-switch-2-in-october",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206127",
-      "title": "Persona 4 Revival Is Officially Heading To Switch 2, With Persona 6 Teased For The Future",
-      "url": "https://www.nintendolife.com/news/2026/09/persona-4-revival-is-officially-heading-to-switch-2-with-persona-6-teased-for-the-future",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:10:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206117",
-      "title": "Metal Slug Ultimate Collection Brings All the Classics to PS5, and a Brand New Game Is in the Works",
-      "url": "https://www.pushsquare.com/news/2026/09/metal-slug-ultimate-collection-brings-all-the-classics-to-ps5-and-a-brand-new-game-is-in-the-works",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:10:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206123",
-      "title": "Long Lost Dragon Quest Spin-Off Torneko's Mystery Dungeon Is Remastered on PS5 Today",
-      "url": "https://www.pushsquare.com/news/2026/09/long-lost-dragon-quest-spin-off-tornekos-mystery-dungeon-is-remastered-on-ps5-today",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:05:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122674",
-      "title": "Koei Tecmo Working on The Apothecary Diaries Console Game",
-      "url": "https://www.siliconera.com/koei-tecmo-working-on-the-apothecary-diaries-console-game/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:19:30+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122665",
-      "title": "Metroid Ravenous Announced",
-      "url": "https://www.siliconera.com/metroid-ravenous-announced/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:15:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755534",
-      "title": "Tom Rothman Says \u2018Spider-Man: Brand New Day\u2019 Is a \u201cSuper-Person\u201d Movie About a Lonely Peter Parker",
-      "url": "https://otakukart.com/tom-rothman-says-spider-man-brand-new-day-is-a-super-person-movie-about-a-lonely-peter-parker/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:19:23+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755533",
-      "title": "Tom Jones Says \u2018The Voice UK\u2019 Exit Was Caused by Insurance Problems, Not His Decision",
-      "url": "https://otakukart.com/tom-jones-says-the-voice-uk-exit-was-caused-by-insurance-problems-not-his-decision/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:02:22+00:00"
-    },
-    {
-      "guid": "t3_1wbo50h",
-      "title": "Romancing SaGa 3: Destinies United Announced, Releases Feb 16th 2027 For PS5, Xbox Series, Switch 2, Switch, PC",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wbo50h/romancing_saga_3_destinies_united_announced/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:04:38+00:00"
-    },
-    {
-      "guid": "b6051ec3-6915-4ed7-99ac-28d88cf3c6a7",
-      "title": "Resident Evil 2, 3, and 4 Remakes Are Coming to Nintendo Switch 2 Very Soon",
-      "url": "https://www.ign.com/articles/resident-evil-2-3-and-4-remakes-are-coming-to-nintendo-switch-2-very-soon",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:23:55+00:00"
-    },
-    {
-      "guid": "6efb6367-0f58-42ba-8ea7-5086d5b1b55a",
-      "title": "Apple Surprise and Shine Event Live Report \u2013 Will Apple Release a Folding iPhone?",
-      "url": "https://www.ign.com/articles/apple-surprise-and-shine-event-everything-announced",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:20:17+00:00"
-    },
-    {
-      "guid": "bAyZoc4wLo6kWFnVXHFLyT",
-      "title": "Zach Cregger admits 'I was naive' and pre-apologises for his upcoming Resident Evil film, but I don't think he owes us anything",
-      "url": "https://www.pcgamer.com/movies-tv/zach-cregger-admits-i-was-naive-and-pre-apologises-for-his-upcoming-resident-evil-film-but-i-dont-think-he-owes-us-anything/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:28:44+00:00"
-    },
-    {
-      "guid": "yxnVgqMaZj4BcA7BqFqv9c",
-      "title": "20 years later, veteran WoW director says players outsmarted him completely in Ahn'Qiraj: 'All that work, and there was still an instant tell'",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/20-years-later-veteran-wow-director-says-players-outsmarted-him-completely-in-ahnqiraj-all-that-work-and-there-was-still-an-instant-tell/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:22:04+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236695346",
-      "title": "Scripps, PWHL Ink Media Rights Deal for 2026-27",
-      "url": "https://www.hollywoodreporter.com/business/business-news/pwhl-ion-tv-deal-2026-27-season-1236695346/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T15:27:05+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206130",
-      "title": "Star Fox Fans Are Eating Good, With An NSO Drop And A Switch 2 Update Inbound",
-      "url": "https://www.nintendolife.com/news/2026/09/star-fox-fans-are-eating-good-with-an-nso-drop-and-a-switch-2-update-inbound",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:25:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122666",
-      "title": "Danganronpa 2\u00d72 Aims for January 2027 Release Date",
-      "url": "https://www.siliconera.com/danganronpa-2x2-aims-for-january-2027-release-date/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:30:00+00:00"
-    },
     {
       "guid": "https://www.videogameschronicle.com/?p=246079",
       "title": "Pikmin 4 is getting a Nintendo Switch 2 Edition with new content and voice commands",
@@ -1352,14 +1142,6 @@
       "published_dt": "2026-09-09T15:50:41+00:00"
     },
     {
-      "guid": "CXBvJx254jknJMYYHxBn3E",
-      "title": "Rings of Power Seasons 1 and 2 are getting an official 4K Blu-ray release, and if even Amazon can admit physical media is still worth our time, I have no idea what that says about PlayStation",
-      "url": "https://www.gamesradar.com/entertainment/rings-of-power-seasons-1-and-2-are-getting-an-official-4k-blu-ray-release-and-if-even-amazon-can-admit-physical-media-is-still-worth-our-time-i-have-no-idea-what-that-says-about-playstation/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:27:25+00:00"
-    },
-    {
       "guid": "1879320",
       "title": "The Duskbloods Was A No-Show At The September Nintendo Direct And Now I\u2019m Worried",
       "url": "https://www.gamespot.com/articles/the-duskbloods-was-a-no-show-at-the-september-nintendo-direct-and-now-im-worried/",
@@ -1382,14 +1164,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-09-09T15:50:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206105",
-      "title": "10 PS Plus Extra, Premium Games for September 2026 Announced",
-      "url": "https://www.pushsquare.com/news/2026/09/10-ps-plus-extra-premium-games-for-september-2026-announced",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1122691",
@@ -1430,14 +1204,6 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-09T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-197870",
-      "title": "Spy Drops Gaiden Might Just Be The 2D Metal Gear Spiritual Successor You've Been After, & It's Out Next Month",
-      "url": "https://www.timeextension.com/news/2026/09/spy-drops-gaiden-might-just-be-the-2d-metal-gear-spiritual-successor-youve-been-after-and-its-out-next-month",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T15:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1755535",
@@ -2356,6 +2122,158 @@
       "title": "Persona 30th Anniversary Livestream Announced",
       "url": "https://www.siliconera.com/persona-30th-anniversary-livestream-announced/",
       "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T19:00:00+00:00"
+    },
+    {
+      "guid": "0e0bf05b-4a90-4f62-940c-b4c75a19142d",
+      "title": "Apple Announces Foldable iPhone Duo",
+      "url": "https://www.ign.com/articles/apple-announces-foldable-iphone-duo",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:20:10+00:00"
+    },
+    {
+      "guid": "64470b20-2b4f-49db-8a00-afaf63097007",
+      "title": "Attack on Titan is Coming to 4DX Theaters, But There's a Catch",
+      "url": "https://www.ign.com/articles/attack-on-titan-is-coming-to-4dx-theaters-but-theres-a-catch",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:14:14+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732691",
+      "title": "Silent Hill f Just Collaborated With Japan\u2019s Biggest Indie Game Of 2025",
+      "url": "https://kotaku.com/silent-hill-f-urban-myth-dissolution-center-crossover-collaboration-free-minigame-2000732691",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:00:55+00:00"
+    },
+    {
+      "guid": "ncCQRZXbLoraS2RMJyiyrT",
+      "title": "Call of Duty introduces a gun skin that you can only see on an Xbox console",
+      "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-introduces-a-gun-skin-that-you-can-only-see-on-an-xbox-console/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:11:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072471",
+      "title": "\u2018Tracker\u2019 Promotes Cassady\u00a0McClincy Zhang To Series Regular For Season 4",
+      "url": "https://deadline.com/2026/09/tracker-cassady-mcclincy-zhang-series-regular-season-4-1237072471/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072642",
+      "title": "\u2018RuPaul\u2019s Drag Race UK All Stars\u2019 Sets Fall 2027 Global Premiere On WOW Presents Plus",
+      "url": "https://deadline.com/2026/09/rupauls-drag-race-uk-all-stars-2027-wow-presents-plus-1237072642/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:15:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072540",
+      "title": "\u2018Baby Reindeer\u2019s Jessica Gunning Returning To Netflix For Darkly Comedic Thriller Series \u2018Feral\u2019",
+      "url": "https://deadline.com/2026/09/jessica-gunning-to-star-feral-netflix-1237072540/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072572",
+      "title": "September Showdown! SCOTUS Orders Blue State AGs To Respond To ParaBros Merger Antitrust Suit Objection From Iowa & Montana",
+      "url": "https://deadline.com/2026/09/paramount-merger-lawsuit-supreme-court-ruling-1237072572/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:06:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072427",
+      "title": "Carrie Coon Joins Rebecca Ferguson & Greta Lee In MRC Rom-Com \u2018Honeymoon / Funeral\u2019",
+      "url": "https://deadline.com/2026/09/carrie-coon-rebecca-ferguson-greta-lee-honeymoon-funeral-1237072427/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:01:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236856102",
+      "title": "Channing Dungey on Warner Bros. TV Group\u2019s Big Year of Pickups, Renewals and New Deals \u2014 Despite Industry Distractions and Ownership Uncertainty",
+      "url": "https://variety.com/2026/tv/news/warner-bros-tv-group-pickups-renewals-deals-channing-dungey-1236856102/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849929",
+      "title": "Taylor Swift Has Never Won a Grammy for Record or Song of the Year. With Three No. 1 Hits Eligible for 2027, Which Will She Choose for Victory?",
+      "url": "https://variety.com/2026/music/columns/taylor-swift-grammy-chances-i-knew-it-i-knew-you-fate-ophelia-1236849929/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:04:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236849068",
+      "title": "The Best Tech at\u00a0IFA 2026: From 4K Projectors and Wearables to Headphones and TV Smart Lighting",
+      "url": "https://variety.com/2026/shopping/news/ifa-september-2026-best-new-tech-releases-products-shop-now-1236849068/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236856118",
+      "title": "Paul Mescal, Emma Corrin, Emilia Clarke Lead London National Theatre\u2019s Starry 2027 Slate",
+      "url": "https://variety.com/2026/theater/news/paul-mescal-emma-corrin-emilia-clarke-national-theatre-2027-slate-1236856118/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695740",
+      "title": "Bad Bunny to Celine Dion to Backstreet Boys: Musical Residencies Are Going Global \u2013 Boosting Tourism, Making Millions and Healing Fans",
+      "url": "https://www.hollywoodreporter.com/music/music-features/bad-bunny-celine-dion-backstreet-boys-musical-residencies-1236695740/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:24:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236685106",
+      "title": "\u2018A Good Little Soldier\u2019 Review: A Tense French Workplace Drama About a Woman Caught Between Motherhood and Corporate Hell",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/a-good-little-soldier-review-alba-rohrwacher-stephane-brize-1236685106/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:16:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695697",
+      "title": "TMZ\u2019s Harvey Levin Cut Kanye West\u2019s Hitler Praise From 2018 Interview, Former Staffer Says",
+      "url": "https://www.hollywoodreporter.com/news/general-news/tmz-harvey-levin-cut-kanye-west-hitler-praise-2018-interview-1236695697/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T19:12:01+00:00"
+    },
+    {
+      "guid": "1879511",
+      "title": "A Full-Fledged Skyrim Mod Starring Matt Berry Is Here To Refresh The Game With An Ikea Ad",
+      "url": "https://www.gamespot.com/articles/a-full-fledged-skyrim-mod-starring-matt-berry-is-here-to-refresh-the-game-with-an-ikea-ad/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T19:17:17+00:00"
+    },
+    {
+      "guid": "1879508",
+      "title": "Gears Of War: E-Day Has A Smash Mouth-Inspired Achievement, And That\u2019s Fantastic",
+      "url": "https://www.gamespot.com/articles/gears-of-war-e-day-has-a-smash-mouth-inspired-achievement-and-thats-fantastic/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T19:16:27+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206111",
+      "title": "The Surprisingly Good Twisted Metal TV Series Wraps Filming on Season 3",
+      "url": "https://www.pushsquare.com/news/2026/09/the-surprisingly-good-twisted-metal-tv-series-wraps-filming-on-season-3",
+      "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-09T19:00:00+00:00"
     }
