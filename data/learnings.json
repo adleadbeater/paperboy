@@ -926,94 +926,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000732391",
-      "title": "Game Awards Host Geoff Keighley And PlayStation Architect Mark Cerny Will Start Giving $2 Million To Young Game Designers Each Year",
-      "url": "https://kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T19:49:04+00:00"
-    },
-    {
-      "guid": "RkgVd3xcMaEQnpHRYFnwzB",
-      "title": "Breaking Benjamin frontman pauses concert to rant about Fallout 4 modding beef: 'There was a modder in the community that was really mean to me'",
-      "url": "https://www.pcgamer.com/games/fallout/breaking-benjamin-frontman-pauses-concert-to-rant-about-fallout-4-modding-beef-there-was-a-modder-in-the-community-that-was-really-mean-to-me/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T19:36:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237066905",
-      "title": "Sylvia Hoeks Joins Apple TV\u2019s \u2018Disavowed\u2019",
-      "url": "https://deadline.com/2026/09/sylvia-hoeks-cast-apple-tvs-disavowed-1237066905/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T20:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237071236",
-      "title": "Sarah Catherine Hook Lands Lead Role In Python Thriller \u2018Crush\u2019 From 20th Century Studios",
-      "url": "https://deadline.com/2026/09/sarah-catherine-hook-joins-crush-thriller-20th-1237071236/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T20:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070708",
-      "title": "\u2018Bunker\u2019 Starring Pen\u00e9lope Cruz & Javier Bardem Earns 16-Minute Venice Ovation, Longest Of Festival So Far",
-      "url": "https://deadline.com/2026/09/bunker-penelope-cruz-javier-bardem-venice-ovation-1237070708/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T19:54:53+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070484",
-      "title": "\u2018Company\u2019 Review: Nick Nolte And Other Notables Are In It, But Director Casey Affleck\u2019s Son Atticus Makes Biggest Impression \u2013 Venice Film Festival",
-      "url": "https://deadline.com/2026/09/company-review-nick-nolte-director-casey-affleck-venice-1237070484/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T19:50:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236844863",
-      "title": "Pen\u00e9lope Cruz Sobs and Kisses Javier Bardem as \u2018Bunker\u2019 Dazzles Venice With Record 15.5-Minute Ovation",
-      "url": "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T19:49:32+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236855099",
-      "title": "San Sebasti\u00e1n Festival Gets Spanish Government Industry Boost",
-      "url": "https://variety.com/2026/film/global/san-sebastian-festival-spanish-government-industry-boost-1236855099/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T19:45:52+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236693784",
-      "title": "\u2018Company\u2019 Review: Casey Affleck Directs a Surprising, Decade-Hopping but Dull Existential Drama",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/company-review-casey-affleck-nick-nolte-scoot-mcnairy-1236693784/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T19:50:00+00:00"
-    },
-    {
-      "guid": "6heVw79UawZ8LdwFy8XQva",
-      "title": "The Blood of Dawnwalker studio is hiring for a sequel after selling 1 million copies in 3 days: \"We're not resting on our laurels\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/the-blood-of-dawnwalker-studio-is-hiring-for-a-sequel-after-selling-1-million-copies-in-3-days-were-not-resting-on-our-laurels/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T19:36:41+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122549",
-      "title": "Persona Tarot Deck Collection Cards Based on 3, 4, and 5",
-      "url": "https://www.siliconera.com/persona-tarot-deck-collection-cards-based-on-3-4-and-5/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-08T20:00:00+00:00"
-    },
-    {
       "guid": "e07602e3-321b-43fc-9d4e-7db2a7335f9f",
       "title": "The Thin and Light Gigabyte AERO X16 16\" RTX 5070 Gaming Laptop Drops to $1,340 at Best Buy",
       "url": "https://www.ign.com/articles/gigabyte-aero-x16-16-gaming-laptop-deal-september-2026",
@@ -1054,22 +966,6 @@
       "published_dt": "2026-09-08T20:17:53+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237069374",
-      "title": "Prime Video Adds \u2018The Test\u2019 Season 4 & True-Crime Docs On Backpacker Poisonings And Killer Trio To Australian Slate",
-      "url": "https://deadline.com/2026/09/prime-video-true-crime-docs-the-test-season-4-1237069374/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T20:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237070975",
-      "title": "Aura Entertainment\u00a0Acquires Dario Russo\u2019s \u2018The Fox\u2019 To Release Theatrically In December",
-      "url": "https://deadline.com/2026/09/the-fox-release-date-theaters-aquired-aura-entertainment-1237070975/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T20:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236855137",
       "title": "Suno and Believe Music Announce Strategic Partnership",
       "url": "https://variety.com/2026/digital/news/suno-believe-strategic-partnership-1236855137/",
@@ -1084,22 +980,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-08T20:00:42+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236854836",
-      "title": "Prime Video Orders Australian Originals \u2018Free Spirits: The Backpacker Poisonings,\u2019 \u2018Madness of Three\u2019 and \u2018The Test\u2019 Season 4",
-      "url": "https://variety.com/2026/tv/news/prime-video-australian-originals-the-test-season-4-1236854836/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236694338",
-      "title": "TuneCore Reverses Course on Suno, Now Will Distribute Its AI-Generated Music",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/suno-announces-partnership-with-tunecore-believe-1236694338/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-08T20:00:18+00:00"
     },
     {
       "guid": "t3_1waztwr",
@@ -1324,6 +1204,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-08T23:00:00+00:00"
+    },
+    {
+      "guid": "aj5yoxNPEDkz8ENLmG8iNY",
+      "title": "Corporations want to kill physical media because it suits them, but Big Box PC game packaging just got a second chance",
+      "url": "https://www.pcgamer.com/gaming-industry/corporations-want-to-kill-physical-media-because-it-suits-them-but-big-box-pc-game-packaging-just-got-a-second-chance/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T23:54:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236694707",
+      "title": "Meta Lab Heads to Best Buy With Rollout of 50 Locations by End of 2026",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/meta-lab-at-best-buy-ai-glasses-vr-headset-demo-locations-1236694707/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-08T23:45:01+00:00"
     }
   ]
 }
