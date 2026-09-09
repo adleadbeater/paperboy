@@ -1,63 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "RuneScape Hits Console for the First Time via Xbox Game Pass in September",
-      "tag": "xbox game pass",
-      "posted_at": "2026-09-02T13:33:56.955173+00:00",
-      "urls": [
-        "https://www.eurogamer.net/september-2026-xbox-pc-game-pass-list"
-      ],
-      "article_titles": [
-        "September's first wave of Xbox Game Pass games revealed, and it brings RuneScape to console for the first time"
-      ]
-    },
-    {
-      "headline": "Nexus Mods Just Acquired SteamDB, the Community's Essential Steam Tracker",
-      "tag": "nexus mods / steamdb",
-      "posted_at": "2026-09-02T14:01:23.815644+00:00",
-      "urls": [
-        "https://kotaku.com/nexus-mods-steamdb-steam-2000730486"
-      ],
-      "article_titles": [
-        "The Biggest Mod Website Just Bought Everyone\u2019s Window Into Steam"
-      ]
-    },
-    {
-      "headline": "WoW Fans Dig \"Wow 2\" Evidence Out of Blizzard's Backend Amid Classic Plus Speculation",
-      "tag": "world of warcraft",
-      "posted_at": "2026-09-02T14:01:23.888430+00:00",
-      "urls": [
-        "https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine",
-        "https://www.eurogamer.net/world-of-warcraft-classic-plus-wow-2-colours-website-css-datamine"
-      ],
-      "article_titles": [
-        "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend",
-        "World of Warcraft fans so eager to find confirmation of \"Classic Plus\", they've dug \"wow 2\" evidence out of Blizzards' backend"
-      ]
-    },
-    {
-      "headline": "Barbarian Director Zach Cregger Will Bring Resident Evil's Resource Management to His Movie",
-      "tag": "resident evil",
-      "posted_at": "2026-09-02T14:31:13.109631+00:00",
-      "urls": [
-        "https://www.pcgamer.com/movies-tv/zach-cregger-is-going-to-bring-the-resource-management-aspect-of-the-games-to-his-resident-evil-movie/"
-      ],
-      "article_titles": [
-        "Zach Cregger is going to bring the 'resource management aspect of the games' to his Resident Evil movie"
-      ]
-    },
-    {
-      "headline": "Square Enix Denies Reports That It's Going Private",
-      "tag": "square enix",
-      "posted_at": "2026-09-02T14:31:13.256911+00:00",
-      "urls": [
-        "https://www.eurogamer.net/square-enix-denies-going-private-report"
-      ],
-      "article_titles": [
-        "Square Enix denies it's going private following Japanese reports to the contrary"
-      ]
-    },
-    {
       "headline": "Steam Just Set a New Record With Over 700 Games Released in a Single Week",
       "tag": "steam",
       "posted_at": "2026-09-02T15:01:42.651544+00:00",
@@ -920,6 +863,41 @@
       "article_titles": [
         "Steam may have leaked achievements for countless forthcoming PC games via a third party site, including Persona 6, Ace Combat 8, and even some unannounced games"
       ]
+    },
+    {
+      "headline": "Hyrule Warriors: Age of Calamity Is Getting a Switch 2 Edition \u2014 With a Discount for Existing Owners",
+      "tag": "hyrule warriors: age of calamity",
+      "posted_at": "2026-09-09T14:31:23.976402+00:00",
+      "urls": [
+        "https://www.ign.com/articles/hyrule-warriors-age-of-calamity-is-coming-to-switch-2-with-a-discount-for-existing-owners"
+      ],
+      "article_titles": [
+        "Hyrule Warriors: Age of Calamity Is Coming to Switch 2 With a Discount for Existing Owners"
+      ]
+    },
+    {
+      "headline": "Pikmin 4 Switch 2 Edition Confirmed for November",
+      "tag": "pikmin 4",
+      "posted_at": "2026-09-09T14:31:24.059216+00:00",
+      "urls": [
+        "https://www.ign.com/articles/nintendo-confirms-pikmin-4-switch-2-edition",
+        "https://www.nintendolife.com/news/2026/09/pikmin-4-finally-gets-the-switch-2-edition-it-deserves-this-november"
+      ],
+      "article_titles": [
+        "Nintendo Confirms Pikmin 4 Switch 2 Edition",
+        "Pikmin 4 Finally Gets The 'Switch 2 Edition' It Deserves This November"
+      ]
+    },
+    {
+      "headline": "Yo-Kai Watch Is Back \u2014 A New Game in the Series Has Been Announced",
+      "tag": "yo-kai watch",
+      "posted_at": "2026-09-09T14:31:24.151863+00:00",
+      "urls": [
+        "https://kotaku.com/holy-spirits-were-getting-a-new-yo-kai-watch-game-2000732751"
+      ],
+      "article_titles": [
+        "Holy Spirits, We\u2019re Getting A New Yo-Kai Watch Game"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1084,6 +1062,270 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-09T13:30:00+00:00"
+    },
+    {
+      "guid": "d6244a1e-f988-437e-aff6-27630c1d6c64",
+      "title": "Meccha Chameleon Sneaks Onto Nintendo Switch 2 Later Today",
+      "url": "https://www.ign.com/articles/meccha-chameleon-sneaks-onto-nintendo-switch-2-later-today",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:26:25+00:00"
+    },
+    {
+      "guid": "281c668c-6916-48ad-bc4f-bde2b5505eab",
+      "title": "Hyrule Warriors: Age of Calamity Is Coming to Switch 2 With a Discount for Existing Owners",
+      "url": "https://www.ign.com/articles/hyrule-warriors-age-of-calamity-is-coming-to-switch-2-with-a-discount-for-existing-owners",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:22:30+00:00"
+    },
+    {
+      "guid": "798911c5-ee64-4df7-b0c5-3edd789d2676",
+      "title": "GameCube Classic Star Fox Adventures Available Via Nintendo Switch Online Today",
+      "url": "https://www.ign.com/articles/gamecube-classic-star-fox-adventures-available-via-nintendo-switch-online-today",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:21:17+00:00"
+    },
+    {
+      "guid": "922d3c5a-45b3-45d0-ab92-61a0613fad99",
+      "title": "Nintendo Confirms Pikmin 4 Switch 2 Edition",
+      "url": "https://www.ign.com/articles/nintendo-confirms-pikmin-4-switch-2-edition",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:16:06+00:00"
+    },
+    {
+      "guid": "498e67d1-23f4-4cc8-9581-1ac125cab0ba",
+      "title": "Monster Hunter Wilds Nintendo Switch 2 Release Date Set for December 2026",
+      "url": "https://www.ign.com/articles/monster-hunter-wilds-nintendo-switch-2-release-date-set-for-december-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:09:41+00:00"
+    },
+    {
+      "guid": "8c7d0e1e-11c0-4178-af9a-a265c3b76b66",
+      "title": "Xiri: Oasis Cities, a Survival-Based High-Tech Future-Set City-Builder, Announced for PC",
+      "url": "https://www.ign.com/articles/xiri-oasis-cities-a-survival-based-high-tech-future-set-city-builder-announced-for-pc",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2-release-date",
+      "title": "Monster Hunter Wilds is headed to the Switch 2 on later this year, comes with local co-operative play",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-nintendo-switch-2-release-date",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:15:28+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/meccha-chameleon-switch-2",
+      "title": "After selling over 20 million copies on Steam, Meccha Chameleon comes to Nintendo Switch 2 later today",
+      "url": "https://www.eurogamer.net/meccha-chameleon-switch-2",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:13:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732751",
+      "title": "Holy Spirits, We\u2019re Getting A New Yo-Kai Watch Game",
+      "url": "https://kotaku.com/holy-spirits-were-getting-a-new-yo-kai-watch-game-2000732751",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:19:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732743",
+      "title": "Meccha Chameleon  Is Coming To Switch 2 Later Today",
+      "url": "https://kotaku.com/meccha-chamelon-is-coming-to-switch-2-later-today-2000732743",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:11:43+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732729",
+      "title": "Nintendo Keeps Revealing Cool, Expensive Lego Sets That Won\u2019t Be Ready For Christmas",
+      "url": "https://kotaku.com/nintendo-keeps-revealing-cool-expensive-lego-sets-that-wont-be-ready-for-christmas-2000732729",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:00:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237070696",
+      "title": "Megan Lawless Joined By Fivel Stewart, Savanah Moss, Liv Morgan & Carter Jenkins In \u2018Ping\u2019; Ultimate Media Group & CAA Launch TIFF Market Sales",
+      "url": "https://deadline.com/2026/09/fivel-stewart-savanah-moss-liv-morgan-join-megan-lawless-ping-1237070696/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072064",
+      "title": "Most Networks Take Wait-And-See Approach To Coverage Of Donald Trump\u2019s Midterm Convention",
+      "url": "https://deadline.com/2026/09/trump-midterm-convention-network-coverage-1237072064/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:25:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237048559",
+      "title": "International Disruptors: \u2018My Fault\u2019 Author Mercedes Ron On Building A Romance Empire, Taking Her IP To Hollywood & Hopes For Fourth \u2018Culpables\u2019 Adaptation",
+      "url": "https://deadline.com/2026/09/mercedes-ron-my-fault-fourth-culpables-prime-video-1237048559/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:13:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072026",
+      "title": "Sony Pictures CEO Ravi Ahuja On Strategy Of Targeted Expansion Vs \u201cDisruptive\u201d Mega M&A",
+      "url": "https://deadline.com/2026/09/sony-pictures-ceo-ravi-ahuja-on-targeted-expansion-vs-disruptive-ma-1237072026/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:07:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855513",
+      "title": "Box Office: \u2018Practical Magic 2\u2019 Aims to Dethrone \u2018Spider-Man: Brand New Day\u2019 With $40 Million Debut",
+      "url": "https://variety.com/2026/film/box-office/practical-magic-2-box-office-opening-weekend-projection-spiderman-brand-new-day-1236855513/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:21:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855736",
+      "title": "Martin Herlihy Exits \u2018SNL\u2019 After Five Seasons",
+      "url": "https://variety.com/2026/tv/news/martin-herlihy-leaves-snl-1236855736/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:13:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855720",
+      "title": "Sydney Sweeney Goes Nude in Provocative Ad for Novig Sports Betting App",
+      "url": "https://variety.com/2026/digital/news/sydney-sweeney-nude-novig-ad-1236855720/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:06:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855666",
+      "title": "Sony Pictures Entertainment CEO on Success of \u2018Spider-Man: Brand New Day\u2019: The Movie Is \u2018Emotional\u2019 and \u2018Some People Come Away Crying\u2019",
+      "url": "https://variety.com/2026/film/news/sony-pictures-ceo-spider-man-brand-new-day-emotional-people-crying-1236855666/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:01:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855126",
+      "title": "\u2018Bleeding Hearts\u2019: This Must-See TIFF Doc Is a Real Life \u2018A Star Is Born\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/features/bleeding-hearts-doc-tiff-zella-day-jesse-woods-a-star-is-born-1236855126/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855232",
+      "title": "\u201948 Hours\u2019 Expands Use of Video Podcasting With \u2018Woman in the Woods\u201d",
+      "url": "https://variety.com/2026/tv/news/48-hours-expands-video-podcasting-woman-in-the-woods-1236855232/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236689864",
+      "title": "The Investor Who\u2019s Convinced That Pok\u00e9mon Cards Will Be Currency After an Apocalypse",
+      "url": "https://www.hollywoodreporter.com/business/business-news/trading-cards-growth-pokemon-apocalypse-peter-levin-chat-1236689864/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-09T14:21:54+00:00"
+    },
+    {
+      "guid": "PmxpQAMxzjfKHAFVsUsq7W",
+      "title": "\"It's a new day at Blizzard\": Union wins historic contract protecting 1,900 World of Warcraft, Diablo, Overwatch, and more workers as Microsoft plans another 1,600 layoffs",
+      "url": "https://www.gamesradar.com/games/its-a-new-day-at-blizzard-union-wins-historic-contract-protecting-1-900-world-of-warcraft-diablo-overwatch-and-more-workers-as-microsoft-plans-another-1-600-layoffs/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:23:56+00:00"
+    },
+    {
+      "guid": "6MuhhBQnVhmTqEZDq38oqS",
+      "title": "VisionQuest showrunner confirms when the upcoming TV show takes place on the Marvel timeline",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-showrunner-confirms-when-the-upcoming-tv-show-takes-place-on-the-marvel-timeline/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:23:54+00:00"
+    },
+    {
+      "guid": "3HL74XDvfGY7kWN9BzHzbk",
+      "title": "Halloween the Game codes (September 2026) for 3D glasses",
+      "url": "https://www.gamesradar.com/games/horror/halloween-the-game-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:18:26+00:00"
+    },
+    {
+      "guid": "XKrLZQDZU6HWve6gG6w58h",
+      "title": "GTA 6 wasn't \"fully formed\" when Trailer 1 released, Rockstar boss says, but the Tom Petty song it used was a \"mission statement\" of where it was going",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wasnt-fully-formed-when-trailer-1-released-rockstar-boss-says-but-the-tom-petty-song-it-used-was-a-mission-statement-of-where-it-was-going/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T13:58:38+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206118",
+      "title": "Pikmin 4 Finally Gets The 'Switch 2 Edition' It Deserves This November",
+      "url": "https://www.nintendolife.com/news/2026/09/pikmin-4-finally-gets-the-switch-2-edition-it-deserves-this-november",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:20:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122651",
+      "title": "Xenoblade Chronicles 3 Switch 2 Edition Gets Shimmer, Roguelike Heroes\u2019 Vault Mode",
+      "url": "https://www.siliconera.com/xenoblade-chronicles-3-switch-2-edition-gets-shimmer-roguelike-heroes-vault-mode/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:28:34+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122624",
+      "title": "Crisis Core FFVII Reunion Switch 2 Port Announced",
+      "url": "https://www.siliconera.com/crisis-core-ffvii-reunion-switch-2-port-announced/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:16:07+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122645",
+      "title": "Monster Hunter Wilds Switch 2 Release Date Updated",
+      "url": "https://www.siliconera.com/monster-hunter-wilds-switch-2-release-date-updated/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:02:46+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1076379",
+      "title": "Professor Layton and the New World of Steam launches December 10",
+      "url": "https://www.gematsu.com/2026/09/professor-layton-and-the-new-world-of-steam-launches-december-10",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:11:25+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1057357",
+      "title": "Monster Hunter Wilds for Switch 2 launches December 4",
+      "url": "https://www.gematsu.com/2026/09/monster-hunter-wilds-for-switch-2-launches-december-4",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:02:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755523",
+      "title": "Junket Bank Anime Delay Confirmed as October Premiere Is Postponed Indefinitely",
+      "url": "https://otakukart.com/junket-bank-anime-delay-confirmed-as-october-premiere-is-postponed-indefinitely/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-09T14:21:02+00:00"
     }
   ]
 }
