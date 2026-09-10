@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Netflix's D&D Live-Action Universe Continues With 'Ravenloft' From Alfonso Cuar\u00f3n and John August",
-      "tag": "dungeons & dragons",
-      "posted_at": "2026-09-03T16:31:32.293723+00:00",
-      "urls": [
-        "https://deadline.com/2026/09/dungeons-dragons-series-ravenloft-netflix-forgotten-realms-1237063967/"
-      ],
-      "article_titles": [
-        "Dungeons & Dragons Live-Action Series \u2018Ravenloft\u2019 In Works At Netflix From John August, Alfonso Cuar\u00f3n & Hasbro, Succeeds \u2018The Forgotten Realms\u2019"
-      ]
-    },
-    {
-      "headline": "Sega Found a Clever Loophole to Let Sonic Use Guns in Fortnite",
-      "tag": "sonic the hedgehog",
-      "posted_at": "2026-09-03T16:31:32.495385+00:00",
-      "urls": [
-        "https://www.ign.com/articles/sonic-creative-officer-takashi-iizuka-explains-how-sega-found-a-loophole-to-let-sonic-shoot-enemies-in-fortnite"
-      ],
-      "article_titles": [
-        "Sonic Creative Officer Takashi Iizuka Explains How Sega Found a Loophole to Let Sonic Shoot Enemies in Fortnite"
-      ]
-    },
-    {
       "headline": "Until Dawn 2 Was Secretly Co-Developed by AdHoc Studio, the Team Behind Oxenfree Successor Dispatch",
       "tag": "until dawn 2",
       "posted_at": "2026-09-03T18:31:23.752369+00:00",
@@ -959,131 +937,37 @@
       "article_titles": [
         "Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct"
       ]
+    },
+    {
+      "headline": "Professor Layton and the Curious Village Is Getting a PS5 Remake in 2027",
+      "tag": "professor layton",
+      "posted_at": "2026-09-10T17:31:22.745753+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/09/first-professor-layton-game-gets-ps5-remake-curious-village-out-in-2027",
+        "https://www.siliconera.com/professor-layton-and-the-curious-village-remake-arrives-in-2027/"
+      ],
+      "article_titles": [
+        "First Professor Layton Game Gets PS5 Remake, Curious Village Out in 2027",
+        "Professor Layton and the Curious Village Remake Arrives in 2027"
+      ]
+    },
+    {
+      "headline": "Saudi Arabia Reportedly Planning to Merge EA Into a New Mega-Corporation",
+      "tag": "ea",
+      "posted_at": "2026-09-10T17:31:22.849231+00:00",
+      "urls": [
+        "https://kotaku.com/electronic-arts-ea-savvy-saudi-arabia-merger-acquisition-2000733275",
+        "https://www.gamesradar.com/games/a-month-after-buying-ea-saudi-arabia-is-reportedly-looking-to-merge-ea-into-a-new-mega-corporation/"
+      ],
+      "article_titles": [
+        "Saudi Arabia Reportedly Considering Merging EA With Savvy Games Group",
+        "A month after buying EA, Saudi Arabia is reportedly looking to merge EA into a new mega-corporation"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000733188",
-      "title": "PS Plus Game Catalog Pickings Get Slimmer In September 2026 But There\u2019s Still Some Neat Stuff",
-      "url": "https://kotaku.com/ps-plus-game-catalog-pickings-get-slimmer-in-september-2026-but-theres-still-some-neat-stuff-2000733188",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:20:15+00:00"
-    },
-    {
-      "guid": "nPSkRuir8sXfjM5FmrLscS",
-      "title": "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards",
-      "url": "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:25:57+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073310",
-      "title": "Spain\u2019s Mediapro Group To Become Imagina After Reorganization",
-      "url": "https://deadline.com/2026/09/grup-mediapro-relaunch-imagina-after-reorganization-1237073310/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:26:15+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073316",
-      "title": "\u2018Le Faux Soir\u2019 Trailer: Arieh Worthalter & M\u00e9lanie Thierry Star In WW2 Belgian Resistance \u201cMedia Hack\u201d Drama \u2013 TIFF",
-      "url": "https://deadline.com/2026/09/le-faux-soir-belgian-resistance-drama-trailer-toronto-1237073316/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:26:10+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073164",
-      "title": "EST N8 Picks Up Manila-Set Crime Thriller \u2018Jaguar\u2019 With Elijah Canlas, David Call, Sid Lucero & Gabby Padilla",
-      "url": "https://deadline.com/2026/09/elijah-canlas-sid-lucero-dean-colin-marcial-jaguar-est-n8-1237073164/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:16:52+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237032319",
-      "title": "Alicia Keys, Yeonjun & Others Join Lauryn Hill, Wyclef Jean For Hugh Jackman-Hosted 2026 Global Citizen Festival In NYC",
-      "url": "https://deadline.com/2026/09/global-citizen-festival-lauryn-hill-wyclef-jean-hugh-jackman-1237032319/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:10:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236856514",
-      "title": "Ella Langley Leads 2026 CMA Awards Nominations With Nine, as Miranda Lambert, Kacey Musgraves Also Score Big Tallies",
-      "url": "https://variety.com/2026/music/news/cma-awards-nominations-ella-langley-leads-2026-miranda-kacey-1236856514/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:29:12+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236850800",
-      "title": "Amazon\u2019s AWS Now Lets Streamers Deliver up to 11 Live Feeds on One Screen",
-      "url": "https://variety.com/2026/digital/news/amazon-aws-dynamic-multiview-11-live-feeds-1236850800/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:18:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236857141",
-      "title": "\u2018Why Did I Get Married Again?\u2019 Review: Taraji P. Henson Joins the Gang for a Tyler Perry Sequel That Sells the Next Generation Short",
-      "url": "https://variety.com/2026/film/reviews/why-did-i-get-married-again-review-taraji-p-henson-1236857141/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:04:12+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236694444",
-      "title": "Emmys 2026: Who Will Win \u2026 and Who Should Win",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/emmys-2026-predictions-will-win-should-win-1236694444/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236694483",
-      "title": "AI Is Deflating Hollywood\u2019s Microdramas Scene",
-      "url": "https://www.hollywoodreporter.com/business/business-news/ai-hollywood-microdramas-1236694483/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:05:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236693685",
-      "title": "Monica Dolan Shares How She Prepared to Portray the Woman Who Uncovered an Irish Mass Grave Scandal in \u2018The Lost Children of Tuam\u2019: TIFF",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/monica-dolan-sthe-lost-children-of-tuam-interview-toronto-1236693685/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T13:01:00+00:00"
-    },
-    {
-      "guid": "1880107",
-      "title": "A Top Boss At GTA 6 Company Take-Two Sold A Bunch Of Stock, But It\u2019s Not What You Think",
-      "url": "https://www.gamespot.com/articles/a-top-boss-at-gta-6-company-take-two-sold-a-bunch-of-stock-but-its-not-what-you-think/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T13:09:16+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1076375",
-      "title": "Famitsu Sales: 8/31/26 \u2013 9/6/26",
-      "url": "https://www.gematsu.com/2026/09/famitsu-sales-8-31-26-9-6-26",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T13:04:43+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755790",
-      "title": "Survival Expert John Hudson Calls Dune: Awakening\u2019s Rocky Deserts \u201cIncredibly Realistic,\u201d Says They Are Shaped by Real Survival Conditions",
-      "url": "https://otakukart.com/survival-expert-john-hudson-calls-dune-awakenings-rocky-deserts-incredibly-realistic-says-they-are-shaped-by-real-survival-conditions/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T13:19:53+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000733198",
       "title": "Nintendo Announces Big \u2018Customer Appreciation Sale\u2019 Supported By Tariff Refunds It Doesn\u2019t Want To Pay Back To Players",
@@ -1155,14 +1039,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-09-10T13:45:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206182",
-      "title": "It Might Be Crap, But the Bully Rip-Off Has a PS5 Release Date Now",
-      "url": "https://www.pushsquare.com/news/2026/09/it-might-be-crap-but-the-bully-rip-off-has-a-ps5-release-date-now",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T13:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1122731",
@@ -2395,6 +2271,230 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-10T16:41:18+00:00"
+    },
+    {
+      "guid": "a91427f4-27d8-4c9e-a5f4-5f93208e1949",
+      "title": "GTA 6's Limited Edition PS5 Controller Pre-Orders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay",
+      "url": "https://www.ign.com/articles/gta-6s-limited-edition-ps5-controller-pre-orders-overload-playstations-store-and-scalpers-are-already-reselling-them-on-ebay",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:27:14+00:00"
+    },
+    {
+      "guid": "6e75ec39-ff7b-4e23-bf82-a8c244b20a50",
+      "title": "Today\u2019s Top Deals: Stardew Valley for Switch, Turtle Beach Stealth 500 Headset, and MTG x The Hobbit",
+      "url": "https://www.ign.com/articles/best-deals-for-september-10-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:20:00+00:00"
+    },
+    {
+      "guid": "5386f96e-991d-44a8-92be-4268cac5f990",
+      "title": "If The World Suffered an Apocalypse Tomorrow The Global Currency Would Be Pok\u00e9mon Cards, Collector and Venture Capitalist Claims",
+      "url": "https://www.ign.com/articles/if-the-world-suffered-an-apocalypse-tomorrow-the-global-currency-would-be-pokemon-cards-collector-and-venture-capitalist-claims",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T16:59:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000733275",
+      "title": "Saudi Arabia Reportedly Considering Merging EA With Savvy Games Group",
+      "url": "https://kotaku.com/electronic-arts-ea-savvy-saudi-arabia-merger-acquisition-2000733275",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:23:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000733212",
+      "title": "StarCraft, \u2018Camelot,\u2019 And More: Everything We Expect And Hope To See At BlizzCon 2026",
+      "url": "https://kotaku.com/everything-we-expect-blizzcon-2026-2000733212",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:02:01+00:00"
+    },
+    {
+      "guid": "e6d3WEpv3zWiFmADLekcma",
+      "title": "Palworld publishing chief worries early access has 'lost its meaning' as the rise of 'hyper-casual' gaming culture means people often don't understand what they're getting into",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/palworld-publishing-chief-worries-early-access-has-lost-its-meaning-as-the-rise-of-hyper-casual-gaming-culture-means-people-often-dont-understand-what-theyre-getting-into/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:22:59+00:00"
+    },
+    {
+      "guid": "RQZhFxgRnKPE4FY3hRVrUe",
+      "title": "Thief designer thinks the graphics arms race should have ended with 2010's Alan Wake: 'The fidelity curve has become outrageous'",
+      "url": "https://www.pcgamer.com/games/sim/thief-designer-thinks-the-graphics-arms-race-should-have-ended-with-2010s-alan-wake-the-fidelity-curve-has-become-outrageous/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:22:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073640",
+      "title": "Sony Buys R-Rated Buddy Comedy Pitch \u2018Golf Trip\u2019 From Mortal Media; Max Searle Scripting",
+      "url": "https://deadline.com/2026/09/golf-trip-pitch-mortal-media-sells-sony-max-searle-1237073640/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:18:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073241",
+      "title": "Gaza Doc \u2018NAZA\u2019 Gets 25-Minute Venice Ovation, Setting New A-List Festival Record",
+      "url": "https://deadline.com/2026/09/naza-record-ovation-25-minutes-venice-film-festival-1237073241/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:16:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073639",
+      "title": "Netflix Unveils U.S. Market Rollout For \u2018La Bola Negra\u2019 Theatrical Release",
+      "url": "https://deadline.com/2026/09/netflix-la-bola-negra-markets-box-office-1237073639/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:09:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237072588",
+      "title": "Kristen Ciccarelli\u2019s \u2018Crimson Moth\u2019 Book Series In Development For TV Adaptation With \u2018The 100\u2019s Kim Shumway Penning Script",
+      "url": "https://deadline.com/2026/09/crimson-moth-series-tv-adaptation-development-1237072588/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073043",
+      "title": "HBO\u2019s \u2018Task\u2019 Adds Rose Rollins & Carol Santiago To Season 2 Cast",
+      "url": "https://deadline.com/2026/09/hbo-task-season-2-cast-rose-rollins-carol-santiago-1237073043/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073612",
+      "title": "Li Jun Li Stars In \u2018Victoria\u2019 Limited Series Greenlighted by Hulu From Christy Hall",
+      "url": "https://deadline.com/2026/09/li-jun-li-to-star-victoria-hulu-1237073612/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857367",
+      "title": "Andrew Scott to Receive Mill Valley Film Festival\u2019s Acting Award for \u2018Elsinore\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/andrew-scott-mill-valley-film-festival-award-elsinore-1236857367/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236843669",
+      "title": "Gaza Doc \u2018NAZA,\u2019 From \u2018No Other Land\u2019 Directors, Earns Record-Breaking 24.5-Minute Venice Ovation as Producer Jonathan Glazer Leads Applause",
+      "url": "https://variety.com/2026/film/festivals/naza-venice-premiere-gaza-documentary-ovation-1236843669/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:14:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857356",
+      "title": "\u2018Naza\u2019 Review: Two of the \u2018No Other Land\u2019 Filmmakers Deliver a More Devastating Expos\u00e9 of Israeli Genocidal Policy, This Time in Gaza",
+      "url": "https://variety.com/2026/film/news/naza-review-1236857356/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:08:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236856199",
+      "title": "Role Model and Hydro Flask Launch Limited-Edition Drinkware Collection Inspired by \u2018Chuck Timely & The Hourglass\u2019",
+      "url": "https://variety.com/2026/music/news/role-model-hydro-flask-collection-shop-online-1236856199/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:04:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236694934",
+      "title": "The Clock Is Ticking to Pull Off an Entirely New \u201860 Minutes\u2019",
+      "url": "https://www.hollywoodreporter.com/business/business-news/new-60-minutes-preview-cbs-news-bari-weiss-1236694934/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:28:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236696594",
+      "title": "\u2018Hawaii Five-O\u2019 Movie in the Works From Destin Daniel Cretton at Paramount",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hawaii-five-o-movie-destin-daniel-cretton-paramount-1236696594/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:28:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236696567",
+      "title": "Dolly Parton\u2019s Sister Reveals Why Family Is Keeping Type of Cancer Private",
+      "url": "https://www.hollywoodreporter.com/music/music-news/dolly-parton-sister-why-cancer-private-praying-1236696567/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:25:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236690531",
+      "title": "Toronto: Pen\u00e9lope Cruz to Guest on Live Episode of THR\u2019s \u2018Awards Chatter\u2019 Pod as Fest Premieres \u2018La Bola Negra\u2019 and \u2018Bunker\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-penelope-cruz-awards-chatter-pod-1236690531/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:23:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695815",
+      "title": "\u2018Union Town\u2019 Review: Barbara Kopple Takes on UPS, Amazon and the Apps in Another Essential Organized Labor Documentary",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/union-town-review-barbara-kopple-1236695815/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T17:07:54+00:00"
+    },
+    {
+      "guid": "jmjbVsQedCkTpZiYgdifqG",
+      "title": "A month after buying EA, Saudi Arabia is reportedly looking to merge EA into a new mega-corporation",
+      "url": "https://www.gamesradar.com/games/a-month-after-buying-ea-saudi-arabia-is-reportedly-looking-to-merge-ea-into-a-new-mega-corporation/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T17:28:37+00:00"
+    },
+    {
+      "guid": "mmVjf2f9epQoXRm2mCE6Po",
+      "title": "Final Fantasy 7 Revelation's physical disc still requires a download because Square Enix \"didn't want to make any compromises\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelations-physical-disc-still-requires-a-download-because-square-enix-didnt-want-to-make-any-compromises/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T17:01:30+00:00"
+    },
+    {
+      "guid": "1880108",
+      "title": "Amazon Prime Members Get Doom Eternal And 10 More Games For Free In September",
+      "url": "https://www.gamespot.com/articles/amazon-prime-members-get-doom-eternal-and-10-more-games-for-free-in-september/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T17:00:00+00:00"
+    },
+    {
+      "guid": "1879465",
+      "title": "Amazon Luna Introduces Its Most Ambitious Feature Yet In A Rough Month For Cloud Gaming",
+      "url": "https://www.gamespot.com/articles/amazon-luna-introduces-its-most-ambitious-feature-yet-in-a-rough-month-for-cloud-gaming/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206192",
+      "title": "First Professor Layton Game Gets PS5 Remake, Curious Village Out in 2027",
+      "url": "https://www.pushsquare.com/news/2026/09/first-professor-layton-game-gets-ps5-remake-curious-village-out-in-2027",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T17:30:00+00:00"
+    },
+    {
+      "guid": "t3_1wcpt32",
+      "title": "I\u2019m pretty confident FAIRGAME$ is getting A secret player test under the name \u201c PROJECT ESPRESSO\u201d",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wcpt32/im_pretty_confident_fairgame_is_getting_a_secret/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T17:30:01+00:00"
     }
   ]
 }
