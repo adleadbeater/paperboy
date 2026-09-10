@@ -1,41 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Metro 2039 Gets a Release Date: February 4, 2027, With First PS5 Footage",
-      "tag": "metro 2039",
-      "posted_at": "2026-09-03T13:31:34.633354+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/09/metro-2039-locks-down-4th-february-2027-release-date-in-first-ps5-clips",
-        "https://www.gematsu.com/2026/09/metro-2039-launches-february-4-2027"
-      ],
-      "article_titles": [
-        "Metro 2039 Locks Down 4th February 2027 Release Date in First PS5 Clips",
-        "METRO 2039 launches February 4, 2027"
-      ]
-    },
-    {
-      "headline": "Ghost of Yotei Is Getting a Roguelike Survival Mode \u2014 and Jin Sakai Is Coming Back",
-      "tag": "ghost of yotei",
-      "posted_at": "2026-09-03T13:31:34.903424+00:00",
-      "urls": [
-        "https://www.ign.com/articles/ghost-of-yotei-is-getting-a-roguelike-survival-mode-that-includes-ghost-of-tsushimas-jin"
-      ],
-      "article_titles": [
-        "Ghost of Yotei is Getting a Roguelike Survival Mode That Includes Ghost of Tsushima's Jin"
-      ]
-    },
-    {
-      "headline": "Dragon Ball Super: Beerus Gets an Official Anime Launch Date",
-      "tag": "dragon ball super",
-      "posted_at": "2026-09-03T13:31:35.180965+00:00",
-      "urls": [
-        "https://www.siliconera.com/dragon-ball-super-beerus-anime-launch-date-set/"
-      ],
-      "article_titles": [
-        "Dragon Ball Super: Beerus Anime Launch Date Set"
-      ]
-    },
-    {
       "headline": "Final Fantasy VII Revelation Gets April Release Date and First Open-World Gameplay Footage",
       "tag": "final fantasy vii revelation",
       "posted_at": "2026-09-03T14:01:36.530990+00:00",
@@ -1027,6 +992,30 @@
       "article_titles": [
         "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins"
       ]
+    },
+    {
+      "headline": "Nintendo Is Running a Big eShop Sale Funded by Tariff Refunds It's Refusing to Pass Back to Buyers",
+      "tag": "nintendo",
+      "posted_at": "2026-09-10T14:01:11.208856+00:00",
+      "urls": [
+        "https://kotaku.com/nintendo-announces-big-customer-appreciation-sale-supported-by-tariff-refunds-it-doesnt-want-to-pay-back-to-players-2000733198"
+      ],
+      "article_titles": [
+        "Nintendo Announces Big \u2018Customer Appreciation Sale\u2019 Supported By Tariff Refunds It Doesn\u2019t Want To Pay Back To Players"
+      ]
+    },
+    {
+      "headline": "DLSS 5 Can Now Upscale Your Entire Windows Desktop \u2014 Even on RTX 30-Series GPUs",
+      "tag": "nvidia dlss",
+      "posted_at": "2026-09-10T14:01:11.398037+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/",
+        "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/"
+      ],
+      "article_titles": [
+        "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards",
+        "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1391,6 +1380,118 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-10T13:19:53+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000733198",
+      "title": "Nintendo Announces Big \u2018Customer Appreciation Sale\u2019 Supported By Tariff Refunds It Doesn\u2019t Want To Pay Back To Players",
+      "url": "https://kotaku.com/nintendo-announces-big-customer-appreciation-sale-supported-by-tariff-refunds-it-doesnt-want-to-pay-back-to-players-2000733198",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T13:34:03+00:00"
+    },
+    {
+      "guid": "5ggnPrVthaHPiypte2Xc85",
+      "title": "Finalmouse claims its mouse has the absolute fastest click, quicker than the Logitech Superstrike and Razer Viper V4 Pro",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/finalmouse-claims-its-mouse-has-the-absolute-fastest-click-quicker-than-the-logitech-superstrike-and-razer-viper-v4-pro/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T13:59:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073283",
+      "title": "\u2018Burgundy\u2019 Cheers Moviegoers With Tale Of Old School Values And Grand Cru Wine \u2013 Telluride Film Festival",
+      "url": "https://deadline.com/2026/09/burgundy-documentary-telluride-film-festival-1237073283/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073325",
+      "title": "Harry Styles Sets 2027 Global Stadium Tour; Opening Acts To Include Kylie Minogue, LCD Soundsystem, Tears for Fears & Others",
+      "url": "https://deadline.com/2026/09/harry-styles-2027-together-together-stadium-tour-1237073325/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T13:46:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073307",
+      "title": "NBCUniversal\u2019s Split From Comcast Will \u201cAllow Us To Move Faster,\u201d Media Group Chief Matt Strauss Says",
+      "url": "https://deadline.com/2026/09/nbcuniversal-comcast-split-matt-strauss-peacock-1237073307/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T13:32:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236855881",
+      "title": "K2 Media Capital Launches at Toronto Market With a Slate of Cross-Border IP Projects (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/k2-media-capital-toronto-market-cross-border-ip-projects-1236855881/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857194",
+      "title": "Dreamkite Chief Yoko Higuchi-Zitzmann on AI Opportunities and Industry Concerns: \u2018AI Production Will Create a Lot of New Human Jobs\u2019",
+      "url": "https://variety.com/2026/film/global/dreamkite-yoko-higuchi-zitzmann-ai-opportunities-concerns-1236857194/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T13:38:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236696337",
+      "title": "Elon Musk Threatens Legal Action Over Alex Gibney Documentary, Blasts \u201cBoring Hit Piece\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/elon-musk-alex-gibney-documentary-legal-threat-1236696337/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T13:37:02+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206136",
+      "title": "Hyrule Warriors: Age Of Calamity Is Getting Definitive Edition On Switch 2 Next February",
+      "url": "https://www.nintendolife.com/news/2026/09/hyrule-warriors-age-of-calamity-is-getting-definitive-edition-on-switch-2-next-february",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206182",
+      "title": "It Might Be Crap, But the Bully Rip-Off Has a PS5 Release Date Now",
+      "url": "https://www.pushsquare.com/news/2026/09/it-might-be-crap-but-the-bully-rip-off-has-a-ps5-release-date-now",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122731",
+      "title": "Fantasy Life i Paid DLC Is The Celestial Express",
+      "url": "https://www.siliconera.com/fantasy-life-i-paid-dlc-is-the-celestial-express/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755804",
+      "title": "Metroid Ravenous Confirmed for January 2027 on Switch 2 With 20.2GB File Size",
+      "url": "https://otakukart.com/metroid-ravenous-confirmed-for-january-2027-on-switch-2-with-20-2gb-file-size/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T13:49:14+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755677",
+      "title": "Two Decades Later, Pixar\u2019s Beloved Racing Classic Reaches a Major Box Office Milestone",
+      "url": "https://otakukart.com/two-decades-later-pixars-beloved-racing-classic-reaches-a-major-box-office-milestone/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T13:47:46+00:00"
+    },
+    {
+      "guid": "https://www.tribality.com/?p=38406",
+      "title": "Lynnvander Studios Announces Munchkin 5.5E RPG Based on the Card Game",
+      "url": "https://www.tribality.com/2026/09/10/lynnvander-studios-announces-munchkin-5-5e-rpg-based-on-the-card-game/",
+      "source_name": "Tribality",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T13:58:38+00:00"
     }
   ]
 }
