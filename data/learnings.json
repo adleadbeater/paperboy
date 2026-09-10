@@ -1011,54 +1011,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237072994",
-      "title": "LA\u2019s Film Liaison Gives Update On Local Production Woes, Asks Lawmakers For \u201cAdditional Support\u201d During City Council Meeting",
-      "url": "https://deadline.com/2026/09/los-angeles-film-liaison-local-city-council-update-1237072994/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T01:09:54+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073055",
-      "title": "Beyond Fest 2026 Lineup Includes \u2018Primetime\u2019, \u2018V/H/S/Mixtape\u2019 And \u2018Your Mother Your Mother Your Mother\u2019",
-      "url": "https://deadline.com/2026/09/beyond-fest-2026-lineup-movies-1237073055/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T01:02:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073030",
-      "title": "LA City Officials Make Plans For \u2018Baywatch\u2019 Season 2 Ahead Of Renewal Decision: \u201cThey Will Be Returning\u201d",
-      "url": "https://deadline.com/2026/09/baywatch-season-2-los-angeles-city-early-plans-renewal-1237073030/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T00:50:30+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236856745",
-      "title": "\u2018South Park\u2019 Creators Apologize for the Years-Long Delay of Their Kendrick Lamar Movie: \u2018We Still Believe in the Project\u2019",
-      "url": "https://variety.com/2026/film/news/south-park-creators-apology-delay-kendrick-lamar-movie-1236856745/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T00:44:43+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236856740",
-      "title": "Trump White House Pulls Down Tetris-Like Game, in Which You Had to Stop a \u2018Zombie Siege\u2019 at Mexican Border, After Company\u2019s Copyright Threat",
-      "url": "https://variety.com/2026/digital/news/trump-white-house-removes-tetris-game-copyright-threat-1236856740/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T00:39:32+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206149",
-      "title": "Metroid Ravenous Switch 2 Estimated File Size Revealed",
-      "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-switch-2-estimated-file-size-revealed",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T00:55:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236856884",
       "title": "\u2018Jimmy Kimmel Live!\u2019 Returning to Brooklyn for Week of Shows",
       "url": "https://variety.com/2026/tv/news/jimmy-kimmel-live-returning-to-brooklyn-1236856884/",
@@ -1081,6 +1033,22 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-09-10T03:45:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1077760",
+      "title": "Edia announces TGS 2026 lineup",
+      "url": "https://www.gematsu.com/2026/09/edia-announces-tgs-2026-lineup",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T05:23:11+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1077726",
+      "title": "3D romance action adventure game BLUE BITE announced for PS5, PC, and more",
+      "url": "https://www.gematsu.com/2026/09/3d-romance-action-adventure-game-blue-bite-announced-for-ps5-pc-and-more",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T05:03:32+00:00"
     }
   ]
 }
