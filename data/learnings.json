@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Until Dawn 2 Was Secretly Co-Developed by AdHoc Studio, the Team Behind Oxenfree Successor Dispatch",
-      "tag": "until dawn 2",
-      "posted_at": "2026-09-03T18:31:23.752369+00:00",
-      "urls": [
-        "https://www.ign.com/articles/until-dawn-2-was-co-developed-by-dispatch-developer-adhoc-studio"
-      ],
-      "article_titles": [
-        "Until Dawn 2 Was Co-Developed by Dispatch Developer AdHoc Studio"
-      ]
-    },
-    {
-      "headline": "Xbox Game Pass Is Adding Monthly Cloud Streaming Hour Caps \u2014 Here's What Microsoft Says It Means for You",
-      "tag": "xbox game pass",
-      "posted_at": "2026-09-03T18:31:23.913549+00:00",
-      "urls": [
-        "https://kotaku.com/game-pass-will-start-capping-the-number-of-hours-you-can-use-streaming-each-month-but-says-not-to-worry-because-it-will-only-affect-4-percent-of-players-2000731012"
-      ],
-      "article_titles": [
-        "Game Pass Will Start Capping The Number Of Hours You Can Use Cloud Streaming Each Month But Says Not To Worry Because This Will Only Affect 4 Percent Of Players"
-      ]
-    },
-    {
       "headline": "Two Nintendo Directs Are Coming Next Week",
       "tag": "nintendo",
       "posted_at": "2026-09-04T14:01:04.654062+00:00",
@@ -974,179 +952,28 @@
       "article_titles": [
         "Netflix\u2019s 6-Hour Exclusivity Window For GTA 6 Reportedly Only Led To Its Third Highest Sign-Up Bump Of The Year"
       ]
+    },
+    {
+      "headline": "Marvel's X-Men Reboot Casts Gen V's Asa Germann as Angel",
+      "tag": "x-men",
+      "posted_at": "2026-09-10T18:31:24.201576+00:00",
+      "urls": [
+        "https://deadline.com/2026/09/xmen-asa-germann-angel-marvel-movie-1237073807/",
+        "https://www.hollywoodreporter.com/movies/movie-news/x-men-movie-asa-germann-nabs-role-of-angel-1236696697/",
+        "https://variety.com/2026/film/news/x-men-asa-germann-angel-cast-1236857606/",
+        "https://variety.com/2026/film/news/x-men-asa-germann-angel-cast-1236857606/"
+      ],
+      "article_titles": [
+        "Asa Germann Lands Role Of Angel In New \u2018X-Men\u2019",
+        "\u2018X-Men\u2019 Movie: Asa Germann Nabs Role of Angel (Exclusive)",
+        "Marvel\u2019s \u2018X-Men\u2019 Reboot Casts \u2018Gen V\u2019 Star Asa Germann as Angel",
+        "Marvel\u2019s \u2018X-Men\u2019 Reboot Casts \u2018Gen V\u2019 Star Asa Germann as Angel"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "52466c04-1f43-4341-a94c-116d95a39f65",
-      "title": "'You Get Your Tariff Money back... if You Give Them More Money' \u2014 Fans React to Nintendo's 'Customer Appreciation' Sale",
-      "url": "https://www.ign.com/articles/you-get-your-tariff-money-back-if-you-give-them-more-money-fans-react-to-nintendos-customer-appreciation-sale",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:19:07+00:00"
-    },
-    {
-      "guid": "c8bce7e2-e72a-4a92-8d4a-c847df458e7c",
-      "title": "Nintendo Announces New Switch Sale Made Possible By \"Tariff-Related\" Refunds",
-      "url": "https://www.ign.com/articles/nintendo-switch-customer-appreciation-sale-tariff-refunds",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:02:49+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000733219",
-      "title": "GTA 6 PS5 Controller Pre-Orders Go Live On PlayStation Store And It Immediately Collapses",
-      "url": "https://kotaku.com/gta-6-ps5-controller-pre-orders-go-live-on-playstation-store-and-it-immediately-collapses-2000733219",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:27:54+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000733182",
-      "title": "Steam Users Might Finally Be Free From The Tyranny Of Ubisoft\u2019s Hated Connect Launcher",
-      "url": "https://kotaku.com/steam-users-might-finally-be-free-from-the-tyranny-of-ubisofts-hated-connect-launcher-2000733182",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:00:32+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073285",
-      "title": "Anthony\u00a0Hopkins\u00a0To Star In Post-Apocalyptic Sci-Fi \u20182048\u2019 \u2014 TIFF Market",
-      "url": "https://deadline.com/2026/09/anthony-hopkins-post-apocalyptic-sci-fi-2048-tiff-market-1237073285/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237032637",
-      "title": "\u2018American Horror Story\u2019 Season 13 Trailer: \u201cIt\u2019s Witch-Hunting Season\u201d",
-      "url": "https://deadline.com/2026/09/american-horror-story-season-13-trailer-1237032637/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:26:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073367",
-      "title": "New York Film Festival To Screen Buzzy Elizabeth Holmes Doc \u2018You Can See Everything\u2019",
-      "url": "https://deadline.com/2026/09/new-york-film-festival-adds-you-can-see-everything-documentary-1237073367/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:24:46+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073377",
-      "title": "Blue Fox Launches Sales On YA Rom-Com \u2018Buster Brooks\u2019 With Matt Cornett & Melissa Collazo \u2014 TIFF Market",
-      "url": "https://deadline.com/2026/09/matt-cornett-melissa-collazo-buster-brooks-launches-sales-1237073377/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:18:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237073366",
-      "title": "\u2018Bare\u2019: First Look At \u2018Bridgerton\u2019 Star Florence Hunt In Coming-Of-Age Drama",
-      "url": "https://deadline.com/2026/09/bridgerton-star-florence-hunt-first-look-new-movie-bare-1237073366/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:05:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236857240",
-      "title": "Universal Music Group and ElevenLabs to Launch AI-Powered Music Platform in Expansive Licensing Deal",
-      "url": "https://variety.com/2026/music/news/umg-elevenlabs-ai-powered-music-platform-licensing-1236857240/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:18:20+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236852583",
-      "title": "\u2018The Zone of Interest\u2019 Producer Ewa Puszczy\u0144ska and Director Jan Holoubek Say \u2018Wild Wild East\u2019 No Longer Feels Like a Period Drama: \u2018It Can Happen Again. It Already Is\u2019",
-      "url": "https://variety.com/2026/film/global/the-zone-of-interest-puszczynska-holoubek-wild-wild-east-1236852583/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236857223",
-      "title": "Mohsen Gharaei\u2019s Iranian Drama \u2018Falling House\u2019 Sells Across Europe After Venice Festival Premiere (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/mohsen-gharaeis-iranian-drama-falling-house-venice-festival-1236857223/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:14:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236833134",
-      "title": "\u2018American Horror Story: 13\u2019 Trailer: Jessica Lange, Sarah Paulson and Evan Peters Reprise Iconic Roles in Ryan Murphy\u2019s Horror Anthology",
-      "url": "https://variety.com/2026/tv/news/american-horror-story-13-trailer-jessica-lange-sarah-paulson-1236833134/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:09:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236857222",
-      "title": "New York Games Week to Launch in October as First Citywide Video Game Industry Event",
-      "url": "https://variety.com/2026/gaming/news/new-york-games-week-launches-2026-1236857222/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:04:56+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236694915",
-      "title": "\u2018Chad Powers\u2019 Star Perry Mattfeld Breaks Down Ricky and Chad\u2019s Forbidden Romance, Gerry\u2019s Threat and That Season 2 Cliffhanger",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/chad-powers-perry-mattfeld-ricky-chad-romance-season-2-1236694915/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-10T14:15:00+00:00"
-    },
-    {
-      "guid": "VgjowEMXVR5Drq2tr7TBjX",
-      "title": "CRKD has finally begun shipping the Nitro Deck 2, and my handheld mode-induced wrist pain has never been happier",
-      "url": "https://www.gamesradar.com/hardware/accessories/crkd-has-finally-begun-shipping-the-nitro-deck-2-and-my-handheld-mode-induced-wrist-pain-has-never-been-happier/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T14:24:24+00:00"
-    },
-    {
-      "guid": "tXVaGerFWQZU565pF5GiUG",
-      "title": "Nintendo finally adds Switch 2 VRR support for docked mode, and I can't help but feel like the update is Ocarina of Time remake prep",
-      "url": "https://www.gamesradar.com/hardware/handhelds/nintendo-finally-adds-switch-2-vrr-support-for-docked-mode-and-i-cant-help-but-feel-like-the-update-is-ocarina-of-time-remake-prep/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T14:16:19+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206179",
-      "title": "LEGO PS1's Freebie Astro Bot Set Revealed in New Images, and Everyone Wants It Standalone",
-      "url": "https://www.pushsquare.com/news/2026/09/lego-ps1s-freebie-astro-bot-set-revealed-in-new-images-and-everyone-wants-it-standalone",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206076",
-      "title": "Guide: Where to Pre-Order GTA 6 Controllers for PS5",
-      "url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T14:05:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1122734",
-      "title": "Holy Horror Mansion Playable Demo at Tokyo Game Show",
-      "url": "https://www.siliconera.com/holy-horror-mansion-playable-demo-at-tokyo-game-show/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T14:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1755805",
-      "title": "Pok\u00e9mon Cards Could Become \u201cGlobal Currency\u201d After an Apocalypse, Says Collector and Investor",
-      "url": "https://otakukart.com/pokemon-cards-could-become-global-currency-after-an-apocalypse-says-collector-and-investor/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-10T14:08:15+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
       "title": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
@@ -2490,6 +2317,198 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-09-10T17:36:25+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000733271",
+      "title": "Fans Put Together A List Of Every Time Sony Said Players Owned Their Digital Games After The Company Argued In A Lawsuit That It Was Obvious Players Don\u2019t",
+      "url": "https://kotaku.com/fans-put-together-a-list-of-every-time-sony-said-players-owned-their-digital-games-after-the-company-argued-in-a-lawsuit-that-it-was-obvious-players-dont-2000733271",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:00:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073807",
+      "title": "Asa Germann Lands Role Of Angel In New \u2018X-Men\u2019",
+      "url": "https://deadline.com/2026/09/xmen-asa-germann-angel-marvel-movie-1237073807/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073700",
+      "title": "Mike McFarland Dies: \u2018One Piece\u2019, \u2018Dragon Ball Z\u2019 Voice Actor Was 56",
+      "url": "https://deadline.com/2026/09/mike-mcfarland-dead-one-piece-dragon-ball-z-1237073700/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:21:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236850827",
+      "title": "Is \u2018Vintage Violence\u2019 the Future of Movies? Inside the Frantic Chase Movie Built for Phone-Addicted Audiences: It\u2019s a \u2018New Approach to Viewing\u2019",
+      "url": "https://variety.com/2026/film/festivals/vintage-violence-cole-sprouse-phone-addicts-1236850827/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857609",
+      "title": "Sherri Shepherd Stars in 9/11 True Story, \u2018Angel in the Rubble:\u2019 Stream the Film Online Here",
+      "url": "https://variety.com/2026/shopping/news/watch-angel-in-the-rubble-lifetime-movie-streaming-online-1236857609/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:26:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857541",
+      "title": "Nicholas Sparks\u2019 \u2018Counting Miracles\u2019 Adaptation at Amazon to Be Helmed by \u2018The Peanut Butter Falcon\u2019 Filmmaker Tyler Nilson (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/nicholas-sparks-counting-miracles-movie-director-1236857541/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:05:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857604",
+      "title": "T-Mobile Fiber Delivers Ultra-Fast Home Internet Speeds \u2014 Just in Time for College and Pro Football Seasons to Start",
+      "url": "https://variety.com/2026/shopping/news/t-mobile-fiber-home-internet-deals-sept-2026-signup-online-1236857604/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:04:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857606",
+      "title": "Marvel\u2019s \u2018X-Men\u2019 Reboot Casts \u2018Gen V\u2019 Star Asa Germann as Angel",
+      "url": "https://variety.com/2026/film/news/x-men-asa-germann-angel-cast-1236857606/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:02:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236696685",
+      "title": "Charlie Hunnam Says \u2018Legacy\u2019 Spinoff Is \u201cDefinitely Not Season 8 of \u2018Sons of Anarchy'\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/sons-of-anarchy-spinoff-charlie-hunnam-legacy-1236696685/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:23:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236696716",
+      "title": "Sophie Okonedo Has Always Been One of Our Great Actors. Finally, the Movies Are Catching Up",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/sophie-okonedo-mouse-clarissa-tiff-exclusive-1236696716/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:20:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236696016",
+      "title": "Paul Greengrass Talks \u2018The Uprising,\u2019 Robin Hood and the Timeless Power of Rebellion",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/the-uprising-paul-greengrass-andrew-garfield-robin-hood-1236696016/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:18:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236695937",
+      "title": "Superstar Artists to Kick Off a New, High-End Comic Book Art Festival in L.A. (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/superstar-artists-high-end-comic-book-art-fest-1236695937/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T18:01:25+00:00"
+    },
+    {
+      "guid": "Sa88KsMJbMpmDJ8SaimHcC",
+      "title": "Zelda: Ocarina of Time Nintendo Direct viewership more than doubled PlayStation's last State of Play, analyst finds, and beat Gamescom Opening Night Live",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-nintendo-direct-viewership-more-than-doubled-playstations-last-state-of-play-analyst-finds-and-beat-gamescom-opening-night-live/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:18:39+00:00"
+    },
+    {
+      "guid": "1880316",
+      "title": "Wardogs Has A Massive Start On Steam, But Players Face Brutal Sever Queues",
+      "url": "https://www.gamespot.com/articles/wardogs-has-a-massive-start-on-steam-but-players-face-brutal-sever-queues/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:03:59+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206194",
+      "title": "Promising Detective RPG Decapolice Officially Delayed into 2027",
+      "url": "https://www.pushsquare.com/news/2026/09/promising-detective-rpg-decapolice-officially-delayed-into-2027",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755710",
+      "title": "LIGHTSUM Reveals Title Track Ahead of Japanese Debut Mini-Album \u201cRe:Idol\u201d",
+      "url": "https://otakukart.com/lightsum-reveals-title-track-ahead-of-japanese-debut-mini-album-reidol/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:28:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755722",
+      "title": "Lee Ji Soo Announces Stern Legal Action Against Malicious Online Commenters",
+      "url": "https://otakukart.com/lee-ji-soo-announces-stern-legal-action-against-malicious-online-commenters/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:26:41+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755727",
+      "title": "ARTMS Member HaSeul Expands Musical Horizons with Solo Single \u201cAfterglow\u201d",
+      "url": "https://otakukart.com/artms-member-haseul-expands-musical-horizons-with-solo-single-afterglow/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:21:50+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755714",
+      "title": "EASTSHINE Makes Vibrant Return with Second Single Album \u201cEOI_KU\u201d",
+      "url": "https://otakukart.com/eastshine-makes-vibrant-return-with-second-single-album-eoi_ku/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:19:15+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755718",
+      "title": "BTS Wraps North American \u201cARIRANG\u201d Tour with Historic 1.92 Million Fans Across 31 Sold-Out Shows",
+      "url": "https://otakukart.com/bts-wraps-north-american-arirang-tour-with-historic-1-92-million-fans-across-31-sold-out-shows/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:16:10+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755729",
+      "title": "Kim Soo Hyun Cleared of Child Welfare Act Allegations as Prosecutors Return File",
+      "url": "https://otakukart.com/kim-soo-hyun-cleared-of-child-welfare-act-allegations-as-prosecutors-return-file/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:11:11+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1755708",
+      "title": "Global Superstar Lisa Offers First Look into Her Personal Story with Documentary Teaser",
+      "url": "https://otakukart.com/global-superstar-lisa-offers-first-look-into-her-personal-story-with-documentary-teaser/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:05:37+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/",
+      "title": "Dungeons & Dragons testing out even more Underdark subclasses and species",
+      "url": "https://www.enworld.org/threads/dungeons-dragons-testing-out-even-more-underdark-subclasses-and-species.720620/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:28:00+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/kill-team-tactical-focus-raveners/",
+      "title": "[Kill Team] Tactical Focus: Raveners",
+      "url": "https://www.tabletopbattles.com/kill-team-tactical-focus-raveners/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T18:00:07+00:00"
     }
   ]
 }
