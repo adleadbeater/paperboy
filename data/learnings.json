@@ -1011,78 +1011,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237072783",
-      "title": "Netflix Snaps Up Australian Doc Series \u20182.6 Seconds: Death In The Outback\u2019 Ahead Of TIFF Bow",
-      "url": "https://deadline.com/2026/09/netflix-buys-26-seconds-death-in-the-outback-toronto-1237072783/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T21:16:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237072803",
-      "title": "Mike Epps Set For \u2018My Father\u2019s Son\u2019 Comedy Series In Development At Netflix",
-      "url": "https://deadline.com/2026/09/mike-epps-joins-my-fathers-son-netflix-1237072803/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T21:15:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000732965",
-      "title": "Person Fed Up With Xbox Named \u2018FVCKAsha&Phil\u2019 Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie",
-      "url": "https://kotaku.com/person-fed-up-with-xbox-named-fvckashaphil-just-leaked-an-alleged-prototype-of-the-canceled-snes-rpg-that-became-banjo-kazooie-2000732965",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T23:01:52+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000731719",
-      "title": "Kojima Shares His Love For Backrooms As He Hints At Future Collaboration With Kane Parsons: \u2018I\u2019m Honestly A Little Jealous!\u2019",
-      "url": "https://kotaku.com/backrooms-hideo-kojima-kane-parsons-collaboration-2000731719",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T23:00:12+00:00"
-    },
-    {
-      "guid": "CUXvdHhFBpUXBzfzyxNpVF",
-      "title": "How to mine the petrified Gammeltroll in Valheim",
-      "url": "https://www.pcgamer.com/games/survival-crafting/valheim-petrified-gammeltroll-how-to-mine/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T23:07:42+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237072899",
-      "title": "Fox Corp. COO John Nallen Says Roku Deal On Track To Close Despite \u201cEntirely Expected\u201d DOJ Scrutiny",
-      "url": "https://deadline.com/2026/09/fox-corp-roku-merger-doj-review-1237072899/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T23:02:10+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236856601",
-      "title": "Billy Joel Says He Had Brain Surgery After His Diagnosis: \u2018Don\u2019t Worry About Me\u2019",
-      "url": "https://variety.com/2026/music/news/billy-joel-brain-surgery-after-diagnosis-1236856601/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T23:05:29+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236695902",
-      "title": "Miley Cyrus\u2019 Hollywood Bowl Shows Draw 1.5 Million in Pre-Sale Queue",
-      "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-hollywood-bowl-shows-1-5-million-sign-ups-1236695902/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-09T22:52:59+00:00"
-    },
-    {
-      "guid": "g6WXEVjARekKLASkgLsPXi",
-      "title": "32-year Nintendo and Zelda veteran reacts to the Ocarina of Time remake, suggesting Shigeru Miyamoto's love of puppet shows influenced the art style",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/32-year-nintendo-and-zelda-veteran-reacts-to-the-ocarina-of-time-remake-suggesting-shigeru-miyamotos-love-of-puppet-shows-influenced-the-art-style/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-09T22:58:47+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237072994",
       "title": "LA\u2019s Film Liaison Gives Update On Local Production Woes, Asks Lawmakers For \u201cAdditional Support\u201d During City Council Meeting",
       "url": "https://deadline.com/2026/09/los-angeles-film-liaison-local-city-council-update-1237072994/",
@@ -1129,6 +1057,30 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-09-10T00:55:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236856884",
+      "title": "\u2018Jimmy Kimmel Live!\u2019 Returning to Brooklyn for Week of Shows",
+      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-live-returning-to-brooklyn-1236856884/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T04:09:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236856866",
+      "title": "Suki Waterhouse Says She\u2019d Be \u2018Nepo-Babying\u2019 Her Daughter With Robert Pattinson If She Wanted to Work in Hollywood",
+      "url": "https://variety.com/2026/film/news/suki-waterhouse-robert-pattinson-nepo-baby-daughter-1236856866/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-10T03:51:51+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206152",
+      "title": "Metroid Ravenous On Switch 2 Will Support 120Hz Output",
+      "url": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-on-switch-2-will-support-120hz-output",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-10T03:45:00+00:00"
     }
   ]
 }
