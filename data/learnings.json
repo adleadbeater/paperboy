@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Two Nintendo Directs Are Coming Next Week",
-      "tag": "nintendo",
-      "posted_at": "2026-09-04T14:01:04.654062+00:00",
-      "urls": [
-        "https://kotaku.com/nintendo-direct-september-announcement-zelda-time-date-2000731290"
-      ],
-      "article_titles": [
-        "We\u2019re Getting Not One, But Two Nintendo Directs Next Week"
-      ]
-    },
-    {
-      "headline": "Gamescom Issues Apology to Indie Devs After Victim-Blaming Response to Laptop Thefts",
-      "tag": "gamescom",
-      "posted_at": "2026-09-04T14:01:04.793976+00:00",
-      "urls": [
-        "https://kotaku.com/gamescom-laptop-indie-developers-stolen-theft-security-2000731279"
-      ],
-      "article_titles": [
-        "Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: \u2018We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment\u2019"
-      ]
-    },
-    {
-      "headline": "Trump Put Racist Arcade Games on the White House Website",
-      "tag": "\u2014",
-      "posted_at": "2026-09-04T14:01:04.949081+00:00",
-      "urls": [
-        "https://kotaku.com/white-house-racist-arcade-games-donald-trump-flappy-bird-tetris-2000731267"
-      ],
-      "article_titles": [
-        "Trump Puts Racist Arcade Games On The White House Website"
-      ]
-    },
-    {
       "headline": "Miami Sheriff Calls Out GTA 6 for Glorifying Crimes in Their Own Backyard",
       "tag": "gta 6",
       "posted_at": "2026-09-04T15:01:03.808084+00:00",
@@ -1047,6 +1014,30 @@
       "article_titles": [
         "Electronic Arts admits to using AI voices in NHL 27: 'This process allows us to bring more variety to the game'"
       ]
+    },
+    {
+      "headline": "GTA 6 Employees' Tribunal Begins \u2014 Rockstar's Culture of Secrecy on Trial",
+      "tag": "gta 6",
+      "posted_at": "2026-09-11T14:31:10.618631+00:00",
+      "urls": [
+        "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements"
+      ],
+      "article_titles": [
+        "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal against sacked GTA 6 employees begins"
+      ]
+    },
+    {
+      "headline": "Sony Pulled the Plug on Kojima's Physint Over Budget Overruns and Missed Deadlines",
+      "tag": "physint",
+      "posted_at": "2026-09-11T14:31:10.722447+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/09/sony-stopped-physint-development-over-budget-exclusivity-concerns",
+        "https://www.gematsu.com/2026/09/bloomberg-sony-interactive-entertainment-stepped-away-from-physint-over-missed-deadlines-budget-concerns"
+      ],
+      "article_titles": [
+        "Sony Stopped Physint Development Over Budget, Exclusivity Concerns",
+        "Bloomberg: Sony Interactive Entertainment stepped away from Physint over missed deadlines, budget concerns"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1267,6 +1258,174 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-11T13:08:07+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ea-savvy-games-group-reported-merger-saudi-arabia-pif",
+      "title": "Pok\u00e9mon Go and EA FC could be \"under one roof\", as EA and Saudi-owned Savvy Games Group reportedly considering merger",
+      "url": "https://www.eurogamer.net/ea-savvy-games-group-reported-merger-saudi-arabia-pif",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:18:19+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements",
+      "title": "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal against sacked GTA 6 employees begins",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:16:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000733510",
+      "title": "PlayStation Reportedly Dropped Kojima\u2019s Game Due To A Growing Budget And Missed Deadlines",
+      "url": "https://kotaku.com/playstation-reportedly-dropped-kojimas-game-due-to-a-growing-budget-and-missed-deadlines-2000733510",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:08:33+00:00"
+    },
+    {
+      "guid": "yBTkysiYtDXKsGNeJ6wrDZ",
+      "title": "Ex-Blizzard employee has 'vibe' coded a new game engine with backing from AMD: 'We're developing 93x faster than we ever did before with Unreal'",
+      "url": "https://www.pcgamer.com/software/ai/ex-blizzard-employee-has-vibe-coded-a-new-game-engine-with-backing-from-amd-were-developing-93x-faster-than-we-ever-did-before-with-unreal/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:23:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237098766",
+      "title": "Former Israeli Prime Minister Takes Aim At Yuval Abraham and Rachel Szor\u2019s \u2018NAZA\u2019",
+      "url": "https://deadline.com/2026/09/naftali-bennett-yuval-abraham-rachel-szor-naza-1237098766/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:22:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237098747",
+      "title": "\u2018Starship Troopers\u2019 Duo Denise Richards & Casper Van Dien Reunite For Thriller \u2018No Free Lunch\u2019 \u2014 TIFF Market",
+      "url": "https://deadline.com/2026/09/denise-richards-casper-van-dien-reunite-starship-troopers-1237098747/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:14:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237093022",
+      "title": "Remembering 9/11: A Look Back At Some Of The Stories That Changed Hollywood",
+      "url": "https://deadline.com/2026/09/911-25th-anniversary-hollywood-stories-1237093022/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:00:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236858666",
+      "title": "French WWII Blockbuster \u2018De Gaulle\u2019 Lands U.S. Distribution With Samuel Goldwyn Films (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/french-wwii-de-gaulle-u-s-distribution-with-samuel-goldwyn-films-1236858666/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:25:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236858180",
+      "title": "\u2018Ransom Canyon\u2019 Canceled After Two Seasons at Netflix",
+      "url": "https://variety.com/2026/tv/news/ransom-canyon-canceled-netflix-1236858180/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:21:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236858104",
+      "title": "Lilly Wachowski on Her New Studio Anarchists United, the Black Power Origins of \u2018The Matrix\u2019 and How \u2018Harry Potter\u2019 Fans Are \u2018Supporting Trans Genocide\u2019",
+      "url": "https://variety.com/2026/tv/features/lilly-wachowski-jk-rowling-harry-potter-trans-the-matrix-1236858104/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236857282",
+      "title": "Kazakh Horror Sequel \u2018Dastur: Teris Bata\u2019 Boards Fearfolks for World Sales (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/kazakh-horror-sequel-dastur-teris-bata-fearfolks-world-sales-1236857282/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T13:56:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236697306",
+      "title": "Cynthia Erivo\u2019s First Film Since \u2018Wicked\u2019 Required Her to Go Dark, Deep and Fearless: \u201cI\u2019d Feel Sick and Angry\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/cynthia-erivo-prima-facie-tiff-exclusive-1236697306/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "guid": "BgPotNFskUCwdeeR55fXh3",
+      "title": "Have women's roles in games truly evolved since the days of damsels in distress?",
+      "url": "https://www.gamesradar.com/games/have-womens-roles-in-games-truly-evolved-since-the-days-of-damsels-in-distress/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "guid": "NgUtCzXVp9wnyr4YD9KM7W",
+      "title": "The Blood of Dawnwalker's lack of stealth makes this Witcher 3-like feel incomplete",
+      "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalkers-lack-of-stealth-makes-this-witcher-3-like-feel-incomplete/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "guid": "1881639",
+      "title": "Death Stranding Franchise Likely Barely Broke Even, Could Explain Sony Dropping Physint \u2013 Analyst",
+      "url": "https://www.gamespot.com/articles/death-stranding-franchise-likely-barely-broke-even-could-explain-sony-dropping-physint-analyst/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:04:29+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206233",
+      "title": "Sony Stopped Physint Development Over Budget, Exclusivity Concerns",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-stopped-physint-development-over-budget-exclusivity-concerns",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206231",
+      "title": "You Can Get Phantom Blade Zero's PS5 Platinum Trophy on Its Easiest Difficulty",
+      "url": "https://www.pushsquare.com/news/2026/09/you-can-get-phantom-blade-zeros-ps5-platinum-trophy-on-its-easiest-difficulty",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122843",
+      "title": "First Fire Emblem: Fortune\u2019s Weave Merchandise Announced",
+      "url": "https://www.siliconera.com/first-fire-emblem-fortunes-weave-merchandise-announced/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:00:05+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206229",
+      "title": "Review: TrimUI Brick Pro - Same Power In A Larger Frame (And Dual Analogue, Too)",
+      "url": "https://www.timeextension.com/reviews/trimui-brick-pro-same-power-in-a-larger-frame-and-dual-analogue-too",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1078063",
+      "title": "Bloomberg: Sony Interactive Entertainment stepped away from Physint over missed deadlines, budget concerns",
+      "url": "https://www.gematsu.com/2026/09/bloomberg-sony-interactive-entertainment-stepped-away-from-physint-over-missed-deadlines-budget-concerns",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:06:25+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756000",
+      "title": "Elon Musk Threatens Legal Action Over Alex Gibney\u2019s Musk Documentary, Calls It a \u2018Hit Piece\u2019",
+      "url": "https://otakukart.com/elon-musk-threatens-legal-action-over-alex-gibneys-musk-documentary-calls-it-a-hit-piece/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-11T14:02:35+00:00"
     }
   ]
 }
