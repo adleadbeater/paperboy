@@ -902,12 +902,44 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236699433",
-      "title": "Toronto Awards Analysis: \u2018I Play Rocky\u2019 Channels Namesake, Could Follow in Its Oscar Footsteps",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/toronto-awards-analysis-i-play-rocky-1236699433/",
-      "source_name": "Hollywood Reporter",
+      "guid": "cE39Cxt3jLDNjfcAmAqp2a",
+      "title": "Ashly Burch, voice of Horizon's Aloy and star of Mythic Quest, is currently obsessed with Slay the Spire 2 and thinks videogames have too many stoic characters: 'I want more sh*tty little b*tches'",
+      "url": "https://www.pcgamer.com/gaming-industry/ashly-burch-voice-of-horizons-aloy-and-star-of-mythic-quest-is-currently-obsessed-with-slay-the-spire-2-and-thinks-videogames-have-too-many-stoic-characters-i-want-more-sh-tty-little-b-tches/",
+      "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-09-13T05:18:57+00:00"
+      "published_dt": "2026-09-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237100046",
+      "title": "Betty Thomas, Billy Crystal & The Curious Case Of The Emmy-Thieving Imposter",
+      "url": "https://deadline.com/2026/09/betty-thomas-billy-crystal-barry-bremen-emmys-imposter-1237100046/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237100332",
+      "title": "Bertil Nilsson\u2019s TIFF Film \u2018Masc\u2019 Explores Intersectionality Of Queer, Biracial, Autistic Experience \u2014 Clip",
+      "url": "https://deadline.com/2026/09/bertil-nilsson-tiff-masc-clip-1237100332/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-13T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236860323",
+      "title": "Ali Asgari Doesn\u2019t Believe in a Bright Future After Iran\u2019s January Massacre \u2013 Just \u2018A Bit of Light\u2019",
+      "url": "https://variety.com/2026/film/global/ali-asgari-iran-january-massacre-a-bit-of-light-venice-1236860323/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-13T14:59:42+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-205693",
+      "title": "Feature: What I Learned After Working On Over 1,000 Switch 2 Joy-Con",
+      "url": "https://www.nintendolife.com/features/what-i-learned-after-working-on-over-1000-switch-2-joy-con",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-13T15:00:00+00:00"
     }
   ]
 }
