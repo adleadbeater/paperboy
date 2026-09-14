@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Marvel's VisionQuest Will Revisit Iron Man's Death From a New Angle, Showrunner Says",
-      "tag": "visionquest",
-      "posted_at": "2026-09-06T21:29:00.047083+00:00",
-      "urls": [
-        "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-showrunner-says-the-new-marvel-tv-show-will-offer-a-new-heartbreaking-perspective-on-iron-mans-death/"
-      ],
-      "article_titles": [
-        "VisionQuest showrunner says the new Marvel TV show will offer a new, heartbreaking perspective on Iron Man's death"
-      ]
-    },
-    {
       "headline": "The Legend of Zelda 40th Anniversary Direct: Every Major Announcement",
       "tag": "the legend of zelda",
       "posted_at": "2026-09-08T14:01:23.179006+00:00",
@@ -918,34 +907,157 @@
       "article_titles": [
         "Warcraft 3: Reforged adds always-online requirement, removes LAN mode"
       ]
+    },
+    {
+      "headline": "Blizzard's New StarCraft Shooter Is Apparently Ditching Live-Service \u2014 a Huge Shift for the Studio",
+      "tag": "starcraft",
+      "posted_at": "2026-09-14T13:01:04.789086+00:00",
+      "urls": [
+        "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service"
+      ],
+      "article_titles": [
+        "In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237101424",
-      "title": "Steve Ballmer Apologizes To Fans, Says He Has Paid $30M NBA Fine, But Does Not Admit Guilt",
-      "url": "https://deadline.com/2026/09/steve-ballmer-apologizes-does-not-admit-guilt-1237101424/",
+      "guid": "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service",
+      "title": "In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game",
+      "url": "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:45:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237101554",
+      "title": "Canada\u2019s Precious Metal Productions & Black Fawn Distribution Strike Genre Slate Deal \u2013 TIFF",
+      "url": "https://deadline.com/2026/09/canada-precious-metal-black-fawn-genre-slate-deal-1237101554/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-14T04:11:05+00:00"
+      "published_dt": "2026-09-14T13:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236700218",
-      "title": "Zack Snyder\u2019s \u2018The Last Photograph\u2019: First Reactions",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/zack-snyder-the-last-photograph-first-reactions-1236700218/",
+      "guid": "https://deadline.com/?p=1237101199",
+      "title": "\u2018Evil Genius\u2019 Review: Courteney Cox\u2019s True-Crime Unpacks The Toxic Love Story At Center Of \u201cPizza Bomber\u201d Case \u2014\u00a0Toronto Film Festival",
+      "url": "https://deadline.com/2026/09/evil-genius-review-courteney-cox-true-crime-pizza-bomber-1237101199/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:54:55+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237101555",
+      "title": "Oprah Winfrey Heads To Las Vegas Sphere With New Immersive Experience",
+      "url": "https://deadline.com/2026/09/oprah-winfrey-sphere-immersive-music-experience-1237101555/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:33:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236861057",
+      "title": "Sydney Sweeney\u2019s Naked Sports Betting Ad Ignites Backlash From Olympic Athletes: \u2018Stop Sexualizing Women in Sport\u2019",
+      "url": "https://variety.com/2026/digital/news/sydney-sweeney-naked-sports-betting-ad-backlash-olympians-novig-1236861057/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:39:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236860368",
+      "title": "\u2018Brother\u2019s Keeper\u2019 Director Ferit Karahan\u2019s \u2018Djinn Wedding\u2019 Asks: \u2018Can a Person Who Refuses to Acknowledge Their Own Darkness Ever Truly Change Their Fate?\u2019",
+      "url": "https://variety.com/2026/film/global/brothers-keeper-ferit-karahan-toronto-djinn-wedding-1236860368/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:33:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236860851",
+      "title": "Oprah Winfrey to Headline Las Vegas Sphere With New Music and Arts Show \u2018Aha\u2019",
+      "url": "https://variety.com/2026/music/news/oprah-winfrey-sphere-show-aha-las-vegas-1236860851/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236861013",
+      "title": "Philomena Cunk to Quiz Michael Bay and Benedict Cumberbatch in \u2018Cunk on Cinema\u2019 as Latest Outing for Diane Morgan\u2019s Character Gets First Look",
+      "url": "https://variety.com/2026/tv/global/philomena-cunk-in-cinema-michael-bay-benedict-cumberbatch-1236861013/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236694498",
+      "title": "Isaac Mizrahi Gets Unzipped \u2014 Again",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/isaac-mizrahi-unzipped-returns-1236694498/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-14T04:10:29+00:00"
+      "published_dt": "2026-09-14T13:00:00+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-206269",
-      "title": "Diablo IV Reveals What's Next - 30th Anniversary Diablo Celebration, Amazon Class & Future Seasons",
-      "url": "https://www.nintendolife.com/news/2026/09/diablo-iv-reveals-whats-next-30th-anniversary-diablo-celebration-amazon-class-and-future-seasons",
-      "source_name": "Nintendo Life",
+      "guid": "https://www.hollywoodreporter.com/?p=1236698395",
+      "title": "Dave Chappelle Announces Fall 2026 Arena Tour",
+      "url": "https://www.hollywoodreporter.com/news/general-news/dave-chappelle-fall-2026-arena-tour-1236698395/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236698891",
+      "title": "Angie Harmon to Keynote MIPCOM Cannes\u2019 Women in Global Entertainment Power Lunch",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/angie-harmon-keynote-mipcom-cannes-1236698891/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236700225",
+      "title": "Oprah Winfrey Sets Sphere Live Shows",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/oprah-winfrey-sphere-las-vegas-shows-aha-1236700225/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T12:30:00+00:00"
+    },
+    {
+      "guid": "MyHuF4ou7cVsMNfvNMz8kC",
+      "title": "The GeForce RTX 5090 isn't a \"gaming GPU\" if AI companies are buying them by the pallet",
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/the-geforce-rtx-5090-isnt-a-gaming-gpu-if-ai-companies-are-buying-them-by-the-pallet/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-09-14T05:00:00+00:00"
+      "published_dt": "2026-09-14T12:33:21+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122918",
+      "title": ",Cospa to Release New NieR Automata Shirts and Jacket",
+      "url": "https://www.siliconera.com/cospa-to-release-new-nier-automata-shirts-and-jacket/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206294",
+      "title": "Metal Crisis, A New Shmup Inspired By PS1 Classic Einhander, Launches Steam Demo",
+      "url": "https://www.timeextension.com/news/2026/09/metal-crisis-a-new-shmup-inspired-by-ps1-classic-einhander-launches-steam-demo",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T12:45:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756434",
+      "title": "Former BioWare Lead Says Mass Effect Development Required \u201c21 Days On, One Day Off\u201d Crunch",
+      "url": "https://otakukart.com/former-bioware-lead-says-mass-effect-development-required-21-days-on-one-day-off-crunch/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T12:49:47+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-rpg-company.720234/",
+      "title": "RPG Evolution: Launch Your Own RPG Company",
+      "url": "https://www.enworld.org/threads/rpg-evolution-launch-your-own-rpg-company.720234/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T12:30:00+00:00"
     }
   ]
 }
