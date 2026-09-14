@@ -932,14 +932,6 @@
       "published_dt": "2026-09-13T20:57:12+00:00"
     },
     {
-      "guid": "9HMBNCLswjsJpKMbH9ahTc",
-      "title": "Warcraft 3: Reforged adds always-online requirement, removes LAN mode",
-      "url": "https://www.pcgamer.com/games/rts/warcraft-3-reforged-adds-always-online-requirement-removes-lan-mode/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-13T20:26:50+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237101028",
       "title": "\u2018Mr. Irrelevant\u2019 Trailer: David Corenswet Plays NFL\u2019s John Tuggle In Underdog Biopic About Late NY Giants Player",
       "url": "https://deadline.com/2026/09/mr-irrelevant-trailer-david-corenswet-ny-giants-1237101028/",
@@ -954,22 +946,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-13T20:30:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236699994",
-      "title": "Alex Gibney Says He Got \u201cNothing Back\u201d From Elon Musk When Reaching Out After Doc Legal Threat",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/alex-gibney-reached-out-elon-musk-tiff-musk-doc-1236699994/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-13T20:22:39+00:00"
-    },
-    {
-      "guid": "1883027",
-      "title": "You\u2019ll Fight The Protoss In StarCraft, Too, Don\u2019t Worry",
-      "url": "https://www.gamespot.com/articles/youll-fight-the-protoss-in-starcraft-too-dont-worry/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-13T20:24:28+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1753430",
@@ -1010,6 +986,30 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-13T22:18:03+00:00"
+    },
+    {
+      "guid": "d5dwTzjFUZ3R3jmEJS99Rh",
+      "title": "10 big World of Warcraft Forever details from BlizzCon: No separate realms, optional transmog, and massively improved items",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/10-big-world-of-warcraft-forever-details-from-blizzcon-no-separate-realms-optional-transmog-and-massively-improved-items/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T00:04:42+00:00"
+    },
+    {
+      "guid": "5zSQ6kZiEiUx45ochk9JcM",
+      "title": "Diablo 5's narrative lead is a BioWare vet who says the new caravan system gives the ARPG the \"best elements of traditional RPGs\" like Dragon Age and Baldur's Gate",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-5s-narrative-lead-is-a-bioware-vet-who-says-the-new-caravan-system-gives-the-arpg-the-best-elements-of-traditional-rpgs-like-dragon-age-and-baldurs-gate/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T00:21:04+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206267",
+      "title": "Diablo 5 and a New Starcraft Game Revealed, But Will They Be on PS6?",
+      "url": "https://www.pushsquare.com/news/2026/09/diablo-5-and-a-new-starcraft-game-revealed-but-will-they-be-on-ps6",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T00:00:00+00:00"
     }
   ]
 }
