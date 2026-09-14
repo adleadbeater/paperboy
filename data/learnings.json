@@ -1012,19 +1012,24 @@
       "article_titles": [
         "One Of Ubisoft\u2019s Only New Games Releasing This Fall Just Got A Two Month Delay"
       ]
+    },
+    {
+      "headline": "Valve's Steam Frame VR Headset Launches at $1,059 \u2014 But Who Is It Actually For?",
+      "tag": "steam frame",
+      "posted_at": "2026-09-14T17:06:28.232759+00:00",
+      "urls": [
+        "https://kotaku.com/im-not-sure-about-valves-new-1000-vr-headset-2000734260",
+        "https://www.pcgamer.com/hardware/vr-hardware/steam-frame-starts-at-usd1-059-with-reservation-lottery-open-now-enter-before-september-17-for-best-chance-of-getting-one-this-year/"
+      ],
+      "article_titles": [
+        "I Tested Valve\u2019s New $1,000+ VR Headset And I Have No Idea Who It\u2019s For In 2026",
+        "Steam Frame starts at $1,059 and you'll want to enter the stock lottery before September 17 for a higher chance of getting one this year"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000734244",
-      "title": "Last Of Us Part II Multiplayer Mod Shut Down By Sony After Months Of Work",
-      "url": "https://kotaku.com/last-of-us-part-2-multiplayer-mod-sony-naughty-dog-canceled-2000734244",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-14T13:02:53+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237101652",
       "title": "Well Go USA Entertainment Acquires \u2018The Optimist\u2019 For Digital Release On November 17",
@@ -1088,14 +1093,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-09-14T13:07:12+00:00"
-    },
-    {
-      "guid": "1883205",
-      "title": "Resident Evil Movie Director Comments On Physical Media Debate",
-      "url": "https://www.gamespot.com/articles/resident-evil-movie-director-comments-on-physical-media-debate/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-14T13:03:39+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000734239",
@@ -2352,6 +2349,62 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-09-14T16:49:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734260",
+      "title": "I Tested Valve\u2019s New $1,000+ VR Headset And I Have No Idea Who It\u2019s For In 2026",
+      "url": "https://kotaku.com/im-not-sure-about-valves-new-1000-vr-headset-2000734260",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T17:00:30+00:00"
+    },
+    {
+      "guid": "P5FqbqKqN7okorVE6HeRAW",
+      "title": "Steam Frame starts at $1,059 and you'll want to enter the stock lottery before September 17 for a higher chance of getting one this year",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/steam-frame-starts-at-usd1-059-with-reservation-lottery-open-now-enter-before-september-17-for-best-chance-of-getting-one-this-year/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T17:00:00+00:00"
+    },
+    {
+      "guid": "ksHm8R33a8QRGJrhYzN67Q",
+      "title": "Steam Frame review",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-steam-frame-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-14T17:00:00+00:00"
+    },
+    {
+      "guid": "rNwZeNaMg4r2qh8oVnK5Ca",
+      "title": "The internet's new obsession: Gabe Newell explaining why Valve defied big tech by staying a private company and hiring \"the most expensive talent\"",
+      "url": "https://www.gamesradar.com/games/the-internets-new-obsession-gabe-newell-explaining-why-valve-defied-big-tech-by-staying-a-private-company-and-hiring-the-most-expensive-talent/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T17:03:06+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206289",
+      "title": "Feature: Luigi's Mansion Is One Of My Favourite GameCube Games, But I've Never Actually Owned It",
+      "url": "https://www.nintendolife.com/features/luigis-mansion-is-one-of-my-favourite-gamecube-games-but-ive-never-actually-owned-it",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206305",
+      "title": "Ace Combat 8's New Trailer Is Awesome, But Maybe Avoid It if You're Already In",
+      "url": "https://www.pushsquare.com/news/2026/09/ace-combat-8s-new-trailer-is-awesome-but-maybe-avoid-it-if-youre-already-in",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206312",
+      "title": "Mega Man Teams Up With Pragmata Star Diana In Perhaps The Cutest Art You'll See Today",
+      "url": "https://www.timeextension.com/news/2026/09/mega-man-teams-up-with-pragmata-star-diana-in-perhaps-the-cutest-art-youll-see-today",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-14T17:00:00+00:00"
     }
   ]
 }
