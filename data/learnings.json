@@ -1,66 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Legend of Zelda 40th Anniversary Direct: Every Major Announcement",
-      "tag": "the legend of zelda",
-      "posted_at": "2026-09-08T14:01:23.179006+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/the-legend-of-zelda-40th-anniversary-direct-all-the-biggest-announcements/",
-        "https://www.nintendolife.com/news/2026/09/watch-the-legend-of-zelda-40th-anniversary-nintendo-direct-live"
-      ],
-      "article_titles": [
-        "The Legend of Zelda 40th Anniversary Direct: All The Biggest Announcements",
-        "Watch: The Legend Of Zelda 40th Anniversary Nintendo Direct - Live!"
-      ]
-    },
-    {
-      "headline": "Major Publishers Are Reportedly Opting Out of Xbox's Disc-to-Digital Trade-In Program",
-      "tag": "xbox",
-      "posted_at": "2026-09-08T14:01:23.375372+00:00",
-      "urls": [
-        "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117",
-        "https://kotaku.com/xbox-digital-licensing-disc-sega-ubisoft-square-enix-2000732117"
-      ],
-      "article_titles": [
-        "Some Big Companies Are Seemingly Opting Out Of Xbox\u2019s Disc-To-Digital Service",
-        "Some Big Companies Are Seemingly Opting Out Of Xbox\u2019s Disc-To-Digital Service"
-      ]
-    },
-    {
-      "headline": "Zelda: Ocarina of Time Remake Is Real, Coming to Switch 2 on November 5, 2026",
-      "tag": "the legend of zelda: ocarina of time",
-      "posted_at": "2026-09-08T14:31:27.991262+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-fully-revealed",
-        "https://kotaku.com/heres-what-the-zelda-ocarina-of-time-remake-looks-like-2000732136",
-        "https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-launches-on-switch-2-on-5th-november-2026",
-        "https://www.siliconera.com/the-legend-of-zelda-ocarina-of-time-remake-release-date-set/"
-      ],
-      "article_titles": [
-        "The Legend of Zelda: Ocarina of Time Remake Release Date Confirmed, and It Looks Like a Faithful-Looking Return With a Few Surprises",
-        "Here\u2019s What The Zelda: Ocarina Of Time Remake Looks Like",
-        "Zelda: Ocarina Of Time Launches On Switch 2 On 5th November 2026",
-        "The Legend of Zelda: Ocarina of Time Remake Release Date Set"
-      ]
-    },
-    {
-      "headline": "Shigeru Miyamoto Confirms the Zelda Live-Action Movie Is an Original Story \u2014 and Explains Why It Has No Subtitle",
-      "tag": "the legend of zelda",
-      "posted_at": "2026-09-08T14:31:28.156095+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-legend-of-zelda-live-action-movie-detailed",
-        "https://www.gamesradar.com/entertainment/live-action-movies/legend-of-zelda-movie-original-story/",
-        "https://www.gematsu.com/2026/09/the-legend-of-zelda-live-action-film-titled-the-legend-of-zelda",
-        "https://www.eurogamer.net/the-legend-of-zelda-film-trailer-first-look"
-      ],
-      "article_titles": [
-        "The Legend of Zelda Live-Action Movie Will Be an Original Story Based on the Series So Far",
-        "Shigeru Miyamoto reveals The Legend of Zelda movie will be an \"original\" story, and there's a reason it has no subtitle",
-        "The Legend of Zelda live-action film titled The Legend of Zelda",
-        "The Legend of Zelda film is just called \"The Legend of Zelda\", apparently, and there's a good reason it doesn't have a subtitle"
-      ]
-    },
-    {
       "headline": "Godzilla Minus Zero drops new trailer featuring King Ghidorah and story endgame",
       "tag": "godzilla minus zero",
       "posted_at": "2026-09-08T15:01:19.357793+00:00",
@@ -1130,6 +1070,19 @@
       "article_titles": [
         "In less than a week Wardogs sells 2 million copies and achieves over 400k concurrent players"
       ]
+    },
+    {
+      "headline": "Pok\u00e9mon Pokopia Wins Game of the Year at Japan Game Awards 2026",
+      "tag": "pok\u00e9mon",
+      "posted_at": "2026-09-15T14:31:33.936447+00:00",
+      "urls": [
+        "https://www.siliconera.com/pokemon-pokopia-wins-goty-at-japan-game-awards-2026/",
+        "https://www.siliconera.com/pokemon-pokopia-wins-goty-at-japan-game-awards-2026/"
+      ],
+      "article_titles": [
+        "Pokemon Pokopia Wins GOTY at Japan Game Awards 2026",
+        "Pokemon Pokopia Wins GOTY at Japan Game Awards 2026"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1494,6 +1447,190 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734583",
+      "title": "No One Can Believe The Current Price Of An Nvidia RTX 5090",
+      "url": "https://kotaku.com/nvidia-rtx-5090-gpu-stock-best-buy-amazon-price-genai-ai-2000734583",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:00:53+00:00"
+    },
+    {
+      "guid": "3dsc4T9woRHCvBx3QYVh49",
+      "title": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:22:49+00:00"
+    },
+    {
+      "guid": "X2JyuNtCMohQMFepQJeX3R",
+      "title": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'",
+      "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:15:44+00:00"
+    },
+    {
+      "guid": "pLvC6N8ceVb5R3M45B9FGY",
+      "title": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:06:53+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103825",
+      "title": "Isabelle Huppert Comedy \u2018All About Corinne\u2019 Sells To U.S. Ahead Of Toronto North American Premiere",
+      "url": "https://deadline.com/2026/09/isabelle-huppert-comedy-all-about-corinne-sells-us-cohen-1237103825/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103859",
+      "title": "\u2018The Diplomat\u2019 Season 4 Trailer: Keri Russell Confronts \u201cOver The Line\u201d White House",
+      "url": "https://deadline.com/2026/09/the-diplomat-season-4-trailer-keri-russell-1237103859/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:27:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103844",
+      "title": "Tom Cruise Pokes Fun At His Self-Serious Persona In Rare Feature Interview: \u201cI Don\u2019t Know What To Say. I Am Intense\u201d",
+      "url": "https://deadline.com/2026/09/tom-cruise-digger-persona-intense-1237103844/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:05:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103708",
+      "title": "\u2018Slow Horses\u2019 Renewed For Season 8 At Apple TV",
+      "url": "https://deadline.com/2026/09/slow-horses-renewed-season-8-apple-tv-emmys-1237103708/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103748",
+      "title": "Estate Of Former UCLA Film School Dean Robert Rosen Financing Indie Feature \u2018Charred Remains Of Heaven\u2019",
+      "url": "https://deadline.com/2026/09/robert-rosen-ucla-charred-remains-of-heaven-1237103748/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236861764",
+      "title": "MPA Projects Federal Film Incentive Would Double U.S. Production and Create 143,500 Jobs",
+      "url": "https://variety.com/2026/film/news/mpa-federal-film-incentive-jobs-production-report-1236861764/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862952",
+      "title": "Kate Beckinsale, Ryan Phillippe Psychological Thriller \u2018The Patient\u2019 Acquired by Buffalo 8 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/markets-festivals/kate-beckinsale-ryan-phillippe-the-patient-buffalo-8-1236862952/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:29:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236861711",
+      "title": "Method Man to Guest Star on CBS Drama \u2018Cupertino\u2019 as Rapper Suing AI Music Studio (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/method-man-cbs-cupertino-rapper-ai-1236861711/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862693",
+      "title": "Oscilloscope Lands North American Rights to \u2018Game,\u2019 Rave Thriller From John Minton and Portishead\u2019s Geoff Barrow Starring Jason Williamson of Sleaford Mods (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/game-portishead-geoff-barrow-us-release-oscilloscope-1236862693/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236700785",
+      "title": "Why Should Hollywood Get a Federal Tax Credit? Nearly $250 Billion Is On the Table, Study Says",
+      "url": "https://www.hollywoodreporter.com/business/business-news/nearly-250-b-federal-film-tax-credit-study-1236700785/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702034",
+      "title": "Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries",
+      "url": "https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:27:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702029",
+      "title": "Savannah Guthrie \u201cSo Touched\u201d by Allison Janney\u2019s Words About Mom Nancy Guthrie at Emmys",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/savannah-guthrie-allison-janney-nancy-emmys-1236702029/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:18:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702047",
+      "title": "Keri Russell Confronts a \u201cCulture of Consistent Lawlessness\u201d in \u2018The Diplomat\u2019 Season 4 Trailer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-season-4-trailer-keri-russell-allison-janney-1236702047/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T14:01:17+00:00"
+    },
+    {
+      "guid": "a6pqx7jBXRHJeNVcCUciK9",
+      "title": "Elder Scrolls lore master and 20-year Bethesda veteran Kurt Kuhlmann can't find a job after being laid off months ago, and doesn't that sum up today's industry",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/elder-scrolls-lore-master-and-20-year-bethesda-veteran-kurt-kuhlmann-cant-find-a-job-after-being-laid-off-months-ago-and-doesnt-that-sum-up-todays-industry/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T14:16:46+00:00"
+    },
+    {
+      "guid": "URrj2yH6g8JyBxhNyQGUic",
+      "title": "Tom Cruise know he's \"intense\" to work with: \"Trust me, the rumors are true\"",
+      "url": "https://www.gamesradar.com/entertainment/comedy-movies/tom-cruise-know-hes-intense-to-work-with-trust-me-the-rumors-are-true/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T14:02:28+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206190",
+      "title": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series",
+      "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206323",
+      "title": "Preview: Stupid Never Dies Is a Hard Sell, But It Could Offer Weird Action Unlike Anything Else on PS5",
+      "url": "https://www.pushsquare.com/previews/stupid-never-dies-is-a-hard-sell-but-it-could-offer-weird-action-unlike-anything-else-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1078858",
+      "title": "Total War: SHOGUN 2 Complete Edition announced for PC",
+      "url": "https://www.gematsu.com/2026/09/total-war-shogun-2-complete-edition-announced-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T14:27:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1078833",
+      "title": "PowerWash Simulator 2 DLC \u2018Barbie Pack\u2019 announced",
+      "url": "https://www.gematsu.com/2026/09/powerwash-simulator-2-dlc-barbie-pack-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T14:06:13+00:00"
     }
   ]
 }
