@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Stellar Blade Dev's CTO Addresses AI Controversy After Blood Rain Music Video Fallout",
-      "tag": "stellar blade",
-      "posted_at": "2026-09-08T18:51:14.003970+00:00",
-      "urls": [
-        "https://www.ign.com/articles/shift-up-cto-clarifies-stellar-blade-developers-stance-on-ai-after-blood-rain-music-video-controversy"
-      ],
-      "article_titles": [
-        "Shift Up CTO Clarifies Stellar Blade Developer's Stance on AI After Blood Rain Music Video Controversy"
-      ]
-    },
-    {
       "headline": "Geoff Keighley and PlayStation Architect Mark Cerny Launch $2 Million Annual Fund for Young Game Designers",
       "tag": "gaming industry",
       "posted_at": "2026-09-08T20:01:23.225154+00:00",
@@ -1083,131 +1072,33 @@
         "GTA 6 teasers keep popping up on celebrity social media as Travis Scott, Morgan Wallen, and more hint at Rockstar collaboration",
         "USA Rapper Travis Scott Teases GTA 6 Collaboration"
       ]
+    },
+    {
+      "headline": "Wardogs Studio Screens Job Applicants' Social Media for Anti-Crunch Posts",
+      "tag": "wardogs",
+      "posted_at": "2026-09-15T20:01:10.251766+00:00",
+      "urls": [
+        "https://kotaku.com/wardogs-boss-says-studio-checks-social-accounts-for-anti-crunch-posts-youre-not-going-to-be-happy-here-so-were-not-going-to-go-with-you-2000734726"
+      ],
+      "article_titles": [
+        "Wardogs Boss Says Studio Checks Social Accounts For Anti-Crunch Posts: \u2018You\u2019re Not Going To Be Happy Here, So We\u2019re Not Going To Go With You\u2019"
+      ]
+    },
+    {
+      "headline": "Former Tekken Director Harada Teases His Next Game Is a Surprise \u2014 But Not What You'd Expect",
+      "tag": "katsuhiro harada",
+      "posted_at": "2026-09-15T20:01:10.334569+00:00",
+      "urls": [
+        "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-says-his-next-game-will-be-a-surprise-but-not-outside-fans-expectations"
+      ],
+      "article_titles": [
+        "Former Tekken Director Katsuhiro Harada Says His Next Game Will Be a \u2018Surprise,\u2019 But Not Outside Fans\u2019 Expectations"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000734618",
-      "title": "Steam\u2019s New Hit Shooter Has Players Switching Teams In The Middle Of Matches To Cheat And Troll",
-      "url": "https://kotaku.com/steams-new-hit-shooter-has-players-switching-teams-in-the-middle-of-matches-to-cheat-and-troll-2000734618",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T15:30:55+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237104031",
-      "title": "\u2018The Celebrity Traitors\u2019 Trailer Offers First Glimpse Of Players Including Bella Ramsey & Maya Jama: \u201cWe\u2019re In Game Mode Now\u201d",
-      "url": "https://deadline.com/2026/09/the-celebrity-traitors-trailer-bbc-bella-ramsey-1237104031/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T15:42:44+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237103981",
-      "title": "Cheetah Chrome Dies: Co-Founding Guitarist Of Influential Punk Band Dead Boys Was 71",
-      "url": "https://deadline.com/2026/09/cheetah-chrome-dead-1237103981/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T15:41:19+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237104019",
-      "title": "Martin Sheen & Jana Kramer Faith Film \u2018The One\u2019 Gets U.S. Release & Launch Date",
-      "url": "https://deadline.com/2026/09/martin-sheen-jana-kramer-faith-film-the-one-us-release-date-1237104019/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T15:34:22+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237103796",
-      "title": "True Crime Remains The Red Hot TV Doc Genre, Ampere Data Shows",
-      "url": "https://deadline.com/2026/09/true-crime-top-tv-doc-genre-ampere-analysis-1237103796/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T15:32:10+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
-      "title": "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room",
-      "url": "https://www.eurogamer.net/blizzard-wow-2-sequel-forever",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T15:45:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237103975",
-      "title": "Streaming Guide JustWatch Launching Its Own AVOD-TVOD Service",
-      "url": "https://deadline.com/2026/09/justwatch-streaming-launches-avod-tvod-1237103975/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236859049",
-      "title": "JustWatch Group to Launch AVOD Streaming Service This October",
-      "url": "https://variety.com/2026/streaming/news/justwatch-tv-streaming-service-1236859049/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236861674",
-      "title": "FocusFest Immersive Fan Event Sets Screenings of \u2018Sense and Sensibility,\u2019 \u2018Elsinore\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/daisy-edgar-jones-and-esme-creed-miles-to-attend-focusfest-1236861674/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236861865",
-      "title": "Brooklyn Horror Film Festival 2026 Unveils Lineup: Premieres Include Parisian Vampires, Body Horror and More Wild Genre Tales (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/festivals/brooklyn-horror-film-festival-2026-lineup-1236861865/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236863083",
-      "title": "Nick Reiner Will Not Face Death Penalty in Parents\u2019 Killings",
-      "url": "https://variety.com/2026/film/news/nick-reiner-will-not-face-death-penalty-1236863083/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T15:53:26+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236700561",
-      "title": "JustWatch Is Launching Its Own Streaming Service",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/justwatch-tv-new-streaming-service-1236700561/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "guid": "htmxtrvGSYs8W6tTzDnjn5",
-      "title": "Superman is leaving HBO Max in several countries, and DC fans are thoroughly confused",
-      "url": "https://www.gamesradar.com/entertainment/dc-movies/superman-is-leaving-hbo-max-in-several-countries-and-dc-fans-are-thoroughly-confused/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T15:48:01+00:00"
-    },
-    {
-      "guid": "zdCwDX6VmMbywJjZMjpNzG",
-      "title": "Fire Emblem: Fortune's Weave almost had 8 protagonists in a \"bold\" attempt to surpass Three Houses, and I'm so happy the devs talked themselves out of it",
-      "url": "https://www.gamesradar.com/games/rpg/fire-emblem-fortunes-weave-almost-had-8-protagonists-in-a-bold-attempt-to-surpass-three-houses-and-im-so-happy-the-devs-talked-themselves-out-of-it/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T15:45:05+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123009",
-      "title": "The Aeon Aha Will be Playable in Honkai: Star Rail 4.7",
-      "url": "https://www.siliconera.com/the-aeon-aha-will-be-playable-in-honkai-star-rail-4-7/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
       "title": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
@@ -1265,14 +1156,6 @@
       "published_dt": "2026-09-15T16:14:58+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236862796",
-      "title": "Zack Snyder Wants You to Know He\u2019s No Fascist: \u2018I Made the Gayest Movie Ever Made\u2019",
-      "url": "https://variety.com/2026/film/features/zack-snyder-responds-last-photograph-bad-reviews-fascist-1236862796/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236692618",
       "title": "Best TV Shows to Get You in the Fall Mood: \u2018Gilmore Girls,\u2019 \u2018The Vampire Diaries,\u2019 \u2018Charmed\u2019 and More",
       "url": "https://www.hollywoodreporter.com/lists/best-tv-shows-watch-fall-autumn/",
@@ -1327,38 +1210,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-15T16:03:28+00:00"
-    },
-    {
-      "guid": "1885077",
-      "title": "Big GTA 6 News Could Be Coming Up Soon",
-      "url": "https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T15:58:42+00:00"
-    },
-    {
-      "guid": "1885056",
-      "title": "PlayStation Plus Is Removing 7 Games Soon, So Play Them While You Can",
-      "url": "https://www.gamespot.com/articles/playstation-plus-is-removing-7-games-soon-so-play-them-while-you-can/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T15:58:33+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206283",
-      "title": "Poll: Are You Playing Marvel's Wolverine on PS5?",
-      "url": "https://www.pushsquare.com/features/poll-are-you-playing-marvels-wolverine-on-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206367",
-      "title": "Scientific Research Concludes Playing Super Mario 64 Literally Expands Your Brain",
-      "url": "https://www.timeextension.com/news/2026/09/scientific-research-concludes-playing-super-mario-64-literally-expands-your-brain",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1078967",
@@ -2103,6 +1954,94 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-15T19:29:28+00:00"
+    },
+    {
+      "guid": "6757e3eb-ec33-47e9-bf6d-c4148d76dd76",
+      "title": "Former Tekken Director Katsuhiro Harada Says His Next Game Will Be a \u2018Surprise,\u2019 But Not Outside Fans\u2019 Expectations",
+      "url": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-says-his-next-game-will-be-a-surprise-but-not-outside-fans-expectations",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:27:05+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734726",
+      "title": "Wardogs Boss Says Studio Checks Social Accounts For Anti-Crunch Posts: \u2018You\u2019re Not Going To Be Happy Here, So We\u2019re Not Going To Go With You\u2019",
+      "url": "https://kotaku.com/wardogs-boss-says-studio-checks-social-accounts-for-anti-crunch-posts-youre-not-going-to-be-happy-here-so-were-not-going-to-go-with-you-2000734726",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:31:01+00:00"
+    },
+    {
+      "guid": "xPuftjRvj8dfZFB7eyp4t9",
+      "title": "Wardogs delivers what Battlefield 6 was too console-brained to pull off: A real server browser",
+      "url": "https://www.pcgamer.com/games/fps/wardogs-delivers-what-battlefield-6-was-too-console-brained-to-pull-off-a-real-server-browser/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:49:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236863391",
+      "title": "Finneas Drops Out of Ed Sheeran Tour in Solidarity With Macklemore: \u2018I Stand With Palestine and Its People\u2019",
+      "url": "https://variety.com/2026/music/news/finneas-drops-ed-sheeran-tour-macklemore-palestine-1236863391/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:52:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862035",
+      "title": "Netflix \u2018Pride and Prejudice\u2019 Series Sets Release Date, Drops First-Look Photos (TV News Roundup)",
+      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-september-14-1236862035/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:48:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236701048",
+      "title": "The New \u2018Wolverine\u2019 Game Is \u201cUnapologetically Violent.\u201d But It\u2019s About More Than the Body Count",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/wolverine-ps5-game-is-unapologetically-violent-marvel-1236701048/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:56:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702494",
+      "title": "Ed Sheeran Opener Aaron Rowe Departs Tour in Solidarity With Macklemore",
+      "url": "https://www.hollywoodreporter.com/music/music-news/ed-sheeran-opener-aaron-rowe-departs-tour-macklemore-palestine-1236702494/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:41:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702450",
+      "title": "Broadway Box Office: \u2018Hamilton\u2019 Hits $2.5M As Chris Jackson Returns, \u2018School Girls\u2019 Starts Previews",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-chris-jackson-1236702450/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T19:35:10+00:00"
+    },
+    {
+      "guid": "1885893",
+      "title": "Microsoft Reacts To Xbox Game Pass Rumor That Could Change The Service In A Big Way",
+      "url": "https://www.gamespot.com/articles/microsoft-reacts-to-xbox-game-pass-rumor-that-could-change-the-service-in-a-big-way/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T19:46:50+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123027",
+      "title": "Vampire Survivors-like Jujutsu Kaisen Rumble: SURVIVATON Delayed",
+      "url": "https://www.siliconera.com/vampire-survivors-like-jujutsu-kaisen-rumble-survivaton-delayed/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T20:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756630",
+      "title": "ONE PIECE: Grand Gourmet Reveals New Gameplay Trailer Ahead of October 2026 Release",
+      "url": "https://otakukart.com/one-piece-grand-gourmet-reveals-new-gameplay-trailer-ahead-of-october-2026-release/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T19:52:15+00:00"
     }
   ]
 }
