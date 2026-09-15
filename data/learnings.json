@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Geoff Keighley and PlayStation Architect Mark Cerny Launch $2 Million Annual Fund for Young Game Designers",
-      "tag": "gaming industry",
-      "posted_at": "2026-09-08T20:01:23.225154+00:00",
-      "urls": [
-        "https://kotaku.com/game-awards-host-geoff-keighley-and-playstation-architect-mark-cerny-will-start-giving-over-2-million-to-young-game-designers-each-year-2000732391"
-      ],
-      "article_titles": [
-        "Game Awards Host Geoff Keighley And PlayStation Architect Mark Cerny Will Start Giving $2 Million To Young Game Designers Each Year"
-      ]
-    },
-    {
-      "headline": "Breaking Benjamin Singer Stops Concert Mid-Set to Call Out a Fallout 4 Modder Who Was \"Really Mean\" to Him",
-      "tag": "fallout 4",
-      "posted_at": "2026-09-08T20:01:23.423173+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/fallout/breaking-benjamin-frontman-pauses-concert-to-rant-about-fallout-4-modding-beef-there-was-a-modder-in-the-community-that-was-really-mean-to-me/"
-      ],
-      "article_titles": [
-        "Breaking Benjamin frontman pauses concert to rant about Fallout 4 modding beef: 'There was a modder in the community that was really mean to me'"
-      ]
-    },
-    {
       "headline": "France's President Macron Declares Video Games \"Part of Our Culture,\" Announces International Gaming Festival",
       "tag": "clair obscur: expedition 33",
       "posted_at": "2026-09-08T21:01:01.556099+00:00",
@@ -1094,139 +1072,50 @@
       "article_titles": [
         "Former Tekken Director Katsuhiro Harada Says His Next Game Will Be a \u2018Surprise,\u2019 But Not Outside Fans\u2019 Expectations"
       ]
+    },
+    {
+      "headline": "Xbox Officially Responds to Rumors That Game Pass Is Losing Day-One Games in 2027",
+      "tag": "xbox game pass",
+      "posted_at": "2026-09-15T20:31:00.755584+00:00",
+      "urls": [
+        "https://kotaku.com/xbox-responds-to-rumors-that-game-pass-is-losing-day-one-new-games-in-2027-2000734755",
+        "https://www.gamesradar.com/games/xbox-game-pass-is-extremely-poorly-managed-and-doom-should-never-have-been-part-of-it-says-former-producer/",
+        "https://www.gamespot.com/articles/microsoft-reacts-to-xbox-game-pass-rumor-that-could-change-the-service-in-a-big-way/"
+      ],
+      "article_titles": [
+        "Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027",
+        "Xbox Game Pass is \"extremely poorly managed\" and Doom should never have been part of it, says former producer",
+        "Microsoft Reacts To Xbox Game Pass Rumor That Could Change The Service In A Big Way"
+      ]
+    },
+    {
+      "headline": "Space Marine 2 Publisher Focus Entertainment Files Legal Complaints After Employees Receive Threats",
+      "tag": "focus entertainment",
+      "posted_at": "2026-09-15T20:31:00.943116+00:00",
+      "urls": [
+        "https://kotaku.com/space-marine-and-plague-tale-publisher-says-it-has-filed-legal-complaints-after-influx-of-threats-against-its-employees-2000734641"
+      ],
+      "article_titles": [
+        "Space Marine And Plague Tale Publisher Says it Has Filed \u2018Legal Complaints\u2019 After Influx Of Threats Against Its Employees"
+      ]
+    },
+    {
+      "headline": "Insomniac's Wolverine Game Is \"Unapologetically Violent\" \u2014 and Bigger Than Just the Gore",
+      "tag": "marvel's wolverine",
+      "posted_at": "2026-09-15T20:31:01.136847+00:00",
+      "urls": [
+        "https://www.hollywoodreporter.com/movies/movie-news/wolverine-ps5-game-is-unapologetically-violent-marvel-1236701048/",
+        "https://www.hollywoodreporter.com/movies/movie-news/wolverine-ps5-game-is-unapologetically-violent-marvel-1236701048/"
+      ],
+      "article_titles": [
+        "The New \u2018Wolverine\u2019 Game Is \u201cUnapologetically Violent.\u201d But It\u2019s About More Than the Body Count",
+        "The New \u2018Wolverine\u2019 Game Is \u201cUnapologetically Violent.\u201d But It\u2019s About More Than the Body Count"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-      "title": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
-      "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:20:23+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000734652",
-      "title": "Music Artists Like Travis Scott And Keith Richards Have Started Hyping GTA 6\u2018s Massive Soundtrack",
-      "url": "https://kotaku.com/music-artists-like-travis-scott-and-keith-richards-have-started-hyping-gta-6s-massive-soundtrack-2000734652",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:23:51+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000734616",
-      "title": "Steam Mischaracterizing Indie Game As Porn Works Out In The End",
-      "url": "https://kotaku.com/nighthawks-steam-pornography-censorship-wadjet-eye-games-2000734616",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:00:40+00:00"
-    },
-    {
-      "guid": "RiPr6G4pYu8uTFV8pwmMK8",
-      "title": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry",
-      "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:21:40+00:00"
-    },
-    {
-      "guid": "ZhbtJJvjDPnrwDxfe5LSfg",
-      "title": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of\u2026 a movie?",
-      "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:02:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236863076",
-      "title": "Universal Music Group Sues DistroKid for Deceptive Trade Practices and Building an \u2018AI-Slop Pipeline\u2019",
-      "url": "https://variety.com/2026/music/news/universal-music-group-sues-distrokid-ai-slop-pipeline-1236863076/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:16:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236861731",
-      "title": "The Yellow Affair Snags San Sebastian New Directors Contender \u2018Morro\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/the-yellow-affair-morro-san-sebastian-new-directors-1236861731/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:14:58+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236692618",
-      "title": "Best TV Shows to Get You in the Fall Mood: \u2018Gilmore Girls,\u2019 \u2018The Vampire Diaries,\u2019 \u2018Charmed\u2019 and More",
-      "url": "https://www.hollywoodreporter.com/lists/best-tv-shows-watch-fall-autumn/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:26:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236702211",
-      "title": "Nick Reiner Won\u2019t Face Death Penalty If Convicted In Parents\u2019 Murder Case",
-      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-death-penalty-murder-case-1236702211/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:04:15+00:00"
-    },
-    {
-      "guid": "SNWYEAmbrJSh4rWwaY8uDo",
-      "title": "Neagley star Maria Sten explains how the Reacher spin-off will finally reveal the resourceful PI's mysterious backstory",
-      "url": "https://www.gamesradar.com/entertainment/action-shows/neagley-star-maria-sten-explains-how-the-reacher-spin-off-will-finally-reveal-the-resourceful-pis-mysterious-backstory/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:25:20+00:00"
-    },
-    {
-      "guid": "939RCgYmDxKBT36TRPxCpM",
-      "title": "As VR gamers celebrate the launch of Steam Frame, Meta's next headset leaks ahead of Connect 2026, but I don't think Valve should be worried",
-      "url": "https://www.gamesradar.com/hardware/vr/as-vr-gamers-celebrate-the-launch-of-steam-frame-metas-next-headset-leaks-ahead-of-connect-2026-but-i-dont-think-valve-should-be-worried/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:20:52+00:00"
-    },
-    {
-      "guid": "CQ675SPr7HbKcbeFvJ48q5",
-      "title": "World of Warcraft: Forever has a new race you can't get without paying $30, and it's not the first impression fans were hoping for: \"They are just blue elves\"",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-has-a-new-race-you-cant-get-without-paying-usd30-and-its-not-the-first-impression-fans-were-hoping-for-they-are-just-blue-elves/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:13:55+00:00"
-    },
-    {
-      "guid": "NFzWMeVf7LTmMM5EVzJWTZ",
-      "title": "Valve finally backs down after age-restricting a Steam vampire RPG without any sex or nudity for having too much sex and nudity",
-      "url": "https://www.gamesradar.com/games/rpg/valve-finally-backs-down-after-age-restricting-a-steam-vampire-rpg-without-any-sex-or-nudity-for-having-too-much-sex-and-nudity/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:04:15+00:00"
-    },
-    {
-      "guid": "hcSwYwVoo5Q2GdqpmGgw6P",
-      "title": "Valheim 1.0 lets cheaters earn achievements by admitting their crimes and then cheating even harder: \"Oden will surely know if you use it dishonourably\"",
-      "url": "https://www.gamesradar.com/games/survival/valheim-1-0-lets-cheaters-earn-achievements-by-admitting-their-crimes-and-then-cheating-even-harder-oden-will-surely-know-if-you-use-it-dishonourably/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:03:28+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1078967",
-      "title": "Game Pass adds Dune: Awakening, Minecraft Dungeons II, Gears of War: E-Day, and more in late September to early October",
-      "url": "https://www.gematsu.com/2026/09/game-pass-adds-dune-awakening-minecraft-dungeons-ii-gears-of-war-e-day-and-more-in-late-september-to-early-october",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:09:22+00:00"
-    },
-    {
-      "guid": "187d5b62-9a5c-48e6-94f4-6f268fb2354d",
-      "title": "Today\u2019s Top Deals: $13 Resident Evil for PS5, Samsung Switch 2 Memory Card, and MTG Lorwyn Eclipsed",
-      "url": "https://www.ign.com/articles/best-deals-for-september-15-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:30:00+00:00"
-    },
     {
       "guid": "t5kXbsv3RVqi5uAFVKbfS3",
       "title": "The Witcher 3 'is not untouchable,' story director says of changes in the upcoming remaster: 'I still find some places that I think maybe nowadays, I would do it differently'",
@@ -1234,14 +1123,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-09-15T16:44:17+00:00"
-    },
-    {
-      "guid": "kdMdjEpzkNESs5hNAFQru8",
-      "title": "If you need proof The Witcher 3's new expansion is in safe hands, its lead writer literally wrote her thesis on Hearts of Stone: 'To probably prove to some of my professors that games are worthy'",
-      "url": "https://www.pcgamer.com/games/the-witcher/if-you-need-proof-the-witcher-3s-new-expansion-is-in-safe-hands-its-lead-writer-literally-wrote-her-thesis-on-hearts-of-stone-to-probably-prove-to-some-of-my-professors-that-games-are-worthy/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:30:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237104115",
@@ -1316,14 +1197,6 @@
       "published_dt": "2026-09-15T16:34:00+00:00"
     },
     {
-      "guid": "https://variety.com/?post_type=pmc_list&p=1236851043",
-      "title": "International Oscar Submissions: Hungary, Nepal, the Philippines, Singapore, Israel and More Join the List",
-      "url": "https://variety.com/lists/international-oscar-submissions-2027/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T16:28:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236694506",
       "title": "A Legendary LA Eatery Reinvents Itself",
       "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/mistrial-reimagined-los-angeles-french-bistro-update-1236694506/",
@@ -1354,22 +1227,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-15T16:30:45+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206382",
-      "title": "Think Fire Emblem: Fortune's Weave's Hero Roster Is Big? It Was Almost Even Bigger",
-      "url": "https://www.nintendolife.com/news/2026/09/think-fire-emblem-fortunes-weaves-hero-roster-is-big-it-was-almost-even-bigger",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206381",
-      "title": "7 PS Plus Extra Game Removals for October 2026 Confirmed",
-      "url": "https://www.pushsquare.com/news/2026/09/7-ps-plus-extra-game-removals-for-october-2026-confirmed",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T16:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123013",
@@ -2042,6 +1899,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-15T19:52:15+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734755",
+      "title": "Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027",
+      "url": "https://kotaku.com/xbox-responds-to-rumors-that-game-pass-is-losing-day-one-new-games-in-2027-2000734755",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:18:05+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734752",
+      "title": "Blizzard Delays Diablo 4\u2032s Big 30th Anniversary Season 15 Kick-Off After A Flood Of Error Codes",
+      "url": "https://kotaku.com/blizzard-delays-diablo-4s-big-30th-anniversary-season-15-kick-off-after-a-flood-of-error-codes-2000734752",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:08:55+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734641",
+      "title": "Space Marine And Plague Tale Publisher Says it Has Filed \u2018Legal Complaints\u2019 After Influx Of Threats Against Its Employees",
+      "url": "https://kotaku.com/space-marine-and-plague-tale-publisher-says-it-has-filed-legal-complaints-after-influx-of-threats-against-its-employees-2000734641",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:00:56+00:00"
+    },
+    {
+      "guid": "GbRSMBZDEbjr8qWAaFKa67",
+      "title": "Steam reverses porn game rating it mistakenly gave to an indie vampire RPG, and despite the stress it was a 'net positive' overall as wishlists on Steam 'basically doubled overnight'",
+      "url": "https://www.pcgamer.com/games/rpg/steam-reverses-porn-game-rating-it-mistakenly-gave-to-an-indie-vampire-rpg-and-despite-the-stress-it-was-a-net-positive-overall-as-wishlists-on-steam-basically-doubled-overnight/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:03:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237104440",
+      "title": "Ed Sheeran Tour Openers Finneas, Aaron Rowe & Lukas Graham Withdraw After Macklemore Dropped For \u201cFree Palestine\u201d Remarks",
+      "url": "https://deadline.com/2026/09/ed-sheeran-tour-openers-pull-out-finneas-aaron-rowe-1237104440/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:10:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702546",
+      "title": "Kennedy Center\u2019s Abrupt Plan to Shut Down May Spark Further Legal Battles",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/kennedy-center-shut-down-1236702546/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:28:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236700796",
+      "title": "Checking In: Avantika Talks W Hotels Campaign, Travel Rituals and Movie That Had Her \u2018Peeing Myself With Laughter\u2019",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/avantika-w-toronto-hotel-tales-campaign-interview-tiff-2026-1236700796/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:21:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236700717",
+      "title": "\u2018Evil Genius\u2019 Review: A Hilarious Patricia Arquette and David Harbour Make for a Bonkers Bonnie and Clyde in Courteney Cox\u2019s Twisted True-Crime Yarn",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/evil-genius-review-patricia-arquette-david-harbour-1236700717/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T20:14:18+00:00"
+    },
+    {
+      "guid": "maSkvAjeNzrJva3kocgwdk",
+      "title": "Xbox Game Pass is \"extremely poorly managed\" and Doom should never have been part of it, says former producer",
+      "url": "https://www.gamesradar.com/games/xbox-game-pass-is-extremely-poorly-managed-and-doom-should-never-have-been-part-of-it-says-former-producer/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T20:15:16+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756631",
+      "title": "Apex Legends x Street Fighter 6 Event Adds Fighter Forms, New Cosmetics and a Remixed Olympus",
+      "url": "https://otakukart.com/apex-legends-x-street-fighter-6-event-adds-fighter-forms-new-cosmetics-and-a-remixed-olympus/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T20:14:16+00:00"
     }
   ]
 }
