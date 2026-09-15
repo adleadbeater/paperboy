@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Marvel Rivals Season 10 Is Adding One of Thor's Scariest Villains",
-      "tag": "marvel rivals",
-      "posted_at": "2026-09-08T16:01:26.735833+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-season-10-is-bringing-one-of-thors-scariest-villains-to-the-hero-shooter/"
-      ],
-      "article_titles": [
-        "Marvel Rivals Season 10 is bringing one of Thor's scariest villains to the hero shooter"
-      ]
-    },
-    {
       "headline": "Pok\u00e9mon TCG 30th Anniversary Orders Cancelled as The Pok\u00e9mon Company Cracks Down on Scalper Bots",
       "tag": "pok\u00e9mon tcg",
       "posted_at": "2026-09-08T17:01:07.215410+00:00",
@@ -1055,6 +1044,30 @@
       "article_titles": [
         "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover"
       ]
+    },
+    {
+      "headline": "World of Warcraft: Forever's New Race Costs $30 Extra, and Players Aren't Happy",
+      "tag": "world of warcraft",
+      "posted_at": "2026-09-15T16:31:17.770714+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-has-a-new-race-you-cant-get-without-paying-usd30-and-its-not-the-first-impression-fans-were-hoping-for-they-are-just-blue-elves/",
+        "https://www.eurogamer.net/blizzard-wow-2-sequel-forever"
+      ],
+      "article_titles": [
+        "World of Warcraft: Forever has a new race you can't get without paying $30, and it's not the first impression fans were hoping for: \"They are just blue elves\"",
+        "\"What would a WoW 2 give you that World of Warcraft: Forever isn't already giving you?\" - Blizzard addresses the MMO elephant in the room"
+      ]
+    },
+    {
+      "headline": "Sega's Crazy Taxi Revival Is Apparently Becoming a Movie",
+      "tag": "crazy taxi",
+      "posted_at": "2026-09-15T16:31:17.987638+00:00",
+      "urls": [
+        "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/"
+      ],
+      "article_titles": [
+        "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of\u2026 a movie?"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1067,14 +1080,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-09-15T12:31:44+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000734575",
-      "title": "Wolverine Developer Drops Hints That It Could Soon Fix The Game\u2019s Bad Smell",
-      "url": "https://kotaku.com/marvels-wolverine-scent-trails-insomniac-patch-reviews-ps5-2000734575",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T12:29:38+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237102319",
@@ -1155,14 +1160,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-09-15T12:32:06+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206354",
-      "title": "Nightdive Studios Head Raises Hopes Of An Eternal Darkness Remaster",
-      "url": "https://www.nintendolife.com/news/2026/09/nightdive-studios-head-raises-hopes-of-an-eternal-darkness-remaster",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T12:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1122982",
@@ -2099,6 +2096,166 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+      "title": "After riffing on Theme Hospital, Two Point Museum studio is tipping a hat to Bullfrog's classic Theme Park in its next DLC",
+      "url": "https://www.eurogamer.net/two-point-museum-rides-and-relics-dlc-announced",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:20:23+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734652",
+      "title": "Music Artists Like Travis Scott And Keith Richards Have Started Hyping GTA 6\u2018s Massive Soundtrack",
+      "url": "https://kotaku.com/music-artists-like-travis-scott-and-keith-richards-have-started-hyping-gta-6s-massive-soundtrack-2000734652",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:23:51+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734616",
+      "title": "Steam Mischaracterizing Indie Game As Porn Works Out In The End",
+      "url": "https://kotaku.com/nighthawks-steam-pornography-censorship-wadjet-eye-games-2000734616",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:00:40+00:00"
+    },
+    {
+      "guid": "RiPr6G4pYu8uTFV8pwmMK8",
+      "title": "No, AI, you are not human: Microsoft's code of practice for artificial intelligence actually gives me some hope for the industry",
+      "url": "https://www.pcgamer.com/software/ai/no-ai-you-are-not-human-microsofts-code-of-practice-for-artificial-intelligence-actually-gives-me-some-hope-for-the-industry/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:21:40+00:00"
+    },
+    {
+      "guid": "ZhbtJJvjDPnrwDxfe5LSfg",
+      "title": "Sega's ongoing effort to revive Crazy Taxi now appears to be taking the form of\u2026 a movie?",
+      "url": "https://www.pcgamer.com/movies-tv/segas-ongoing-effort-to-revive-crazy-taxi-now-appears-to-be-taking-the-form-of-a-movie/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:02:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236863076",
+      "title": "Universal Music Group Sues DistroKid for Deceptive Trade Practices and Building an \u2018AI-Slop Pipeline\u2019",
+      "url": "https://variety.com/2026/music/news/universal-music-group-sues-distrokid-ai-slop-pipeline-1236863076/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:16:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236861731",
+      "title": "The Yellow Affair Snags San Sebastian New Directors Contender \u2018Morro\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/the-yellow-affair-morro-san-sebastian-new-directors-1236861731/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:14:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862796",
+      "title": "Zack Snyder Wants You to Know He\u2019s No Fascist: \u2018I Made the Gayest Movie Ever Made\u2019",
+      "url": "https://variety.com/2026/film/features/zack-snyder-responds-last-photograph-bad-reviews-fascist-1236862796/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236692618",
+      "title": "Best TV Shows to Get You in the Fall Mood: \u2018Gilmore Girls,\u2019 \u2018The Vampire Diaries,\u2019 \u2018Charmed\u2019 and More",
+      "url": "https://www.hollywoodreporter.com/lists/best-tv-shows-watch-fall-autumn/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:26:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702211",
+      "title": "Nick Reiner Won\u2019t Face Death Penalty If Convicted In Parents\u2019 Murder Case",
+      "url": "https://www.hollywoodreporter.com/news/general-news/nick-reiner-death-penalty-murder-case-1236702211/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T16:04:15+00:00"
+    },
+    {
+      "guid": "SNWYEAmbrJSh4rWwaY8uDo",
+      "title": "Neagley star Maria Sten explains how the Reacher spin-off will finally reveal the resourceful PI's mysterious backstory",
+      "url": "https://www.gamesradar.com/entertainment/action-shows/neagley-star-maria-sten-explains-how-the-reacher-spin-off-will-finally-reveal-the-resourceful-pis-mysterious-backstory/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:25:20+00:00"
+    },
+    {
+      "guid": "939RCgYmDxKBT36TRPxCpM",
+      "title": "As VR gamers celebrate the launch of Steam Frame, Meta's next headset leaks ahead of Connect 2026, but I don't think Valve should be worried",
+      "url": "https://www.gamesradar.com/hardware/vr/as-vr-gamers-celebrate-the-launch-of-steam-frame-metas-next-headset-leaks-ahead-of-connect-2026-but-i-dont-think-valve-should-be-worried/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:20:52+00:00"
+    },
+    {
+      "guid": "CQ675SPr7HbKcbeFvJ48q5",
+      "title": "World of Warcraft: Forever has a new race you can't get without paying $30, and it's not the first impression fans were hoping for: \"They are just blue elves\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-has-a-new-race-you-cant-get-without-paying-usd30-and-its-not-the-first-impression-fans-were-hoping-for-they-are-just-blue-elves/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:13:55+00:00"
+    },
+    {
+      "guid": "NFzWMeVf7LTmMM5EVzJWTZ",
+      "title": "Valve finally backs down after age-restricting a Steam vampire RPG without any sex or nudity for having too much sex and nudity",
+      "url": "https://www.gamesradar.com/games/rpg/valve-finally-backs-down-after-age-restricting-a-steam-vampire-rpg-without-any-sex-or-nudity-for-having-too-much-sex-and-nudity/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:04:15+00:00"
+    },
+    {
+      "guid": "hcSwYwVoo5Q2GdqpmGgw6P",
+      "title": "Valheim 1.0 lets cheaters earn achievements by admitting their crimes and then cheating even harder: \"Oden will surely know if you use it dishonourably\"",
+      "url": "https://www.gamesradar.com/games/survival/valheim-1-0-lets-cheaters-earn-achievements-by-admitting-their-crimes-and-then-cheating-even-harder-oden-will-surely-know-if-you-use-it-dishonourably/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:03:28+00:00"
+    },
+    {
+      "guid": "1885077",
+      "title": "Big GTA 6 News Could Be Coming Up Soon",
+      "url": "https://www.gamespot.com/articles/big-gta-6-news-could-be-coming-up-soon/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T15:58:42+00:00"
+    },
+    {
+      "guid": "1885056",
+      "title": "PlayStation Plus Is Removing 7 Games Soon, So Play Them While You Can",
+      "url": "https://www.gamespot.com/articles/playstation-plus-is-removing-7-games-soon-so-play-them-while-you-can/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T15:58:33+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206283",
+      "title": "Poll: Are You Playing Marvel's Wolverine on PS5?",
+      "url": "https://www.pushsquare.com/features/poll-are-you-playing-marvels-wolverine-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206367",
+      "title": "Scientific Research Concludes Playing Super Mario 64 Literally Expands Your Brain",
+      "url": "https://www.timeextension.com/news/2026/09/scientific-research-concludes-playing-super-mario-64-literally-expands-your-brain",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1078967",
+      "title": "Game Pass adds Dune: Awakening, Minecraft Dungeons II, Gears of War: E-Day, and more in late September to early October",
+      "url": "https://www.gematsu.com/2026/09/game-pass-adds-dune-awakening-minecraft-dungeons-ii-gears-of-war-e-day-and-more-in-late-september-to-early-october",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T16:09:22+00:00"
     }
   ]
 }
