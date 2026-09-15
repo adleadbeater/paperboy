@@ -1,45 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Godzilla Minus Zero drops new trailer featuring King Ghidorah and story endgame",
-      "tag": "godzilla minus zero",
-      "posted_at": "2026-09-08T15:01:19.357793+00:00",
-      "urls": [
-        "https://variety.com/2026/film/news/godzilla-minus-zero-new-trailer-cast-members-1236854751/",
-        "https://www.gamesradar.com/entertainment/action-movies/godzilla-minus-zero-trailer-2/"
-      ],
-      "article_titles": [
-        "\u2018Godzilla Minus Zero\u2019 Unveils New Trailer, Cast Members",
-        "New Godzilla Minus Zero trailer teases gravity-defying action, King Ghidorah, and the end of the story"
-      ]
-    },
-    {
-      "headline": "The White House Removed Its Tetris Clone After The Tetris Company Publicly Called Out the Copyright Infringement",
-      "tag": "tetris",
-      "posted_at": "2026-09-08T15:26:28.979560+00:00",
-      "urls": [
-        "https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129",
-        "https://www.timeextension.com/news/2026/09/we-take-copyright-infringement-very-seriously-white-house-removes-build-the-wall-game-following-statement-from-the-tetris-company"
-      ],
-      "article_titles": [
-        "White House Removes Awful Tetris Clone From Website After The Tetris Company Posted It Takes \u2018Copyright Infringement Very Seriously\u2019",
-        "\"We Take Copyright Infringement Very Seriously\" - White House Removes 'Build The Wall' Game Following Statement From The Tetris Company"
-      ]
-    },
-    {
-      "headline": "Battlefield 6 Redsec Is Lifting Warzone's Resurgence Mode Almost Wholesale",
-      "tag": "battlefield 6",
-      "posted_at": "2026-09-08T15:31:16.446025+00:00",
-      "urls": [
-        "https://www.eurogamer.net/battlefield-6-redsec-warzone-resurgence-rapid-royale",
-        "https://www.eurogamer.net/battlefield-6-redsec-warzone-resurgence-rapid-royale"
-      ],
-      "article_titles": [
-        "Battlefield 6 Redsec is borrowing yet another mode from Call of Duty: Warzone - Resurgence",
-        "Battlefield 6 Redsec is borrowing yet another mode from Call of Duty: Warzone - Resurgence"
-      ]
-    },
-    {
       "headline": "Marvel Rivals Season 10 Is Adding One of Thor's Scariest Villains",
       "tag": "marvel rivals",
       "posted_at": "2026-09-08T16:01:26.735833+00:00",
@@ -1083,6 +1044,17 @@
         "Pokemon Pokopia Wins GOTY at Japan Game Awards 2026",
         "Pokemon Pokopia Wins GOTY at Japan Game Awards 2026"
       ]
+    },
+    {
+      "headline": "The Best Total War Game Is Getting a Remaster With 50 New Factions and Modern Visuals",
+      "tag": "total war",
+      "posted_at": "2026-09-15T15:31:20.112204+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/"
+      ],
+      "article_titles": [
+        "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1783,6 +1755,206 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-15T14:33:56+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734610",
+      "title": "I\u2019m Tired Of Overwatch Reworking Sombra For People Who Don\u2019t Even Play Her",
+      "url": "https://kotaku.com/overwatch-sombra-rework-support-hack-blizzcon-healing-2000734610",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:00:55+00:00"
+    },
+    {
+      "guid": "JhgFWaZ4JoYXhr9qMaK6gE",
+      "title": "The Witcher 3's story director says an ideal quest is 'constructed in such a way that the player puts the controller away, stands up, and starts walking'",
+      "url": "https://www.pcgamer.com/games/the-witcher/the-witcher-3s-story-director-says-an-ideal-quest-is-constructed-in-such-a-way-that-the-player-puts-the-controller-away-stands-up-and-starts-walking/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:23:12+00:00"
+    },
+    {
+      "guid": "opQDwzcDPRTddfYKiDUoQZ",
+      "title": "Serial numbers on RTX Founders Edition graphics cards, including PC Gamer's very own, are fading and apparently it's causing a problem with RMA requests",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/serial-numbers-on-rtx-founders-edition-graphics-cards-including-pc-gamers-very-own-are-fading-and-apparently-its-causing-a-problem-with-rma-requests/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:18:14+00:00"
+    },
+    {
+      "guid": "fHCxn7tPkb2MfZzqQVPYb9",
+      "title": "The best Total War game is getting a remaster with 50 newly playable factions, modern visuals, and a full Japanese voiceover",
+      "url": "https://www.pcgamer.com/games/strategy/the-best-total-war-game-is-getting-a-remaster-with-50-newly-playable-factions-modern-visuals-and-a-full-japanese-voiceover/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:17:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103988",
+      "title": "NFL Stars Ricky Williams, Cris Carter, Marcedes Lewis & Calvin Johnson In Talks To Join Football-Noir Thriller \u2018Red Crown\u2019",
+      "url": "https://deadline.com/2026/09/ricky-williams-cris-carter-calvin-johnson-red-crown-film-1237103988/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:23:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103926",
+      "title": "Nick Nolte & Milo Gibson Starring In Indie Horror Film \u2018Vested\u2019, First Look Revealed",
+      "url": "https://deadline.com/2026/09/nick-nolte-milo-gibson-starring-in-horror-film-vested-1237103926/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:05:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237103705",
+      "title": "Emmys Producers Dish On Taylor Swift \u2018SVU\u2019 Sketch (Including The Easter Eggs), Mariska Hargitay\u2019s Hosting Chops, Dolly Parton Tribute & More",
+      "url": "https://deadline.com/2026/09/emmys-2026-producers-explain-telecast-taylor-swift-svu-reunions-1237103705/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862947",
+      "title": "Sheryl Crow Serenaded by Olivia Rodrigo, Chris Stapleton, Jason Isbell and Other Stars at BMI Troubadour Tribute in Nashville",
+      "url": "https://variety.com/2026/music/news/sheryl-crow-bmi-tribute-olivia-rodrigo-cover-troubadour-1236862947/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:21:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236861174",
+      "title": "Ed Sheeran Says Dropping Macklemore From Tour Was \u2018Promoter\u2019s Decision, Not Mine,\u2019 Explains Why He\u2019s Not Speaking Out on Israel and Palestine",
+      "url": "https://variety.com/2026/music/news/ed-sheeran-speaks-out-macklemore-1236861174/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:10:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862973",
+      "title": "Magic: The Gathering\u2019s \u2018Reality Fracture\u2019 Designers Unveil New \u2018What If\u2019 Set Details as Four Cards Debut (EXCLUSIVE)",
+      "url": "https://variety.com/2026/gaming/news/magic-the-gatherings-reality-fracture-spoiler-cards-interview-1236862973/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:01:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862920",
+      "title": "Emmy Producers on Recruiting Taylor Swift, the Ideas She Brought to the Show and How This Year\u2019s Telecast Wound Up Short",
+      "url": "https://variety.com/2026/tv/news/taylor-swift-emmy-producers-show-behind-the-scenes-mariska-1236862920/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:00:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236862281",
+      "title": "\u2018Harry Potter\u2019 HBO Series Casts Its Arthur Weasley, Moaning Myrtle, Colin Creevey",
+      "url": "https://variety.com/2026/tv/news/harry-potter-hbo-cast-arthur-weasley-moaning-myrtle-1236862281/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236694655",
+      "title": "Ian Schrager Goes Public: \u201cThere\u2019s Nothing More Boring Than a Room Full of Rich People\u201d",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/ian-schrager-public-hotel-west-hollywood-1236694655/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236700978",
+      "title": "Ed Sheeran on Dropping Macklemore From Tour Over Palestine Remarks: \u201cThe Promoter\u2019s Decision, Not Mine\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-news/ed-sheeran-speaks-out-dropping-macklemore-tour-1236700978/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:23:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702054",
+      "title": "Meta Launches Major New Subscriptions Push for Creators \u2026 Powered By AI",
+      "url": "https://www.hollywoodreporter.com/business/digital/new-meta-one-subscription-instagram-facebook-launch-1236702054/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:20:10+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702102",
+      "title": "Rafe Spall to Play Arthur Weasley in Season 2 of HBO\u2019s \u2018Harry Potter\u2019 Series",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/harry-potter-season-2-rafe-spall-arthur-weasley-1236702102/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:17:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702089",
+      "title": "John Mulaney Steals the Show at the 2026 Emmys With \u201cMen Being Men\u201d Bit",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/john-mulaney-2026-emmys-men-being-men-1236702089/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:15:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236659854",
+      "title": "Chopard Drafts Bella Hadid and Liu Wen for 50th Anniversary of Happy Diamonds Collection",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/chopard-bella-hadid-liu-wen-happy-diamonds-campaign-1236659854/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236701852",
+      "title": "Emmy Producers Reveal How They Pulled Off That Taylor Swift Cameo",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/emmys-2026-taylor-swift-mariska-hargitay-1236701852/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "guid": "nM42rCdTmKnasaADi6cfZn",
+      "title": "We won't get House of the Dragon's final season for a while, but one star is already preparing to grieve its ending",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-shows/we-wont-get-house-of-the-dragons-final-season-for-a-while-but-one-star-is-already-preparing-to-grieve-its-ending/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T15:04:47+00:00"
+    },
+    {
+      "guid": "1885014",
+      "title": "GTA 6\u2019s Stephen Root Is The Franchise\u2019s Second-Ever Emmy Winning Actor",
+      "url": "https://www.gamespot.com/articles/gta-6s-stephen-root-is-the-franchises-second-ever-emmy-winning-actor/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T14:59:37+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206375",
+      "title": "USA Rapper Travis Scott Teases GTA 6 Collaboration",
+      "url": "https://www.pushsquare.com/news/2026/09/usa-rapper-travis-scott-teases-gta-6-collaboration",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206368",
+      "title": "Control Resonant Designed Around 60fps Gameplay on PS5 and PS5 Pro",
+      "url": "https://www.pushsquare.com/news/2026/09/control-resonant-designed-around-60fps-gameplay-on-ps5-and-ps5-pro",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206370",
+      "title": "The Final Design Of The Multisystem 2 Pocket Is Revealed, And It's Good News For Fighting Game Fans",
+      "url": "https://www.timeextension.com/news/2026/09/the-final-design-of-the-multisystem-2-pocket-is-revealed-and-its-good-news-for-fighting-game-fans",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756595",
+      "title": "Weverse Breach: Why Fans Are Rethinking ID Uploads Online",
+      "url": "https://otakukart.com/weverse-breach-why-fans-are-rethinking-id-uploads-online/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T15:16:28+00:00"
     }
   ]
 }
