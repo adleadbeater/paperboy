@@ -1089,166 +1089,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000734583",
-      "title": "No One Can Believe The Current Price Of An Nvidia RTX 5090",
-      "url": "https://kotaku.com/nvidia-rtx-5090-gpu-stock-best-buy-amazon-price-genai-ai-2000734583",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:00:53+00:00"
-    },
-    {
-      "guid": "3dsc4T9woRHCvBx3QYVh49",
-      "title": "Toss a project at your printer: vibe coded tool allows developer to throw stuff at his 3D printer in VR to begin printing",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/toss-a-project-at-your-printer-vibe-coded-tool-allows-developer-to-throw-stuff-at-his-3d-printer-in-vr-to-begin-printing/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:22:49+00:00"
-    },
-    {
-      "guid": "X2JyuNtCMohQMFepQJeX3R",
-      "title": "CDPR wants to make The Witcher 3 Remastered feel like any other game released today: 'It's so easy to get used to these new improvements that it's hard to go back'",
-      "url": "https://www.pcgamer.com/games/the-witcher/cdpr-wants-to-make-the-witcher-3-remastered-feel-like-any-other-game-released-today-its-so-easy-to-get-used-to-these-new-improvements-that-its-hard-to-go-back/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:15:44+00:00"
-    },
-    {
-      "guid": "pLvC6N8ceVb5R3M45B9FGY",
-      "title": "Blizzard finally told players where the big sword in WoW went after 8 years, and I'm just bummed out a reveal this cool was in an interview somewhere",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-finally-told-players-where-the-big-sword-in-wow-went-after-8-years-and-im-just-bummed-out-a-reveal-this-cool-was-in-an-interview-somewhere/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:06:53+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237103825",
-      "title": "Isabelle Huppert Comedy \u2018All About Corinne\u2019 Sells To U.S. Ahead Of Toronto North American Premiere",
-      "url": "https://deadline.com/2026/09/isabelle-huppert-comedy-all-about-corinne-sells-us-cohen-1237103825/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237103859",
-      "title": "\u2018The Diplomat\u2019 Season 4 Trailer: Keri Russell Confronts \u201cOver The Line\u201d White House",
-      "url": "https://deadline.com/2026/09/the-diplomat-season-4-trailer-keri-russell-1237103859/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:27:19+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237103844",
-      "title": "Tom Cruise Pokes Fun At His Self-Serious Persona In Rare Feature Interview: \u201cI Don\u2019t Know What To Say. I Am Intense\u201d",
-      "url": "https://deadline.com/2026/09/tom-cruise-digger-persona-intense-1237103844/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:05:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236861764",
-      "title": "MPA Projects Federal Film Incentive Would Double U.S. Production and Create 143,500 Jobs",
-      "url": "https://variety.com/2026/film/news/mpa-federal-film-incentive-jobs-production-report-1236861764/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236862952",
-      "title": "Kate Beckinsale, Ryan Phillippe Psychological Thriller \u2018The Patient\u2019 Acquired by Buffalo 8 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/kate-beckinsale-ryan-phillippe-the-patient-buffalo-8-1236862952/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:29:32+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236700785",
-      "title": "Why Should Hollywood Get a Federal Tax Credit? Nearly $250 Billion Is On the Table, Study Says",
-      "url": "https://www.hollywoodreporter.com/business/business-news/nearly-250-b-federal-film-tax-credit-study-1236700785/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236702034",
-      "title": "Microdrama Producers Voice Cautious Optimism on the Sector Despite AI Worries",
-      "url": "https://www.hollywoodreporter.com/business/digital/hollywood-microdramas-boom-1236702034/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:27:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236702029",
-      "title": "Savannah Guthrie \u201cSo Touched\u201d by Allison Janney\u2019s Words About Mom Nancy Guthrie at Emmys",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/savannah-guthrie-allison-janney-nancy-emmys-1236702029/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:18:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236702047",
-      "title": "Keri Russell Confronts a \u201cCulture of Consistent Lawlessness\u201d in \u2018The Diplomat\u2019 Season 4 Trailer",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-season-4-trailer-keri-russell-allison-janney-1236702047/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:01:17+00:00"
-    },
-    {
-      "guid": "a6pqx7jBXRHJeNVcCUciK9",
-      "title": "Elder Scrolls lore master and 20-year Bethesda veteran Kurt Kuhlmann can't find a job after being laid off months ago, and doesn't that sum up today's industry",
-      "url": "https://www.gamesradar.com/games/the-elder-scrolls/elder-scrolls-lore-master-and-20-year-bethesda-veteran-kurt-kuhlmann-cant-find-a-job-after-being-laid-off-months-ago-and-doesnt-that-sum-up-todays-industry/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T14:16:46+00:00"
-    },
-    {
-      "guid": "URrj2yH6g8JyBxhNyQGUic",
-      "title": "Tom Cruise know he's \"intense\" to work with: \"Trust me, the rumors are true\"",
-      "url": "https://www.gamesradar.com/entertainment/comedy-movies/tom-cruise-know-hes-intense-to-work-with-trust-me-the-rumors-are-true/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T14:02:28+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206190",
-      "title": "Josh Holloway Stars in First Episode of Live Action Ace Combat 8 Prequel Series",
-      "url": "https://www.pushsquare.com/news/2026/09/josh-holloway-stars-in-first-episode-of-live-action-ace-combat-8-prequel-series",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T14:15:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1078858",
-      "title": "Total War: SHOGUN 2 Complete Edition announced for PC",
-      "url": "https://www.gematsu.com/2026/09/total-war-shogun-2-complete-edition-announced-for-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T14:27:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1078833",
-      "title": "PowerWash Simulator 2 DLC \u2018Barbie Pack\u2019 announced",
-      "url": "https://www.gematsu.com/2026/09/powerwash-simulator-2-dlc-barbie-pack-announced",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T14:06:13+00:00"
-    },
-    {
-      "guid": "350d5e29-0af0-4883-860d-70df6f2bc892",
-      "title": "Silent Hill: Townfall Could Finally Restore Survival Horror\u2019s Missing Mystery",
-      "url": "https://www.ign.com/articles/silent-hill-townfall-could-finally-restore-survival-horrors-missing-mystery",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:30:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000734585",
-      "title": "15 Of The Best Nintendo Switch Games Are All $19+ Off Right Now",
-      "url": "https://kotaku.com/15-of-the-best-nintendo-switch-games-are-all-19-off-right-now-2000734585",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-15T14:30:20+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237103685",
       "title": "HBO\u2019s \u2018Harry Potter\u2019 Series Casts Arthur Weasley, Moaning Myrtle & Colin Creevey",
       "url": "https://deadline.com/2026/09/harry-potter-series-hbo-arthur-weasley-moaning-myrtle-1237103685/",
@@ -1345,28 +1185,12 @@
       "published_dt": "2026-09-15T14:34:03+00:00"
     },
     {
-      "guid": "EzTGtnvDDJ88mVNJTnzfrb",
-      "title": "Wardogs feels like Call of Duty without the pressure to kill or be killed \u2013 as long as you're making phat stacks",
-      "url": "https://www.gamesradar.com/games/fps/wardogs-feels-like-call-of-duty-without-the-pressure-to-kill-or-be-killed-as-long-as-youre-making-phat-stacks/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T14:30:00+00:00"
-    },
-    {
       "guid": "1885042",
       "title": "Kingdom Hearts\u2019 Kairi Has Suffered Enough, Will Now Headshot You In Fortnite",
       "url": "https://www.gamespot.com/articles/kingdom-hearts-kairi-has-suffered-enough-will-now-headshot-you-in-fortnite/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-09-15T14:35:46+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206355",
-      "title": "Star Wars: Galactic Racer's PS5 Trophy List Will Push You to the Limit for the Platinum",
-      "url": "https://www.pushsquare.com/news/2026/09/star-wars-galactic-racers-ps5-trophy-list-will-push-you-to-the-limit-for-the-platinum",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-15T14:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123005",
@@ -2319,6 +2143,110 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-15T17:47:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734645",
+      "title": "Control Resonant\u2019s Nuanced Accessibility Tweaks Could Be A Game-Changer",
+      "url": "https://kotaku.com/control-resonant-remedy-entertainment-accessibility-options-difficulty-2000734645",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:00:44+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000734678",
+      "title": "The Coolest Moment In Wolverine Is So Good I Wish It Happened More Than Once",
+      "url": "https://kotaku.com/wolverine-sabretooth-boss-fight-gouge-eyes-vision-sight-2000734678",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:00:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237104285",
+      "title": "Amazon Prime Video Debuts $30-A-Month Bundle With AMC+, BritBox, MGM+, PBS Masterpiece & Starz",
+      "url": "https://deadline.com/2026/09/amazon-prime-video-streaming-bundle-amc-britbox-mgm-pbs-starz-1237104285/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:20:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237104331",
+      "title": "Comedians Steve Furey & Willie Simon Set Courtroom Comedy Podcast \u2018Petty Cases\u2019 With Almost Friday Media",
+      "url": "https://deadline.com/2026/09/petty-cases-steve-furey-willie-simon-almost-friday-media-1237104331/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:10:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236863181",
+      "title": "Quentin Tarantino to Publish \u2018Cliff Booth\u2019 Novel Before Brad Pitt and David Fincher\u2019s Movie Streams on Netflix",
+      "url": "https://variety.com/2026/film/news/quentin-tarantino-cliff-booth-novel-brad-pitt-david-fincher-movie-1236863181/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:18:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236861651",
+      "title": "Thailand Film and Tourist Officials on the Rise of Thai Cinema, Global Productions and the Impact of \u2018The White Lotus\u2019",
+      "url": "https://variety.com/2026/film/news/thailand-global-conversation-tiff-1236861651/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:08:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702304",
+      "title": "Ryan Gosling\u2019s \u2018Blade Runner 2049\u2019 Coat Among 300 Items Set for Auction From Sequel (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/blade-runner-2049-ryan-gosling-harrison-ford-auction-1236702304/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:24:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702203",
+      "title": "Emmys: Nine Things the TV Cameras Missed",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-emmys-best-unseen-moments-1236702203/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-15T18:20:51+00:00"
+    },
+    {
+      "guid": "1885466",
+      "title": "The Last Of Us Season 3 Is Probably The Final Season, HBO Says Yet Again",
+      "url": "https://www.gamespot.com/articles/the-last-of-us-season-3-is-probably-the-final-season-hbo-says-yet-again/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T18:07:06+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123024",
+      "title": "Fire Emblem: Fortune\u2019s Weave Recruited Characters Data Merges",
+      "url": "https://www.siliconera.com/fire-emblem-fortunes-weave-recruited-characters-data-merges/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T18:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756607",
+      "title": "Geoffrey Rush Will Return as Captain Barbossa in Pirates of the Caribbean 6 Under One Condition",
+      "url": "https://otakukart.com/geoffrey-rush-will-return-as-captain-barbossa-in-pirates-of-the-caribbean-6-under-one-condition/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T18:29:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756604",
+      "title": "Paramount and Netflix End Animated Film Deal, But Ray Gunn and Jack and the Beanstalk Stay on Netflix",
+      "url": "https://otakukart.com/paramount-and-netflix-end-animated-film-deal-but-ray-gunn-and-jack-and-the-beanstalk-stay-on-netflix/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T18:12:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756603",
+      "title": "Diablo 5 Will Fully Support Multiplayer, but Blizzard Won\u2019t Confirm Whether Diablo 4\u2019s Shared Open World Will Return",
+      "url": "https://otakukart.com/diablo-5-will-fully-support-multiplayer-but-blizzard-wont-confirm-whether-diablo-4s-shared-open-world-will-return/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-15T18:02:36+00:00"
     }
   ]
 }
