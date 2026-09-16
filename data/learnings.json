@@ -1,54 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "France's President Macron Declares Video Games \"Part of Our Culture,\" Announces International Gaming Festival",
-      "tag": "clair obscur: expedition 33",
-      "posted_at": "2026-09-08T21:01:01.556099+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/inspired-by-the-success-of-games-like-clair-obscur-expedition-33-french-president-emmanuel-macron-declares-videogames-are-part-of-our-culture-and-announces-a-new-international-gaming-festival/",
-        "https://www.gamesradar.com/games/rpg/after-clair-obscur-expedition-33-president-of-france-announces-international-festival-of-video-games-video-games-are-part-of-our-culture/"
-      ],
-      "article_titles": [
-        "Inspired by the success of games like Clair Obscur: Expedition 33, French president Emmanuel Macron declares 'videogames are part of our culture' and announces a new international gaming festival",
-        "After Clair Obscur Expedition 33, president of France announces international festival of video games: \"Video games are part of our culture\""
-      ]
-    },
-    {
-      "headline": "PowerWash Simulator Studio Called Laid-Off Workers \"The Leavers\" in a Stunning Euphemism",
-      "tag": "powerwash simulator",
-      "posted_at": "2026-09-08T21:01:01.764499+00:00",
-      "urls": [
-        "https://kotaku.com/powerwash-simulator-weird-layoffs-powerwash-simulator-2-2000732393"
-      ],
-      "article_titles": [
-        "PowerWash Simulator Execs Absurdly Tried To Soften The Blow Of Layoffs By Referring To Let-Go Workers As \u2018The Leavers\u2019"
-      ]
-    },
-    {
-      "headline": "Street Fighter 2's Original Designer Wants to Rebalance Super Turbo \u2014 30 Years Later",
-      "tag": "street fighter 2",
-      "posted_at": "2026-09-08T21:30:59.139138+00:00",
-      "urls": [
-        "https://www.ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release",
-        "https://www.ign.com/articles/one-of-street-fighter-2s-original-designers-wants-to-rebalance-super-turbo-3-decades-after-its-release"
-      ],
-      "article_titles": [
-        "One of Street Fighter 2's Original Designers Wants to Rebalance Super Turbo 3 Decades After Its Release",
-        "One of Street Fighter 2's Original Designers Wants to Rebalance Super Turbo 3 Decades After Its Release"
-      ]
-    },
-    {
-      "headline": "Steam Leak Reveals Achievements for Persona 6, Ace Combat 8, and Dozens of Unannounced Games",
-      "tag": "",
-      "posted_at": "2026-09-09T04:20:44.346052+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/steam-may-have-leaked-achievements-for-countless-forthcoming-pc-games-via-a-third-party-site-including-persona-6-ace-combat-8-and-even-some-unannounced-games/"
-      ],
-      "article_titles": [
-        "Steam may have leaked achievements for countless forthcoming PC games via a third party site, including Persona 6, Ace Combat 8, and even some unannounced games"
-      ]
-    },
-    {
       "headline": "Hyrule Warriors: Age of Calamity Is Getting a Switch 2 Edition \u2014 With a Discount for Existing Owners",
       "tag": "hyrule warriors: age of calamity",
       "posted_at": "2026-09-09T14:31:23.976402+00:00",
@@ -1111,42 +1063,157 @@
         "The New \u2018Wolverine\u2019 Game Is \u201cUnapologetically Violent.\u201d But It\u2019s About More Than the Body Count",
         "The New \u2018Wolverine\u2019 Game Is \u201cUnapologetically Violent.\u201d But It\u2019s About More Than the Body Count"
       ]
+    },
+    {
+      "headline": "HBO Boss Suggests The Last of Us Will End With Season 3",
+      "tag": "the last of us",
+      "posted_at": "2026-09-16T13:01:13.217744+00:00",
+      "urls": [
+        "https://www.eurogamer.net/hbo-last-of-us-final-season-3-maizin"
+      ],
+      "article_titles": [
+        "HBO boss continues to suggest The Last of Us Season 3 is the series' final season"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237104938",
-      "title": "NBC L.A. TV News Chopper Crashes, Three Dead",
-      "url": "https://deadline.com/2026/09/tv-news-helicopter-crashes-three-dead-1237104938/",
+      "guid": "https://www.eurogamer.net/hbo-last-of-us-final-season-3-maizin",
+      "title": "HBO boss continues to suggest The Last of Us Season 3 is the series' final season",
+      "url": "https://www.eurogamer.net/hbo-last-of-us-final-season-3-maizin",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:30:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237105061",
+      "title": "Patricio Guzm\u00e1n Dies: Documentarian Who Chronicled Chile\u2019s Turbulent Modern History Was 85",
+      "url": "https://deadline.com/2026/09/patricio-guzman-dead-documentary-director-chile-85-1237105061/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-16T04:00:43+00:00"
+      "published_dt": "2026-09-16T12:34:35+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236863090",
-      "title": "Cate Blanchett to Attend Tokyo Festival for Japan Premiere of Displacement Film Fund Shorts",
-      "url": "https://variety.com/2026/film/festivals/cate-blanchett-tokyo-festival-displacement-film-fund-shorts-1236863090/",
+      "guid": "https://deadline.com/?p=1237104579",
+      "title": "Rosie O\u2019Donnell To Join Broadway\u2019s \u2018Rocky Horror Show\u2019 As Temporary Fill-In For Rachel Dratch",
+      "url": "https://deadline.com/2026/09/rosie-odonnell-rocky-horror-show-broadway-1237104579/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237104640",
+      "title": "Country Music Association Sets Two-Hour Live Special In Tribute To Dolly Parton At ABC",
+      "url": "https://deadline.com/2026/09/dolly-parton-live-special-country-music-association-abc-1237104640/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237105060",
+      "title": "HBO Max Unveils Medical Drama In France Following Success Of \u2018The Pitt\u2019",
+      "url": "https://deadline.com/2026/09/hbo-max-france-medical-drama-the-pitt-1237105060/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:28:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236863507",
+      "title": "\u2018Spring Awakening\u2019 Revival Sets Off Broadway Cast",
+      "url": "https://variety.com/2026/legit/news/spring-awakening-revival-cast-off-broadway-1236863507/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-16T04:00:00+00:00"
+      "published_dt": "2026-09-16T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236863844",
-      "title": "Drake Unveils Surreal \u2018Fear of Missing Out\u2019 Film Featuring New Music Videos, Songs and an Ella Langley Remix",
-      "url": "https://variety.com/2026/music/news/drake-fear-of-missing-out-film-new-music-ella-langley-remix-1236863844/",
+      "guid": "https://variety.com/?p=1236863770",
+      "title": "Laufey Signs With Interscope Records/ Verve Records (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/laufey-signs-with-interscope-verve-exclusive-1236863770/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-16T03:55:16+00:00"
+      "published_dt": "2026-09-16T13:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236701053",
-      "title": "\u2018Neagley\u2019 Review: Amazon\u2019s \u2018Reacher\u2019 Spinoff Delivers Similarly Pulpy Pleasures, Despite Filler and Questionable Character Choices",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/neagley-review-amazon-reacher-spinoff-1236701053/",
+      "guid": "https://variety.com/?p=1236863841",
+      "title": "Dolly Parton Tribute Special Set by Country Music Association",
+      "url": "https://variety.com/2026/music/news/dolly-parton-tribute-special-country-music-association-1236863841/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236700992",
+      "title": "Red Seat Ventures Inks Caleb Hammer\u2019s \u2018Financial Audit\u2019 to Ad Sales, Distribution Deal (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/red-seat-ventures-caleb-hammer-financial-audit-1236700992/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-16T04:29:07+00:00"
+      "published_dt": "2026-09-16T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236702447",
+      "title": "The Female Quotient Signs With CAA (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/the-female-quotient-caa-1236702447/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236703363",
+      "title": "Jalen Brunson Gets Into the Brand Management Business With New Family Venture",
+      "url": "https://www.hollywoodreporter.com/business/business-news/jalen-brunson-new-company-thirty-third-management-brand-1236703363/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:58:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236703071",
+      "title": "Rosie O\u2019Donnell to Join \u2018Rocky Horror\u2019 On Broadway For Short Stint, Stepping in For Rachel Dratch",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/rosie-odonnell-rocky-horror-on-broadway-rachel-dratch-1236703071/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236703109",
+      "title": "CMA to Pay Tribute to Dolly Parton With Live Two-Hour Special on ABC",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/cma-pay-tribute-dolly-parton-live-two-hour-special-abc-1236703109/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-16T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206414",
+      "title": "\"Scalpers Are Killing The Hobby For Everyone\" - Pok\u00e9mon TCG's 30th Celebration Isn't Going As Planned",
+      "url": "https://www.nintendolife.com/news/2026/09/scalpers-are-killing-the-hobby-for-everyone-pokemon-tcgs-30th-celebration-isnt-going-as-planned",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-16T12:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1122991",
+      "title": "Persona Girls Collective Shirts Only Show Female Characters",
+      "url": "https://www.siliconera.com/persona-girls-collective-shirts-only-show-female-characters/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-16T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206405",
+      "title": "After More Than Two Decades, You Can Now Play This Chinese-Exclusive Paper Mario Board Game In English",
+      "url": "https://www.timeextension.com/news/2026/09/after-more-than-two-decades-you-can-now-play-this-chinese-exclusive-paper-mario-board-game-in-english",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-16T12:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756684",
+      "title": "Fable Director Says \u201cWe Stick the Landing\u201d With an Ending Built Around a Difficult Personal Choice",
+      "url": "https://otakukart.com/fable-director-says-we-stick-the-landing-with-an-ending-built-around-a-difficult-personal-choice/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-16T12:52:08+00:00"
     }
   ]
 }
