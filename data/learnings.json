@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Canceled SNES RPG That Became Banjo-Kazooie Just Had Its Prototype Leaked",
-      "tag": "banjo-kazooie",
-      "posted_at": "2026-09-09T23:22:22.324184+00:00",
-      "urls": [
-        "https://kotaku.com/person-fed-up-with-xbox-named-fvckashaphil-just-leaked-an-alleged-prototype-of-the-canceled-snes-rpg-that-became-banjo-kazooie-2000732965",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wby8ql/project_dream_snes_prototype_leaked/"
-      ],
-      "article_titles": [
-        "Person Fed Up With Xbox Named \u2018FVCKAsha&Phil\u2019 Just Leaked An Alleged Prototype Of The Canceled SNES RPG That Became Banjo-Kazooie",
-        "Project Dream SNES Prototype leaked"
-      ]
-    },
-    {
       "headline": "Final Fantasy 7 Revelation's Director Says the Game Is Deliberately Breaking JRPG Conventions",
       "tag": "final fantasy 7 revelation",
       "posted_at": "2026-09-10T13:01:21.489597+00:00",
@@ -960,26 +947,125 @@
       "article_titles": [
         "Epic CEO Says EU Banning Kids From Playing Fortnite Is \u2018Terrible For The Next Generation Of Humanity\u2019"
       ]
+    },
+    {
+      "headline": "Mads Mikkelsen Stars in the Call of Duty: Modern Warfare 4 Campaign Trailer",
+      "tag": "call of duty: modern warfare 4",
+      "posted_at": "2026-09-17T12:01:07.087188+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/09/mads-mikkelsen-stars-in-call-of-duty-modern-warfare-4-campaign-trailer"
+      ],
+      "article_titles": [
+        "Mads Mikkelsen Stars In Call Of Duty: Modern Warfare 4 Campaign Trailer"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236864875",
-      "title": "Paul Walter Hauser Explains Mystery Pin He Wore to \u2018Resident Evil\u2019 Premiere",
-      "url": "https://variety.com/2026/politics/columns/paul-walter-hauser-explains-mystery-pin-wore-resident-evil-premiere-jeffrey-epstein-zorro-ranch-1236864875/",
-      "source_name": "Variety",
+      "guid": "https://deadline.com/?p=1237106307",
+      "title": "Clare Stewart Steps Down As Rotterdam Managing Director",
+      "url": "https://deadline.com/2026/09/clare-stewart-rotterdam-film-festival-steps-down-1237106307/",
+      "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-17T04:13:13+00:00"
+      "published_dt": "2026-09-17T11:52:07+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236864206",
-      "title": "Virender Sehwag\u2019s \u2018Rise & Fall\u2019 Season 2 Sets September Launch on Prime Video, Reveals First Four Contestants (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/virender-sehwag-rise-and-fall-season-2-prime-video-september-1236864206/",
+      "guid": "https://variety.com/?p=1236865324",
+      "title": "Dubai Film Festival Revived With New Edition Set for December 2027",
+      "url": "https://variety.com/2026/film/festivals/dubai-film-festival-revived-2027-1236865324/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-17T05:25:00+00:00"
+      "published_dt": "2026-09-17T11:33:37+00:00"
+    },
+    {
+      "guid": "QGGcHU54PXHhU9REbpYbAC",
+      "title": "21 years later, Star Wars fans spot an emotional parallel between Return of the Jedi and Revenge of the Sith",
+      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/21-years-later-star-wars-fans-spot-an-emotional-parallel-between-return-of-the-jedi-and-revenge-of-the-sith/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:55:08+00:00"
+    },
+    {
+      "guid": "rL8eur94c4UsryyKnySniY",
+      "title": "Marvel's Wolverine motorcycle section and quicktime events are getting the wrong kind of attention because \"the game plays itself\" and \"you don't have to press anything\"",
+      "url": "https://www.gamesradar.com/games/action/marvels-wolverine-motorcycle-section-and-quicktime-events-are-getting-the-wrong-kind-of-attention-because-the-game-plays-itself-and-you-dont-have-to-press-anything/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:27:15+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206475",
+      "title": "Mads Mikkelsen Stars In Call Of Duty: Modern Warfare 4 Campaign Trailer",
+      "url": "https://www.nintendolife.com/news/2026/09/mads-mikkelsen-stars-in-call-of-duty-modern-warfare-4-campaign-trailer",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206469",
+      "title": "Feature: PlayStation Is the Only Platform Holder at TGS 2026, and It's Putting on a Show",
+      "url": "https://www.pushsquare.com/features/playstation-is-the-only-platform-holder-at-tgs-2026-and-its-putting-on-a-show",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206454",
+      "title": "'Reason & Rhyme' Is An Upcoming 3D Puzzle Game For Steam \"Heavily Inspired\" By The DSi's Flipnote Studio",
+      "url": "https://www.timeextension.com/news/2026/09/reason-and-rhyme-is-an-upcoming-3d-puzzle-game-for-steam-heavily-inspired-by-the-dsis-flipnote-studio",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T12:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756829",
+      "title": "Over 1 in 3 Young Anime Fans Watch Episodes at Double Speed, New Japanese Survey Reveals",
+      "url": "https://otakukart.com/over-1-in-3-young-anime-fans-watch-episodes-at-double-speed-new-japanese-survey-reveals/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:56:43+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756828",
+      "title": "\u201cThe Final Saga Will Be So Amazing\u201d: Eiichiro Oda Once Said One Piece\u2019s Ending Would Make Marineford Look Like a \u201cSide Trip\u201d",
+      "url": "https://otakukart.com/the-final-saga-will-be-so-amazing-eiichiro-oda-once-said-one-pieces-ending-would-make-marineford-look-like-a-side-trip/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:52:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756811",
+      "title": "Metroid Ravenous Physical Edition Gets $10 Pre-Order Discount for Nintendo Switch 2",
+      "url": "https://otakukart.com/metroid-ravenous-physical-edition-gets-10-pre-order-discount-for-nintendo-switch-2/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:49:25+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756810",
+      "title": "The Blood of Dawnwalker Director Says New Game Plus \u201cWill Be Done,\u201d But Release Date Is Unknown",
+      "url": "https://otakukart.com/the-blood-of-dawnwalker-director-says-new-game-plus-will-be-done-but-release-date-is-unknown/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:29:24+00:00"
+    },
+    {
+      "guid": "t3_1wirdc4",
+      "title": "Billbill-kun claims a piece of GTA 6 news dropping very soon",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wirdc4/billbillkun_claims_a_piece_of_gta_6_news_dropping/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:28:39+00:00"
+    },
+    {
+      "guid": "t3_1wirzen",
+      "title": "Billbil_kun: GTA 6 Album Coming Soon",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wirzen/billbil_kun_gta_6_album_coming_soon/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T11:59:17+00:00"
     }
   ]
 }
