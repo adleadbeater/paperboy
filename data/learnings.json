@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Witcher 3's New 'Songs of the Past' Expansion Exists Because of the Next-Gen Remaster, Says CD Projekt Red",
-      "tag": "the witcher 3",
-      "posted_at": "2026-09-10T16:01:13.426243+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/the-witcher/the-witcher-3s-songs-of-the-past-expansion-wouldnt-be-possible-without-the-rpgs-remaster-says-cd-projekt-red-the-stars-had-to-align/"
-      ],
-      "article_titles": [
-        "The Witcher 3's Songs of the Past expansion wouldn't be \"possible\" without the RPG's remaster, says CD Projekt Red: \"The stars had to align\""
-      ]
-    },
-    {
-      "headline": "Zelda 40th Anniversary Switch 2 Is Already Being Flipped by Scalpers for $900",
-      "tag": "nintendo switch 2",
-      "posted_at": "2026-09-10T16:01:13.683998+00:00",
-      "urls": [
-        "https://kotaku.com/switch-2-zelda-special-edition-ocarina-of-time-nintendo-scalpers-2000733192"
-      ],
-      "article_titles": [
-        "Scalpers Are Already Hawking The Sold Out Zelda 40th Anniversary Switch 2 For $900"
-      ]
-    },
-    {
       "headline": "MercurySteam Appears to Confirm It's Making Metroid Ravenous",
       "tag": "metroid ravenous",
       "posted_at": "2026-09-10T16:31:19.795258+00:00",
@@ -1010,107 +988,22 @@
       "article_titles": [
         "Brandon Sanderson Talks Blightfall, Wheel of Time, and Games of Thrones in Exclusive Interview"
       ]
+    },
+    {
+      "headline": "Backrooms Director Kane Parsons Has Now Visited Valve Twice This Year, Fueling Portal Film Speculation",
+      "tag": "portal",
+      "posted_at": "2026-09-17T16:31:10.870246+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/"
+      ],
+      "article_titles": [
+        "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000735185",
-      "title": "EA Tells Devs Its Saudi Arabia Owners Won\u2019t Make Creative Decisions, Queer Fans Don\u2019t Buy It",
-      "url": "https://kotaku.com/electronic-arts-saudi-arabia-acquisition-lgbtqia-mass-effect-sims-2000735185",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T12:00:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237106313",
-      "title": "Ireland Boycotts Eurovision Again Over \u201cAppalling Loss Of Lives In Gaza\u201d",
-      "url": "https://deadline.com/2026/09/ireland-boycotts-eurovision-loss-of-lives-in-gaza-1237106313/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T12:30:01+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237105830",
-      "title": "Roku Adds 30 New Bundles To Premium Subscriptions, Offering Combos Of AMC+, Fox One, Starz & More",
-      "url": "https://deadline.com/2026/09/roku-adds-30-new-streaming-bundles-1237105830/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T12:26:05+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236863982",
-      "title": "BBC, Bobby Prod, Folivari, Gao Shan Pictures Honored by Europe\u2019s Animation Industry at Cartoon Forum",
-      "url": "https://variety.com/2026/tv/markets-festivals/bbc-bobby-prod-folivari-gao-shan-cartoon-forum-2026-1236863982/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236865359",
-      "title": "Dolly Parton Posthumously Accepts Americana Award in Newly Released Video Recorded Before Her Death: \u2018Just Know That I Will Always Love You\u2019",
-      "url": "https://variety.com/2026/music/news/dolly-parton-posthumous-video-accepts-award-americana-1236865359/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T12:10:31+00:00"
-    },
-    {
-      "guid": "1887915",
-      "title": "GTA 6 The Album Gets A Physical Release, Even Though The Game Won\u2019t",
-      "url": "https://www.gamespot.com/articles/gta-6-the-album-announced-and-itll-be-on-physical-media/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T12:12:24+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206476",
-      "title": "There's a New Ni no Kuni Game, Kind of, and It's Now Confirmed for PS5",
-      "url": "https://www.pushsquare.com/news/2026/09/theres-a-new-ni-no-kuni-game-kind-of-and-its-now-confirmed-for-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206474",
-      "title": "Lush Vampire Savior / Darkstalkers 3 Vinyl Soundtrack Coming From Mana Read Media",
-      "url": "https://www.timeextension.com/news/2026/09/lush-vampire-savior-darkstalkers-3-vinyl-soundtrack-coming-from-mana-read-media",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1079750",
-      "title": "Grand Theft Auto VI: The Album announced",
-      "url": "https://www.gematsu.com/2026/09/grand-theft-auto-vi-the-album-announced",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T12:20:27+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1756826",
-      "title": "Smash Bros. Director Says Game Designers Award Will End After 16 Years as He Warns Games Industry Could \u201cDie a Slow Death\u201d Without Originality",
-      "url": "https://otakukart.com/smash-bros-director-says-game-designers-award-will-end-after-16-years-as-he-warns-games-industry-could-die-a-slow-death-without-originality/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T12:27:27+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1756812",
-      "title": "Capcom Confirms Monster Hunter Wilds Will Remove Paid Character Edit Vouchers Ahead of 2027 Ascendance Expansion",
-      "url": "https://otakukart.com/capcom-confirms-monster-hunter-wilds-will-remove-paid-character-edit-vouchers-ahead-of-2027-ascendance-expansion/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T12:15:26+00:00"
-    },
-    {
-      "guid": "t3_1wis631",
-      "title": "GTA 6 album confirmed",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wis631/gta_6_album_confirmed/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T12:07:26+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/gta-6-original-soundtrack-six-track-preview",
       "title": "GTA 6 is getting a 34-song original soundtrack, with music from multiple real-world artists - and you can stream six tracks today",
@@ -2110,6 +2003,158 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-17T15:47:14+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000735298",
+      "title": "Missing Fail States Aren\u2019t The Problem With Wolverine\u2019s QTEs, It\u2019s Everything Else",
+      "url": "https://kotaku.com/missing-fail-states-arent-the-problem-with-marvels-wolverines-qtes-its-everything-else-2000735298",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:00:35+00:00"
+    },
+    {
+      "guid": "MNYdaF8ViqCceiMDbivmH9",
+      "title": "Backrooms director & Portal superfan Kane Parsons spotted visiting Valve for the second time this year",
+      "url": "https://www.pcgamer.com/games/fps/backrooms-director-and-portal-superfan-kane-parsons-spotted-visiting-valve-for-the-second-time-this-year/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:26:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106490",
+      "title": "Pitt Street Productions Developing Feature Adaptation of Jessica Joyce Romance Novel \u2018The Ex Vows\u2019",
+      "url": "https://deadline.com/2026/09/the-ex-vows-movie-set-jessica-joyce-book-pitt-street-1237106490/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106495",
+      "title": "Hot Springs Documentary Film Festival Announces 2026 Lineup, Honorary Chair Darlene Love & Awards For Joe Berlinger, Yoruba Richen",
+      "url": "https://deadline.com/2026/09/2026-hot-springs-documentary-film-festival-lineup-annoucement-1237106495/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:29:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106283",
+      "title": "Naomi Scott & Kit Harington Romance \u2018Eternal Return\u2019 Gets North American Deal & Theatrical Release Date",
+      "url": "https://deadline.com/2026/09/kit-harington-naomi-scott-romance-eternal-return-us-release-1237106283/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106453",
+      "title": "David Dobkin\u2019s Matt Rife Road Trip Comedy Gets New Title As Seven Join Cast",
+      "url": "https://deadline.com/2026/09/matt-rife-movie-unaccompanied-minor-casts-seven-1237106453/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237018779",
+      "title": "All The Songs In \u2018Ted Lasso\u2019 Season 4 So Far",
+      "url": "https://deadline.com/feature/ted-lasso-season-4-songs-soundtrack-1237018779/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:06:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106450",
+      "title": "\u2018Shrek\u2019 Books Shared-Reality Run At Cosm In Kickoff To Universal Partnership",
+      "url": "https://deadline.com/2026/09/shrek-25th-anniversary-cosm-universal-1237106450/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:01:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237071426",
+      "title": "Richard Gadd, Rhenzy Feliz, Ismael Cruz C\u00f3rdova & Rub\u00e9n Blades Among 11 Joining Bad Bunny In Residente Film \u2018Porto Rico\u2019",
+      "url": "https://deadline.com/2026/09/richard-gadd-cast-residente-feature-porto-rico-1237071426/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237105977",
+      "title": "Disney Inks Content & Development Deal With Global Phenom Kids Creator Like Nastya",
+      "url": "https://deadline.com/2026/09/disney-like-nastya-content-development-deal-1237105977/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236864979",
+      "title": "Sony TV North America Distribution Executive Vice President Flory Bramnick Plans to Depart After 24 Years (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/sony-tv-north-america-distribution-head-flory-bramnick-1236864979/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236865009",
+      "title": "Noah Baumbach Signs First Look Deal with Warner Bros.; Sets New Theatrical Movie With Studio Label Clockwork (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/noah-baumbach-new-movie-clockwork-first-look-warner-bros-1236865009/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:24:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236865007",
+      "title": "A TikTok Script Expert Pitched Puppet Horror Movie \u2018Play House\u2019 at Fantastic Fest. One Year Later, The $100,000 Film Is Set to Debut After an \u2018Intense\u2019 Production",
+      "url": "https://variety.com/2026/film/festivals/play-house-fantastic-fest-pitches-winner-nicolas-curcio-1236865007/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236865204",
+      "title": "Wyatt Russell Joins Asa Butterfield, Mark Strong and Kyra Sedgwick in John Carroll Lynch Comedy \u2018Happy\u2019",
+      "url": "https://variety.com/2026/film/global/wyatt-russell-joins-john-carroll-lynch-comedy-happy-1236865204/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236700515",
+      "title": "Jimmy Kimmel Might Stick Around, But the End of Late Night TV Is Getting Closer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/end-of-late-night-tv-nears-kimmel-lorne-michaels-1236700515/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:14:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704449",
+      "title": "Disney Inks Content and Development Deal With Kids Creator Brand \u2018Like Nastya\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/like-nastya-coming-disney-content-deal-1236704449/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-205608",
+      "title": "Gallery: Unboxing The \u00a3130 Zool Ultimate Archive Edition",
+      "url": "https://www.timeextension.com/news/2026/09/gallery-unboxing-the-p130-zool-ultimate-archive-edition",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1079812",
+      "title": "The Rogue Prince of Persia \u2018Anniversary\u2019 update now available",
+      "url": "https://www.gematsu.com/2026/09/the-rogue-prince-of-persia-anniversary-update-now-available",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T16:12:41+00:00"
+    },
+    {
+      "guid": "t3_1wiytyf",
+      "title": "Tom Warren: Microsoft was exploring the idea of true Xbox digital ownership in 2011, but they scrapped it",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wiytyf/tom_warren_microsoft_was_exploring_the_idea_of/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T16:29:58+00:00"
     }
   ]
 }
