@@ -1007,38 +1007,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237106442",
-      "title": "Tony-Winner J. Harrison Ghee Takes Two-Month Break From \u2018Oh, Mary!\u2019 Tour On Medical Advice",
-      "url": "https://deadline.com/2026/09/j-harrison-ghee-oh-mary-tour-1237106442/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T15:24:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236858761",
-      "title": "Netflix\u2019s \u2018Monster\u2019 Finally Delivers an Outrageously Engaging Season With \u2018The Lizzie Borden Story\u2019: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/monster-the-lizzie-borden-story-review-netflix-1236858761/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236704503",
-      "title": "\u2018Gerbil\u2019 Investigates the Richard Gere Rumor That Will Never Die \u2014 In 12 Deep-Dive Episodes",
-      "url": "https://www.hollywoodreporter.com/business/digital/gerbil-podcast-about-richard-gere-rumor-wont-die-1236704503/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T15:23:16+00:00"
-    },
-    {
-      "guid": "1888013",
-      "title": "GTA 6 Boss Says PC Is Becoming \u201cMore And More Important\u201d",
-      "url": "https://www.gamespot.com/articles/gta-6-boss-says-pc-is-becoming-more-and-more-important/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T15:23:56+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000735267",
       "title": "Studio Ghibli-Looking Cozy SimBloomwalker Is Now Officially A Ni No Kuni Spin-Off",
       "url": "https://kotaku.com/studio-ghibli-looking-cozy-simbloomwalker-is-now-officially-a-ni-no-kuni-spin-off-2000735267",
@@ -1965,6 +1933,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-17T19:07:39+00:00"
+    },
+    {
+      "guid": "PkB4BryNunFvwAMKVS3sM9",
+      "title": "Zero Parades: Director's Cut will challenge you to drive a stolen truck through a busy roundabout while stoned out of your mind",
+      "url": "https://www.pcgamer.com/games/rpg/zero-parades-directors-cut-will-challenge-you-to-drive-a-stolen-truck-through-a-busy-roundabout-while-stoned-out-of-your-mind/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T19:21:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106798",
+      "title": "\u2018Obsession\u2019 Star Megan Lawless Boards Indie Romantic Comedy \u2018Crushed\u2019",
+      "url": "https://deadline.com/2026/09/obsession-megan-lawless-crushed-1237106798/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T19:24:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236866038",
+      "title": "Kim Kardashian Taps Olympians Chloe Kim, Jutta Leerdam and More for New NikeSKIMS Campaign",
+      "url": "https://variety.com/2026/shopping/news/kim-kardashian-olympians-chloe-kim-nikeskims-campaign-1236866038/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T19:27:21+00:00"
     }
   ]
 }
