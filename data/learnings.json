@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Nintendo Is Running a Big eShop Sale Funded by Tariff Refunds It's Refusing to Pass Back to Buyers",
-      "tag": "nintendo",
-      "posted_at": "2026-09-10T14:01:11.208856+00:00",
-      "urls": [
-        "https://kotaku.com/nintendo-announces-big-customer-appreciation-sale-supported-by-tariff-refunds-it-doesnt-want-to-pay-back-to-players-2000733198"
-      ],
-      "article_titles": [
-        "Nintendo Announces Big \u2018Customer Appreciation Sale\u2019 Supported By Tariff Refunds It Doesn\u2019t Want To Pay Back To Players"
-      ]
-    },
-    {
-      "headline": "DLSS 5 Can Now Upscale Your Entire Windows Desktop \u2014 Even on RTX 30-Series GPUs",
-      "tag": "nvidia dlss",
-      "posted_at": "2026-09-10T14:01:11.398037+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/",
-        "https://www.pcgamer.com/hardware/you-can-now-apply-dlss-5-to-your-entire-desktop-with-a-free-app-and-it-even-works-with-rtx-30-series-cards/"
-      ],
-      "article_titles": [
-        "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards",
-        "You can now apply DLSS 5 to your entire desktop with a free app and it even works with RTX 30-series cards"
-      ]
-    },
-    {
       "headline": "GTA 6 PS5 DualSense pre-orders go live \u2014 and immediately crash the PlayStation Store",
       "tag": "gta 6",
       "posted_at": "2026-09-10T14:31:53.678487+00:00",
@@ -1010,6 +986,17 @@
         "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny",
         "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny"
       ]
+    },
+    {
+      "headline": "Dishonored Director Harvey Smith Names New Studio \"Black Pony Immersive\" to Signal Immersive Sim Focus",
+      "tag": "black pony immersive",
+      "posted_at": "2026-09-17T14:31:06.774147+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/sim/dishonoreds-harvey-smith-named-his-new-studio-black-pony-immersive-so-people-would-stop-asking-him-to-work-on-other-genres-specialising-on-what-you-love-is-not-a-bad-path/"
+      ],
+      "article_titles": [
+        "Dishonored's Harvey Smith named his new studio Black Pony Immersive so people would stop asking him to work on other genres: 'Specialising on what you love is not a bad path'"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1542,6 +1529,190 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-17T13:45:54+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
+      "title": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn",
+      "url": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:22:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000735278",
+      "title": "Ghostrunner Devs Explain Why Their Napoleon Soulslike Valor Mortis Is Just $40: \u2018The Fall Is Stacked And There\u2019s High Demand For Your Time And Money\u2019",
+      "url": "https://kotaku.com/ghostrunner-devs-explain-why-their-napoleon-soulslike-valor-mortis-is-just-40-the-fall-is-stacked-and-theres-high-demand-for-your-time-and-money-2000735278",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:00:26+00:00"
+    },
+    {
+      "guid": "LSrSmKtotBrVfjTvxXJ9TX",
+      "title": "LG UltraGear 25G590B review",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-25g590b-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:16:29+00:00"
+    },
+    {
+      "guid": "BgQa2i2Yv8dCjexnfuuNK4",
+      "title": "Dishonored's Harvey Smith named his new studio Black Pony Immersive so people would stop asking him to work on other genres: 'Specialising on what you love is not a bad path'",
+      "url": "https://www.pcgamer.com/games/sim/dishonoreds-harvey-smith-named-his-new-studio-black-pony-immersive-so-people-would-stop-asking-him-to-work-on-other-genres-specialising-on-what-you-love-is-not-a-bad-path/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:03:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106390",
+      "title": "\u2018The Trial of Alec Baldwin\u2019 Goes Global With Blue Ant",
+      "url": "https://deadline.com/2026/09/the-trial-of-alec-baldwin-international-blue-ant-1237106390/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:23:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236865132",
+      "title": "Americana Award Winners Include Molly Tuttle, Brandi Carlile, Gillian Welch and Tyler Childers, as Robert Plant and Others Receive Lifetime Honors",
+      "url": "https://variety.com/2026/music/news/americana-awards-winners-molly-tuttle-brandi-carlile-1236865132/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:21:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236865210",
+      "title": "Hallmark\u2019s Countdown to Christmas 2026 Schedule: 34 New Holiday Movies Starring Lori Loughlin, Tamera Mowry-Housley, Lacey Chabert, Christy Carlson Romano and More",
+      "url": "https://variety.com/lists/hallmark-countdown-to-christmas-2026-schedule-new-movies/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236865085",
+      "title": "The Old & New Hollywood Guard Wielding AI\u2019s Might",
+      "url": "https://variety.com/2026/film/news/ai-hollywood-particle-6-higgsfield-innovative-runway-1236865085/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:01:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236865405",
+      "title": "\u2018This Week\u2019 Executive Producer Ready to Scramble for Midterms",
+      "url": "https://variety.com/2026/tv/news/this-week-executive-producer-scramble-midterm-elections-1236865405/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704277",
+      "title": "\u2018The Life and Deaths of Wilson Shedd\u2019 Review: Amanda Seyfried and Scoot McNairy Bring Raw Intensity to Tim Blake Nelson\u2019s Death Row Drama",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236704277/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:03:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704437",
+      "title": "\u2018Elf\u2019 Movie to Come to Life With Immersive Experience at NYC\u2019s Rockefeller Center (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/elf-movie-immersive-experience-nyc-rockefeller-center-hero-1236704437/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T14:00:00+00:00"
+    },
+    {
+      "guid": "2jaedzTMtnmwyzZPj4yfJ7",
+      "title": "How to earn Driver XP in Wardogs",
+      "url": "https://www.gamesradar.com/games/fps/wardogs-driver-xp/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:25:31+00:00"
+    },
+    {
+      "guid": "xPW665wmq5RcNya5ogMEmF",
+      "title": "Nine months into a rough year for handheld gaming PCs, I'm reluctantly thankful for the open-box ROG Xbox Ally bones being thrown",
+      "url": "https://www.gamesradar.com/hardware/handhelds/nine-months-into-a-rough-year-for-handheld-gaming-pcs-im-reluctantly-thankful-for-the-open-box-rog-xbox-ally-bones-being-thrown/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:21:23+00:00"
+    },
+    {
+      "guid": "uCufRMC55oYxP5NLjywooc",
+      "title": "Diablo 4 devs \"know many of you are waiting for Solo Self-Found to return\" in Season 15 after a glitch killed the mode",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-4-devs-know-many-of-you-are-waiting-for-solo-self-found-to-return-in-season-15-after-a-glitch-killed-the-mode/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:20:50+00:00"
+    },
+    {
+      "guid": "5LdhRYLkfsNEhpkJPgoZfE",
+      "title": "PowerA has combined a flashy handbag and a Switch 2 case into one accessory, and I'm not mad about it",
+      "url": "https://www.gamesradar.com/hardware/accessories/powera-has-combined-a-flashy-handbag-and-a-switch-2-case-into-one-accessory-and-im-not-mad-about-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:19:51+00:00"
+    },
+    {
+      "guid": "Te6prNQihFyVTm8RmQ9L4b",
+      "title": "World of Warcraft: Forever dev tells fans concerned by datamines and screenshots to \"reserve judgment\" until they play Blizzard's new MMO",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-dev-tells-fans-concerned-by-datamines-and-screenshots-to-reserve-judgment-until-they-play-blizzards-new-mmo/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:18:43+00:00"
+    },
+    {
+      "guid": "Bpzw3GE5c9FEp9kHdVtyQ4",
+      "title": "GTA 6 on PC sounds even more inevitable in Take-Two CEO's latest comments",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-on-pc-sounds-even-more-inevitable-in-take-two-ceos-latest-comments/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:08:35+00:00"
+    },
+    {
+      "guid": "a6WFXigXzUMVyRzJmn54JX",
+      "title": "I'm two weeks into The Blood of Dawnwalker and may have already damned my soul \u2013 is that good?",
+      "url": "https://www.gamesradar.com/games/action-rpg/im-two-weeks-into-the-blood-of-dawnwalker-and-may-have-already-damned-my-soul-is-that-good/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:00:00+00:00"
+    },
+    {
+      "guid": "1887976",
+      "title": "GTA Is Like Barbie, Take-Two Boss Says",
+      "url": "https://www.gamespot.com/articles/gta-is-like-barbie-take-two-boss-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T13:59:47+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206404",
+      "title": "'It's Hard to Go Back': CDPR Says The Witcher 3 Remastered Should Feel Like a Current Release",
+      "url": "https://www.pushsquare.com/news/2026/09/its-hard-to-go-back-cdpr-says-the-witcher-3-remastered-should-feel-like-a-current-release",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206477",
+      "title": "Check Out This Impressive Footage Of Sega's Virtua Racing Running On Playdate",
+      "url": "https://www.timeextension.com/news/2026/09/check-out-this-impressive-footage-of-segas-virtua-racing-running-on-playdate",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1079616",
+      "title": "Kingdom of Night for PS5, Xbox Series, and Switch launches November 5",
+      "url": "https://www.gematsu.com/2026/09/kingdom-of-night-for-ps5-xbox-series-and-switch-launches-november-5",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:00:42+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756861",
+      "title": "Netflix\u2019s Haunted Hotel Season 2 Trailer Reveals New Ghosts Ahead of October 9 Premiere",
+      "url": "https://otakukart.com/netflixs-haunted-hotel-season-2-trailer-reveals-new-ghosts-ahead-of-october-9-premiere/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T14:24:35+00:00"
     }
   ]
 }
