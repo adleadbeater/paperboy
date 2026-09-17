@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Professor Layton and the Curious Village Is Getting a PS5 Remake in 2027",
-      "tag": "professor layton",
-      "posted_at": "2026-09-10T17:31:22.745753+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/09/first-professor-layton-game-gets-ps5-remake-curious-village-out-in-2027",
-        "https://www.siliconera.com/professor-layton-and-the-curious-village-remake-arrives-in-2027/"
-      ],
-      "article_titles": [
-        "First Professor Layton Game Gets PS5 Remake, Curious Village Out in 2027",
-        "Professor Layton and the Curious Village Remake Arrives in 2027"
-      ]
-    },
-    {
-      "headline": "Saudi Arabia Reportedly Planning to Merge EA Into a New Mega-Corporation",
-      "tag": "ea",
-      "posted_at": "2026-09-10T17:31:22.849231+00:00",
-      "urls": [
-        "https://kotaku.com/electronic-arts-ea-savvy-saudi-arabia-merger-acquisition-2000733275",
-        "https://www.gamesradar.com/games/a-month-after-buying-ea-saudi-arabia-is-reportedly-looking-to-merge-ea-into-a-new-mega-corporation/"
-      ],
-      "article_titles": [
-        "Saudi Arabia Reportedly Considering Merging EA With Savvy Games Group",
-        "A month after buying EA, Saudi Arabia is reportedly looking to merge EA into a new mega-corporation"
-      ]
-    },
-    {
       "headline": "Netflix's GTA 6 Exclusivity Window Barely Moved the Needle on Subscribers",
       "tag": "gta 6",
       "posted_at": "2026-09-10T18:01:13.792065+00:00",
@@ -1014,131 +988,24 @@
         "Twitch CEO hints at GTA VI multiplayer launching in 2027 in an interview with Bloomberg",
         "GTA 6 Multiplayer Could Launch In 2027, Twitch CEO Says"
       ]
+    },
+    {
+      "headline": "Sam Raimi and Josh Cooley Are Adapting Survival Horror Game '99 Nights in the Forest' for 20th Century Studios",
+      "tag": "99 nights in the forest",
+      "posted_at": "2026-09-17T18:01:09.245575+00:00",
+      "urls": [
+        "https://deadline.com/2026/09/99-nights-in-the-forest-movie-josh-cooley-sam-raimi-20th-1237106669/",
+        "https://www.hollywoodreporter.com/movies/movie-news/99-nights-in-the-forest-josh-cooley-20th-century-studios-film-1236704624/"
+      ],
+      "article_titles": [
+        "Josh Cooley & Sam Raimi Teaming To Develop \u201999 Nights In The Forest\u2019 For 20th Century Studios",
+        "\u201999 Nights in the Forest\u2019: Josh Cooley to Pen 20th Century Studios\u2019 Adaptation of Survival Horror Video Game (Exclusive)"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237105861",
-      "title": "CBS News Expands \u2018The Takeout\u2019 Segments, Partners With VoteHub In Advance Of Midterms",
-      "url": "https://deadline.com/2026/09/cbs-news-midterms-votehub-1237105861/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236863206",
-      "title": "Luke Bryan to Perform Exclusive Concert in Roku City",
-      "url": "https://variety.com/2026/tv/news/luke-bryan-concert-roku-city-1236863206/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236865087",
-      "title": "\u2018Tyson\u2019 Trailer: Mike Tyson Chronicles His Journey From Dropout to Heavyweight Champion in Netflix Docuseries",
-      "url": "https://variety.com/2026/tv/news/mike-tyson-trailer-netflix-docuseries-1236865087/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236865424",
-      "title": "Former Disney Star Debby Ryan Suffered \u2018Life-Altering Brain Injury\u2019 After Multiple Concussions: \u2018Some Things Did Not Come Back\u2019",
-      "url": "https://variety.com/2026/tv/news/debby-ryan-brain-injury-disney-channel-fame-1236865424/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T13:53:32+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236865516",
-      "title": "Cary Joji Fukunaga, Sine Plambech to Lead Juries at Zurich Film Festival",
-      "url": "https://variety.com/2026/film/global/cary-joji-fukunaga-sine-plambech-zurich-film-festival-1236865516/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T13:37:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236704436",
-      "title": "MLW Finally Gets Its Tubi Deal (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/mlw-fusion-tubi-deal-exclusive-major-league-wrestling-1236704436/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236704419",
-      "title": "Cary Joji Fukunaga, Sine Plambech Named Zurich Film Festival\u2019s Feature and Documentary Jury Presidents",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/cary-joji-fukunaga-sine-plambech-zurich-film-festival-jury-1236704419/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T13:40:54+00:00"
-    },
-    {
-      "guid": "aPtsnGAkmqk4iPtDmRUHin",
-      "title": "How to detain Michael in Halloween the Game",
-      "url": "https://www.gamesradar.com/games/horror/how-to-detain-michael-in-halloween-the-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:43:13+00:00"
-    },
-    {
-      "guid": "t64QdtLonysKaU63bvJUcT",
-      "title": "\"Alyx was a far, far more useful target for us\" - Valve's struggle to get existing titles working on Steam Frame's ARM processor is why it's bundled with a six-year-old game, and I bet this isn't the last we'll hear of these chips causing difficulties",
-      "url": "https://www.gamesradar.com/hardware/vr/alyx-was-a-far-far-more-useful-target-for-us-valves-struggle-to-get-existing-titles-working-on-steam-frames-arm-processor-is-why-its-bundled-with-a-six-year-old-game-and-i-bet-this-isnt-the-last-well-hear-of-these-chips-causing-difficulties/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:30:56+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206483",
-      "title": "Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold",
-      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123140",
-      "title": "Espeon and Umbreon Sparkle in New Hori Controller and Bags",
-      "url": "https://www.siliconera.com/espeon-and-umbreon-sparkle-in-new-hori-controller-and-bags/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123160",
-      "title": "Where Is Gisco\u2019s Treasure in Fire Emblem: Fortune\u2019s Weave",
-      "url": "https://www.siliconera.com/where-is-giscos-treasure-in-fire-emblem-fortunes-weave/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:40:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1756891",
-      "title": "English Dub Cast of GUNDAM SEED Reunites for Complimentary Autograph Session and Main Stage Panel at New York Comic Con 2026",
-      "url": "https://otakukart.com/english-dub-cast-of-gundam-seed-reunites-for-complimentary-autograph-session-and-main-stage-panel-at-new-york-comic-con-2026/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:51:15+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1756884",
-      "title": "The Terminal List Season 2 Trailer Reveals Chris Pratt\u2019s Global Mission Ahead of October Premiere",
-      "url": "https://otakukart.com/the-terminal-list-season-2-trailer-reveals-chris-pratts-global-mission-ahead-of-october-premiere/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:48:11+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1756883",
-      "title": "Nintendo Download September 17: Fire Emblem, Diablo IV and More Arrive on Switch 2",
-      "url": "https://otakukart.com/nintendo-download-september-17-fire-emblem-diablo-iv-and-more-arrive-on-switch-2/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:45:54+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season",
       "title": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn",
@@ -1146,14 +1013,6 @@
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-09-17T14:22:34+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000735278",
-      "title": "Ghostrunner Devs Explain Why Their Napoleon Soulslike Valor Mortis Is Just $40: \u2018The Fall Is Stacked And There\u2019s High Demand For Your Time And Money\u2019",
-      "url": "https://kotaku.com/ghostrunner-devs-explain-why-their-napoleon-soulslike-valor-mortis-is-just-40-the-fall-is-stacked-and-theres-high-demand-for-your-time-and-money-2000735278",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T14:00:26+00:00"
     },
     {
       "guid": "LSrSmKtotBrVfjTvxXJ9TX",
@@ -1204,28 +1063,12 @@
       "published_dt": "2026-09-17T14:01:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236865405",
-      "title": "\u2018This Week\u2019 Executive Producer Ready to Scramble for Midterms",
-      "url": "https://variety.com/2026/tv/news/this-week-executive-producer-scramble-midterm-elections-1236865405/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236704277",
       "title": "\u2018The Life and Deaths of Wilson Shedd\u2019 Review: Amanda Seyfried and Scoot McNairy Bring Raw Intensity to Tim Blake Nelson\u2019s Death Row Drama",
       "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-life-and-deaths-of-wilson-shedd-review-amanda-seyfried-1236704277/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-17T14:03:35+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236704437",
-      "title": "\u2018Elf\u2019 Movie to Come to Life With Immersive Experience at NYC\u2019s Rockefeller Center (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/elf-movie-immersive-experience-nyc-rockefeller-center-hero-1236704437/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T14:00:00+00:00"
     },
     {
       "guid": "2jaedzTMtnmwyzZPj4yfJ7",
@@ -1274,38 +1117,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-17T14:08:35+00:00"
-    },
-    {
-      "guid": "a6WFXigXzUMVyRzJmn54JX",
-      "title": "I'm two weeks into The Blood of Dawnwalker and may have already damned my soul \u2013 is that good?",
-      "url": "https://www.gamesradar.com/games/action-rpg/im-two-weeks-into-the-blood-of-dawnwalker-and-may-have-already-damned-my-soul-is-that-good/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "guid": "1887976",
-      "title": "GTA Is Like Barbie, Take-Two Boss Says",
-      "url": "https://www.gamespot.com/articles/gta-is-like-barbie-take-two-boss-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T13:59:47+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206404",
-      "title": "'It's Hard to Go Back': CDPR Says The Witcher 3 Remastered Should Feel Like a Current Release",
-      "url": "https://www.pushsquare.com/news/2026/09/its-hard-to-go-back-cdpr-says-the-witcher-3-remastered-should-feel-like-a-current-release",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206477",
-      "title": "Check Out This Impressive Footage Of Sega's Virtua Racing Running On Playdate",
-      "url": "https://www.timeextension.com/news/2026/09/check-out-this-impressive-footage-of-segas-virtua-racing-running-on-playdate",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T14:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1079616",
@@ -2138,6 +1949,166 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-17T16:58:00+00:00"
+    },
+    {
+      "guid": "G5FTr3smUEY9mhuvK87neN",
+      "title": "Can you name the game this game-within-a-game is from?",
+      "url": "https://www.pcgamer.com/games/can-you-name-the-game-this-game-within-a-game-is-from/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:31:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237106669",
+      "title": "Josh Cooley & Sam Raimi Teaming To Develop \u201999 Nights In The Forest\u2019 For 20th Century Studios",
+      "url": "https://deadline.com/2026/09/99-nights-in-the-forest-movie-josh-cooley-sam-raimi-20th-1237106669/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:55:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236865590",
+      "title": "Top Media Execs Break Down How to Super-Serve Audiences, the Real Threat of \u2018AI Slop\u2019 and More at Variety Entertainment & Technology Summit",
+      "url": "https://variety.com/2026/tv/news/media-execs-hollywood-trends-variety-ent-tech-summit-1236865590/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:55:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc_list&p=1236690565",
+      "title": "Oscar Predictions 2027: Which Studios Have a Real Shot at the Title \u2014 and Who Wins the TIFF People\u2019s Choice?",
+      "url": "https://variety.com/lists/2027-oscars-predictions/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236863738",
+      "title": "\u2018I Play Rocky,\u2019 \u2018Elsinore\u2019 and \u2018Tangles\u2019 Signal an Oscar Season About the Craft of Acting and Memory",
+      "url": "https://variety.com/2026/film/awards/i-play-rocky-elsinore-oscars-season-acting-memory-tiff-1236863738/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:33:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704660",
+      "title": "Law & Crime Signs With WME (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/law-and-crime-signs-with-wme-exclusive-dan-abrams-court-tv-1236704660/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:53:54+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704639",
+      "title": "Millie Bobby Brown and Jake Bongiovi Reportedly Welcome Second Child Through Adoption",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/millie-bobby-brown-jake-bongiovi-second-child-adoption-1236704639/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:52:20+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704571",
+      "title": "\u2018Monster: The Lizzie Borden Story\u2019 Team on Painting a Portrait of Female Rage \u2014 and Leaning into Lesbian Theories",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/monster-lizzie-borden-story-female-rage-lesbian-theories-1236704571/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:45:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704624",
+      "title": "\u201999 Nights in the Forest\u2019: Josh Cooley to Pen 20th Century Studios\u2019 Adaptation of Survival Horror Video Game (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/99-nights-in-the-forest-josh-cooley-20th-century-studios-film-1236704624/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704659",
+      "title": "Edie Falco to Star in Fox Legal Drama",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/edie-falco-fox-legal-drama-katie-greaves-1236704659/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-17T17:33:58+00:00"
+    },
+    {
+      "guid": "2AeaVzMxK9ncjyRyDQqPVZ",
+      "title": "Japanese companies like Nintendo, Capcom, and Konami are healthier because they have smaller teams, don't have frequent layoffs, and don't pay executives $30 million, says expert",
+      "url": "https://www.gamesradar.com/games/japanese-companies-like-nintendo-capcom-and-konami-are-healthier-because-they-have-smaller-teams-dont-have-frequent-layoffs-and-dont-pay-executives-usd30-million-says-expert/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:55:57+00:00"
+    },
+    {
+      "guid": "F4PUTKpXN3ieDVSvS2ncUT",
+      "title": "The Last of Us game director says AAA games have gotten \"boring,\" and he's \"not excited\" looking at God of War Laufey gameplay",
+      "url": "https://www.gamesradar.com/games/god-of-war/the-last-of-us-game-director-says-aaa-games-have-gotten-boring-and-hes-not-excited-looking-at-god-of-war-laufey-gameplay/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:31:05+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123208",
+      "title": "Capcom Ending Monster Hunter Wilds Character Edit Vouchers",
+      "url": "https://www.siliconera.com/capcom-ending-monster-hunter-wilds-character-edit-vouchers/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T18:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756787",
+      "title": "Veteran Singer Yangpa Announces Two-Day Seoul Orchestra Concert Series for Autumn 2026",
+      "url": "https://otakukart.com/veteran-singer-yangpa-announces-two-day-seoul-orchestra-concert-series-for-autumn-2026/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:58:16+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756797",
+      "title": "Viral Post Claiming Mark Lee\u2019s Popularity Decline Sparks Heated Fandom Debates",
+      "url": "https://otakukart.com/viral-post-claiming-mark-lees-popularity-decline-sparks-heated-fandom-debates/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:55:59+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756793",
+      "title": "aespa\u2019s Giselle Faces Heavy Criticism Over Social Media Imagery References",
+      "url": "https://otakukart.com/aespas-giselle-faces-heavy-criticism-over-social-media-imagery-references/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:53:19+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756799",
+      "title": "T.O.P Speaks Out Regarding BIGBANG\u2019s 20th Anniversary Activities and His Future as a Solo Artist",
+      "url": "https://otakukart.com/t-o-p-speaks-out-regarding-bigbangs-20th-anniversary-activities-and-his-future-as-a-solo-artist/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:50:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756803",
+      "title": "Stray Kids Elevate \u201cSTRAYCITY\u201d Latin American Festival Tour with Full Live Band Performances",
+      "url": "https://otakukart.com/stray-kids-elevate-straycity-latin-american-festival-tour-with-full-live-band-performances/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:48:27+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756805",
+      "title": "BTS Member Jungkook Returns as the Face of Calvin Klein\u2019s Fall 2026 \u201cFeel the Fit\u201d Denim Campaign",
+      "url": "https://otakukart.com/bts-member-jungkook-returns-as-the-face-of-calvin-kleins-fall-2026-feel-the-fit-denim-campaign/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T17:45:13+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=620038",
+      "title": "Steve Jackson\u2019s Games Have Done Everything From Making Sentient Tanks To Helping Start The EFF",
+      "url": "https://www.belloflostsouls.net/2026/09/steve-jacksons-games-have-done-everything-from-making-sentient-tanks-to-helping-start-the-eff.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-17T18:00:00+00:00"
     }
   ]
 }
