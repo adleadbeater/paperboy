@@ -963,42 +963,180 @@
         "We Asked Blizzard Why Diablo 5 Is Confirmed For PC But StarCraft Is Not",
         "We Asked Blizzard Why Diablo 5 Is Confirmed For PC But StarCraft Is Not"
       ]
+    },
+    {
+      "headline": "Control Resonant Reviews Are In \u2014 And the Combat Is Letting It Down",
+      "tag": "control resonant",
+      "posted_at": "2026-09-18T13:05:19.053999+00:00",
+      "urls": [
+        "https://kotaku.com/control-resonant-the-kotaku-review-2000735575",
+        "https://www.pcgamer.com/games/action/control-resonant-review/",
+        "https://www.gamesradar.com/games/action-rpg/control-resonant-review/"
+      ],
+      "article_titles": [
+        "Control Resonant: The Kotaku Review",
+        "Control Resonant review",
+        "Control Resonant review: \"Deeply weird with wondrous supernatural vistas but bafflingly dull combat\""
+      ]
+    },
+    {
+      "headline": "Marvel's Wolverine Out-of-Bounds Glitch Reveals Floating NPCs and a Hollow Game World",
+      "tag": "marvel's wolverine",
+      "posted_at": "2026-09-18T13:05:19.302092+00:00",
+      "urls": [
+        "https://www.ign.com/articles/marvels-wolverine-player-glitches-out-of-bounds-to-discover-floating-npcs-cars-that-phase-through-walls-and-the-edges-of-the-map"
+      ],
+      "article_titles": [
+        "Marvel's Wolverine Player Glitches Out of Bounds to Discover Floating NPCs, Cars That Phase Through Walls, and the Edges of the Map"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236705118",
-      "title": "\u2018Bad Lieutenant: Tokyo\u2019 Review: Shun Oguri and Lily James in a Meandering Franchise Entry From Takashi Miike That\u2019s Semi-Coherent at Best",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/bad-lieutenant-tokyo-review-shun-oguri-lily-james-1236705118/",
-      "source_name": "Hollywood Reporter",
+      "guid": "7c2a891c-294e-4416-9554-957036d44a29",
+      "title": "Marvel's Wolverine Player Glitches Out of Bounds to Discover Floating NPCs, Cars That Phase Through Walls, and the Edges of the Map",
+      "url": "https://www.ign.com/articles/marvels-wolverine-player-glitches-out-of-bounds-to-discover-floating-npcs-cars-that-phase-through-walls-and-the-edges-of-the-map",
+      "source_name": "IGN",
       "source_tier": 1,
-      "published_dt": "2026-09-18T04:05:14+00:00"
+      "published_dt": "2026-09-18T12:33:49+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1079873",
-      "title": "Sugar Lies launches in late 2026 for PC, in spring 2027 for Switch",
-      "url": "https://www.gematsu.com/2026/09/sugar-lies-launches-in-late-2026-for-pc-in-spring-2027-for-switch",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-18T03:50:02+00:00"
+      "guid": "https://kotaku.com/?p=2000735575",
+      "title": "Control Resonant: The Kotaku Review",
+      "url": "https://kotaku.com/control-resonant-the-kotaku-review-2000735575",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T13:00:52+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236847674",
-      "title": "San Sebasti\u00e1n 2026: \u2019Les Mis,\u2019 Los Javis, Brad Pitt, Pen\u00e9lope Cruz and Much More",
-      "url": "https://variety.com/2026/film/global/les-mis-los-javis-brad-pitt-penelope-cruz-san-sebastian-1236847674/",
+      "guid": "ymXL582r5DQHupMMVhrYrW",
+      "title": "Don't bother turning Control Resonant up to the maximum for mind-bending graphics, there's both performance and beauty in the lower graphics presets too",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/dont-bother-turning-control-resonant-up-to-the-maximum-for-mind-bending-graphics-theres-both-performance-and-beauty-in-the-lower-graphics-presets-too/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T13:01:00+00:00"
+    },
+    {
+      "guid": "CnoyVJ6etBqvHi5H7BNGN6",
+      "title": "Control Resonant review",
+      "url": "https://www.pcgamer.com/games/action/control-resonant-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "guid": "K6PmUSfGBoHGQBsysokj6n",
+      "title": "Over 35,000 people say they signed up for a Steam Frame, and less than half have one reserved",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/over-35-000-people-say-they-signed-up-for-a-steam-frame-and-less-than-half-have-one-reserved/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T12:37:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237107205",
+      "title": "Everything We Know About Prime Video\u2019s \u2018Rose Hill\u2019 Series Adaptation So Far",
+      "url": "https://deadline.com/feature/elsie-silver-rose-hill-series-tv-show-news-prime-video-1237107205/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237107372",
+      "title": "Ukraine War Doc \u2018A Simple Soldier\u2019 Getting Oscar-Qualifying U.S. & International Release Via Jolt & Propagate",
+      "url": "https://deadline.com/2026/09/ukraine-war-film-simple-soldier-release-jolt-propagate-1237107372/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T12:36:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236866405",
+      "title": "\u2018Fast & Furious: Hollywood Drift\u2019 Ride Opens to Thrill Fans at Universal Studios Hollywood",
+      "url": "https://variety.com/2026/biz/news/fast-furious-hollywood-drift-universal-studios-hollywood-1236866405/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-18T05:11:16+00:00"
+      "published_dt": "2026-09-18T13:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236705181",
-      "title": "Macklemore Alleged to Have Repeated Palestine Comments Despite Promoter Assurances to NFL Stadium Owners (Report)",
-      "url": "https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-robert-kraft-phonecall-1236705181/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236705177",
+      "title": "Why Matthew McConaughey Doesn\u2019t Want to Take a DNA Test \u2014 Despite Woody Harrelson\u2019s Insistence \u2014 to See If the Two Stars Are Really Brothers",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/matthew-mcconaughey-dna-test-woody-harrelson-brothers-1236705177/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-18T05:18:25+00:00"
+      "published_dt": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236705179",
+      "title": "MGA Entertainment Debuts New Music Video, Single Tied to Mirror Mi Doll Line (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/music/music-news/mga-entertainment-mirror-mi-doll-line-music-video-1236705179/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "guid": "w7zok2bsQrtZUGRncqozQQ",
+      "title": "This is your reminder that Over the Garden Wall is back on Blu-ray, and a must-have fall edition to your physical media collection",
+      "url": "https://www.gamesradar.com/entertainment/this-is-your-reminder-that-over-the-garden-wall-is-back-on-blu-ray-and-a-must-have-fall-edition-to-your-physical-media-collection/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T13:00:49+00:00"
+    },
+    {
+      "guid": "Hj6TqbBizF4ERXUNhDev8C",
+      "title": "Control Resonant review: \"Deeply weird with wondrous supernatural vistas but bafflingly dull combat\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123185",
+      "title": "Legend of Zelda: Ocarina of Time Didn\u2019t Need a Remake, But Its Nice to Have",
+      "url": "https://www.siliconera.com/legend-of-zelda-ocarina-of-time-didnt-need-a-remake-but-its-nice-to-have/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206273",
+      "title": "Random: The Curious Case Of Pixar Vs. Nintendo, And The Quest For Answers",
+      "url": "https://www.timeextension.com/news/2026/09/random-the-curious-case-of-pixar-vs-nintendo-and-the-quest-for-answers",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206531",
+      "title": "Dreamcast Title Culdcept II Comes Back Online, Along With An AI-Assisted English Translation",
+      "url": "https://www.timeextension.com/news/2026/09/dreamcast-title-culdcept-ii-comes-back-online-along-with-an-ai-assisted-english-translation",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T12:45:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756989",
+      "title": "Phantom Blade Zero Surpasses 3 Million Wishlists With 300,000 Steam Pre-Orders and $14.5 Million in Estimated Revenue",
+      "url": "https://otakukart.com/phantom-blade-zero-surpasses-3-million-wishlists-with-300000-steam-pre-orders-and-14-5-million-in-estimated-revenue/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T13:04:08+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756976",
+      "title": "Nintendo of America President Says \u201cWe\u2019re at the Beginning of Nintendo Switch 2\u201d With More Major Games and IP Partnerships Ahead",
+      "url": "https://otakukart.com/nintendo-of-america-president-says-were-at-the-beginning-of-nintendo-switch-2-with-more-major-games-and-ip-partnerships-ahead/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T12:45:58+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1756975",
+      "title": "Analyst Says Japan\u2019s Console Market Could Have \u201cBeen Completely Eliminated\u201d If Nintendo Switch Had Failed Like Wii U",
+      "url": "https://otakukart.com/analyst-says-japans-console-market-could-have-been-completely-eliminated-if-nintendo-switch-had-failed-like-wii-u/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T12:33:56+00:00"
     }
   ]
 }
