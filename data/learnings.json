@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6 Employees' Tribunal Begins \u2014 Rockstar's Culture of Secrecy on Trial",
-      "tag": "gta 6",
-      "posted_at": "2026-09-11T14:31:10.618631+00:00",
-      "urls": [
-        "https://www.eurogamer.net/rockstar-gta-6-fired-employees-tribunal-statements"
-      ],
-      "article_titles": [
-        "'It would have been insanity to take no action' - Fiery opening statements reveal Rockstar's culture of secrecy as tribunal against sacked GTA 6 employees begins"
-      ]
-    },
-    {
-      "headline": "Sony Pulled the Plug on Kojima's Physint Over Budget Overruns and Missed Deadlines",
-      "tag": "physint",
-      "posted_at": "2026-09-11T14:31:10.722447+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/09/sony-stopped-physint-development-over-budget-exclusivity-concerns",
-        "https://www.gematsu.com/2026/09/bloomberg-sony-interactive-entertainment-stepped-away-from-physint-over-missed-deadlines-budget-concerns"
-      ],
-      "article_titles": [
-        "Sony Stopped Physint Development Over Budget, Exclusivity Concerns",
-        "Bloomberg: Sony Interactive Entertainment stepped away from Physint over missed deadlines, budget concerns"
-      ]
-    },
-    {
       "headline": "A Beloved Visual Novel Studio Just Announced an AI-Generated Quake Clone and Nobody Knows Why",
       "tag": "\u2014",
       "posted_at": "2026-09-11T16:01:17.109565+00:00",
@@ -1011,6 +987,32 @@
       "article_titles": [
         "Gears of War: E-Day system requirements require ray tracing-capable graphics card to play, alongside 115 GB of free space on an SSD"
       ]
+    },
+    {
+      "headline": "Final Fantasy XIV's Next Crossover Event Brings Final Fantasy XV Back",
+      "tag": "final fantasy xiv",
+      "posted_at": "2026-09-18T15:16:27.870316+00:00",
+      "urls": [
+        "https://www.siliconera.com/next-final-fantasy-ffxiv-crossover-brings-ffxv-back/",
+        "https://www.siliconera.com/next-final-fantasy-ffxiv-crossover-brings-ffxv-back/"
+      ],
+      "article_titles": [
+        "Next Final Fantasy FFXIV Crossover Brings FFXV Back",
+        "Next Final Fantasy FFXIV Crossover Brings FFXV Back"
+      ]
+    },
+    {
+      "headline": "Someone Gifted the Pope a Giant Hunk of Final Fantasy VII Materia",
+      "tag": "final fantasy vii",
+      "posted_at": "2026-09-18T15:16:28.058415+00:00",
+      "urls": [
+        "https://kotaku.com/someone-gifted-the-pope-a-giant-hunk-of-materia-2000735588",
+        "https://kotaku.com/someone-gifted-the-pope-a-giant-hunk-of-materia-2000735588"
+      ],
+      "article_titles": [
+        "Someone Gifted The Pope A Giant Hunk Of Materia",
+        "Someone Gifted The Pope A Giant Hunk Of Materia"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1559,6 +1561,102 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-18T14:40:47+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000735614",
+      "title": "Humor And Ending Divide Resident Evil Fans On Zach Cregger\u2019s Film: \u2018The Movie Can Be Renamed Into Anything Else And Make As Much Sense\u2019",
+      "url": "https://kotaku.com/resident-evil-zach-cregger-reactions-reddit-humor-ending-2000735614",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T15:15:29+00:00"
+    },
+    {
+      "guid": "rSS4oVkmeyrdZMDmtxbaUQ",
+      "title": "Unbiased Monster Hunter producer predicts one weapon will climb the popularity rankings in Ascendance, has no agenda: 'Hammer should definitely go up a place or two'",
+      "url": "https://www.pcgamer.com/games/action/unbiased-monster-hunter-producer-predicts-one-weapon-will-climb-the-popularity-rankings-in-ascendance-has-no-agenda-hammer-should-definitely-go-up-a-place-or-two/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237107465",
+      "title": "\u2018The Traitors\u2019 Cast: Kristin Chenoweth, Whitney Leavitt & Bianca Del Rio Among Stars Set For Season 5 Of Peacock Series",
+      "url": "https://deadline.com/2026/09/the-traitors-peacock-cast-season-5-1237107465/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T15:07:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237107446",
+      "title": "Kill Switch! Newsom Moves To Lasso AI With Oversight Executive Order; \u201cWe\u2019re Not Waiting To Act\u201d",
+      "url": "https://deadline.com/2026/09/gavin-newsom-ai-executive-order-1237107446/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T15:05:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236866821",
+      "title": "\u2018The Traitors\u2019 Season 5 Cast Revealed: Kristin Chenoweth, Dominic Monaghan, Whitney Leavitt, and More",
+      "url": "https://variety.com/2026/tv/news/the-traitors-season-5-cast-1236866821/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T15:00:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236860402",
+      "title": "\u2018It\u2019s Time for My Voice\u2019: Jennifer Hudson on Reviving \u2018Dreamgirls,\u2019 Booking Tom Cruise for Her Talk Show and Writing Original Music Again",
+      "url": "https://variety.com/2026/music/features/jennifer-hudson-dreamgirls-tom-cruise-interview-new-music-1236860402/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T15:00:00+00:00"
+    },
+    {
+      "guid": "ANUFTL6EA2K78q6CvdJWBX",
+      "title": "WoW: Forever doesn't allow GDKP, Blizzard says the new MMO's economy is \"something we're taking very seriously\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-forever-doesnt-allow-gdkp-blizzard-says-the-new-mmos-economy-is-something-were-taking-very-seriously/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T15:12:26+00:00"
+    },
+    {
+      "guid": "jPAjEjW7t5iefP4ivEBexH",
+      "title": "Portal could've had \"a bunch of gore and dead bodies\" if one dev had his way, says Valve veteran, but Gabe Newell considered it \"the stupidest question ever\"",
+      "url": "https://www.gamesradar.com/games/puzzle/portal-couldve-had-a-bunch-of-gore-and-dead-bodies-if-one-dev-had-his-way-says-valve-veteran-but-gabe-newell-considered-it-the-stupidest-question-ever/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T15:06:04+00:00"
+    },
+    {
+      "guid": "GqhWSgjxQhWw6e6iny4ruS",
+      "title": "Marvel fans think the new VisionQuest posters are hiding an Easter egg that means more character reveals are coming",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/marvel-fans-think-the-new-visionquest-posters-are-hiding-an-easter-egg-that-means-more-character-reveals-are-coming/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T15:02:06+00:00"
+    },
+    {
+      "guid": "hdnE84dnxM4CycXvZVMdZT",
+      "title": "The worst experience I've had with a game all year: How catastrophic bugs in Mortal Shell 2 nearly killed it for me",
+      "url": "https://www.gamesradar.com/games/action-rpg/the-worst-experience-ive-had-with-a-game-all-year-how-catastrophic-bugs-in-mortal-shell-2-nearly-killed-it-for-me/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T15:01:31+00:00"
+    },
+    {
+      "guid": "1889253",
+      "title": "Sony Says Free TV On PS5 Is \u201cOne Plus One Equaling A Lot More Than Two\u201d",
+      "url": "https://www.gamespot.com/articles/sony-says-free-tv-on-ps5-is-one-plus-one-equaling-a-lot-more-than-two/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T14:43:44+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206536",
+      "title": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
+      "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-18T15:00:00+00:00"
     }
   ]
 }
