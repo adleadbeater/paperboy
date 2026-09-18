@@ -969,22 +969,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236705009",
-      "title": "Former Disney Star Debby Ryan Recalls Suffering a \u201cLife-Altering Brain Injury\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/former-disney-star-debby-ryan-life-altering-brain-injury-1236705009/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-18T00:25:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236705078",
-      "title": "Alfonso Cuar\u00f3n to Make First Korea Visit for Busan Film Festival",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/alfonso-cuaron-korea-visit-busan-film-festival-1236705078/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-18T00:23:56+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236705118",
       "title": "\u2018Bad Lieutenant: Tokyo\u2019 Review: Shun Oguri and Lily James in a Meandering Franchise Entry From Takashi Miike That\u2019s Semi-Coherent at Best",
       "url": "https://www.hollywoodreporter.com/movies/movie-reviews/bad-lieutenant-tokyo-review-shun-oguri-lily-james-1236705118/",
@@ -999,6 +983,22 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-18T03:50:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236847674",
+      "title": "San Sebasti\u00e1n 2026: \u2019Les Mis,\u2019 Los Javis, Brad Pitt, Pen\u00e9lope Cruz and Much More",
+      "url": "https://variety.com/2026/film/global/les-mis-los-javis-brad-pitt-penelope-cruz-san-sebastian-1236847674/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T05:11:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236705181",
+      "title": "Macklemore Alleged to Have Repeated Palestine Comments Despite Promoter Assurances to NFL Stadium Owners (Report)",
+      "url": "https://www.hollywoodreporter.com/music/music-news/ed-sheeran-macklemore-robert-kraft-phonecall-1236705181/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T05:18:25+00:00"
     }
   ]
 }
