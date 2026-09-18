@@ -969,14 +969,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "qCzHdFa2mrY5bBvHixjheW",
-      "title": "Denuvo is on the hunt for DRM cracker 'voices38' as the company attempts to take one of its biggest foes to court",
-      "url": "https://www.pcgamer.com/gaming-industry/denuvo-is-on-the-hunt-for-drm-cracker-voices38-as-the-company-attempts-to-take-one-of-its-biggest-foes-to-court/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T20:22:42+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237106852",
       "title": "New York Knicks\u2019 Jalen Brunson To Guest Star on \u2018Law & Order: SVU\u2019",
       "url": "https://deadline.com/2026/09/jalen-brunson-guest-star-law-order-svu-ny-knicks-cast-1237106852/",
@@ -985,52 +977,12 @@
       "published_dt": "2026-09-17T20:30:03+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237106830",
-      "title": "Bonta Blast: Paramount\u2019s California Exit Is David Ellison\u2019s Choice, \u201cIt Lies At Their Feet,\u201d AG Says",
-      "url": "https://deadline.com/2026/09/california-ag-rob-bonta-david-ellison-paramount-doj-1237106830/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T20:29:44+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237106831",
-      "title": "Lea Michele, Sam Richardson & Nat Faxon To Guest Star On CBS\u2019 \u2018Elsbeth\u2019 For Season 4",
-      "url": "https://deadline.com/2026/09/lea-michele-sam-richardson-nat-faxon-elsbeth-season-4-1237106831/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T20:04:47+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236703023",
       "title": "How Matthew Osubor Turned a Chance Meeting With an Indie Film Veteran Into No-Budget Debut \u2018Big Daddy\u2019s Flowers\u2019",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/matthew-osubor-oldenburg-debut-big-daddys-flowers-1236703023/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-17T20:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236704821",
-      "title": "Streaming Ratings, Now Arriving More Quickly: \u2018Reacher\u2019 at No. 1, \u2018Lanterns\u2019 Debuts on Chart",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-aug-31-sept-6-2026-1236704821/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T20:26:54+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236704767",
-      "title": "Netflix, Universal Chiefs Descend On D.C. to Capitalize on Trump Tax Credit Momentum",
-      "url": "https://www.hollywoodreporter.com/business/business-news/dc-hollywood-trump-tax-credit-momentum-1236704767/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-17T20:19:43+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206501",
-      "title": "Japanese Game Development Is Now Riddled with Generative AI, Industry Survey Finds",
-      "url": "https://www.pushsquare.com/news/2026/09/japanese-game-development-is-now-riddled-with-generative-ai-industry-survey-finds",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-17T20:15:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000734794",
@@ -1431,6 +1383,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-17T23:46:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237073927",
+      "title": "Toronto Film Festival 2026: Read All Of Deadline\u2019s Reviews",
+      "url": "https://deadline.com/2026/09/tiff-2026-movie-reviews-toronto-1237073927/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T00:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236705009",
+      "title": "Former Disney Star Debby Ryan Recalls Suffering a \u201cLife-Altering Brain Injury\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/former-disney-star-debby-ryan-life-altering-brain-injury-1236705009/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T00:25:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236705078",
+      "title": "Alfonso Cuar\u00f3n to Make First Korea Visit for Busan Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alfonso-cuaron-korea-visit-busan-film-festival-1236705078/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T00:23:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236705004",
+      "title": "Inde Navarrette: I Didn\u2019t \u201cWant to Make Any Friends\u201d During \u2018Obsession\u2019 Shoot to Focus on Film",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/obsession-inde-navarrette-didnt-make-friends-curry-barker-1236705004/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-18T00:11:12+00:00"
     }
   ]
 }
