@@ -1107,54 +1107,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236866281",
-      "title": "\u2018Anchors Aweigh\u2019 Review: A Cynical Comedian Reflects on His Youth in an Abridged Mockumentary",
-      "url": "https://variety.com/2026/film/reviews/anchors-aweigh-review-1236866281/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T14:18:47+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236705847",
-      "title": "\u2018American Hostage\u2019 Review: Jon Hamm and Giovanni Ribisi in an MGM+ Kidnapping Thriller With Lots of Potential but Little Payoff",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/american-hostage-review-jon-hamm-mgm-1236705847/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T14:45:00+00:00"
-    },
-    {
-      "guid": "qpPaiotNiYkasq4dKq9fDT",
-      "title": "With \"11 kills, 12 kills at a time,\" battle royale hybrid Project Zeta is not your daddy's MOBA (or your brother's hero shooter)",
-      "url": "https://www.gamesradar.com/games/moba/with-11-kills-12-kills-at-a-time-battle-royale-hybrid-project-zeta-is-not-your-daddys-moba-or-your-brothers-hero-shooter/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T14:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1757164",
-      "title": "Marvel Studios Introduces a New Avengers Team in VisionQuest \u2014 Meet the MCU\u2019s AI Avengers",
-      "url": "https://otakukart.com/marvel-studios-introduces-a-new-avengers-team-in-visionquest-meet-the-mcus-ai-avengers/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T14:45:21+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1757120",
-      "title": "Pardon the Intrusion, I\u2019m Home! Mangaka Says There\u2019s \u201cNothing Wrong\u201d With Keeping a Creator\u2019s Identity Secret",
-      "url": "https://otakukart.com/pardon-the-intrusion-im-home-mangaka-says-theres-nothing-wrong-with-keeping-a-creators-identity-secret/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T14:29:17+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1757167",
-      "title": "Pardon the Intrusion, I\u2019m Home! Mangaka Says Creators Should Choose How They Publish Based on Their Own Well-Being",
-      "url": "https://otakukart.com/pardon-the-intrusion-im-home-mangaka-says-creators-should-choose-how-they-publish-based-on-their-own-well-being/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T14:19:49+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236868201",
       "title": "Spain\u2019s National Film Prize Honoree Carmen Machi: \u2018Acting Has Been the Driving Force of My Happiness and Also a Balm for My Darkest Moments\u2019",
       "url": "https://variety.com/2026/film/global/carmen-machi-spain-national-film-prize-honoree-1236868201/",
@@ -1201,6 +1153,30 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-09-19T17:15:00+00:00"
+    },
+    {
+      "guid": "108d7403-b6d5-49b1-97ec-bbbbcd5a276b",
+      "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
+      "url": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T19:08:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237108466",
+      "title": "Block The Merger & Elizabeth Warren Call Out AGs For Betrayal In Deal Talks With Paramount: \u201cA Win Only For David Ellison\u201d",
+      "url": "https://deadline.com/2026/09/paramount-settlement-opposition-1237108466/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T19:22:26+00:00"
+    },
+    {
+      "guid": "t3_1wkv08z",
+      "title": "Early Silent Hill Townfall gameplay uploaded by random italian youtuber",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wkv08z/early_silent_hill_townfall_gameplay_uploaded_by/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-19T19:21:11+00:00"
     }
   ]
 }
