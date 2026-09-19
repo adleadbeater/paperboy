@@ -1107,36 +1107,52 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237108249",
-      "title": "Kohner Agency Lays Off Its Talent Agents Due To \u201cProfound & Unprecedented Economic Pressures\u201d",
-      "url": "https://deadline.com/2026/09/the-kohner-agency-layoffs-talent-agents-downsizing-1237108249/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T01:13:33+00:00"
-    },
-    {
-      "guid": "t3_1wkbvyo",
-      "title": "Xbox Platinum trophy equivalent might be called Mythic achievement",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wkbvyo/xbox_platinum_trophy_equivalent_might_be_called/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T04:09:07+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236862823",
-      "title": "World Premiering at San Sebasti\u00e1n, Igor Legarreta Describes His Third Film \u2018The Blind Ants\u2019 as a Coastal Western Set in the Basque Country",
-      "url": "https://variety.com/2026/film/global/igor-legarreta-the-blind-ants-san-sebastian-lamia-lazona-1236862823/",
+      "guid": "https://variety.com/?p=1236866281",
+      "title": "\u2018Anchors Aweigh\u2019 Review: A Cynical Comedian Reflects on His Youth in an Abridged Mockumentary",
+      "url": "https://variety.com/2026/film/reviews/anchors-aweigh-review-1236866281/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-19T05:00:00+00:00"
+      "published_dt": "2026-09-19T14:18:47+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236705982",
-      "title": "Hudson Williams Shares How \u201cSurreal\u201d It Was for Him and Connor Storrie to Return to \u2018Heated Rivalry\u2019 Set",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/hudson-williams-heated-rivalry-tiff-conversation-1236705982/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236705847",
+      "title": "\u2018American Hostage\u2019 Review: Jon Hamm and Giovanni Ribisi in an MGM+ Kidnapping Thriller With Lots of Potential but Little Payoff",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/american-hostage-review-jon-hamm-mgm-1236705847/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-19T05:06:27+00:00"
+      "published_dt": "2026-09-19T14:45:00+00:00"
+    },
+    {
+      "guid": "qpPaiotNiYkasq4dKq9fDT",
+      "title": "With \"11 kills, 12 kills at a time,\" battle royale hybrid Project Zeta is not your daddy's MOBA (or your brother's hero shooter)",
+      "url": "https://www.gamesradar.com/games/moba/with-11-kills-12-kills-at-a-time-battle-royale-hybrid-project-zeta-is-not-your-daddys-moba-or-your-brothers-hero-shooter/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-19T14:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757164",
+      "title": "Marvel Studios Introduces a New Avengers Team in VisionQuest \u2014 Meet the MCU\u2019s AI Avengers",
+      "url": "https://otakukart.com/marvel-studios-introduces-a-new-avengers-team-in-visionquest-meet-the-mcus-ai-avengers/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-19T14:45:21+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757120",
+      "title": "Pardon the Intrusion, I\u2019m Home! Mangaka Says There\u2019s \u201cNothing Wrong\u201d With Keeping a Creator\u2019s Identity Secret",
+      "url": "https://otakukart.com/pardon-the-intrusion-im-home-mangaka-says-theres-nothing-wrong-with-keeping-a-creators-identity-secret/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-19T14:29:17+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757167",
+      "title": "Pardon the Intrusion, I\u2019m Home! Mangaka Says Creators Should Choose How They Publish Based on Their Own Well-Being",
+      "url": "https://otakukart.com/pardon-the-intrusion-im-home-mangaka-says-creators-should-choose-how-they-publish-based-on-their-own-well-being/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-19T14:19:49+00:00"
     }
   ]
 }
