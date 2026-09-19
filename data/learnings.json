@@ -1107,54 +1107,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236868201",
-      "title": "Spain\u2019s National Film Prize Honoree Carmen Machi: \u2018Acting Has Been the Driving Force of My Happiness and Also a Balm for My Darkest Moments\u2019",
-      "url": "https://variety.com/2026/film/global/carmen-machi-spain-national-film-prize-honoree-1236868201/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T17:27:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236868564",
-      "title": "Miley\u2019s \u2018Bass Persuades\u2019 Is Pretty and Passable, but Surprisingly Light on Bass\u2026 or Persuasion: Album Review",
-      "url": "https://variety.com/2026/music/news/miley-bass-persuades-album-review-1236868564/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T17:26:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236869611",
-      "title": "Cate Blanchett Tells Audience To Stop Recording Her London Play: \u2018It Spoils It for The Next Group of People\u2019",
-      "url": "https://variety.com/2026/theater/news/cate-blanchett-tells-audience-stop-recording-1236869611/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T17:09:56+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236705548",
-      "title": "Gov. Gavin Newsom Signs CA Postproduction Tax Credit Into Law",
-      "url": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-signs-ca-postproduction-tax-credit-into-law-1236705548/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T17:16:51+00:00"
-    },
-    {
-      "guid": "aC3hqxNQK8omjjQ4TSrx2X",
-      "title": "Late Nintendo president Satoru Iwata never wanted tons of Mario and Zelda sequels because that's \"not the kind of company I want Nintendo to be\"",
-      "url": "https://www.gamesradar.com/games/late-nintendo-president-satoru-iwata-never-wanted-tons-of-mario-and-zelda-sequels-because-thats-not-the-kind-of-company-i-want-nintendo-to-be/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=619328",
-      "title": "D&D: Five Of The Best New Feats In Arcana Unleashed",
-      "url": "https://www.belloflostsouls.net/2026/09/dd-five-of-the-best-new-feats-in-arcana-unleashed.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T17:15:00+00:00"
-    },
-    {
       "guid": "108d7403-b6d5-49b1-97ec-bbbbcd5a276b",
       "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
       "url": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
@@ -1177,6 +1129,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-19T19:21:11+00:00"
+    },
+    {
+      "guid": "a78193e8-7440-4862-af62-bc04f84b2114",
+      "title": "Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze",
+      "url": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T21:29:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237108505",
+      "title": "Aaron Rowe Defends Ed Sheeran After Dropping Out Of Tour: \u201cHuman F*cking Error\u201d",
+      "url": "https://deadline.com/2026/09/aaron-rowe-defends-ed-sheeran-1237108505/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T21:47:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236869711",
+      "title": "\u2018Sweet Magnolias\u2019 Creator Reacts to Netflix Cancellation: \u2018I Hope Serenity Will Always Have a Place in Your Heart\u2019",
+      "url": "https://variety.com/2026/tv/news/sweet-magnolias-netflix-cancellation-1236869711/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T21:19:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236706124",
+      "title": "Naomi Watts Dedicates Donostia Award to Her \u2018Mulholland Drive\u2019 Director David Lynch: \u201cI Miss You\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-san-sebastian-donostia-award-david-lynch-film-1236706124/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T21:19:07+00:00"
     }
   ]
 }
