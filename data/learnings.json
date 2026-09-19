@@ -1107,30 +1107,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "108d7403-b6d5-49b1-97ec-bbbbcd5a276b",
-      "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
-      "url": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T19:08:59+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237108466",
-      "title": "Block The Merger & Elizabeth Warren Call Out AGs For Betrayal In Deal Talks With Paramount: \u201cA Win Only For David Ellison\u201d",
-      "url": "https://deadline.com/2026/09/paramount-settlement-opposition-1237108466/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-19T19:22:26+00:00"
-    },
-    {
-      "guid": "t3_1wkv08z",
-      "title": "Early Silent Hill Townfall gameplay uploaded by random italian youtuber",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wkv08z/early_silent_hill_townfall_gameplay_uploaded_by/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-19T19:21:11+00:00"
-    },
-    {
       "guid": "a78193e8-7440-4862-af62-bc04f84b2114",
       "title": "Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze",
       "url": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
@@ -1161,6 +1137,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-19T21:19:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236869723",
+      "title": "Ruby Rose Remembers \u2018Best Friend\u2019 Hayden Panettiere: \u2018All That She Ever Wanted Was to Have Her Story Told\u2019",
+      "url": "https://variety.com/2026/film/news/ruby-rose-remembers-hayden-panettiere-1236869723/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T23:21:53+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236706164",
+      "title": "Melissa Barrera Says It\u2019s \u201cBeautiful\u201d to See Macklemore Receive Support After Ed Sheeran Tour Firing: \u201cI Didn\u2019t Get That When It Happened to Me\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-news/melissa-barrera-macklemore-palestine-ed-sheeran-1236706164/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-19T23:24:51+00:00"
     }
   ]
 }
