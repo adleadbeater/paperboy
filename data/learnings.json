@@ -1107,46 +1107,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237107316",
-      "title": "\u2018Resident Evil\u2019 Scores $60M U.S. Opening: Best Ever For Zach Cregger & Franchise \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/09/box-office-resident-evil-1237107316/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-20T14:41:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236867659",
-      "title": "Box Office: \u2018Resident Evil\u2019 Breaks Franchise Records With $60 Million Opening Weekend",
-      "url": "https://variety.com/2026/film/box-office/resident-evil-box-office-zach-cregger-reboot-opening-weekend-record-breaking-1236867659/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-20T14:42:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236706326",
-      "title": "Inside the Star-Studded Opening Night of the Lucas Museum: \u201cA New Institution Is Being Born\u201d",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/inside-star-studded-opening-night-lucas-museum-1236706326/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-20T14:41:59+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236706120",
-      "title": "\u2018Forgotten Island\u2019 Review: Dreamworks Animation\u2019s Latest Celebrates Filipino Folklore With Dazzling Wit and Imagination",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/forgotten-island-review-dreamworks-animation-1236706120/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-20T14:38:22+00:00"
-    },
-    {
-      "guid": "t3_1wligt7",
-      "title": "Jason Schreier: Sony and Kojima Productions Were in Negotiations Over Physint Before Its Cancellation",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wligt7/jason_schreier_sony_and_kojima_productions_were/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-20T14:25:31+00:00"
-    },
-    {
       "guid": "08ca3f9c-8ea9-468f-a99b-0845d1818131",
       "title": "Poppy Playtime Spinoff Escape from Playtime Gets Early Access Release Date",
       "url": "https://www.ign.com/articles/poppy-playtime-spinoff-escape-from-playtime-gets-early-access-release-date",
@@ -1193,6 +1153,38 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-09-20T17:14:00+00:00"
+    },
+    {
+      "guid": "pMHsRKFpKkcfWyzSusCkCD",
+      "title": "Elden Ring Nightreign is dead, but modders are dabbing on its corpse, with one porting an entire Dark Souls 2 DLC zone as a playable map",
+      "url": "https://www.pcgamer.com/games/action/elden-ring-nightreign-is-dead-but-modders-are-dabbing-on-its-corpse-with-one-porting-an-entire-dark-souls-2-dlc-zone-as-a-playable-map/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-20T18:38:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236870453",
+      "title": "Alan Ritchson Says \u2018Jack Reacher\u2019 Planned to Adapt \u2018Die Trying\u2019 Book for a Future Season Before \u2018Someone Got Re-Elected\u2019",
+      "url": "https://variety.com/2026/tv/news/alan-ritchson-jack-reacher-novel-die-trying-1236870453/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-20T18:50:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704656",
+      "title": "Toronto: 5 Things the Fest Told Us About the Oscar Race",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/5-things-2026-toronto-film-fest-revealed-oscar-race-1236704656/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-20T18:59:33+00:00"
+    },
+    {
+      "guid": "t3_1wlp0ze",
+      "title": "Ace Attorney 7 could be getting announced on Oct 12th.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wlp0ze/ace_attorney_7_could_be_getting_announced_on_oct/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-20T18:39:11+00:00"
     }
   ]
 }
