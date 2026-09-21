@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "IGN Layoffs Hit Multiple Departments and Long-Time Hosts, Sources Say",
-      "tag": "ign",
-      "posted_at": "2026-09-14T20:30:57.486693+00:00",
-      "urls": [
-        "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361"
-      ],
-      "article_titles": [
-        "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts"
-      ]
-    },
-    {
       "headline": "007 First Light Gets Delayed on Switch 2 Again \u2014 Now Nearly a Year Behind Other Platforms",
       "tag": "007 first light",
       "posted_at": "2026-09-15T13:00:51.689306+00:00",
@@ -988,195 +977,24 @@
       "article_titles": [
         "Lawsuit Forces 2K To Explain Why NBA 2K Players Can\u2019t Transfer Digital Currency: \u2018You Have No Ownership Or Other Rights\u2019 To Virtual Items"
       ]
+    },
+    {
+      "headline": "Daredevil: Born Again Will End With Season 3",
+      "tag": "daredevil: born again",
+      "posted_at": "2026-09-21T21:00:43.216550+00:00",
+      "urls": [
+        "https://variety.com/2026/tv/news/daredevil-born-again-ending-season-3-marvel-disney-1236871454/",
+        "https://www.hollywoodreporter.com/tv/tv-news/daredevil-born-again-ending-season-3-showrunner-change-1236705406/"
+      ],
+      "article_titles": [
+        "\u2018Daredevil: Born Again\u2019 Ending With Season 3",
+        "\u2018Daredevil: Born Again\u2019 to End With Season 3 (Exclusive)"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-      "title": "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October",
-      "url": "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:41:09+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000736178",
-      "title": "A Humbled Bungie Tries To Hit The Reset Button After Years Of Mistakes: \u2018We Lost Trust, We Lost Incredible Colleagues, And We Lost Sight Of What We Should Be Prioritizing Most\u2019",
-      "url": "https://kotaku.com/a-humbled-bungie-tries-to-hit-the-reset-button-after-years-of-mistakes-we-lost-trust-we-lost-incredible-colleagues-and-we-lost-sight-of-what-we-should-be-prioritizing-most-2000736178",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:37:19+00:00"
-    },
-    {
-      "guid": "C6Z2MEnuvmCQzbGQq3B3xk",
-      "title": "GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237108405",
-      "title": "CAPE Showrunner Incubator Program Sets 2026 Class; Kelvin Yu Joins As Co-Chair",
-      "url": "https://deadline.com/2026/09/cape-showrunner-incubator-program-2026-class-1237108405/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109331",
-      "title": "Netflix\u2019s Liz Franco Joins Amazon\u2019s Nonfiction Team",
-      "url": "https://deadline.com/2026/09/netflix-exec-liz-franco-joins-amazons-nonfiction-team-1237109331/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:55:22+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109271",
-      "title": "Watch California AG Rob Bonta\u2019s News Conference On Paramount Settlement Agreement Here",
-      "url": "https://deadline.com/2026/09/rob-bonta-ca-ag-news-conference-livestream-paramount-1237109271/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:54:36+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109281",
-      "title": "Camden Film Festival: \u2018Dependence,\u2019 \u2018Revolutionaries Never Die,\u2019 \u2018Bucks Harbor\u2019 Take Top Awards",
-      "url": "https://deadline.com/2026/09/2026-camden-film-festival-awards-1237109281/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:51:11+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109286",
-      "title": "Oscars: Jordan Selects Zain Duraie\u2019s \u2018Sink\u2019 For Best International Feature Film Entry",
-      "url": "https://deadline.com/2026/09/oscars-jordan-zain-duraie-sink-best-international-feature-1237109286/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:34:28+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871208",
-      "title": "SCAD Savannah Film Festival to Open With \u2018A Talent for Murder\u2019 and Legend of Entertainment Honor for Helen Mirren",
-      "url": "https://variety.com/2026/film/awards/helen-mirren-scad-film-festival-talent-for-murder-1236871208/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236867058",
-      "title": "Anne Hathaway to Campaign in Supporting Actress for Christopher Nolan\u2019s \u2018The Odyssey\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/awards/anne-hathaway-the-odyssey-supporting-actress-oscars-campaign-1236867058/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871254",
-      "title": "Warner Chappell Co-Chair/COO Carianne Marshall to Step Down From Post",
-      "url": "https://variety.com/2026/music/news/warner-chappell-carianne-marshall-step-down-1236871254/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:44:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236697962",
-      "title": "Anjanette Comer, Actress in \u2018The Loved One\u2019 and \u2018The Appaloosa,\u2019 Dies at 86",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:57:18+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236706945",
-      "title": "Warner Chappell COO and Co-Chair Carianne Marshall to Depart",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/warner-chappell-carianne-marshall-to-depart-1236706945/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T16:31:03+00:00"
-    },
-    {
-      "guid": "S6hkiWuY8reaNxCaveLufm",
-      "title": "With $3 million in Steam pre-orders, publisher says its horror-themed Stardew Valley-like \"might be massive\"",
-      "url": "https://www.gamesradar.com/games/simulation/with-usd3-million-in-steam-pre-orders-publisher-says-its-horror-themed-stardew-valley-like-might-be-massive/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:54:55+00:00"
-    },
-    {
-      "guid": "8CkuHpBqRvfK7dmvLeGWUC",
-      "title": "Bungie admits Marathon \"did not reach as many players as we had hoped,\" shares plans to evolve the game for \"a sustainable future\" while committing to Destiny",
-      "url": "https://www.gamesradar.com/games/fps/bungie-admits-marathon-did-not-reach-as-many-players-as-we-had-hoped-shares-plans-to-evolve-the-game-for-a-sustainable-future-while-committing-to-destiny/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:41:00+00:00"
-    },
-    {
-      "guid": "YGftWhDEPDFmqwv6DiFRnY",
-      "title": "Hideo Kojima says Xbox had \"never seen\" anything like Physint, which is impressive considering it was the only publisher that didn't think his OD pitch was \"crazy\"",
-      "url": "https://www.gamesradar.com/games/action/hideo-kojima-says-xbox-had-never-seen-anything-like-physint-which-is-impressive-considering-it-was-the-only-publisher-that-didnt-think-his-od-pitch-was-crazy/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:34:49+00:00"
-    },
-    {
-      "guid": "MoZsNL6Ws64DuiAcJh6thd",
-      "title": "After 25 years, it looked like the Madden curse was finally dead, but a scary injury for Madden 27 star Caleb Williams is creating a new generation of believers",
-      "url": "https://www.gamesradar.com/games/madden-nfl/after-25-years-it-looked-like-the-madden-curse-was-finally-dead-but-a-scary-injury-for-madden-27-star-caleb-williams-is-creating-a-new-generation-of-believers/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:33:01+00:00"
-    },
-    {
-      "guid": "hQQ7JtncvuwKXy4n8MDtSR",
-      "title": "Bungie says \"we are not done with Destiny\" and promises to restore all that content it deleted: \"What's rightfully yours\"",
-      "url": "https://www.gamesradar.com/games/destiny/bungie-says-we-are-not-done-with-destiny-and-promises-to-restore-all-that-content-it-deleted-whats-rightfully-yours/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:31:05+00:00"
-    },
-    {
-      "guid": "1891181",
-      "title": "Destiny Isn\u2019t Dead After All, Bungie Admits It Lost Sight Of What Players Loved",
-      "url": "https://www.gamespot.com/articles/destiny-isnt-dead-after-all-bungie-admits-it-lost-sight-of-what-players-loved/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:36:20+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206613",
-      "title": "'We Are Not Done with Destiny': Bungie Commits to Sci-Fi Series After Fan Backlash, Restores Destiny 2 Content",
-      "url": "https://www.pushsquare.com/news/2026/09/we-are-not-done-with-destiny-bungie-commits-to-sci-fi-series-after-fan-backlash-restores-destiny-2-content",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123370",
-      "title": "Honkai: Star Rail Zenless Zone Zero Crossover Starts in 4.8",
-      "url": "https://www.siliconera.com/honkai-star-rail-zenless-zone-zero-crossover-starts-in-4-8/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1080287",
-      "title": "Legacy of Kain: Defiance Remastered physical editions launch November 13",
-      "url": "https://www.gematsu.com/2026/09/legacy-of-kain-defiance-remastered-physical-editions-launch-november-13",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:47:28+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1080268",
-      "title": "Bungie to restore vaulted Destiny 2 content, evolve Marathon",
-      "url": "https://www.gematsu.com/2026/09/bungie-to-restore-vaulted-destiny-2-content-evolve-marathon",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T16:36:17+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
       "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
@@ -1192,14 +1010,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-09-21T17:07:55+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000736097",
-      "title": "Ken Jennings Proves He\u2019s A Born Poster, References \u2018Slut Gnomes\u2019 Meme In Jeopardy! Categories",
-      "url": "https://kotaku.com/ken-jennings-jeopardy-slut-gnomes-false-berlin-2000736097",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T17:00:03+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237109358",
@@ -1712,6 +1522,70 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-21T20:00:11+00:00"
+    },
+    {
+      "guid": "b3dae7c0-f53f-4b39-82b3-c0963b2a02ba",
+      "title": "Best Buy Is Offering $900 Off the Alienware 16X Aurora RTX 5060 Gaming Laptop for One Day Only",
+      "url": "https://www.ign.com/articles/alienware-16x-aurora-gaming-laptop-deal-september-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T20:35:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736195",
+      "title": "The Blood Of Dawnwalker\u2019s First Big Patch Will Add An Easier Difficulty That Eliminates Combat",
+      "url": "https://kotaku.com/the-blood-of-dawnwalker-patch-october-new-difficulty-2000736195",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T20:30:47+00:00"
+    },
+    {
+      "guid": "AtMPgid4TCXsMwAwuQHXAT",
+      "title": "'All roads lead back to Arma'",
+      "url": "https://www.pcgamer.com/games/fps/all-roads-lead-back-to-arma/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T20:39:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109547",
+      "title": "Paramount Shares Fall After Antitrust Deal, But Wall Streeters Marvel At Favorable Terms",
+      "url": "https://deadline.com/2026/09/paramount-stock-antitrust-settlement-wall-street-1237109547/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T20:38:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109563",
+      "title": "Donald Trump Vows To Appeal Ruling In Networks\u2019 White House Ban Lawsuit, Even Though Judge Has Yet To Rule",
+      "url": "https://deadline.com/2026/09/trump-white-house-ban-judge-appeal-1237109563/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T20:37:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871454",
+      "title": "\u2018Daredevil: Born Again\u2019 Ending With Season 3",
+      "url": "https://variety.com/2026/tv/news/daredevil-born-again-ending-season-3-marvel-disney-1236871454/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T20:51:46+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707168",
+      "title": "CNN and CBS News Will Soon Have An \u201cEditorial Independence Board.\u201d Here\u2019s What That Means",
+      "url": "https://www.hollywoodreporter.com/business/business-news/new-cnn-cbs-news-editorial-indepedence-board-who-what-why-1236707168/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T20:51:55+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123402",
+      "title": "It\u2019s Time for Siliconera\u2019s 2026 Site Survey",
+      "url": "https://www.siliconera.com/its-time-for-siliconeras-2026-site-survey/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T21:00:00+00:00"
     }
   ]
 }
