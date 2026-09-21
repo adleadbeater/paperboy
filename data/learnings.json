@@ -1044,92 +1044,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000736052",
-      "title": "Pok\u00e9mon\u2019s 30th Celebration Cards Are Causing Scalpers To Spectacularly Crash Out",
-      "url": "https://kotaku.com/pokemon-tcg-30th-anniversary-set-prices-scalpers-resale-reddit-2000736052",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:00:46+00:00"
-    },
-    {
-      "guid": "UwBGKRSDJ7VxHsU7vZ5EK9",
-      "title": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
-      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:07:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109198",
-      "title": "Networks Halt TV Pool Coverage Of Trump In Protest Of President\u2019s Ban On CNN",
-      "url": "https://deadline.com/2026/09/trump-white-house-ban-network-pool-boycott-1237109198/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:16:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871070",
-      "title": "Major TV Networks Suspend White House Pool Coverage of Trump in Protest of His CNN Ban",
-      "url": "https://variety.com/2026/tv/news/tv-networks-suspend-white-house-pool-protest-trump-cnn-ban-1236871070/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:26:19+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871035",
-      "title": "Kit Harington Says Joining \u2018Harry Potter\u2019 Series Was a \u2018Very Simple \u201cYes, Please!\u201d\u2019: \u2018I\u2019m a Bit of a Nerd for It\u2019",
-      "url": "https://variety.com/2026/tv/global/kit-harington-harry-potter-series-simple-yes-please-1236871035/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:10:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236706861",
-      "title": "Movie Theater Advertising Giant Closes $275 Million Deal to Expand to Offices",
-      "url": "https://www.hollywoodreporter.com/business/business-news/national-cinemedia-offices-1236706861/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:12:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236706879",
-      "title": "Netflix\u2019s \u2018Cliff Booth\u2019 Trailer Has Brad Pitt Taking a Playful Poke at Leonardo DiCaprio",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-cliff-booth-trailer-brad-pitt-leonardo-dicaprio-1236706879/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:06:50+00:00"
-    },
-    {
-      "guid": "HZGLoqWjqjuUwHYZwcCc5h",
-      "title": "Razer's upgraded do-it-all Naga V3 Pro sings in my scattered Steam library, but genre-focused players should be wary",
-      "url": "https://www.gamesradar.com/hardware/gaming-mice/razer-naga-v3-pro-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T14:04:58+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1080263",
-      "title": "Blighted delayed to 2027",
-      "url": "https://www.gematsu.com/2026/09/blighted-delayed-to-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T14:14:12+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
       "title": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine",
       "url": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine",
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-09-21T14:37:11+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000736061",
-      "title": "High-Definition Footage Of Pok\u00e9mon Ruby And Sapphire On Official Pok\u00e9mon Socials Sparks Nintendo Switch Port Speculation",
-      "url": "https://kotaku.com/high-definition-footage-of-pokemon-ruby-and-sapphire-on-official-pokemon-socials-sparks-nintendo-switch-port-speculation-2000736061",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T14:30:25+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237109068",
@@ -1178,14 +1098,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-09-21T14:33:56+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206600",
-      "title": "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff",
-      "url": "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T14:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123358",
@@ -2002,6 +1914,94 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-21T17:57:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109406",
+      "title": "Roel Rein\u00e9 To Direct \u2018Lunar Colony\u2019; Billed As Sci-Fi Thriller Meets Space Age \u2018Romeo & Juliet\u2019",
+      "url": "https://deadline.com/2026/09/roel-reine-lunar-colony-space-thriller-meets-romeo-juliet-1237109406/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:15:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109412",
+      "title": "Taylor Frankie Paul Says She Doesn\u2019t \u201cDesire To Move Forward\u201d With \u2018The Secret Lives Of Mormon Wives\u2019",
+      "url": "https://deadline.com/2026/09/taylor-frankie-paul-quits-the-secret-lives-of-mormon-wives-1237109412/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:09:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109397",
+      "title": "Read The Proposed Consent Decree To Settle The Paramount-Warner Bros. Discovery Merger",
+      "url": "https://deadline.com/2026/09/paramount-warner-bros-discovery-consent-decree-1237109397/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:03:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109392",
+      "title": "David Ellison Says \u201cWe Have Complete Clearance For This Merger\u201d After Settlement With State AGs Over Paramount WBD",
+      "url": "https://deadline.com/2026/09/david-ellison-reaction-paramount-wbd-settlement-state-ags-1237109392/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:03:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871354",
+      "title": "WGA Settles Antitrust Lawsuit With Paramount Over Warner Bros. Discovery Merger",
+      "url": "https://variety.com/2026/film/news/wga-settles-lawsuit-paramount-skydance-warner-bros-merger-1236871354/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:17:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871327",
+      "title": "David Ellison Says Paramount Hopes to Close Warner Bros. Deal in \u2018Approximately Two Weeks\u2019 in Staff Memo",
+      "url": "https://variety.com/2026/film/news/david-ellison-paramount-warner-deal-staff-memo-1236871327/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:06:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236706935",
+      "title": "That\u2019s All? Team Paramount Nabs Warner Bros. With Only Minor Concessions to States",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-states-1236706935/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:24:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236705365",
+      "title": "Zendaya Rules All, Once Again, in the Emmys Red Carpet Power Rankings",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/emmys-2026-zendaya-red-carpet-power-rankings-1236705365/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T18:18:39+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206615",
+      "title": "Sony Seemingly Incentivising Digital PS5 Purchases with Cashback",
+      "url": "https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/dropzone-commander-starter-box-review/",
+      "title": "Dropzone Commander - Starter Box Review",
+      "url": "https://www.tabletopbattles.com/dropzone-commander-starter-box-review/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T18:00:27+00:00"
+    },
+    {
+      "guid": "t3_1wmkzw9",
+      "title": "Zelda movie announcement/trailer possibly coming tomorrow",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wmkzw9/zelda_movie_announcementtrailer_possibly_coming/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T18:25:43+00:00"
     }
   ]
 }
