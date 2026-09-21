@@ -996,30 +996,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-      "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
-      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T17:06:26+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000736189",
-      "title": "Marathon Didn\u2019t Reach As Many Players As Bungie \u2018Hoped\u2019 And \u2018Needs To Evolve\u2019",
-      "url": "https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T17:07:55+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109358",
-      "title": "Oscars: Egypt Selects Amir El-Masry Starrer \u2018The Stories\u2019 As Best International Feature Film Entry",
-      "url": "https://deadline.com/2026/09/oscars-egypt-the-stories-best-international-feature-1237109358/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T17:08:44+00:00"
-    },
-    {
       "guid": "jKkccwvEmcjqzSQ82EXBEU",
       "title": "Wait, how did Lego beat Minecraft to making a city builder?",
       "url": "https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/",
@@ -1586,6 +1562,38 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-21T21:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736216",
+      "title": "Destiny 2 Fans Declare Victory After Months Of Crashing Out: \u2018It Worked\u2019",
+      "url": "https://kotaku.com/destiny-2-fans-declare-victory-after-months-of-crashing-out-it-worked-2000736216",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T21:00:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707140",
+      "title": "\u2018Resident Evil\u2019 Star Austin Abrams Breaks Down the \u201cRisky and Gutsy\u201d Ending",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/resident-evil-austin-abrams-breaks-down-ending-1236707140/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T21:06:28+00:00"
+    },
+    {
+      "guid": "gtU5as5e6CevqdhsK9ugvh",
+      "title": "Former Valve writer says \"giant teams just don't work\" in video game development, unless you're making GTA 6",
+      "url": "https://www.gamesradar.com/games/former-valve-writer-says-giant-teams-just-dont-work-in-video-game-development-unless-youre-making-gta-6/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T20:59:51+00:00"
+    },
+    {
+      "guid": "JLg7kdcegVtJTFvvAvBGjh",
+      "title": "The best Elden Ring mod is coming to the worst Dark Souls game tomorrow, and the new seamless co-op also has prox chat and quality-of-life fixes",
+      "url": "https://www.gamesradar.com/games/dark-souls/the-best-elden-ring-mod-is-coming-to-the-worst-dark-souls-game-tomorrow-and-the-new-seamless-co-op-also-has-prox-chat-and-quality-of-life-fixes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T20:56:24+00:00"
     }
   ]
 }
