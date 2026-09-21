@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A Major Ubisoft Fall Game Just Got Pushed Back Two Months",
-      "tag": "ubisoft",
-      "posted_at": "2026-09-14T17:01:16.695321+00:00",
-      "urls": [
-        "https://kotaku.com/ubisofts-only-new-game-releasing-this-fall-just-got-a-two-month-delay-2000734298"
-      ],
-      "article_titles": [
-        "One Of Ubisoft\u2019s Only New Games Releasing This Fall Just Got A Two Month Delay"
-      ]
-    },
-    {
-      "headline": "Valve's Steam Frame VR Headset Launches at $1,059 \u2014 But Who Is It Actually For?",
-      "tag": "steam frame",
-      "posted_at": "2026-09-14T17:06:28.232759+00:00",
-      "urls": [
-        "https://kotaku.com/im-not-sure-about-valves-new-1000-vr-headset-2000734260",
-        "https://www.pcgamer.com/hardware/vr-hardware/steam-frame-starts-at-usd1-059-with-reservation-lottery-open-now-enter-before-september-17-for-best-chance-of-getting-one-this-year/"
-      ],
-      "article_titles": [
-        "I Tested Valve\u2019s New $1,000+ VR Headset And I Have No Idea Who It\u2019s For In 2026",
-        "Steam Frame starts at $1,059 and you'll want to enter the stock lottery before September 17 for a higher chance of getting one this year"
-      ]
-    },
-    {
       "headline": "Rayman Legends Retold Delayed Two Months Despite Going Gold",
       "tag": "rayman legends retold",
       "posted_at": "2026-09-14T17:31:18.191671+00:00",
@@ -1049,6 +1025,19 @@
       "article_titles": [
         "Kingdom Come: Deliverance 2 Is Coming to Nintendo Switch 2 \u2013 Here\u2019s Where You Can Preorder It"
       ]
+    },
+    {
+      "headline": "The Blood of Dawnwalker's First Big Patch Adds New Difficulty Options and Combat Overhaul",
+      "tag": "the blood of dawnwalker",
+      "posted_at": "2026-09-21T17:15:11.377785+00:00",
+      "urls": [
+        "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update",
+        "https://www.eurogamer.net/blood-of-dawnwalker-difficulty-combat-patch-update"
+      ],
+      "article_titles": [
+        "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October",
+        "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1869,6 +1858,38 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-21T16:36:17+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+      "title": "Bungie is freeing vaulted Destiny 2 campaigns after Marathon \"did not reach as many players as we had hoped\"",
+      "url": "https://www.eurogamer.net/bungie-vaulted-destiny-2-campaigns-marathon-future",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T17:06:26+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736189",
+      "title": "Marathon Didn\u2019t Reach As Many Players As Bungie \u2018Hoped\u2019 And \u2018Needs To Evolve\u2019",
+      "url": "https://kotaku.com/marathon-didnt-reach-as-many-players-as-bungie-hoped-and-needs-to-evolve-2000736189",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T17:07:55+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736097",
+      "title": "Ken Jennings Proves He\u2019s A Born Poster, References \u2018Slut Gnomes\u2019 Meme In Jeopardy! Categories",
+      "url": "https://kotaku.com/ken-jennings-jeopardy-slut-gnomes-false-berlin-2000736097",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T17:00:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109358",
+      "title": "Oscars: Egypt Selects Amir El-Masry Starrer \u2018The Stories\u2019 As Best International Feature Film Entry",
+      "url": "https://deadline.com/2026/09/oscars-egypt-the-stories-best-international-feature-1237109358/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T17:08:44+00:00"
     }
   ]
 }
