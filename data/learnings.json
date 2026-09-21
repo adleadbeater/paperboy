@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Netflix and Sega Partner on Crazy Taxi Movie, New Sonic Series, and More",
-      "tag": "sega",
-      "posted_at": "2026-09-14T16:01:38.821338+00:00",
-      "urls": [
-        "https://deadline.com/2026/09/crazy-taxi-stranger-than-heaven-movies-netflix-sonic-1237101775/",
-        "https://variety.com/2026/film/news/crazy-taxi-movie-netflix-sega-sonic-stranger-than-heaven-1236861148/",
-        "https://www.hollywoodreporter.com/tv/tv-news/netflix-sega-crazy-taxi-game-film-1236700478/"
-      ],
-      "article_titles": [
-        "Netflix and Sega Set \u2018Crazy Taxi\u2019 Film; \u2018Sonic\u2019 & \u2018Stranger Than Heaven\u2019 Adaptations Also Part Of New Slate Partnership",
-        "\u2018Crazy Taxi\u2019 Comedy Movie Coming From Netflix and Sega, New \u2018Sonic\u2019 TV Series and \u2018Stranger Than Heaven\u2019 Film in the Works",
-        "Netflix and Sega Set \u2018Crazy Taxi\u2019 Game-to-Film Adaptation"
-      ]
-    },
-    {
-      "headline": "Redfall's Co-Director Says Arkane \"Never Should Have Been Working on a Games-as-a-Service Game\"",
-      "tag": "redfall",
-      "posted_at": "2026-09-14T16:01:39.013634+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/fps/redfall-co-director-harvey-smith-thinks-arkane-never-should-have-been-working-on-a-games-as-a-service-game/"
-      ],
-      "article_titles": [
-        "Redfall co-director Harvey Smith thinks Arkane 'never should have been working on a games-as-a-service game'"
-      ]
-    },
-    {
       "headline": "A Major Ubisoft Fall Game Just Got Pushed Back Two Months",
       "tag": "ubisoft",
       "posted_at": "2026-09-14T17:01:16.695321+00:00",
@@ -1001,6 +975,54 @@
       "article_titles": [
         "Bethesda Updates Oblivion Remastered On Switch 2, Makes It Worse"
       ]
+    },
+    {
+      "headline": "Final Fantasy 7 Revelation Will Let You Auto-Level and Skip the Grind After Rebirth Fatigue",
+      "tag": "final fantasy 7 revelation",
+      "posted_at": "2026-09-21T16:31:15.905314+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lets-you-automatically-level-characters-and-blast-through-the-campaign-after-rebirth-players-begged-director-naoki-hamaguchi-for-a-break-from-the-jrpg-grind/",
+        "https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff"
+      ],
+      "article_titles": [
+        "Final Fantasy 7 Revelation lets you automatically level characters and blast through the campaign after Rebirth players begged director Naoki Hamaguchi for a break from the JRPG grind",
+        "Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff"
+      ]
+    },
+    {
+      "headline": "PlayStation's Secret Rewards Program Has Started Handing Out Wallet Credits to Some Players",
+      "tag": "playstation",
+      "posted_at": "2026-09-21T16:31:16.104709+00:00",
+      "urls": [
+        "https://kotaku.com/unannounced-playstation-rewards-program-handing-out-wallet-credits-to-some-players-2000736137",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wmg1fn/unannounced_playstation_rewards_program_live_on/"
+      ],
+      "article_titles": [
+        "Unannounced PlayStation Rewards Program Handing Out Wallet Credits To Some Players",
+        "Unannounced PlayStation Rewards Program Live on PS Store"
+      ]
+    },
+    {
+      "headline": "Destiny 2's Vaulted Red War Content Is Coming Back After Six Years: 'We Are Not Done With Destiny'",
+      "tag": "destiny 2",
+      "posted_at": "2026-09-21T16:31:16.303432+00:00",
+      "urls": [
+        "https://kotaku.com/destiny-2s-red-war-and-other-vaulted-content-is-coming-back-over-six-years-later-2000736168"
+      ],
+      "article_titles": [
+        "Destiny 2\u2032s Red War And Other Vaulted Content Is Coming Back Over Six Years Later: \u2018We Are Not Done With Destiny\u2018"
+      ]
+    },
+    {
+      "headline": "Bethesda Is Suing Over a Doom-Themed Memecoin Promoted by a Former Doom Designer",
+      "tag": "doom",
+      "posted_at": "2026-09-21T16:31:16.500723+00:00",
+      "urls": [
+        "https://kotaku.com/bethesda-legal-action-doom-memecoin-designer-2000735731"
+      ],
+      "article_titles": [
+        "Bethesda Is Taking Legal Action Against Doom-Themed Memecoin Promoted By Former Doom Designer"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1493,6 +1515,134 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-21T15:41:50+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736109",
+      "title": "StarCraft \u2018Won\u2019t Be Exclusive,\u2019 Says Blizzard",
+      "url": "https://kotaku.com/starcraft-wont-be-exclusive-says-blizzard-2000736109",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:15:29+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736137",
+      "title": "Unannounced PlayStation Rewards Program Handing Out Wallet Credits To Some Players",
+      "url": "https://kotaku.com/unannounced-playstation-rewards-program-handing-out-wallet-credits-to-some-players-2000736137",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:15:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736168",
+      "title": "Destiny 2\u2032s Red War And Other Vaulted Content Is Coming Back Over Six Years Later: \u2018We Are Not Done With Destiny\u2018",
+      "url": "https://kotaku.com/destiny-2s-red-war-and-other-vaulted-content-is-coming-back-over-six-years-later-2000736168",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:10:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000735731",
+      "title": "Bethesda Is Taking Legal Action Against Doom-Themed Memecoin Promoted By Former Doom Designer",
+      "url": "https://kotaku.com/bethesda-legal-action-doom-memecoin-designer-2000735731",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:00:49+00:00"
+    },
+    {
+      "guid": "bN7T4E8ho5EhN6aSyspWAk",
+      "title": "Oh good, the pervert's back",
+      "url": "https://www.pcgamer.com/games/action/oh-good-the-perverts-back/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:06:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871216",
+      "title": "American Film Market Partners With AMC A-List and B-List Movie Club to Offer Screenings to Frequent Moviegoers",
+      "url": "https://variety.com/2026/film/global/american-film-market-partners-amc-a-list-screenings-1236871216/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:27:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871056",
+      "title": "RT Features\u2019 \u2018Bodies of Summer,\u2019 From Berlin Winner Iv\u00e1n Fund, Starring Lee Kang-sheng, Miranda de la Serna and Marcelo Subiotto, Unveils First Look (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/rt-features-bodies-of-summer-ivan-fund-rodrigo-teixeira-1236871056/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:10:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236679980",
+      "title": "Inside \u2018The Love Hypothesis\u2019: How Director Claire Scanlon, Star Lili Reinhart and More Adapted BookTok\u2019s Biggest Obsession",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/making-of-the-love-hypothesis-movie-1236679980/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236706704",
+      "title": "Sutton Foster Brings the Charm (and Hugh Jackman!) to a Jazz-Infused Los Angeles Show",
+      "url": "https://www.hollywoodreporter.com/music/music-news/sutton-foster-performs-hugh-jackman-pacific-jazz-orchestra-1236706704/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T16:02:30+00:00"
+    },
+    {
+      "guid": "vzfraqaW98gv9aLXU68kNj",
+      "title": "2 billion years of Minecraft running in a simulation finds that the game can roll credits all on its own: \"The same golem wandered The End for 18 million years\"",
+      "url": "https://www.gamesradar.com/games/minecraft/2-billion-years-of-minecraft-running-in-a-simulation-finds-that-the-game-can-roll-credits-all-on-its-own-the-same-golem-wandered-the-end-for-18-million-years/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T16:26:07+00:00"
+    },
+    {
+      "guid": "JP2oovaQQ9cLLCgbpeQnVF",
+      "title": "Final Fantasy 7 Revelation lets you automatically level characters and blast through the campaign after Rebirth players begged director Naoki Hamaguchi for a break from the JRPG grind",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-lets-you-automatically-level-characters-and-blast-through-the-campaign-after-rebirth-players-begged-director-naoki-hamaguchi-for-a-break-from-the-jrpg-grind/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T16:18:56+00:00"
+    },
+    {
+      "guid": "SJimZRqZ8jUAdk3XDDLPuL",
+      "title": "Sony is teaming up with Blackpink's Lisa to release a limited edition DualSense controller, and I need it in my area",
+      "url": "https://www.gamesradar.com/hardware/accessories/sony-is-teaming-up-with-blackpinks-lisa-to-release-a-limited-edition-dualsense-controller-and-i-need-it-in-my-area/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T16:15:56+00:00"
+    },
+    {
+      "guid": "Edvk7nQnAdGn9hPyrwcnt4",
+      "title": "What's new in The Witcher 3 Remastered?",
+      "url": "https://www.gamesradar.com/games/the-witcher/witcher-3-remastered-changes-new/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T16:07:07+00:00"
+    },
+    {
+      "guid": "aMcet8qvHJa6m8ZojudXKX",
+      "title": "There's still plenty of time to secure your Silent Hill Townfall pre-order, but its flashy steelbook is disappearing into the fog",
+      "url": "https://www.gamesradar.com/games/theres-still-plenty-of-time-to-secure-your-silent-hill-townfall-pre-order-but-its-flashy-steelbook-is-disappearing-into-the-fog/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T16:02:41+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206575",
+      "title": "Feature: 'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game",
+      "url": "https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T16:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wmh798",
+      "title": "Witchbrook gameplay footage uploaded",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wmh798/witchbrook_gameplay_footage_uploaded/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T16:10:57+00:00"
     }
   ]
 }
