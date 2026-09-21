@@ -1,67 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Rayman Legends Retold Delayed Two Months Despite Going Gold",
-      "tag": "rayman legends retold",
-      "posted_at": "2026-09-14T17:31:18.191671+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/platformer/rayman-legends-retold-has-officially-gone-gold-but-ubisofts-monkey-paw-curls-its-been-delayed-two-months/",
-        "https://www.gematsu.com/2026/09/rayman-legends-retold-delayed-to-december-3"
-      ],
-      "article_titles": [
-        "Rayman Legends Retold \"has officially gone gold,\" but Ubisoft's monkey paw curls \u2013 it's been delayed two months",
-        "Rayman Legends Retold delayed to December 3"
-      ]
-    },
-    {
-      "headline": "D&D's New Boss Promises to Fix the OGL Disaster: \"Very Loud, Very Public Missteps\"",
-      "tag": "dungeons & dragons",
-      "posted_at": "2026-09-14T17:31:18.353914+00:00",
-      "urls": [
-        "https://www.gamesradar.com/tabletop-gaming/d-and-d-head-promises-to-fix-very-loud-very-public-missteps-with-a-new-spirit-and-energy-for-the-game/",
-        "https://www.enworld.org/threads/wotcs-dan-ayoub-talks-ogl-mistakes-were-recovering-from-loud-public-missteps.720657/"
-      ],
-      "article_titles": [
-        "D&D head promises to fix \"very loud, very public missteps\" with \"a new spirit and energy\" for the game",
-        "WotC's Dan Ayoub talks OGL mistakes--\"we're recovering from loud public missteps\""
-      ]
-    },
-    {
-      "headline": "Marathon Ditches Seasons and Delays New Content as Bungie's Extraction Shooter Struggles",
-      "tag": "marathon",
-      "posted_at": "2026-09-14T17:31:18.566431+00:00",
-      "urls": [
-        "https://kotaku.com/marathon-delays-new-content-and-ditches-seasons-as-bungies-extraction-shooter-fights-for-its-life-2000734322"
-      ],
-      "article_titles": [
-        "Marathon Delays New Content And Ditches Seasons As Bungie\u2019s Extraction Shooter Fights For Its Life"
-      ]
-    },
-    {
-      "headline": "Valve Is Building a Steam Frame Strap With Index-Style Speakers and Hot-Swappable Batteries",
-      "tag": "steam deck",
-      "posted_at": "2026-09-14T17:31:18.738883+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/vr-hardware/valve-working-on-steam-frame-strap-that-adds-index-like-speakers-and-hot-swappable-batteries-coming-soon/"
-      ],
-      "article_titles": [
-        "Valve working on Steam Frame strap that adds Index-like speakers and hot-swappable batteries, 'coming soon'"
-      ]
-    },
-    {
-      "headline": "Valve Scrapped Multiple Next-Gen VR Headsets Before Going Back to the Drawing Board",
-      "tag": "valve",
-      "posted_at": "2026-09-14T18:31:02.200526+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/",
-        "https://www.pcgamer.com/hardware/vr-hardware/valve-had-next-gen-vr-headsets-ready-three-four-years-ago-and-they-were-big-bulky-devices-but-went-back-to-the-drawing-board-after-actually-putting-them-on/"
-      ],
-      "article_titles": [
-        "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on",
-        "Valve had next-gen VR 'headsets ready three, four years ago and they were big, bulky devices' but went back to the drawing board after actually putting them on"
-      ]
-    },
-    {
       "headline": "GTA 6's First Confirmed Actor Is King of the Hill's Stephen Root",
       "tag": "gta 6",
       "posted_at": "2026-09-14T19:30:50.026936+00:00",
@@ -1038,91 +977,22 @@
         "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October",
         "The Blood of Dawnwalker getting a new difficulty option, combat changes and more in game's first \"big\" patch scheduled for early October"
       ]
+    },
+    {
+      "headline": "Rockstar clamps down on GTA mods weeks before GTA 6 launches",
+      "tag": "gta 6",
+      "posted_at": "2026-09-21T19:30:49.655416+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions"
+      ],
+      "article_titles": [
+        "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000736105",
-      "title": "Bethesda Updates Oblivion Remastered On Switch 2, Makes It Worse",
-      "url": "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-makes-it-worse-2000736105",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T15:30:04+00:00"
-    },
-    {
-      "guid": "vWdY4tKxWk3qCUjRpqsArR",
-      "title": "WoW: Forever has rendered me a min-maxing hypocrite, and here's how you can join me",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-heres-how-you-can-join-me/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T15:05:33+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109223",
-      "title": "Done! Paramount Settles Antitrust Suit, Set To Seal Deal For Warner Bros. Discovery",
-      "url": "https://deadline.com/2026/09/paramount-settles-antitrust-suit-to-seal-warner-bros-deal-1237109223/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T15:11:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236704473",
-      "title": "There\u2019s a Deal, Now It\u2019s All About the Details. Paramount, 12 States to Settle Warner Bros. Fight",
-      "url": "https://www.hollywoodreporter.com/business/business-news/paramount-antitrust-suit-settlement-deal-state-ags-warners-1236704473/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T15:03:31+00:00"
-    },
-    {
-      "guid": "4zdWugWtT7JVzQc3Hs4jBA",
-      "title": "Fans are loving new Warhammer Legion of the Damned Kill Team, but are already worried about resellers",
-      "url": "https://www.gamesradar.com/tabletop-gaming/fans-are-loving-new-warhammer-legion-of-the-damned-kill-team-but-are-already-worried-about-resellers/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T15:26:38+00:00"
-    },
-    {
-      "guid": "h6AKNgwHhMeAMJk88M3kAM",
-      "title": "Acer's flagship 8-inch handheld just hit the UK, but you'll need to wait until next month in the US",
-      "url": "https://www.gamesradar.com/hardware/handhelds/acers-flagship-8-inch-handheld-just-hit-the-uk-but-youll-need-to-wait-until-next-month-in-the-us/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T15:13:05+00:00"
-    },
-    {
-      "guid": "1891053",
-      "title": "Pokemon Is Celebrating Space Week With Cool Merch, And You Just Know Scalpers Will Ruin It",
-      "url": "https://www.gamespot.com/articles/pokemon-is-celebrating-space-week-with-cool-merch-and-you-just-know-scalpers-will-ruin-it/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T15:12:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1757360",
-      "title": "Resident Evil\u2019s Austin Abrams Calls Dangerous Snowy Stunt \u201cHarrowing\u201d as Falling Zombies Made Every Take Risky",
-      "url": "https://otakukart.com/resident-evils-austin-abrams-calls-dangerous-snowy-stunt-harrowing-as-falling-zombies-made-every-take-risky/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T15:22:48+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1757428",
-      "title": "Persona 4 Revival Introduces New Social Link Character Aika Nakamura",
-      "url": "https://otakukart.com/persona-4-revival-introduces-new-social-link-character-aika-nakamura/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T15:07:14+00:00"
-    },
-    {
-      "guid": "t3_1wmg1fn",
-      "title": "Unannounced PlayStation Rewards Program Live on PS Store",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wmg1fn/unannounced_playstation_rewards_program_live_on/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T15:29:25+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/grand-theft-auto-6-key-west-map",
       "title": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
@@ -1250,14 +1120,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-09-21T15:42:29+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206609",
-      "title": "Pikachu Spent 67 Days In Space As Part Of Pok\u00e9mon X ESA Collaboration",
-      "url": "https://www.nintendolife.com/news/2026/09/pikachu-spent-67-days-in-space-as-part-of-pokemon-x-esa-collaboration",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T15:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123366",
@@ -1946,6 +1808,70 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-21T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
+      "title": "Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP",
+      "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T19:23:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736196",
+      "title": "Northernlion Addresses His Friend\u2019s U.S. Army\u2013Sponsored Twitch Streams: \u2018It\u2019s So Far Beyond The Bounds Of What Is Acceptable To Me\u2019",
+      "url": "https://kotaku.com/northernlion-addresses-his-friends-u-s-army-sponsored-twitch-streams-its-so-far-beyond-the-bounds-of-what-is-acceptable-to-me-2000736196",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T19:00:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109477",
+      "title": "Presley Gerber Death Being Investigated As \u201cPossible Overdose\u201d, Cause Deferred Pending Additional Tests",
+      "url": "https://deadline.com/2026/09/presley-gerber-cause-of-death-investigation-1237109477/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T19:26:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109485",
+      "title": "David Ellison Hails Legal Settlement But Says \u201cStill Work Ahead\u201d Before Paramount-WBD Deal Can Close",
+      "url": "https://deadline.com/2026/09/paramount-ceo-david-ellison-settlement-wbd-deal-1237109485/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T19:19:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109424",
+      "title": "Paramount-Warner Bros Penalty If Merger Fails To Release 30 Pics A Year: Divest Miramax",
+      "url": "https://deadline.com/2026/09/paramount-warner-bros-merger-miramax-penalty-1237109424/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T19:15:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871358",
+      "title": "Paramount-Warner Bros. Settlement: What the Guilds, AGs and Activists Are Saying",
+      "url": "https://variety.com/2026/film/news/paramount-warner-bros-settlement-response-guilds-stars-1236871358/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T19:06:02+00:00"
+    },
+    {
+      "guid": "XVVRvRTnzg6nWXfsCiAtac",
+      "title": "Stellar Blade boss offers to help PlatinumGames make Bayonetta 4",
+      "url": "https://www.gamesradar.com/games/action-rpg/stellar-blade-boss-offers-to-help-platinumgames-make-bayonetta-4/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T19:29:15+00:00"
+    },
+    {
+      "guid": "t3_1wmmr73",
+      "title": "Mp1st: Batwoman and Supergirl will be in Injustice 3",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wmmr73/mp1st_batwoman_and_supergirl_will_be_in_injustice/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T19:27:52+00:00"
     }
   ]
 }
