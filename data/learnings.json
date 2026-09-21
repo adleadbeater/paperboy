@@ -1107,84 +1107,116 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "inYMf2TvgqoJrVwpUMzWy6",
-      "title": "Steam Week in Review: This indie publisher released 29 terrible-looking Steam games in a single day\u2014will they make any money?",
-      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-this-indie-publisher-released-29-terrible-looking-steam-games-in-a-single-day-will-they-make-any-money/",
+      "guid": "https://kotaku.com/?p=2000736052",
+      "title": "Pok\u00e9mon\u2019s 30th Celebration Cards Are Causing Scalpers To Spectacularly Crash Out",
+      "url": "https://kotaku.com/pokemon-tcg-30th-anniversary-set-prices-scalpers-resale-reddit-2000736052",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T14:00:46+00:00"
+    },
+    {
+      "guid": "UwBGKRSDJ7VxHsU7vZ5EK9",
+      "title": "I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get",
+      "url": "https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/",
       "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-09-21T04:24:25+00:00"
+      "published_dt": "2026-09-21T14:07:20+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236866877",
-      "title": "Abhishek Chaubey, Navdeep Singh to Present Shivam Shankar\u2019s \u2018Bhed, Bakri, Bhoot\u2019 on Anurag Kashyap-Curated YouTube Channel (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/anurag-kashyap-oh-short-flips-bhed-bakri-bhoot-1236866877/",
+      "guid": "https://deadline.com/?p=1237109198",
+      "title": "Networks Halt TV Pool Coverage Of Trump In Protest Of President\u2019s Ban On CNN",
+      "url": "https://deadline.com/2026/09/trump-white-house-ban-network-pool-boycott-1237109198/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T14:16:46+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871070",
+      "title": "Major TV Networks Suspend White House Pool Coverage of Trump in Protest of His CNN Ban",
+      "url": "https://variety.com/2026/tv/news/tv-networks-suspend-white-house-pool-protest-trump-cnn-ban-1236871070/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-21T04:30:00+00:00"
+      "published_dt": "2026-09-21T14:26:19+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236870840",
-      "title": "Presley Gerber, Model and Son of Cindy Crawford and Rande Gerber, Dies at 27",
-      "url": "https://variety.com/2026/digital/people-news/presley-gerber-dead-model-cindy-crawford-1236870840/",
+      "guid": "https://variety.com/?p=1236871035",
+      "title": "Kit Harington Says Joining \u2018Harry Potter\u2019 Series Was a \u2018Very Simple \u201cYes, Please!\u201d\u2019: \u2018I\u2019m a Bit of a Nerd for It\u2019",
+      "url": "https://variety.com/2026/tv/global/kit-harington-harry-potter-series-simple-yes-please-1236871035/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-21T04:03:57+00:00"
+      "published_dt": "2026-09-21T14:10:53+00:00"
     },
     {
-      "guid": "t3_1wm2els",
-      "title": "Silent Hill Townfall full play through leaked on Bilibili",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wm2els/silent_hill_townfall_full_play_through_leaked_on/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-21T04:15:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236870115",
-      "title": "Chile Film Industry Surges 20.5% Compared to Previous Season, New Catalog Reveals (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/chile-film-industry-surges-20-5-per-cent-unveils-catalog-1236870115/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T05:30:11+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236867651",
-      "title": "Karan Johar\u2019s Dharma Productions Confirms Film on Indian Spymaster Rameshwar Nath Kao, Targets 2028 Release (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/karan-johar-dharma-raw-rameshwar-nath-kao-film-1236867651/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T05:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236870389",
-      "title": "Latido Takes Isaki Lacuesta\u2019s \u2018Flamenco Sketches,\u2019 San Sebastian\u2019s Zabaltegi-Tabakalera Closer (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/isaki-lacuesta-flamenco-sketches-latido-san-sebastian-1236870389/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T05:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236870069",
-      "title": "Secuoya Studios Taps Carla G\u00f3mez to Lead Latin American Development as Regional Expansion Accelerates (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/secuoya-studios-carla-gomez-latin-america-development-1236870069/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-21T05:01:48+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236706792",
-      "title": "John Oliver Takes Jab at \u201cSoon-to-Be Business Daddy\u201d David Ellison on \u2018Last Week Tonight\u2019",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-business-daddy-david-ellison-last-week-tonight-1236706792/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236706861",
+      "title": "Movie Theater Advertising Giant Closes $275 Million Deal to Expand to Offices",
+      "url": "https://www.hollywoodreporter.com/business/business-news/national-cinemedia-offices-1236706861/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-21T05:29:54+00:00"
+      "published_dt": "2026-09-21T14:12:06+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-206522",
-      "title": "Guide: These 26+ PS5 and PS Plus Games Are Coming Out This Week (21st - 27th September)",
-      "url": "https://www.pushsquare.com/guides/these-26plus-ps5-and-ps-plus-games-are-coming-out-this-week-21st-27th-september",
-      "source_name": "Push Square",
+      "guid": "https://www.hollywoodreporter.com/?p=1236706879",
+      "title": "Netflix\u2019s \u2018Cliff Booth\u2019 Trailer Has Brad Pitt Taking a Playful Poke at Leonardo DiCaprio",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/netflix-cliff-booth-trailer-brad-pitt-leonardo-dicaprio-1236706879/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-21T14:06:50+00:00"
+    },
+    {
+      "guid": "HZGLoqWjqjuUwHYZwcCc5h",
+      "title": "Razer's upgraded do-it-all Naga V3 Pro sings in my scattered Steam library, but genre-focused players should be wary",
+      "url": "https://www.gamesradar.com/hardware/gaming-mice/razer-naga-v3-pro-review/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-09-21T05:30:00+00:00"
+      "published_dt": "2026-09-21T14:04:58+00:00"
+    },
+    {
+      "guid": "Ns6RjhqQHz9sdWaiW4PfjX",
+      "title": "Modern Warfare 4 should feel \"ripped from the headlines,\" says Call of Duty developer: \"It's been a while since we've seen the grunt perspective\"",
+      "url": "https://www.gamesradar.com/games/call-of-duty/modern-warfare-4-interview-campaign-multiplayer-design-movement/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T14:00:00+00:00"
+    },
+    {
+      "guid": "1891022",
+      "title": "Hideo Kojima Doesn\u2019t Know If Physint Will Be Xbox Exclusive",
+      "url": "https://www.gamespot.com/articles/hideo-kojima-doesnt-know-if-physint-will-be-xbox-exclusive/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T13:56:26+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123329",
+      "title": "Lufia Games Return on Switch, Switch 2, PS5, and PC",
+      "url": "https://www.siliconera.com/lufia-games-return-on-switch-switch-2-ps5-and-pc/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206601",
+      "title": "New Compilation Celebrates Matthew 'Jet Set Willy' Smith's Indelible ZX Spectrum Legacy",
+      "url": "https://www.timeextension.com/news/2026/09/new-compilation-celebrates-matthew-jet-set-willy-smiths-indelible-zx-spectrum-legacy",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1080263",
+      "title": "Blighted delayed to 2027",
+      "url": "https://www.gematsu.com/2026/09/blighted-delayed-to-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T14:14:12+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=620471",
+      "title": "D&D: Five More Obscure Artifacts WotC Should Update",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-five-more-obscure-artifacts-wotc-should-update.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-21T14:00:00+00:00"
     }
   ]
 }
