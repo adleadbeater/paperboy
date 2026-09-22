@@ -1115,6 +1115,43 @@
         "Pok\u00e9mon 30th Celebration Cards Cause Fights, Arrests And Embarrassing Displays From The Crowds Camping Overnight",
         "Pok\u00e9mon 30th Celebration Cards Cause Fights, Arrests And Embarrassing Displays From The Crowds Camping Overnight"
       ]
+    },
+    {
+      "headline": "State of Decay 3 Studio Breaks Free From Xbox, Becomes Employee-Owned",
+      "tag": "state of decay 3",
+      "posted_at": "2026-09-22T15:48:22.355861+00:00",
+      "urls": [
+        "https://kotaku.com/state-of-decay-3-studio-announces-its-now-free-from-xbox-and-employee-owned-2000736481"
+      ],
+      "article_titles": [
+        "State Of Decay 3 Studio Announces It\u2019s Now Free From Xbox And Employee-Owned"
+      ]
+    },
+    {
+      "headline": "Xbox Is Shutting Down Ninja Theory, Developer of Hellblade, After Buyout Talks Collapse",
+      "tag": "ninja theory",
+      "posted_at": "2026-09-22T15:48:22.519370+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
+        "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
+        "https://kotaku.com/xbox-working-toward-closing-hellblade-studio-ninja-theory-after-multiple-deals-fall-through-2000736441"
+      ],
+      "article_titles": [
+        "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks",
+        "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse",
+        "Xbox Working Toward Closing Hellblade Studio Ninja Theory After Multiple Deals Fall Through"
+      ]
+    },
+    {
+      "headline": "LEGO Teases Incoming Dragon Ball Sets",
+      "tag": "dragon ball",
+      "posted_at": "2026-09-22T15:48:22.714421+00:00",
+      "urls": [
+        "https://www.ign.com/articles/lego-dragon-ball-sets-announced"
+      ],
+      "article_titles": [
+        "LEGO Teases Dragon Ball Sets"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -2143,6 +2180,94 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-22T15:00:00+00:00"
+    },
+    {
+      "guid": "fa93eda5-5d7b-403e-bc62-f10421dc80f9",
+      "title": "LEGO Teases Dragon Ball Sets",
+      "url": "https://www.ign.com/articles/lego-dragon-ball-sets-announced",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T15:17:06+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736481",
+      "title": "State Of Decay 3 Studio Announces It\u2019s Now Free From Xbox And Employee-Owned",
+      "url": "https://kotaku.com/state-of-decay-3-studio-announces-its-now-free-from-xbox-and-employee-owned-2000736481",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T15:45:43+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237110182",
+      "title": "Production Agent Louiza Vick Joins WME After 16 Years At WPA",
+      "url": "https://deadline.com/2026/09/louiza-vick-joins-wme-production-agent-1237110182/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T15:39:26+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237110164",
+      "title": "Xbox Continues \u201cReset\u201d With Additional Layoffs And Restructuring",
+      "url": "https://deadline.com/2026/09/xbox-layoffs-restructuring-microsoft-activision-1237110164/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T15:36:55+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237110126",
+      "title": "\u2018Evita\u2019 On Broadway: Rachel Zegler To Be Joined By London Co-Stars Diego Rodriguez & James Olivas",
+      "url": "https://deadline.com/2026/09/evita-broadway-cast-rachel-zegler-1237110126/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T15:36:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872245",
+      "title": "Lionel Richie Undergoes Heart Procedure, \u2018Will Be Back on Stage Soon\u2019 After Canceling Next Three Shows",
+      "url": "https://variety.com/2026/music/news/lionel-richie-atrial-fibrillation-heart-cancels-concerts-1236872245/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T15:45:26+00:00"
+    },
+    {
+      "guid": "85jfoGYCWFPeHH7VZYy76B",
+      "title": "Meet the Lord of the Rings RPG that smashed its crowdfunding goals by 10 times in a single hour",
+      "url": "https://www.gamesradar.com/tabletop-gaming/meet-the-lord-of-the-rings-rpg-that-smashed-its-crowdfunding-goals-by-10-times-in-a-single-hour/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T15:42:21+00:00"
+    },
+    {
+      "guid": "UrJ6GJjuV43EFeWE6Up2JJ",
+      "title": "Modding GTA 6 sounds illegal in Rockstar's guidelines, but that's never stopped modders before",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/modding-gta-6-sounds-outright-illegal-under-rockstars-guidelines-but-thats-never-stopped-modders-before/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T15:38:01+00:00"
+    },
+    {
+      "guid": "FfwFt2hbWuq3QnxcTvyL3L",
+      "title": "Sonic boss sees the franchise \"like my own son\" since the hedgehog is technically older than his human children",
+      "url": "https://www.gamesradar.com/games/sonic-the-hedgehog/sonic-boss-sees-the-franchise-like-my-own-son-after-35-years-since-the-hedgehog-is-technically-older-than-his-human-children/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T15:30:58+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206466",
+      "title": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
+      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206666",
+      "title": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks",
+      "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T15:30:00+00:00"
     }
   ]
 }
