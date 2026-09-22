@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "007 First Light Gets Delayed on Switch 2 Again \u2014 Now Nearly a Year Behind Other Platforms",
-      "tag": "007 first light",
-      "posted_at": "2026-09-15T13:00:51.689306+00:00",
-      "urls": [
-        "https://kotaku.com/007-first-light-delayed-on-switch-2-again-will-now-arrive-almost-a-year-late-2000734576"
-      ],
-      "article_titles": [
-        "007 First Light Delayed On Switch 2 Again, Will Now Arrive Almost A Year Late"
-      ]
-    },
-    {
       "headline": "Wardogs Sells 2 Million Copies and Hits 400K Concurrent Players in Under a Week",
       "tag": "wardogs",
       "posted_at": "2026-09-15T14:01:14.389902+00:00",
@@ -1027,6 +1016,17 @@
       "article_titles": [
         "Blizzard layoffs are reportedly imminent,  days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
       ]
+    },
+    {
+      "headline": "James Gunn Defends Lanterns' Treatment of Hal Jordan After Fan Backlash",
+      "tag": "lanterns",
+      "posted_at": "2026-09-22T13:01:08.104550+00:00",
+      "urls": [
+        "https://www.ign.com/articles/dcu-chief-james-gunn-hits-back-at-lanterns-criticism-over-killing-hal-jordan-right-away"
+      ],
+      "article_titles": [
+        "DCU Chief James Gunn Hits Back at Lanterns Criticism Over 'Killing' Hal Jordan 'Right Away'"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1103,6 +1103,94 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-22T12:30:39+00:00"
+    },
+    {
+      "guid": "1753b60d-c51c-4154-b7e0-340bf35a229e",
+      "title": "DCU Chief James Gunn Hits Back at Lanterns Criticism Over 'Killing' Hal Jordan 'Right Away'",
+      "url": "https://www.ign.com/articles/dcu-chief-james-gunn-hits-back-at-lanterns-criticism-over-killing-hal-jordan-right-away",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T12:28:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236871612",
+      "title": "Billy Bush to Join Fox News as Contributor",
+      "url": "https://variety.com/2026/tv/news/billy-bush-fox-news-contributor-1236871612/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236706637",
+      "title": "Neon Sets \u2018Paper Tiger\u2019 Awards Categories, Plans First Real Push for a James Gray Film (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/neon-oscars-paper-tiger-awards-categories-james-gray-1236706637/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236706924",
+      "title": "\u2018Heart of the Beast\u2019 Review: Brad Pitt and His Canine Co-Star Earn Your Tears in David Ayer\u2019s Tense, Tender Survival Thriller",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/heart-of-the-beast-review-brad-pitt-david-ayer-1236706924/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236706967",
+      "title": "VFX House 22Dogs Launches New Facility at Pinewood Toronto Studios (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/vfx-house-22dogs-1236706967/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206656",
+      "title": "Pok\u00e9mon TCG Scalper Reportedly Arrested For Punching A Man In Latest Pathetic Incident",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-scalper-reportedly-arrested-for-punching-a-man-in-latest-pathetic-incident",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123312",
+      "title": "Review: Silent Hill: Townfall Can Test Your Patience",
+      "url": "https://www.siliconera.com/review-silent-hill-townfall-can-test-your-patience/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1080342",
+      "title": "MR. RECORDS adds PS5 and Xbox Series versions; PC demo now available",
+      "url": "https://www.gematsu.com/2026/09/mr-records-adds-ps5-and-xbox-series-versions-pc-demo-now-available",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:52:54+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757508",
+      "title": "Tokyo Ghoul Author Sui Ishida Says He Worked 12\u201313 Hours Overnight for 5\u20136 Days a Week During the Manga\u2019s Serialization",
+      "url": "https://otakukart.com/tokyo-ghoul-author-sui-ishida-says-he-worked-12-13-hours-overnight-for-5-6-days-a-week-during-the-mangas-serialization/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:54:44+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757505",
+      "title": "The Apothecary Diaries Author Natsu Hyuuga Hospitalized Over Health Concerns, Pulls Out of New Zealand Event",
+      "url": "https://otakukart.com/the-apothecary-diaries-author-natsu-hyuuga-hospitalized-over-health-concerns-pulls-out-of-new-zealand-event/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:39:04+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/rpg-evolution-run-an-rpg-campaign-online.720238/",
+      "title": "RPG Evolution: Run an RPG Campaign Online",
+      "url": "https://www.enworld.org/threads/rpg-evolution-run-an-rpg-campaign-online.720238/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:30:00+00:00"
     }
   ]
 }
