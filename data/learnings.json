@@ -1005,82 +1005,104 @@
         "Resident Evil Director Reacts To People Who Didn\u2019t Like The Controversial Ending, Says It Was Almost Completely Different",
         "\u2018Resident Evil\u2019 Star Austin Abrams Breaks Down the \u201cRisky and Gutsy\u201d Ending"
       ]
+    },
+    {
+      "headline": "Rockstar Tightens Modding Rules, Tells GTA Fans to \"Respect\" Its Games",
+      "tag": "rockstar games",
+      "posted_at": "2026-09-22T12:39:50.672823+00:00",
+      "urls": [
+        "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306"
+      ],
+      "article_titles": [
+        "Rockstar Asks Fans To \u2018Respect Their Games\u2019 As It Updates Strict Modding Guidelines"
+      ]
+    },
+    {
+      "headline": "Blizzard Layoffs Reportedly Imminent Despite BlizzCon Buzz and WoW: Forever Beta Success",
+      "tag": "blizzard entertainment",
+      "posted_at": "2026-09-22T12:39:50.854530+00:00",
+      "urls": [
+        "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts"
+      ],
+      "article_titles": [
+        "Blizzard layoffs are reportedly imminent,  days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "9JJwLcc6Y6a5ge3ZAdvY7h",
-      "title": "Nighthawks review",
-      "url": "https://www.pcgamer.com/games/rpg/nighthawks-review-a-novel-vampire-rpg-thats-also-a-vampire-novels-worth-of-writing/",
-      "source_name": "PC Gamer",
+      "guid": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+      "title": "Blizzard layoffs are reportedly imminent,  days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
+      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-09-22T04:01:00+00:00"
+      "published_dt": "2026-09-22T12:10:29+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237109202",
-      "title": "Muse Entertainment Unveils \u2018Doula: A True Crime\u2019 Trailer As Boat Rocker Studios Boards CBC Doc",
-      "url": "https://deadline.com/2026/09/doula-true-crime-trailer-boat-rocker-studios-cbc-1237109202/",
+      "guid": "https://kotaku.com/?p=2000736306",
+      "title": "Rockstar Asks Fans To \u2018Respect Their Games\u2019 As It Updates Strict Modding Guidelines",
+      "url": "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T12:32:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109940",
+      "title": "MIPCOM Bets On Creators, Brands & AI As International TV Business Readies For Cannes Get-Together",
+      "url": "https://deadline.com/2026/09/mipcom-cannes-creators-brands-ai-distribution-lucy-smith-1237109940/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-22T04:01:00+00:00"
+      "published_dt": "2026-09-22T12:06:58+00:00"
     },
     {
-      "guid": "t3_1wmyyp6",
-      "title": "NateTheHate: On the Xbox layoffs and clarifying consolidation of studios. \"Well, more than just Halo will be moving under ABK. And other studios will move to different companies within Xbox/MS.\"",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wmyyp6/natethehate_on_the_xbox_layoffs_and_clarifying/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "https://variety.com/?p=1236871902",
+      "title": "\u2018Gangs of London\u2019 Producers Claim They\u2019re Owed $20 Million From Vice Over Pulse Films Sale",
+      "url": "https://variety.com/2026/tv/global/gangs-of-london-producers-pulse-films-20-million-1236871902/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T12:05:11+00:00"
+    },
+    {
+      "guid": "wXTJoZejRkpFD8G63fUCzn",
+      "title": "MTG Star Trek Beginner Box \"boldly not going anywhere,\" gets cancelled in all regions",
+      "url": "https://www.gamesradar.com/tabletop-gaming/mtg-star-trek-beginner-box-boldly-not-going-anywhere-gets-cancelled-in-all-regions/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-09-22T04:00:02+00:00"
+      "published_dt": "2026-09-22T12:06:18+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236871746",
-      "title": "Inside the 2026 San Sebasti\u00e1n-CAA Media Finance Creative Investors\u2019 Conference",
-      "url": "https://variety.com/2026/film/global/2026-san-sebastian-caa-creative-investors-conference-1236871746/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T05:30:02+00:00"
+      "guid": "qJDDmpcCZfYZUGX52YUVs",
+      "title": "Agents of SHIELD star is \"low-key angry\" that the series isn't canon despite being \"the first MCU show\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/agents-of-shield-star-is-low-key-angry-that-the-series-isnt-canon-despite-being-the-first-mcu-show/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:04:54+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236871274",
-      "title": "Madrid Pitches Itself as a Global Production Hub as It Looks Ahead to Hosting the Upcoming 6th Iberseries & Platino Industria",
-      "url": "https://variety.com/2026/film/global/madrid-global-production-hub-hosting-iberseries-1236871274/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T05:30:00+00:00"
+      "guid": "https://www.pushsquare.com/#article-206652",
+      "title": "One of 2026's Best-Rated PS5 Games Is Out Today, and You Probably Don't Even Know It",
+      "url": "https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:30:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236865455",
-      "title": "3Cat\u2019s \u2018G\u00e8nesi\u2019 Tells Origin Story of El Bulli, the Iconic Restaurant of Celebrity Chef Ferran Adri\u00e0",
-      "url": "https://variety.com/2026/film/global/3cat-genesi-origin-el-bulli-iconic-restaurant-ferran-adria-1236865455/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T05:15:00+00:00"
+      "guid": "https://www.timeextension.com/#article-206646",
+      "title": "\"We Have A Strong Commitment To What Black Finger JET Should Be\" - Kohachi Studios' CEO Gives Update On Metal Slug Spiritual Successor",
+      "url": "https://www.timeextension.com/news/2026/09/we-have-a-strong-commitment-to-what-black-finger-jet-should-be-kohachi-studios-ceo-gives-update-on-metal-slug-spiritual-successor",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:30:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236871286",
-      "title": "\u2018The Harvester\u2019 Star Antonio de la Torre: \u2018Violence Has No Justification, but It Does Have an Explanation\u2019",
-      "url": "https://variety.com/2026/global/global/the-harvester-antonio-de-la-torre-patricia-lopez-arnaiz-1236871286/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T05:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236845864",
-      "title": "San Sebastian Startup Challenge Puts AI, Immersive Tech and Green Production in Focus",
-      "url": "https://variety.com/2026/global/global/san-sebastian-startup-challenge-unviels-finalists-2026-1236845864/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T05:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871234",
-      "title": "San Sebastian\u2019s Basque Production Slate Mixes Global Auteurs, New Voices and Local Memory",
-      "url": "https://variety.com/2026/global/global/san-sebastians-basque-production-slate-2026-1236871234/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T05:00:00+00:00"
+      "guid": "https://otakukart.com/?p=1757497",
+      "title": "Monster Hunter Wilds: Ascendance Director Says Master Rank Monsters Will Get New Moves and Behaviors to Make Players \u201cRethink\u201d Hunts",
+      "url": "https://otakukart.com/monster-hunter-wilds-ascendance-director-says-master-rank-monsters-will-get-new-moves-and-behaviors-to-make-players-rethink-hunts/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T12:30:39+00:00"
     }
   ]
 }
