@@ -1158,84 +1158,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-      "title": "Blizzard layoffs are reportedly imminent,  days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta",
-      "url": "https://www.eurogamer.net/blizzard-layoffs-xbox-cuts",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T12:10:29+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000736306",
       "title": "Rockstar Asks Fans To \u2018Respect Their Games\u2019 As It Updates Strict Modding Guidelines",
       "url": "https://kotaku.com/rockstar-asks-fans-to-respect-their-games-as-it-updates-strict-modding-guidelines-2000736306",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-09-22T12:32:51+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237109940",
-      "title": "MIPCOM Bets On Creators, Brands & AI As International TV Business Readies For Cannes Get-Together",
-      "url": "https://deadline.com/2026/09/mipcom-cannes-creators-brands-ai-distribution-lucy-smith-1237109940/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T12:06:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871902",
-      "title": "\u2018Gangs of London\u2019 Producers Claim They\u2019re Owed $20 Million From Vice Over Pulse Films Sale",
-      "url": "https://variety.com/2026/tv/global/gangs-of-london-producers-pulse-films-20-million-1236871902/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T12:05:11+00:00"
-    },
-    {
-      "guid": "wXTJoZejRkpFD8G63fUCzn",
-      "title": "MTG Star Trek Beginner Box \"boldly not going anywhere,\" gets cancelled in all regions",
-      "url": "https://www.gamesradar.com/tabletop-gaming/mtg-star-trek-beginner-box-boldly-not-going-anywhere-gets-cancelled-in-all-regions/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T12:06:18+00:00"
-    },
-    {
-      "guid": "qJDDmpcCZfYZUGX52YUVs",
-      "title": "Agents of SHIELD star is \"low-key angry\" that the series isn't canon despite being \"the first MCU show\"",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/agents-of-shield-star-is-low-key-angry-that-the-series-isnt-canon-despite-being-the-first-mcu-show/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T12:04:54+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206652",
-      "title": "One of 2026's Best-Rated PS5 Games Is Out Today, and You Probably Don't Even Know It",
-      "url": "https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T12:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206646",
-      "title": "\"We Have A Strong Commitment To What Black Finger JET Should Be\" - Kohachi Studios' CEO Gives Update On Metal Slug Spiritual Successor",
-      "url": "https://www.timeextension.com/news/2026/09/we-have-a-strong-commitment-to-what-black-finger-jet-should-be-kohachi-studios-ceo-gives-update-on-metal-slug-spiritual-successor",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T12:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1757497",
-      "title": "Monster Hunter Wilds: Ascendance Director Says Master Rank Monsters Will Get New Moves and Behaviors to Make Players \u201cRethink\u201d Hunts",
-      "url": "https://otakukart.com/monster-hunter-wilds-ascendance-director-says-master-rank-monsters-will-get-new-moves-and-behaviors-to-make-players-rethink-hunts/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T12:30:39+00:00"
-    },
-    {
-      "guid": "1753b60d-c51c-4154-b7e0-340bf35a229e",
-      "title": "DCU Chief James Gunn Hits Back at Lanterns Criticism Over 'Killing' Hal Jordan 'Right Away'",
-      "url": "https://www.ign.com/articles/dcu-chief-james-gunn-hits-back-at-lanterns-criticism-over-killing-hal-jordan-right-away",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T12:28:01+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236871612",
@@ -1308,14 +1236,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-22T12:39:04+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/rpg-evolution-run-an-rpg-campaign-online.720238/",
-      "title": "RPG Evolution: Run an RPG Campaign Online",
-      "url": "https://www.enworld.org/threads/rpg-evolution-run-an-rpg-campaign-online.720238/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T12:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/playstation-store-wallet-credits-rewards",
@@ -2324,6 +2244,102 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-22T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+      "title": "Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book",
+      "url": "https://www.eurogamer.net/francesca-baerald-game-map-art-book",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:18:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109274",
+      "title": "Michelle Rodriguez Latest To Join Amazon MGM Studios\u2019 Romantic Comedy \u2018Egg Baby\u2019",
+      "url": "https://deadline.com/2026/09/michelle-rodriguez-joins-egg-baby-movie-amazon-mgm-1237109274/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109309",
+      "title": "Searchlight Lands Lorraine Nicholson\u2019s \u2018Playmates\u2019 Starring Lily-Rose Depp, Bill Pullman & Indiana Elle; Pullman Plays Hugh Hefner In Coming-Of-Age Story",
+      "url": "https://deadline.com/2026/09/lily-rose-depp-bill-pullman-to-star-playmates-searchlight-1237109309/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109292",
+      "title": "\u2018Indian Matchmaking\u2019s Smriti Mundhra Teams With Hasan Minhaj On Docuseries \u2018Bollywood Dance U\u2019",
+      "url": "https://deadline.com/2026/09/hasan-minhaj-smriti-mundhra-team-bollywood-dance-u-1237109292/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236870927",
+      "title": "Urban Sales Boards Ricardo Alves Jr.\u2019s Religious Cult Thriller \u2018The French Teacher\u2019 Ahead of San Sebasti\u00e1n Premiere (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/urban-sales-ricardo-alves-jr-french-teacher-san-sebastian-1236870927/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:23:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872113",
+      "title": "CNN Mood \u2018Like a Funeral\u2019 as Paramount\u2019s Warner Bros. Win Casts New Haze on Next Steps",
+      "url": "https://variety.com/2026/tv/news/cnn-funeral-path-hazy-paramount-wins-warner-1236872113/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:13:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707405",
+      "title": "Lily-Rose Depp to Star in Playboy Mansion Movie from Lorraine Nicholson, Searchlight",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/lily-rose-depp-playboy-mansion-drama-1236707405/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707403",
+      "title": "Ella Langley\u2019s \u201cChoosin\u2019 Texas\u201d Is the Longest-Running Number One In Hot 100 History",
+      "url": "https://www.hollywoodreporter.com/music/music-news/ella-langley-choosin-texas-breaks-billboard-hot-100-record-1236707403/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:25:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707568",
+      "title": "BFI London Film Festival Unveils Full Industry Forum Lineup",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bfi-london-film-festival-industry-forum-1236707568/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T16:19:27+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206672",
+      "title": "Anbernic Updates NNDDSS Emulator Software To 1.0.2, Bringing 'Smoother Gameplay' And Other Features",
+      "url": "https://www.timeextension.com/news/2026/09/anbernic-updates-nnddss-emulator-software-to-1-0-2-bringing-smoother-gameplay-and-other-features",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1080426",
+      "title": "Rayman Legends Retold \u2018Overview\u2019 trailer",
+      "url": "https://www.gematsu.com/2026/09/rayman-legends-retold-overview-trailer",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T16:07:21+00:00"
+    },
+    {
+      "guid": "t3_1wne1yz",
+      "title": "Just under half of World's Edge (Age of Empires) was laid off by Microsoft today",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wne1yz/just_under_half_of_worlds_edge_age_of_empires_was/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T16:20:15+00:00"
     }
   ]
 }
