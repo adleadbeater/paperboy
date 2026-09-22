@@ -1164,38 +1164,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237110140",
-      "title": "Disney+ Seals EMEA Deal For S1 Of TF1 Hit \u2018Cat\u2019s Eyes\u2019 As S2 Sets October Launch Date",
-      "url": "https://deadline.com/2026/09/disney-emea-tf1-cats-eyes-s2-launch-1237110140/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T15:24:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236870883",
-      "title": "How NBCUniversal Television Thrives on Collaborative Energy Between Studios and Platforms: \u2018We Cheer Each Other On\u2019",
-      "url": "https://variety.com/2026/tv/news/springborn-underhill-liza-katz-nbcuniversal-tv-leadership-1236870883/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T15:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871972",
-      "title": "A Geico Holiday Special? Insurance Giant\u2019s New CMO Widens Spotlight on Entertainment",
-      "url": "https://variety.com/2026/tv/news/geico-holiday-special-insurance-gecko-cmo-entertainment-1236871972/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T15:20:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236707264",
-      "title": "As a \u2018Dancing With the Stars\u2019 Pro, Rylee Arnold Is Making Her Mark",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/rylee-arnold-dwts-pro-juniors-casting-lessons-connor-wood-1236707264/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-22T15:30:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000736481",
       "title": "State Of Decay 3 Studio Announces It\u2019s Now Free From Xbox And Employee-Owned",
       "url": "https://kotaku.com/state-of-decay-3-studio-announces-its-now-free-from-xbox-and-employee-owned-2000736481",
@@ -1258,22 +1226,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-22T15:30:58+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206466",
-      "title": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206666",
-      "title": "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks",
-      "url": "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-22T15:30:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237109830",
@@ -2170,6 +2122,62 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-22T19:17:20+00:00"
+    },
+    {
+      "guid": "FfobXzc5WSXimGo5q3emqj",
+      "title": "Before I starting making church candles from dead bodies, vs after",
+      "url": "https://www.pcgamer.com/games/survival-crafting/before-i-starting-making-church-candles-from-dead-bodies-vs-after/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T19:24:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237110527",
+      "title": "Sony Scoops Up TIFF Michelle Yeoh Thunder Road Action Thriller \u2018The Surgeon\u2019",
+      "url": "https://deadline.com/2026/09/michelle-yeoh-the-surgeon-sony-1237110527/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T19:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872536",
+      "title": "Roshan Sethi\u2019s \u2018The Surgeon\u2019 Acquired by Sony Pictures for North America and Beyond",
+      "url": "https://variety.com/2026/film/news/roshan-sethi-the-surgeon-sony-pictures-north-america-1236872536/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707752",
+      "title": "Sony Lands Michelle Yeoh Action Movie \u2018The Surgeon\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sony-lands-michelle-yeoh-action-the-surgeon-1236707752/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707671",
+      "title": "The Harvard Lampoon Targeted The Hollywood Reporter \u2014 Is Hollywood Still Targeting The Lampoon?",
+      "url": "https://www.hollywoodreporter.com/news/general-news/the-harvard-lampoon-hollywood-reporter-parody-1236707671/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-22T19:22:45+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757442",
+      "title": "ZEROBASEONE\u2019s Sung Han Bin Prepares for Solo Debut: Teaser Scheduler Released for 1st EP \u201cDEAD:ALIVE\u201d",
+      "url": "https://otakukart.com/zerobaseones-sung-han-bin-prepares-for-solo-debut-teaser-scheduler-released-for-1st-ep-deadalive/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T19:28:13+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757452",
+      "title": "EXO\u2019s Suho Expresses Regret as a Leader While Observing SEVENTEEN",
+      "url": "https://otakukart.com/exos-suho-expresses-regret-as-a-leader-while-observing-seventeen/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-22T19:25:56+00:00"
     }
   ]
 }
