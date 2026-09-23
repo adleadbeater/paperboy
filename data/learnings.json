@@ -1,45 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Playground Games Says Xbox Gave Fable a 10-Year Development Window Because the Series Is \"Vital to the Platform's DNA\"",
-      "tag": "fable",
-      "posted_at": "2026-09-16T14:01:20.767345+00:00",
-      "urls": [
-        "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games"
-      ],
-      "article_titles": [
-        "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says"
-      ]
-    },
-    {
-      "headline": "Fire Emblem: Fortune's Weave Reviews Are In \u2014 Great Tactics, Rough Pacing",
-      "tag": "fire emblem: fortune's weave",
-      "posted_at": "2026-09-16T14:01:21.014696+00:00",
-      "urls": [
-        "https://kotaku.com/fire-emblem-fortunes-weave-review-round-up-switch-2-2000735072",
-        "https://www.nintendolife.com/news/2026/09/round-up-the-reviews-for-fire-emblem-fortunes-weave-are-in"
-      ],
-      "article_titles": [
-        "Fire Emblem: Fortune\u2019s Weave Reviews Praise Tactical Combat, Warn Of Exhaustingly Long Runtime And Pacing Issues",
-        "Round Up: The Reviews For Fire Emblem: Fortune's Weave Are In"
-      ]
-    },
-    {
-      "headline": "Spider-Man: Brand New Day Is Now the Highest-Grossing Domestic Movie Ever, Topping Star Wars: The Force Awakens",
-      "tag": "spider-man: brand new day",
-      "posted_at": "2026-09-16T15:00:56.857125+00:00",
-      "urls": [
-        "https://deadline.com/2026/09/box-office-spider-man-brand-new-day-all-time-record-1237105183/",
-        "https://variety.com/2026/film/box-office/spider-man-beats-star-wars-biggest-movie-domestic-box-office-1236836593/",
-        "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-domestic-box-office-force-awakens-1236703398/"
-      ],
-      "article_titles": [
-        "Kapow! \u2018Spider-Man: Brand New Day\u2019 Beats \u2018Star Wars: Force Awakens\u2019 As Highest Grossing Movie Ever At Domestic Box Office With $936.7M",
-        "\u2018Spider-Man: Brand New Day\u2019 Overtakes \u2018Star Wars: Force Awakens\u2019 as Highest-Grossing Movie of All Time at Domestic Box Office",
-        "\u2018Spider-Man: Brand New Day\u2019 Hits No. 1 on All-Time Domestic Chart, Topping \u2018Force Awakens\u2019"
-      ]
-    },
-    {
       "headline": "The Studio Behind MindsEye Is Shutting Down After Latest Round of Layoffs",
       "tag": "mindseye",
       "posted_at": "2026-09-16T15:31:33.622910+00:00",
@@ -1132,6 +1093,17 @@
         "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
         "Persona Super Live 2027 Concert Will Last 3 Days"
       ]
+    },
+    {
+      "headline": "Slay the Spire Streamer Dropped by Agency After Calling Out U.S. Army Twitch Sponsorships",
+      "tag": "slay the spire",
+      "posted_at": "2026-09-23T15:01:12.612655+00:00",
+      "urls": [
+        "https://kotaku.com/popular-slay-the-spire-streamer-dropped-by-talent-agency-after-criticizing-u-s-army-sponsored-twitch-streams-2000736729"
+      ],
+      "article_titles": [
+        "Popular Slay The Spire Streamer \u2018Dropped\u2019 By Talent Agency After Criticizing U.S. Army\u2013Sponsored Twitch Streams"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1680,6 +1652,126 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-23T14:13:39+00:00"
+    },
+    {
+      "guid": "edb4b64f-d8f4-4196-968b-18eca75b0a74",
+      "title": "Marvel Rivals Needs an Intervention",
+      "url": "https://www.ign.com/articles/marvel-rivals-needs-an-intervention",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736729",
+      "title": "Popular Slay The Spire Streamer \u2018Dropped\u2019 By Talent Agency After Criticizing U.S. Army\u2013Sponsored Twitch Streams",
+      "url": "https://kotaku.com/popular-slay-the-spire-streamer-dropped-by-talent-agency-after-criticizing-u-s-army-sponsored-twitch-streams-2000736729",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T14:36:40+00:00"
+    },
+    {
+      "guid": "C2Wnna4ZLC5V5LhtKdSepg",
+      "title": "I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T14:39:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111054",
+      "title": "\u2018Closure\u2019 Trailer: In Oscar-Contending Documentary, A Desperate Father Searches For His Missing Son",
+      "url": "https://deadline.com/2026/09/closure-trailer-exclusive-1237111054/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111234",
+      "title": "Mikel Gurrea\u2019s \u2018Saints\u2019 Lands Distribution Deals Ahead Of San Sebasti\u00e1n Competition Debut \u2014 First Look Trailer",
+      "url": "https://deadline.com/2026/09/mikel-gurrea-saints-san-sebastian-trailer-1237111234/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T14:49:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111143",
+      "title": "As Living Room Viewing Booms, YouTube Debuts Live Dubbing, Shorts Series And Raft Of Other Features",
+      "url": "https://deadline.com/2026/09/made-on-youtube-living-room-viewing-live-shorts-1237111143/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T14:49:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111203",
+      "title": "YouTube Extends Exclusive Coachella Livestreams Through 2030",
+      "url": "https://deadline.com/2026/09/youtube-extends-coachella-livestreams-2030-1237111203/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T14:31:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872698",
+      "title": "Netflix Orders Two New Seasons of \u2018Chef\u2019s Table,\u2019 Devoted to \u2018Desserts\u2019 and \u2018Icons\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/netflix-two-new-seasons-chefs-table-desserts-icons-1236872698/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873226",
+      "title": "\u2018Star Trek\u2019 New York Comic-Con Panel to Feature William Shatner, \u2018Starfleet Academy\u2019 Season 2 Stars (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/star-trek-nycc-william-shatner-starfleet-academy-season-2-1236873226/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236708276",
+      "title": "YouTube Extends Deal to Stream Coachella Through 2030",
+      "url": "https://www.hollywoodreporter.com/business/digital/coachella-youtube-deal-2030-1236708276/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T14:33:56+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123530",
+      "title": "Chiikawa Anime English Dub Will Stream on YouTube",
+      "url": "https://www.siliconera.com/chiikawa-anime-english-dub-will-stream-on-youtube/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206699",
+      "title": "Bitmap Books Reprinting Some Excellent Tomes In October Inc. Go Straight, Artcade & More",
+      "url": "https://www.timeextension.com/news/2026/09/bitmap-books-reprinting-some-excellent-tomes-in-october-inc-go-straight-artcade-and-more",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-178525",
+      "title": "Fanmade Mega Drive Port of SNES Shooter Super Pang Polishes Off World 2 Development",
+      "url": "https://www.timeextension.com/news/2026/09/fanmade-mega-drive-port-of-snes-shooter-super-pang-polishes-off-world-2-development",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T14:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757637",
+      "title": "Robert Pattinson Reveals The Batman Part II Will Take a \u201cReal Left Turn\u201d From the First Movie",
+      "url": "https://otakukart.com/robert-pattinson-reveals-the-batman-part-ii-will-take-a-real-left-turn-from-the-first-movie/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T14:50:01+00:00"
+    },
+    {
+      "guid": "t3_1wo8b5l",
+      "title": "Paul Tassi: Destiny 2 campaign unvaults will be free for everyone, won't include any of the 25+ seasons and no more holiday events",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wo8b5l/paul_tassi_destiny_2_campaign_unvaults_will_be/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T14:57:18+00:00"
     }
   ]
 }
