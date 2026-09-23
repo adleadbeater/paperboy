@@ -1088,30 +1088,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000736746",
-      "title": "Bethesda President Addresses Obsidian Amid Questions About Whether It Will Be Demoted To A Support Studio",
-      "url": "https://kotaku.com/bethesda-president-addresses-obsidian-amid-questions-about-whether-it-will-be-demoted-to-a-support-studio-2000736746",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T15:20:01+00:00"
-    },
-    {
-      "guid": "QkcUsVm7qJiPBHPmaxRG3G",
-      "title": "Valve offers CS2 players eggs",
-      "url": "https://www.pcgamer.com/games/fps/valve-offers-cs2-players-eggs/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T15:24:42+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237111250",
-      "title": "\u2018Maserati: The Brothers\u2019 Actress Maya Talem Signs With MAD Celebrity",
-      "url": "https://deadline.com/2026/09/maserati-brothers-actress-maya-talem-signs-mad-celebrity-1237111250/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T15:29:18+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000736731",
       "title": "Dragon Age Director Finally Says What Fans Have Been Thinking For Years: The Fade Needs To Go",
       "url": "https://kotaku.com/dragon-age-origins-the-fade-mark-darrah-2000736731",
@@ -1136,28 +1112,12 @@
       "published_dt": "2026-09-23T15:37:13+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236872532",
-      "title": "Tom Cruise Is the Last Great Movie Star Still Chasing His Oscar. Can He Overcome \u2018Digger\u2019 Reviews to Get Him There?",
-      "url": "https://variety.com/2026/film/awards/tom-cruise-digger-oscars-chances-best-actor-1236872532/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T15:30:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236708364",
       "title": "Disney+ and Hulu Raise Prices, With Ad-Free Plans Topping $21 Each",
       "url": "https://www.hollywoodreporter.com/business/business-news/disney-plus-hulu-price-increases-september-2026-1236708364/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-23T15:33:14+00:00"
-    },
-    {
-      "guid": "37695612-474c-4b22-9ef2-ee2dcc12f6c3",
-      "title": "72-Year-Old Pok\u00e9mon Collector Arrested After Illegally Tracking Woman Who Restocked Local Stores",
-      "url": "https://www.ign.com/articles/72-year-old-pokemon-collector-arrested-after-illegally-tracking-woman-who-restocked-local-stores",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T15:27:26+00:00"
     },
     {
       "guid": "x7fN44MFcnMcaEZpfTBUqX",
@@ -1270,14 +1230,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-23T15:46:10+00:00"
-    },
-    {
-      "guid": "yrQDuVgZJAtCsBevUv4MY4",
-      "title": "RTS legend laid off after 16 years at Microsoft as Xbox guts Age of Empires studio World's Edge",
-      "url": "https://www.gamesradar.com/games/age-of-empires/rts-legend-laid-off-after-16-years-at-microsoft-as-xbox-guts-age-of-empires-studio-worlds-edge-we-had-some-great-plans-for-whats-next/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-23T15:30:30+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123518",
@@ -2166,6 +2118,46 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-23T19:08:55+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111668",
+      "title": "Jalen Brunson Has One Key Problem In New \u2018SNL\u2019 Promo",
+      "url": "https://deadline.com/2026/09/jalen-brunson-snl-promo-1237111668/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T19:26:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111720",
+      "title": "Olivia Wilde\u2019s A24 Relationship Dramedy \u2018The Invite\u2019 Sets HBO Max Premiere Date",
+      "url": "https://deadline.com/2026/09/the-invite-streaming-premiere-date-hbo-max-1237111720/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T19:23:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111640",
+      "title": "Dick Guttman Dies: Longtime Hollywood Publicist To Such Stars As Barbra Streisand, Clint Eastwood, Paul Newman, Gary Cooper And Many More Was 93",
+      "url": "https://deadline.com/2026/09/dick-guttman-dead-1237111640/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T19:17:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873619",
+      "title": "Juan Sebasti\u00e1n Mesa, Tatiana Huezo, Felipe Solari Yrigoyen Triumph at San Sebasti\u00e1n Industry Awards",
+      "url": "https://variety.com/2026/global/global/san-sebastian-industry-juan-sebastian-mesa-tatiana-huezo-1236873619/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T19:22:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236708664",
+      "title": "\u2018A Thousand Blows,\u2019 \u2018Man vs. Baby,\u2019 \u2018Careme\u2019 Among 2026 International Emmy Nominees",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmy-nominees-1236708664/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T19:16:22+00:00"
     }
   ]
 }
