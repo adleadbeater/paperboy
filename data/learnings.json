@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "HBO Boss Suggests The Last of Us Will End With Season 3",
-      "tag": "the last of us",
-      "posted_at": "2026-09-16T13:01:13.217744+00:00",
-      "urls": [
-        "https://www.eurogamer.net/hbo-last-of-us-final-season-3-maizin"
-      ],
-      "article_titles": [
-        "HBO boss continues to suggest The Last of Us Season 3 is the series' final season"
-      ]
-    },
-    {
       "headline": "Playground Games Says Xbox Gave Fable a 10-Year Development Window Because the Series Is \"Vital to the Platform's DNA\"",
       "tag": "fable",
       "posted_at": "2026-09-16T14:01:20.767345+00:00",
@@ -1119,6 +1108,17 @@
       "article_titles": [
         "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress"
       ]
+    },
+    {
+      "headline": "Former Halo Leaders Mourn \"Effective Closure\" of Halo Studios as Employees Are Promoted and Fired the Same Week",
+      "tag": "halo",
+      "posted_at": "2026-09-23T13:31:12.977482+00:00",
+      "urls": [
+        "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross"
+      ],
+      "article_titles": [
+        "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1203,6 +1203,158 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-23T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+      "title": "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week",
+      "url": "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:22:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111140",
+      "title": "DDA Vet Jack Davidson Exits To Launch Events Management Company JDL",
+      "url": "https://deadline.com/2026/09/dda-jack-davidson-exits-launch-events-management-company-1237111140/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:06:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237111142",
+      "title": "French Film & TV Sectors Sound Alarm Over Cuts To State Broadcaster Budget; Say They Are At Odds With Macron\u2019s Lumi\u00e8re Summit Pledges",
+      "url": "https://deadline.com/2026/09/french-film-tv-alarm-cuts-state-broadcaster-1237111142/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:05:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236867010",
+      "title": "Kerry Washington Expands \u2018Street You Grew Up On\u2019 Interview Series Into Weekly Ongoing Podcast From Her Simpson Street Production Company and Daylight",
+      "url": "https://variety.com/2026/digital/news/kerry-washington-street-you-grew-up-podcast-weekly-1236867010/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873155",
+      "title": "\u2018Heated Rivalry\u2019 Star Callan Potter, Cobie Smulders, Iris Apatow Joined by Colin Mochrie, Andrea Martin in \u2018Any Way You Want Me\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/colin-mochrie-andrea-martin-any-way-you-want-me-cast-1236873155/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:19:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236803988",
+      "title": "\u2018Ray Gunn\u2019 Trailer: Sam Rockwell and Scarlett Johansson Star in Netflix\u2019s Sci-Fi Murder Mystery From \u2018Incredibles\u2019 Director",
+      "url": "https://variety.com/2026/film/news/ray-gunn-trailer-netflix-scarlett-johansson-sam-rockwell-1236803988/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:17:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872982",
+      "title": "Taylor Swift Announces \u2018The Life of a Showgirl: The Encore\u2019 Album With Four New Songs",
+      "url": "https://variety.com/2026/music/news/taylor-swift-reveals-life-of-showgirl-encore-new-songs-1236872982/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:16:56+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236856369",
+      "title": "\u2018You Can See Everything\u2019 Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates Her Husband in Documentary",
+      "url": "https://variety.com/2026/film/news/you-can-see-everything-trailer-nathan-fielder-elizabeth-holmes-1236856369/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:10:49+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873146",
+      "title": "Oasis Adds More Live \u201927 Shows in U.K., Italy and Germany",
+      "url": "https://variety.com/2026/music/global/oasis-more-live-27-shows-uk-italy-germany-1236873146/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:05:49+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872974",
+      "title": "Hilary Duff Announces Additional 32 Dates for \u2018The Lucky Me\u2019 Tour in Europe, Latin America and the United States",
+      "url": "https://variety.com/2026/music/news/hilary-duff-the-lucky-me-tour-additional-dates-1236872974/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872986",
+      "title": "Colleen Hoover and Michael Showalter on How Anne Hathaway and Dakota Johnson Made \u2018Verity\u2019 More Erotic, \u2018It Ends With Us\u2019 Drama and Sex in Movies",
+      "url": "https://variety.com/2026/film/features/verity-colleen-hoover-anne-hathaway-dakota-johnson-erotic-1236872986/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236708297",
+      "title": "\u2018Digger\u2019: Tom Cruise\u2019s \u201cBrave Gorgeous Misfire\u201d Gets Very Mixed First Reactions",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/digger-reviews-tom-cruise-1236708297/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:26:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707858",
+      "title": "Meet One of the Key Republicans Championing a Federal Film and TV Tax Credit",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/brian-jack-federal-film-tv-tax-credit-1236707858/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:25:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707741",
+      "title": "Broadcast TV Bounces Back: More Orders as Network Fare Drives Streaming Ratings",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/broadcast-tv-orders-streaming-ratings-1236707741/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T13:15:00+00:00"
+    },
+    {
+      "guid": "3EHm2tMWVRSNHbp3Zu3RBE",
+      "title": "The Incredibles director's new movie gets a gorgeous first trailer that is a love letter to classic detective noirs with a sci-fi twist",
+      "url": "https://www.gamesradar.com/entertainment/animation-movies/the-incredibles-directors-new-movie-gets-a-gorgeous-first-trailer-that-is-a-love-letter-to-classic-detective-noirs-with-a-sci-fi-twist/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T13:01:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206709",
+      "title": "Rayman Legends Retold Trailer Highlights Stunning Recreation Of The Glade of Dreams",
+      "url": "https://www.timeextension.com/news/2026/09/rayman-legends-retold-trailer-highlights-stunning-recreation-of-the-glade-of-dreams",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206714",
+      "title": "Secret Base Video Shows Battletoads x Double Dragon Gaiden Crossover That Never Happened",
+      "url": "https://www.timeextension.com/news/2026/09/secret-base-video-shows-battletoads-x-double-dragon-gaiden-crossover-that-never-happened",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1080536",
+      "title": "Fallen Tear: The Ascension coming to PS5, Xbox Series, and Switch in 2027",
+      "url": "https://www.gematsu.com/2026/09/fallen-tear-the-ascension-coming-to-ps5-xbox-series-and-switch-in-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T13:13:58+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1080532",
+      "title": "Titan Quest II launches January 19, 2027",
+      "url": "https://www.gematsu.com/2026/09/titan-quest-ii-launches-january-19-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T13:05:22+00:00"
     }
   ]
 }
