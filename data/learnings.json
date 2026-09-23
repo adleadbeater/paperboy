@@ -1125,36 +1125,84 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237110879",
-      "title": "Trump Insists White House Ban On CNN & MS Now  \u201cLawful Under The First Amendment\u201d; TRO Hearing Showdown Set For Wednesday",
-      "url": "https://deadline.com/2026/09/trump-cnn-ban-lawsuit-latest-1237110879/",
+      "guid": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
+      "title": "Stellar Blade is a success now but once came close to the brink: \"We could only pay salaries for about three months\"",
+      "url": "https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T12:36:54+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+      "title": "Age of Empires studio World's Edge reportedly lost \"nearly half\" of its staff during yesterday's Xbox cuts and move to Activision",
+      "url": "https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T12:33:37+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736716",
+      "title": "State Of Decay 3 Studio Lays Off A \u2018Significant\u2019 Number Of Developers But Says It Won\u2019t Impact The Game",
+      "url": "https://kotaku.com/state-of-decay-3-studio-lays-off-a-significant-number-of-developers-but-says-it-wont-impact-the-game-2000736716",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T12:56:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237109910",
+      "title": "Tubi\u2019s Brett Takeshita Joins Canada\u2019s Enlighten Content",
+      "url": "https://deadline.com/2026/09/brett-takeshita-joins-enlighten-content-from-tubi-1237109910/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-23T03:52:26+00:00"
+      "published_dt": "2026-09-23T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237110327",
-      "title": "Liz Murdoch & Jane Featherstone\u2019s Sister Group Takes Stake In Common Interest",
-      "url": "https://deadline.com/2026/09/liz-murdoch-sister-group-stake-partnership-common-interest-1237110327/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T05:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236856874",
-      "title": "\u2018Fluorescent, Dirty and Sexy\u2019: Eire Cid\u2019s \u2018The Imaginary Kings\u2019 Presented at Madrid Film School (ECAM) Incubator",
-      "url": "https://variety.com/2026/film/global/eire-cid-the-imaginary-kings-ecam-incubator-2026-1236856874/",
+      "guid": "https://variety.com/?p=1236873137",
+      "title": "Sony Music Group Becomes First Music Company to Join AI Content Coalition ARIAM",
+      "url": "https://variety.com/2026/music/news/sony-music-group-joins-ai-content-coalition-ariam-1236873137/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-23T05:15:00+00:00"
+      "published_dt": "2026-09-23T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236872327",
-      "title": "Sister Group Strikes Partnership With Branded Entertainment Company Common Interest, Makes Minority Investment",
-      "url": "https://variety.com/2026/film/global/sister-group-strikes-partnership-company-common-interest-1236872327/",
+      "guid": "https://variety.com/?p=1236873129",
+      "title": "Bong Joon Ho Has \u2018Two or Three\u2019 Ideas for Crime and Horror Movies After Animated \u2018Ally,\u2019 Which He Hopes to Debut at a Festival Next Year",
+      "url": "https://variety.com/2026/film/news/bong-joon-ho-crime-horror-return-ally-1236873129/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-23T05:00:00+00:00"
+      "published_dt": "2026-09-23T12:53:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236708288",
+      "title": "Cineplex Puts Up \u201cFor Sale\u201d Sign as It Names New CEO",
+      "url": "https://www.hollywoodreporter.com/business/business-news/cineplex-for-sale-sign-new-ceo-1236708288/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-23T12:41:57+00:00"
+    },
+    {
+      "guid": "LKuT3Q7UNrNhTvzbYpHitd",
+      "title": "The PS6's controller might be able to take contactless payments, according to this new patent",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-ps6s-controller-might-be-able-to-take-contactless-payments-or-transfer-your-card-and-login-details-to-the-console-a-new-patent-suggests/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T12:27:17+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206713",
+      "title": "600+ PS5 Games Going Cheap in New PS Store Sale, Including Halo and AC Black Flag Resynced",
+      "url": "https://www.pushsquare.com/news/2026/09/600plus-ps5-games-going-cheap-in-new-ps-store-sale-including-halo-and-ac-black-flag-resynced",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123428",
+      "title": "Review: FFXIV Is Growing Into a Solid Switch 2 Game",
+      "url": "https://www.siliconera.com/review-ffxiv-is-growing-into-a-solid-switch-2-game/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-23T13:00:00+00:00"
     }
   ]
 }
