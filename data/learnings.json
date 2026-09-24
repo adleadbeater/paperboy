@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Sam Raimi and Josh Cooley Are Adapting Survival Horror Game '99 Nights in the Forest' for 20th Century Studios",
-      "tag": "99 nights in the forest",
-      "posted_at": "2026-09-17T18:01:09.245575+00:00",
-      "urls": [
-        "https://deadline.com/2026/09/99-nights-in-the-forest-movie-josh-cooley-sam-raimi-20th-1237106669/",
-        "https://www.hollywoodreporter.com/movies/movie-news/99-nights-in-the-forest-josh-cooley-20th-century-studios-film-1236704624/"
-      ],
-      "article_titles": [
-        "Josh Cooley & Sam Raimi Teaming To Develop \u201999 Nights In The Forest\u2019 For 20th Century Studios",
-        "\u201999 Nights in the Forest\u2019: Josh Cooley to Pen 20th Century Studios\u2019 Adaptation of Survival Horror Video Game (Exclusive)"
-      ]
-    },
-    {
       "headline": "Blood of Dawnwalker's Sequel Won't Force Its Divisive Time Mechanic on Players, Director Says",
       "tag": "blood of dawnwalker",
       "posted_at": "2026-09-17T21:01:09.639428+00:00",
@@ -943,115 +930,22 @@
         "Call Of Duty: Modern Warfare 4 Adding Highly Requested Option To Hide Silly Skins In Warzone",
         "Call Of Duty: Modern Warfare 4 Adding Highly-Requested Option To Hide Silly Skins In Warzone"
       ]
+    },
+    {
+      "headline": "Bungie Is Expanding Marathon With a New Zone, Social Space, and Deathmatch Mode",
+      "tag": "marathon",
+      "posted_at": "2026-09-24T18:31:01.045147+00:00",
+      "urls": [
+        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026"
+      ],
+      "article_titles": [
+        "Marathon Is Becoming A Much Bigger Game As Bungie Teases A New Zone, Social Space, Deathmatch Mode, And More"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000736948",
-      "title": "State Of Decay 3 Studio Almost Sold To Splash Damage Before The Deal Fell Through",
-      "url": "https://kotaku.com/state-of-decay-3-studio-almost-sold-to-splash-damage-before-the-deal-fell-through-2000736948",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:15:40+00:00"
-    },
-    {
-      "guid": "YmEFWfgZNB8uj5Hjp3fovf",
-      "title": "Join me in meditating on clubbing a WoW scorpion",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/join-me-in-meditating-on-clubbing-a-wow-scorpion/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:11:59+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237112427",
-      "title": "Gail MacKinnon To Step Down From Top MPA Post",
-      "url": "https://deadline.com/2026/09/gail-mackinnon-to-leave-mpa-1237112427/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:19:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1236657136",
-      "title": "\u2018Madden\u2019 Trailer: Boom! Nicolas Cage Transforms In David O. Russell\u2019s Biopic Of NFL Icon",
-      "url": "https://deadline.com/2026/09/madden-trailer-nicolas-cage-john-madden-1236657136/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:15:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236874307",
-      "title": "Meta Unveils VR Glasses for $1,299, Promises 3D Films from Lionsgate, James Cameron, and Enhanced Versions of \u2018Avengers\u2019 and \u2018Star Wars\u2019",
-      "url": "https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:26:03+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236873592",
-      "title": "\u2018The Mick Jagger of Auctions\u2019 Celebrated in Simon Wallon\u2019s \u2018The Hammer\u2019: \u2018He\u2019s in the Shadows but Also in the Spotlight\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/the-hammer-simon-wallon-auctioneer-simon-de-pury-jagger-1236873592/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:08:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236709292",
-      "title": "\u2018WWE Main Event\u2019 Moves From YouTube to Rumble, a Conservative Streaming Platform Backed by JD Vance",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/wwe-main-event-moves-youtube-conservative-platform-rumble-1236709292/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:24:31+00:00"
-    },
-    {
-      "guid": "cUYSEMCSz23F5Jhp8YugsN",
-      "title": "Palworld lead says survival game genre has \"found its stride\" with the likes of Valheim 1.0 and Dune",
-      "url": "https://www.gamesradar.com/games/survival/palworld-lead-says-survival-game-genre-has-found-its-stride-with-the-likes-of-valheim-1-0-and-dune-awakening-after-being-plagued-with-100-hit-or-miss-games-a-year/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:22:19+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206778",
-      "title": "Control Resonant Made Easier After Player Feedback, PS5 Patch Live Now",
-      "url": "https://www.pushsquare.com/news/2026/09/control-resonant-made-easier-after-player-feedback-ps5-patch-live-now",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1080526",
-      "title": "Deck of Haunts for PS5, Xbox Series, Switch 2, Xbox One, and Switch launches October 8",
-      "url": "https://www.gematsu.com/2026/09/deck-of-haunts-for-ps5-xbox-series-switch-2-xbox-one-and-switch-launches-october-8",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:00:39+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1080599",
-      "title": "BeamNG.drive Early Access for PS5 launches October 19",
-      "url": "https://www.gematsu.com/2026/09/beamng-drive-early-access-for-ps5-launches-october-19",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:00:32+00:00"
-    },
-    {
-      "guid": "t3_1wp2t1o",
-      "title": "Aftermath: Current id Software describes current Xbox management (Internal unrealistic aggressive goals, profit now focus, low employee morale, incompetent Xbox management)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wp2t1o/aftermath_current_id_software_describes_current/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:14:44+00:00"
-    },
-    {
-      "guid": "5d249f8b-262b-45ea-9110-1ad81ee565d8",
-      "title": "Early Amazon Prime Day Deals Drop on MTG Final Fantasy, Marvel, and TMNT Sets in the UK",
-      "url": "https://www.ign.com/articles/best-mtg-prime-day-deals-uk",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:30:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000736857",
       "title": "Meta Promises Lightweight VR Multimedia Headset, Launching in Spring 2027",
@@ -1067,14 +961,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-09-24T14:50:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237112372",
-      "title": "David Oyelowo & Viola Prettejohn To Star In \u2018The Girl With The Dragon Tattoo\u2019 TV Series For Sky",
-      "url": "https://deadline.com/2026/09/girl-with-the-dragon-tattoo-david-oyelowo-viola-prettejohn-1237112372/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:30:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236874352",
@@ -1139,14 +1025,6 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-24T14:50:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206782",
-      "title": "Analogue 3D Firmware Update v1.5.1 Is Now Available, And Here Are The Full Patch Notes",
-      "url": "https://www.timeextension.com/news/2026/09/analogue-3d-firmware-update-v1-5-1-is-now-available-and-here-are-the-full-patch-notes",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:30:00+00:00"
     },
     {
       "guid": "https://www.belloflostsouls.net/?p=620631",
@@ -2139,6 +2017,118 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000737026",
+      "title": "Marathon Is Becoming A Much Bigger Game As Bungie Teases A New Zone, Social Space, Deathmatch Mode, And More",
+      "url": "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:29:12+00:00"
+    },
+    {
+      "guid": "YpDYMu2XZVZuCZ296BPsZ3",
+      "title": "'We all thought we were bringing extraction to the masses, and we didn't'",
+      "url": "https://www.pcgamer.com/games/we-all-thought-we-were-bringing-extraction-to-the-masses-and-we-didnt/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:20:56+00:00"
+    },
+    {
+      "guid": "XPpwaoiYvtDQXsw6i38GnR",
+      "title": "I love modders",
+      "url": "https://www.pcgamer.com/games/i-love-modders-skyrim-thinking-animation-for-shoppers/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:12:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112727",
+      "title": "Dealmakers React To Paramount-WBD Settlement: \u201cTech Has Won\u201d",
+      "url": "https://deadline.com/2026/09/paramount-wbd-merger-dealmakers-tech-1237112727/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:24:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112770",
+      "title": "John Stamos Signs With Untitled",
+      "url": "https://deadline.com/2026/09/john-stamos-signs-untitled-1237112770/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874353",
+      "title": "Sam Worthington and Sofia Carson to Star in \u2018The Parsifal Mosaic\u2019 TV Show in the Works at Hulu, Legendary (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/the-parsifal-mosaic-tv-show-sam-worthington-hulu-1236874353/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236708907",
+      "title": "Federal Film and TV Tax Credit Hits Congress: Bipartisan Group Introduces Hollywood Bill",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/federal-film-tv-tax-credit-officially-introduced-1236708907/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:24:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709470",
+      "title": "Teyana Taylor, Charli xcx, Belmont Cameli Join 2026 MTV VMAs Presenters Lineup (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/music/music-news/2026-mtv-vma-presenters-teyana-taylor-charli-xcx-belmont-cameli-1236709470/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:19:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709499",
+      "title": "Richard S. Reisberg, Top Television Executive at Viacom and MGM/UA, Dies at 85",
+      "url": "https://www.hollywoodreporter.com/business/business-news/richard-reisberg-dead-viacom-mgm-ua-television-1236709499/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:08:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236705277",
+      "title": "Stephen A. Smith Explains How SiriusXM Is Becoming a Home for Political Independents",
+      "url": "https://www.hollywoodreporter.com/business/digital/siriusxm-potus-channel-political-independents-1236705277/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:07:36+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206723",
+      "title": "Hands On: Viture Pro 2 XR Glasses - Big-Screen On A Budget",
+      "url": "https://www.nintendolife.com/features/hands-on-viture-pro-2-xr-glasses-big-screen-on-a-budget",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206800",
+      "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-pre-orders-heavily-skewed-towards-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=620811",
+      "title": "D&D And World Of Warcraft Have Joined Forces Before \u2013 The Surprising History Of WoW X D&D",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-and-world-of-warcraft-have-joined-forces-before-the-surprising-history-of-wow-x-dd.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/historicals-victrix-imperial-rome-warband-as-a-starter-set/",
+      "title": "Historicals: Victrix Imperial Rome Warband as a Starter Set",
+      "url": "https://www.tabletopbattles.com/historicals-victrix-imperial-rome-warband-as-a-starter-set/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:00:11+00:00"
     }
   ]
 }
