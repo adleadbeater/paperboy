@@ -1,67 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Take-Two Boss Fires Back at Investors Over GTA 6 Delays, Confirms PC Is a Growing Priority",
-      "tag": "gta 6",
-      "posted_at": "2026-09-17T15:31:12.596038+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/gta-6-boss-says-pc-is-becoming-more-and-more-important/",
-        "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-about-to-launch-take-two-boss-unloads-on-investor-criticizing-years-of-delays-missed-expectations-and-continued-dependence-on-a-small-number-of-major-franchises/"
-      ],
-      "article_titles": [
-        "GTA 6 Boss Says PC Is Becoming \u201cMore And More Important\u201d",
-        "With GTA 6 about to launch, Take-Two boss unloads on investor criticizing \"years of delays, missed expectations, and continued dependence on a small number of major franchises\""
-      ]
-    },
-    {
-      "headline": "Persona 4 Revival Gets a New TGS 2026 Trailer Spotlighting Naoto Shirogane",
-      "tag": "persona 4 revival",
-      "posted_at": "2026-09-17T15:31:12.766283+00:00",
-      "urls": [
-        "https://www.siliconera.com/tgs-2026-persona-4-revival-trailer-focuses-on-naoto-shirogane/",
-        "https://www.siliconera.com/tgs-2026-persona-4-revival-trailer-focuses-on-naoto-shirogane/"
-      ],
-      "article_titles": [
-        "TGS 2026 Persona 4 Revival Trailer Focuses on Naoto Shirogane",
-        "TGS 2026 Persona 4 Revival Trailer Focuses on Naoto Shirogane"
-      ]
-    },
-    {
-      "headline": "Ghostrunner Devs Set Valor Mortis at $40, Calling Out a Crowded Holiday Season",
-      "tag": "valor mortis",
-      "posted_at": "2026-09-17T15:43:51.411477+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/09/with-the-quality-fidelity-and-play-time-of-a-usd70-ps5-game-valor-mortis-asks-for-usd40",
-        "https://kotaku.com/ghostrunner-devs-explain-why-their-napoleon-soulslike-valor-mortis-is-just-40-the-fall-is-stacked-and-theres-high-demand-for-your-time-and-money-2000735278"
-      ],
-      "article_titles": [
-        "With the 'Quality, Fidelity, and Play Time' of a $70 PS5 Game, Valor Mortis Asks for $40",
-        "Ghostrunner Devs Explain Why Their Napoleon Soulslike Valor Mortis Is Just $40: \u2018The Fall Is Stacked And There\u2019s High Demand For Your Time And Money\u2019"
-      ]
-    },
-    {
-      "headline": "Bloomwalker Is Now an Official Ni No Kuni Spin-Off",
-      "tag": "ni no kuni",
-      "posted_at": "2026-09-17T15:43:51.636853+00:00",
-      "urls": [
-        "https://kotaku.com/studio-ghibli-looking-cozy-simbloomwalker-is-now-officially-a-ni-no-kuni-spin-off-2000735267"
-      ],
-      "article_titles": [
-        "Studio Ghibli-Looking Cozy SimBloomwalker Is Now Officially A Ni No Kuni Spin-Off"
-      ]
-    },
-    {
-      "headline": "Brandon Sanderson Opens Up on Blightfall, Wheel of Time, and Game of Thrones",
-      "tag": "blightfall",
-      "posted_at": "2026-09-17T15:43:51.863784+00:00",
-      "urls": [
-        "https://www.ign.com/articles/brandon-sanderson-exclusive-interview-mistborn-movie-wheel-of-time"
-      ],
-      "article_titles": [
-        "Brandon Sanderson Talks Blightfall, Wheel of Time, and Games of Thrones in Exclusive Interview"
-      ]
-    },
-    {
       "headline": "Backrooms Director Kane Parsons Has Now Visited Valve Twice This Year, Fueling Portal Film Speculation",
       "tag": "portal",
       "posted_at": "2026-09-17T16:31:10.870246+00:00",
@@ -970,6 +909,41 @@
       ],
       "article_titles": [
         "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs"
+      ]
+    },
+    {
+      "headline": "Control Resonant Gets Day-One Patch Nerfing Enemy Difficulty After Player Pushback",
+      "tag": "control resonant",
+      "posted_at": "2026-09-24T15:59:17.425502+00:00",
+      "urls": [
+        "https://kotaku.com/control-resonant-gets-day-one-patch-making-enemies-easier-to-kill-2000736960",
+        "https://www.pushsquare.com/news/2026/09/control-resonant-made-easier-after-player-feedback-ps5-patch-live-now"
+      ],
+      "article_titles": [
+        "Control Resonant Gets Day-One Patch Making Enemies Easier To Kill",
+        "Control Resonant Made Easier After Player Feedback, PS5 Patch Live Now"
+      ]
+    },
+    {
+      "headline": "Former Bethesda Dev Says Starfield Wasn't Successful Enough to Warrant a Sequel",
+      "tag": "starfield",
+      "posted_at": "2026-09-24T15:59:17.664878+00:00",
+      "urls": [
+        "https://www.ign.com/articles/i-dont-think-starfield-was-anywhere-near-successful-enough-to-do-a-starfield-2-former-bethesda-dev-casts-doubt-on-sequel"
+      ],
+      "article_titles": [
+        "'I Don\u2019t Think Starfield Was Anywhere Near Successful Enough to Do a Starfield 2' \u2013 Former Bethesda Dev Casts Doubt on Sequel"
+      ]
+    },
+    {
+      "headline": "Warhammer 40K: Space Marine 2 Confirms Its Next Playable Class",
+      "tag": "warhammer 40,000: space marine 2",
+      "posted_at": "2026-09-24T15:59:17.920740+00:00",
+      "urls": [
+        "https://www.ign.com/articles/warhammer-40000-space-marine-2s-new-class-is-finally-confirmed-and-its-exactly-what-everyone-suspected"
+      ],
+      "article_titles": [
+        "Warhammer 40,000 Space Marine 2's New Class Is Finally Confirmed \u2014 and It's Exactly What Everyone Suspected"
       ]
     }
   ],
@@ -1895,6 +1869,118 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-24T15:17:27+00:00"
+    },
+    {
+      "guid": "830f9ecd-87c3-4292-ab11-9b7ed93637cf",
+      "title": "'I Don\u2019t Think Starfield Was Anywhere Near Successful Enough to Do a Starfield 2' \u2013 Former Bethesda Dev Casts Doubt on Sequel",
+      "url": "https://www.ign.com/articles/i-dont-think-starfield-was-anywhere-near-successful-enough-to-do-a-starfield-2-former-bethesda-dev-casts-doubt-on-sequel",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:36:00+00:00"
+    },
+    {
+      "guid": "ef37b360-d7ed-4b6a-808d-5075c876f5bb",
+      "title": "Warhammer 40,000 Space Marine 2's New Class Is Finally Confirmed \u2014 and It's Exactly What Everyone Suspected",
+      "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2s-new-class-is-finally-confirmed-and-its-exactly-what-everyone-suspected",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:33:32+00:00"
+    },
+    {
+      "guid": "48897989-48e1-4a34-8b79-06ba70c7f187",
+      "title": "Activision\u2019s Halo Must Go Beyond Bungie",
+      "url": "https://www.ign.com/articles/activisions-halo-must-go-beyond-bungie",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=247120",
+      "title": "Grand Theft Auto 6 is getting a $400 box of merch with 11 items including a figure, New Era hat and sunglasses",
+      "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-400-box-of-merch-with-11-items-including-a-figure-sunglasses-and-new-era-hat/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:34:37+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736960",
+      "title": "Control Resonant Gets Day-One Patch Making Enemies Easier To Kill",
+      "url": "https://kotaku.com/control-resonant-gets-day-one-patch-making-enemies-easier-to-kill-2000736960",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:38:54+00:00"
+    },
+    {
+      "guid": "G3DfFbXbSJQYnNUYHXwYRi",
+      "title": "Survival game buildings, Part 1",
+      "url": "https://www.pcgamer.com/games/survival-crafting/survival-game-buildings-part-1/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:29:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112569",
+      "title": "Netflix-Acquired Animation \u2018In Waves\u2019 To Open The American French Film Festival",
+      "url": "https://deadline.com/2026/09/netflix-in-waves-open-the-american-french-film-festival-1237112569/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:51:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112445",
+      "title": "\u2018Happy Valley\u2019 Star Sarah Lancashire Leading Dark Netflix Series About A Modern-Day Witch Hunt",
+      "url": "https://deadline.com/2026/09/netflix-sarah-lancashire-witch-hunt-abi-morgan-sister-1237112445/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874481",
+      "title": "Charlie Brooker\u2019s New Netflix Series Gets Title, \u2018Blackmere,\u2019 as Rory Kinnear Joins Cast and First-Look Photos Revealed",
+      "url": "https://variety.com/2026/tv/global/charlie-brooker-new-series-title-blackmere-rory-kinnear-cast-1236874481/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:50:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874496",
+      "title": "\u2018Black Doves\u2019 Season 2 Trailer: Keira Knightley Investigates Spy Murders With a New Team in Netflix Action Thriller",
+      "url": "https://variety.com/2026/tv/news/black-doves-season-2-trailer-netflix-keira-knightley-1236874496/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:49:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874505",
+      "title": "Music Industry Moves: Chvrches Sign With Futures Music Group; MSG Entertainment Names Josephine Vaccarello President",
+      "url": "https://variety.com/2026/music/news/chvrches-sign-with-futures-1236874505/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:38:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236708771",
+      "title": "Dodgers Star Mookie Betts Signs With 3 Arts Sports",
+      "url": "https://www.hollywoodreporter.com/business/business-news/dodgers-mookie-betts-3-arts-sports-1236708771/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:47:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709341",
+      "title": "\u2018Nobody Wants This\u2019 Takes a Big Step in Season 3 Trailer",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nobody-wants-this-season-3-trailer-1236709341/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:34:34+00:00"
+    },
+    {
+      "guid": "1895343",
+      "title": "GTA 6 $400 Collector\u2019s Edition Comes With Everything Except The Game",
+      "url": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T15:26:16+00:00"
     }
   ]
 }
