@@ -947,102 +947,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000736857",
-      "title": "Meta Promises Lightweight VR Multimedia Headset, Launching in Spring 2027",
-      "url": "https://kotaku.com/meta-vr-glasses-promises-a-lightweight-vr-multimedia-headset-launching-in-spring-2027-2000736857",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:30:33+00:00"
-    },
-    {
-      "guid": "2sVSua77w22xm4ejLkcyTn",
-      "title": "My failed Steam Frame teardown... and iFixit's successful one",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/my-failed-steam-frame-teardown-and-ifixits-successful-one/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:50:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236874352",
-      "title": "Macklemore Announces \u2018Free Palestine\u2019 Tour With All Ticket Sales Being Donated to Charity",
-      "url": "https://variety.com/2026/music/news/macklemore-free-palestine-tour-1236874352/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:55:45+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236874335",
-      "title": "RedBird Capital Signs Deal to Acquire Majority Stake in Puck, Valuing Media-Biz Outfit at $250 Million",
-      "url": "https://variety.com/2026/biz/news/redbird-acquires-puck-250-million-valuation-1236874335/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:46:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236873402",
-      "title": "\u2018Ancestors\u2019 Review: An Exquisite \u00c9anna Hardwicke Carries a Queer Elegy for a Lost Generation",
-      "url": "https://variety.com/2026/film/reviews/ancestors-review-1236873402/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:33:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236707093",
-      "title": "Taylor Tomlinson on Quitting Late Night and Staying Quiet \u2014 Until Now",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/taylor-tomlinson-quitting-late-night-staying-quiet-interview-1236707093/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236709304",
-      "title": "RedBird Clinches Deal to Become Lead Investor in Puck",
-      "url": "https://www.hollywoodreporter.com/business/business-news/redbird-closes-deal-become-lead-investor-puck-1236709304/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T14:35:33+00:00"
-    },
-    {
-      "guid": "U4sCAWPtBfnLdgPWW8ea8J",
-      "title": "$2million Lord of the Rings RPG crowdfunding campaign is so popular it's had to make new stretch goals",
-      "url": "https://www.gamesradar.com/tabletop-gaming/usd2million-lord-of-the-rings-rpg-crowdfunding-campaign-is-so-popular-its-had-to-make-new-stretch-goals/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:33:12+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206784",
-      "title": "Pok\u00e9mon TCG Pocket's Next Expansion Has A Guaranteed Rare In Every Pack",
-      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-pockets-next-expansion-has-a-guaranteed-rare-in-every-pack",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:45:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-182354",
-      "title": "\"I Can Make What's Inside Your Head Live Forever\" - New Trailer For Nicolas Cage's Madden Biopic Shows The Genesis Of EA's Million-Selling Series",
-      "url": "https://www.timeextension.com/news/2026/09/i-can-make-whats-inside-your-head-live-forever-new-trailer-for-nicolas-cages-madden-biopic-shows-the-genesis-of-eas-million-selling-serie",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:50:00+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=620631",
-      "title": "D&D: Five Surprising Things You Can Do To Get In Your Character\u2019s Head",
-      "url": "https://www.belloflostsouls.net/2026/09/dd-five-surprising-things-you-can-do-to-get-in-your-characters-head.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T15:00:00+00:00"
-    },
-    {
-      "guid": "t3_1wp3wk2",
-      "title": "The Game Business summary on Xbox.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wp3wk2/the_game_business_summary_on_xbox/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T14:57:17+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000736975",
       "title": "Rockstar Reveals $400 Grand Theft Auto 6 Box Of Stuff That Doesn\u2019t Include The Game",
       "url": "https://kotaku.com/rockstar-reveals-400-special-edition-of-grand-theft-auto-6-2000736975",
@@ -1097,14 +1001,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-09-24T15:04:11+00:00"
-    },
-    {
-      "guid": "XmEnSuDMmPC7zeN7k6RTzB",
-      "title": "My first MMO character #4: Lincoln Carpenter",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-4-lincoln-carpenter/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237112503",
@@ -1195,14 +1091,6 @@
       "published_dt": "2026-09-24T15:07:44+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236707229",
-      "title": "Taylor Tomlinson on the Messy Demise of Her Late Night Career (Exclusive Excerpt)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/taylor-tomlinson-quitting-after-midnight-book-excerpt-1236707229/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:00:00+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-206736",
       "title": "Nintendo Download: 24th September (North America) - Plus 3 Games Worth Picking Up On Sale",
       "url": "https://www.nintendolife.com/news/2026/09/nintendo-download-24th-september-north-america-plus-3-games-worth-picking-up-on-sale",
@@ -1219,28 +1107,12 @@
       "published_dt": "2026-09-24T15:30:00+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-206781",
-      "title": "Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs",
-      "url": "https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T15:00:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1123588",
       "title": "Bleach Voice Actors for Ichigo, Orihime, Rukia, and Renji\u2019s Kids Teased",
       "url": "https://www.siliconera.com/bleach-voice-actors-for-ichigo-orihime-rukia-and-renjis-kids-teased/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-24T15:00:46+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206773",
-      "title": "Modder Successfully Creates Atari Jaguar OS, Envisioning The Unreleased 'Atari Painter' Home Computer",
-      "url": "https://www.timeextension.com/news/2026/09/modder-successfully-creates-atari-jaguar-os-envisioning-the-unreleased-atari-painter-home-computer",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T15:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1757752",
@@ -2129,6 +2001,102 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-09-24T18:00:11+00:00"
+    },
+    {
+      "guid": "pcePdW8HzUm5iupYwyQw8B",
+      "title": "PC Gamer's Hyperfeed beta is live",
+      "url": "https://www.pcgamer.com/gaming-industry/pc-gamer-hyperfeed-beta-is-live/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:43:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112583",
+      "title": "Apple TV Comedy \u2018Protective Custody\u2019 Rounds Out Cast With Five More Additions",
+      "url": "https://deadline.com/2026/09/protective-custody-tv-series-cast-adds-five-1237112583/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112724",
+      "title": "Lawmakers Introduce Bill For 20% Federal Film & TV Incentive",
+      "url": "https://deadline.com/2026/09/federal-film-incentive-bill-introduced-1237112724/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:31:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112818",
+      "title": "Mekki Leeper Workplace Comedy Set In World Of Private Equity Ordered To Series By Prime Video",
+      "url": "https://deadline.com/2026/09/mekki-leeper-new-money-ordered-to-series-prime-video-1237112818/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874529",
+      "title": "Judge Questions Legal Points of Paramount\u2019s Settlement With States at Hearing, Says a Ruling Will Come in \u2018Due Course\u2019",
+      "url": "https://variety.com/2026/film/news/judge-paramount-state-ags-settlement-hearing-1236874529/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:57:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874721",
+      "title": "Los Angeles Dodgers\u2019 Mookie Betts signs with 3 Arts Sports and Sanders Sports & Entertainment",
+      "url": "https://variety.com/2026/sports/news/los-angeles-dodgers-mookie-betts-signs-1236874721/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:42:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709435",
+      "title": "Are Matthew McConaughey and Woody Harrelson Really \u2018Brothers\u2019?",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/matthew-mcconaughey-woody-harrelson-brothers-showrunner-1236709435/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T18:58:03+00:00"
+    },
+    {
+      "guid": "o8kgxx5pmZJsqJWecJUdfM",
+      "title": "Ex-Dragon Age lead admits Origins' Fade sequence is \"filler\" and \"not very good content\"",
+      "url": "https://www.gamesradar.com/games/dragon-age/ex-dragon-age-lead-settles-the-score-on-origins-most-controversial-sequence-the-fade-is-filler-and-not-very-good-content/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:40:43+00:00"
+    },
+    {
+      "guid": "1895480",
+      "title": "Arc Raiders is Finally Testing a PvE Mode",
+      "url": "https://www.gamespot.com/articles/arc-raiders-is-finally-testing-a-pve-mode/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:50:34+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123608",
+      "title": "Story of Seasons: Your Wonderful Life VR Game Heads to Meta Devices",
+      "url": "https://www.siliconera.com/story-of-seasons-your-wonderful-life-vr-game-heads-to-meta-devices/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=620856",
+      "title": "D&D: The Warrior Of The Mystic Arts Gets The Magic Monk Right",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-the-warrior-of-the-mystic-arts-gets-the-magic-monk-right.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:45:00+00:00"
+    },
+    {
+      "guid": "t3_1wpacv6",
+      "title": "Rumor: PlayStation Survey Asks Devs If They Want Their Next Console To Have Physical Discs",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wpacv6/rumor_playstation_survey_asks_devs_if_they_want/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T18:58:23+00:00"
     }
   ]
 }
