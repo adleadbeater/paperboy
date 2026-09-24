@@ -962,84 +962,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "MwQUEiPutiSSpv7Hp3xCxZ",
-      "title": "WoW: Forever has a secret snake druid form",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-secret-snake-druid-form/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T13:13:10+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236871906",
-      "title": "Marlene Emilie Lyngstad Addresses First Reactions to Controversial Love Story \u2018Cute\u2019: \u2018Maybe People Are Confronted by Their Own Monsters?\u2019",
-      "url": "https://variety.com/2026/film/global/marlene-emilie-lyngstad-controversial-love-story-cute-1236871906/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T13:25:59+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236874269",
-      "title": "Paramount to Raise $7.5 Billion More in Debt to Fund Warner Bros. Deal",
-      "url": "https://variety.com/2026/film/news/paramount-7-5-billion-more-debt-warner-bros-merger-1236874269/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T13:20:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236870939",
-      "title": "Brazil\u2019s Desvia Filmes Enters New Era With Doubled Focus on Indie and Rachel Daisy Ellis\u2019 San Sebasti\u00e1n Co-Pro Forum\u2019s Buzzy \u2018The Last Cruise\u2019",
-      "url": "https://variety.com/2026/film/global/desvia-filmes-rachel-daisy-ellis-new-era-the-last-cruise-1236870939/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T13:05:23+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236709268",
-      "title": "Israel-Gaza War Documentary \u2018NAZA\u2019 Sets Global Theatrical Release Plans",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/naza-documentary-israel-gaza-war-global-streaming-release-1236709268/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T13:20:41+00:00"
-    },
-    {
-      "guid": "M9vMFHArR2KC84E2NZxABH",
-      "title": "Final Clayface trailer gives us our best look yet at the shapeshifting Batman villain's final form",
-      "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-final-trailer/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T13:25:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1757737",
-      "title": "Mahershala Ali Says Kevin Feige \u201cShould Feel That Way\u201d About the Failed Blade Movie After a Year of Training",
-      "url": "https://otakukart.com/mahershala-ali-says-kevin-feige-should-feel-that-way-about-the-failed-blade-movie-after-a-year-of-training/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T13:05:12+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/",
-      "title": "D&D World of Warcraft subclasses will swap out classic class features for new abilities",
-      "url": "https://www.enworld.org/threads/d-d-world-of-warcraft-subclasses-will-swap-out-classic-class-features-for-new-abilities.720769/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T13:13:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000735749",
       "title": "Cyberpunk: Edgerunners 2 Is About To Make Me Go Back To The Old Me",
       "url": "https://kotaku.com/cyberpunk-edgerunners-2-release-date-streaming-netflix-2000735749",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-09-24T13:32:47+00:00"
-    },
-    {
-      "guid": "ZN38PcvkNKSep3gCKBTUpj",
-      "title": "Discord takes a second swing at age verification, but don't worry, this time it'll guess how old you are with 90% accuracy",
-      "url": "https://www.pcgamer.com/games/discord-takes-a-second-swing-at-age-verification-but-dont-worry-this-time-itll-guess-how-old-you-are-with-90-percent-accuracy/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T13:29:05+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237112084",
@@ -1154,36 +1082,12 @@
       "published_dt": "2026-09-24T13:45:00+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-206751",
-      "title": "PSVR2 Misses Out on Virtual Reality Phoenix Wright Release",
-      "url": "https://www.pushsquare.com/news/2026/09/psvr2-misses-out-on-virtual-reality-phoenix-wright-release",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T13:30:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1123584",
       "title": "Phoenix Wright: Ace Attorney \u2013 Dual Destinies Gets VR Version",
       "url": "https://www.siliconera.com/phoenix-wright-ace-attorney-dual-destinies-gets-vr-version/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-24T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206759",
-      "title": "This Cute Coin Cube Lets You Use Real Quarters To Add Credits To Arcade Emulators",
-      "url": "https://www.timeextension.com/news/2026/09/this-cute-coin-cube-lets-you-use-real-quarters-to-add-credits-to-arcade-emulators",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/",
-      "title": "UK Games Expo finally bans AI from the convention",
-      "url": "https://www.enworld.org/threads/uk-games-expo-finally-bans-ai-from-the-convention.720770/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T13:30:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000736948",
@@ -2200,6 +2104,94 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-24T16:35:04+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000737022",
+      "title": "Call Of Duty: Modern Warfare 4 Adding Highly-Requested Option To Hide Silly Skins In Warzone",
+      "url": "https://kotaku.com/call-of-duty-modern-warfare-4-adding-highly-requested-option-to-hide-silly-skins-in-warzone-2000737022",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:29:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736963",
+      "title": "I\u2019m Not Sure I\u2019ll Be Able To Cope With Clayface After Latest Trailer",
+      "url": "https://kotaku.com/clayface-final-trailer-body-horror-dcu-scissors-tom-rhys-harries-2000736963",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:00:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112670",
+      "title": "Bowen Yang And Reece Weaver Extend Broadway Engagements In \u2018Oh, Mary!\u2019 And \u2018Chicago\u2019 Due To Popular Demand",
+      "url": "https://deadline.com/2026/09/bowen-yang-reece-weaver-broadway-oh-mary-chicago-1237112670/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:26:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112049",
+      "title": "Santa Barbara Film Festival Awards: \u2018Wild Horse Nine\u2019 Star John Malkovich To Get Performer Of The Year Honor",
+      "url": "https://deadline.com/2026/09/santa-barbara-film-festival-awards-2027-honorees-1237112049/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112620",
+      "title": "Zazie Beetz, Ben Foster, Stella Baker & John Hoogenakker Join Paramount+ Series \u2018Discretion\u2019",
+      "url": "https://deadline.com/2026/09/zazie-beetz-ben-foster-paramount-plus-series-discretion-1237112620/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874557",
+      "title": "\u2018Forgotten Island\u2019 Review: A Delightful Animated Celebration of Friendship and Filipino Culture",
+      "url": "https://variety.com/2026/film/reviews/forgotten-island-review-1236874557/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:14:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874602",
+      "title": "\u2018Sesame Street\u2019 Movie Set at Netflix, Plus \u2018Gabby\u2019s Dollhouse\u2019 Spinoff and \u2018KPop Demon Hunters\u2019 Game",
+      "url": "https://variety.com/2026/gaming/news/sesame-street-movie-kpop-demon-hunters-game-netflix-1236874602/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709432",
+      "title": "\u2018The Beast in Me\u2019 Is No Longer a Limited Series: Netflix Orders Season 2",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-beast-in-me-season-2-netflix-claire-danes-1236709432/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:26:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709407",
+      "title": "New \u2018Musk\u2019 Trailer Highlights the Mogul\u2019s \u201cShocking\u201d Conflicts of Interest",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/watch-musk-trailer-documentary-theaters-showtimes-1236709407/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T17:07:39+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206798",
+      "title": "Feature: Xbox Is Disappearing into Activision and Bethesda, So What Does That Mean for PS5?",
+      "url": "https://www.pushsquare.com/news/2026/09/xbox-is-disappearing-into-activision-and-bethesda-so-what-does-that-mean-for-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T17:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wp7k88",
+      "title": "The Verge: GTA VI Preorders Are Heavily Skewed Toward PS5, According to Xbox Sources",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wp7k88/the_verge_gta_vi_preorders_are_heavily_skewed/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T17:14:36+00:00"
     }
   ]
 }
