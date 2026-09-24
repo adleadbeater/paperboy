@@ -945,27 +945,22 @@
       "article_titles": [
         "Warhammer 40,000 Space Marine 2's New Class Is Finally Confirmed \u2014 and It's Exactly What Everyone Suspected"
       ]
+    },
+    {
+      "headline": "Castlevania: Belmont's Curse Will Bridge the Animated Series and the Games",
+      "tag": "castlevania",
+      "posted_at": "2026-09-24T16:31:09.693436+00:00",
+      "urls": [
+        "https://kotaku.com/castlevania-belmonts-curse-will-bridge-the-gap-between-the-animated-series-and-the-games-2000732906"
+      ],
+      "article_titles": [
+        "Castlevania: Belmont\u2019s Curse Will Bridge The Gap Between The Animated Series And The Games"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "2208077c-534a-4fc2-80d2-1c125682b6d5",
-      "title": "The Witcher 3: Wild Hunt \u2013 Remastered Global Release Times Confirmed by CD Projekt",
-      "url": "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-global-release-times-confirmed-by-cd-projekt",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T12:25:55+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-      "title": "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses  current game industry woes following Double Fine's split with Xbox",
-      "url": "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T12:26:38+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000736853",
       "title": "Instead of Announcing Ace Attorney 7, Capcom Is Porting The Fifth Game Into VR For Some Reason",
@@ -1013,14 +1008,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-24T12:34:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236873674",
-      "title": "WWE\u2019s \u2018Main Event\u2019 to Move From YouTube to Rumble (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/wwe-main-event-youtube-rumble-1236873674/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T12:30:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236708412",
@@ -1095,14 +1082,6 @@
       "published_dt": "2026-09-24T12:45:00+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-206754",
-      "title": "Sony Supposedly Surveying Devs on Death of PS5 Discs",
-      "url": "https://www.pushsquare.com/news/2026/09/sony-supposedly-surveying-devs-on-death-of-ps5-discs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T12:30:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1123478",
       "title": "Gacha Games Only Get Good When Offline Ports Appear",
       "url": "https://www.siliconera.com/gacha-games-only-get-good-when-offline-ports-appear/",
@@ -1117,14 +1096,6 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-24T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206760",
-      "title": "The Long Wait For Ace Attorney 7 Continues, As 'Ace Attorney: Dual Destinies VR' Announced",
-      "url": "https://www.timeextension.com/news/2026/09/the-long-wait-for-ace-attorney-7-continues-as-ace-attorney-dual-destinies-vr-announced",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T12:30:00+00:00"
     },
     {
       "guid": "MwQUEiPutiSSpv7Hp3xCxZ",
@@ -2045,6 +2016,174 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+      "title": "Rockstar reveals a \u00a3350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
+      "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:20:44+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000732906",
+      "title": "Castlevania: Belmont\u2019s Curse Will Bridge The Gap Between The Animated Series And The Games",
+      "url": "https://kotaku.com/castlevania-belmonts-curse-will-bridge-the-gap-between-the-animated-series-and-the-games-2000732906",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:00:56+00:00"
+    },
+    {
+      "guid": "hzxNGokMTWi5YexkyYVRTZ",
+      "title": "Minecraft beat Minecraft after 2 billion years",
+      "url": "https://www.pcgamer.com/games/survival-crafting/minecraft-beat-minecraft-after-2-billion-years/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:59:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112587",
+      "title": "Macklemore Launches Free Palestine Tour; U.S. Dates To Be Announced",
+      "url": "https://deadline.com/2026/09/macklemore-free-palestine-tour-1237112587/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:30:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112055",
+      "title": "\u2018Off Campus\u2019 Star Belmont Cameli Joins Sydney Sweeney In Sony\u2019s \u2018Hollow\u2019",
+      "url": "https://deadline.com/2026/09/off-campus-belmont-cameli-hollow-sydney-sweeney-1237112055/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112593",
+      "title": "Netflix Gives First Look At Charlie Brooker\u2019s New Series \u2018Blackmere\u2019 As Rory Kinnear Joins Cast",
+      "url": "https://deadline.com/2026/09/netflix-black-doves-season-2-trailer-charlie-brooker-blackmere-1237112593/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:21:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112515",
+      "title": "Paramount Moves Ahead With $7.5 Billion Debt Raise, Part Of Package To Finance WBD Acquisition",
+      "url": "https://deadline.com/2026/09/paramount-starts-raising-debt-to-finance-wbd-deal-1237112515/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:20:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112278",
+      "title": "Trailer Released For \u2018Musk,\u2019 Damning Doc Portraying World\u2019s Richest Man As Power-Hungry Cretin",
+      "url": "https://deadline.com/2026/09/musk-trailer-released-1237112278/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112480",
+      "title": "ParaBros Merger Settlement Sign-Off Delayed As Deal Foes Granted Hail Mary Move By Judge",
+      "url": "https://deadline.com/2026/09/paramount-merger-delayed-settlement-challenge-1237112480/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:03:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872626",
+      "title": "Deacon Phillippe on His Feature Film Acting Debut and Parents Reese Witherspoon and Ryan Phillippe: \u2018I Acknowledge That I\u2019m Extremely Lucky\u2019",
+      "url": "https://variety.com/2026/film/columns/deacon-phillippe-acting-debut-parents-reese-witherspoon-ryan-phillippe-1236872626/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:14:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874546",
+      "title": "U2\u2019s First Album in Nine Years, \u2018Carnaval De Luz,\u2019 Will Feature a Dolly Parton Duet With Bono, Said to Be Her Last Recorded Vocal",
+      "url": "https://variety.com/2026/music/news/u2-album-carnaval-de-luz-dolly-parton-duet-1236874546/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:07:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873826",
+      "title": "Netflix\u2019s Animated Drama \u2018In Waves\u2019 Opens the American French Film Festival, TV Competition Set",
+      "url": "https://variety.com/2026/film/news/netflix-in-waves-american-french-film-festival-1236873826/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709359",
+      "title": "Macklemore Announces Free Palestine Tour After Ed Sheeran Fallout: \u201cBeing Apolitical During a Genocide Doesn\u2019t Work Anymore\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-news/macklemore-announces-free-palestine-tour-1236709359/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T16:23:05+00:00"
+    },
+    {
+      "guid": "wWtyCgxLhdt4cuciAvnzH5",
+      "title": "Where to find all the infusion drugs in Silent Hill Townfall",
+      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfall-infusion-drug-locations-medicine-where/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:27:01+00:00"
+    },
+    {
+      "guid": "5bg6UDM7Dzq2McskX6PgF6",
+      "title": "Switch pirate ordered to pay Nintendo $4.5 million, which the company says is \"nowhere near\" enough",
+      "url": "https://www.gamesradar.com/games/switch-pirate-ordered-to-pay-nintendo-usd4-5-million-which-the-company-believes-is-nowhere-near-enough/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:26:49+00:00"
+    },
+    {
+      "guid": "7VFzPSW7CiL2zvbq6F4upm",
+      "title": "Razer has finally made a sequel to the best webcam ever made, and it can record at 4K60",
+      "url": "https://www.gamesradar.com/hardware/peripherals/its-taken-nearly-four-years-but-razer-has-finally-made-a-sequel-to-the-best-webcam-ever-made-and-it-can-record-at-4k60/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:12:33+00:00"
+    },
+    {
+      "guid": "75i8yjJHUf4NrvskidUspc",
+      "title": "When is The Witcher 3 Remastered release time, so you can return to the Northern Kingdoms?",
+      "url": "https://www.gamesradar.com/games/the-witcher/witcher-3-remastered-release-time/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:11:55+00:00"
+    },
+    {
+      "guid": "VY7nefJXG8mcyZhnAnHhF6",
+      "title": "Discord admits it's taking gambling sponsors, rushes to fix \"extremely popular age assurance update\"",
+      "url": "https://www.gamesradar.com/games/discord-admits-its-taking-gambling-sponsors-rushes-to-fix-extremely-popular-age-assurance-update-that-everyone-on-discord-was-really-looking-forward-to/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:04:21+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206708",
+      "title": "Book Review: Aliens: The Video Games - A Detailed Dive Into Xeno Adaptations",
+      "url": "https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206752",
+      "title": "This Striking PS5 Rhythm Game Promises a Heartfelt Story and 49 Original Songs",
+      "url": "https://www.pushsquare.com/news/2026/09/this-striking-ps5-rhythm-game-promises-a-heartfelt-story-and-49-original-songs",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wp5uam",
+      "title": "Gears E Day review embargo lifts on the 1st of October.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wp5uam/gears_e_day_review_embargo_lifts_on_the_1st_of/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T16:09:48+00:00"
     }
   ]
 }
