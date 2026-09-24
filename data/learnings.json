@@ -947,38 +947,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "830f9ecd-87c3-4292-ab11-9b7ed93637cf",
-      "title": "'I Don\u2019t Think Starfield Was Anywhere Near Successful Enough to Do a Starfield 2' \u2013 Former Bethesda Dev Casts Doubt on Sequel",
-      "url": "https://www.ign.com/articles/i-dont-think-starfield-was-anywhere-near-successful-enough-to-do-a-starfield-2-former-bethesda-dev-casts-doubt-on-sequel",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:36:00+00:00"
-    },
-    {
-      "guid": "ef37b360-d7ed-4b6a-808d-5075c876f5bb",
-      "title": "Warhammer 40,000 Space Marine 2's New Class Is Finally Confirmed \u2014 and It's Exactly What Everyone Suspected",
-      "url": "https://www.ign.com/articles/warhammer-40000-space-marine-2s-new-class-is-finally-confirmed-and-its-exactly-what-everyone-suspected",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:33:32+00:00"
-    },
-    {
-      "guid": "https://www.videogameschronicle.com/?p=247120",
-      "title": "Grand Theft Auto 6 is getting a $400 box of merch with 11 items including a figure, New Era hat and sunglasses",
-      "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-is-getting-a-400-box-of-merch-with-11-items-including-a-figure-sunglasses-and-new-era-hat/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:34:37+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000736960",
-      "title": "Control Resonant Gets Day-One Patch Making Enemies Easier To Kill",
-      "url": "https://kotaku.com/control-resonant-gets-day-one-patch-making-enemies-easier-to-kill-2000736960",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:38:54+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237112569",
       "title": "Netflix-Acquired Animation \u2018In Waves\u2019 To Open The American French Film Festival",
       "url": "https://deadline.com/2026/09/netflix-in-waves-open-the-american-french-film-festival-1237112569/",
@@ -1011,28 +979,12 @@
       "published_dt": "2026-09-24T15:49:38+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236874505",
-      "title": "Music Industry Moves: Chvrches Sign With Futures Music Group; MSG Entertainment Names Josephine Vaccarello President",
-      "url": "https://variety.com/2026/music/news/chvrches-sign-with-futures-1236874505/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:38:01+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236708771",
       "title": "Dodgers Star Mookie Betts Signs With 3 Arts Sports",
       "url": "https://www.hollywoodreporter.com/business/business-news/dodgers-mookie-betts-3-arts-sports-1236708771/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-09-24T15:47:16+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236709341",
-      "title": "\u2018Nobody Wants This\u2019 Takes a Big Step in Season 3 Trailer",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/nobody-wants-this-season-3-trailer-1236709341/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:34:34+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237112567",
@@ -1065,14 +1017,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-24T15:45:17+00:00"
-    },
-    {
-      "guid": "G6kuFzTCAskuWD64A5HBK9",
-      "title": "GTA 6 Collector's Box is $400 and doesn't have the game, but you do get a spoon, stickers, and more",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-collectors-box-is-usd400-and-doesnt-include-the-game-but-you-do-get-a-spoon-stickers-and-more-needlessly-expensive-merch/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T15:44:05+00:00"
     },
     {
       "guid": "1895339",
@@ -1969,6 +1913,70 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-24T19:14:50+00:00"
+    },
+    {
+      "guid": "13538f71-f192-4964-bfe7-e82972e78c2b",
+      "title": "Robert Pattinson Casts Doubt on a Crossover Between His Batman and James Gunn's Superman",
+      "url": "https://www.ign.com/articles/robert-pattinson-casts-doubt-on-a-crossover-between-his-batman-and-james-gunns-superman",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:36:38+00:00"
+    },
+    {
+      "guid": "aef41638-039f-4b95-8252-7a2153d92589",
+      "title": "Spider-Man's Jacob Batalon Explains What Destin Daniel Cretton Likes Most About Naruto and Why Team 7 Could Be the Movie's Focus",
+      "url": "https://www.ign.com/articles/spider-mans-jacob-batalon-explains-what-destin-daniel-cretton-likes-most-about-naruto-and-why-team-7-could-be-the-movies-focus",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:19:16+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000737013",
+      "title": "Chris Metzen Wasn\u2019t On The BlizzCon Stage This Year, And Everyone Needs To Chill Out About It",
+      "url": "https://kotaku.com/chris-metzen-blizzcon-2026-chill-out-2000737013",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:38:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874190",
+      "title": "Tom Hiddleston Recalls Trekking to Everest for \u2018Tenzing\u2019 and Kevin Feige Telling Him \u2018Thor\u2019 Wasn\u2019t \u2018Going to Be the Only Film\u2019 He Would Play Loki In",
+      "url": "https://variety.com/2026/film/global/tom-hiddleston-everest-tenzing-kevin-feige-thor-zurich-1236874190/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:41:34+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709576",
+      "title": "Susan Sarandon, Hannah Einbinder Detained at United Nations Netanyahu Protest",
+      "url": "https://www.hollywoodreporter.com/news/general-news/susan-sarandon-hannah-einbinder-arrested-netanyahu-protest-1236709576/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:37:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236704454",
+      "title": "Felicia Pride on Capturing Innocence, Humanity in \u2018A Different World\u2019 Sequel and Revering the Original: \u201cWe\u2019re Not Replacing It\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/a-different-world-sequel-challenges-felicia-pride-interview-1236704454/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:35:00+00:00"
+    },
+    {
+      "guid": "WC9tgJ8dnZfoWWMMGnzuu",
+      "title": "Arc Raiders say fine, here's a \"limited test\" of PvE co-op",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-say-fine-heres-a-limited-test-of-pve-co-op-we-cant-ignore-what-the-data-is-telling-us/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T19:36:36+00:00"
+    },
+    {
+      "guid": "t3_1wpbfoo",
+      "title": "TheGameBuisness: At one point, Undead Labs was being acquired by UK developer Splash Damage (Gears Tactics). But that deal didn\u2019t complete.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wpbfoo/thegamebuisness_at_one_point_undead_labs_was/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T19:40:05+00:00"
     }
   ]
 }
