@@ -947,94 +947,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237112569",
-      "title": "Netflix-Acquired Animation \u2018In Waves\u2019 To Open The American French Film Festival",
-      "url": "https://deadline.com/2026/09/netflix-in-waves-open-the-american-french-film-festival-1237112569/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:51:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237112445",
-      "title": "\u2018Happy Valley\u2019 Star Sarah Lancashire Leading Dark Netflix Series About A Modern-Day Witch Hunt",
-      "url": "https://deadline.com/2026/09/netflix-sarah-lancashire-witch-hunt-abi-morgan-sister-1237112445/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236874481",
-      "title": "Charlie Brooker\u2019s New Netflix Series Gets Title, \u2018Blackmere,\u2019 as Rory Kinnear Joins Cast and First-Look Photos Revealed",
-      "url": "https://variety.com/2026/tv/global/charlie-brooker-new-series-title-blackmere-rory-kinnear-cast-1236874481/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:50:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236874496",
-      "title": "\u2018Black Doves\u2019 Season 2 Trailer: Keira Knightley Investigates Spy Murders With a New Team in Netflix Action Thriller",
-      "url": "https://variety.com/2026/tv/news/black-doves-season-2-trailer-netflix-keira-knightley-1236874496/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:49:38+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236708771",
-      "title": "Dodgers Star Mookie Betts Signs With 3 Arts Sports",
-      "url": "https://www.hollywoodreporter.com/business/business-news/dodgers-mookie-betts-3-arts-sports-1236708771/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:47:16+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237112567",
-      "title": "A24 Sets Ronan Corrigan Horror \u2018No One Is Coming\u2019; Louis McCartney, Jessica Reynolds, Sky Yang & Gabriel Nagy To Star",
-      "url": "https://deadline.com/2026/09/a24-horror-no-one-is-coming-unveils-cast-1237112567/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236874351",
-      "title": "\u2018The Graham Norton Show,\u2019 With Its Taylor Swift-Fueled Momentum, Lands Two-Year Pickup at BBC America and AMC Global Media Streamers (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/graham-norton-show-two-year-pickup-bbc-america-amc-1236874351/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236708957",
-      "title": "MTV VMAs Producer Van Toffler Promises a \u201cKick-A**, Fast-Paced Show,\u201d Says Madonna\u2019s Performance \u201cWill Make Your Head Spin\u201d",
-      "url": "https://www.hollywoodreporter.com/music/music-news/mtv-vmas-preview-performances-tributes-1236708957/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "guid": "ejjpxp93vGsLREQ3W4oMLi",
-      "title": "Gamercard review",
-      "url": "https://www.gamesradar.com/hardware/handhelds/gamercard-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T15:45:17+00:00"
-    },
-    {
-      "guid": "1895339",
-      "title": "Stranger Than Heaven Studio Made The Tupac Resurrection Less Weird By Not Using AI",
-      "url": "https://www.gamespot.com/articles/stranger-than-heaven-studio-made-the-tupac-resurrection-less-weird-by-not-using-ai/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T15:44:34+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123594",
-      "title": "New Danganronpa 2\u00d72 Character Is Sakutaro Higashi",
-      "url": "https://www.siliconera.com/new-danganronpa-2x2-character-is-sakutaro-higashi/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T16:00:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
       "title": "Rockstar reveals a \u00a3350 box of naughty GTA 6 collectables you definitely wouldn't get through airport security",
       "url": "https://www.eurogamer.net/gta-6-collectible-suspicious-mirror-keychain-spoon",
@@ -1049,14 +961,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-09-24T16:00:56+00:00"
-    },
-    {
-      "guid": "hzxNGokMTWi5YexkyYVRTZ",
-      "title": "Minecraft beat Minecraft after 2 billion years",
-      "url": "https://www.pcgamer.com/games/survival-crafting/minecraft-beat-minecraft-after-2-billion-years/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T15:59:34+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237112587",
@@ -1177,22 +1081,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-24T16:04:21+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206708",
-      "title": "Book Review: Aliens: The Video Games - A Detailed Dive Into Xeno Adaptations",
-      "url": "https://www.nintendolife.com/features/book-review-aliens-the-video-games-a-detailed-dive-into-xeno-adaptations",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206752",
-      "title": "This Striking PS5 Rhythm Game Promises a Heartfelt Story and 49 Original Songs",
-      "url": "https://www.pushsquare.com/news/2026/09/this-striking-ps5-rhythm-game-promises-a-heartfelt-story-and-49-original-songs",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-24T16:00:00+00:00"
     },
     {
       "guid": "t3_1wp5uam",
@@ -1977,6 +1865,78 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-24T19:40:05+00:00"
+    },
+    {
+      "guid": "owvQ4dkJueTdi3QUW7Jha5",
+      "title": "Arc Raiders population stats micropost",
+      "url": "https://www.pcgamer.com/games/arc-raiders-population-stats-micropost/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:44:56+00:00"
+    },
+    {
+      "guid": "yHCg9XVnbwfraPjMYh3w6Y",
+      "title": "Achievement hunters: Can you identify the games these milestones are from?",
+      "url": "https://www.pcgamer.com/games/achievement-hunters-can-you-identify-the-games-these-milestones-are-from/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:32:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112985",
+      "title": "Tamera Mowry-Housley To Guest Star On \u2018Scrubs\u2019 Season 2",
+      "url": "https://deadline.com/2026/09/tamera-mowry-housley-cast-scrubs-season-2-1237112985/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874933",
+      "title": "Tamera Mowry-Housley Joins \u2018Scrubs\u2019 Reboot Season 2",
+      "url": "https://variety.com/2026/tv/news/tamera-mowry-housley-scrubs-season-2-1236874933/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236851352",
+      "title": "Serbia\u2019s Screen Industries in Crisis Amid Claims That Blacklists, \u2018State-Sponsored Censorship\u2019 Are Designed to \u2018Starve Independent Production\u2019",
+      "url": "https://variety.com/2026/film/global/serbia-screen-industries-crisis-blacklists-censorship-1236851352/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:48:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236708924",
+      "title": "Buffalo Bills\u2019 Long-Suffering Fans to Be Focus of Documentary \u2018Just One Before I Die\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/buffalo-bills-fans-nfl-documentary-just-one-before-i-die-1236708924/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T20:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709490",
+      "title": "Elizabeth Taylor\u2019s Legacy Endures as Estate Taps Brilliant Earth for Official Jewelry Collection",
+      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/elizabeth-taylor-jewelry-collection-brilliant-earth-release-1236709490/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T19:48:51+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206802",
+      "title": "'Have You Heard How Much Money Kojima Wanted?': Physint's Rumoured Budget Said to Be 'Significant'",
+      "url": "https://www.pushsquare.com/news/2026/09/have-you-heard-how-much-money-kojima-wanted-physints-rumoured-budget-said-to-be-significant",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T20:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123607",
+      "title": "Pokemon Starbucks Crossover Involves Drink and Cups",
+      "url": "https://www.siliconera.com/pokemon-starbucks-crossover-involves-drink-and-cups/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T20:00:00+00:00"
     }
   ]
 }
