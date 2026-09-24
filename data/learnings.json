@@ -1088,92 +1088,36 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "VhiHJc8EHdgxK6AfZ6P4QP",
-      "title": "World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T22:06:43+00:00"
-    },
-    {
-      "guid": "r9jmaJ3TS5dBNmi3YAD4La",
-      "title": "Halo needed to change, but Activision faces a huge challenge to fix it",
-      "url": "https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T21:50:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237111895",
-      "title": "Brad Caleb Kane Found It \u201cHard\u201d Ignoring \u2018Crystal Lake\u2019 Fan Theories, Teases \u201cCertain Explanations\u201d Given In Prequel: \u201cIt\u2019s Grounded In Reality\u201d",
-      "url": "https://deadline.com/2026/09/brad-caleb-kane-crystal-lake-fan-theories-certain-explanations-1237111895/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T22:20:47+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237111868",
-      "title": "Peter Byrne Dies: Naked Eyes Singer Who Scored \u201980s Hits \u2018Always Something There to Remind Me\u2019 & \u2018Promises, Promises\u2019 Was 74",
-      "url": "https://deadline.com/2026/09/peter-byrne-dead-naked-eyes-1237111868/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T21:55:28+00:00"
-    },
-    {
-      "guid": "http://variety.com/?p=1234703556",
-      "title": "The Best Pop Culture Halloween Costumes for 2026: From Bad Bunny\u2019s Super Bowl Shrubs to Taylor Swift\u2019s Knicks Shirt",
-      "url": "https://variety.com/feature/best-halloween-costumes-1234703556/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T22:13:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236873710",
-      "title": "Roseanne Barr Rages Against Ex Co-Star Michael Fishman for Saying \u2018Roseanne\u2019 Reboot Was \u2018Rightfully Canceled\u2019: \u2018You F\u2014ing Little Worm\u2019 and \u2018Brainwashed Bigot\u2019",
-      "url": "https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-roseanne-reboot-canceled-racist-tweet-1236873710/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T22:05:56+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236685621",
-      "title": "\u2018Chef\u2019s Table\u2019 Assembles Its Culinary \u201cAvengers\u201d for a Universe Beyond the Screen",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/chefs-table-culinary-avengers-las-vegas-netflix-1236685621/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-23T21:58:50+00:00"
-    },
-    {
-      "guid": "LqWqnv4CcAjkXEGm6MrEd8",
-      "title": "Out-of-print Metroid Dread physical copies are selling north of $100",
-      "url": "https://www.gamesradar.com/games/metroid/out-of-print-metroid-dread-physical-copies-are-selling-north-of-usd100-as-collectors-scramble-to-catch-up-before-the-launch-of-metroid-ravenous/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-23T21:47:43+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236873818",
-      "title": "\u2018The Visit\u2019 at Pasadena Playhouse Review: The \u201950s Absurdist Comedy Is Too Smug in Its Peak-Bleak View of Venal Humanity, but Jefferson Mays and Melinda Page Hamilton Are Worth the Visit",
-      "url": "https://variety.com/2026/legit/reviews/the-visit-pasadena-playhouse-stage-review-absurdist-comedy-1236873818/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T00:14:15+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236708858",
-      "title": "From \u2018DWTS\u2019 to Designer: Sarah Jane Nader Hits Another Milestone With First-Ever Fashion Collab",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/sarah-jane-nader-express-clothing-collab-2026-release-buy-1236708858/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-24T00:05:18+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1080613",
       "title": "Phoenix Wright: Ace Attorney \u2013 Dual Destinies VR announced for Quest, Meta VR Glasses",
       "url": "https://www.gematsu.com/2026/09/phoenix-wright-ace-attorney-dual-destinies-vr-announced-for-quest-meta-vr-glasses",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-24T00:26:23+00:00"
+    },
+    {
+      "guid": "J3SAieDTTjEp7pjpHWWUG9",
+      "title": "The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain\u2122",
+      "url": "https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T04:00:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873980",
+      "title": "\u2018No One Achieves Anything Alone\u2019: Inside Variety\u2019s Power of Women Event With Jennifer Hudson, Sharon Stone, Pearlena Igbokwe and Melissa McCarthy",
+      "url": "https://variety.com/2026/scene/news/varietys-power-of-women-jennifer-hudson-sharon-stone-1236873980/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T04:20:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873974",
+      "title": "Issa Rae Is \u2018Never Going to Stop\u2019 Using Her Power for Good, Even as Mergers and AI Disrupt Hollywood: \u2018This Is All Men\u2019s Fault\u2019",
+      "url": "https://variety.com/2026/awards/news/issa-rae-entrepreneur-speech-1236873974/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T04:11:06+00:00"
     }
   ]
 }
