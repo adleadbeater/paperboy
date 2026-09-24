@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Bungie Directly Responds to Marathon-Destiny Merger Leaks, Says It's Not Happening",
-      "tag": "marathon",
-      "posted_at": "2026-09-17T14:01:07.325439+00:00",
-      "urls": [
-        "https://www.eurogamer.net/marathon-destiny-merger-bungie-response",
-        "https://www.eurogamer.net/marathon-destiny-merger-bungie-response"
-      ],
-      "article_titles": [
-        "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny",
-        "Following wide-ranging leaks, Bungie says Marathon is not 'merging' with Destiny"
-      ]
-    },
-    {
-      "headline": "Dishonored Director Harvey Smith Names New Studio \"Black Pony Immersive\" to Signal Immersive Sim Focus",
-      "tag": "black pony immersive",
-      "posted_at": "2026-09-17T14:31:06.774147+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/sim/dishonoreds-harvey-smith-named-his-new-studio-black-pony-immersive-so-people-would-stop-asking-him-to-work-on-other-genres-specialising-on-what-you-love-is-not-a-bad-path/"
-      ],
-      "article_titles": [
-        "Dishonored's Harvey Smith named his new studio Black Pony Immersive so people would stop asking him to work on other genres: 'Specialising on what you love is not a bad path'"
-      ]
-    },
-    {
       "headline": "Take-Two Boss Fires Back at Investors Over GTA 6 Delays, Confirms PC Is a Growing Priority",
       "tag": "gta 6",
       "posted_at": "2026-09-17T15:31:12.596038+00:00",
@@ -936,6 +912,43 @@
       "article_titles": [
         "Rogue Trader is coming to an end with miracles, madness and 'tears of blood'"
       ]
+    },
+    {
+      "headline": "Nicolas Cage's Madden Biopic Gets a Wild New Trailer \u2014 and It Looks Delightfully Unhinged",
+      "tag": "madden",
+      "posted_at": "2026-09-24T15:01:14.239343+00:00",
+      "urls": [
+        "https://www.timeextension.com/news/2026/09/i-can-make-whats-inside-your-head-live-forever-new-trailer-for-nicolas-cages-madden-biopic-shows-the-genesis-of-eas-million-selling-serie",
+        "https://deadline.com/2026/09/madden-trailer-nicolas-cage-john-madden-1236657136/"
+      ],
+      "article_titles": [
+        "\"I Can Make What's Inside Your Head Live Forever\" - New Trailer For Nicolas Cage's Madden Biopic Shows The Genesis Of EA's Million-Selling Series",
+        "\u2018Madden\u2019 Trailer: Boom! Nicolas Cage Transforms In David O. Russell\u2019s Biopic Of NFL Icon"
+      ]
+    },
+    {
+      "headline": "Meta Announces Lightweight VR Multimedia Headset Coming Spring 2027",
+      "tag": "meta vr",
+      "posted_at": "2026-09-24T15:01:14.315294+00:00",
+      "urls": [
+        "https://kotaku.com/meta-vr-glasses-promises-a-lightweight-vr-multimedia-headset-launching-in-spring-2027-2000736857"
+      ],
+      "article_titles": [
+        "Meta Promises Lightweight VR Multimedia Headset, Launching in Spring 2027"
+      ]
+    },
+    {
+      "headline": "Meta's $1,299 VR Glasses Will Offer 3D Versions of Avengers and Star Wars, Plus James Cameron Films",
+      "tag": "meta vr",
+      "posted_at": "2026-09-24T15:01:14.393248+00:00",
+      "urls": [
+        "https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307/",
+        "https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307/"
+      ],
+      "article_titles": [
+        "Meta Unveils VR Glasses for $1,299, Promises 3D Films From Lionsgate, James Cameron and Enhanced Versions of \u2018Avengers\u2019 and \u2018Star Wars\u2019",
+        "Meta Unveils VR Glasses for $1,299, Promises 3D Films from Lionsgate, James Cameron, and Enhanced Versions of \u2018Avengers\u2019 and \u2018Star Wars\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1508,6 +1521,126 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-24T14:14:44+00:00"
+    },
+    {
+      "guid": "5d249f8b-262b-45ea-9110-1ad81ee565d8",
+      "title": "Early Amazon Prime Day Deals Drop on MTG Final Fantasy, Marvel, and TMNT Sets in the UK",
+      "url": "https://www.ign.com/articles/best-mtg-prime-day-deals-uk",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000736857",
+      "title": "Meta Promises Lightweight VR Multimedia Headset, Launching in Spring 2027",
+      "url": "https://kotaku.com/meta-vr-glasses-promises-a-lightweight-vr-multimedia-headset-launching-in-spring-2027-2000736857",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:30:33+00:00"
+    },
+    {
+      "guid": "2sVSua77w22xm4ejLkcyTn",
+      "title": "My failed Steam Frame teardown... and iFixit's successful one",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/my-failed-steam-frame-teardown-and-ifixits-successful-one/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:50:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237112372",
+      "title": "David Oyelowo & Viola Prettejohn To Star In \u2018The Girl With The Dragon Tattoo\u2019 TV Series For Sky",
+      "url": "https://deadline.com/2026/09/girl-with-the-dragon-tattoo-david-oyelowo-viola-prettejohn-1237112372/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874352",
+      "title": "Macklemore Announces \u2018Free Palestine\u2019 Tour With All Ticket Sales Being Donated to Charity",
+      "url": "https://variety.com/2026/music/news/macklemore-free-palestine-tour-1236874352/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:55:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874335",
+      "title": "RedBird Capital Signs Deal to Acquire Majority Stake in Puck, Valuing Media-Biz Outfit at $250 Million",
+      "url": "https://variety.com/2026/biz/news/redbird-acquires-puck-250-million-valuation-1236874335/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:46:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873402",
+      "title": "\u2018Ancestors\u2019 Review: An Exquisite \u00c9anna Hardwicke Carries a Queer Elegy for a Lost Generation",
+      "url": "https://variety.com/2026/film/reviews/ancestors-review-1236873402/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:33:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707093",
+      "title": "Taylor Tomlinson on Quitting Late Night and Staying Quiet \u2014 Until Now",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/taylor-tomlinson-quitting-late-night-staying-quiet-interview-1236707093/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709304",
+      "title": "RedBird Clinches Deal to Become Lead Investor in Puck",
+      "url": "https://www.hollywoodreporter.com/business/business-news/redbird-closes-deal-become-lead-investor-puck-1236709304/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-24T14:35:33+00:00"
+    },
+    {
+      "guid": "U4sCAWPtBfnLdgPWW8ea8J",
+      "title": "$2million Lord of the Rings RPG crowdfunding campaign is so popular it's had to make new stretch goals",
+      "url": "https://www.gamesradar.com/tabletop-gaming/usd2million-lord-of-the-rings-rpg-crowdfunding-campaign-is-so-popular-its-had-to-make-new-stretch-goals/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T14:33:12+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206784",
+      "title": "Pok\u00e9mon TCG Pocket's Next Expansion Has A Guaranteed Rare In Every Pack",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-tcg-pockets-next-expansion-has-a-guaranteed-rare-in-every-pack",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T14:45:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-182354",
+      "title": "\"I Can Make What's Inside Your Head Live Forever\" - New Trailer For Nicolas Cage's Madden Biopic Shows The Genesis Of EA's Million-Selling Series",
+      "url": "https://www.timeextension.com/news/2026/09/i-can-make-whats-inside-your-head-live-forever-new-trailer-for-nicolas-cages-madden-biopic-shows-the-genesis-of-eas-million-selling-serie",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T14:50:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206782",
+      "title": "Analogue 3D Firmware Update v1.5.1 Is Now Available, And Here Are The Full Patch Notes",
+      "url": "https://www.timeextension.com/news/2026/09/analogue-3d-firmware-update-v1-5-1-is-now-available-and-here-are-the-full-patch-notes",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=620631",
+      "title": "D&D: Five Surprising Things You Can Do To Get In Your Character\u2019s Head",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-five-surprising-things-you-can-do-to-get-in-your-characters-head.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T15:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wp3wk2",
+      "title": "The Game Business summary on Xbox.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wp3wk2/the_game_business_summary_on_xbox/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-24T14:57:17+00:00"
     }
   ]
 }
