@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "New GTA Leak Reveals Cancelled Liberty City Expansion for GTA 5 and Early GTA 6 Footage",
-      "tag": "gta",
-      "posted_at": "2026-09-18T16:01:13.331214+00:00",
-      "urls": [
-        "https://kotaku.com/gta-5s-canceled-liberty-city-expansion-and-super-early-looks-at-gta-6-revealed-via-another-big-leak-2000735593"
-      ],
-      "article_titles": [
-        "GTA 5\u2018s Canceled Liberty City Expansion And Super Early Looks At GTA 6 Revealed Via Another Big Leak"
-      ]
-    },
-    {
       "headline": "Former PlayStation Execs Recreate the Famous PS4 Game-Sharing Video \u2014 But There's No Disc This Time",
       "tag": "playstation",
       "posted_at": "2026-09-18T17:01:12.751899+00:00",
@@ -842,19 +831,24 @@
         "Castlevania Anniversary Celebrated With Free Game, Music",
         "Castlevania Anniversary Celebrated With Free Game, Music"
       ]
+    },
+    {
+      "headline": "Control Resonant Is Getting New Game+ and Photo Mode Next Month",
+      "tag": "control resonant",
+      "posted_at": "2026-09-25T17:00:52.831380+00:00",
+      "urls": [
+        "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+        "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-contol-resonant-no-word-on-proper-ps5-dlc"
+      ],
+      "article_titles": [
+        "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
+        "Infinite New Game+, Photo Mode on the Way to Contol Resonant, No Word on Proper PS5 DLC"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.siliconera.com/?p=1123677",
-      "title": "Wild Arms Spiritual Successor, Armed Fantasia, Cancelled",
-      "url": "https://www.siliconera.com/wild-arms-spiritual-successor-armed-fantasia-cancelled/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:00:00+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237111093",
       "title": "International Disruptors: Reta Guetg On Building Zurich Film Festival\u2019s \u201cTrendy\u201d Identity & Why New Owners Want To Keep It Small, Nimble & Close To Hollywood",
@@ -894,46 +888,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-25T13:13:12+00:00"
-    },
-    {
-      "guid": "4a2by4XDtiinydC9GVrEZ4",
-      "title": "007: First Light, Big Walk, and Resident Evil: Requiem lead the Golden Joystick Awards nominations",
-      "url": "https://www.gamesradar.com/games/007-first-light-big-walk-and-resident-evil-requiem-lead-the-golden-joystick-awards-nominations/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "guid": "ubpGFi3uwj4m8kuKoyvGPa",
-      "title": "World of Warcraft: Forever gives old school fans nearly everything they could want",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/after-20-hours-with-world-of-warcraft-forever-im-convinced-it-gives-old-school-fans-nearly-everything-they-could-want/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-206833",
-      "title": "Splatoon 3's Splatfests Return Next Month With Another Spooky Showdown",
-      "url": "https://www.nintendolife.com/news/2026/09/splatoon-3s-splatfests-return-next-month-with-another-spooky-showdown",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206829",
-      "title": "New PS Portal Firmware Update Will Preserve Portable's Battery Life",
-      "url": "https://www.pushsquare.com/news/2026/09/new-ps-portal-firmware-update-will-preserve-portables-battery-life",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-206776",
-      "title": "After Years Of Searching, This Long-Lost Xevious Arcade Commercial Has Finally Been Found",
-      "url": "https://www.timeextension.com/news/2026/09/after-years-of-searching-this-long-lost-xevious-arcade-commercial-has-finally-been-found",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:00:00+00:00"
     },
     {
       "guid": "ea42429a-f35c-4f69-8e55-4a59566f58be",
@@ -1782,6 +1736,134 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-25T16:00:00+00:00"
+    },
+    {
+      "guid": "3d374b37-acea-43d3-9676-20d28a6ffec2",
+      "title": "Is Doctor Doom Putting Together a Team in Avengers: Doomsday?",
+      "url": "https://www.ign.com/articles/is-doctor-doom-putting-together-a-team-in-avengers-doomsday",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:36:42+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+      "title": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
+      "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:58:01+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
+      "title": "Ubisoft's Mario + Rabbids team reportedly came close to making an \"ambitious\" Zelda game starring Ganondorf, but it wasn't to be",
+      "url": "https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:38:48+00:00"
+    },
+    {
+      "guid": "bHQhgGvTDHx9owQNZyMDwh",
+      "title": "'Everything is hard. But it turns out that\u2019s not society\u2019s problem, that\u2019s my problem,' says Jensen Huang about AI development",
+      "url": "https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:31:14+00:00"
+    },
+    {
+      "guid": "Jz6vTyV8gs2Wbie6VghTiK",
+      "title": "A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:30:22+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113193",
+      "title": "Marko Zaror & Tyrik Johnson Join Amazon MGM Studios Action Film \u2018Deadlocked\u2019",
+      "url": "https://deadline.com/2026/09/deadlocked-movie-cast-adds-marko-zaror-tyrik-johnson-1237113193/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113905",
+      "title": "\u2018The Rehearsal\u2019s Nathan Fielder Just Helped A Pilots\u2019 Mental Health Bill Become Law",
+      "url": "https://deadline.com/2026/09/nathan-fielder-pilots-mental-health-the-rehearsal-law-1237113905/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:55:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873963",
+      "title": "Shudder Acquires Supernatural Horror Movie \u2018Sundown\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/shudder-acquires-horror-movie-sundown-1236873963/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875707",
+      "title": "Spain\u2019s Begin Again Films Boards Brazilian Basketball Biopic \u2018Paula & Hort\u00eancia \u2013 The Last Chance\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/begin-again-films-paula-hortencia-the-last-chance-1236875707/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:33:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709959",
+      "title": "New York Film Festival Kicks Off With James Gray, Tony Gilroy and Filmmakers Toast In New Lounge",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/new-york-film-festival-james-gray-tony-gilroy-1236709959/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:47:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709454",
+      "title": "Top Hollywood Publicist Alleged to Have Hid Evidence About Role In Celebrity Smear Sites",
+      "url": "https://www.hollywoodreporter.com/business/business-news/top-hollywood-publicist-alleged-celebrity-smear-sites-1236709454/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:40:58+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709962",
+      "title": "\u2018The Traitors: New Blood\u2019 Premiere Ratings Get a Big Assist From Streaming",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/traitors-new-blood-premiere-ratings-peacock-1236709962/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T16:31:22+00:00"
+    },
+    {
+      "guid": "xNxmWeCMhyXuwoHapPo9Qi",
+      "title": "Attention music fans - the CRKD Les Paul guitar controller works with Stage Tour, and it just got a record-low discount at Woot",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/attention-music-fans-the-crkd-les-paul-guitar-controller-works-with-stage-tour-and-it-just-got-a-record-low-discount-at-woot/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T16:41:15+00:00"
+    },
+    {
+      "guid": "Gr296ddRm23fZwmY63N9eT",
+      "title": "The Blood of Dawnwalker devs \"rebalanced\" its time mechanic out of fear \"people will complain\"",
+      "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-devs-rebalanced-the-rpgs-controversial-time-mechanic-out-of-fear-that-people-will-complain-too-much-and-then-people-complained-too-much/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T16:29:37+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206847",
+      "title": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch",
+      "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206852",
+      "title": "Astro Bot's 276 Piece LEGO Set Immortalises the PS5 Icon with Interchangeable Eyes",
+      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-immortalises-the-ps5-icon-with-interchangeable-eyes",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T16:30:00+00:00"
     }
   ]
 }
