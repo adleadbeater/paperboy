@@ -960,28 +960,20 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "RBA5axPqaNVUN4XBe7qBBC",
-      "title": "This chill procgen driving game has a very clever UI feature",
-      "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T04:11:45+00:00"
+      "guid": "https://www.pushsquare.com/#article-206816",
+      "title": "Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away",
+      "url": "https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T12:30:00+00:00"
     },
     {
-      "guid": "PdhhzPTAA5CJ4HGJyFAUcc",
-      "title": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
-      "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T05:25:59+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237110492",
-      "title": "\u2018American Idol\u2019s Luke Bryan, Lionel Richie, Carrie Underwood & Ryan Seacrest Return For Season 25",
-      "url": "https://deadline.com/2026/09/idol-luke-bryan-lionel-richie-carrie-underwood-return-1237110492/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T05:00:35+00:00"
+      "guid": "https://www.siliconera.com/?p=1123677",
+      "title": "Wild Arms Spiritual Successor, Armed Fantasia, Cancelled",
+      "url": "https://www.siliconera.com/wild-arms-spiritual-successor-armed-fantasia-cancelled/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T13:00:00+00:00"
     }
   ]
 }
