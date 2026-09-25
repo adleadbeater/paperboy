@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "BlizzCon Is Unlikely to Return as an Annual Event, Per New Report",
-      "tag": "blizzcon",
-      "posted_at": "2026-09-18T21:01:23.939953+00:00",
-      "urls": [
-        "https://kotaku.com/it-sounds-like-blizzcon-may-no-longer-an-annual-event-2000735379"
-      ],
-      "article_titles": [
-        "It Sounds Like BlizzCon Won\u2019t Go Back To Being An Annual Event"
-      ]
-    },
-    {
       "headline": "Pok\u00e9mon Posts HD Ruby and Sapphire Footage, Fueling Nintendo Switch Port Speculation",
       "tag": "pok\u00e9mon ruby and sapphire",
       "posted_at": "2026-09-21T15:01:04.040982+00:00",
@@ -754,6 +743,17 @@
       "article_titles": [
         "What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'"
       ]
+    },
+    {
+      "headline": "GTA 6 Lands New Game Informer Cover With Fresh Screenshots and Details",
+      "tag": "gta 6",
+      "posted_at": "2026-09-25T22:51:48.125376+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots"
+      ],
+      "article_titles": [
+        "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1046,6 +1046,46 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-25T21:08:00+00:00"
+    },
+    {
+      "guid": "63TYnXwfDV5vMLwrjD6AX8",
+      "title": "My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update",
+      "url": "https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T22:26:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237114182",
+      "title": "Melissa Barrera Would Reprise \u2018Scream\u2019 Role If Rights \u201cLeave\u201d Spyglass: \u201cI Love The Franchise\u201d",
+      "url": "https://deadline.com/2026/09/melissa-barrera-would-return-scream-if-rights-leave-spyglass-1237114182/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T22:35:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237114159",
+      "title": "Paramount To Move Its Class B Shares From Nasdaq To New York Stock Exchange In Early October",
+      "url": "https://deadline.com/2026/09/paramount-moves-class-b-shares-nasdaq-new-york-stock-exchange-1237114159/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T22:27:01+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206861",
+      "title": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
+      "url": "https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-26T00:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206859",
+      "title": "Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles",
+      "url": "https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T23:30:00+00:00"
     }
   ]
 }
