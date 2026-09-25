@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Final Fantasy XIV's Next Crossover Event Brings Final Fantasy XV Back",
-      "tag": "final fantasy xiv",
-      "posted_at": "2026-09-18T15:16:27.870316+00:00",
-      "urls": [
-        "https://www.siliconera.com/next-final-fantasy-ffxiv-crossover-brings-ffxv-back/",
-        "https://www.siliconera.com/next-final-fantasy-ffxiv-crossover-brings-ffxv-back/"
-      ],
-      "article_titles": [
-        "Next Final Fantasy FFXIV Crossover Brings FFXV Back",
-        "Next Final Fantasy FFXIV Crossover Brings FFXV Back"
-      ]
-    },
-    {
-      "headline": "Someone Gifted the Pope a Giant Hunk of Final Fantasy VII Materia",
-      "tag": "final fantasy vii",
-      "posted_at": "2026-09-18T15:16:28.058415+00:00",
-      "urls": [
-        "https://kotaku.com/someone-gifted-the-pope-a-giant-hunk-of-materia-2000735588",
-        "https://kotaku.com/someone-gifted-the-pope-a-giant-hunk-of-materia-2000735588"
-      ],
-      "article_titles": [
-        "Someone Gifted The Pope A Giant Hunk Of Materia",
-        "Someone Gifted The Pope A Giant Hunk Of Materia"
-      ]
-    },
-    {
       "headline": "New GTA Leak Reveals Cancelled Liberty City Expansion for GTA 5 and Early GTA 6 Footage",
       "tag": "gta",
       "posted_at": "2026-09-18T16:01:13.331214+00:00",
@@ -849,6 +823,25 @@
       "article_titles": [
         "Blizzard Insists Actual Humans Are Reading Through All the WoW Forever Beta Character Names It Banned Players for This Week"
       ]
+    },
+    {
+      "headline": "Konami Celebrates Castlevania's 40th Anniversary With a Free Game \u2014 and a Possible 3D Collection Tease",
+      "tag": "castlevania",
+      "posted_at": "2026-09-25T15:31:00.200289+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
+        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/",
+        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/",
+        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/",
+        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/"
+      ],
+      "article_titles": [
+        "Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection",
+        "Castlevania Anniversary Celebrated With Free Game, Music",
+        "Castlevania Anniversary Celebrated With Free Game, Music",
+        "Castlevania Anniversary Celebrated With Free Game, Music",
+        "Castlevania Anniversary Celebrated With Free Game, Music"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1381,6 +1374,150 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-25T14:45:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
+      "title": "Arc Raiders announces a new PvE \"test\" to accommodate its surprisingly friendly players",
+      "url": "https://www.eurogamer.net/arc-raiders-pve-matchmaking-test",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:21:44+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000737166",
+      "title": "GOG\u2019s Big Fall Sale Includes A Bunch Of Great PC Games For $15 Or Less",
+      "url": "https://kotaku.com/gogs-big-fall-sale-includes-a-bunch-of-great-pc-games-for-15-or-less-2000737166",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:11:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113790",
+      "title": "Ed Sheeran\u2019s Controversial Gillette Stadium Concerts Canceled As Boston Braces For Nor\u2019easter",
+      "url": "https://deadline.com/2026/09/ed-sheeran-gillette-stadium-concerts-canceled-1237113790/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:28:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113781",
+      "title": "Shares In Barry Diller\u2019s People Inc. Surge On Report Of Role-Reversal Acquisition Bid From MGM Resorts",
+      "url": "https://deadline.com/2026/09/barry-diller-people-inc-merger-mgm-resorts-1237113781/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:27:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113768",
+      "title": "White House Video Coverage Returns As Networks Resume TV Pool; CNN Says It\u2019s Being Allowed Back In After Judge Sidelines Trump Ban",
+      "url": "https://deadline.com/2026/09/cnn-trump-ban-tv-pool-coverage-white-house-1237113768/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:09:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875682",
+      "title": "Patti LaBelle, Common, Public Enemy Honored at Black Music Action Coalition Gala 2026",
+      "url": "https://variety.com/2026/music/news/patti-labelle-common-public-enemy-bmac-gala-2026-1236875682/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:27:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875670",
+      "title": "Fox News Assigns Larry Kudlow to Anchor Maria Bartiromo\u2019s \u2018Sunday Morning Futures\u2019 Through Midterms",
+      "url": "https://variety.com/2026/tv/news/larry-kudlow-fox-news-sunday-morning-futures-bartiromo-1236875670/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:24:50+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874983",
+      "title": "\u2018The Light in the Darkness\u2019 Holocaust-Narrative Game Launches \u2018Director\u2019s Cut\u2019 Version (Gaming News Roundup)",
+      "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-september-21-1236874983/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:13:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236874581",
+      "title": "Box Office: \u2018Avengers: Endgame Encore\u2019 Makes $3.8 Million in Previews, Robert Pattinson\u2019s \u2018Primetime\u2019 at $2.7 Million",
+      "url": "https://variety.com/2026/film/news/avengers-endgame-encore-box-office-previews-1236874581/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:11:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875556",
+      "title": "Ed Sheeran\u2019s Concerts Canceled at Robert Kraft\u2019s Gillette Stadium Due to Storm",
+      "url": "https://variety.com/2026/music/news/ed-sheeran-concerts-canceled-storm-1236875556/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:05:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875607",
+      "title": "\u2018Lion King\u2019 Director Rob Minkoff Joins AI-Assisted Film \u2018Storm Dogs\u2019 From Tilly Norwood Creator Particle 6",
+      "url": "https://variety.com/2026/film/news/lion-king-rob-minkoff-ai-film-tilly-norwood-particle-6-1236875607/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:03:14+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709884",
+      "title": "How Apple\u2019s Eddy Cue Wooed Formula 1",
+      "url": "https://www.hollywoodreporter.com/business/digital/how-apple-got-formula-1-eddy-cue-1236709884/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:27:10+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709893",
+      "title": "Dolly Parton\u2019s \u20189 to 5\u2019 Comedy Returning to Theaters to Support Late Icon\u2019s Foundation",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dolly-partons-9-to-5-movie-theaters-1236709893/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T15:04:40+00:00"
+    },
+    {
+      "guid": "1896675",
+      "title": "Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection",
+      "url": "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T15:00:37+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206701",
+      "title": "Poll: What Review Score Would You Give Fire Emblem: Fortune's Weave?",
+      "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-fire-emblem-fortunes-weave",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206842",
+      "title": "Infinite New Game+, Photo Mode on the Way to Contol Resonant, No Word on Proper PS5 DLC",
+      "url": "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-contol-resonant-no-word-on-proper-ps5-dlc",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206836",
+      "title": "Thunder Hoop Collection Brings Two Explicit, Obscure, And Unhinged '90s Arcades To Consoles",
+      "url": "https://www.timeextension.com/news/2026/09/thunder-hoop-collection-brings-two-explicit-obscure-and-unhinged-90s-arcades-to-consoles",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T15:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wpyn3c",
+      "title": "Valve leaked the achievement lists for 52 unreleased games",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wpyn3c/valve_leaked_the_achievement_lists_for_52/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T15:01:12+00:00"
     }
   ]
 }
