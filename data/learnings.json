@@ -960,52 +960,28 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "PzQLDoZX3LbLcvevq9QMCU",
-      "title": "It's tough to stand out in today's games industry, but 'sorta like Helldivers 2 except dog people' worked on me",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/its-tough-to-stand-out-in-todays-games-industry-but-sorta-like-helldivers-2-except-dog-people-worked-on-me/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T00:49:10+00:00"
-    },
-    {
-      "guid": "Cd6nDFdBsToMw7fuQXJCE",
-      "title": "14 days in Dragon Shelter: A play by play of my first season in the Stardew-style farm sim where dragons help bake pies",
-      "url": "https://www.pcgamer.com/games/life-sim/14-days-in-dragon-shelter-a-play-by-play-of-my-first-season-in-the-stardew-style-farm-sim-where-dragons-help-bake-pies/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T00:46:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237113460",
-      "title": "Robert Pattinson Thinks Matt Reeves\u2019 \u2018The Batman\u2019 Would Be \u201cTough\u201d To Fit Into James Gunn\u2019s DCU",
-      "url": "https://deadline.com/2026/09/robert-pattinson-matt-reeves-batman-tough-fit-james-gunn-dcu-1237113460/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T00:47:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236875249",
-      "title": "VMAs Producer Van Toffler on Madonna\u2019s Return, the Taylor Takeover and Why He Brought the Show West Again: \u2018L.A. and Snoop Is a Lethal Combo\u2019",
-      "url": "https://variety.com/2026/music/news/vmas-preview-producer-van-toffler-snoop-madonna-swift-2-1236875249/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T00:43:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236875084",
-      "title": "12 Takeaways From Ousted Disney CEO Bob Chapek\u2019s New Book",
-      "url": "https://variety.com/2026/film/news/takeaways-bob-chapek-book-ousted-disney-ceo-1236875084/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T00:42:39+00:00"
-    },
-    {
       "guid": "RBA5axPqaNVUN4XBe7qBBC",
       "title": "This chill procgen driving game has a very clever UI feature",
       "url": "https://www.pcgamer.com/games/this-chill-procgen-driving-game-has-a-very-clever-ui-feature/",
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-09-25T04:11:45+00:00"
+    },
+    {
+      "guid": "PdhhzPTAA5CJ4HGJyFAUcc",
+      "title": "Tim Cain: 'Among other things that Steve Jackson Games didn't like about Fallout was Vault Boy'",
+      "url": "https://www.pcgamer.com/games/fallout/tim-cain-among-other-things-that-steve-jackson-games-didnt-like-about-fallout-was-vault-boy/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T05:25:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237110492",
+      "title": "\u2018American Idol\u2019s Luke Bryan, Lionel Richie, Carrie Underwood & Ryan Seacrest Return For Season 25",
+      "url": "https://deadline.com/2026/09/idol-luke-bryan-lionel-richie-carrie-underwood-return-1237110492/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T05:00:35+00:00"
     }
   ]
 }
