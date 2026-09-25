@@ -850,68 +850,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237111093",
-      "title": "International Disruptors: Reta Guetg On Building Zurich Film Festival\u2019s \u201cTrendy\u201d Identity & Why New Owners Want To Keep It Small, Nimble & Close To Hollywood",
-      "url": "https://deadline.com/2026/09/reta-guetg-zurich-film-festival-zurich-summit-1237111093/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T13:12:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236875525",
-      "title": "Dolly Parton\u2019s \u20189 to 5\u2019 Returns to Theaters With Ticket Sales Donated to Dollywood Foundation After Star\u2019s Death",
-      "url": "https://variety.com/2026/film/news/dolly-parton-9-to-5-theaters-charity-death-1236875525/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T13:22:46+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236875474",
-      "title": "Tim Blake Nelson\u2019s \u2018The Life and Deaths of Wilson Shedd,\u2019 Jesse Eisenberg\u2019s \u2018The Debut\u2019 Among Rome Film Festival Standout Titles",
-      "url": "https://variety.com/2026/film/festivals/tim-blake-nelson-wilson-shedd-jesse-eisenbergs-the-debut-1236875474/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T13:21:55+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236875398",
-      "title": "LISTEN: The Delicate Art of Releasing a Hit Streaming Series",
-      "url": "https://variety.com/2026/tv/news/strictly-business-luminate-wallenstein-streaming-series-1236875398/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T13:01:00+00:00"
-    },
-    {
-      "guid": "KWXFEu8ALcLMesRkkkH9P6",
-      "title": "GTA 6 scalpers try to resell Rockstar's $400 Collector's Box for $1,500, but it's still in stock",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-scalpers-are-already-trying-to-resell-rockstars-usd400-collectors-box-for-upwards-of-usd1-500-even-though-its-still-in-stock/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:13:12+00:00"
-    },
-    {
       "guid": "ea42429a-f35c-4f69-8e55-4a59566f58be",
       "title": "Blizzard Insists Actual Humans Are Reading Through All the WoW Forever Beta Character Names It Banned Players for This Week",
       "url": "https://www.ign.com/articles/blizzard-insists-actual-humans-are-reading-through-all-the-wow-forever-beta-character-names-it-banned-players-for-this-week",
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-09-25T13:33:49+00:00"
-    },
-    {
-      "guid": "3f471993-215d-4a0a-b387-a83f98cd9363",
-      "title": "How Barnes & Noble Laid the Foundation for a Toys 'R' Us Comeback",
-      "url": "https://www.ign.com/articles/barnes-noble-laid-the-foundation-for-a-toys-r-us-comeback",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T13:30:00+00:00"
-    },
-    {
-      "guid": "d3f6ed23-28d2-4d41-80b2-c7bc916f8bae",
-      "title": "The Best Weird-But-Great Steam Games of the Year (So Far)",
-      "url": "https://www.ign.com/articles/best-weird-but-great-steam-games-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-09-25T13:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer",
@@ -1008,14 +952,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-09-25T13:50:43+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-206753",
-      "title": "Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week",
-      "url": "https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-09-25T13:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123497",
@@ -1864,6 +1800,110 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-25T16:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000737071",
+      "title": "Several Final Fantasy XIV Modding Communities Have Banned Popular NSFW Modder",
+      "url": "https://kotaku.com/final-fantasy-14-nsfw-modder-noffletoff-alleged-csam-discussion-ring-2000737071",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:00:02+00:00"
+    },
+    {
+      "guid": "ZoJ7CaXz4nziZdQr277nXK",
+      "title": "I made the hot dog vendors in GTA 5 work because Rockstar never did",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236376406",
+      "title": "Everything We Know About The \u2018Hunger Games: Sunrise On The Reaping\u2019 Movie So Far",
+      "url": "https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-movie-news-updates-1236376406/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:27:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113161",
+      "title": "Starz\u2019s Black Rodeo Drama Casts Eight In Recurring Roles",
+      "url": "https://deadline.com/2026/09/starzs-black-rodeo-drama-series-recurring-cast-1237113161/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113920",
+      "title": "\u2018Forgotten Island\u2019 Soundtrack: From Journey To INXS To Simple Minds",
+      "url": "https://deadline.com/2026/09/forgotten-island-soundtrack-songs-journey-inxs-simple-minds-1237113920/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:11:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113396",
+      "title": "Director Tapped For Documentary On Rugby Superstar Portia Woodman-Wickliffe; Dwayne Johnson, Dany Garcia In Scrum With Seven Bucks Productions",
+      "url": "https://deadline.com/2026/09/portia-woodman-wickliffe-documentary-dwayne-johnson-dany-garcia-1237113396/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875759",
+      "title": "\u2018South Park\u2019 Season 29 Premiere Hits 4.2 Million Viewers in Three Days and Jumps 33% in Rating After Renaming to \u2018South America\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/south-park-season-29-premiere-ratings-viewers-1236875759/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875785",
+      "title": "All Things Go NYC Festival Canceled Due to \u2018Severe Weather Conditions\u2019",
+      "url": "https://variety.com/2026/music/news/all-things-go-nyc-festival-canceled-severe-weather-1236875785/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:27:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236873854",
+      "title": "\u2018Lightworkers\u2019 Doc: Tom Morello, Henry Winkler, Lee Grant and More on Why They Fight for Democracy: \u2018Comfort Is a Danger Zone\u2019",
+      "url": "https://variety.com/2026/film/news/lightworkers-doc-tom-morello-henry-winkler-democracy-1236873854/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:05:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236710058",
+      "title": "Chris Hansen Strikes Back at \u2018Primetime\u2019 Movie (Again) With \u2018I\u2019m Chris Hansen\u2019 Documentary Trailer",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-rips-primetime-movie-documentary-trailer-1236710058/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:14:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236709865",
+      "title": "\u2018Kill Me Now\u2019 Review: A Tired Hollywood Suspense Satire Riddled with Borscht Belt Humor",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/kill-me-now-review-1236709865/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-25T17:12:43+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206855",
+      "title": "Rayman Legends Retold Does Physical Media the Right Way on PS5",
+      "url": "https://www.pushsquare.com/news/2026/09/rayman-legends-retold-does-physical-media-the-right-way-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123702",
+      "title": "FFVII Revelation Director Confirms Gigas Return",
+      "url": "https://www.siliconera.com/ffvii-revelation-director-confirms-gigas-return/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-25T17:00:00+00:00"
     }
   ]
 }
