@@ -754,9 +754,97 @@
       "article_titles": [
         "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots"
       ]
+    },
+    {
+      "headline": "John Goodman, Laura Bailey, and Ian Alexander Join The Last of Us Season 3",
+      "tag": "the last of us",
+      "posted_at": "2026-09-26T15:11:07.807892+00:00",
+      "urls": [
+        "https://deadline.com/2026/09/the-last-of-us-season-3-john-goodman-cast-1237114224/",
+        "https://variety.com/2026/tv/news/the-last-of-us-cast-john-goodman-laura-bailey-ian-alexander-1236876091/",
+        "https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-season-3-john-goodman-1236710364/"
+      ],
+      "article_titles": [
+        "\u2018The Last Of Us\u2019 Casts John Goodman, Ian Alexander & Laura Bailey For Season 3",
+        "\u2018The Last of Us\u2019 Season 3 Casts John Goodman, Video Game Stars Laura Bailey and Ian Alexander",
+        "John Goodman Joins \u2018The Last of Us\u2019 Season 3"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": []
+  "article_cache": [
+    {
+      "guid": "amc62Gow9WbEPtxxi65o5c",
+      "title": "The Elder Scrolls Online's devs are pushing through hard times after layoffs and delays: 'We didn't want to rush to just hit a date'",
+      "url": "https://www.pcgamer.com/games/mmo/the-elder-scrolls-onlines-devs-are-pushing-through-hard-times-after-layoffs-and-delays-we-didnt-want-to-rush-to-just-hit-a-date/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-26T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237114224",
+      "title": "\u2018The Last Of Us\u2019 Casts John Goodman, Ian Alexander & Laura Bailey For Season 3",
+      "url": "https://deadline.com/2026/09/the-last-of-us-season-3-john-goodman-cast-1237114224/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-26T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875716",
+      "title": "Author Chloe Gong on \u2018Eyes of Kings\u2019 ending, \u2018Deadlock\u2019 debut and how she wants \u2018These Violent Delights\u2019 adapted for TV or film",
+      "url": "https://variety.com/2026/biz/news/these-violent-delights-chloe-gong-tv-series-eyes-of-kings-deadlock-1236875716/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-26T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236876091",
+      "title": "\u2018The Last of Us\u2019 Season 3 Casts John Goodman, Video Game Stars Laura Bailey and Ian Alexander",
+      "url": "https://variety.com/2026/tv/news/the-last-of-us-cast-john-goodman-laura-bailey-ian-alexander-1236876091/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-26T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236710364",
+      "title": "John Goodman Joins \u2018The Last of Us\u2019 Season 3",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-season-3-john-goodman-1236710364/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-26T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236710284",
+      "title": "Jonathan Lipnicki on His Bold Role Opposite Robert Pattinson in \u2018Primetime\u2019 and Why He Left L.A.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/primetime-movie-robert-pattinson-jonathan-lipnicki-scene-1236710284/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-26T14:45:00+00:00"
+    },
+    {
+      "guid": "nhtoX2KMhwPpYDUHzKh42C",
+      "title": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-reportedly-reminded-gta-6s-voice-cast-theyre-still-under-nda-after-actor-stephen-root-let-slip-hes-in-the-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-26T14:55:48+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757908",
+      "title": "The Witcher 3 Remastered Will Require Around 50GB of Storage on Switch 2, Compared to 45GB on Other Platforms",
+      "url": "https://otakukart.com/the-witcher-3-remastered-will-require-around-50gb-of-storage-on-switch-2-compared-to-45gb-on-other-platforms/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-26T15:09:03+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1757907",
+      "title": "Monster Hunter Wilds Director Says Capcom Rejected Multi-Headed Monsters That \u201cWent Too Far\u201d Into Horror",
+      "url": "https://otakukart.com/monster-hunter-wilds-director-says-capcom-rejected-multi-headed-monsters-that-went-too-far-into-horror/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-26T14:59:02+00:00"
+    }
+  ]
 }
