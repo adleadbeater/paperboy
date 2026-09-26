@@ -775,14 +775,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236876458",
-      "title": "Melissa Barrera Says She Would Return to \u2018Scream\u2019 Franchise If the Rights \u2018Were Ever to Leave\u2019 Spyglass: \u2018I Had an Amazing Time Making Those Movies\u2019",
-      "url": "https://variety.com/2026/film/news/melissa-barrera-scream-return-spyglass-1236876458/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-26T18:11:12+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237114551",
       "title": "UK Prime Minister Andy Burnham Nearly Joins Oasis, But There\u2019s Something A Bit Off About The Gallagher Brothers In \u2018SNL UK\u2019 Cold Open",
       "url": "https://deadline.com/2026/09/snl-uk-andy-burnham-joins-oasis-russian-spies-1237114551/",
@@ -797,6 +789,14 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-09-26T21:38:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237114572",
+      "title": "Robert Eggers Wants To Do \u2018Romeo & Juliet\u2019 Because Things Got \u201cSo Dark\u201d After \u2018Werwulf\u2019, Joking: \u201cSo, I\u2019ll Do Something About Two Teenagers Killing Themselves\u201d",
+      "url": "https://deadline.com/2026/09/robert-eggers-making-romeo-juliet-after-so-dark-werwulf-1237114572/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-26T23:34:30+00:00"
     }
   ]
 }
