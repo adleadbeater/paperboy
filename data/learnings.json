@@ -786,54 +786,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-      "title": "Five Nights at Freddy's is coming to Fortnite for Fortnitemares",
-      "url": "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-09-27T15:25:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237114419",
-      "title": "\u2018Musk\u2019 Producer, Atwater-Magnific Exec & \u2018Gods Don\u2019t Give Gifts\u2019 Director Talk AI: \u201cIt\u2019s Important To Get In The Driver\u2019s Seat\u201d \u2013 Zurich Summit",
-      "url": "https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-27T15:48:01+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237111302",
-      "title": "\u2018Avengers Endgame: Encore\u2019 Assembles $26M At No. 1 In Second-Best Late September Weekend Ever For Marketplace \u2013 Box Office Update",
-      "url": "https://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-27T15:25:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236876819",
-      "title": "Box Office: \u2018Avengers: Endgame Encore\u2019 Returns to No. 1 With $26 Million, \u2018Primetime\u2019 Scores Impressive $19 Million Debut",
-      "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-27T15:35:35+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236712816",
-      "title": "Anna Kendrick Is \u201cOver the Moon\u201d About Directing \u2018The Seven Husbands of Evelyn Hugo\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/anna-kendrick-seven-husbands-evelyn-hugo-film-babies-zurich-1236712816/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-27T15:39:09+00:00"
-    },
-    {
-      "guid": "CYyBSmWfmy9b2XpF47jrLW",
-      "title": "It's somehow possible to beat Fire Emblem: Fortune's Weave while ignoring the entire point",
-      "url": "https://www.gamesradar.com/games/strategy/its-somehow-possible-to-beat-fire-emblem-fortunes-weave-while-ignoring-the-entire-point-of-the-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-09-27T15:22:36+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237114732",
       "title": "Jeff Probst Says \u201cNothing Has Changed\u201d On \u2018Survivor\u2019 After Paramount Scrapped DEI: \u201cWe Need Diversity\u201d",
       "url": "https://deadline.com/2026/09/jeff-probst-nothing-changed-survivor-paramount-scrapped-dei-1237114732/",
@@ -856,6 +808,22 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-09-27T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236876984",
+      "title": "2026 MTV VMAs Red Carpet: Sienna Spiro, Stella Lefty, Chloe Bailey and More",
+      "url": "https://variety.com/gallery/vmas-2026-red-carpet-fashion-looks/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-27T22:00:24+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206878",
+      "title": "'Sony's Hearing a Lot of the Feedback from Customers': NIS America Boss Weighs in on PS5 Disc Debate",
+      "url": "https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-27T22:00:00+00:00"
     }
   ]
 }
