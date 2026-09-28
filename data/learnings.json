@@ -786,30 +786,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237114732",
-      "title": "Jeff Probst Says \u201cNothing Has Changed\u201d On \u2018Survivor\u2019 After Paramount Scrapped DEI: \u201cWe Need Diversity\u201d",
-      "url": "https://deadline.com/2026/09/jeff-probst-nothing-changed-survivor-paramount-scrapped-dei-1237114732/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-27T19:17:43+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236712927",
-      "title": "Why Emmy Rossum Says \u2018Shameless\u2019 Nude Scenes Affected Her Dating Life: \u201cAll These Preconceived Notions\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/emmy-rossum-nude-scenes-shameless-affected-dating-life-1236712927/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-27T19:16:05+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123580",
-      "title": "Gundam: The Witch from Mercury Vanadis Heart Grasps the Reality of the Series",
-      "url": "https://www.siliconera.com/gundam-the-witch-from-mercury-vanadis-heart-grasps-the-reality-of-the-series/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-27T19:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?post_type=pmc-gallery&p=1236876984",
       "title": "2026 MTV VMAs Red Carpet: Sienna Spiro, Stella Lefty, Chloe Bailey and More",
       "url": "https://variety.com/gallery/vmas-2026-red-carpet-fashion-looks/",
@@ -824,6 +800,46 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-27T22:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236876461",
+      "title": "Kacey Musgraves Pays Heartfelt Tribute to Dolly Parton With \u2018I Will Always Love You\u2019 Performance at MTV Video Music Awards",
+      "url": "https://variety.com/2026/music/awards/kacey-musgraves-dolly-parton-tribute-mtv-vmas-performance-1236876461/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T00:38:08+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713143",
+      "title": "Raye Delivers Red-Hot Rendition of Hit \u201cWhere Is My Husband!\u201d at 2026 MTV VMAs",
+      "url": "https://www.hollywoodreporter.com/music/music-news/raye-where-is-my-husband-performance-2026-mtv-vmas-watch-1236713143/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T00:50:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236712586",
+      "title": "MTV Video Music Awards: Winners List (Updating)",
+      "url": "https://www.hollywoodreporter.com/lists/mtv-vmas-2026-winners-list/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T00:42:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713072",
+      "title": "Madonna Opens 2026 VMAs With Sabrina Carpenter and Charli XCX",
+      "url": "https://www.hollywoodreporter.com/music/music-news/madonna-performance-2026-mtv-vmas-watch-1236713072/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T00:39:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713141",
+      "title": "MTV VMAs Begin on Time in L.A., But Football Delays the Start of the Show on TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/mtv-vmas-delayed-tv-football-starts-on-time-la-1236713141/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T00:34:59+00:00"
     }
   ]
 }
