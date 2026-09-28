@@ -786,36 +786,100 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236713360",
-      "title": "\u2018Naza\u2019 Premieres in the U.S., Seeking Change and Stoking Controversy",
-      "url": "https://www.hollywoodreporter.com/news/politics-news/naza-premieres-united-states-theaters-release-date-1236713360/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-09-28T04:49:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237115024",
-      "title": "\u2018The Assassin(s)\u2019 Tops Korea\u2019s Chuseok Holiday Box Office With 1.5 Million Admissions",
-      "url": "https://deadline.com/2026/09/lee-min-ho-the-assassins-chuseok-holiday-box-office-korea-1237115024/",
+      "guid": "https://deadline.com/?p=1237112323",
+      "title": "Boyzone Concert Coming To Sky As \u2018No Matter What\u2019 Producer Curious Films Moves Into Live Programming",
+      "url": "https://deadline.com/2026/09/boyzone-live-concert-sky-one-for-the-road-curious-films-1237112323/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-09-28T05:51:36+00:00"
+      "published_dt": "2026-09-28T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236877185",
-      "title": "China Box Office: \u2018Avengers: Endgame Encore\u2019 Tops Pre-Holiday Weekend",
-      "url": "https://variety.com/2026/film/box-office/china-box-office-avengers-endgame-encore-1236877185/",
+      "guid": "https://deadline.com/?p=1237115123",
+      "title": "Banijay Latest: Rachel Job Set For Senior Content Role As Sales & Scripted Exits Emerge",
+      "url": "https://deadline.com/2026/09/banijay-rights-rachel-job-role-distribution-exits-1237115123/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T12:51:13+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877263",
+      "title": "Casey Affleck Recalls \u2018Traumatic\u2019 Oscars Night, Praises Christopher Nolan, and Says \u2018Company\u2019 Isn\u2019t Finished Yet: \u2018There Are Things I Want to Change\u2019",
+      "url": "https://variety.com/2026/film/global/casey-affleck-oscars-christopher-nolan-company-1236877263/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-09-28T05:43:15+00:00"
+      "published_dt": "2026-09-28T12:56:07+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236713378",
-      "title": "MTV Video Music Awards: Taylor Swift\u2019s Record, Madonna\u2019s Domination, Snoop Dogg\u2019s Dig, and More Memorable Moments",
-      "url": "https://www.hollywoodreporter.com/music/music-news/2026-mtv-vmas-best-moments-1236713378/",
+      "guid": "https://variety.com/?p=1236877269",
+      "title": "Peanuts Entertainment, London-Based Production Company Focusing on Latin American Stories, Launches With Mirabal Sisters Feature \u2018Alive in Their Garden\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/peanuts-entertainment-london-mirabal-sisters-feature-1236877269/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T12:51:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236697465",
+      "title": "Madrid\u2019s Iberseries & Platino Industria Bosses Tout Expansion and Innovation: \u201cThe Key Is Usefulness\u201d",
+      "url": "https://www.hollywoodreporter.com/business/business-news/iberseries-platino-industria-2026-preview-ai-usefulness-1236697465/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-28T05:27:35+00:00"
+      "published_dt": "2026-09-28T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713457",
+      "title": "Italy\u2019s Fandango Distribution Acquires Zurich Doc Jury President\u2019s \u2018Rescue\u2019, RTS Joins as Broadcaster (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/fandango-zurich-rescue-documentary-rts-film-jury-president-1236713457/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T12:30:00+00:00"
+    },
+    {
+      "guid": "nm7X4J476zk2xPk52tHzYA",
+      "title": "Minecraft Dungeons 2 review: \"This family friendly take on Diablo embraces old school vibes in the best ways\"",
+      "url": "https://www.gamesradar.com/games/minecraft/minecraft-dungeons-2-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T13:00:00+00:00"
+    },
+    {
+      "guid": "1897752",
+      "title": "God Of War Laufey Preorders Go Live September 29, Here\u2019s What Each Edition Includes",
+      "url": "https://www.gamespot.com/articles/god-of-war-laufey-preorders-go-live-september-29-heres-what-each-edition-includes/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T12:31:44+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206896",
+      "title": "Castlevania 40th Anniversary Orchestral Concerts To Take Place Next Year Across Three Major Cities",
+      "url": "https://www.timeextension.com/news/2026/09/castlevania-40th-anniversary-orchestral-concerts-to-take-place-next-year-across-three-major-cities",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T12:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758174",
+      "title": "Primetime Director Lance Oppenheim Says Robert Pattinson Was the Only Actor Who Could Play Chris Hansen",
+      "url": "https://otakukart.com/primetime-director-lance-oppenheim-says-robert-pattinson-was-the-only-actor-who-could-play-chris-hansen/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T12:50:52+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758156",
+      "title": "Hideo Kojima\u2019s PHYSINT Reportedly Costs Xbox Far Less Than $400 Million as Budget Claims Are Disputed",
+      "url": "https://otakukart.com/hideo-kojimas-physint-reportedly-costs-xbox-far-less-than-400-million-as-budget-claims-are-disputed/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T12:48:37+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/rpg-evolution-the-art-of-the-interview.720239/",
+      "title": "RPG Evolution: The Art of the Interview",
+      "url": "https://www.enworld.org/threads/rpg-evolution-the-art-of-the-interview.720239/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T12:30:00+00:00"
     }
   ]
 }
