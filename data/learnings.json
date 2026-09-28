@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Pok\u00e9mon Posts HD Ruby and Sapphire Footage, Fueling Nintendo Switch Port Speculation",
-      "tag": "pok\u00e9mon ruby and sapphire",
-      "posted_at": "2026-09-21T15:01:04.040982+00:00",
-      "urls": [
-        "https://kotaku.com/high-definition-footage-of-pokemon-ruby-and-sapphire-on-official-pokemon-socials-sparks-nintendo-switch-port-speculation-2000736061"
-      ],
-      "article_titles": [
-        "High-Definition Footage Of Pok\u00e9mon Ruby And Sapphire On Official Pok\u00e9mon Socials Sparks Nintendo Switch Port Speculation"
-      ]
-    },
-    {
-      "headline": "Bethesda's Oblivion Remastered Switch 2 Update Actually Made Things Worse",
-      "tag": "oblivion remastered",
-      "posted_at": "2026-09-21T15:31:20.837797+00:00",
-      "urls": [
-        "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-makes-it-worse-2000736105"
-      ],
-      "article_titles": [
-        "Bethesda Updates Oblivion Remastered On Switch 2, Makes It Worse"
-      ]
-    },
-    {
       "headline": "Final Fantasy 7 Revelation Will Let You Auto-Level and Skip the Grind After Rebirth Fatigue",
       "tag": "final fantasy 7 revelation",
       "posted_at": "2026-09-21T16:31:15.905314+00:00",
@@ -815,6 +793,17 @@
       "article_titles": [
         "Ubisoft Has Lovingly Named Its GenAI Gaming Initiative \u2018Motherbrain\u2019"
       ]
+    },
+    {
+      "headline": "God of War: Laufey Reveals New Serpent Bow Combat and Pre-Order Bonuses",
+      "tag": "god of war: laufey",
+      "posted_at": "2026-09-28T16:01:17.274011+00:00",
+      "urls": [
+        "https://kotaku.com/god-of-war-laufey-reveals-new-serpent-bow-combat-and-official-pre-order-bonuses-2000737915"
+      ],
+      "article_titles": [
+        "God Of War Laufey Reveals New Serpent Bow Combat And Official Pre-Order Bonuses"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1435,6 +1424,222 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-09-28T15:20:00+00:00"
+    },
+    {
+      "guid": "37d68823-3d68-401e-a9e0-83ac3d9b0dd5",
+      "title": "The Simpsons Season 38 Premiere Review: 'The Children's Book Job'",
+      "url": "https://www.ign.com/articles/the-simpsons-season-38-premiere-review-the-childrens-book-job",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:38:09+00:00"
+    },
+    {
+      "guid": "09debbc3-05d0-48ce-8a99-55546aad8c5b",
+      "title": "Thieves on the Hunt for GPUs Stole Nvidia Trucks, but All They Got Was 20 Tons of Sand",
+      "url": "https://www.ign.com/articles/thieves-on-the-hunt-for-gpus-stole-nvidia-trucks-but-all-they-got-was-20-tons-of-sand",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:35:21+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000737926",
+      "title": "The Elder Scrolls Online \u2018Took The Heat Off\u2019 Of Calls For A Fallout: New Vegas-Style Skyrim Spin-Off",
+      "url": "https://kotaku.com/the-elder-scrolls-online-took-the-heat-off-of-calls-for-a-fallout-new-vegas-style-skyrim-spin-off-2000737926",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:45:46+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000737915",
+      "title": "God Of War Laufey Reveals New Serpent Bow Combat And Official Pre-Order Bonuses",
+      "url": "https://kotaku.com/god-of-war-laufey-reveals-new-serpent-bow-combat-and-official-pre-order-bonuses-2000737915",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:30:25+00:00"
+    },
+    {
+      "guid": "kHjYQARGFVXrLWHK25o7FY",
+      "title": "October Prime Day gaming keyboard deals",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/best-prime-day-gaming-keyboard-deals/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:33:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237115245",
+      "title": "\u2018Minions & Monsters\u2019 Sets Peacock Release Date",
+      "url": "https://deadline.com/2026/09/minions-monsters-peacock-release-date-1237115245/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T16:00:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237114246",
+      "title": "Ohio House of Horrors Doc Set At Oxygen",
+      "url": "https://deadline.com/2026/09/ohio-house-of-horrors-doc-oxygen-1237114246/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237115276",
+      "title": "\u2018Landman\u2019 Star James Jordan Joins Neon\u2019s \u2018They Follow\u2019",
+      "url": "https://deadline.com/2026/09/they-follow-cast-adds-landman-star-james-jordan-1237115276/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:53:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237115253",
+      "title": "Hugh Laurie Joins HBO\u2019s \u2018The Trial Of Louise Woodward\u2019",
+      "url": "https://deadline.com/2026/09/hugh-laurie-joins-trial-of-louise-woodward-hbo-1237115253/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:30:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236875817",
+      "title": "Michael Che Sets Third Netflix Special \u2018Shot in Minnesota\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/michael-che-netflix-special-shot-in-minnesota-1236875817/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236876060",
+      "title": "Law&Crime Launches \u2018Partners in Crime\u2019 Initiative, Six New Series With Court TV",
+      "url": "https://variety.com/2026/tv/news/law-crime-partners-in-crime-new-series-court-tv-1236876060/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:56:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877352",
+      "title": "TikTok Star Chris Olsen on His Memoir Helping Young People Struggling With Substance Abuse Issues Feel \u2018Less Alone\u2019",
+      "url": "https://variety.com/2026/digital/columns/chris-olsen-memoir-i-think-my-therapist-hates-me-young-people-struggling-substance-abuse-addiction-1236877352/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:33:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877297",
+      "title": "Tomi Adeyemi Will \u2018Never\u2019 Turn Her Books Into Movies Again After \u2018Children of Blood and Bone\u2019 Set Left Her Sobbing: \u2018I Still Don\u2019t Plan to Watch It\u2019",
+      "url": "https://variety.com/2026/film/news/tomi-adeyemi-wont-watch-children-of-blood-and-bone-movie-1236877297/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T15:32:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713472",
+      "title": "Fox News\u2019 Latest Digital Expansion Is a Podcast for \u2018The Girls\u2019",
+      "url": "https://www.hollywoodreporter.com/business/digital/fox-news-new-podcast-the-girls-1236713472/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "guid": "aJaNEozb3mx4YpAAx2tf49",
+      "title": "Diablo 4's 30th anniversary event is \"pretty distasteful,\" Path of Exile co-creator says",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-4s-30th-anniversary-event-is-pretty-distasteful-path-of-exile-co-creator-says-games-should-have-respect-for-their-core-storylines/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:49:27+00:00"
+    },
+    {
+      "guid": "vXQ37ymPKWYUeKJic2vtVo",
+      "title": "What are the right answers to the FBC Terminals in Control Resonant?",
+      "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-fbc-terminals/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:43:33+00:00"
+    },
+    {
+      "guid": "9dVRTpipof5z8jgNk6Cri9",
+      "title": "Alan Cumming continues to be brutally honest about Avengers: Doomsday, admits \"I don't fully understand the plot\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/x-men-star-alan-cumming-continues-to-be-brutally-honest-about-avengers-doomsday-admits-i-dont-fully-understand-the-plot/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:36:04+00:00"
+    },
+    {
+      "guid": "34YQKzLWNWq66AMpQi72qB",
+      "title": "Forget Red Dead Redemption 3, Rockstar's next game is LA Noire 2 according to a GTA 6 leaker",
+      "url": "https://www.gamesradar.com/games/open-world/forget-red-dead-redemption-3-rockstars-next-game-is-apparently-la-noire-2-according-to-a-gta-6-leaker-but-dont-expect-to-play-it-until-at-least-2030/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:35:04+00:00"
+    },
+    {
+      "guid": "PjzDux2USgyidDTNurJDtg",
+      "title": "Valve boss Gabe Newell admits his Mongolian throat singing phase was \"annoying\"",
+      "url": "https://www.gamesradar.com/games/valve-boss-gabe-newell-admits-his-mongolian-throat-singing-phase-was-annoying-and-hes-apparently-not-very-good-at-it-either-i-am-entirely-self-taught-and-it-shows/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:33:14+00:00"
+    },
+    {
+      "guid": "H9jkXacfvgwu5RTc726njg",
+      "title": "The Witcher 3 writer behind the RPG's most iconic questline returns to CD Projekt Red after 10 years",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-writer-behind-the-rpgs-most-iconic-questline-returns-to-cd-projekt-red-after-10-years-right-on-time-for-the-witcher-4/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:31:17+00:00"
+    },
+    {
+      "guid": "67YKWNPwmhyWmPntbrkdBo",
+      "title": "With Overwhelmingly Positive Steam reviews and surging players, indie dev says \"I may have peaked\"",
+      "url": "https://www.gamesradar.com/games/simulation/i-couldnt-be-more-proud-with-98-percent-overwhelmingly-positive-steam-reviews-and-surging-player-numbers-indie-dev-says-it-seems-i-may-have-peaked-with-a-dressmaking-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:28:01+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206915",
+      "title": "Japanese Charts: Fire Emblem: Fortune's Weave Shifts Over 120,000 Physical Copies",
+      "url": "https://www.nintendolife.com/news/2026/09/japanese-charts-fire-emblem-fortunes-weave-shifts-over-120000-physical-copies",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206917",
+      "title": "Wolverine Breaks PS5's Live Service Stranglehold in the US",
+      "url": "https://www.pushsquare.com/news/2026/09/wolverine-breaks-ps5s-live-service-stranglehold-in-the-us",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123773",
+      "title": "Synduality: Echo of Ada Service Ends Worldwide as It Goes Offline",
+      "url": "https://www.siliconera.com/synduality-echo-of-ada-service-ends-worldwide-as-it-goes-offline/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T16:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758241",
+      "title": "SEVENTEEN\u2019s JxJ Announces Global Tour Stops Ahead of \u2018DREAMSCAPE\u2019 Debut",
+      "url": "https://otakukart.com/seventeens-jxj-announces-global-tour-stops-ahead-of-dreamscape-debut/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T16:00:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758231",
+      "title": "KATSEYE Faces Wave of Criticism Over Performance During First World Tour Concert",
+      "url": "https://otakukart.com/katseye-faces-wave-of-criticism-over-performance-during-first-world-tour-concert/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:57:37+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=621140",
+      "title": "D&D: Five Ways To Make A More Memorable Villain",
+      "url": "https://www.belloflostsouls.net/2026/09/dd-five-ways-to-make-a-more-memorable-villain.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T15:32:21+00:00"
     }
   ]
 }
