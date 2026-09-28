@@ -747,62 +747,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237112384",
-      "title": "Merritt Wever On The Moral Lessons Of Lance Oppenheim\u2019s \u2018Primetime\u2019: \u201cWe Don\u2019t Seem To Learn\u201d",
-      "url": "https://deadline.com/2026/09/merritt-wever-interview-lance-oppenheim-primetime-1237112384/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-28T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237115213",
-      "title": "Lily Gladstone & Kiowa Gordon To Star In Horror Western \u2018The Curse Of Silver\u2019",
-      "url": "https://deadline.com/2026/09/lily-gladstone-kiowa-gordon-horror-western-curse-of-silver-1237115213/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-09-28T14:48:40+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236876975",
-      "title": "Margot Robbie\u2019s \u2018Neighbours\u2019 Episodes to Be Recut Into a Microdrama by RoseBerry for Its Epis Platform (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/margot-robbie-neighbours-microdrama-episodes-roseberry-1236876975/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-28T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236877111",
-      "title": "NBC Taps 100th Anniversary to Hook More Advertisers With Tentpole Events",
-      "url": "https://variety.com/2026/tv/news/nbc-100th-anniversary-special-advertisers-commercials-event-1236877111/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-28T14:50:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123763",
-      "title": "Jump Festa 2027 Initial Title Lineup Revealed",
-      "url": "https://www.siliconera.com/jump-festa-2027-initial-title-lineup-revealed/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-09-28T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-201465",
-      "title": "AYANEO's \"AI-Powered\" Pocket Block Goes Up For Pre-Order, Pricing Starts At $79",
-      "url": "https://www.timeextension.com/news/2026/09/ayaneos-ai-powered-pocket-block-goes-up-for-pre-order-pricing-starts-at-usd79",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-09-28T14:50:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1758158",
-      "title": "Avengers: Doomsday Director Anthony Russo Says Marvel Must \u201cSurprise\u201d Fans by Evolving Its Iconic Heroes",
-      "url": "https://otakukart.com/avengers-doomsday-director-anthony-russo-says-marvel-must-surprise-fans-by-evolving-its-iconic-heroes/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-09-28T14:48:39+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000737908",
       "title": "Discord\u2019s Second Attempt To Roll Out Age Verification Is Going Badly",
       "url": "https://kotaku.com/discords-second-attempt-to-roll-out-age-verification-is-going-badly-2000737908",
@@ -1729,6 +1673,38 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-09-28T18:39:00+00:00"
+    },
+    {
+      "guid": "1898462",
+      "title": "Diablo 4 Season 15 Is Filled To The Brim With Big Secrets, And They Just Keep Coming",
+      "url": "https://www.gamespot.com/articles/diablo-4-season-15-is-filled-to-the-brim-with-big-secrets-and-they-just-keep-coming/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T18:48:01+00:00"
+    },
+    {
+      "guid": "1898123",
+      "title": "This Promising New Soulslike Features A Black Metal Vocalist Among Its Impressive Cast",
+      "url": "https://www.gamespot.com/articles/this-promising-new-soulslike-features-a-black-metal-vocalist-among-its-impressive-cast/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T18:30:16+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123783",
+      "title": "Mall of America Bandai Namco Cross Store and Gundam Base Openings Delayed",
+      "url": "https://www.siliconera.com/mall-of-america-bandai-namco-cross-store-and-gundam-base-openings-delayed/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=621254",
+      "title": "RPGs Have A Crowdfunding Problem",
+      "url": "https://www.belloflostsouls.net/2026/09/rpgs-have-a-crowdfunding-problem.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-09-28T18:59:52+00:00"
     }
   ]
 }
