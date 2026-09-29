@@ -1,56 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Pok\u00e9mon 30th Anniversary Cards Spark Fights and Arrests as Fans Camp Overnight",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-09-22T15:31:47.246922+00:00",
-      "urls": [
-        "https://kotaku.com/pokemon-tcg-30th-celebration-target-best-buy-scalpers-lines-fights-2000736414",
-        "https://kotaku.com/pokemon-tcg-30th-celebration-target-best-buy-scalpers-lines-fights-2000736414"
-      ],
-      "article_titles": [
-        "Pok\u00e9mon 30th Celebration Cards Cause Fights, Arrests And Embarrassing Displays From The Crowds Camping Overnight",
-        "Pok\u00e9mon 30th Celebration Cards Cause Fights, Arrests And Embarrassing Displays From The Crowds Camping Overnight"
-      ]
-    },
-    {
-      "headline": "State of Decay 3 Studio Breaks Free From Xbox, Becomes Employee-Owned",
-      "tag": "state of decay 3",
-      "posted_at": "2026-09-22T15:48:22.355861+00:00",
-      "urls": [
-        "https://kotaku.com/state-of-decay-3-studio-announces-its-now-free-from-xbox-and-employee-owned-2000736481"
-      ],
-      "article_titles": [
-        "State Of Decay 3 Studio Announces It\u2019s Now Free From Xbox And Employee-Owned"
-      ]
-    },
-    {
-      "headline": "Xbox Is Shutting Down Ninja Theory, Developer of Hellblade, After Buyout Talks Collapse",
-      "tag": "ninja theory",
-      "posted_at": "2026-09-22T15:48:22.519370+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks",
-        "https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs",
-        "https://kotaku.com/xbox-working-toward-closing-hellblade-studio-ninja-theory-after-multiple-deals-fall-through-2000736441"
-      ],
-      "article_titles": [
-        "Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks",
-        "Hellblade developer Ninja Theory to be shut down in new wave of Xbox cuts, as two separate agreements collapse",
-        "Xbox Working Toward Closing Hellblade Studio Ninja Theory After Multiple Deals Fall Through"
-      ]
-    },
-    {
-      "headline": "LEGO Teases Incoming Dragon Ball Sets",
-      "tag": "dragon ball",
-      "posted_at": "2026-09-22T15:48:22.714421+00:00",
-      "urls": [
-        "https://www.ign.com/articles/lego-dragon-ball-sets-announced"
-      ],
-      "article_titles": [
-        "LEGO Teases Dragon Ball Sets"
-      ]
-    },
-    {
       "headline": "Shadow of Mordor and Shadow of War Are Finally Coming to Switch 2 Next Week",
       "tag": "middle-earth: shadow of mordor / shadow of war",
       "posted_at": "2026-09-22T17:32:01.986800+00:00",
@@ -648,6 +598,28 @@
       "article_titles": [
         "GTA 5 Modder Cancels Nintendo Switch Port Just Days Before Launch After Previously Taunting Rockstar: \u2018I Am Thankful For Take-Two\u2019s Mercy\u2019",
         "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its \u201cMercy\u201d"
+      ]
+    },
+    {
+      "headline": "A Warhammer YouTuber Is Shutting Down After 10 Years \u2014 and Games Workshop Is Part of the Problem",
+      "tag": "warhammer / games workshop",
+      "posted_at": "2026-09-29T16:01:15.185771+00:00",
+      "urls": [
+        "https://www.ign.com/articles/warhammer-youtuber-pulls-the-plug-after-10-years-amid-games-workshop-takedowns-death-threats-and-doxxing-over-3d-printing-designs"
+      ],
+      "article_titles": [
+        "Warhammer YouTuber Pulls the Plug After 10 Years Amid Games Workshop Takedowns, Death Threats, and Doxxing Over 3D Printing Designs"
+      ]
+    },
+    {
+      "headline": "A New PS5 Jailbreak May Have Just Opened the Floodgates to Piracy",
+      "tag": "playstation 5",
+      "posted_at": "2026-09-29T16:01:15.419505+00:00",
+      "urls": [
+        "https://kotaku.com/new-ps5-jailbreak-exploit-works-on-systems-running-july-2026-firmware-2000738283"
+      ],
+      "article_titles": [
+        "A New PS5 Jailbreak May Have Just Opened The Floodgates To Piracy"
       ]
     }
   ],
@@ -1405,6 +1377,158 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-29T15:02:51+00:00"
+    },
+    {
+      "guid": "43dd6675-8c7c-46a8-81c4-bcd1f355e0fe",
+      "title": "Sony and Nintendo Should Keep the Current Gen Going for as Long as Possible 'Because People Are Very Happy Using PS5 and Switch 2,' Former PlayStation Exec Says",
+      "url": "https://www.ign.com/articles/sony-and-nintendo-should-keep-the-current-gen-going-for-as-long-as-possible-because-people-are-very-happy-using-ps5-and-switch-2-former-playstation-exec-says",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:38:56+00:00"
+    },
+    {
+      "guid": "b4750bb6-c432-4f4d-a992-42ae485038ba",
+      "title": "Warhammer YouTuber Pulls the Plug After 10 Years Amid Games Workshop Takedowns, Death Threats, and Doxxing Over 3D Printing Designs",
+      "url": "https://www.ign.com/articles/warhammer-youtuber-pulls-the-plug-after-10-years-amid-games-workshop-takedowns-death-threats-and-doxxing-over-3d-printing-designs",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:36:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738283",
+      "title": "A New PS5 Jailbreak May Have Just Opened The Floodgates To Piracy",
+      "url": "https://kotaku.com/new-ps5-jailbreak-exploit-works-on-systems-running-july-2026-firmware-2000738283",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:30:50+00:00"
+    },
+    {
+      "guid": "5yon2Q9ejFbDjVAJyQG3fX",
+      "title": "Discord's new resource-light 'Game Mode' doesn't mention anything about reducing memory usage",
+      "url": "https://www.pcgamer.com/hardware/discords-new-resource-light-game-mode-doesnt-mention-anything-about-reducing-memory-usage/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:57:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237113575",
+      "title": "\u2018Vintage Violence\u2019 Producers Spacemaker & Barravento Strike Partnership With Japanese Anime Studio Genco",
+      "url": "https://deadline.com/2026/09/vintage-violence-anime-studio-genco-spacemaker-barravento-1237113575/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237116280",
+      "title": "\u2018The Love Hypothesis\u2019 Author To Release Book Sequel, MRC Developing Film Adaptation For Amazon",
+      "url": "https://deadline.com/2026/09/the-love-hypothesis-book-sequel-film-in-development-mrc-1237116280/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:55:31+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237116294",
+      "title": "YouTube Says \u2018Obsession\u2019 & \u2018Backrooms\u2019 Point To Awards Future For Films Born On The Platform",
+      "url": "https://deadline.com/2026/09/youtube-obsession-backrooms-awards-films-pedro-pina-1237116294/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:52:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237116135",
+      "title": "UTA Signs \u2018Brian\u2019 Filmmaker Will Ropp",
+      "url": "https://deadline.com/2026/09/will-ropp-signs-uta-1237116135/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236872535",
+      "title": "\u2018Digger\u2019 Review: As a Texas Oil Tycoon, Tom Cruise Goes Over the Top in Alejandro G. I\u00f1\u00e1rritu\u2019s Bombastically Self-Important Satire",
+      "url": "https://variety.com/2026/film/reviews/digger-review-tom-cruise-alejandro-g-inarritu-1236872535/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T16:00:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878042",
+      "title": "Premium TV and Talent \u2018Will End Up on YouTube and TikTok Over Time\u2019 Says Sister Boss and \u2018Black Doves\u2019 Producer Jane Featherstone",
+      "url": "https://variety.com/2026/tv/global/premium-tv-youtube-and-tiktok-sister-boss-jane-featherstone-1236878042/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:53:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877810",
+      "title": "\u2018Jimmy Kimmel Live\u2019 Kicks Off Broadcast\u2019s Fall TV Premiere Week as No. 1 Show in Late Night (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/jimmy-kimmel-live-ratings-fall-premiere-week-no-1-late-night-1236877810/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713533",
+      "title": "\u2018Better Than the Movies\u2019 Author Lynn Painter Spent 15 Years Chasing a Book Deal. Now She\u2019s Prepping for Her Cinematic Universe",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/lynn-painter-interview-better-than-the-movies-fake-skating-1236713533/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713701",
+      "title": "Sundance Institute Reveals Doc Fund Grantees",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sundance-institute-documentary-fund-grantees-2026-1236713701/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236714425",
+      "title": "Six Flags Magic Mountain to Permanently Close X2 Coaster After More Brain Injury Claims",
+      "url": "https://www.hollywoodreporter.com/news/general-news/six-flags-magic-mountain-x2-closed-1236714425/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T15:49:05+00:00"
+    },
+    {
+      "guid": "XsGvEo6FomjKLZFDpXEWpY",
+      "title": "One Star Wars fan has a theory that Ryan Gosling is playing Luke Skywalker's son in Starfighter",
+      "url": "https://www.gamesradar.com/entertainment/star-wars-movies/one-star-wars-fan-has-a-theory-that-ryan-gosling-is-playing-luke-skywalkers-son-in-starfighter/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T15:56:38+00:00"
+    },
+    {
+      "guid": "Vov6VhjnP8HkVAMLqrU5oP",
+      "title": "How to solve the painting puzzle in Control Resonant",
+      "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-painting-puzzle/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T15:44:15+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206957",
+      "title": "'You Guys Are Gonna Have Your Minds Blown': Troy Baker Says We're Not Ready for Intergalactic",
+      "url": "https://www.pushsquare.com/news/2026/09/you-guys-are-gonna-have-your-minds-blown-troy-baker-says-were-not-ready-for-intergalactic",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123848",
+      "title": "7.2 Genshin Impact Patch Adds Armory Palace\u2019s Mitya and Valeriy",
+      "url": "https://www.siliconera.com/7-2-genshin-impact-patch-adds-armory-palaces-mitya-and-valeriy/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081377",
+      "title": "Mobile Suit Gundam: Battle Operation 3 Network Test Version appears on SteamDB",
+      "url": "https://www.gematsu.com/2026/09/mobile-suit-gundam-battle-operation-3-network-test-version-appears-on-steamdb",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T15:36:59+00:00"
     }
   ]
 }
