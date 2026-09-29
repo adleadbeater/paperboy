@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A Delisted Kingdom Hearts Game With Major Story Implications Is Getting an Unofficial Comeback",
-      "tag": "kingdom hearts",
-      "posted_at": "2026-09-22T14:01:10.877801+00:00",
-      "urls": [
-        "https://kotaku.com/a-delisted-kingdom-hearts-game-with-major-story-implications-is-unofficially-coming-back-2000736310"
-      ],
-      "article_titles": [
-        "A Delisted Kingdom Hearts Game With Major Story Implications Is (Unofficially) Coming Back"
-      ]
-    },
-    {
       "headline": "Monster Hunter Wilds: Ascendance Will Give Master Rank Monsters New Moves \u2014 and a Baby Khezu",
       "tag": "monster hunter wilds",
       "posted_at": "2026-09-22T15:02:49.922194+00:00",
@@ -700,6 +689,17 @@
       "article_titles": [
         "Multiple Last Of Us Projects In \u2018Early Stages\u2019 That Will \u2018Expand\u2019 The Canon Beyond Part I And II"
       ]
+    },
+    {
+      "headline": "Diablo 4 Will Keep Getting Seasonal Content Even After Diablo 5 Launches",
+      "tag": "diablo 4",
+      "posted_at": "2026-09-29T14:01:34.286510+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/"
+      ],
+      "article_titles": [
+        "Diablo 4 will still get seasonal content once Diablo 5\u2019s out, just like Diablo 2 and 3 do, game director says"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -976,6 +976,102 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-29T13:15:21+00:00"
+    },
+    {
+      "guid": "d870a0de-a46d-48b3-a003-c59e6c237b25",
+      "title": "Behind the Scenes With Sadie Sink\u2019s Jean Grey in Spider-Man: Brand New Day",
+      "url": "https://www.ign.com/articles/sadie-sink-jean-grey-spider-man-behind-the-scenes",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=247339",
+      "title": "Diablo 4 will still get seasonal content once Diablo 5\u2019s out, just like Diablo 2 and 3 do, game director says",
+      "url": "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:42:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877815",
+      "title": "\u2018Gilmore Girls\u2019 Comes to Life as Winter Holiday Event on Warner Bros. Studio Tour Hollywood in December",
+      "url": "https://variety.com/2026/tv/news/gilmore-girls-warner-bros-studio-tour-hollywood-1236877815/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877823",
+      "title": "\u2018Icebreaker\u2019 Netflix Series: Auli\u02bbi Cravalho, Gabriel Tierney, Chaneil Kular Among Six to Join Cast (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/icebreaker-netflix-series-auli%ca%bbi-cravalho-chaneil-kular-1236877823/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877977",
+      "title": "Daniel Webber, Dermot Mulroney and Katheryn Winnick to Lead Psychological Thriller \u2018Compound 9\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/daniel-webber-dermot-mulroney-katheryn-winnick-compound-9-1236877977/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877980",
+      "title": "\u2018Alice in Wonderland\u2019 Immersive Experience Set for London",
+      "url": "https://variety.com/2026/theater/global/alice-in-wonderland-immersive-experience-london-1236877980/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:53:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713580",
+      "title": "Kyle MacLachlan, Star of David Lynch\u2019s \u2018Dune,\u2019 Was the Only One on Set Who Knew What \u2018Dune\u2019 Was About",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/kyle-maclachlan-memoir-excerpt-dune-david-lynch-1236713580/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206962",
+      "title": "Castlevania Is Also Getting A 40th Anniversary Concert Tour Next Year",
+      "url": "https://www.nintendolife.com/news/2026/09/castlevania-is-also-getting-a-40th-anniversary-concert-tour-next-year",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206968",
+      "title": "Half-Life Dreamcast Has Been Decompiled, Freeing Source Code And Adding Online Multiplayer",
+      "url": "https://www.timeextension.com/news/2026/09/half-life-dreamcast-has-been-decompiled-freeing-source-code-and-adding-online-multiplayer",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081307",
+      "title": "Sci-fi shoot \u2019em up Sturmjager announced for PS5, Xbox Series, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/09/sci-fi-shoot-em-up-sturmjager-announced-for-ps5-xbox-series-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:50:53+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758360",
+      "title": "Elder Scrolls Writer Says a Typo May Have Inspired the Dragon Break and Helped Explain Daggerfall\u2019s Multiple Endings",
+      "url": "https://otakukart.com/elder-scrolls-writer-says-a-typo-may-have-inspired-the-dragon-break-and-helped-explain-daggerfalls-multiple-endings/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:41:51+00:00"
+    },
+    {
+      "guid": "t3_1wtaa91",
+      "title": "MOBILE SUITS GUNDAM BATTLE OPERATION 3 Network Test appears on steamdb",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wtaa91/mobile_suits_gundam_battle_operation_3_network/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:35:11+00:00"
     }
   ]
 }
