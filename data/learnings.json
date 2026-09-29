@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Silent Hill: Townfall review \u2014 the new entry in Konami's horror revival is a patience-tester",
-      "tag": "silent hill: townfall",
-      "posted_at": "2026-09-22T13:31:16.108144+00:00",
-      "urls": [
-        "https://www.siliconera.com/review-silent-hill-townfall-can-test-your-patience/",
-        "https://www.siliconera.com/review-silent-hill-townfall-can-test-your-patience/"
-      ],
-      "article_titles": [
-        "Review: Silent Hill: Townfall Can Test Your Patience",
-        "Review: Silent Hill: Townfall Can Test Your Patience"
-      ]
-    },
-    {
       "headline": "A Delisted Kingdom Hearts Game With Major Story Implications Is Getting an Unofficial Comeback",
       "tag": "kingdom hearts",
       "posted_at": "2026-09-22T14:01:10.877801+00:00",
@@ -691,6 +678,28 @@
       "article_titles": [
         "Konami has a Silent Hill lore bible and no, you can't see it"
       ]
+    },
+    {
+      "headline": "Ace Combat 8 on PC Forces You to Buy the Old Belkan War Game \u2014 Console Players Get It Standalone",
+      "tag": "ace combat 8",
+      "posted_at": "2026-09-29T13:31:17.289362+00:00",
+      "urls": [
+        "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction"
+      ],
+      "article_titles": [
+        "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console"
+      ]
+    },
+    {
+      "headline": "Naughty Dog Confirms Multiple New Last of Us Projects in Early Development That Will Expand the Canon",
+      "tag": "the last of us",
+      "posted_at": "2026-09-29T13:31:17.511851+00:00",
+      "urls": [
+        "https://kotaku.com/multiple-last-of-us-projects-in-early-stages-that-will-expand-the-canon-beyond-part-i-and-ii-2000738273"
+      ],
+      "article_titles": [
+        "Multiple Last Of Us Projects In \u2018Early Stages\u2019 That Will \u2018Expand\u2019 The Canon Beyond Part I And II"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -839,6 +848,134 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-09-29T12:49:01+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
+      "title": "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console",
+      "url": "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:15:16+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738273",
+      "title": "Multiple Last Of Us Projects In \u2018Early Stages\u2019 That Will \u2018Expand\u2019 The Canon Beyond Part I And II",
+      "url": "https://kotaku.com/multiple-last-of-us-projects-in-early-stages-that-will-expand-the-canon-beyond-part-i-and-ii-2000738273",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:13:22+00:00"
+    },
+    {
+      "guid": "pzW7U23jLZPPBgMZfnVsXR",
+      "title": "Stop trying to make a console war out of which WoW is better, you're all exhausting",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/stop-trying-to-make-a-console-war-out-of-which-wow-is-better-youre-all-exhausting/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:22:40+00:00"
+    },
+    {
+      "guid": "NCiuujaiyX48z8qQqYBsrM",
+      "title": "This neat home-brew, vibe-coded Windows tray utility makes it so much easier and more efficient to track wireless kit battery levels",
+      "url": "https://www.pcgamer.com/software/windows/this-neat-home-brew-vibe-coded-windows-tray-utility-makes-it-so-much-easier-and-more-efficient-to-track-wireless-kit-battery-levels/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:19:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237115468",
+      "title": "\u2018Cat\u2019s Eyes\u2019 Is A Female-Driven, Manga-Adapted Art Heist Drama Stealing The Limelight In France",
+      "url": "https://deadline.com/2026/09/cats-eyes-art-heist-drama-global-breakout-1237115468/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237115956",
+      "title": "IDFA Adds 100+ Titles To 2026 Lineup: Oscar Contenders \u201814th,\u2019 \u2018Closure\u2019, \u2018Once Upon A Time In Harlem\u2019 & More",
+      "url": "https://deadline.com/2026/09/2026-idfa-signed-best-of-fests-short-documentary-competition-announcement-1237115956/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237115981",
+      "title": "Pocket.watch Creator Series \u2018The Besties In Haunted High\u2019 Set For Tubi Launch",
+      "url": "https://deadline.com/2026/09/the-besties-in-haunted-high-pocket-watch-tubi-1237115981/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237116041",
+      "title": "\u2018Saturday Night Live UK\u2019 Sets Next Three Hosts",
+      "url": "https://deadline.com/2026/09/saturday-night-live-uk-hosts-danny-dyer-cynthia-erivo-norton-1237116041/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877999",
+      "title": "Leading Documentary Festival IDFA Adds More Than 100 Films Lineup, Including Shorts Competition",
+      "url": "https://variety.com/2026/film/global/idfa-adds-more-than-100-films-1236877999/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:16:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236714309",
+      "title": "YouTube Exec Sees More \u2018Obsession\u2019-, \u2018Backrooms\u2019-Style Smashes Hitting Box Office \u2013 and Oscars",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/youtube-predicts-more-obsession-backrooms-box-office-hits-1236714309/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-29T13:16:01+00:00"
+    },
+    {
+      "guid": "1899924",
+      "title": "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its \u201cMercy\u201d",
+      "url": "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:07:36+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206884",
+      "title": "TMNT: Splintered Fate Shreds Past Another Sales Milestone, Dev Reveals Most-Played Characters",
+      "url": "https://www.nintendolife.com/news/2026/09/tmnt-splintered-fate-shreds-past-another-sales-milestone-dev-reveals-most-played-characters",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206900",
+      "title": "God of War Laufey PS5 Pre-Orders Live Now, Starting at $70",
+      "url": "https://www.pushsquare.com/news/2026/09/god-of-war-laufey-ps5-pre-orders-live-now-starting-at-usd70",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081297",
+      "title": "Remothered: Tormented Fathers Remastered and Remothered: Broken Porcelain Remastered launch in Q1 2027",
+      "url": "https://www.gematsu.com/2026/09/remothered-tormented-fathers-remastered-and-remothered-broken-porcelain-remastered-launch-in-q1-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:21:05+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758358",
+      "title": "Zero-sen Hayato Screenwriter S\u014d Kuramoto Dies at 91 After Decades in Japanese Film and Television",
+      "url": "https://otakukart.com/zero-sen-hayato-screenwriter-so-kuramoto-dies-at-91-after-decades-in-japanese-film-and-television/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:17:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758359",
+      "title": "Silent Hill Series Producer Says Konami Limits Access to Its Lore Bible So Developers Can Create Their Own Silent Hill",
+      "url": "https://otakukart.com/silent-hill-series-producer-says-konami-limits-access-to-its-lore-bible-so-developers-can-create-their-own-silent-hill/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-29T13:15:21+00:00"
     }
   ]
 }
