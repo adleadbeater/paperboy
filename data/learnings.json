@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Atlus Announces First Persona Super Live in Four Years \u2014 And Persona 6 Fans Are Watching Closely",
-      "tag": "persona 6",
-      "posted_at": "2026-09-23T14:01:16.101399+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years",
-        "https://www.siliconera.com/persona-super-live-2027-concert-will-last-3-days/"
-      ],
-      "article_titles": [
-        "Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years",
-        "Persona Super Live 2027 Concert Will Last 3 Days"
-      ]
-    },
-    {
       "headline": "Slay the Spire Streamer Dropped by Agency After Calling Out U.S. Army Twitch Sponsorships",
       "tag": "slay the spire",
       "posted_at": "2026-09-23T15:01:12.612655+00:00",
@@ -615,6 +602,17 @@
         "Grasshopper Manufacture Goes Indie Again After Split With NetEase As The Chinese Internet Giant Retreats From Japanese Game Development",
         "Grasshopper Manufacture splits from NetEase Games"
       ]
+    },
+    {
+      "headline": "Deadlock's New Map Is a Stunning Visual Overhaul",
+      "tag": "deadlock",
+      "posted_at": "2026-09-30T14:31:30.921475+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/"
+      ],
+      "article_titles": [
+        "Holy hell\u2014Deadlock's new map looks absolutely beautiful"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -971,6 +969,174 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-30T13:40:36+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
+      "title": "Tinker, Bard, Illusionist - Blizzard seemingly surveying World of Warcraft: Forever players about never-before-seen classes to add to the game",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-class-survey",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:18:14+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+      "title": "\"My god this new lighting is lifeless\" - The Witcher 3 Remastered Edition divides players for a few key reasons",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-community-reaction-lighting",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:15:01+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738461",
+      "title": "I\u2019m Having A Great Time With This Musical Witch School Farm Sim Even If I\u2019m Always Late To Class",
+      "url": "https://kotaku.com/im-happily-attending-the-musical-magical-garden-school-where-no-one-is-mad-if-im-hours-late-to-class-2000738461",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:00:13+00:00"
+    },
+    {
+      "guid": "e7hSDUCyd8yXxJtR7XWzpe",
+      "title": "Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:24:37+00:00"
+    },
+    {
+      "guid": "Gkyv2K2KmB2wBFfeWP48Yo",
+      "title": "Holy hell\u2014Deadlock's new map looks absolutely beautiful",
+      "url": "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:56:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893521",
+      "title": "LCD Soundsystem Announces 2026 NYC Residency \u2014 Including 100th Residency Show",
+      "url": "https://variety.com/2026/music/news/lcd-soundsystem-2026-nyc-residency-dates-1236893521/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:25:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893484",
+      "title": "HBO Max Unveils Javier Calvo, Javier Ambrossi Drama Series, Created by \u2018Anatomy\u2019 Writer Fran Ara\u00fajo and \u2018Querer\u2019 Scribe Eduard Sola (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/hbo-max-javier-calvo-javier-ambrossi-fran-araujo-1236893484/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:04:56+00:00"
+    },
+    {
+      "guid": "https://variety.com/?post_type=pmc-gallery&p=1236849274",
+      "title": "Dakota Johnson and Anne Hathaway Premiere \u2018Verity\u2019 in New York City and More Red Carpet Photos: September 2026",
+      "url": "https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:00:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878000",
+      "title": "Will Tom Cruise\u2019s \u2018Digger\u2019 Continue Warner Bros.\u2019 Dismal Box Office Year?",
+      "url": "https://variety.com/2026/film/box-office/digger-tom-cruise-warner-bros-box-office-1236878000/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878059",
+      "title": "Queer Dating App Jack\u2019d Launches Film Festival With Judges TS Madison, Miss Lawrence, Bobby Ashley, Mike Gauyo and Dyll\u00f3n Burnside (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/columns/queer-dating-app-jackd-lgbtq-film-festival-1236878059/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878697",
+      "title": "AI Companies Are Raising Millions From Music They Took Without Permission (Guest Post)",
+      "url": "https://variety.com/2026/music/opinion/ai-companies-raising-millions-from-music-without-permission-1236878697/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717034",
+      "title": "Two-Time Oscar Winner and \u2018Atonement\u2019 Writer Christopher Hampton to Lead Tallinn Film Fest Jury",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscar-winner-christopher-hampton-tallinn-poff-2026-jury-1236717034/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717044",
+      "title": "John Grover, Film Editor on Six James Bond Movies, Dies at 87",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/john-grover-dead-james-bond-film-editor-1236717044/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:07:54+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717014",
+      "title": "\u2018Digger\u2019 Ad Fires Back at Critics With Tom Cruise Character Declaring \u201cF**k Those People\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/digger-ad-negative-reviews-tom-cruise-1236717014/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T14:04:55+00:00"
+    },
+    {
+      "guid": "1901227",
+      "title": "Ex-PlayStation Boss Has Some Advice For Xbox: \u201cPick A Lane\u201d",
+      "url": "https://www.gamespot.com/articles/ex-playstation-boss-has-some-advice-for-xbox-pick-a-lane/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:58:51+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207018",
+      "title": "Balloon Bomber (Not The Kirby Villain) Drifts Sloooowly Onto The Arcade Archives This Week",
+      "url": "https://www.timeextension.com/news/2026/09/balloon-bomber-not-the-kirby-villain-drifts-sloooowly-onto-the-arcade-archives-this-week",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081582",
+      "title": "ANTONBLAST for PS5, PS4 launches October 1",
+      "url": "https://www.gematsu.com/2026/09/antonblast-for-ps5-ps4-launches-october-1",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T14:24:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081576",
+      "title": "Grave Seasons launches March 9, 2027",
+      "url": "https://www.gematsu.com/2026/09/grave-seasons-launches-march-9-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T14:15:50+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081572",
+      "title": "STRANGER THAN HEAVEN \u20181929 Kure, Hiroshima In-Depth Look\u2019 gameplay",
+      "url": "https://www.gematsu.com/2026/09/stranger-than-heaven-1929-kure-hiroshima-in-depth-look-gameplay",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T14:11:35+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758515",
+      "title": "Modern Warfare 4 Has Sold Nearly 450K Copies and Generated $25M on Steam Before Launch, Pointing to Call of Duty\u2019s Biggest Steam Launch in Years",
+      "url": "https://otakukart.com/modern-warfare-4-has-sold-nearly-450k-copies-and-generated-25m-on-steam-before-launch-pointing-to-call-of-dutys-biggest-steam-launch-in-years/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T14:26:24+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758512",
+      "title": "Dune: Awakening Creative Director Reveals Denis Villeneuve Once Thought the Game\u2019s Title Was Too Close to Star Wars",
+      "url": "https://otakukart.com/dune-awakening-creative-director-reveals-denis-villeneuve-once-thought-the-games-title-was-too-close-to-star-wars/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T14:13:34+00:00"
     }
   ]
 }
