@@ -717,14 +717,6 @@
       "published_dt": "2026-09-30T13:21:14+00:00"
     },
     {
-      "guid": "1901189",
-      "title": "Steam Is Finally Changing How Games Get Their Big Front-Page Break",
-      "url": "https://www.gamespot.com/articles/steam-is-finally-changing-how-games-get-their-big-front-page-break/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-09-30T13:01:32+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1081241",
       "title": "Queen\u2019s Domain launches October 30 for PS5, Xbox Series, Switch 2, and PC",
       "url": "https://www.gematsu.com/2026/09/queens-domain-launches-october-30-for-ps5-xbox-series-switch-2-and-pc",
@@ -1755,6 +1747,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-30T16:48:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237143032",
+      "title": "Talent Agent Amanda Glazer Joins Innovative Artists",
+      "url": "https://deadline.com/2026/09/amanda-glazer-joins-innovative-artists-kohner-restructuring-1237143032/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T17:00:00+00:00"
     }
   ]
 }
