@@ -608,36 +608,108 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236887794",
-      "title": "Florence Pugh Credits Tom Holland for \u2018Spider-Man: Brand New Day\u2019 Role: \u2018This All Happened Because of Tom\u2019",
-      "url": "https://variety.com/2026/film/news/florence-pugh-credits-tom-holland-spider-man-brand-new-day-1236887794/",
-      "source_name": "Variety",
+      "guid": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "title": "Monster Hunter Wilds on Switch 2 runs at a stable 30FPS, but it took Capcom a \"painstaking, seemingly endless process\" to get there",
+      "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-performance-capcom",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-09-30T04:57:01+00:00"
+      "published_dt": "2026-09-30T12:54:26+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236716787",
-      "title": "\u2018GMA\u2019 Anchor Will Reeve Opens Up About Testicular Cancer Battle: \u201cFortunate That I Caught This Early\u201d",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gma-anchor-will-reeve-testicular-cancer-diagnosis-1236716787/",
+      "guid": "https://kotaku.com/?p=2000738607",
+      "title": "19 Year Veteran Of Xbox Weighs In On The Future Of Halo: \u2018Hire Bungie, Halo Studios And Other Laid Off Folk Who Are Bursting With Talent\u2019",
+      "url": "https://kotaku.com/19-year-veteran-of-xbox-weighs-in-on-the-future-of-halo-hire-bungie-halo-studios-and-other-laid-off-folk-who-are-bursting-with-talent-2000738607",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T12:48:57+00:00"
+    },
+    {
+      "guid": "2UvLtnScXT8rahQb9h8CwR",
+      "title": "No Law might be the open-world Deus Ex that Cyberpunk 2077 wasn't",
+      "url": "https://www.pcgamer.com/games/rpg/no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-wasnt/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T12:47:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237142838",
+      "title": "\u2018Verity\u2019 Review: Dakota Johnson And Anne Hathaway Play Authors In Psychological Thriller But Are They Really Alter Egos For Colleen Hoover?",
+      "url": "https://deadline.com/2026/09/verity-review-dakota-johnson-anne-hathaway-colleen-hoover-1237142838/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237142919",
+      "title": "The U.S. Is Coming Back To Co-Production, Says \u2018Slow Horses\u2019 & \u2018Call My Agent!\u2019 Studio Mediawan",
+      "url": "https://deadline.com/2026/09/us-returning-to-co-production-mediawan-1536-hbo-1237142919/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T12:51:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878493",
+      "title": "Amazon Launches Faster Fire TV Stick 4K and Redesigned Remote, Adds Alexa+ Hub to Fire TV Interface",
+      "url": "https://variety.com/2026/digital/news/amazon-fire-tv-4k-stick-remote-alexa-plus-hub-1236878493/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878708",
+      "title": "CNN\u2019s Pamela Brown Launches New Streaming Series, \u2018Body Language\u2019",
+      "url": "https://variety.com/2026/tv/news/cnn-pamela-brown-body-language-streaming-launch-1236878708/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893315",
+      "title": "\u2018Verity\u2019 Review: Dakota Johnson and Anne Hathaway Drift Through Another Listless Colleen Hoover Adaptation",
+      "url": "https://variety.com/2026/film/news/verity-review-dakota-johnson-anne-hathaway-1236893315/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893404",
+      "title": "Mattel Hires Cond\u00e9 Nast\u2019s Roger Lynch as CEO, Ynon Kreiz to Exit for New Job",
+      "url": "https://variety.com/2026/tv/news/mattel-ceo-roger-lynch-ynon-conde-nast-kreiz-1236893404/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T12:58:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893390",
+      "title": "M. Night Shyamalan\u2019s \u2018Remain\u2019 Earns Strong First Reactions: Jake Gyllenhaal Is \u2018Incredible\u2019 in \u2018Scary as Hell\u2019 and \u2018Heartbreaking\u2019 Thriller",
+      "url": "https://variety.com/2026/film/news/m-night-shyamalan-remain-reactions-jake-gyllenhaal-incredible-1236893390/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T12:57:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236716710",
+      "title": "\u2018Dancing With the Stars\u2019 Sets Super Bowl Night",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-the-stars-super-bowl-night-october-13-1236716710/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-09-30T04:52:41+00:00"
+      "published_dt": "2026-09-30T12:45:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1081236",
-      "title": "Oceanic open-world puzzle adventure game Isles of Sea & Sky coming to Switch on October 8",
-      "url": "https://www.gematsu.com/2026/09/oceanic-open-world-puzzle-adventure-game-isles-of-sea-sky-coming-to-switch-on-october-8",
-      "source_name": "Gematsu",
+      "guid": "https://www.nintendolife.com/#article-207023",
+      "title": "Pok\u00e9mon Pokopia Gets Spooky With A Limited-Time Halloween In-Game Event",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event",
+      "source_name": "Nintendo Life",
       "source_tier": 2,
-      "published_dt": "2026-09-30T04:54:08+00:00"
+      "published_dt": "2026-09-30T12:30:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236877944",
-      "title": "Anton Studios Joins The Creatives as Partner and Investor as Producer-Led European Company Enters Jointly Owned Holding Structure (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/anton-studios-the-creatives-partners-investors-1236877944/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-09-30T06:00:00+00:00"
+      "guid": "https://www.siliconera.com/?p=1123810",
+      "title": "Review: Aniimo is a Constantly Distracting Experience",
+      "url": "https://www.siliconera.com/review-aniimo-is-a-constantly-distracting-experience/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:00:00+00:00"
     }
   ]
 }
