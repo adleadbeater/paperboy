@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Slay the Spire Streamer Dropped by Agency After Calling Out U.S. Army Twitch Sponsorships",
-      "tag": "slay the spire",
-      "posted_at": "2026-09-23T15:01:12.612655+00:00",
-      "urls": [
-        "https://kotaku.com/popular-slay-the-spire-streamer-dropped-by-talent-agency-after-criticizing-u-s-army-sponsored-twitch-streams-2000736729"
-      ],
-      "article_titles": [
-        "Popular Slay The Spire Streamer \u2018Dropped\u2019 By Talent Agency After Criticizing U.S. Army\u2013Sponsored Twitch Streams"
-      ]
-    },
-    {
       "headline": "The Producer Behind the New Resident Evil Film Is Also Working on a Silent Hill Project",
       "tag": "silent hill",
       "posted_at": "2026-09-23T17:01:23.959350+00:00",
@@ -612,6 +601,52 @@
       ],
       "article_titles": [
         "Holy hell\u2014Deadlock's new map looks absolutely beautiful"
+      ]
+    },
+    {
+      "headline": "Pok\u00e9mon Legends: Z-A Is Getting a Dedicated Switch 2 Physical Release Next Month",
+      "tag": "pok\u00e9mon legends: z-a",
+      "posted_at": "2026-09-30T16:01:17.177055+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month"
+      ],
+      "article_titles": [
+        "Pok\u00e9mon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month"
+      ]
+    },
+    {
+      "headline": "Xbox Boss Asha Sharma Says \"Xbox Is Not For Sale\" Amid Spin-Off Fears",
+      "tag": "xbox",
+      "posted_at": "2026-09-30T16:01:17.259668+00:00",
+      "urls": [
+        "https://kotaku.com/asha-sharma-says-xbox-is-not-for-sale-amid-concerns-microsofts-gaming-business-is-being-streamlined-for-a-spin-off-2000738651"
+      ],
+      "article_titles": [
+        "Asha Sharma Says \u2018Xbox Is Not For Sale\u2019 Amid Concerns Microsoft\u2019s Gaming Business Is Being Streamlined For A Spin-Off"
+      ]
+    },
+    {
+      "headline": "PlayStation Plus Essential Games for October 2026 Revealed",
+      "tag": "playstation plus",
+      "posted_at": "2026-09-30T16:01:17.333238+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+        "https://www.gematsu.com/2026/09/playstation-plus-monthly-games-lineup-for-october-2026-announced"
+      ],
+      "article_titles": [
+        "PS Plus Essential Games for October 2026 Announced",
+        "PlayStation Plus Monthly Games lineup for October 2026 announced"
+      ]
+    },
+    {
+      "headline": "Alleged Rockstar Hacker Arrested Over GTA Online Data Breach",
+      "tag": "rockstar games",
+      "posted_at": "2026-09-30T16:01:17.404698+00:00",
+      "urls": [
+        "https://kotaku.com/alleged-rockstar-games-hacker-arrested-in-connection-with-data-breach-that-revealed-gta-online-profits-2000738638"
+      ],
+      "article_titles": [
+        "Alleged Rockstar Games Hacker Arrested In Connection With Data Breach That Revealed GTA Online Profits"
       ]
     }
   ],
@@ -1473,6 +1508,166 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-09-30T15:08:36+00:00"
+    },
+    {
+      "guid": "957a22a1-8f25-4cef-83a5-60857dc4b8dd",
+      "title": "Ted: The Animated Series Announced With Original Movie Cast Returning",
+      "url": "https://www.ign.com/articles/ted-animated-series-peacock-original-cast-plot-trailer-release-date",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:30:00+00:00"
+    },
+    {
+      "guid": "ca3b35a3-8134-49fe-97a5-ed568c8bbdba",
+      "title": "The Best, Worst, and Weirdest Star Wars Prequel Trilogy Games",
+      "url": "https://www.ign.com/articles/the-best-worst-and-weirdest-star-wars-prequel-trilogy-games",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738651",
+      "title": "Asha Sharma Says \u2018Xbox Is Not For Sale\u2019 Amid Concerns Microsoft\u2019s Gaming Business Is Being Streamlined For A Spin-Off",
+      "url": "https://kotaku.com/asha-sharma-says-xbox-is-not-for-sale-amid-concerns-microsofts-gaming-business-is-being-streamlined-for-a-spin-off-2000738651",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:43:04+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738638",
+      "title": "Alleged Rockstar Games Hacker Arrested In Connection With Data Breach That Revealed GTA Online Profits",
+      "url": "https://kotaku.com/alleged-rockstar-games-hacker-arrested-in-connection-with-data-breach-that-revealed-gta-online-profits-2000738638",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:30:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237127742",
+      "title": "\u2018Ink\u2019 Helmer Danny Boyle To Receive Gotham Film Awards\u2019 Director Tribute",
+      "url": "https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237143171",
+      "title": "CBS Orders \u2018Undercover Boss\u2019 Reboot With Drew Carey, \u2018Stacks Of Cash\u2019 & \u201924 Hour Millionaire\u2019 Unscripted Series",
+      "url": "https://deadline.com/2026/09/cbs-orders-undercover-boss-drew-carey-unscripted-series-1237143171/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237143183",
+      "title": "Mike Flanagan\u2019s \u2018Carrie\u2019 Envisioned As Three Seasons In \u201cDream Scenario\u201d",
+      "url": "https://deadline.com/2026/09/mike-flanagan-carrie-three-seasons-dream-scenario-1237143183/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:45:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237115994",
+      "title": "Canada\u2019s Banger Films Tunes Up Animated Rock Comedy \u2018Gone To Hell\u2019",
+      "url": "https://deadline.com/2026/09/gone-to-hell-animated-comedy-banger-tv-1237115994/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:42:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893607",
+      "title": "David Ellison Recruits Mattel\u2019s Ynon Kreiz for Senior Role at Merged Paramount-Warner Bros.",
+      "url": "https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-senior-role-mattel-1236893607/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:43:50+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878582",
+      "title": "\u2018Ted\u2019 Animated Series Sets Peacock Release Date",
+      "url": "https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717124",
+      "title": "\u2018Undercover Boss\u2019 Revived at CBS With Drew Carey as Host",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/undercover-boss-returns-cbs-drew-carey-1236717124/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236714595",
+      "title": "Donnie Wahlberg Says NKOTB\u2019s Final Las Vegas Shows Will Be \u201cSuper Emotional,\u201d Teases New Elements and Shares What\u2019s Next",
+      "url": "https://www.hollywoodreporter.com/music/music-features/donnie-wahlberg-interview-nkotbs-final-vegas-shows-1236714595/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:46:54+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236716660",
+      "title": "Being Clarissa Ward: CNN Star Speaks on Gaza, Trump \u2014 and Her Ellison-Era Future",
+      "url": "https://www.hollywoodreporter.com/business/business-news/clarissa-ward-cnn-reporting-video-donald-trump-1236716660/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717113",
+      "title": "Tribeca Festival Sets 2027 Dates, Submission Deadlines",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tribeca-festival-2027-dates-submission-deadlines-1236717113/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T15:41:36+00:00"
+    },
+    {
+      "guid": "1901244",
+      "title": "Activision Should Hire Former Halo Devs For Next Mainline Game, Former Franchise Director Says",
+      "url": "https://www.gamespot.com/articles/activision-should-hire-former-halo-devs-for-next-mainline-game-former-franchise-director-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T15:37:31+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207041",
+      "title": "Pok\u00e9mon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month",
+      "url": "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207004",
+      "title": "PS Plus Essential Games for October 2026 Announced",
+      "url": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T15:35:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207040",
+      "title": "The Witcher 3 Remastered PS5 Pro Performance Seems to Vary Massively Between Players, and No One Knows Why",
+      "url": "https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-ps5-pro-performance-seems-to-vary-massively-between-players-and-no-one-knows-why",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081615",
+      "title": "PlayStation Plus Monthly Games lineup for October 2026 announced",
+      "url": "https://www.gematsu.com/2026/09/playstation-plus-monthly-games-lineup-for-october-2026-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T15:32:46+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758542",
+      "title": "Prime Video\u2019s Barbershop Series Sets February 2027 Premiere With First Look at the Comedy",
+      "url": "https://otakukart.com/prime-videos-barbershop-series-sets-february-2027-premiere-with-first-look-at-the-comedy/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T15:52:46+00:00"
     }
   ]
 }
