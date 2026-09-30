@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Man Faces Jail Time After Placing a Tracking Device on a Pok\u00e9mon TCG Delivery Driver's Car",
-      "tag": "pok\u00e9mon tcg",
-      "posted_at": "2026-09-22T21:03:30.584668+00:00",
-      "urls": [
-        "https://kotaku.com/72-year-old-man-could-spend-up-to-six-months-in-jail-for-placing-tracking-device-on-pokemon-tcg-delivery-drivers-car-2000736531"
-      ],
-      "article_titles": [
-        "72-Year-Old Man Could Spend Up To Six Months In Jail For Placing Tracking Device On Pok\u00e9mon TCG Delivery Driver\u2019s Car"
-      ]
-    },
-    {
-      "headline": "Diablo 5 is rethinking monster level scaling so you actually feel powerful",
-      "tag": "diablo 5",
-      "posted_at": "2026-09-22T22:20:17.672587+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/rpg/diablo-5-will-take-a-somewhat-different-approach-to-diablo-4s-monster-level-scaling-so-your-character-feels-noticeably-stronger-as-you-progress/"
-      ],
-      "article_titles": [
-        "Diablo 5 will 'take a somewhat different approach' to Diablo 4's monster level scaling so your character feels noticeably stronger as you progress"
-      ]
-    },
-    {
       "headline": "Former Halo Leaders Mourn \"Effective Closure\" of Halo Studios as Employees Are Promoted and Fired the Same Week",
       "tag": "halo",
       "posted_at": "2026-09-23T13:31:12.977482+00:00",
@@ -613,6 +591,17 @@
       "article_titles": [
         "New Naruto Limited Anime Series Will Appear at NYCC 2026"
       ]
+    },
+    {
+      "headline": "You Can Unlock a Free Switch 2 Upgrade for The Witcher 3 by Borrowing an Old Physical Copy",
+      "tag": "the witcher 3",
+      "posted_at": "2026-09-30T00:30:40.322160+00:00",
+      "urls": [
+        "https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492"
+      ],
+      "article_titles": [
+        "You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -713,6 +702,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-09-29T23:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738492",
+      "title": "You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG",
+      "url": "https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T00:07:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236876765",
+      "title": "\u2018What Remains\u2019 Review: A Pensive but Stirring Drama Finds Poetry in the Landscapes of Rural Turkey",
+      "url": "https://variety.com/2026/film/reviews/what-remains-review-1236876765/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T00:21:36+00:00"
     }
   ]
 }
