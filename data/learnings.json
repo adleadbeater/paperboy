@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Former Halo Leaders Mourn \"Effective Closure\" of Halo Studios as Employees Are Promoted and Fired the Same Week",
-      "tag": "halo",
-      "posted_at": "2026-09-23T13:31:12.977482+00:00",
-      "urls": [
-        "https://www.eurogamer.net/halo-studios-closure-xbox-cuts-kiki-wolfkill-bonnie-ross"
-      ],
-      "article_titles": [
-        "Former Halo leaders lament effective closure of Halo Studios, as one employee finds themselves promoted and fired in same week"
-      ]
-    },
-    {
       "headline": "Atlus Announces First Persona Super Live in Four Years \u2014 And Persona 6 Fans Are Watching Closely",
       "tag": "persona 6",
       "posted_at": "2026-09-23T14:01:16.101399+00:00",
@@ -613,6 +602,19 @@
       "article_titles": [
         "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint"
       ]
+    },
+    {
+      "headline": "Grasshopper Manufacture Breaks Free from NetEase, Goes Indie Again",
+      "tag": "grasshopper manufacture",
+      "posted_at": "2026-09-30T14:01:10.745083+00:00",
+      "urls": [
+        "https://kotaku.com/grasshopper-manufacture-goes-indie-again-after-split-with-netease-as-the-chinese-internet-giant-retreats-japanese-game-development-2000738619",
+        "https://www.gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games"
+      ],
+      "article_titles": [
+        "Grasshopper Manufacture Goes Indie Again After Split With NetEase As The Chinese Internet Giant Retreats From Japanese Game Development",
+        "Grasshopper Manufacture splits from NetEase Games"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -825,6 +827,150 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-09-30T13:06:46+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738619",
+      "title": "Grasshopper Manufacture Goes Indie Again After Split With NetEase As The Chinese Internet Giant Retreats From Japanese Game Development",
+      "url": "https://kotaku.com/grasshopper-manufacture-goes-indie-again-after-split-with-netease-as-the-chinese-internet-giant-retreats-japanese-game-development-2000738619",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:38:09+00:00"
+    },
+    {
+      "guid": "t2doHv7rJG8qKscAiPHg7k",
+      "title": "The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people",
+      "url": "https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:49:19+00:00"
+    },
+    {
+      "guid": "5XUqBbTtE7Drd2AgtvhXmh",
+      "title": "I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:26:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237143010",
+      "title": "Cond\u00e9 Nast CEO Roger Lynch Jumps To Top Job At Mattel, Succeeding Ynon Kreiz",
+      "url": "https://deadline.com/2026/09/conde-nast-ceo-roger-lynch-mattel-ynon-kreiz-1237143010/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:45:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237116464",
+      "title": "Ahead Of Tonight\u2019s CNN Gubernatorial Debate, Steve Hilton On No Federal Tax Credits This Year, ParaBros Politics, L.A.\u2019s Next Mayor & California\u2019s Spirit",
+      "url": "https://deadline.com/2026/09/steve-hilton-interview-govenors-debate-1237116464/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237143001",
+      "title": "Fremantle International Commercial Strategy VP Jill Kellie Exits After Four Years",
+      "url": "https://deadline.com/2026/09/fremantle-international-jill-kellie-exits-1237143001/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893305",
+      "title": "New \u2018X-Men\u2019 Actor Christopher Abbott Says Professor X Casting Reveal Was a \u2018Bit of a Nightmare\u2019 Because \u2018A Lot of People Didn\u2019t Know Who I Was\u2019",
+      "url": "https://variety.com/2026/film/news/christopher-abbott-professor-x-reveal-nightmare-1236893305/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:48:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878555",
+      "title": "Lukas Dhont, Valentin Hadjadj Discuss \u2018Coward\u2019 Score, and Edward Berger, Volker Bertelmann Talk About Music for \u2018The Riders,\u2019 Starring Brad Pitt",
+      "url": "https://variety.com/2026/artisans/festivals/lukas-dhont-edward-berger-composers-1236878555/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:34:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236712697",
+      "title": "Why \u2018Dancing With the Stars\u2019 Isn\u2019t Live on the West Coast",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/dancing-with-stars-west-coast-why-not-live-1236712697/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:53:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236716995",
+      "title": "Mattel CEO Ynon Kreiz May Be Heading to David Ellison\u2019s Paramount-Warner Bros.",
+      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-names-ynon-kreiz-paramount-warners-1236716995/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-09-30T13:49:49+00:00"
+    },
+    {
+      "guid": "S9kiFvsW37a46SUuMifTmH",
+      "title": "GTA 6 influencers sent mysterious merch that sure looks better than those $400 Collector's Boxes",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-influencers-sent-a-mysterious-package-that-fans-say-sure-looks-better-than-those-usd400-collectors-boxes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:28:34+00:00"
+    },
+    {
+      "guid": "1901224",
+      "title": "This New Riftbound Card Is An Exciting Variant Of A Time-Traveling Legend",
+      "url": "https://www.gamespot.com/articles/this-new-riftbound-card-is-an-exciting-variant-of-a-time-traveling-legend/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:53:48+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207028",
+      "title": "You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart",
+      "url": "https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-206852",
+      "title": "Astro Bot's 276 Piece LEGO Set Will Be Available Standalone for $24.99",
+      "url": "https://www.pushsquare.com/news/2026/09/astro-bots-276-piece-lego-set-will-be-available-standalone-for-usd24-99",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:35:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207030",
+      "title": "No More Heroes Dev Splits from NetEase, Claims Back Independence",
+      "url": "https://www.pushsquare.com/news/2026/09/no-more-heroes-dev-splits-from-netease-claims-back-independence",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123891",
+      "title": "Don Quijote Takes Over Toys R Us Japan Operations",
+      "url": "https://www.siliconera.com/don-quijote-takes-over-toys-r-us-japan-operations/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758508",
+      "title": "Jujutsu Kaisen Voice Actor Kenjiro Tsuda\u2019s AI Voice Lawsuit Gets Landmark Ruling as Japan Court Recognizes Voice as a Publicity Right, But Rejects His TikTok Video Removal Request",
+      "url": "https://otakukart.com/jujutsu-kaisen-voice-actor-kenjiro-tsudas-ai-voice-lawsuit-gets-landmark-ruling-as-japan-court-recognizes-voice-as-a-publicity-right-but-rejects-his-tiktok-video-removal-request/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:31:14+00:00"
+    },
+    {
+      "guid": "t3_1wu58rd",
+      "title": "Resident evil 5 and 6 rumored in remake queue, according to Jun takeuchi",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wu58rd/resident_evil_5_and_6_rumored_in_remake_queue/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-09-30T13:40:36+00:00"
     }
   ]
 }
