@@ -708,118 +708,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-      "title": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more",
-      "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:28:56+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237144329",
-      "title": "\u2018Best Pancakes In The County\u2019: IFC Picks Up Domestic Rights To Nicolas Cage, Justin Long & Shelley Hennig Action-Thriller; First Look Revealed",
-      "url": "https://deadline.com/2026/10/nicolas-cage-film-best-pancakes-county-us-deal-ifc-1237144329/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:25:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236877607",
-      "title": "Rachel Zegler, Diego Rodriguez and James Olivas on Bringing \u2018Evita\u2019 to Broadway and Reimagining the Iconic Balcony Sequence for Times Square",
-      "url": "https://variety.com/2026/legit/features/rachel-zegler-evita-broadway-balcony-sequence-times-square-1236877607/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236894783",
-      "title": "Sia Sells 50% of Music Catalog to Pophouse in $180 Million Partnership Deal",
-      "url": "https://variety.com/2026/music/news/sia-sells-music-catalog-pophouse-180-million-1236894783/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:26:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236894011",
-      "title": "Screenvision Shakes Up Movie-Theater Pre Show in Bid for Gen Z Ad Dollars",
-      "url": "https://variety.com/2026/tv/news/screenvision-shakes-up-movie-pre-show-gen-z-ad-dollars-1236894011/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236894071",
-      "title": "Dominic West and Sienna Miller Shine In HBO\u2019s Captivating Divorce Thriller \u2018War\u2019: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/war-review-hbo-dominic-west-1236894071/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236894704",
-      "title": "DDA Hires Luxury Hospitality Exec Keith Iddins as Longtime Event Management Boss Caroline Warburton Sets Retirement (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/dda-hires-keith-iddins-caroline-warburton-to-retire-1236894704/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236894739",
-      "title": "Fugitive Films Co-Founder, Former MTV Scripted Boss Launch Romance-Focused Vertical Content Studio, Rommi (EXCLUSIVE)",
-      "url": "https://variety.com/2026/digital/news/rommi-romance-vertical-content-studio-1236894739/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:03:28+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236716673",
-      "title": "Joseph Zada, Rebel Without a Pause",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/joseph-zada-east-of-eden-hunger-games-james-dean-1236716673/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236718142",
-      "title": "Mark Ruffalo Decries Paramount Job Losses, Says Anti-Merger Movement Won\u2019t \u201cFade Away\u201d",
-      "url": "https://www.hollywoodreporter.com/business/business-news/mark-ruffalo-slams-paramountwarner-bros-merger-1236718142/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:18:39+00:00"
-    },
-    {
-      "guid": "54nidhUMHf3mQv4nvYL2eN",
-      "title": "Gears of War: E-Day studio reportedly fears post-launch layoffs and Microsoft withholding bonuses",
-      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-studio-reportedly-fears-post-launch-layoffs-wouldnt-put-it-past-microsoft-to-withhold-bonuses/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T14:05:06+00:00"
-    },
-    {
-      "guid": "1902745",
-      "title": "Uncharted 5 Is Reportedly In Development And Will Feature Nathan Drake",
-      "url": "https://www.gamespot.com/articles/uncharted-5-is-reportedly-in-development-and-will-feature-nathan-drake/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T14:21:33+00:00"
-    },
-    {
-      "guid": "1902735",
-      "title": "Xbox Is Paying A Lot Less Than Normal For Kojima\u2019s Physint, Possibly Under $200 Million \u2013 Report",
-      "url": "https://www.gamespot.com/articles/xbox-is-paying-a-lot-less-than-normal-for-kojimas-physint-possibly-under-200-million-report/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T14:18:19+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1758645",
-      "title": "Appofeniacs Review: A Bloody Deepfake Thriller That Turns AI Paranoia Into Darkly Fun Horror",
-      "url": "https://otakukart.com/appofeniacs-review-a-bloody-deepfake-thriller-that-turns-ai-paranoia-into-darkly-fun-horror/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T14:22:53+00:00"
-    },
-    {
       "guid": "96d4f88d-292f-492e-b115-406b875979fc",
       "title": "Jason Jones, Co-Creator of Halo and Destiny and Co-Founder of Bungie, Announces New Studio",
       "url": "https://www.ign.com/articles/jason-jones-co-creator-of-halo-and-destiny-and-co-founder-of-bungie-announces-new-studio",
@@ -858,14 +746,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-10-01T14:43:38+00:00"
-    },
-    {
-      "guid": "4rSomk668rQnRWswx45V4Z",
-      "title": "Google Japan's conveyor belt keyboard is a sad reminder of the sense of humour the whole company used to have long, long ago",
-      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/google-japans-conveyor-belt-keyboard-is-a-sad-reminder-of-the-sense-of-humour-the-whole-company-used-to-have-long-long-ago/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T14:29:54+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237144176",
@@ -946,14 +826,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-01T14:55:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207092",
-      "title": "Prepare for Metro 2039 in Metro 2033 and Last Light, Seemingly Coming to PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/prepare-for-metro-2039-in-metro-2033-and-last-light-seemingly-coming-to-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T14:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1124014",
@@ -2082,6 +1954,126 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-01T17:53:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144642",
+      "title": "Why Hasn\u2019t Jimmy Kimmel Signed A New Deal With Disney?",
+      "url": "https://deadline.com/2026/10/jimmy-kimmel-live-renewal-disney-dana-walden-1237144642/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:27:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144617",
+      "title": "Anthony Anderson Slated To Receive Top Honor At North Fork TV Festival",
+      "url": "https://deadline.com/2026/10/anthony-anderson-north-fork-tv-festival-award-1237144617/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:24:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236886507",
+      "title": "Michael Jackson and Madonna Choreographer Vincent Paterson to Be Honored at World Choreography Awards",
+      "url": "https://variety.com/2026/awards/awards/vincent-world-choreography-awards-1236886507/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:25:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894985",
+      "title": "Disney President Dana Walden on the Future of \u2018Jimmy Kimmel Live!\u2019 and Why the Live-Action \u2018Moana\u2019 Struggled at the Box Office",
+      "url": "https://variety.com/2026/tv/news/disney-dana-walden-jimmy-kimmel-abc-moana-box-office-1236894985/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:24:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894934",
+      "title": "Casey Bloys Says He Believes David Ellison Plans to \u2018Maintain What We\u2019ve Done\u2019 at HBO as Paramount and Warner Bros. Merge",
+      "url": "https://variety.com/2026/tv/news/casey-bloys-david-ellison-hbo-paramount-warner-bros-merge-1236894934/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:21:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894173",
+      "title": "\u2018The Social Reckoning\u2019 Soundtrack Features New Music From Composer Alexandre Desplat",
+      "url": "https://variety.com/2026/artisans/news/social-reckoning-soundtrack-alexandre-desplat-1236894173/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717856",
+      "title": "Talia Ryder Joins Tom Holland in Fred Astaire Biopic (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236718978",
+      "title": "Fox News Hit With Warner Bros. Threat Letter Over Chris Harrison\u2019s New Dating Show \u2018The Vow\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/warner-bros-fox-news-legal-fight-chris-harrison-dating-show-1236718978/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:26:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236718354",
+      "title": "Casey Bloys Indicates HBO Max and Paramount+ More Likely to Be Bundled Than Combined",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/casey-bloys-hbo-max-paramount-plus-bundle-1236718354/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:03:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717678",
+      "title": "Aaron Sorkin Made a Movie About Her. She Just Hopes Mark Zuckerberg Watches.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/facebook-whistleblower-mark-zuckerberg-social-reckoning-1236717678/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T18:01:55+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207116",
+      "title": "There's No Doubt About It, Anime RPG LitGirls Was Made for Me",
+      "url": "https://www.pushsquare.com/news/2026/10/theres-no-doubt-about-it-anime-rpg-litgirls-was-made-for-me",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T18:15:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758682",
+      "title": "Dark Gathering Season 2 Reveals Chilling Second Visual Ahead of 2027 Premiere",
+      "url": "https://otakukart.com/dark-gathering-season-2-reveals-chilling-second-visual-ahead-of-2027-premiere/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T18:29:39+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758700",
+      "title": "Gundam SEED FREEDOM Zero Takes Center Stage at NYCC 2026 With New World Premiere Updates",
+      "url": "https://otakukart.com/gundam-seed-freedom-zero-takes-center-stage-at-nycc-2026-with-new-world-premiere-updates/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T18:19:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758728",
+      "title": "The Vermilion Mask Cast Reveals Character Insights at KYOMAF 2026 Special Stage",
+      "url": "https://otakukart.com/the-vermilion-mask-cast-reveals-character-insights-at-kyomaf-2026-special-stage/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T18:15:56+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/warmachine-the-art-of-the-team-event-and-overview-of-the-biggest-one-of-all/",
+      "title": "[Warmachine] The Art of the Team Event, and Overview of the Biggest One of All",
+      "url": "https://www.tabletopbattles.com/warmachine-the-art-of-the-team-event-and-overview-of-the-biggest-one-of-all/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T18:00:48+00:00"
     }
   ]
 }
