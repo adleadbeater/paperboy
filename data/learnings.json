@@ -1,50 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Capcom Announces Ace Attorney: Dual Destinies VR Instead of the Long-Awaited Ace Attorney 7",
-      "tag": "ace attorney",
-      "posted_at": "2026-09-24T13:01:27.058338+00:00",
-      "urls": [
-        "https://kotaku.com/instead-of-announcing-ace-attorney-7-capcom-is-porting-the-fifth-game-into-vr-for-some-reason-2000736853"
-      ],
-      "article_titles": [
-        "Instead of Announcing Ace Attorney 7, Capcom Is Porting The Fifth Game Into VR For Some Reason"
-      ]
-    },
-    {
-      "headline": "Tim Schafer Says \"Someone Is Being Greedy\" as He Reflects on Double Fine's Split With Xbox",
-      "tag": "double fine",
-      "posted_at": "2026-09-24T13:01:27.212060+00:00",
-      "urls": [
-        "https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy"
-      ],
-      "article_titles": [
-        "\"I assume someone is being greedy somewhere\" - Tim Schafer discusses  current game industry woes following Double Fine's split with Xbox"
-      ]
-    },
-    {
-      "headline": "The Witcher 3: Wild Hunt Remastered Gets Official Global Release Times",
-      "tag": "the witcher 3: wild hunt",
-      "posted_at": "2026-09-24T13:01:27.389896+00:00",
-      "urls": [
-        "https://www.ign.com/articles/the-witcher-3-wild-hunt-remastered-global-release-times-confirmed-by-cd-projekt"
-      ],
-      "article_titles": [
-        "The Witcher 3: Wild Hunt \u2013 Remastered Global Release Times Confirmed by CD Projekt"
-      ]
-    },
-    {
-      "headline": "Warhammer 40K: Rogue Trader Is Getting Its Final Update \u2014 and It Sounds Delightfully Grim",
-      "tag": "warhammer 40,000: rogue trader",
-      "posted_at": "2026-09-24T13:31:11.255019+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/rpg/rogue-trader-is-coming-to-an-end-with-miracles-madness-and-tears-of-blood/"
-      ],
-      "article_titles": [
-        "Rogue Trader is coming to an end with miracles, madness and 'tears of blood'"
-      ]
-    },
-    {
       "headline": "Nicolas Cage's Madden Biopic Gets a Wild New Trailer \u2014 and It Looks Delightfully Unhinged",
       "tag": "madden",
       "posted_at": "2026-09-24T15:01:14.239343+00:00",
@@ -681,6 +637,17 @@
       "article_titles": [
         "Over 85 Percent Of Japanese Game Developers Are Using AI"
       ]
+    },
+    {
+      "headline": "Nerial, the studio behind Reigns and Card Shark, is shutting down",
+      "tag": "nerial",
+      "posted_at": "2026-10-01T13:31:15.414059+00:00",
+      "urls": [
+        "https://kotaku.com/reigns-card-shark-dev-closing-down-2000738732"
+      ],
+      "article_titles": [
+        "Reigns, Card Shark Dev Is Closing Down As Leads Go Independent Again: \u2018I Still Have Things That I Can Say\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -821,6 +788,166 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-10-01T13:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738923",
+      "title": "The Gears Of War: E-Day Campaign Is Full Of Highs And Lows",
+      "url": "https://kotaku.com/the-gears-of-war-e-day-campaign-is-full-of-highs-and-lows-2000738923",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:16:18+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738732",
+      "title": "Reigns, Card Shark Dev Is Closing Down As Leads Go Independent Again: \u2018I Still Have Things That I Can Say\u2019",
+      "url": "https://kotaku.com/reigns-card-shark-dev-closing-down-2000738732",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:00:23+00:00"
+    },
+    {
+      "guid": "JA6SaFYUMi4D2emjc5dNke",
+      "title": "AOC jumps on the 1,000 Hz IPS gaming monitor bandwagon but this time with 0.1 ms pixel response",
+      "url": "https://www.pcgamer.com/hardware/gaming-monitors/aoc-jumps-on-the-1-000-hz-ips-gaming-monitor-bandwagon-but-this-time-with-0-1-ms-pixel-response/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:21:13+00:00"
+    },
+    {
+      "guid": "uZmuHeB8csphpnGQvi3Gcd",
+      "title": "Roll up roll up, can you spot which of these images are using DLSS 5?",
+      "url": "https://www.pcgamer.com/hardware/roll-up-roll-up-can-you-spot-which-of-these-images-are-using-dlss-5/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:15:35+00:00"
+    },
+    {
+      "guid": "iyD9LtKiohmSiubcHEY2mb",
+      "title": "Gears of War: E-Day review in progress \u2014 Good shooting, but the campaign's a slog",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144270",
+      "title": "CNN Again Removed As TV Pooler Set To Travel With Donald Trump",
+      "url": "https://deadline.com/2026/10/cnn-removed-by-trump-tv-pool-1237144270/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237002078",
+      "title": "\u2018Ebenezer\u2019 Trailer: Johnny Depp Leads Ti West\u2019s Dickens Remake",
+      "url": "https://deadline.com/2026/10/ebenezer-trailer-johnny-depp-comic-con-1237002078/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:19:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144271",
+      "title": "Charlotte Kirk & Neil Marshall Thriller \u2018Spiral Down\u2019 Adds Costas Mandylor, Michael Pare, Alessandra Williams, More",
+      "url": "https://deadline.com/2026/10/charlotte-kirk-spiral-down-costas-mandylor-michael-pare-1237144271/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:16:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144260",
+      "title": "BBC Told By Lawmakers To Stop Paying \u201cOver The Odds\u201d For U.S. Shows Like \u2018Scooby-Doo\u2019",
+      "url": "https://deadline.com/2026/10/bbc-stop-paying-over-odds-scooby-doo-1237144260/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:06:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144157",
+      "title": "\u2018Hunger Games,\u2019 \u2018Saw,\u2019 \u2018John Wick\u2019 & \u2018Ghosts\u2019 FAST Channels Launching",
+      "url": "https://deadline.com/2026/10/hunger-games-saw-john-wick-ghosts-fast-channels-launching-1237144157/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:00:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894714",
+      "title": "Pro-Trump Ads Funded With Taxpayer Dollars Air on CNN and MS NOW; White House Has Spent $2.9 Million on the TV Spots to Date",
+      "url": "https://variety.com/2026/tv/news/trump-taxpayer-funded-ads-air-on-cnn-ms-now-1236894714/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:23:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236718125",
+      "title": "The IDF Calls Gaza Documentary \u2018NAZA\u2019 \u201cDistorted, Misleading and Disingenuous\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/idf-naza-doc-misleading-1236718125/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T13:16:09+00:00"
+    },
+    {
+      "guid": "7fH575ErQFADMpsXy9ZDfB",
+      "title": "All Unsupervised Science testing facility locations in Control Resonant",
+      "url": "https://www.gamesradar.com/games/action-rpg/control-resonant-unsupervised-science-testing-facilities/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T13:10:18+00:00"
+    },
+    {
+      "guid": "qdcmftu2Q79XVEZbpaac4N",
+      "title": "Gears of War: E-Day review-in-progress: \"Gears is finally back firing on cylinders \u2013 this is its Halo 3 ODST moment\"",
+      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T13:01:26+00:00"
+    },
+    {
+      "guid": "xY4vFSMpxWKRizb82cky5m",
+      "title": "You don't need to spend $150 to get Lego Astro Bot, PS Direct just dropped stock for $25",
+      "url": "https://www.gamesradar.com/toys-collectibles/you-dont-need-to-spend-usd150-to-get-lego-astro-bot-ps-direct-just-dropped-stock-for-usd25/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T12:59:31+00:00"
+    },
+    {
+      "guid": "1902703",
+      "title": "Resident Evil Director\u2019s Next Movie Is Called The Flood But It\u2019s Not About Halo, Adds Jennifer Lawrence",
+      "url": "https://www.gamespot.com/articles/resident-evil-directors-next-movie-is-called-the-flood-but-its-not-about-halo-adds-jennifer-lawrence/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T13:16:01+00:00"
+    },
+    {
+      "guid": "1902705",
+      "title": "007 First Light\u2019s Free Expansion Gives Bond A Driving License To Kill",
+      "url": "https://www.gamespot.com/articles/007-first-light-free-expansion-gives-bond-a-driving-license-to-kill/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T13:11:30+00:00"
+    },
+    {
+      "guid": "1899896",
+      "title": "How Long Is Gears of War: E-Day \u2013 Mission List And Hours Played",
+      "url": "https://www.gamespot.com/articles/how-long-is-gears-of-war-e-day-mission-list-and-hours-played/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081830",
+      "title": "Gaelco Sports Collection launches October 22",
+      "url": "https://www.gematsu.com/2026/10/gaelco-sports-collection-launches-october-22",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T13:22:50+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081684",
+      "title": "Famitsu Sales: 9/21/26 \u2013 9/27/27",
+      "url": "https://www.gematsu.com/2026/10/famitsu-sales-9-21-26-9-27-27",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T13:04:02+00:00"
     }
   ]
 }
