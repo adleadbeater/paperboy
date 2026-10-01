@@ -1,43 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Nicolas Cage's Madden Biopic Gets a Wild New Trailer \u2014 and It Looks Delightfully Unhinged",
-      "tag": "madden",
-      "posted_at": "2026-09-24T15:01:14.239343+00:00",
-      "urls": [
-        "https://www.timeextension.com/news/2026/09/i-can-make-whats-inside-your-head-live-forever-new-trailer-for-nicolas-cages-madden-biopic-shows-the-genesis-of-eas-million-selling-serie",
-        "https://deadline.com/2026/09/madden-trailer-nicolas-cage-john-madden-1236657136/"
-      ],
-      "article_titles": [
-        "\"I Can Make What's Inside Your Head Live Forever\" - New Trailer For Nicolas Cage's Madden Biopic Shows The Genesis Of EA's Million-Selling Series",
-        "\u2018Madden\u2019 Trailer: Boom! Nicolas Cage Transforms In David O. Russell\u2019s Biopic Of NFL Icon"
-      ]
-    },
-    {
-      "headline": "Meta Announces Lightweight VR Multimedia Headset Coming Spring 2027",
-      "tag": "meta vr",
-      "posted_at": "2026-09-24T15:01:14.315294+00:00",
-      "urls": [
-        "https://kotaku.com/meta-vr-glasses-promises-a-lightweight-vr-multimedia-headset-launching-in-spring-2027-2000736857"
-      ],
-      "article_titles": [
-        "Meta Promises Lightweight VR Multimedia Headset, Launching in Spring 2027"
-      ]
-    },
-    {
-      "headline": "Meta's $1,299 VR Glasses Will Offer 3D Versions of Avengers and Star Wars, Plus James Cameron Films",
-      "tag": "meta vr",
-      "posted_at": "2026-09-24T15:01:14.393248+00:00",
-      "urls": [
-        "https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307/",
-        "https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307/"
-      ],
-      "article_titles": [
-        "Meta Unveils VR Glasses for $1,299, Promises 3D Films From Lionsgate, James Cameron and Enhanced Versions of \u2018Avengers\u2019 and \u2018Star Wars\u2019",
-        "Meta Unveils VR Glasses for $1,299, Promises 3D Films from Lionsgate, James Cameron, and Enhanced Versions of \u2018Avengers\u2019 and \u2018Star Wars\u2019"
-      ]
-    },
-    {
       "headline": "Rockstar's $400 GTA 6 Collector's Edition Is Real \u2014 and the Game Isn't Included",
       "tag": "gta 6",
       "posted_at": "2026-09-24T15:31:08.879500+00:00",
@@ -698,6 +661,17 @@
         "Ubisoft Unites Developers Of Splinter Cell, The Division, Ghost Recon And More Under Star Wars Outlaws Studio Massive Entertainment",
         "Ubisoft\u2019s Massive Entertainment Rebrand Has Made The Name Much More Literal And Slightly Confusing"
       ]
+    },
+    {
+      "headline": "Halo and Destiny co-creator Jason Jones is launching a brand-new studio",
+      "tag": "bungie",
+      "posted_at": "2026-10-01T15:01:16.250162+00:00",
+      "urls": [
+        "https://www.ign.com/articles/jason-jones-co-creator-of-halo-and-destiny-and-co-founder-of-bungie-announces-new-studio"
+      ],
+      "article_titles": [
+        "Jason Jones, Co-Creator of Halo and Destiny and Co-Founder of Bungie, Announces New Studio"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1342,6 +1316,150 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-10-01T14:00:00+00:00"
+    },
+    {
+      "guid": "96d4f88d-292f-492e-b115-406b875979fc",
+      "title": "Jason Jones, Co-Creator of Halo and Destiny and Co-Founder of Bungie, Announces New Studio",
+      "url": "https://www.ign.com/articles/jason-jones-co-creator-of-halo-and-destiny-and-co-founder-of-bungie-announces-new-studio",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:42:37+00:00"
+    },
+    {
+      "guid": "cf189ec5-78ff-4303-9790-b785b6fed405",
+      "title": "Every New LEGO Set Releasing in October",
+      "url": "https://www.ign.com/articles/every-new-lego-set-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:34:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738934",
+      "title": "Arc Raiders Is About To Go Nuclear On Cheaters: \u2018No Warnings, No Second Chances\u2019",
+      "url": "https://kotaku.com/arc-raiders-cheating-exploits-queue-teaming-embark-update-frozen-trail-2000738934",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:30:51+00:00"
+    },
+    {
+      "guid": "pjUwGfSR35aCvRABhZJ3JU",
+      "title": "Don't fear the BIOS update: Asus has just fixed a local access vulnerability affecting older Intel motherboards",
+      "url": "https://www.pcgamer.com/hardware/motherboards/dont-fear-the-bios-update-asus-has-just-fixed-a-local-access-vulnerability-affecting-older-intel-motherboards/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:47:22+00:00"
+    },
+    {
+      "guid": "JH6JKcs2xACU2LR4yj7GkP",
+      "title": "Where to find the Nangan region Treasure Hunt in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-nangan-treasure-hunt-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:43:38+00:00"
+    },
+    {
+      "guid": "4rSomk668rQnRWswx45V4Z",
+      "title": "Google Japan's conveyor belt keyboard is a sad reminder of the sense of humour the whole company used to have long, long ago",
+      "url": "https://www.pcgamer.com/hardware/gaming-keyboards/google-japans-conveyor-belt-keyboard-is-a-sad-reminder-of-the-sense-of-humour-the-whole-company-used-to-have-long-long-ago/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:29:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144176",
+      "title": "AGC Studios Launches Digital Division Focused On Creator-Led IP",
+      "url": "https://deadline.com/2026/10/agc-studios-digital-division-creators-1237144176/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893716",
+      "title": "Nathan Fielder Speaks Out on Living With Elizabeth Holmes While Filming \u2018You Can See Everything\u2019 Doc: \u2018She Seems So Genuine\u2019 but \u2018I Know She\u2019s a Liar\u2019",
+      "url": "https://variety.com/2026/film/news/nathan-fielder-elizabeth-holmes-you-can-see-everything-liar-1236893716/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:56:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894809",
+      "title": "NBCUniversal Hires Amazon Exec Jamia Bigalow as EVP of Marketing for Platform Distribution and Partnerships",
+      "url": "https://variety.com/2026/tv/news/nbcuniversal-jamia-bigalow-evp-marketing-platform-distribution-partnerships-1236894809/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:46:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894023",
+      "title": "Anvara Aims to Build Marketplace for Advertisers Looking for Events to Sponsor",
+      "url": "https://variety.com/2026/tv/news/anvara-marketplace-advertisers-events-1236894023/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:40:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894760",
+      "title": "Woody Allen Says His Upcoming Madrid-Set Movie Is a \u2018Comedy With Romance, Intrigue and Infidelity\u2019",
+      "url": "https://variety.com/2026/film/global/woody-allen-madrid-movie-comedy-romance-infidelity-1236894760/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:35:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717178",
+      "title": "Bennington College, Alma Mater of Brett Easton Ellis and Donna Tartt, Launches Screenwriting MFA",
+      "url": "https://www.hollywoodreporter.com/news/general-news/bennington-college-launches-screenwriting-mfa-1236717178/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236714476",
+      "title": "Disney\u2019s Worlds Collide Tour Hits All the Right Notes With \u2018Descendants,\u2019 \u2018Zombies\u2019 and \u2018Camp Rock\u2019 Stars",
+      "url": "https://www.hollywoodreporter.com/music/music-news/disney-worlds-collide-tour-review-recap-1236714476/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T14:32:59+00:00"
+    },
+    {
+      "guid": "XtDw8yRZfUjqcv7Mv3tyPc",
+      "title": "Sean Gunn may have retired as Rocket Racoon, but he'd still take the call to return as his other MCU character",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/sean-gunn-may-have-retired-as-rocket-racoon-but-hed-still-take-the-call-to-return-as-his-other-mcu-character/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T14:47:19+00:00"
+    },
+    {
+      "guid": "FGsCMDLJCmynJ9XRTHZCZf",
+      "title": "The Witcher 3 Remastered gets 2 hotfixes in 1 day as CD Projekt Red promises more improvements",
+      "url": "https://www.gamesradar.com/games/the-witcher/were-working-on-it-the-witcher-3-remastered-gets-2-hotfixes-in-1-day-as-cd-projekt-red-promises-more-improvements-to-the-rpg-amid-ongoing-performance-issues/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T14:32:29+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207100",
+      "title": "Nintendo Download: 1st October (North America) - Plus 3 Discounted eShop Games Worth A Look",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-1st-october-north-america-plus-3-discounted-eshop-games-worth-a-look",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T14:55:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207092",
+      "title": "Prepare for Metro 2039 in Metro 2033 and Last Light, Seemingly Coming to PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/prepare-for-metro-2039-in-metro-2033-and-last-light-seemingly-coming-to-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124014",
+      "title": "Village in the Shade Patch and DLC Update Roadmap Includes Animals and Events",
+      "url": "https://www.siliconera.com/village-in-the-shade-patch-and-dlc-update-roadmap-includes-animals-and-events/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T15:00:00+00:00"
     }
   ]
 }
