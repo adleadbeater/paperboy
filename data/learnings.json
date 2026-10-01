@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Castlevania: Belmont's Curse Will Bridge the Animated Series and the Games",
-      "tag": "castlevania",
-      "posted_at": "2026-09-24T16:31:09.693436+00:00",
-      "urls": [
-        "https://kotaku.com/castlevania-belmonts-curse-will-bridge-the-gap-between-the-animated-series-and-the-games-2000732906"
-      ],
-      "article_titles": [
-        "Castlevania: Belmont\u2019s Curse Will Bridge The Gap Between The Animated Series And The Games"
-      ]
-    },
-    {
       "headline": "Candy Crush Developers Win Union Contract After Strike Threat at King",
       "tag": "king (candy crush)",
       "posted_at": "2026-09-24T18:01:07.900954+00:00",
@@ -643,6 +632,17 @@
         "Sonic Boss Apologizes To Fans For Lack Of Remasters And Remakes: \u2018We Have A Stronger Desire To Provide Fans With New Games\u2019",
         "Sonic boss knows you want more remakes and ports, but but wants \"to provide fans with new games\""
       ]
+    },
+    {
+      "headline": "Halo: Combat Evolved is now playable in a web browser \u2014 with multiplayer",
+      "tag": "halo: combat evolved",
+      "posted_at": "2026-10-01T16:31:25.401017+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/"
+      ],
+      "article_titles": [
+        "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -663,14 +663,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237144225",
-      "title": "Kelli Garner & Michael Stahl-David To Co-Star In Romantic Road Movie \u2018You Always\u2019",
-      "url": "https://deadline.com/2026/10/kelli-garner-michael-stahl-david-costar-you-always-1237144225/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T12:30:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236893991",
@@ -751,14 +743,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-01T12:44:27+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207086",
-      "title": "Talking Point: So, How Are You Liking The Castlevania: Belmont's Curse Demo?",
-      "url": "https://www.nintendolife.com/features/talking-point-so-how-are-you-liking-the-castlevania-belmonts-curse-demo",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T12:30:00+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-207088",
@@ -1783,6 +1767,318 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-01T15:33:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738914",
+      "title": "Graveyard Keeper 2 Takes The Best Part Of Stardew Valley And Somehow Makes It Much, Much Worse",
+      "url": "https://kotaku.com/graveyard-keeper-2-takes-the-best-part-of-stardew-valley-and-somehow-makes-it-much-much-worse-2000738914",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:06+00:00"
+    },
+    {
+      "guid": "amVgrfMAXgvZzXAYwsueqC",
+      "title": "After a series of catastrophes where no-one could seem to roll well, I truly have no idea who's going to make it out of Critical Role's next episode",
+      "url": "https://www.pcgamer.com/movies-tv/after-a-series-of-catastrophes-where-no-one-could-seem-to-roll-well-i-truly-have-no-idea-whos-going-to-make-it-out-of-critical-roles-next-episode/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:23:01+00:00"
+    },
+    {
+      "guid": "JbKTP8Z9HhxVbechbem6pm",
+      "title": "Resident Evil's executive producer explains the deeper meaning behind Requiem, and I just can't get on board",
+      "url": "https://www.pcgamer.com/games/resident-evil/resident-evils-executive-producer-explains-the-deeper-meaning-behind-requiem-and-i-just-cant-get-on-board/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:22:45+00:00"
+    },
+    {
+      "guid": "7jbTUeGRhn3fbh8RxNCxAf",
+      "title": "Sound the 'This week's free Epic Games Store game is worth logging in for' alarm",
+      "url": "https://www.pcgamer.com/games/fps/sound-the-this-weeks-free-epic-games-store-game-is-worth-logging-in-for-alarm/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:19:08+00:00"
+    },
+    {
+      "guid": "8CV4UtCuYZmoNA8B57tDT7",
+      "title": "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer",
+      "url": "https://www.pcgamer.com/hardware/you-can-now-play-halo-combat-evolved-in-a-web-browser-and-it-even-has-multiplayer/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:12:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237143777",
+      "title": "Ed Helms Wraps On Steve Byrne Sports Comedy \u2018The Streak\u2019; Pic Marks Lion Forge Entertainment\u2019s Expansion Into Live-Action",
+      "url": "https://deadline.com/2026/10/ed-helms-stars-the-streak-lion-forge-entertainment-1237143777/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144405",
+      "title": "Kevin Feige Accepts Will Rogers Foundation Pioneer Of The Year, Promises Many More Movies To Come",
+      "url": "https://deadline.com/2026/10/kevin-feige-will-rogers-foundation-pioneer-of-the-year-1237144405/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:28:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144366",
+      "title": "Sony Pictures Worldwide Acquisitions Picks Up All International Rights To Sundance Horror Hit \u2018Buddy\u2019",
+      "url": "https://deadline.com/2026/10/sony-buys-international-rights0sundance-horror-hit-buddy-1237144366/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144440",
+      "title": "David Ellison Wants CEO Mark Thompson To Remain At CNN After Paramount-Warner Bros. Discovery Deal Closes",
+      "url": "https://deadline.com/2026/10/paramount-cnn-david-ellison-mark-thompson-1237144440/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:03:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144074",
+      "title": "\u2018The Grid Unplugged\u2019 Clip: Devastating Doc Explores Failing Power Grids That Sparked California Wildfires \u2014 Watch",
+      "url": "https://deadline.com/2026/10/the-grid-unplugged-exclusive-clip-california-wildfires-watch-1237144074/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144197",
+      "title": "\u2018Clarissa\u2019 Trailer: David Oyelowo, Sophie Okonedo, India Amarteifio & Ayo Edebiri Lead Starry Virginia Woolf Adaptation",
+      "url": "https://deadline.com/2026/10/clarissa-trailer-david-oyelowo-sophie-okonedo-neon-1237144197/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144286",
+      "title": "UTA Sets New Leadership Structure For Filmed Entertainment Division Under President Matt Rice",
+      "url": "https://deadline.com/2026/10/uta-restructures-filmed-entertainment-matt-rice-president-1237144286/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893978",
+      "title": "Searchlight Submits Original Song From \u2018Behemoth!\u2019 for Oscars, \u2018Your God Is Sleeping\u2019 Written by Lukas Frank (EXCLUSIVE)",
+      "url": "https://variety.com/2026/artisans/news/oscars-song-behemoth-your-god-is-sleeping-lukas-frank-1236893978/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894472",
+      "title": "Kevin Feige Hails Theatrical Experience as \u2018the Real Movie Magic\u2019 at Will Rogers Motion Picture Pioneers Tribute",
+      "url": "https://variety.com/2026/film/news/kevin-feige-theatrical-movie-magic-will-rogers-1236894472/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:09:13+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894892",
+      "title": "Jackie Chan, Anil Kapoor Films Among 335 National Winners at Asian Academy Creative Awards",
+      "url": "https://variety.com/2026/film/awards/jackie-chan-anil-kapoor-asian-academy-national-awards-1236894892/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:03:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894551",
+      "title": "UTA Streamlines Film, TV and Talent Leadership; Matt Rice Rises to President of Filmed Entertainment Unit",
+      "url": "https://variety.com/2026/biz/news/uta-matt-rice-talent-filmed-entertainment-kramer-1236894551/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:02:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877528",
+      "title": "Amelia Dimoldenberg to Bring \u2018Chicken Shop Date\u2019 Final Season to Netflix and YouTube (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/chicken-shop-date-final-season-netflix-youtube-1236877528/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894080",
+      "title": "Theaters Re-Invest $2.7 Billion to Bring In Moviegoers With Heated Reclining Seats, Full-Service Bars, Immersive Sound and More",
+      "url": "https://variety.com/2026/film/news/theaters-2-7-billion-heated-seats-bars-plfs-1236894080/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894444",
+      "title": "Middleburg Film Festival Sets \u2018Being Heumann\u2019 as Closing Night Film, Martin McDonagh, Seth Rogen and Rosalind Eleazar Lead Honorees",
+      "url": "https://variety.com/2026/film/awards/middleburg-film-festival-lineup-being-heumann-honorees-1236894444/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717131",
+      "title": "WME Unveils Creator Labs to Help Clients Build Media Businesses (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/wme-unveils-creator-labs-1236717131/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236718183",
+      "title": "Daniel Ezra\u2019s Full-Circle Goodbye to \u2018All American\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/daniel-ezra-interview-all-american-series-finale-1236718183/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:20:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236718231",
+      "title": "Martin Grove, Longtime Columnist for The Hollywood Reporter, Dies at 83",
+      "url": "https://www.hollywoodreporter.com/business/business-news/martin-grove-dead-hollywood-reporter-columnist-1236718231/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:12:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236714368",
+      "title": "\u2018Rolling Loud: The Movie\u2019 Review: Owen Wilson Plays a Very Bad Dad in a Tone-Deaf Would-Be Comedy",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/rolling-loud-the-movie-review-owen-wilson-travis-scott-1236714368/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "Se7KzCr6y5onQsi5CqyGcP",
+      "title": "A broken Diablo 4 charm is dominating Season 15, but the devs have \"decided not to make changes\"",
+      "url": "https://www.gamesradar.com/games/diablo/a-broken-diablo-4-charm-is-dominating-season-15-but-blizzard-has-decided-not-to-make-changes-to-it-for-now/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:26:14+00:00"
+    },
+    {
+      "guid": "DPNi7ZQKWuFxJeZgmCX9D9",
+      "title": "Castlevania: Belmont's Curse still isn't getting a native Switch 2 version, but at least it runs at 60fps on the console",
+      "url": "https://www.gamesradar.com/games/action/castlevania-belmonts-curse-still-isnt-getting-a-native-switch-2-version-but-at-least-it-runs-at-60fps-on-the-console/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:25:22+00:00"
+    },
+    {
+      "guid": "nhU3mTkdoRWjHgWEwsLMvB",
+      "title": "Final Fantasy 7 Revelation battle lead doesn't know the best way to balance real-time and turn-based",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-revelation-battle-lead-still-doesnt-know-the-correct-way-to-balance-between-real-time-and-turn-based-combat-but-thats-why-hes-not-tired-of-working-on-the-trilogy/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:22:44+00:00"
+    },
+    {
+      "guid": "ATYuCSgYcQ6VQMYAXLkuv",
+      "title": "In an utterly pointless-seeming move, Intel just published a patent for RGB-lit CPUs",
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/in-an-utterly-pointless-seeming-move-intel-just-published-a-patent-for-rgb-lit-cpus-which-makes-no-sense-for-a-component-thats-always-covered-by-something/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:17:52+00:00"
+    },
+    {
+      "guid": "6ypnpD6YUtQF9brtLfZK9M",
+      "title": "DBD Haunted by Daylight event details",
+      "url": "https://www.gamesradar.com/games/horror/when-is-the-dbd-haunted-by-daylight-event/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:02:50+00:00"
+    },
+    {
+      "guid": "1902827",
+      "title": "Gears Of War: E-Day Has A Clever Solution To One Of PC Gaming\u2019s Biggest Annoyances",
+      "url": "https://www.gamespot.com/articles/gears-of-war-e-day-has-a-clever-solution-to-one-of-pc-gamings-biggest-annoyances/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:13:46+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-204390",
+      "title": "'Croc 2' Is Getting The Remaster Treatment Later This Month",
+      "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207085",
+      "title": "Sony Confirms Refined Version of Acclaimed PSSR Upscaler for Base PS5, with 'Remarkable' Potential",
+      "url": "https://www.pushsquare.com/news/2026/10/sony-confirms-refined-version-of-acclaimed-pssr-upscaler-for-base-ps5-with-remarkable-potential",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:10:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124020",
+      "title": "New Animal Crossing Personal Marker Charms Include Raymond, Dom",
+      "url": "https://www.siliconera.com/new-animal-crossing-personal-marker-charms-include-raymond-dom/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207038",
+      "title": "Review: Anbernic RG DS Plus - My New Favourite Way To Play Nintendo DS Games",
+      "url": "https://www.timeextension.com/reviews/anbernic-rg-ds-plus-my-new-favourite-way-to-play-nintendo-ds-games",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081923",
+      "title": "Croc 2: Kingdom of the Gobbos remaster launches October 29",
+      "url": "https://www.gematsu.com/2026/10/croc-2-kingdom-of-the-gobbos-remaster-launches-october-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:30:01+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081906",
+      "title": "PS5 AI upscaler Quick Spectral Super Resolution announced",
+      "url": "https://www.gematsu.com/2026/10/ps5-ai-upscaler-quick-spectral-super-resolution-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:12:59+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758681",
+      "title": "Sakamoto Days Reaches 276 Chapters and 18 Million Sales Across 28 Volumes as Manga Nears Its Ending",
+      "url": "https://otakukart.com/sakamoto-days-reaches-276-chapters-and-18-million-sales-across-28-volumes-as-manga-nears-its-ending/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:19:38+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758675",
+      "title": "Resident Evil Director Jun Takeuchi Says Remakes Will Eventually Catch Up With Numbered Games in Planned Crossover",
+      "url": "https://otakukart.com/resident-evil-director-jun-takeuchi-says-remakes-will-eventually-catch-up-with-numbered-games-in-planned-crossover/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:12:17+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758668",
+      "title": "Fallout 4 Designer Says Fallout 5 in London or Paris \u201cCould Be Amazing\u201d Despite Series\u2019 American Roots",
+      "url": "https://otakukart.com/fallout-4-designer-says-fallout-5-in-london-or-paris-could-be-amazing-despite-series-american-roots/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:02:20+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/",
+      "title": "50% sale on hundreds of PDFs for 2 weeks only!",
+      "url": "https://www.enworld.org/threads/50-sale-on-hundreds-of-pdfs-for-2-weeks-only.720849/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:16:00+00:00"
     }
   ]
 }
