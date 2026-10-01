@@ -643,131 +643,33 @@
       "article_titles": [
         "You can now play Halo: Combat Evolved in a web browser, and it even has multiplayer"
       ]
+    },
+    {
+      "headline": "Gaming Show MinnMax Cuts Ties With Jacob Geller Following Sexual Misconduct Allegation",
+      "tag": "minnmax",
+      "posted_at": "2026-10-01T17:01:18.933196+00:00",
+      "urls": [
+        "https://kotaku.com/jacob-geller-minnmax-youtube-sexual-assault-allegations-2000738985"
+      ],
+      "article_titles": [
+        "Gaming Show MinnMax Removes YouTuber Jacob Geller After Recently Surfaced Allegation Of Past Sexual Misconduct"
+      ]
+    },
+    {
+      "headline": "PS5 Gets AI Upscaling for Base Model, Debuting With Wolverine and Ghost of Yotei",
+      "tag": "playstation 5",
+      "posted_at": "2026-10-01T17:01:19.115678+00:00",
+      "urls": [
+        "https://kotaku.com/base-ps5-is-getting-ai-upscaling-starting-with-wolverine-and-ghost-of-yotei-to-make-the-smallest-details-look-even-crisper-2000738994"
+      ],
+      "article_titles": [
+        "Base PS5 Is Getting AI Upscaling Starting With Wolverine And Ghost Of Yotei To Make The Smallest Details Look Even Crisper"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "qoyEGxgNbLgwp9picqhKFh",
-      "title": "Arc Raiders' is taking no prisoners when it comes to cheaters with permanent bans becoming the new normal: 'No warnings. No second chances'",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-taking-no-prisoners-when-it-comes-to-cheaters-with-permanent-bans-becoming-the-new-normal-no-warnings-no-second-chances/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T12:49:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237143193",
-      "title": "CANEX Creations CEO Osahon Akpata Talks Mission To Shake Up Film Finance in Africa: \u201cThere Is A Huge Opportunity To Create IP That\u2019s An Investable Class\u201d",
-      "url": "https://deadline.com/2026/10/canex-creation-ceo-osahon-akpata-film-finance-africa-1237143193/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236893991",
-      "title": "Megan Fox Commercial for Ro Eases Taboos Around Erectile Dysfunction",
-      "url": "https://variety.com/2026/tv/news/megan-fox-commercial-ro-erectile-dysfunction-1236893991/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236894007",
-      "title": "Original R.L. Stine Horror Movie \u2018Afraid of Clowns\u2019 Set at Tubi (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/r-l-stine-horror-movie-afraid-of-clowns-tubi-1236894007/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236894708",
-      "title": "Sabu\u2019s \u2018Arrested Memory\u2019 Leads Golden Horse Awards Nominations, Shu Qi\u2019s \u2018Girl\u2019 Close Behind",
-      "url": "https://variety.com/2026/film/awards/sabus-arrested-memory-golden-horse-awards-nominations-1236894708/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T12:45:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236709370",
-      "title": "Jesse Eisenberg Already Stressed Over \u2018The Debut\u2019 Oscar Buzz: \u201cIt\u2019s Not About Awards\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-the-debut-oscar-buzz-1236709370/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236714727",
-      "title": "Taylor Hanson Signs With WME (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/music/music-news/taylor-hanson-signs-wme-1236714727/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236714891",
-      "title": "Live Nation Backing New Creator Management Startup Creator Nation (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/business-news/live-nation-backing-management-creator-nation-1236714891/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236717805",
-      "title": "\u2018Carrie\u2019 Review: Mike Flanagan Capably Expands Stephen King\u2019s Horror Classic for Amazon, but Did It Really Need Expanding?",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/carrie-review-mike-flanagan-amazon-stephen-king-1236717805/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236717822",
-      "title": "Megan Fox\u2019s New Role? Promoting Erectile Dysfunction Pills for Ro in All-Red Ensemble",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/megan-fox-erectile-dysfunction-pills-ro-sparks-1236717822/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "1902680",
-      "title": "Control Resonant Has Finally Gotten The One Thing It\u2019s Missing (But Only On PC)",
-      "url": "https://www.gamespot.com/articles/control-resonant-has-finally-gotten-the-one-thing-its-missing-but-only-on-pc/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T12:45:15+00:00"
-    },
-    {
-      "guid": "1902666",
-      "title": "Ubisoft\u2019s Massive Entertainment Rebrand Has Made The Name Much More Literal And Slightly Confusing",
-      "url": "https://www.gamespot.com/articles/ubisofts-massive-entertainment-rebrand-has-made-the-name-much-more-literal-and-slightly-confusing/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T12:44:27+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207088",
-      "title": "Galaxies Game Showcase Returns Later This Month, Over 40 Companies Taking Part",
-      "url": "https://www.pushsquare.com/news/2026/10/galaxies-game-showcase-returns-later-this-month-over-40-companies-taking-part",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123747",
-      "title": "Dragon Quest XI Definitive Edition Is Still Strong on Switch 2",
-      "url": "https://www.siliconera.com/dragon-quest-xi-definitive-edition-is-still-strong-on-switch-2/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-202425",
-      "title": "Sega's Ghostbusters Gets Another Huge Fan Update, Including The Real Ghostbusters, New Cheat Codes, & More",
-      "url": "https://www.timeextension.com/news/2026/10/segas-ghostbusters-gets-another-huge-fan-update-including-the-real-ghostbusters-new-cheat-codes-and-more",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T13:00:00+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000738923",
       "title": "The Gears Of War: E-Day Campaign Is Full Of Highs And Lows",
@@ -775,14 +677,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-10-01T13:16:18+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000738732",
-      "title": "Reigns, Card Shark Dev Is Closing Down As Leads Go Independent Again: \u2018I Still Have Things That I Can Say\u2019",
-      "url": "https://kotaku.com/reigns-card-shark-dev-closing-down-2000738732",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:23+00:00"
     },
     {
       "guid": "JA6SaFYUMi4D2emjc5dNke",
@@ -799,14 +693,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-10-01T13:15:35+00:00"
-    },
-    {
-      "guid": "iyD9LtKiohmSiubcHEY2mb",
-      "title": "Gears of War: E-Day review in progress \u2014 Good shooting, but the campaign's a slog",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review-in-progress/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237144270",
@@ -841,14 +727,6 @@
       "published_dt": "2026-10-01T13:06:27+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237144157",
-      "title": "\u2018Hunger Games,\u2019 \u2018Saw,\u2019 \u2018John Wick\u2019 & \u2018Ghosts\u2019 FAST Channels Launching",
-      "url": "https://deadline.com/2026/10/hunger-games-saw-john-wick-ghosts-fast-channels-launching-1237144157/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T13:00:33+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236894714",
       "title": "Pro-Trump Ads Funded With Taxpayer Dollars Air on CNN and MS NOW; White House Has Spent $2.9 Million on the TV Spots to Date",
       "url": "https://variety.com/2026/tv/news/trump-taxpayer-funded-ads-air-on-cnn-ms-now-1236894714/",
@@ -881,14 +759,6 @@
       "published_dt": "2026-10-01T13:01:26+00:00"
     },
     {
-      "guid": "xY4vFSMpxWKRizb82cky5m",
-      "title": "You don't need to spend $150 to get Lego Astro Bot, PS Direct just dropped stock for $25",
-      "url": "https://www.gamesradar.com/toys-collectibles/you-dont-need-to-spend-usd150-to-get-lego-astro-bot-ps-direct-just-dropped-stock-for-usd25/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T12:59:31+00:00"
-    },
-    {
       "guid": "1902703",
       "title": "Resident Evil Director\u2019s Next Movie Is Called The Flood But It\u2019s Not About Halo, Adds Jennifer Lawrence",
       "url": "https://www.gamespot.com/articles/resident-evil-directors-next-movie-is-called-the-flood-but-its-not-about-halo-adds-jennifer-lawrence/",
@@ -903,14 +773,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-01T13:11:30+00:00"
-    },
-    {
-      "guid": "1899896",
-      "title": "How Long Is Gears of War: E-Day \u2013 Mission List And Hours Played",
-      "url": "https://www.gamespot.com/articles/how-long-is-gears-of-war-e-day-mission-list-and-hours-played/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1081830",
@@ -2079,6 +1941,166 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-10-01T16:16:00+00:00"
+    },
+    {
+      "guid": "f178c226-8928-4e33-a6b7-52d800bec278",
+      "title": "'These Jobs Are Not Easy': Ex-Star Wars Boss Kathleen Kennedy Admits 'Relief' After Leaving Lucasfilm, Following Turbulent 14-Year Tenure",
+      "url": "https://www.ign.com/articles/these-jobs-are-not-easy-ex-star-wars-boss-kathleen-kennedy-admits-relief-after-leaving-lucasfilm-following-turbulent-14-year-tenure",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:43:47+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738985",
+      "title": "Gaming Show MinnMax Removes YouTuber Jacob Geller After Recently Surfaced Allegation Of Past Sexual Misconduct",
+      "url": "https://kotaku.com/jacob-geller-minnmax-youtube-sexual-assault-allegations-2000738985",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:41:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738994",
+      "title": "Base PS5 Is Getting AI Upscaling Starting With Wolverine And Ghost Of Yotei To Make The Smallest Details Look Even Crisper",
+      "url": "https://kotaku.com/base-ps5-is-getting-ai-upscaling-starting-with-wolverine-and-ghost-of-yotei-to-make-the-smallest-details-look-even-crisper-2000738994",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:30:42+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738962",
+      "title": "All Right, Calm Down, Some Of You Are Far Too Good At Dressmaker",
+      "url": "https://kotaku.com/dressmaker-community-creations-2000738962",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:30:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144342",
+      "title": "Tim Daly & T\u00e9a Leoni Take A Quick Trip To The Altar In \u2018Newlyweds\u2019 Trailer",
+      "url": "https://deadline.com/2026/10/newlyweds-trailer-tim-daly-tea-leoni-1237144342/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144438",
+      "title": "Andrew Rannells, Megan Hilty, Titus Burgess To Star In Broadway\u2019s \u2018It\u2019s A Wonderful Life: A Live Radio Play\u2019",
+      "url": "https://deadline.com/2026/10/its-a-wonderful-life-a-live-radio-play-broadway-megan-hilty-1237144438/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:31:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144298",
+      "title": "Ella Hunt & Moses Ingram Round Out Cast Of Mike Birbiglia\u2019s Focus Comedy \u2018Old Friends New Friends\u2019",
+      "url": "https://deadline.com/2026/10/old-friends-new-friends-cast-ella-hunt-moses-ingram-1237144298/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144370",
+      "title": "Netflix Nabs \u2018American Royals\u2019 YA Drama From \u2018Red, White & Royal Blue\u2019 Co-Writer Ted Malawer & Alloy Based On Books",
+      "url": "https://deadline.com/2026/10/american-royals-ya-drama-series-development-books-netflix-1237144370/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894086",
+      "title": "Samantha Josephs\u2019 Debut Horror Novel \u2018Carrying\u2019 to Receive Feature Adaptation From Tommy Dorfman\u2019s Good Girl Productions (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/samantha-josephs-horror-novel-carrying-movie-tommy-dorfman-1236894086/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894313",
+      "title": "Salma Hayek Pinault, Pamela Abdy, Adria Arjona, Gemma Chan and Beth de Ara\u00fajo Set for WIF Honors",
+      "url": "https://variety.com/2026/film/news/salma-hayek-pinault-pamela-abdy-wif-honors-adria-arjona-gemma-chan-beth-de-araujo-1236894313/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894533",
+      "title": "Atlas Entertainment and Culture Genesis Strike Creator Content Development Pact for TV, Film and Short Form",
+      "url": "https://variety.com/2026/film/news/ishowspeed-atlas-culture-genesis-charles-roven-shaun-newsum-1236894533/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236718194",
+      "title": "\u2018American Horror Story: 13\u2019 Scores the Show\u2019s Best Streaming Premiere Ever",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/american-horror-story-13-premiere-ratings-streaming-1236718194/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236718293",
+      "title": "MIA Market Unveils 2026 Program, Lineup For Digital Era",
+      "url": "https://www.hollywoodreporter.com/business/business-news/mia-market-2026-program-lineup-1236718293/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-01T16:49:42+00:00"
+    },
+    {
+      "guid": "YE9sZXZYnHLFumbumzacQD",
+      "title": "The Elder Scrolls Online to undergo \"renaissance\" as devs change what's \"been going for 12 years\"",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/the-elder-scrolls-online-is-undergoing-a-renaissance-as-the-mmos-devs-say-they-saw-whats-been-going-for-12-years-and-decided-to-make-some-changes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:31:25+00:00"
+    },
+    {
+      "guid": "1902826",
+      "title": "The Xbox Cloud Gaming Controller Is Dead, Apparently",
+      "url": "https://www.gamespot.com/articles/the-xbox-cloud-gaming-controller-is-dead-apparently/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:25:57+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205772",
+      "title": "LEGO PS1 Now Available to Buy from PS Direct, with Free Astro Bot Set",
+      "url": "https://www.pushsquare.com/news/2026/10/lego-ps1-now-available-to-buy-from-ps-direct-with-free-astro-bot-set",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:50:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081932",
+      "title": "Invincible VS DLC character Angstrom Levy launches October 13",
+      "url": "https://www.gematsu.com/2026/10/invincible-vs-dlc-character-angstrom-levy-launches-october-13",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:38:18+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758701",
+      "title": "Nintendo Switch 2 eShop Adds Minecraft Dungeons II, Witcher 3 Remastered and More This Week",
+      "url": "https://otakukart.com/nintendo-switch-2-eshop-adds-minecraft-dungeons-ii-witcher-3-remastered-and-more-this-week/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:58:49+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758683",
+      "title": "The Boy and the Heron Animator Yuga Tokuno Reveals Studios Offering Full-Time Jobs Are Now Beating Better-Known Companies for Talent",
+      "url": "https://otakukart.com/the-boy-and-the-heron-animator-yuga-tokuno-reveals-studios-offering-full-time-jobs-are-now-beating-better-known-companies-for-talent/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:40:40+00:00"
+    },
+    {
+      "guid": "t3_1wv4gb8",
+      "title": "NateTheHate hints that Sony is bringing back Ape Escape, won't be Asobi",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wv4gb8/natethehate_hints_that_sony_is_bringing_back_ape/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-01T16:44:08+00:00"
     }
   ]
 }
