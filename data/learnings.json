@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Control Resonant Is Getting New Game+ and Photo Mode Next Month",
-      "tag": "control resonant",
-      "posted_at": "2026-09-25T17:00:52.831380+00:00",
-      "urls": [
-        "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
-        "https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-contol-resonant-no-word-on-proper-ps5-dlc"
-      ],
-      "article_titles": [
-        "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
-        "Infinite New Game+, Photo Mode on the Way to Contol Resonant, No Word on Proper PS5 DLC"
-      ]
-    },
-    {
       "headline": "Insider report: The next Halo game was still years away before Halo Studios' recent turmoil",
       "tag": "halo",
       "posted_at": "2026-09-25T19:47:40.032708+00:00",
@@ -705,155 +692,26 @@
         "Dan Houser on Leaving \u2018GTA 6\u2019 Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn\u2019t Play Open-World Games Anymore",
         "Dan Houser on Leaving \u2018GTA 6\u2019 Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn\u2019t Play Open-World Games Anymore"
       ]
+    },
+    {
+      "headline": "Kingdom Come: Deliverance 2 Dev Wants GTA 6 to Push Game Prices Past $70",
+      "tag": "gta 6",
+      "posted_at": "2026-10-02T17:30:52.268014+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
+        "https://kotaku.com/kingdom-come-deliverance-boss-hopes-gta-6-is-big-hit-so-studios-and-publishers-feel-more-confident-charging-more-2000739328",
+        "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices"
+      ],
+      "article_titles": [
+        "GTA 6 Should \u201cBlaze A Trail\u201d To More Expensive Games, Dev Says",
+        "Kingdom Come: Deliverance Boss Hopes GTA 6 Is Big Hit So Studios And Publishers Feel More Confident Charging More",
+        "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\""
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-      "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
-      "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:14:39+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000739288",
-      "title": "Airbnb Host Tries To Scam Guest With An AI-Created Image Of A Disgusting Toilet",
-      "url": "https://kotaku.com/airbnb-host-genai-ai-scam-overflowing-toilet-google-synthid-2000739288",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:07:05+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237145327",
-      "title": "Canal+ Calls VAT Hike \u201cA Direct Attack\u201d On Its Operations In France As Guilds Protest Move",
-      "url": "https://deadline.com/2026/10/canal-plus-france-protests-vat-hike-attack-1237145327/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:29:44+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237143716",
-      "title": "Paramount-WBD Will Now Be Called Skydance, David Ellison Reveals",
-      "url": "https://deadline.com/2026/10/paramount-warner-bros-skydance-david-ellison-1237143716/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:27:35+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236877503",
-      "title": "Alan Cumming Sheds His \u2018Traitors\u2019 Kilt for \u2018Tip Toe\u2019, a Searing Parable of Homophobic Backlash: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/tip-toe-review-alan-cumming-1236877503/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236897055",
-      "title": "Catherine Zeta-Jones Can\u2019t Save AMC+\u2019s Stylish but Lackluster Thriller \u2018Kill Jackie\u2019: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/kill-jackie-review-amc-plus-catherine-zeta-jones-1236897055/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236893761",
-      "title": "New Name of Paramount-Warner Bros. Unveiled: Skydance",
-      "url": "https://variety.com/2026/film/news/name-of-paramount-warner-bros-unveiled-skydance-1236893761/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:13:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236897416",
-      "title": "\u2018Father Father\u2019 Director on Doc About a Gay Israeli-Palestinian Couple Who Have a Child on Eve of Oct. 7: It\u2019s a \u2018Beautiful Lesson Right Now\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:11:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236897474",
-      "title": "Versant, Verizon Strike Multi-Year Distribution Deal",
-      "url": "https://variety.com/2026/tv/news/versant-verizon-distribution-deal-1236897474/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:10:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236897475",
-      "title": "Stray Kids Join BTS in Sitting Out Grammy Awards",
-      "url": "https://variety.com/2026/music/news/stray-kids-bts-not-submitting-grammy-awards-1236897475/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:09:11+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236720821",
-      "title": "Guillermo del Toro Defends Tom Cruise\u2019s \u2018Digger,\u2019 Rips \u201cPetty\u201d Headline",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/guillermo-del-toro-tom-cruise-digger-review-1236720821/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:28:51+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236720826",
-      "title": "It\u2019s Skydance: David Ellison Brands Combined Paramount-Warner Bros. With His Studio\u2019s Title",
-      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-paramount-warner-bros-name-scalled-kydance-1236720826/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:11:06+00:00"
-    },
-    {
-      "guid": "1904214",
-      "title": "Blizzard Might Finally Be Serious About WoW: Forever Gold Buying, Bans Streamer For Promoting It",
-      "url": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:13:31+00:00"
-    },
-    {
-      "guid": "1904287",
-      "title": "Disney Responds To Rumor That It Could Buy Fortnite Studio Epic Games",
-      "url": "https://www.gamespot.com/articles/disney-responds-to-rumor-that-it-could-buy-fortnite-studio-epic-games/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:08:05+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207152",
-      "title": "Signal Veil Is a PS5 Horror Game with a Style Unlike Any Other",
-      "url": "https://www.pushsquare.com/news/2026/10/signal-veil-is-a-ps5-horror-game-with-a-style-unlike-any-other",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:15:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1758770",
-      "title": "Control Resonant Made $12.7 Million on Steam in Less Than a Week With Nearly 300K Copies Sold",
-      "url": "https://otakukart.com/control-resonant-made-12-7-million-on-steam-in-less-than-a-week-with-nearly-300k-copies-sold/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:27:34+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1758769",
-      "title": "Onimusha: Way of the Sword Made $30.4 Million on Steam in September, Selling Nearly 576K Copies",
-      "url": "https://otakukart.com/onimusha-way-of-the-sword-made-30-4-million-on-steam-in-september-selling-nearly-576k-copies/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:20:33+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1758768",
-      "title": "The Blood of Dawnwalker Has Generated $30.6 Million on Steam From Over 535K Copies Sold, Proving New Single-Player IP Can Still Be a Major Hit",
-      "url": "https://otakukart.com/the-blood-of-dawnwalker-has-generated-30-6-million-on-steam-from-over-535k-copies-sold-proving-new-single-player-ip-can-still-be-a-major-hit/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:15:09+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
       "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
@@ -869,14 +727,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-10-02T13:48:47+00:00"
-    },
-    {
-      "guid": "MEh9Yqo5SsakQDiVQ2aoJW",
-      "title": "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again",
-      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:26:45+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237145326",
@@ -1845,6 +1695,78 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000739328",
+      "title": "Kingdom Come: Deliverance Boss Hopes GTA 6 Is Big Hit So Studios And Publishers Feel More Confident Charging More",
+      "url": "https://kotaku.com/kingdom-come-deliverance-boss-hopes-gta-6-is-big-hit-so-studios-and-publishers-feel-more-confident-charging-more-2000739328",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T17:00:21+00:00"
+    },
+    {
+      "guid": "HqFcejz6a6SGZBCWCPNJm4",
+      "title": "I added October-appropriate zombies to Grand Theft Auto 5",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145376",
+      "title": "Jennifer Lawrence Reunites With \u2018No Hard Feelings\u2019 Director Gene Stupnitsky On Rom-Com \u2018One Month Mark\u2019 From Apple, Chernin And Sophie Fleur De Bruijn",
+      "url": "https://deadline.com/2026/10/jennifer-lawrence-gene-stupnitsky-one-month-mark-movie-1237145376/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236707921",
+      "title": "\u2018Other Mommy,\u2019 \u2018Whalefall\u2019 and \u2018Victorian Psycho\u2019:  The Authors Behind the Page-to-Screen Nightmares Compare Notes",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/other-mommy-whalefall-victorian-psycho-authors-interview-1236707921/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T17:15:00+00:00"
+    },
+    {
+      "guid": "1904485",
+      "title": "GTA 6 Should \u201cBlaze A Trail\u201d To More Expensive Games, Dev Says",
+      "url": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T17:17:15+00:00"
+    },
+    {
+      "guid": "1904501",
+      "title": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11",
+      "url": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T17:14:39+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207173",
+      "title": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T17:15:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758899",
+      "title": "Attack on Titan Director Tetsuro Araki Says Early Seasons Became a Production Nightmare as Time-Consuming Storyboards Threatened Deadlines",
+      "url": "https://otakukart.com/attack-on-titan-director-tetsuro-araki-says-early-seasons-became-a-production-nightmare-as-time-consuming-storyboards-threatened-deadlines/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T17:23:02+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758878",
+      "title": "Smilegate Reveals Chaos Zero Nightmare\u2019s 1st Anniversary \u201cNightmare Carnival\u201d Showcase and New OST",
+      "url": "https://otakukart.com/smilegate-reveals-chaos-zero-nightmares-1st-anniversary-nightmare-carnival-showcase-and-new-ost/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T17:12:58+00:00"
     }
   ]
 }
