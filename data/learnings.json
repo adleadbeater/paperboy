@@ -671,44 +671,60 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.nintendolife.com/#article-207124",
-      "title": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T04:55:00+00:00"
+      "guid": "7a6b3de9-5ac0-47eb-82ac-b90439a64c1d",
+      "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
+      "url": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T12:27:28+00:00"
     },
     {
-      "guid": "https://automaton-media.com/en/?p=73277",
-      "title": "Project Aces apologizes to Ace Combat 8 owners on Steam over Ace Combat Zero\u2019s limited launch options, says it\u2019s looking into potential solutions",
-      "url": "https://automaton-media.com/en/news/project-aces-apologizes-to-ace-combat-8-owners-on-steam-over-ace-combat-zeros-limited-launch-options-says-its-looking-into-potential-solutions/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T04:51:55+00:00"
+      "guid": "https://deadline.com/?p=1237145205",
+      "title": "\u2018Night Of The Living Dead\u2019 Vertical Microdrama Readied For Horror-Focused App Room418",
+      "url": "https://deadline.com/2026/10/room418-microdrama-app-night-of-the-living-dead-1237145205/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236897365",
-      "title": "Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close",
-      "url": "https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/",
+      "guid": "https://deadline.com/?p=1237145325",
+      "title": "U.S. Job Growth Slowed To 29,000 In September, With Slight Dip In Movie And Music Employment",
+      "url": "https://deadline.com/2026/10/jobs-report-september-movie-music-1237145325/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T12:46:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897209",
+      "title": "Kieran Culkin Will Be Playing the Devil on \u2018Family Guy\u2019 for a Long Time (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-2-1236897209/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-02T06:15:17+00:00"
+      "published_dt": "2026-10-02T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236897129",
-      "title": "\u2018Cameron Winter at Carnegie Hall\u2019 Review: Paul Thomas Anderson Directs a Rapturous Solo Concert Movie Built Around the Songs \u2014\u00a0and Haunting Sound\u00a0\u2014\u00a0of Cameron Winter",
-      "url": "https://variety.com/2026/film/reviews/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1236897129/",
-      "source_name": "Variety",
+      "guid": "https://www.hollywoodreporter.com/?p=1236718131",
+      "title": "\u2018Concrete Turned to Sand\u2019 Dives Into Oyster Farms, With Otherworldly Imagery From the \u2018Backrooms\u2019 DP (Exclusive Clip)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/concrete-turned-to-sand-film-clip-backrooms-dp-oyster-farms-1236718131/",
+      "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-02T05:51:46+00:00"
+      "published_dt": "2026-10-02T12:45:00+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-207125",
-      "title": "Round Up: The Reviews For Minecraft Dungeons II Are In",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-minecraft-dungeons-ii-are-in",
-      "source_name": "Nintendo Life",
+      "guid": "1904279",
+      "title": "Activision Could Be Giving Halo Something It Hasn\u2019t Had In Years: A Clean Slate",
+      "url": "https://www.gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate/",
+      "source_name": "GameSpot",
       "source_tier": 2,
-      "published_dt": "2026-10-02T05:55:00+00:00"
+      "published_dt": "2026-10-02T12:26:54+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123796",
+      "title": "Review: Tristia: Chronicles Feels Like an Atelier Style Retro Simulation",
+      "url": "https://www.siliconera.com/review-tristia-chronicles-feels-like-an-atelier-style-retro-simulation/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:00:00+00:00"
     }
   ]
 }
