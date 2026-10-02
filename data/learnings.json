@@ -1,25 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Konami Celebrates Castlevania's 40th Anniversary With a Free Game \u2014 and a Possible 3D Collection Tease",
-      "tag": "castlevania",
-      "posted_at": "2026-09-25T15:31:00.200289+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/",
-        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/",
-        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/",
-        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/",
-        "https://www.siliconera.com/castlevania-anniversary-celebrated-with-free-game-music/"
-      ],
-      "article_titles": [
-        "Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection",
-        "Castlevania Anniversary Celebrated With Free Game, Music",
-        "Castlevania Anniversary Celebrated With Free Game, Music",
-        "Castlevania Anniversary Celebrated With Free Game, Music",
-        "Castlevania Anniversary Celebrated With Free Game, Music"
-      ]
-    },
-    {
       "headline": "Control Resonant Is Getting New Game+ and Photo Mode Next Month",
       "tag": "control resonant",
       "posted_at": "2026-09-25T17:00:52.831380+00:00",
@@ -700,19 +681,35 @@
         "GTA 6 Marketing Ramps Up As Miami Heat Announce Vice City Night That Sounds Very Expensive",
         "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only"
       ]
+    },
+    {
+      "headline": "This Upcoming Game Dev Simulator Is So Deep Your In-Game Game Can Actually Get Cyber-Leaked",
+      "tag": "",
+      "posted_at": "2026-10-02T16:31:23.237753+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/sim/the-upcoming-sim-about-making-games-is-so-deep-your-in-game-game-can-even-get-cyberleeked/"
+      ],
+      "article_titles": [
+        "The upcoming sim about making games is so deep your in-game game can even get cyberleeked"
+      ]
+    },
+    {
+      "headline": "GTA Co-Creator Dan Houser Opens Up About Leaving Rockstar and Why He No Longer Plays Open-World Games",
+      "tag": "gta 6",
+      "posted_at": "2026-10-02T16:31:23.420082+00:00",
+      "urls": [
+        "https://variety.com/2026/gaming/news/rockstar-dan-houser-gta-6-new-games-absurd-ventures-1236894786/",
+        "https://variety.com/2026/gaming/news/rockstar-dan-houser-gta-6-new-games-absurd-ventures-1236894786/"
+      ],
+      "article_titles": [
+        "Dan Houser on Leaving \u2018GTA 6\u2019 Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn\u2019t Play Open-World Games Anymore",
+        "Dan Houser on Leaving \u2018GTA 6\u2019 Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn\u2019t Play Open-World Games Anymore"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "7a6b3de9-5ac0-47eb-82ac-b90439a64c1d",
-      "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
-      "url": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T12:27:28+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237145205",
       "title": "\u2018Night Of The Living Dead\u2019 Vertical Microdrama Readied For Horror-Focused App Room418",
@@ -744,14 +741,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-02T12:45:00+00:00"
-    },
-    {
-      "guid": "1904279",
-      "title": "Activision Could Be Giving Halo Something It Hasn\u2019t Had In Years: A Clean Slate",
-      "url": "https://www.gamespot.com/articles/activision-could-be-giving-halo-something-it-hasnt-had-in-years-a-clean-slate/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T12:26:54+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123796",
@@ -1488,6 +1477,238 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-02T15:34:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000739307",
+      "title": "The Internet Is Losing Its Mind Over Retired NFL Coach Mike Tomlin Spending 12 Years Making A Very Intricate Minecraft City",
+      "url": "https://kotaku.com/mike-tomlin-minecraft-city-nfl-coach-steelers-mojang-youtube-2000739307",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:00:22+00:00"
+    },
+    {
+      "guid": "R42GMvXSPq3L7DJn9Jt6Pg",
+      "title": "The upcoming sim about making games is so deep your in-game game can even get cyberleeked",
+      "url": "https://www.pcgamer.com/games/sim/the-upcoming-sim-about-making-games-is-so-deep-your-in-game-game-can-even-get-cyberleeked/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:13:24+00:00"
+    },
+    {
+      "guid": "4ZtZHqiLDUPcQyEDNnbPaK",
+      "title": "A surprisingly in-depth dressmaking simulator has the cosy gamers in a chokehold",
+      "url": "https://www.pcgamer.com/games/sim/a-surprisingly-in-depth-dressmaking-simulator-has-the-cosy-gamers-in-a-chokehold/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:05:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145458",
+      "title": "\u2018Spring Awakening\u2019 Revival\u2019s Off-Broadway Run Extended Into Spring",
+      "url": "https://deadline.com/2026/10/spring-awakening-extended-duncan-sheik-1237145458/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:10:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237144883",
+      "title": "Chloe Veitch Signs With Independent Artist Group",
+      "url": "https://deadline.com/2026/10/chloe-veitch-independent-artist-group-1237144883/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:05:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145459",
+      "title": "Dolly Parton Broadway Musical Sets Its Lead Cast With Katie Rose Clarke As Dolly",
+      "url": "https://deadline.com/2026/10/dolly-parton-broadway-musical-lead-cast-katie-rose-clarke-1237145459/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:01:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145096",
+      "title": "\u2018The Watcher\u2019 Season 2 To Start Production 4 Years After Renewal: Here\u2019s Who In The Cast Is Returning",
+      "url": "https://deadline.com/2026/10/the-watcher-season-2-start-production-cast-who-returns-1237145096/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897526",
+      "title": "Madison Avenue Makeover: Marketers Face Big Challenges in Bid to Reach Elusive Consumers",
+      "url": "https://variety.com/2026/tv/news/madison-avenue-makeover-advertisers-challenges-1236897526/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897643",
+      "title": "CBS Sports, Tony Romo Break Up Following Pre-Season Intoxication Incident",
+      "url": "https://variety.com/2026/tv/news/cbs-sports-tony-romo-break-up-intoxication-1236897643/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:08:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897595",
+      "title": "\u2018The Watcher\u2019 Season 2 to Begin Production 4 Years After Season 1 With Bobby Cannavale, Naomi Watts Returning",
+      "url": "https://variety.com/2026/tv/news/the-watcher-season-2-bobby-cannavale-naomi-watts-returning-1236897595/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236720996",
+      "title": "Tony Romo Out at CBS Sports Following DWI Plea",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/cbs-sports-tony-romo-part-ways-1236720996/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:20:53+00:00"
+    },
+    {
+      "guid": "CsdWcs73zXddPjNthsfepU",
+      "title": "Star Wars: Galactic Racer Metacritic score makes it one of the best-rated Star Wars games ever",
+      "url": "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-metacritic-score-makes-it-one-of-the-best-rated-star-wars-games-of-all-time-beating-every-battlefront-title/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:24:54+00:00"
+    },
+    {
+      "guid": "7JKwfVotDR3xuXvexJZpP8",
+      "title": "There are \"all sorts of smart reasons\" the League of Legends MMO shouldn't be made, Riot boss says",
+      "url": "https://www.gamesradar.com/games/league-of-legends/there-are-all-sorts-of-smart-reasons-the-league-of-legends-mmo-shouldnt-be-made-riot-boss-says-but-were-doing-it-anyway/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:23:26+00:00"
+    },
+    {
+      "guid": "zyTSzebWwN5FabhGvZewpE",
+      "title": "How to play NG+ in 007 First Light",
+      "url": "https://www.gamesradar.com/games/action/007-first-light-new-game-plus/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:20:37+00:00"
+    },
+    {
+      "guid": "PbWeDvU3M8LxN37W4UqTxL",
+      "title": "Here's everything new we learned about GTA 6 this week | GTA 6 O'clock",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/heres-everything-new-we-learned-about-gta-6-this-week-after-rockstar-revealed-new-details-on-the-animals-activities-and-weather-in-its-sprawling-open-world-sandbox/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:04:20+00:00"
+    },
+    {
+      "guid": "ZfEWF8KfkKy649VxjqDNrK",
+      "title": "Heartworm is a survival horror throwback with plenty of fresh ideas",
+      "url": "https://www.gamesradar.com/games/survival-horror/game-of-the-week-september-28-october-2-heartworm/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:00:15+00:00"
+    },
+    {
+      "guid": "mpoziV3yxGtyUGNDqMqork",
+      "title": "New York Comic Con 2026 preview: The 5 panels you can't miss",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/new-york-comic-con-2026-preview-the-5-panels-you-cant-miss/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "guid": "EMmyGdxCvnvjZwvCym2Aeh",
+      "title": "Nacon is launching the first-ever PS5 controller with an interactive screen and charging dock",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/nacon-is-launching-the-first-ever-ps5-controller-with-an-interactive-screen-and-charging-dock/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "guid": "1904330",
+      "title": "In 5 Years, Will Netflix Still Be In Gaming? Here\u2019s What The CEO Said",
+      "url": "https://www.gamespot.com/articles/in-5-years-will-netflix-still-be-in-gaming-heres-what-the-ceo-said/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T15:55:59+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758841",
+      "title": "Final Fantasy 7 Revelation Director Naoki Hamaguchi Says It Was \u201cAbsolutely Essential\u201d to Avoid Turning the Remake Into a Personal Fan Project",
+      "url": "https://otakukart.com/final-fantasy-7-revelation-director-naoki-hamaguchi-says-it-was-absolutely-essential-to-avoid-turning-the-remake-into-a-personal-fan-project/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:29:44+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758824",
+      "title": "CORTIS Scores 12th Music Show Win With \u201cREDRED\u201d on Music Bank",
+      "url": "https://otakukart.com/cortis-scores-12th-music-show-win-with-redred-on-music-bank/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:29:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758827",
+      "title": "Stray Kids Confirmed to Have Not Submitted Music for the 2027 Grammy Awards",
+      "url": "https://otakukart.com/stray-kids-confirmed-to-have-not-submitted-music-for-the-2027-grammy-awards/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:27:05+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758829",
+      "title": "Cho Yeo Jeong in Talks to Lead New Horror Thriller \u2018Women in the Poisoned Jar\u2019",
+      "url": "https://otakukart.com/cho-yeo-jeong-in-talks-to-lead-new-horror-thriller-women-in-the-poisoned-jar/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:24:56+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758831",
+      "title": "RIIZE\u2019s Anton Officially Named Saint Laurent Brand Ambassador",
+      "url": "https://otakukart.com/riizes-anton-officially-named-saint-laurent-brand-ambassador/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:22:39+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758833",
+      "title": "Kim Jae Won and Jeon So Young in Talks to Lead New Youth Romance Film \u2018Da Capo\u2019",
+      "url": "https://otakukart.com/kim-jae-won-and-jeon-so-young-in-talks-to-lead-new-youth-romance-film-da-capo/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:20:12+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758840",
+      "title": "Skyrim Lead Designer Bruce Nesmith Says The Elder Scrolls 6 Should Add Boats and Naval Combat as a \u201cDragon-Level\u201d Feature",
+      "url": "https://otakukart.com/skyrim-lead-designer-bruce-nesmith-says-the-elder-scrolls-6-should-add-boats-and-naval-combat-as-a-dragon-level-feature/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:16:52+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758836",
+      "title": "P1Harmony\u2019s Jiung Suffers Ankle Injury, To Perform Seated During Upcoming Schedules",
+      "url": "https://otakukart.com/p1harmonys-jiung-suffers-ankle-injury-to-perform-seated-during-upcoming-schedules/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:15:09+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758839",
+      "title": "GTA 6 Narrative Chief Says the Story Won\u2019t Cover the Entire Map Because Leonida Is Too Massive, Leaving Areas for Players to Explore",
+      "url": "https://otakukart.com/gta-6-narrative-chief-says-the-story-wont-cover-the-entire-map-because-leonida-is-too-massive-leaving-areas-for-players-to-explore/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:13:57+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758804",
+      "title": "One Piece Chapter 1195: Spoilers, Summary and Pics \u2013 LIVE",
+      "url": "https://otakukart.com/one-piece-chapter-1195-spoilers-summary-and-pics-live/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:12:34+00:00"
     }
   ]
 }
