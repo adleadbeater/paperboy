@@ -711,30 +711,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237145205",
-      "title": "\u2018Night Of The Living Dead\u2019 Vertical Microdrama Readied For Horror-Focused App Room418",
-      "url": "https://deadline.com/2026/10/room418-microdrama-app-night-of-the-living-dead-1237145205/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236897209",
-      "title": "Kieran Culkin Will Be Playing the Devil on \u2018Family Guy\u2019 for a Long Time (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-2-1236897209/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123796",
-      "title": "Review: Tristia: Chronicles Feels Like an Atelier Style Retro Simulation",
-      "url": "https://www.siliconera.com/review-tristia-chronicles-feels-like-an-atelier-style-retro-simulation/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
       "title": "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge",
       "url": "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot",
@@ -853,14 +829,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-02T13:15:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207143",
-      "title": "English Translation Released For SNES Anime Adaptation Ghost Sweeper Mikami: The Exorcist With A Nice Body",
-      "url": "https://www.timeextension.com/news/2026/10/english-translation-released-for-snes-anime-adaptation-ghost-sweeper-mikami-the-exorcist-with-a-nice-body",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-02T13:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1758770",
@@ -1845,6 +1813,38 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-02T16:36:04+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
+      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:52:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145475",
+      "title": "Black Bear\u2019s President Of U.S. Distribution Ben Kramer Exiting",
+      "url": "https://deadline.com/2026/10/ben-kramer-black-bear-head-of-us-distribution-exiting-1237145475/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "guid": "1902657",
+      "title": "Xbox Game Pass Loses These 9 Games In October",
+      "url": "https://www.gamespot.com/articles/xbox-game-pass-loses-these-9-games-in-october/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:34:36+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124105",
+      "title": "GOG Preservation Program Gets Octopath Traveler Games",
+      "url": "https://www.siliconera.com/gog-preservation-program-gets-octopath-traveler-games/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T17:00:00+00:00"
     }
   ]
 }
