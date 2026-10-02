@@ -1,54 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Candy Crush Developers Win Union Contract After Strike Threat at King",
-      "tag": "king (candy crush)",
-      "posted_at": "2026-09-24T18:01:07.900954+00:00",
-      "urls": [
-        "https://kotaku.com/candy-crush-developers-win-contract-2000737027"
-      ],
-      "article_titles": [
-        "Candy Crush Developers Win Contract With Management After Calling For A Multi-Union Strike"
-      ]
-    },
-    {
-      "headline": "Call of Duty: Modern Warfare 4 Is Finally Letting Players Hide Ridiculous Operator Skins in Warzone",
-      "tag": "call of duty: modern warfare 4",
-      "posted_at": "2026-09-24T18:01:07.978263+00:00",
-      "urls": [
-        "https://kotaku.com/call-of-duty-modern-warfare-4-adding-highly-requested-option-to-hide-silly-skins-in-warzone-2000737022",
-        "https://kotaku.com/call-of-duty-modern-warfare-4-adding-highly-requested-option-to-hide-silly-skins-in-warzone-2000737022"
-      ],
-      "article_titles": [
-        "Call Of Duty: Modern Warfare 4 Adding Highly Requested Option To Hide Silly Skins In Warzone",
-        "Call Of Duty: Modern Warfare 4 Adding Highly-Requested Option To Hide Silly Skins In Warzone"
-      ]
-    },
-    {
-      "headline": "Bungie Is Expanding Marathon With a New Zone, Social Space, and Deathmatch Mode",
-      "tag": "marathon",
-      "posted_at": "2026-09-24T18:31:01.045147+00:00",
-      "urls": [
-        "https://kotaku.com/marathon-is-becoming-a-much-bigger-game-as-bungie-teases-a-new-zone-social-space-deathmatch-mode-and-more-2000737026"
-      ],
-      "article_titles": [
-        "Marathon Is Becoming A Much Bigger Game As Bungie Teases A New Zone, Social Space, Deathmatch Mode, And More"
-      ]
-    },
-    {
-      "headline": "Nintendo Reportedly Cancelled a Ubisoft-Developed Zelda Game Where You Play as Ganondorf",
-      "tag": "the legend of zelda",
-      "posted_at": "2026-09-24T20:31:01.387077+00:00",
-      "urls": [
-        "https://www.gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf/",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wpas8e/tom_henderson_ubisoft_milan_pitched_nintendo_a/"
-      ],
-      "article_titles": [
-        "Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf",
-        "Tom Henderson: Ubisoft Milan Pitched Nintendo a Zelda Game Starring Ganondorf"
-      ]
-    },
-    {
       "headline": "Blizzard Banned WoW Forever Beta Players Over Character Names \u2014 Now Says Real Humans Are Reviewing the Cases",
       "tag": "world of warcraft",
       "posted_at": "2026-09-25T14:01:02.077020+00:00",
@@ -702,27 +654,22 @@
         "Castlevania: Belmont\u2019s Curse Demo Debuts",
         "Castlevania: Belmont\u2019s Curse Demo Debuts"
       ]
+    },
+    {
+      "headline": "Capcom Says Porting Monster Hunter Wilds to Switch 2 Has Been \"Painstaking\"",
+      "tag": "monster hunter wilds",
+      "posted_at": "2026-10-02T05:16:43.662738+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2"
+      ],
+      "article_titles": [
+        "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237144898",
-      "title": "Rachel Reid Found It \u201cVery Difficult\u201d Writing Next \u2018Heated Rivalry\u2019 Book\u2019s Sex Scenes After Seeing Show: \u201cIt\u2019s Very Weird\u201d",
-      "url": "https://deadline.com/2026/10/rachel-reid-difficult-writing-heated-rivalry-book-sex-scenes-1237144898/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-01T21:53:50+00:00"
-    },
-    {
-      "guid": "TPRNHw4EMR8mVTcCWsMW9L",
-      "title": "One of Diablo 2's most coveted items surprise-drops in Diablo 4, and it's just as OP as 25 years ago",
-      "url": "https://www.gamesradar.com/games/diablo/one-of-diablo-2s-most-coveted-items-surprise-drops-in-diablo-4-and-its-just-as-overpowered-as-it-was-25-years-ago/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-01T21:50:37+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237145100",
       "title": "Aaron Sorkin Clarifies He \u201cWas Never Asked\u201d To Omit Trump From \u2018The Social Reckoning\u2019 But Film Is \u201cNot A Red-Blue Thing\u201d",
@@ -738,14 +685,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-02T01:41:28+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237144974",
-      "title": "NBCU\u2019s Donna Langley On Industry Mergers, Taylor Sheridan, And The Road to 2027",
-      "url": "https://deadline.com/2026/10/nbcuniversal-donna-langley-paramount-warner-taylor-sheridan-1237144974/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T01:16:31+00:00"
     },
     {
       "guid": "https://variety.com/?post_type=pmc_list&p=1236851043",
@@ -772,12 +711,20 @@
       "published_dt": "2026-10-02T01:22:25+00:00"
     },
     {
-      "guid": "t3_1wvgtmj",
-      "title": "RebsGaming : Activision Halo",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wvgtmj/rebsgaming_activision_halo/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "https://www.nintendolife.com/#article-207124",
+      "title": "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2",
+      "source_name": "Nintendo Life",
       "source_tier": 2,
-      "published_dt": "2026-10-02T01:15:36+00:00"
+      "published_dt": "2026-10-02T04:55:00+00:00"
+    },
+    {
+      "guid": "https://automaton-media.com/en/?p=73277",
+      "title": "Project Aces apologizes to Ace Combat 8 owners on Steam over Ace Combat Zero\u2019s limited launch options, says it\u2019s looking into potential solutions",
+      "url": "https://automaton-media.com/en/news/project-aces-apologizes-to-ace-combat-8-owners-on-steam-over-ace-combat-zeros-limited-launch-options-says-its-looking-into-potential-solutions/",
+      "source_name": "Automaton",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T04:51:55+00:00"
     }
   ]
 }
