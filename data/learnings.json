@@ -719,28 +719,12 @@
       "published_dt": "2026-10-02T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237145325",
-      "title": "U.S. Job Growth Slowed To 29,000 In September, With Slight Dip In Movie And Music Employment",
-      "url": "https://deadline.com/2026/10/jobs-report-september-movie-music-1237145325/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T12:46:54+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236897209",
       "title": "Kieran Culkin Will Be Playing the Devil on \u2018Family Guy\u2019 for a Long Time (EXCLUSIVE)",
       "url": "https://variety.com/2026/tv/news/family-guy-kieran-culkin-devil-halloween-special-hulu-2-1236897209/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-02T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236718131",
-      "title": "\u2018Concrete Turned to Sand\u2019 Dives Into Oyster Farms, With Otherworldly Imagery From the \u2018Backrooms\u2019 DP (Exclusive Clip)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/concrete-turned-to-sand-film-clip-backrooms-dp-oyster-farms-1236718131/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T12:45:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1123796",
@@ -1709,6 +1693,158 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-02T16:12:34+00:00"
+    },
+    {
+      "guid": "b0bc196a-f3ba-43f9-a818-5abd0ae6dafb",
+      "title": "MTG\u2019s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
+      "url": "https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000739330",
+      "title": "Why Control Resonant Had to Take Our New Hero Outside",
+      "url": "https://kotaku.com/why-control-resonant-had-to-take-our-new-hero-outside-2000739330",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:30:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145519",
+      "title": "James Gunn & Peter Safran To Stay At DC Studios After Paramount-Warner Bros Merger",
+      "url": "https://deadline.com/2026/10/james-gunn-peter-safran-dc-studios-staying-1237145519/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:48:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145506",
+      "title": "Tony Romo And CBS Sports Part Ways After His Drunk-Driving Arrest",
+      "url": "https://deadline.com/2026/10/tony-romo-out-cbs-sports-1237145506/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:37:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145487",
+      "title": "\u2018The Great British Bake Off\u2019 Host Alison Hammond Has Heart Check After Health Scare Live On TV",
+      "url": "https://deadline.com/2026/10/alison-hammond-heart-scare-bake-off-this-morning-1237145487/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:36:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894505",
+      "title": "\u2018The Good Girls\u2019 Lead Ilse Salas to Star in Quijote Films\u2019 \u2018To Die on Your Feet\u2019 (\u2018Morir de Pie\u2019) a Project Pitched at Iberseries & Platino Industria (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:38:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878406",
+      "title": "\u2018A Few Good Men\u2019 on Broadway: Aaron Sorkin, Bradley Whitford and Team Behind Revival on Why It\u2019s \u2019So Fucking Relevant\u2019 in Trump Era",
+      "url": "https://variety.com/2026/legit/news/a-few-good-men-aaron-sorkin-bradley-whitford-broadway-1236878406/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:34:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717480",
+      "title": "\u2018Tip Toe\u2019 Review: Alan Cumming and David Morrissey Fire Up Russell T. Davies\u2019 Searingly Relevant Starz Drama About Violent Bigotry",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/tip-toe-review-alan-cumming-russell-t-davies-starz-1236717480/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:48:10+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236721015",
+      "title": "\u2018The Watcher\u2019 Season 2 Is Coming: Naomi Watts, Bobby Cannavale Returning",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-watcher-season-2-naomi-watts-bobby-cannavale-1236721015/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T16:32:41+00:00"
+    },
+    {
+      "guid": "ckaTFkWY7J5LX44tqQsfcV",
+      "title": "The Witcher 3 mod swaps every single Griffin with the iconic low-poly pigeon: \"He is back\"",
+      "url": "https://www.gamesradar.com/games/the-witcher/the-witcher-3-mod-swaps-every-single-griffin-with-the-iconic-low-poly-pigeon-he-is-back-and-he-is-tired-of-being-ridiculed/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:28:02+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207171",
+      "title": "Toy Story 3 Complete Edition's PS5 Trophy List Echoes the Original with a Few New Additions",
+      "url": "https://www.pushsquare.com/news/2026/10/toy-story-3-complete-editions-ps5-trophy-list-echoes-the-original-with-a-few-new-additions",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:45:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758820",
+      "title": "Jo Bo Ah in Talks to Replace Lee Chung Ah in New Drama \u2018The Obedient Killer\u2019 After Car Accident",
+      "url": "https://otakukart.com/jo-bo-ah-in-talks-to-replace-lee-chung-ah-in-new-drama-the-obedient-killer-after-car-accident/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:50:51+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758818",
+      "title": "\u2018The Assassin(s)\u2019 Cancels All Scheduled Events at 2026 Busan International Film Festival",
+      "url": "https://otakukart.com/the-assassins-cancels-all-scheduled-events-at-2026-busan-international-film-festival/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:48:35+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758816",
+      "title": "T.O.P and Nana Confirm They\u2019re Dating After Meeting on \u2018Studio54\u2019 Music Video",
+      "url": "https://otakukart.com/t-o-p-and-nana-confirm-theyre-dating-after-meeting-on-studio54-music-video/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:46:31+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758877",
+      "title": "My Happy Marriage Special Episodes Set October 25 Worldwide Netflix Premiere With New Trailer and Opening Theme",
+      "url": "https://otakukart.com/my-happy-marriage-special-episodes-set-october-25-worldwide-netflix-premiere-with-new-trailer-and-opening-theme/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:41:29+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758822",
+      "title": "EVNNE Reveals Promotion Schedule for Sixth Mini Album \u2018on: our noise\u2019",
+      "url": "https://otakukart.com/evnne-reveals-promotion-schedule-for-sixth-mini-album-on-our-noise/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:35:21+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758842",
+      "title": "Chainsmoker Cat Highlights the Challenge of Balancing Global Anime Appeal With Creative Freedom as Expert Warns Works Can \u201cLose Its Flavor\u201d",
+      "url": "https://otakukart.com/chainsmoker-cat-highlights-the-challenge-of-balancing-global-anime-appeal-with-creative-freedom-as-expert-warns-works-can-lose-its-flavor/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:29:44+00:00"
+    },
+    {
+      "guid": "t3_1wvyh6l",
+      "title": "AMD driver lists ATLite3 and Gainsborough, linked to PS6 Orion and Steam Deck 2. Gainsborough (potentially Steam Deck 2 SoC) is appearing in shipping manifests, suggesting silicon validation is already underway",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wvyh6l/amd_driver_lists_atlite3_and_gainsborough_linked/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:36:09+00:00"
+    },
+    {
+      "guid": "t3_1wvyh3u",
+      "title": "Pokemon Winds and Waves beta intro dialogue possibly leaked",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wvyh3u/pokemon_winds_and_waves_beta_intro_dialogue/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T16:36:04+00:00"
     }
   ]
 }
