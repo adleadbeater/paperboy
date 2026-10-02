@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Blizzard Banned WoW Forever Beta Players Over Character Names \u2014 Now Says Real Humans Are Reviewing the Cases",
-      "tag": "world of warcraft",
-      "posted_at": "2026-09-25T14:01:02.077020+00:00",
-      "urls": [
-        "https://www.ign.com/articles/blizzard-insists-actual-humans-are-reading-through-all-the-wow-forever-beta-character-names-it-banned-players-for-this-week"
-      ],
-      "article_titles": [
-        "Blizzard Insists Actual Humans Are Reading Through All the WoW Forever Beta Character Names It Banned Players for This Week"
-      ]
-    },
-    {
       "headline": "Konami Celebrates Castlevania's 40th Anniversary With a Free Game \u2014 and a Possible 3D Collection Tease",
       "tag": "castlevania",
       "posted_at": "2026-09-25T15:31:00.200289+00:00",
@@ -676,6 +665,28 @@
       "article_titles": [
         "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
       ]
+    },
+    {
+      "headline": "GTA 6's Age Rating Suggests Full Sex Scenes \u2014 And No, Hot Coffee Doesn't Count",
+      "tag": "gta 6",
+      "posted_at": "2026-10-02T14:01:16.214418+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards"
+      ],
+      "article_titles": [
+        "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
+      ]
+    },
+    {
+      "headline": "Final Fantasy 7 Revelation's Director Reflects on That \"Extravagant\" Sephiroth Fight and Whether This Trilogy Could Ever Be Topped",
+      "tag": "final fantasy 7",
+      "posted_at": "2026-10-02T14:01:16.441746+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/"
+      ],
+      "article_titles": [
+        "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -888,6 +899,126 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-02T13:15:09+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "title": "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included",
+      "url": "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:59:39+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000738660",
+      "title": "I Don\u2019t Want To Play Your AI-Generated Mod That Puts Skate 3 Inside Of Modern Warfare 2 Inside Of Minecraft",
+      "url": "https://kotaku.com/i-dont-want-to-play-your-ai-generated-mod-that-puts-skate-3-inside-of-modern-warfare-2-inside-of-minecraft-2000738660",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:48:47+00:00"
+    },
+    {
+      "guid": "MEh9Yqo5SsakQDiVQ2aoJW",
+      "title": "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again",
+      "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:26:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145326",
+      "title": "BRAVO Film Festival To Pause For 2026",
+      "url": "https://deadline.com/2026/10/bravo-film-festival-2026-paused-1237145326/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236877473",
+      "title": "\u2018God of War Laufey\u2019 Sets Release Date, Preorders Open (Gaming News Roundup)",
+      "url": "https://variety.com/2026/gaming/news/gaming-news-roundup-september-28-1236877473/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:52:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897203",
+      "title": "CBS News Taps Steven Baker, Former \u2018Nightline\u2019 Producer, to Boost \u2018Mornings,\u2019 \u2018Evening News\u2019",
+      "url": "https://variety.com/2026/tv/news/cbs-news-steven-baker-nightline-producer-tv-mornings-1236897203/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:50:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897470",
+      "title": "Luca Guadagnino Is \u2018Not Afraid\u2019 of Sam Altman Backlash to \u2018Artificial\u2019: \u2018People That Have a Lot of Power\u2019 Should Be \u2018Aware That You Must Be Responsible\u2019",
+      "url": "https://variety.com/2026/film/global/luca-guadagnino-not-afraid-sam-altman-backlash-artificial-1236897470/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:37:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236720848",
+      "title": "Michael De Luca, Pamela Abdy Out at Warner Bros.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-de-luca-pamela-abdy-warner-bros-1236720848/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-02T13:57:33+00:00"
+    },
+    {
+      "guid": "gxNa77inVZY2GhTb6muw99",
+      "title": "'It's an onion!' I shouted, as I built the Lego Shrek, Donkey & Puss in Boots set",
+      "url": "https://www.gamesradar.com/toys-collectibles/lego-shrek-donkey-and-puss-in-boots-72423-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:40:28+00:00"
+    },
+    {
+      "guid": "FSbhVMc8UyPEvq4rekZBbB",
+      "title": "GTA 6 age rating suggests a more explicit game than GTA 5, singling out \"sex scenes\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-age-rating-suggests-a-more-explicit-game-than-gta-5-singling-out-sex-scenes-in-a-step-up-from-rockstars-last-installment/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:36:54+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-206193",
+      "title": "The Gaelco Sports Collection Featuring The Scandalous 'Squash' Launches October 22",
+      "url": "https://www.timeextension.com/news/2026/10/the-gaelco-sports-collection-featuring-the-scandalous-squash-launches-october-22",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:45:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758791",
+      "title": "Black Butler Vol. 36 Debuts at No. 1 in Japan With 46,274 Copies Sold in Its First Week",
+      "url": "https://otakukart.com/black-butler-vol-36-debuts-at-no-1-in-japan-with-46274-copies-sold-in-its-first-week/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:59:07+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758790",
+      "title": "Former WarioWare Director Goro Abe Says Leaving Nintendo Let Him Explore Game Ideas Without Worrying About Profitability or Commercial Constraints",
+      "url": "https://otakukart.com/former-warioware-director-goro-abe-says-leaving-nintendo-let-him-explore-game-ideas-without-worrying-about-profitability-or-commercial-constraints/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:59:06+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758772",
+      "title": "EA Sports FC 27 Has Sold 6.5 Million Copies in Under Two Weeks, With Over $500M Coming From Consoles",
+      "url": "https://otakukart.com/ea-sports-fc-27-has-sold-6-5-million-copies-in-under-two-weeks-with-over-500m-coming-from-consoles/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:45:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1758771",
+      "title": "Bodycam Made $24.2 Million in September After Its Biggest Update Yet, Marking Its Best Month Two Years Into Early Access",
+      "url": "https://otakukart.com/bodycam-made-24-2-million-in-september-after-its-biggest-update-yet-marking-its-best-month-two-years-into-early-access/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-02T13:35:07+00:00"
     }
   ]
 }
