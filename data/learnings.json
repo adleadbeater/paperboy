@@ -754,14 +754,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "f0ada598-185b-4e27-bc3c-d256c8f25d1f",
-      "title": "Lanterns: Who Killed Hal Jordan and More of Our Biggest Questions Heading Into the Finale",
-      "url": "https://www.ign.com/articles/lanterns-who-killed-hal-jordan-and-more-of-our-biggest-questions-heading-into-the-finale",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-02T20:30:53+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000739388",
       "title": "Amazon\u2019s Very Good 4K UHD Blu-Ray Sale Is Back, But This Time Filled With Horror And Spooky Movies",
       "url": "https://kotaku.com/amazons-very-good-4k-uhd-blu-ray-sale-is-back-but-this-time-filled-with-horror-and-spooky-movies-2000739388",
@@ -896,6 +888,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-03T00:28:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237145362",
+      "title": "Post-Merger Skydance Keeping Both HBO Max & Paramount+ Streaming Brands",
+      "url": "https://deadline.com/2026/10/skydance-hbo-max-paramount-streaming-bundle-1237145362/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-03T00:33:22+00:00"
     }
   ]
 }
