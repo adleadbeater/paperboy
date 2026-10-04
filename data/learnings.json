@@ -748,5 +748,62 @@
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": []
+  "article_cache": [
+    {
+      "guid": "https://kotaku.com/?p=2000739648",
+      "title": "Jagex Announce A Fourth RuneScape And Cartoon With MoistCr1tikal",
+      "url": "https://kotaku.com/jagex-announce-a-fourth-runescape-and-cartoon-with-moistcr1tikal-2000739648",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T15:56:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146172",
+      "title": "Daily Wire Filming Temporarily Suspended In Montana After Special City Meeting",
+      "url": "https://deadline.com/2026/10/daily-wire-filming-temporarily-suspended-montana-1237146172/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T15:55:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236898511",
+      "title": "John Steinbeck\u2019s \u2018East of Eden\u2019 Returns to Top of Book Charts Following Netflix Adaptation\u2019s Release",
+      "url": "https://variety.com/2026/shopping/news/read-east-of-eden-john-steinbeck-netflix-buy-shop-book-online-1236898511/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236898534",
+      "title": "Marjoe Gortner, Preacher and Actor Who Was Subject of Oscar-Winning Doc and Appeared in \u2018Earthquake,\u2019 \u2018Falcon Crest,\u2019 Dies at 82",
+      "url": "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T15:49:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236898521",
+      "title": "Box Office: \u2018Digger\u2019 Majorly Bombs With $8 Million Opening Weekend, \u2018Verity\u2019 Scores $32 Million Debut",
+      "url": "https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T15:27:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236721833",
+      "title": "\u2018Avengers: Endgame\u2019 Returns to No. 1 on All-Time Global Box Office Chart, Surpassing \u2018Avatar\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T15:34:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236721816",
+      "title": "\u2018In The Heart of the South\u2019 Director Wants to Change the Narrative For Indigenous Filmmakers: \u201cYou\u2019ve Been Telling Our Stories Forever\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T15:32:07+00:00"
+    }
+  ]
 }
