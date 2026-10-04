@@ -748,46 +748,5 @@
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000739607",
-      "title": "OpenAI\u2019s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-      "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-03T21:26:58+00:00"
-    },
-    {
-      "guid": "VKstHhvaDAm3vksaEWbXCD",
-      "title": "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds",
-      "url": "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-03T21:44:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237146074",
-      "title": "Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About \u2018The Social Reckoning\u2019",
-      "url": "https://deadline.com/2026/10/jeremy-strong-mark-zuckerberg-the-social-reckoning-1237146074/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-03T23:48:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236898339",
-      "title": "Lawrence Rothman on Their New Album, \u2018Here Lives Love/Sawdust to Stardust,\u2019 a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything",
-      "url": "https://variety.com/2026/music/news/lawrence-rothman-here-lies-love-album-producer-americana-1236898339/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-03T23:50:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236898348",
-      "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He\u2019s \u2018Addicted Like Everybody Else\u2019: \u2018They\u2019re Facilitating Our Own Destruction\u2019",
-      "url": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-03T23:43:13+00:00"
-    }
-  ]
+  "article_cache": []
 }
