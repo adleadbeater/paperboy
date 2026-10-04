@@ -750,38 +750,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000739648",
-      "title": "Jagex Announce A Fourth RuneScape And Cartoon With MoistCr1tikal",
-      "url": "https://kotaku.com/jagex-announce-a-fourth-runescape-and-cartoon-with-moistcr1tikal-2000739648",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-04T15:56:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237146172",
-      "title": "Daily Wire Filming Temporarily Suspended In Montana After Special City Meeting",
-      "url": "https://deadline.com/2026/10/daily-wire-filming-temporarily-suspended-montana-1237146172/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-04T15:55:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236898511",
-      "title": "John Steinbeck\u2019s \u2018East of Eden\u2019 Returns to Top of Book Charts Following Netflix Adaptation\u2019s Release",
-      "url": "https://variety.com/2026/shopping/news/read-east-of-eden-john-steinbeck-netflix-buy-shop-book-online-1236898511/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-04T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236898534",
-      "title": "Marjoe Gortner, Preacher and Actor Who Was Subject of Oscar-Winning Doc and Appeared in \u2018Earthquake,\u2019 \u2018Falcon Crest,\u2019 Dies at 82",
-      "url": "https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-04T15:49:14+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1759037",
       "title": "aespa\u2019s Karina Goes Viral After Unexpectedly Sweet Reaction to NewJeans Photocard",
       "url": "https://otakukart.com/aespas-karina-goes-viral-after-unexpectedly-sweet-reaction-to-newjeans-photocard/",
@@ -844,6 +812,38 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-04T19:09:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146255",
+      "title": "Sheryl Lee Ralph Imagines \u2018Abbott Elementary\u2019 Running As Long As \u2018Grey\u2019s Anatomy\u2019: \u201cI Want To Take This Journey\u201d",
+      "url": "https://deadline.com/2026/10/sheryl-lee-ralph-abbott-elementary-running-as-long-greys-anatomy-1237146255/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T22:24:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236895011",
+      "title": "What David Zaslav Got Wrong About \u2018Coyote vs. Acme\u2019",
+      "url": "https://variety.com/2026/film/box-office/coyote-vs-acme-proves-david-zaslav-wrong-box-office-1236895011/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T22:20:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1235625188",
+      "title": "Peacock\u2019s Free Trial Offer Returns \u2013 But You Won\u2019t Find It On the Streaming Service",
+      "url": "https://variety.com/2026/shopping/news/best-peacock-streaming-deals-offers-1235625188/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T22:08:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236721934",
+      "title": "Rachel Reid on Upcoming Book \u2018Unrivaled\u2019 and Keeping All Those \u2018Heated Rivalry\u2019 Season 2 Secrets",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/rachel-reid-unrivaled-heated-rivalry-season-2-interview-1236721934/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-04T22:26:44+00:00"
     }
   ]
 }
