@@ -731,6 +731,21 @@
       "article_titles": [
         "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded \u2018Slopcomps\u2019"
       ]
+    },
+    {
+      "headline": "Ninja Theory Is Laying Off Staff After Two Studio-Saving Deals Collapsed",
+      "tag": "ninja theory",
+      "posted_at": "2026-10-05T15:01:10.492309+00:00",
+      "urls": [
+        "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+        "https://kotaku.com/senua-studio-ninja-theory-layoffs-consultation-2000739951",
+        "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase"
+      ],
+      "article_titles": [
+        "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
+        "Senua Studio Ninja Theory Begins Letting People Go After Two Deals To Save The Studio Fell Through",
+        "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1175,6 +1190,126 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-05T14:17:16+00:00"
+    },
+    {
+      "guid": "ac0af2f5-f9b0-4155-908f-1c7bbedf3588",
+      "title": "Modder Turns Diablo 2 Resurrected Into a VR Game, But You Probably Can't Play It",
+      "url": "https://www.ign.com/articles/modder-turns-diablo-2-resurrected-into-a-vr-game",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T14:25:41+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+      "title": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
+      "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T14:53:45+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000739951",
+      "title": "Senua Studio Ninja Theory Begins Letting People Go After Two Deals To Save The Studio Fell Through",
+      "url": "https://kotaku.com/senua-studio-ninja-theory-layoffs-consultation-2000739951",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T14:40:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146589",
+      "title": "Katherine Parkinson, Omari Douglas & Toby Stephens Join BBC & BritBox\u2019s Poirot Series",
+      "url": "https://deadline.com/2026/10/bbc-poirot-series-katherine-parkinson-toby-stephens-1237146589/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146721",
+      "title": "\u2018Things We Never Got Over\u2019 Prime Video Series Adaptation Adds 6 To Cast",
+      "url": "https://deadline.com/2026/10/things-we-never-got-over-cast-prime-video-series-adaptation-1237146721/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236894919",
+      "title": "Jay-Z, Megan Thee Stallion, Keke Palmer, Gina Prince-Bythewood and NY Knicks Champs Named to Ebony Power 100 List (EXCLUSIVE)",
+      "url": "https://variety.com/2026/scene/news/ebony-power-100-jay-z-keke-palmer-ny-knicks-1236894919/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899122",
+      "title": "\u2018Things We Never Got Over\u2019 Amazon Series Adds Six to Cast",
+      "url": "https://variety.com/2026/tv/news/things-we-never-got-over-amazon-series-cast-1236899122/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236898687",
+      "title": "\u2018Digger\u2019 Down: 5 Takeaways After Tom Cruise Suffers One of His Biggest Box Office Bombs",
+      "url": "https://variety.com/2026/film/box-office/digger-box-office-explained-why-tom-cruise-flopped-1236898687/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T14:49:10+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236717197",
+      "title": "\u2018The Flight\u2019: After Iran Shot Down Ukraine Plane, Doc Follows Victims\u2019 Families Fight for Justice",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-flight-doc-iran-shot-down-ukraine-plane-1236717197/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T14:30:21+00:00"
+    },
+    {
+      "guid": "vSzgfaexxsrmcPiWm2d8Pb",
+      "title": "RuneScape devs take down trailer, apologize to players for gen AI after promising not to use gen AI",
+      "url": "https://www.gamesradar.com/games/mmo/runescape-devs-take-down-trailer-apologize-to-players-and-blame-partner-for-gen-ai-after-promising-not-to-use-gen-ai/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T14:50:00+00:00"
+    },
+    {
+      "guid": "Gkp2HnZUUkoWYRTMjbtHYW",
+      "title": "Breath of the Wild is \"beautiful\" on PS5 at 4K, fans say as Nintendo gem hits PlayStation emulator",
+      "url": "https://www.gamesradar.com/games/open-world/the-legend-of-zelda-breath-of-the-wild-is-beautiful-on-ps5-at-4k-fans-say-as-nintendo-gem-hits-playstation-emulator/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T14:40:45+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207228",
+      "title": "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase",
+      "url": "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124219",
+      "title": "FFVII Revelation Hot Springs Teased in New Video Clip",
+      "url": "https://www.siliconera.com/ffvii-revelation-hot-springs-teased-in-new-video-clip/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207203",
+      "title": "Feature: \"If I Didn't Have These Powerful Tools, I Wouldn't Do It at All\" - The Oliver Twins Explain Why They're Dizzy About GenAI",
+      "url": "https://www.timeextension.com/features/if-i-didnt-have-these-powerful-tools-i-wouldnt-do-it-at-all-the-oliver-twins-explain-why-theyre-dizzy-about-genai",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T15:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wyakm6",
+      "title": "Ben videotech says Cyberleak may be back [Grain Of Salt]",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wyakm6/ben_videotech_says_cyberleak_may_be_back_grain_of/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T14:52:17+00:00"
     }
   ]
 }
