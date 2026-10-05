@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Five Nights at Freddy's is Invading Fortnite for Fortnitemares",
-      "tag": "fortnite",
-      "posted_at": "2026-09-27T15:51:54.725347+00:00",
-      "urls": [
-        "https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab"
-      ],
-      "article_titles": [
-        "Five Nights at Freddy's is coming to Fortnite for Fortnitemares"
-      ]
-    },
-    {
       "headline": "Blizzard Is Apologizing to Diablo 4 Players With a Rare Crafting Material Drop After Season 15 Problems",
       "tag": "diablo 4",
       "posted_at": "2026-09-28T14:01:14.177671+00:00",
@@ -744,42 +733,136 @@
       "article_titles": [
         "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds"
       ]
+    },
+    {
+      "headline": "Dead by Daylight's Studio Is Building a Triple-A Sci-Fi First-Person Shooter",
+      "tag": "behaviour interactive",
+      "posted_at": "2026-10-05T13:01:04.091045+00:00",
+      "urls": [
+        "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter"
+      ],
+      "article_titles": [
+        "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\""
+      ]
+    },
+    {
+      "headline": "PlatinumGames Says It Has a \"Strong Desire\" to Continue the Bayonetta Series",
+      "tag": "bayonetta",
+      "posted_at": "2026-10-05T13:01:04.382287+00:00",
+      "urls": [
+        "https://www.ign.com/articles/bayonetta-4"
+      ],
+      "article_titles": [
+        "'We Have a Strong Desire to Further Develop the Character of Bayonetta' \u2014 PlatinumGames Isn't Done With the Gun Witch"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236898842",
-      "title": "China Box Office: Crime Procedural \u2018Traces of Justice\u2019 Leads National Day Frame",
-      "url": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-national-day-1236898842/",
-      "source_name": "Variety",
+      "guid": "fe85e070-a614-4ac1-9582-fdbd18a7fb99",
+      "title": "'We Have a Strong Desire to Further Develop the Character of Bayonetta' \u2014 PlatinumGames Isn't Done With the Gun Witch",
+      "url": "https://www.ign.com/articles/bayonetta-4",
+      "source_name": "IGN",
       "source_tier": 1,
-      "published_dt": "2026-10-05T04:49:01+00:00"
+      "published_dt": "2026-10-05T12:29:25+00:00"
     },
     {
-      "guid": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-5-2026.720886/",
-      "title": "Freebies, Sales, and Charity Bundles for October 5, 2026",
-      "url": "https://www.enworld.org/threads/freebies-sales-and-charity-bundles-for-october-5-2026.720886/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-10-05T04:49:00+00:00"
+      "guid": "23dee970-f99b-47d9-9e96-239676ecc688",
+      "title": "'I'm Still Here': Marvel Star Mark Ruffalo Says He's Still Playing The Hulk Despite Political Advocacy",
+      "url": "https://www.ign.com/articles/im-still-here-marvel-star-mark-ruffalo-says-hes-still-playing-the-hulk-despite-political-advocacy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T12:25:35+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237146153",
-      "title": "A+E Global Media Hires Banijay Distribution Veteran Chris Stewart",
-      "url": "https://deadline.com/2026/10/ae-global-networks-hires-chris-stewart-banijay-veteran-1237146153/",
+      "guid": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
+      "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
+      "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T12:44:39+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000739924",
+      "title": "Lanterns Season 2 In Early Development And There Are Plenty Of Ways For Hal Jordan To Come Back",
+      "url": "https://kotaku.com/lanterns-season-2-in-early-development-and-there-are-plenty-of-ways-for-hal-jordan-to-come-back-2000739924",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T12:39:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146573",
+      "title": "The Hill Insider Boosts Midterm Content With Addition Of Decision Desk HQ",
+      "url": "https://deadline.com/2026/10/the-hill-insider-decision-desk-hq-1237146573/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-05T06:00:00+00:00"
+      "published_dt": "2026-10-05T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236898849",
-      "title": "Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj\u2019s Debut Feature \u2018The Method\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/",
+      "guid": "https://deadline.com/?p=1237146563",
+      "title": "Lightbox Turns On Frightbox With Hulu\u2019s \u2018Clown Panic\u2019 & \u2018The Pet Cemetery Murders\u2019 For HBO",
+      "url": "https://deadline.com/2026/10/lightbox-horror-hulu-clown-panic-pet-cemetery-murders-hbo-1237146563/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T12:54:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899020",
+      "title": "Sam Altman Says \u2018Artificial\u2019 Filmed Outside His House and He Waved at Andrew Garfield: \u2018He Did Walk Like Me \u2026 I Felt I Was in Some Weird Glitch of the Simulation\u2019",
+      "url": "https://variety.com/2026/film/news/sam-altman-artificial-filmed-outside-house-waved-andrew-garfield-1236899020/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-05T06:00:00+00:00"
+      "published_dt": "2026-10-05T12:27:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236721931",
+      "title": "Oscars: Syria Picks \u2018The Other Side of the Sun\u2019 as Best Int\u2019l Feature Submission, Icarus Takes Doc for U.S.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-syria-picks-the-other-side-of-the-sun-icarus-us-deal-1236721931/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207212",
+      "title": "Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124141",
+      "title": "Grandista The Ring Sadako Figure Is Almost 10 Inches Tall",
+      "url": "https://www.siliconera.com/grandista-the-ring-sadako-figure-is-almost-10-inches-tall/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082191",
+      "title": "DuneCrawl coming to PS5, Xbox Series, and Android on October 19, Switch 2 and Switch later in 2026",
+      "url": "https://www.gematsu.com/2026/10/dunecrawl-coming-to-ps5-xbox-series-and-android-on-october-19-switch-2-and-switch-later-in-2026",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T12:40:07+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759172",
+      "title": "Kingdom Come: Deliverance Co-Founder Martin Klima Says Many RPGs Are \u201cStill Games for Teenagers\u201d Because the Industry Keeps Recycling the \u201cChosen One\u201d Formula",
+      "url": "https://otakukart.com/kingdom-come-deliverance-co-founder-martin-klima-says-many-rpgs-are-still-games-for-teenagers-because-the-industry-keeps-recycling-the-chosen-one-formula/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T12:35:11+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/",
+      "title": "RPG Evolution: The D&D Carnival",
+      "url": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T12:30:00+00:00"
     }
   ]
 }
