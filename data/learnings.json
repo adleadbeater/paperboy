@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Fortnite Is Getting a Five Nights at Freddy's Crossover",
-      "tag": "fortnite",
-      "posted_at": "2026-09-28T17:01:13.085626+00:00",
-      "urls": [
-        "https://kotaku.com/people-are-going-completely-wild-over-fortnites-fnaf-crossover-annoumcent-2000737967"
-      ],
-      "article_titles": [
-        "People Are Going Completely Wild Over Fortnite\u2019s FNAF Crossover Announcement"
-      ]
-    },
-    {
       "headline": "Witcher 3's most celebrated quest writer returns to CD Projekt Red after a decade",
       "tag": "the witcher",
       "posted_at": "2026-09-28T17:31:04.667126+00:00",
@@ -853,75 +842,50 @@
       "article_titles": [
         "\u2018ARC Raiders,\u2019 \u2018The Finals\u2019 Video Games Set TV Series and Film Adaptations at Chernin Entertainment"
       ]
+    },
+    {
+      "headline": "Solid Snake's Japanese VA Says He Won't Do a New Metal Gear Without Kojima \u2014 But Wants One Anyway",
+      "tag": "metal gear",
+      "posted_at": "2026-10-05T17:01:21.484542+00:00",
+      "urls": [
+        "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
+        "https://www.gamesradar.com/games/action/hideo-kojima-says-physint-is-quite-different-from-metal-gear-i-want-plenty-of-new-ideas-and-a-different-kind-of-spy-action/",
+        "https://otakukart.com/japanese-solid-snake-va-akio-otsuka-says-konami-should-make-one-more-metal-gear-game-for-fans-despite-kojimas-absence/"
+      ],
+      "article_titles": [
+        "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'",
+        "Hideo Kojima says Physint is \"quite different\" from Metal Gear: \"I want plenty of new ideas\"",
+        "Japanese Solid Snake VA Akio Otsuka Says Konami Should Make \u201cOne More Metal Gear Game\u201d for Fans Despite Kojima\u2019s Absence"
+      ]
+    },
+    {
+      "headline": "Magic: The Gathering Is Getting God Packs \u2014 The Rarest Pack Type Ever",
+      "tag": "magic: the gathering",
+      "posted_at": "2026-10-05T17:01:21.560568+00:00",
+      "urls": [
+        "https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering"
+      ],
+      "article_titles": [
+        "God Packs are Officially Coming to Magic: The Gathering"
+      ]
+    },
+    {
+      "headline": "RuneScape Developer Jagex Pulls Trailer After Players Accuse It of Using Generative AI \u2014 Despite Prior Promise Not To",
+      "tag": "runescape",
+      "posted_at": "2026-10-05T17:01:21.671013+00:00",
+      "urls": [
+        "https://kotaku.com/runescape-developer-jagex-takes-down-trailer-gen-ai-2000739980",
+        "https://www.gamesradar.com/games/mmo/runescape-devs-take-down-trailer-apologize-to-players-and-blame-partner-for-gen-ai-after-promising-not-to-use-gen-ai/"
+      ],
+      "article_titles": [
+        "RuneScape Developer Jagex Takes Down Trailer To \u2018Investigate Urgently\u2019 After Generative AI Accusations",
+        "RuneScape devs take down trailer, apologize to players for gen AI after promising not to use gen AI"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-      "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
-      "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T12:44:39+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000739924",
-      "title": "Lanterns Season 2 In Early Development And There Are Plenty Of Ways For Hal Jordan To Come Back",
-      "url": "https://kotaku.com/lanterns-season-2-in-early-development-and-there-are-plenty-of-ways-for-hal-jordan-to-come-back-2000739924",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T12:39:34+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237146573",
-      "title": "The Hill Insider Boosts Midterm Content With Addition Of Decision Desk HQ",
-      "url": "https://deadline.com/2026/10/the-hill-insider-decision-desk-hq-1237146573/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237146563",
-      "title": "Lightbox Turns On Frightbox With Hulu\u2019s \u2018Clown Panic\u2019 & \u2018The Pet Cemetery Murders\u2019 For HBO",
-      "url": "https://deadline.com/2026/10/lightbox-horror-hulu-clown-panic-pet-cemetery-murders-hbo-1237146563/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T12:54:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236721931",
-      "title": "Oscars: Syria Picks \u2018The Other Side of the Sun\u2019 as Best Int\u2019l Feature Submission, Icarus Takes Doc for U.S.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-syria-picks-the-other-side-of-the-sun-icarus-us-deal-1236721931/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124141",
-      "title": "Grandista The Ring Sadako Figure Is Almost 10 Inches Tall",
-      "url": "https://www.siliconera.com/grandista-the-ring-sadako-figure-is-almost-10-inches-tall/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082191",
-      "title": "DuneCrawl coming to PS5, Xbox Series, and Android on October 19, Switch 2 and Switch later in 2026",
-      "url": "https://www.gematsu.com/2026/10/dunecrawl-coming-to-ps5-xbox-series-and-android-on-october-19-switch-2-and-switch-later-in-2026",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-05T12:40:07+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1759172",
-      "title": "Kingdom Come: Deliverance Co-Founder Martin Klima Says Many RPGs Are \u201cStill Games for Teenagers\u201d Because the Industry Keeps Recycling the \u201cChosen One\u201d Formula",
-      "url": "https://otakukart.com/kingdom-come-deliverance-co-founder-martin-klima-says-many-rpgs-are-still-games-for-teenagers-because-the-industry-keeps-recycling-the-chosen-one-formula/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-05T12:35:11+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000739938",
       "title": "Let\u2019s Play Through Kingdom Hearts Together (No, Seriously)",
@@ -969,22 +933,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-05T13:11:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237146257",
-      "title": "Breaking Baz: Why LFF Opener \u2018Elsinore\u2019 Is A Triumphant Epitaph For An Extraordinary Man",
-      "url": "https://deadline.com/2026/10/elsinore-andrew-scott-lff-opening-night-interview-1237146257/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237146510",
-      "title": "Oscars: Syria Selects Saydnaya Prison Hybrid Doc \u2018The Other Side Of The Sun\u2019 In First Post-Assad Entry",
-      "url": "https://deadline.com/2026/10/oscars-syria-saydnaya-other-side-of-the-sun-1237146510/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T13:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236898767",
@@ -1049,14 +997,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-05T13:04:56+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207097",
-      "title": "Dev Behind AI-Assisted Daytona USA PC Port Says They Didn't Intend To Hide Claude's Involvement",
-      "url": "https://www.timeextension.com/news/2026/10/dev-behind-ai-assisted-daytona-usa-pc-port-says-they-didnt-intend-to-hide-claudes-involvement",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-05T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1082176",
@@ -1825,6 +1765,222 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-05T16:00:40+00:00"
+    },
+    {
+      "guid": "7f972366-3bac-4ece-833f-764b020d1b8f",
+      "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'",
+      "url": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:43:32+00:00"
+    },
+    {
+      "guid": "4ccebc6c-5da2-4c90-ac77-3a41e200eae8",
+      "title": "Sicario 3 Will Reunite Emily Blunt With Benicio del Toro and Josh Brolin",
+      "url": "https://www.ign.com/articles/sicario-3-will-reunite-emily-blunt-with-benicio-del-toro-and-josh-brolin",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:40:24+00:00"
+    },
+    {
+      "guid": "6b07fd40-cf8f-4860-a54c-e5ddec4313b4",
+      "title": "God Packs are Officially Coming to Magic: The Gathering",
+      "url": "https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:35:00+00:00"
+    },
+    {
+      "guid": "14ae4131-b5b9-4e1c-a8b9-c1f4980d4459",
+      "title": "The Meta Quest 3 512GB VR Headset Is 30% Off at eBay, Beats Any Amazon Prime Day Deal",
+      "url": "https://www.ign.com/articles/best-meta-quest-3-deal-amazon-october-prime-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000739980",
+      "title": "RuneScape Developer Jagex Takes Down Trailer To \u2018Investigate Urgently\u2019 After Generative AI Accusations",
+      "url": "https://kotaku.com/runescape-developer-jagex-takes-down-trailer-gen-ai-2000739980",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:30:05+00:00"
+    },
+    {
+      "guid": "LUW3QH5A6H8NCtzTJpqZD4",
+      "title": "The final showdown: Motion blur vs chromatic aberration",
+      "url": "https://www.pcgamer.com/hardware/the-final-showdown-motion-blur-vs-chromatic-aberration/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:51:44+00:00"
+    },
+    {
+      "guid": "8VSndX5AELpQEoexCAcpMA",
+      "title": "Developer gets a little too silly, recommends deadly psychoactive ingredient in its bad boy-themed cocktail",
+      "url": "https://www.pcgamer.com/games/adventure/developer-gets-a-little-too-silly-recommends-deadly-psychoactive-ingredient-in-its-bad-boy-themed-cocktail/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:38:23+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146502",
+      "title": "Billboard Acquires \u2018Cosmic Symphony,\u2019 Laura Karpman Documentary On Iconic Instruments Lost In LA Wildfires: \u201cA Requiem And A Celebration\u201d",
+      "url": "https://deadline.com/2026/10/cosmic-symphony-documentary-billboard-acquisition-1237146502/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146848",
+      "title": "Spiegel & Grau\u2019s Full Catalogue Available On The Black List Online Platform",
+      "url": "https://deadline.com/2026/10/spiegel-grau-the-black-list-partnership-catalogue-1237146848/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:50:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146873",
+      "title": "Paradigm Signs Screenwriter Jim Taylor",
+      "url": "https://deadline.com/2026/10/jim-taylor-signs-paradigm-1237146873/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:43:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146861",
+      "title": "Entertainment Partners Names UK Boss For European Expansion",
+      "url": "https://deadline.com/2026/10/entertainment-partners-names-uk-boss-1237146861/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:38:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897943",
+      "title": "MGM+ to Premiere Docuseries on the History of New Wave Music in November (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/new-wave-music-series-mgm-1236897943/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899152",
+      "title": "Marisa Tomei and Rosanna Arquette to Star in \u2018This Is Crazy\u2019 NAMI Benefit in Memory of Chris Huvane",
+      "url": "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899206",
+      "title": "Banijay America Confirms Ben Samek as CEO, Post-Merger With All3Media",
+      "url": "https://variety.com/2026/tv/news/banijay-america-confirms-ben-samek-ceo-merger-all3media-1236899206/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:40:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236721438",
+      "title": "Marisa Tomei, Rob Morrow, Rosanna Arquette, Lois Smith and Rudy Pankow to Headline \u2018This is Crazy!\u2019 Benefit for NAMI in Honor of Chris Huvane",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/marisa-tomei-rudy-pankow-headline-this-is-crazy-play-1236721438/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236722408",
+      "title": "Gaza Documentary \u2018NAZA\u2019 Sparks IDF Counter Film to Rebut Venice Winner",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/naza-sparks-idf-counter-film-1236722408/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:54:56+00:00"
+    },
+    {
+      "guid": "U4LF4Lc5YYcVUWbrS3ZjhU",
+      "title": "Hideo Kojima says Physint is \"quite different\" from Metal Gear: \"I want plenty of new ideas\"",
+      "url": "https://www.gamesradar.com/games/action/hideo-kojima-says-physint-is-quite-different-from-metal-gear-i-want-plenty-of-new-ideas-and-a-different-kind-of-spy-action/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:54:00+00:00"
+    },
+    {
+      "guid": "juTQdMK62962TqG5YQXuH8",
+      "title": "WoW Forever fan beats Blizzard to punch, builds add-on that catches real-money trades",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-forever-player-beats-blizzard-to-the-punch-builds-add-on-that-catches-real-money-trading-on-the-spot/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:30:33+00:00"
+    },
+    {
+      "guid": "bCK3cWbMK6NNsTNVs5Wisn",
+      "title": "How a trip to Universal's Halloween Horror Nights got me hooked on Fortnite",
+      "url": "https://www.gamesradar.com/games/fortnite/how-a-trip-to-universals-halloween-horror-nights-got-me-hooked-on-fortnite/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:29:56+00:00"
+    },
+    {
+      "guid": "MfJsNvuRK4WzQA72xe283C",
+      "title": "Why is Hideo Kojima so quiet about OD? \"This time I don't want to reveal much\"",
+      "url": "https://www.gamesradar.com/games/action/why-is-hideo-kojima-so-quiet-about-od-this-time-i-dont-want-to-reveal-much-says-metal-gear-and-death-stranding-mastermind/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:29:42+00:00"
+    },
+    {
+      "guid": "1907615",
+      "title": "Hideo Kojima Wants To Keep OD A Mystery, Even By His Standards",
+      "url": "https://www.gamespot.com/articles/hideo-kojima-wants-to-keep-od-a-mystery-even-by-his-standards/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:48:12+00:00"
+    },
+    {
+      "guid": "1907616",
+      "title": "How Is A Game Like GTA 6 Actually Made? Here\u2019s How Rockstar Gets It Done",
+      "url": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:32:43+00:00"
+    },
+    {
+      "guid": "1907459",
+      "title": "How Bill Skarsgard Became The Face Of Hideo Kojima\u2019s Physint",
+      "url": "https://www.gamespot.com/articles/how-bill-skarsgard-became-the-face-of-hideo-kojimas-physint/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:26:40+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207233",
+      "title": "\"I Wanted To Challenge Myself\" - Former WarioWare Director Talks Life After Nintendo",
+      "url": "https://www.nintendolife.com/news/2026/10/i-wanted-to-challenge-myself-former-warioware-director-talks-life-after-nintendo",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-205701",
+      "title": "Another Major PS5 Game Will Be Delisted in October 2026",
+      "url": "https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124222",
+      "title": "New Shonen Jump Manga Are Digimon Eggs and Noro-Noro Puku-Puku",
+      "url": "https://www.siliconera.com/new-shonen-jump-manga-are-digimon-eggs-and-noro-noro-puku-puku/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=620860",
+      "title": "D&D: The New Necromancer Subclass Gives You Even More Undead Minions",
+      "url": "https://www.belloflostsouls.net/2026/10/dd-the-new-necromancer-subclass-gives-you-even-more-undead-minions.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:48:35+00:00"
     }
   ]
 }
