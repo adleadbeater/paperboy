@@ -818,27 +818,46 @@
       "article_titles": [
         "Marvel Unlimited Shutting Down, Will Be Replaced by 'Marvel Comics Powered by Webtoon'"
       ]
+    },
+    {
+      "headline": "D&D's World of Warcraft Sourcebook Sounds Faithful to the MMO \u2014 With Some Big Caveats",
+      "tag": "dungeons & dragons: world of warcraft",
+      "posted_at": "2026-10-05T16:31:35.114185+00:00",
+      "urls": [
+        "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+        "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/"
+      ],
+      "article_titles": [
+        "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
+        "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out"
+      ]
+    },
+    {
+      "headline": "RuneScape's Dev Just Got Caught Using AI Art at RuneFest \u2014 and the Six Fingers Don't Lie",
+      "tag": "runescape",
+      "posted_at": "2026-10-05T16:31:35.350317+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/"
+      ],
+      "article_titles": [
+        "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'"
+      ]
+    },
+    {
+      "headline": "Arc Raiders and The Finals Are Getting TV and Film Adaptations From Chernin Entertainment",
+      "tag": "arc raiders",
+      "posted_at": "2026-10-05T16:31:35.594560+00:00",
+      "urls": [
+        "https://variety.com/2026/tv/news/arc-raiders-the-finals-tv-series-movies-chernin-1236899094/"
+      ],
+      "article_titles": [
+        "\u2018ARC Raiders,\u2019 \u2018The Finals\u2019 Video Games Set TV Series and Film Adaptations at Chernin Entertainment"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "fe85e070-a614-4ac1-9582-fdbd18a7fb99",
-      "title": "'We Have a Strong Desire to Further Develop the Character of Bayonetta' \u2014 PlatinumGames Isn't Done With the Gun Witch",
-      "url": "https://www.ign.com/articles/bayonetta-4",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T12:29:25+00:00"
-    },
-    {
-      "guid": "23dee970-f99b-47d9-9e96-239676ecc688",
-      "title": "'I'm Still Here': Marvel Star Mark Ruffalo Says He's Still Playing The Hulk Despite Political Advocacy",
-      "url": "https://www.ign.com/articles/im-still-here-marvel-star-mark-ruffalo-says-hes-still-playing-the-hulk-despite-political-advocacy",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T12:25:35+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
       "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
@@ -872,28 +891,12 @@
       "published_dt": "2026-10-05T12:54:06+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236899020",
-      "title": "Sam Altman Says \u2018Artificial\u2019 Filmed Outside His House and He Waved at Andrew Garfield: \u2018He Did Walk Like Me \u2026 I Felt I Was in Some Weird Glitch of the Simulation\u2019",
-      "url": "https://variety.com/2026/film/news/sam-altman-artificial-filmed-outside-house-waved-andrew-garfield-1236899020/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T12:27:55+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236721931",
       "title": "Oscars: Syria Picks \u2018The Other Side of the Sun\u2019 as Best Int\u2019l Feature Submission, Icarus Takes Doc for U.S.",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-syria-picks-the-other-side-of-the-sun-icarus-us-deal-1236721931/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-05T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207212",
-      "title": "Kingdom Hearts Collection Will Collectively Take Up Over 130GB On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/kingdom-hearts-collection-will-collectively-take-up-over-130gb-on-switch-2",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-05T12:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1124141",
@@ -918,14 +921,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-05T12:35:11+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/",
-      "title": "RPG Evolution: The D&D Carnival",
-      "url": "https://www.enworld.org/threads/rpg-evolution-the-d-d-carnival.720241/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-10-05T12:30:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000739938",
@@ -1654,6 +1649,182 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-05T15:58:53+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+      "title": "The upcoming D&D interpretation of World of Warcraft sounds great, but don't expect it to work like the MMO does",
+      "url": "https://www.eurogamer.net/dungeons-and-dragons-dnd-world-of-warcraft-wow-book",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:25:19+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000739974",
+      "title": "Sam Altman\u2019s PR Team Desperately Tries To Shut Down Questions Over ChatGPT Encouraging Suicide",
+      "url": "https://kotaku.com/openai-chat-gpt-ai-llm-sam-altman-therapy-vanity-fair-interview-2000739974",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:00:32+00:00"
+    },
+    {
+      "guid": "4Mgp3GmQGbWXDDQDecJDYh",
+      "title": "RuneScape dev apologises after RuneFest debut of an AI-generated six-fingered character: 'That's pretty hard to explain away'",
+      "url": "https://www.pcgamer.com/games/mmo/runescape-dev-apologises-after-runefest-debut-of-an-ai-generated-six-fingered-character-thats-pretty-hard-to-explain-away/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:14:26+00:00"
+    },
+    {
+      "guid": "siSrdvfJbnoNs5wQNNPuNF",
+      "title": "Arc Raiders is looking for 'more ways to integrate real human performances' starting with Celeste's visual overhaul for Frozen Trail",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-is-looking-for-more-ways-to-integrate-real-human-performances-starting-with-celestes-visual-overhaul-for-frozen-trail/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:02:55+00:00"
+    },
+    {
+      "guid": "sycjd5zG3WJBDkCm4aBdrD",
+      "title": "Dungeons & Dragons: World of Warcraft is already a slam dunk, but it's how it captures the spirit of the MMO that makes it stand out",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/dungeons-and-dragons-world-of-warcraft-is-already-a-slam-dunk-but-its-how-it-captures-the-spirit-of-the-mmo-that-makes-it-stand-out/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146847",
+      "title": "Doreen Wilcox Little Launches Moonshot Management & Production",
+      "url": "https://deadline.com/2026/10/doreen-wilcox-little-launches-moonshot-management-production-1237146847/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:22:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146047",
+      "title": "Emily Blunt, Benicio Del Toro And Josh Brolin Returning For \u2018Sicario 3\u2019 From Black Label And Thunder Road With \u2018The Weight\u2019s Padraic McKinley To Direct",
+      "url": "https://deadline.com/2026/10/sicario-3-emily-blunt-benicio-del-toro-josh-brolin-1237146047/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146304",
+      "title": "Alcon Eyes UK Series Adaptations Of \u2018Insomnia\u2019 & \u2018Prisoners\u2019 After Launch Of Diego Piasek-Run International Studio Arm",
+      "url": "https://deadline.com/2026/10/alcon-international-studios-insomnia-prisoners-diego-piasek-1237146304/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146835",
+      "title": "IAG Signs \u2018What Happened To Doris?\u2019 Director Nick Simon Off Fantastic Fest Premiere",
+      "url": "https://deadline.com/2026/10/what-happened-to-doris-nick-simon-sign-iag-1237146835/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:05:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899165",
+      "title": "Sebastian Stan Challenges Audiences to Question Their Own \u2018Belief Systems\u2019 at \u2018Fjord\u2019 Premiere: \u2018There\u2019s More to Just Simply Being Right\u2019",
+      "url": "https://variety.com/2026/film/news/sebastian-stan-fjord-question-belief-systems-nyff-1236899165/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:23:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899168",
+      "title": "CMA\u2019s \u2018Celebration of Dolly Parton\u2019 Special Slates 20 Performers, Including Ella Langley, Lainey Wilson, Molly Tuttle and Reba McEntire",
+      "url": "https://variety.com/2026/music/news/cma-dolly-parton-celebration-abc-special-ella-langley-1236899168/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:21:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899146",
+      "title": "Disney Wants Up to $12 Million for Super Bowl Commercials, Even With Big Game Ads Sold Out",
+      "url": "https://variety.com/2026/tv/news/disney-seeking-12-million-super-bowl-commercials-sold-out-1236899146/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:18:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893981",
+      "title": "As WME\u2019s Literary Media Department Turns 10, It Aims to Keep Pace With How Books Are Adapted: \u2018Our Culture Is Shifting\u2019",
+      "url": "https://variety.com/2026/tv/news/wme-literary-media-10-year-anniversary-dtf-st-louis-1236893981/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236898862",
+      "title": "\u2018I Play Rocky,\u2019 \u2018Paper Tiger\u2019 and \u2018Josephine\u2019 Among Coronado Island Film Festival 2026 Lineup",
+      "url": "https://variety.com/2026/film/news/coronado-island-film-festival-i-play-rocky-paper-tiger-1236898862/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899094",
+      "title": "\u2018ARC Raiders,\u2019 \u2018The Finals\u2019 Video Games Set TV Series and Film Adaptations at Chernin Entertainment",
+      "url": "https://variety.com/2026/tv/news/arc-raiders-the-finals-tv-series-movies-chernin-1236899094/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236713900",
+      "title": "Inside the \u2018Verity\u2019 Adaptation: Crafting a Mystery Where Nothing Is Certain",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/inside-verity-adaptation-michael-showalter-colleen-hoover-1236713900/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236710409",
+      "title": "Jamie Foxx Does Not Want to Be Canceled Over New Hulu Stand-up Special: \u201cAfter That Kevin Hart Roast, I Had to Cut Everything\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/jamie-foxx-take-care-of-yourself-hulu-special-interview-1236710409/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T16:15:00+00:00"
+    },
+    {
+      "guid": "38igbQ5yBSqaR794mPeja9",
+      "title": "Hideo Kojima doesn't \"much like the idea\" of AI replacing artists after DLSS hit Death Stranding 2",
+      "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:28:03+00:00"
+    },
+    {
+      "guid": "PwonDCS6oDnjxLxPuW9vFo",
+      "title": "Inside RuneScape Reignited, Jagex's ambitious plan to \"relaunch\" its longest-running MMO: \"There's a level of confidence that this is the right thing to do\"",
+      "url": "https://www.gamesradar.com/games/mmo/inside-runescape-reignited-jagexs-ambitious-plan-to-relaunch-its-longest-running-mmo-theres-a-level-of-confidence-that-this-is-the-right-thing-to-do/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:08:51+00:00"
+    },
+    {
+      "guid": "7UC3hZmqFNKT39CKaCMH5G",
+      "title": "Clover Time codes (October 2026) and how to redeem them for free Spins, Chests, and more",
+      "url": "https://www.gamesradar.com/games/rpg/clover-time-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:00:23+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207238",
+      "title": "I Suppose PlayStation-Themed Blind Boxes Were Only a Matter of Time",
+      "url": "https://www.pushsquare.com/news/2026/10/i-suppose-playstation-themed-blind-boxes-were-only-a-matter-of-time",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:15:00+00:00"
+    },
+    {
+      "guid": "t3_1wycbtt",
+      "title": "Ninja Theory has started laying off staff",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wycbtt/ninja_theory_has_started_laying_off_staff/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-05T16:00:40+00:00"
     }
   ]
 }
