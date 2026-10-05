@@ -750,14 +750,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237146154",
-      "title": "Channing Dungey Poised For Expanded Post-Merger Role Overseeing Paramount & WBD Cable Networks \u2013 The Dish",
-      "url": "https://deadline.com/2026/10/channing-dungey-role-skydance-paramount-wbd-cable-networks-1237146154/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-05T01:16:51+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236898842",
       "title": "China Box Office: Crime Procedural \u2018Traces of Justice\u2019 Leads National Day Frame",
       "url": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-national-day-1236898842/",
@@ -772,6 +764,22 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-10-05T04:49:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146153",
+      "title": "A+E Global Media Hires Banijay Distribution Veteran Chris Stewart",
+      "url": "https://deadline.com/2026/10/ae-global-networks-hires-chris-stewart-banijay-veteran-1237146153/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T06:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236898849",
+      "title": "Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj\u2019s Debut Feature \u2018The Method\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-05T06:00:00+00:00"
     }
   ]
 }
