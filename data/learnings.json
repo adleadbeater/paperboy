@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Ace Combat 8 on PC Forces You to Buy the Old Belkan War Game \u2014 Console Players Get It Standalone",
-      "tag": "ace combat 8",
-      "posted_at": "2026-09-29T13:31:17.289362+00:00",
-      "urls": [
-        "https://www.eurogamer.net/ace-combat-8-the-belkan-war-pre-order-bonus-steam-community-reaction"
-      ],
-      "article_titles": [
-        "Controversy erupts around Ace Combat 8 on PC as bundled Belkan War re-release remains problematically attached to the new game, whereas it's standalone on console"
-      ]
-    },
-    {
-      "headline": "Naughty Dog Confirms Multiple New Last of Us Projects in Early Development That Will Expand the Canon",
-      "tag": "the last of us",
-      "posted_at": "2026-09-29T13:31:17.511851+00:00",
-      "urls": [
-        "https://kotaku.com/multiple-last-of-us-projects-in-early-stages-that-will-expand-the-canon-beyond-part-i-and-ii-2000738273"
-      ],
-      "article_titles": [
-        "Multiple Last Of Us Projects In \u2018Early Stages\u2019 That Will \u2018Expand\u2019 The Canon Beyond Part I And II"
-      ]
-    },
-    {
-      "headline": "Diablo 4 Will Keep Getting Seasonal Content Even After Diablo 5 Launches",
-      "tag": "diablo 4",
-      "posted_at": "2026-09-29T14:01:34.286510+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/diablo-4-will-still-get-seasonal-content-once-diablo-5s-out-just-like-diablo-2-and-3-do-game-director-says/"
-      ],
-      "article_titles": [
-        "Diablo 4 will still get seasonal content once Diablo 5\u2019s out, just like Diablo 2 and 3 do, game director says"
-      ]
-    },
-    {
       "headline": "Monster Hunter Wilds' Ascendance Expansion Promises Master Rank and Tougher Endgame",
       "tag": "monster hunter wilds",
       "posted_at": "2026-09-29T14:31:15.621975+00:00",
@@ -879,6 +846,19 @@
       "article_titles": [
         "Sega Appears To Rule Out Using GenAI For All In-Game Creativity"
       ]
+    },
+    {
+      "headline": "GameStop Is Now Openly Scalping Used PS5 Pros at $1,400 \u2014 and Admitting It's Intentional",
+      "tag": "ps5 pro",
+      "posted_at": "2026-10-06T14:31:05.872059+00:00",
+      "urls": [
+        "https://kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400-2000740923",
+        "https://www.pushsquare.com/news/2026/10/this-is-intentional-gamestop-to-start-scalping-used-ps5-pros-for-usd1500"
+      ],
+      "article_titles": [
+        "GameStop Is Now Selling Used PS5 Pros For $1400",
+        "'This Is Intentional': GameStop to Start Scalping Used PS5 Pros for $1,500"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1275,6 +1255,94 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-06T13:58:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000740928",
+      "title": "The Official Sonic Discord Server\u2019s Launch Went About As Poorly As You\u2019d Expect",
+      "url": "https://kotaku.com/sonic-hedgehog-discord-server-mod-team-rules-messages-2000740928",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T14:20:11+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000740923",
+      "title": "GameStop Is Now Selling Used PS5 Pros For $1400",
+      "url": "https://kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400-2000740923",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T14:00:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147828",
+      "title": "David Ellison, Ynon Kreiz Praise Staff, Lay Out Priorities For New Skydance: \u201cGetting Here Has Been Quite A Journey\u201d",
+      "url": "https://deadline.com/2026/10/david-ellison-skydance-merger-staff-memo-1237147828/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T14:15:44+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147780",
+      "title": "\u2018Dirty Dancing\u2019 Musical Heading To Broadway This Winter With Lionsgate Among Producers",
+      "url": "https://deadline.com/2026/10/dirty-dancing-musical-broadway-lionsgate-1237147780/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899241",
+      "title": "France Boosts Oscar Campaign Support as Industry Sounds Alarm Over Declining Exports",
+      "url": "https://variety.com/2026/film/global/france-oscar-campaign-support-declining-exports-1236899241/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T14:17:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236895020",
+      "title": "How David Ellison Won the Battle: Timeline of Paramount\u2019s Rocky Road to Acquiring Warner Bros. Discovery",
+      "url": "https://variety.com/2026/film/news/timeline-paramount-warner-bros-merger-skydance-1236895020/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T14:10:27+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207281",
+      "title": "Claim Two Major PS4 Games for Free Right Now, No PS Plus Required",
+      "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-no-ps-plus-required",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207095",
+      "title": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
+      "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207266",
+      "title": "1992's Ultra Gory PC-98 Horror Title Dead Of The Brain Is (Be)Heading To Steam",
+      "url": "https://www.timeextension.com/news/2026/10/1992s-ultra-gory-pc-98-horror-title-dead-of-the-brain-is-beheading-to-steam",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082423",
+      "title": "Gundam Rogue Orbit \u2018Gameplay Walkthrough\u2019 trailer",
+      "url": "https://www.gematsu.com/2026/10/gundam-rogue-orbit-gameplay-walkthrough-trailer",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T14:04:52+00:00"
+    },
+    {
+      "guid": "t3_1wz3hlp",
+      "title": "CONFIRMED: GameStop Lists Pre-Owned PS5 Pro for $1,400",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wz3hlp/confirmed_gamestop_lists_preowned_ps5_pro_for_1400/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T14:05:35+00:00"
     }
   ]
 }
