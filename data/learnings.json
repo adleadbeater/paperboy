@@ -1,41 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 5 Switch Mod Project Cancelled After Take-Two Legal Pressure",
-      "tag": "gta 5",
-      "posted_at": "2026-09-29T15:31:15.450749+00:00",
-      "urls": [
-        "https://kotaku.com/gta-5-modder-cancels-nintendo-switch-port-just-days-before-launch-after-previously-taunting-rockstar-i-am-thankful-for-take-twos-mercy-2000738284",
-        "https://www.gamespot.com/articles/gta-5-for-switch-mod-project-shuts-down-dev-thanks-take-two-for-its-mercy/"
-      ],
-      "article_titles": [
-        "GTA 5 Modder Cancels Nintendo Switch Port Just Days Before Launch After Previously Taunting Rockstar: \u2018I Am Thankful For Take-Two\u2019s Mercy\u2019",
-        "GTA 5 For Switch Mod Project Shuts Down, Dev Thanks Take-Two For Its \u201cMercy\u201d"
-      ]
-    },
-    {
-      "headline": "A Warhammer YouTuber Is Shutting Down After 10 Years \u2014 and Games Workshop Is Part of the Problem",
-      "tag": "warhammer / games workshop",
-      "posted_at": "2026-09-29T16:01:15.185771+00:00",
-      "urls": [
-        "https://www.ign.com/articles/warhammer-youtuber-pulls-the-plug-after-10-years-amid-games-workshop-takedowns-death-threats-and-doxxing-over-3d-printing-designs"
-      ],
-      "article_titles": [
-        "Warhammer YouTuber Pulls the Plug After 10 Years Amid Games Workshop Takedowns, Death Threats, and Doxxing Over 3D Printing Designs"
-      ]
-    },
-    {
-      "headline": "A New PS5 Jailbreak May Have Just Opened the Floodgates to Piracy",
-      "tag": "playstation 5",
-      "posted_at": "2026-09-29T16:01:15.419505+00:00",
-      "urls": [
-        "https://kotaku.com/new-ps5-jailbreak-exploit-works-on-systems-running-july-2026-firmware-2000738283"
-      ],
-      "article_titles": [
-        "A New PS5 Jailbreak May Have Just Opened The Floodgates To Piracy"
-      ]
-    },
-    {
       "headline": "GTA 6 Coverage From Game Informer Causes Chaos as Screenshots Get Datamined Before Article Goes Live",
       "tag": "gta 6",
       "posted_at": "2026-09-29T17:01:21.361232+00:00",
@@ -852,6 +817,57 @@
         "Official Sonic the Hedgehog Discord Gets Over 60,000 Members in Under a Day",
         "The Official Sonic Discord Server\u2019s Launch Went About As Poorly As You\u2019d Expect"
       ]
+    },
+    {
+      "headline": "Warner Bros. Games Is Now Part of Skydance as Paramount-WBD Merger Closes \u2014 and Layoffs Are Coming",
+      "tag": "warner bros. games",
+      "posted_at": "2026-10-06T16:01:20.585039+00:00",
+      "urls": [
+        "https://variety.com/2026/film/news/skydance-ceo-memo-layoffs-paramount-warner-bros-merger-1236901335/",
+        "https://www.hollywoodreporter.com/business/business-news/skydance-debt-warner-bros-paramount-1236723298/",
+        "https://deadline.com/2026/10/skydance-merger-paramount-warner-bros-discovery-1237147750/",
+        "https://www.hollywoodreporter.com/business/business-news/paramount-closes-warner-bros-deal-skydance-official-1236723233/",
+        "https://variety.com/2026/film/news/paramount-warner-bros-merger-officially-closes-skydance-david-ellison-1236900047/",
+        "https://www.gamespot.com/articles/warner-bros-games-now-belongs-to-skydance-but-company-makes-no-mention-of-that-in-big-announcement/",
+        "https://variety.com/2026/film/news/timeline-paramount-warner-bros-merger-skydance-1236895020/"
+      ],
+      "article_titles": [
+        "Skydance CEOs Acknowledge Layoffs Will Be Coming After Paramount-Warner Bros. Merger: Read the Full Memo",
+        "Skydance\u2019s $80 Billion Debt Bomb: How Will Warner Bros. and Paramount\u2019s New Owner Make It Work?",
+        "Skydancing At Last: $110B Merger Of Paramount And Warner Bros. Discovery Officially Closes",
+        "Done Deal: Paramount Completes Warner Bros. Takeover, Creating Hollywood Giant",
+        "Paramount-Warner Bros. $111 Billion Merger Officially Closes: \u2018Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,\u2019 David Ellison Says",
+        "Warner Bros. Games Now Belongs To Skydance, But Company Makes No Mention Of That In Big Announcement",
+        "How David Ellison Won the Battle: Timeline of Paramount\u2019s Rocky Road to Acquiring Warner Bros. Discovery"
+      ]
+    },
+    {
+      "headline": "Michael Bay in Talks to Return and Direct Next Transformers Movie, With Spielberg Back as Producer",
+      "tag": "transformers",
+      "posted_at": "2026-10-06T16:01:20.703952+00:00",
+      "urls": [
+        "https://www.ign.com/articles/michael-bay-in-talks-to-direct-next-transformers-film-steven-spielberg-returning-as-key-creative-producer",
+        "https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-transformers-new-movie-michael-bay-1236723336/",
+        "https://deadline.com/2026/10/steven-spielberg-transformers-movie-michael-bay-1237125679/",
+        "https://www.hollywoodreporter.com/movies/movie-news/steven-spielberg-transformers-new-movie-michael-bay-1236723336/"
+      ],
+      "article_titles": [
+        "Michael Bay in Talks to Direct Next Transformers Film, Steven Spielberg Returning as Key Creative Producer",
+        "Steven Spielberg Returns to \u2018Transformers\u2019 Franchise, Michael Bay in Talks to Direct for Paramount",
+        "Paramount Enlists Steven Spielberg In Primary Creative Producer Role For Next \u2018Transformers\u2019 Movie, With Michael Bay In Early Talks To Direct",
+        "Steven Spielberg Returns to \u2018Transformers\u2019 Franchise, Michael Bay in Talks to Direct for Paramount"
+      ]
+    },
+    {
+      "headline": "Nolan North Says He's \"110%\" Ready to Voice Nathan Drake in a New Uncharted Game",
+      "tag": "uncharted",
+      "posted_at": "2026-10-06T16:01:20.872188+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/"
+      ],
+      "article_titles": [
+        "Nolan North says he\u2019s \u2018110%\u2019 up for playing Nathan Drake in a new Uncharted game, \u2018if Sony wants to make money\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1664,6 +1680,110 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-10-06T15:00:00+00:00"
+    },
+    {
+      "guid": "5298622d-d4c8-46bb-a35b-09df163227e9",
+      "title": "Reebok Reveals Avatar: The Last Airbender Collection With 4 New Sneaker Designs",
+      "url": "https://www.ign.com/articles/reebok-reveals-avatar-the-last-airbender-collection-with-4-new-sneaker-designs",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T15:36:21+00:00"
+    },
+    {
+      "guid": "ccaa7547-9d31-48a3-b575-f07710e9959e",
+      "title": "Michael Bay in Talks to Direct Next Transformers Film, Steven Spielberg Returning as Key Creative Producer",
+      "url": "https://www.ign.com/articles/michael-bay-in-talks-to-direct-next-transformers-film-steven-spielberg-returning-as-key-creative-producer",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T15:35:08+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=247848",
+      "title": "Nolan North says he\u2019s \u2018110%\u2019 up for playing Nathan Drake in a new Uncharted game, \u2018if Sony wants to make money\u2019",
+      "url": "https://www.videogameschronicle.com/news/nolan-north-says-hes-110-up-for-playing-nathan-drake-in-a-new-uncharted-game-if-sony-wants-to-make-money/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T15:33:10+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+      "title": "\"Keep it family friendly\" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place",
+      "url": "https://www.eurogamer.net/sonic-the-hedgehog-official-discord-oh-no",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T15:43:55+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899689",
+      "title": "Military Docuseries \u2018The Watch: America\u2019s Nuclear Mission\u2019 Sets Limited Imax Release (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/the-watch-americas-nuclear-mission-docuseries-imax-run-1236899689/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236900016",
+      "title": "Michelle Dockery, Genevieve O\u2019Reilly, Quintessa Swindell Join Jessica Gunning in Netflix Jungle Drama \u2018Feral\u2019",
+      "url": "https://variety.com/2026/tv/global/jessica-gunning-michelle-dockery-netflix-feral-1236900016/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T15:57:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236901335",
+      "title": "Skydance CEOs Acknowledge Layoffs Will Be Coming After Paramount-Warner Bros. Merger: Read the Full Memo",
+      "url": "https://variety.com/2026/film/news/skydance-ceo-memo-layoffs-paramount-warner-bros-merger-1236901335/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T15:32:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723317",
+      "title": "Sharon Levy Named CEO of Fremantle Americas & Australia",
+      "url": "https://www.hollywoodreporter.com/business/business-news/sharon-levy-new-ceo-fremantle-americas-australia-1236723317/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723298",
+      "title": "Skydance\u2019s $80 Billion Debt Bomb: How Will Warner Bros. and Paramount\u2019s New Owner Make It Work?",
+      "url": "https://www.hollywoodreporter.com/business/business-news/skydance-debt-warner-bros-paramount-1236723298/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T15:43:24+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207288",
+      "title": "Warhammer's Take On Vampire Survivors Will Eat Our Free Time On Switch Next Month",
+      "url": "https://www.nintendolife.com/news/2026/10/warhammers-take-on-vampire-survivors-will-eat-our-free-time-on-switch-next-month",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124282",
+      "title": "Lego Sanrio Sets Teased for 2027",
+      "url": "https://www.siliconera.com/lego-sanrio-sets-teased-for-2027/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207290",
+      "title": "Kumagumi Is Releasing Halloween-Themed Metal Slug T-Shirts",
+      "url": "https://www.timeextension.com/news/2026/10/kumagumi-is-releasing-halloween-themed-metal-slug-t-shirts",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wz61k2",
+      "title": "Philip Holt: State of Decay 3 development didn't ramp up to 2022-2023.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wz61k2/philip_holt_state_of_decay_3_development_didnt/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T15:48:23+00:00"
     }
   ]
 }
