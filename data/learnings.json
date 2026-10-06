@@ -868,6 +868,34 @@
       "article_titles": [
         "Nolan North says he\u2019s \u2018110%\u2019 up for playing Nathan Drake in a new Uncharted game, \u2018if Sony wants to make money\u2019"
       ]
+    },
+    {
+      "headline": "Star Wars: Galactic Racer Is Out Now \u2014 Free for Amazon Prime Members",
+      "tag": "star wars: galactic racer",
+      "posted_at": "2026-10-06T16:31:17.557088+00:00",
+      "urls": [
+        "https://kotaku.com/star-wars-galactic-racer-is-out-today-and-amazon-prime-members-can-check-it-out-for-free-2000740982",
+        "https://variety.com/2026/gaming/news/gaming-news-roundup-october-5-1236899234/",
+        "https://www.gamesradar.com/games/racing/star-wars-galactic-racer-tips/",
+        "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racers-biggest-weakness-is-its-limited-multiplayer-and-its-already-getting-fixed"
+      ],
+      "article_titles": [
+        "Star Wars: Galactic Racer Is Out Today And Amazon Prime Members Can Check It Out For Free",
+        "\u2018Star Wars: Galactic Racer\u2019 Debuts on Amazon Luna Day and Date With Wide Release (Gaming News Roundup)",
+        "15 Star Wars Galactic racer tips for to help you takedown the competition",
+        "Star Wars: Galactic Racer's Biggest Weakness Is Its Limited Multiplayer, and It's Already Getting Fixed"
+      ]
+    },
+    {
+      "headline": "The PS5's Operating System Can Now Be Emulated on PC",
+      "tag": "playstation 5",
+      "posted_at": "2026-10-06T16:31:17.780625+00:00",
+      "urls": [
+        "https://kotaku.com/the-playstation-5s-operating-system-can-now-be-emulated-on-pc-2000740915"
+      ],
+      "article_titles": [
+        "The PlayStation 5\u2019s Operating System Can Now Be Emulated On PC"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -896,22 +924,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-06T12:46:57+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237147052",
-      "title": "James Corden & Ruth Jones\u2019 Apple Show \u2018The Choir\u2019 Reveals Cast & Guest Stars Hannah Waddingham, James McAvoy & Jim Broadbent",
-      "url": "https://deadline.com/2026/10/corden-jones-the-choir-apple-cast-hannah-waddingham-1237147052/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T12:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237147745",
-      "title": "France Appoints 99th Academy Awards Season Tzar",
-      "url": "https://deadline.com/2026/10/france-appoints-academy-awards-season-tzar-1237147745/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T12:28:50+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236897843",
@@ -1784,6 +1796,174 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-06T15:48:23+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/diablo-2-vr-mod",
+      "title": "Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series",
+      "url": "https://www.eurogamer.net/diablo-2-vr-mod",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:05:07+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000740982",
+      "title": "Star Wars: Galactic Racer Is Out Today And Amazon Prime Members Can Check It Out For Free",
+      "url": "https://kotaku.com/star-wars-galactic-racer-is-out-today-and-amazon-prime-members-can-check-it-out-for-free-2000740982",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:15:14+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000740915",
+      "title": "The PlayStation 5\u2019s Operating System Can Now Be Emulated On PC",
+      "url": "https://kotaku.com/the-playstation-5s-operating-system-can-now-be-emulated-on-pc-2000740915",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:56+00:00"
+    },
+    {
+      "guid": "jFGDduwCHjj36TrEM8UojB",
+      "title": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
+      "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:21:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147682",
+      "title": "Ojai Film Fest Sets Slate; Martin Sheen, Melissa McCarthy & Ben Falcone, Jeff & Beau Bridges",
+      "url": "https://deadline.com/2026/10/ojai-film-fest-sets-slate-martin-sheen-melissa-mccarthy-1237147682/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147747",
+      "title": "Skydance Bumps Pay, Extends Contracts For Top Execs; New Bonuses For WBD Brass",
+      "url": "https://deadline.com/2026/10/skydance-extends-employment-contracts-ellison-top-executives-1237147747/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:27:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148015",
+      "title": "Peri Gilpin To Play Brooke Shields\u2019 Sister In Acorn TV\u2019s \u2018You\u2019re Killing Me\u2019",
+      "url": "https://deadline.com/2026/10/peri-gilpin-brooke-shields-sister-acorn-tv-youre-killing-me-1237148015/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:18:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147981",
+      "title": "Natasha Ofili Signs With Established Artists Management",
+      "url": "https://deadline.com/2026/10/natasha-ofili-signs-established-artists-management-1237147981/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:02:38+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146315",
+      "title": "Will Smith & DJ Jazzy Jeff Scripted Series \u2018215\u2019 In Works As Part Of New Slate From Westbrook Studios & Malar Group",
+      "url": "https://deadline.com/2026/10/will-smith-dj-jazzy-jeff-series-215-westbrook-malar-1237146315/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146947",
+      "title": "UTA Signs Comedian Mark \u201cLil Mo Mozzarella\u201d Brucato",
+      "url": "https://deadline.com/2026/10/lil-mo-mozzarella-signs-uta-1237146947/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147769",
+      "title": "Michelle Dockery, Genevieve O\u2019Reilly, Quintessa Swindell & Dolly De Leon Join \u2018Baby Reindeer\u2019s Jessica Gunning In Netflix Drama Series \u2018Feral\u2019",
+      "url": "https://deadline.com/2026/10/michelle-dockery-joins-feral-tv-series-netflix-1237147769/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147876",
+      "title": "Sharon Levy Moves To Fremantle After Endemol Shine Exit",
+      "url": "https://deadline.com/2026/10/sharon-levy-fremantle-endemol-shine-exit-1237147876/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147885",
+      "title": "Semi-Formal Promotes Two; Sam Newman Now Co-Head Of Film & TV",
+      "url": "https://deadline.com/2026/10/semi-formal-productions-promotions-sam-newman-madolyn-tipton-1237147885/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899473",
+      "title": "Mario Lopez, Paris Hilton, Jesse Tyler Ferguson Join Microdrama Platform aTwist\u2019s October \u2018To Die For\u2019 Lineup (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/mario-lopez-paris-hilton-jesse-tyler-ferguson-atwist-1236899473/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899305",
+      "title": "\u2018Law & Order: SVU\u2019 Season 28 Premiere, Written 3 Months Ago, Tackles Gang Rape and Consent Law Amid Cornell 7 Case",
+      "url": "https://variety.com/2026/tv/news/law-and-order-svu-premiere-gang-rape-consent-cornell-7-case-1236899305/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236901530",
+      "title": "Fremantle Appoints Sharon Levy as Head of Americas and Australia",
+      "url": "https://variety.com/2026/tv/global/fremantle-sharon-levy-americas-australia-1236901530/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236720877",
+      "title": "Ricki Lake Returns to Acting in Lifetime Movie \u2018She Married Her Murderer: The Susan Cox Powell Story\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ricki-lake-acting-return-lifetime-susan-cox-powell-movie-1236720877/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "1909647",
+      "title": "Call Of Duty\u2019s Richtofen Actor Wants Him To Come Back, Says 2027\u2019s CoD Could Be From Sledgehammer",
+      "url": "https://www.gamespot.com/articles/call-of-dutys-richtofen-actor-wants-him-to-come-back-says-2027s-cod-could-be-from-sledgehammer/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T15:57:26+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207189",
+      "title": "'This Needs to Change': PS5 Influencer Regains Access to Account, But Admits 'Not Many Have My Reach'",
+      "url": "https://www.pushsquare.com/news/2026/10/this-needs-to-change-ps5-influencer-regains-access-to-account-but-admits-not-many-have-my-reach",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207280",
+      "title": "After Crazy Taxi's AI Drama, SEGA Says It's Being 'Very Cautious' About Using the Tech",
+      "url": "https://www.pushsquare.com/news/2026/10/after-crazy-taxis-ai-drama-sega-says-its-being-very-cautious-about-using-the-tech",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T16:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wz6u0b",
+      "title": "Some staff at Yellow Brick Games report they've been laid off",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wz6u0b/some_staff_at_yellow_brick_games_report_theyve/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T16:19:09+00:00"
     }
   ]
 }
