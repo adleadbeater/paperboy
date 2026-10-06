@@ -911,68 +911,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-      "title": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
-      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:21:52+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000740914",
-      "title": "Sega Appears To Rule Out Using GenAI For All In-Game Creativity",
-      "url": "https://kotaku.com/sega-genai-ai-crazy-taxi-world-tour-assets-tsuyoshi-saito-interview-2000740914",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:15:27+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899249",
-      "title": "LL Cool J Returns to the Big Apple In CBS\u2019 Solid and Steady \u2018NCIS: New York\u2019: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/ncis-new-york-review-cbs-ll-cool-j-1236899249/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:15:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236900047",
-      "title": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: \u2018Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,\u2019 David Ellison Says",
-      "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-officially-closes-skydance-david-ellison-1236900047/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:13:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899611",
-      "title": "Hasbro Opens Third \u2018Peppa Pig\u2019-Themed Cafe in China, Unveils New Details About Brazil\u2019s \u2018Transformers\u2019 Attraction (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/peppa-pig-play-cafe-china-transformers-ride-brazil-1236899611/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:01:32+00:00"
-    },
-    {
-      "guid": "1909556",
-      "title": "Steam Frame Gets VR Right Where So Many Others Went Wrong",
-      "url": "https://www.gamespot.com/articles/steam-frame-gets-vr-right-where-so-many-others-went-wrong/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T13:18:01+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-207275",
       "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace, and Sony Must Be Sweating",
       "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-06T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082329",
-      "title": "GrimKeep launches November 30",
-      "url": "https://www.gematsu.com/2026/10/grimkeep-launches-november-30",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T13:11:38+00:00"
     },
     {
       "guid": "c5813d9e-f149-4c6b-a8b2-9911bea5a7d6",
@@ -1973,6 +1917,102 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-06T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741026",
+      "title": "Excuse Me, Square Enix, Where The Hell Is Cid\u2019s Chest Hair In Final Fantasy VII Revelation?",
+      "url": "https://kotaku.com/final-fantasy-7-revelation-hot-springs-bathing-suits-2000741026",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:15:50+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000731076",
+      "title": "Strip Mahjong Game Producer Talks About Being \u2018Hopelessly Devoted To Those Girls\u2019 And \u2018Left Penniless\u2019 As Teen After Sequel Tops Japanese Steam Charts",
+      "url": "https://kotaku.com/strip-mahjong-game-producer-talks-about-being-hopelessly-devoted-to-those-girls-and-left-penniless-as-teen-after-sequel-tops-japanese-steam-charts-2000731076",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:00:09+00:00"
+    },
+    {
+      "guid": "gFNBPy9WtetZGCEwHQHiHK",
+      "title": "I've added scams to GTA 5, but I might have scammed myself",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-added-scams-to-gta-5-but-i-might-have-scammed-myself/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147879",
+      "title": "\u2018The Beast\u2019s Renny Harlin & Keith Kjarval Reteaming On Action Thriller \u2018Athina\u2019",
+      "url": "https://deadline.com/2026/10/renny-harlin-keith-kjarval-reteaming-athina-1237147879/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:26:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147977",
+      "title": "Marjoe Gortner Dies: \u2018Earthquake\u2019, \u2018Falcon Crest\u2019 Actor, Documentary Subject And Former Child Evangelist Was 82",
+      "url": "https://deadline.com/2026/10/marjoe-gortner-dead-1237147977/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:11:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236900982",
+      "title": "Tom Cruise Said He Doesn\u2019t Make Movies for \u2018Opening Weekend\u2019 Right Before \u2018Digger\u2019 Bombed: \u2018You Hope to Make a Film That Can Last\u2019",
+      "url": "https://variety.com/2026/film/news/tom-cruise-defends-digger-box-office-flop-opening-weekend-1236900982/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:12:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723495",
+      "title": "Shia LaBeouf Settles Lawsuit From FKA Twigs Over Illegal NDA",
+      "url": "https://www.hollywoodreporter.com/news/general-news/shia-labeouf-settles-lawsuit-from-fka-twigs-illegal-nda-1236723495/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:22:16+00:00"
+    },
+    {
+      "guid": "53TdoTq5Mo8CaykGKrkNB4",
+      "title": "Naughty Dog \"exists to sell Sony hardware,\" former Last of Us and Uncharted dev says",
+      "url": "https://www.gamesradar.com/games/the-last-of-us/naughty-dog-exists-to-sell-sony-hardware-former-last-of-us-and-uncharted-dev-says-so-it-doesnt-have-to-be-as-profit-driven-as-other-companies/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:00:28+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207295",
+      "title": "Rumour: Watch Dogs Legion to Receive Surprise PS5 Remake Next Year",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-watch-dogs-legion-to-receive-surprise-ps5-remake-next-year",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207293",
+      "title": "Nolan North Would '110%' Return for Nathan Drake in a New Uncharted Game",
+      "url": "https://www.pushsquare.com/news/2026/10/nolan-north-would-110percent-return-for-nathan-drake-in-a-new-uncharted-game",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:00:00+00:00"
+    },
+    {
+      "guid": "t3_1wz85ow",
+      "title": "Windows Central: Asha Sharma reiterates that Helix will be a \"family of devices\" at internal town hall",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wz85ow/windows_central_asha_sharma_reiterates_that_helix/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:09:52+00:00"
+    },
+    {
+      "guid": "t3_1wz8i4z",
+      "title": "A new PlayStation Portal model/revision has been certified by the Wi-Fi Alliance",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wz8i4z/a_new_playstation_portal_modelrevision_has_been/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:23:18+00:00"
     }
   ]
 }
