@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Double Fine Reveals First Game After Xbox Split: Thank You Bus Driver",
-      "tag": "double fine",
-      "posted_at": "2026-09-28T19:30:47.412378+00:00",
-      "urls": [
-        "https://www.eurogamer.net/double-fine-thank-you-bus-driver-xbox-release-date"
-      ],
-      "article_titles": [
-        "Double Fine's releasing its next game, Thank You Bus Driver, just months after splitting from Xbox"
-      ]
-    },
-    {
-      "headline": "Naughty Dog Confirms No New Intergalactic Reveal Until 2027 \u2014 Troy Baker Says It'll \"Blow Players' Minds\"",
-      "tag": "intergalactic: the heretic prophet",
-      "posted_at": "2026-09-29T13:01:11.035899+00:00",
-      "urls": [
-        "https://kotaku.com/troy-baker-promises-intergalactic-the-heretic-prophet-will-blow-players-minds-as-naughty-dog-confirms-no-new-reveal-until-2027-we-need-to-cook-for-just-a-little-bit-longer-2000738266"
-      ],
-      "article_titles": [
-        "Troy Baker Promises Intergalactic: The Heretic Prophet Will Blow Players\u2019 Minds As Naughty Dog Confirms No New Reveal Until 2027: \u2018We Need To Cook For Just A Little Bit Longer\u2019"
-      ]
-    },
-    {
-      "headline": "Konami Has a Silent Hill Lore Bible \u2014 and It's Keeping It Secret",
-      "tag": "silent hill",
-      "posted_at": "2026-09-29T13:01:11.227902+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/horror/konami-has-a-silent-hill-lore-bible-and-no-you-cant-see-it/"
-      ],
-      "article_titles": [
-        "Konami has a Silent Hill lore bible and no, you can't see it"
-      ]
-    },
-    {
       "headline": "Ace Combat 8 on PC Forces You to Buy the Old Belkan War Game \u2014 Console Players Get It Standalone",
       "tag": "ace combat 8",
       "posted_at": "2026-09-29T13:31:17.289362+00:00",
@@ -890,6 +857,28 @@
       "article_titles": [
         "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
       ]
+    },
+    {
+      "headline": "Xbox Elite Series 3 Controller Leaks With Upgraded Sticks and Haptics",
+      "tag": "xbox",
+      "posted_at": "2026-10-06T13:31:12.635039+00:00",
+      "urls": [
+        "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics"
+      ],
+      "article_titles": [
+        "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more"
+      ]
+    },
+    {
+      "headline": "Sega Rules Out Using Generative AI for In-Game Creativity",
+      "tag": "sega",
+      "posted_at": "2026-10-06T13:31:12.854243+00:00",
+      "urls": [
+        "https://kotaku.com/sega-genai-ai-crazy-taxi-world-tour-assets-tsuyoshi-saito-interview-2000740914"
+      ],
+      "article_titles": [
+        "Sega Appears To Rule Out Using GenAI For All In-Game Creativity"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1022,6 +1011,134 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-06T12:37:50+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "title": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
+      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:21:52+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000740914",
+      "title": "Sega Appears To Rule Out Using GenAI For All In-Game Creativity",
+      "url": "https://kotaku.com/sega-genai-ai-crazy-taxi-world-tour-assets-tsuyoshi-saito-interview-2000740914",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:15:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147043",
+      "title": "Lucy Hale To Headline \u2018Scarlett Holmes\u2019 Limited Series At Roku",
+      "url": "https://deadline.com/2026/10/lucy-hale-scarlett-holmes-roku-limited-series-1237147043/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147189",
+      "title": "Amazon Strikes Six-Year Global Deal For Emmys Worth More Than $20M Per Year, Will Make Event Free To View",
+      "url": "https://deadline.com/2026/10/amazon-emmys-six-year-global-deal-1237147189/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899249",
+      "title": "LL Cool J Returns to the Big Apple In CBS\u2019 Solid and Steady \u2018NCIS: New York\u2019: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/ncis-new-york-review-cbs-ll-cool-j-1236899249/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236900047",
+      "title": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: \u2018Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,\u2019 David Ellison Says",
+      "url": "https://variety.com/2026/film/news/paramount-warner-bros-merger-officially-closes-skydance-david-ellison-1236900047/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:13:25+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899611",
+      "title": "Hasbro Opens Third \u2018Peppa Pig\u2019-Themed Cafe in China, Unveils New Details About Brazil\u2019s \u2018Transformers\u2019 Attraction (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/peppa-pig-play-cafe-china-transformers-ride-brazil-1236899611/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:01:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236898818",
+      "title": "AI Studio Authors First, Backed by $10 Million, Pledges to Help Writers Faithfully Adapt Their Books",
+      "url": "https://variety.com/2026/biz/news/ai-studio-authors-first-10-million-writers-adapt-books-1236898818/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899347",
+      "title": "Lucy Hale to Star in Roku Limited Series \u2018Scarlett Holmes\u2019",
+      "url": "https://variety.com/2026/tv/news/lucy-hale-star-in-roku-limited-series-scarlett-holmes-1236899347/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899729",
+      "title": "A$AP Rocky Announces Four-Year Full-Tuition Roc Nation School Scholarship",
+      "url": "https://variety.com/2026/music/news/aap-rocky-roc-nation-school-scholarship-1236899729/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899957",
+      "title": "Emmys Move to Prime Video in Six-Year, Global Deal Worth Around $15 Million a Year",
+      "url": "https://variety.com/2026/tv/news/emmys-prime-video-six-year-deal-15-million-a-year-1236899957/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236722884",
+      "title": "Emmy Awards Enter Streaming Era: Prime Video, TV Academy Ink Six-Year Deal",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/emmy-awards-move-amazon-prime-video-1236722884/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "1909556",
+      "title": "Steam Frame Gets VR Right Where So Many Others Went Wrong",
+      "url": "https://www.gamespot.com/articles/steam-frame-gets-vr-right-where-so-many-others-went-wrong/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T13:18:01+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207020",
+      "title": "Preview: Nintendo Switch Sports Resort Is More Of The Same, But Better",
+      "url": "https://www.nintendolife.com/previews/nintendo-switch-sports-resort-is-more-of-the-same-but-better",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207275",
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace, and Sony Must Be Sweating",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082329",
+      "title": "GrimKeep launches November 30",
+      "url": "https://www.gematsu.com/2026/10/grimkeep-launches-november-30",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T13:11:38+00:00"
     }
   ]
 }
