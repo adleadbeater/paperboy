@@ -922,70 +922,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000740928",
-      "title": "The Official Sonic Discord Server\u2019s Launch Went About As Poorly As You\u2019d Expect",
-      "url": "https://kotaku.com/sonic-hedgehog-discord-server-mod-team-rules-messages-2000740928",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:20:11+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000740923",
-      "title": "GameStop Is Now Selling Used PS5 Pros For $1400",
-      "url": "https://kotaku.com/gamestop-is-now-selling-used-ps5-pros-for-1400-2000740923",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:46+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237147828",
-      "title": "David Ellison, Ynon Kreiz Praise Staff, Lay Out Priorities For New Skydance: \u201cGetting Here Has Been Quite A Journey\u201d",
-      "url": "https://deadline.com/2026/10/david-ellison-skydance-merger-staff-memo-1237147828/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:15:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899241",
-      "title": "France Boosts Oscar Campaign Support as Industry Sounds Alarm Over Declining Exports",
-      "url": "https://variety.com/2026/film/global/france-oscar-campaign-support-declining-exports-1236899241/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:17:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236895020",
-      "title": "How David Ellison Won the Battle: Timeline of Paramount\u2019s Rocky Road to Acquiring Warner Bros. Discovery",
-      "url": "https://variety.com/2026/film/news/timeline-paramount-warner-bros-merger-skydance-1236895020/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:10:27+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207281",
-      "title": "Claim Two Major PS4 Games for Free Right Now, No PS Plus Required",
-      "url": "https://www.pushsquare.com/news/2026/10/claim-two-major-ps4-games-for-free-right-now-no-ps-plus-required",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082423",
-      "title": "Gundam Rogue Orbit \u2018Gameplay Walkthrough\u2019 trailer",
-      "url": "https://www.gematsu.com/2026/10/gundam-rogue-orbit-gameplay-walkthrough-trailer",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T14:04:52+00:00"
-    },
-    {
-      "guid": "t3_1wz3hlp",
-      "title": "CONFIRMED: GameStop Lists Pre-Owned PS5 Pro for $1,400",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wz3hlp/confirmed_gamestop_lists_preowned_ps5_pro_for_1400/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T14:05:35+00:00"
-    },
-    {
       "guid": "95d0404c-a70d-414c-b20f-871ef1729a8b",
       "title": "GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 \u2014 a $500 Markup on Sony's RRP",
       "url": "https://www.ign.com/articles/gamestop-and-third-party-resellers-raise-used-ps5-pro-price-to-1400-a-500-markup-on-sonys-rrp",
@@ -1128,14 +1064,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-06T14:35:07+00:00"
-    },
-    {
-      "guid": "J5eNB24Rsq2r4w5MYQSMaY",
-      "title": "This is my favorite time of year to build Lego, and these must-have sets just got a price cut",
-      "url": "https://www.gamesradar.com/toys-collectibles/this-is-my-favorite-time-of-year-to-build-lego-and-these-must-have-sets-just-got-a-price-cut/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T14:29:41+00:00"
     },
     {
       "guid": "https://www.timeextension.com/#article-207145",
@@ -2080,6 +2008,102 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-10-06T17:52:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741044",
+      "title": "Overwatch\u2019s Latest Patch Kills One Of The Most Fun Team-Ups In The Game",
+      "url": "https://kotaku.com/overwatch-season-5-patch-notes-cassidy-jetpack-cat-2000741044",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T18:19:32+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741040",
+      "title": "Xbox\u2019s CEO Says The Brutal Reset Is Already Working: \u2018After An All-Time Low, We\u2019ve Started To Return To Growth\u2019",
+      "url": "https://kotaku.com/xboxs-ceo-says-the-brutal-reset-is-already-working-after-an-all-time-low-weve-started-to-return-to-growth-2000741040",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T18:17:08+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000740142",
+      "title": "Arc Raiders And The Finals Set For Movie, TV Adaptations",
+      "url": "https://kotaku.com/arc-raiders-and-the-finals-set-for-movie-tv-adaptations-2000740142",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T18:00:22+00:00"
+    },
+    {
+      "guid": "VBzFykZj5ej44Gcsoqxkh8",
+      "title": "Gears of War: E-Day review \u2014 terrific shooting buoys a sluggish campaign",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/gears-of-war-e-day-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:59:46+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236902647",
+      "title": "RedBird Ponied Up $4 Billion to Fund Paramount\u2019s Warner Bros. Discovery Takeover",
+      "url": "https://variety.com/2026/film/news/redbird-4-billion-investment-paramount-warner-bros-discovery-merger-1236902647/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T18:17:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723566",
+      "title": "David Ellison Rallies the Troops at Warner Bros.\u2019 Lot",
+      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-warner-bros-lot-1236723566/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T18:15:36+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124285",
+      "title": "Gundam Rogue Orbit Gameplay Trailer Shows Off a Mission",
+      "url": "https://www.siliconera.com/gundam-rogue-orbit-gameplay-trailer-shows-off-a-mission/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T18:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759210",
+      "title": "Lovely Runner\u2019s Song Ji Ho Announces October Wedding With Kim So Ri",
+      "url": "https://otakukart.com/lovely-runners-song-ji-ho-announces-october-wedding-with-kim-so-ri/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T18:03:56+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759214",
+      "title": "Lee Yoo Jin and Cha Gyeong Eun Announce November Wedding After Meeting on Her Directorial Debut",
+      "url": "https://otakukart.com/lee-yoo-jin-and-cha-gyeong-eun-announce-november-wedding-after-meeting-on-her-directorial-debut/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T18:02:25+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759212",
+      "title": "Kim Jong Min Announces Wife\u2019s Pregnancy, Reveals They\u2019re Expecting Their First Child",
+      "url": "https://otakukart.com/kim-jong-min-announces-wifes-pregnancy-reveals-theyre-expecting-their-first-child/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T18:00:58+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=620861",
+      "title": "D&D: The New Transmuter Wizard Subclass Is A Shapeshifting Master Of Magic",
+      "url": "https://www.belloflostsouls.net/2026/10/dd-the-new-transmuter-wizard-subclass-is-a-shapeshifting-master-of-magic.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T18:18:11+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/the-warhammer-survivors-second-open-demo-is-here/",
+      "title": "The Warhammer Survivors Second Open Demo Is Here",
+      "url": "https://www.tabletopbattles.com/the-warhammer-survivors-second-open-demo-is-here/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:56:01+00:00"
     }
   ]
 }
