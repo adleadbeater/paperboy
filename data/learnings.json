@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The New Resident Evil Movie Crosses $100M Domestic in Under Two Weeks",
-      "tag": "resident evil",
-      "posted_at": "2026-09-29T17:05:48.033289+00:00",
-      "urls": [
-        "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/",
-        "https://www.pcgamer.com/movies-tv/creggers-resident-evil-film-is-already-the-3rd-highest-grossing-re-film-with-over-usd100-million-at-the-domestic-box-office-in-under-2-weeks/"
-      ],
-      "article_titles": [
-        "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks",
-        "Cregger's Resident Evil film is already the 3rd highest grossing RE film with over $100 million at the domestic box office in under 2 weeks"
-      ]
-    },
-    {
       "headline": "Mecha PvPvE Game Shuts Down After Two Years \u2014 But an Offline Mode May Keep It Alive",
       "tag": "",
       "posted_at": "2026-09-29T19:31:17.715910+00:00",
@@ -905,139 +892,35 @@
       "article_titles": [
         "BBC Reveals New Doctor Who Spinoff Starring a 'Young Doctor' With Blue Hair and a Robot Toaster Sidekick"
       ]
+    },
+    {
+      "headline": "D&D and Magic: The Gathering Workers Are Unionizing",
+      "tag": "wizards of the coast",
+      "posted_at": "2026-10-06T18:01:27.178792+00:00",
+      "urls": [
+        "https://www.enworld.org/threads/dungeons-dragons-is-unionizing.720898/",
+        "https://kotaku.com/the-dungeons-and-dragons-and-magic-the-gathering-teams-are-forming-a-union-2000741031"
+      ],
+      "article_titles": [
+        "Dungeons & Dragons is unionizing!",
+        "The Dungeons & Dragons And Magic: The Gathering Teams Are Forming A Union"
+      ]
+    },
+    {
+      "headline": "A Warship Game Apparently Stole a Real Nonsensical Aircraft Design and Is Now Selling It for $700",
+      "tag": "\u2014",
+      "posted_at": "2026-10-06T18:01:27.414051+00:00",
+      "urls": [
+        "https://kotaku.com/modern-warships-artstorm-plagiarism-alex-brady-war-thunder-2000740997"
+      ],
+      "article_titles": [
+        "Warship Game Steals Nonsensical Aircraft Design And Then Tries To Sell It In-Game For $700"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "c5813d9e-f149-4c6b-a8b2-9911bea5a7d6",
-      "title": "Modern Warships Dev Causes Actual Art Storm After Plagiarizing Ship Design",
-      "url": "https://www.ign.com/articles/modern-warships-dev-causes-actual-art-storm-after-plagiarizing-ship-design",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:36:59+00:00"
-    },
-    {
-      "guid": "https://www.videogameschronicle.com/?p=247832",
-      "title": "State of Decay studio boss says he was \u2018irresponsibly transparent\u2019 to staff to make layoffs easier to take",
-      "url": "https://www.videogameschronicle.com/news/state-of-decay-studio-boss-says-he-was-irresponsibly-transparent-to-staff-to-make-layoffs-easier-to-take/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:46:59+00:00"
-    },
-    {
-      "guid": "https://www.videogameschronicle.com/?p=247831",
-      "title": "Two months after announcing layoff plans, Supermassive Games has laid off \u2018more than 70\u2019 staff",
-      "url": "https://www.videogameschronicle.com/news/two-months-after-announcing-layoff-plans-supermassive-games-has-laid-off-more-than-70-staff/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:42:37+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000740918",
-      "title": "It\u2019s A Miracle That Gears Of War: E-Day Looks As Good As It Does On Xbox Series S And A Clever SSD Hack Made It All Possible",
-      "url": "https://kotaku.com/its-a-miracle-that-gears-of-war-e-day-looks-as-good-as-it-does-on-xbox-series-s-and-a-clever-ssd-hack-made-it-all-possible-2000740918",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:45:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237146878",
-      "title": "NHL All-Star P.K. Subban To Star In & Produce Canadian Animated Ice Hockey Series \u2018Screech Owls\u2019 For CBC, Radio-Canada & TFO",
-      "url": "https://deadline.com/2026/10/screech-owls-animated-series-pk-subban-1237146878/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237147176",
-      "title": "MS NOW Hosts To Anchor From Key Battleground States In Final Month Before Midterms",
-      "url": "https://deadline.com/2026/10/ms-now-midterm-battleground-states-1237147176/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237147701",
-      "title": "Netflix Appoints IMG To Produce FIFA Women\u2019s World Cup 2027",
-      "url": "https://deadline.com/2026/10/netflix-appoints-img-fifa-womens-world-cup-2027-1237147701/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899887",
-      "title": "\u2018Dirty Dancing: The Musical\u2019 Sets 2027 Broadway Run",
-      "url": "https://variety.com/2026/legit/news/dirty-dancing-the-musical-broadway-run-1236899887/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899990",
-      "title": "London Film Festival Director on Why the Event Has Become Awards Season\u2019s Unofficial Starter Gun: \u2018The Whole World Is Here\u2019",
-      "url": "https://variety.com/2026/film/festivals/london-film-festival-director-awards-seasons-starter-gun-1236899990/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236900048",
-      "title": "\u2018All\u2019s Fair\u2019 Season 2 to Launch From Rome Film Festival With Kim Kardashian, Naomi Watts, Niecy Nash-Betts and Sarah Paulson Attending",
-      "url": "https://variety.com/2026/tv/festivals/alls-fair-season-2-premiere-rome-film-fest-kim-kardashian-1236900048/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:51:04+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236722754",
-      "title": "Jason Sudeikis Goes One-on-One With WNBA Great Breanna Stewart",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/jason-sudeikis-wnba-breanna-stewart-interview-1236722754/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236722969",
-      "title": "\u2018Dirty Dancing: The Musical\u2019 Is Coming to Broadway",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/dirty-dancing-the-musical-coming-broadway-1236722969/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "1909592",
-      "title": "Warner Bros. Games Now Belongs To Skydance, But Company Makes No Mention Of That In Big Announcement",
-      "url": "https://www.gamespot.com/articles/warner-bros-games-now-belongs-to-skydance-but-company-makes-no-mention-of-that-in-big-announcement/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T13:55:19+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207274",
-      "title": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-didnt-swerve-product-growth-expert-comments-on-zelda-vs-gta-6",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T13:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124275",
-      "title": "Official Sonic the Hedgehog Discord Gets Over 60,000 Members in Under a Day",
-      "url": "https://www.siliconera.com/official-sonic-the-hedgehog-discord-gets-over-60000-members-in-under-a-day/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1048906",
-      "title": "Warhammer Survivors launches November 10",
-      "url": "https://www.gematsu.com/2026/10/warhammer-survivors-launches-november-10",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T13:58:40+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000740928",
       "title": "The Official Sonic Discord Server\u2019s Launch Went About As Poorly As You\u2019d Expect",
@@ -1063,14 +946,6 @@
       "published_dt": "2026-10-06T14:15:44+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237147780",
-      "title": "\u2018Dirty Dancing\u2019 Musical Heading To Broadway This Winter With Lionsgate Among Producers",
-      "url": "https://deadline.com/2026/10/dirty-dancing-musical-broadway-lionsgate-1237147780/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236899241",
       "title": "France Boosts Oscar Campaign Support as Industry Sounds Alarm Over Declining Exports",
       "url": "https://variety.com/2026/film/global/france-oscar-campaign-support-declining-exports-1236899241/",
@@ -1093,22 +968,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-06T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207095",
-      "title": "Warhammer's Vampire Survivors-Like Brings Insane Pixel Action to PS5 in November",
-      "url": "https://www.pushsquare.com/news/2026/10/warhammers-vampire-survivors-like-brings-insane-pixel-action-to-ps5-in-november",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207266",
-      "title": "1992's Ultra Gory PC-98 Horror Title Dead Of The Brain Is (Be)Heading To Steam",
-      "url": "https://www.timeextension.com/news/2026/10/1992s-ultra-gory-pc-98-horror-title-dead-of-the-brain-is-beheading-to-steam",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T14:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1082423",
@@ -2005,6 +1864,222 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-06T17:30:00+00:00"
+    },
+    {
+      "guid": "7134ff27-5f38-4fc8-851f-d6f4e388501e",
+      "title": "The Game of Thrones Complete Series 4K Box Set Drops Under $100 for the First Time Ever",
+      "url": "https://www.ign.com/articles/the-game-of-thrones-complete-series-4k-uhd-box-set-deal-prime-big-deal-days-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:45:00+00:00"
+    },
+    {
+      "guid": "1e0b19e6-c855-4392-8e8d-dfb4b595aa48",
+      "title": "Amazon Restocks Rare Pok\u00e9mon TCG Sets for Prime Day",
+      "url": "https://www.ign.com/articles/amazon-restocks-rare-pokmon-tcg-sets-for-prime-day",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:30:00+00:00"
+    },
+    {
+      "guid": "04be4d2d-a140-47ca-8dc4-6eeffa9db541",
+      "title": "Battlefield 6 Resurrects the Corpse of Dead Space With The Marker Tease",
+      "url": "https://www.ign.com/articles/battlefield-6-resurrects-dead-space",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:28:22+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741031",
+      "title": "The Dungeons & Dragons And Magic: The Gathering Teams Are Forming A Union",
+      "url": "https://kotaku.com/the-dungeons-and-dragons-and-magic-the-gathering-teams-are-forming-a-union-2000741031",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:44:33+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000740997",
+      "title": "Warship Game Steals Nonsensical Aircraft Design And Then Tries To Sell It In-Game For $700",
+      "url": "https://kotaku.com/modern-warships-artstorm-plagiarism-alex-brady-war-thunder-2000740997",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:30:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147792",
+      "title": "ABC Tells Judge That Donald Trump\u2019s Regulatory Threats Continue To Chill Its Speech, But Network Faces Jurisdictional Hurdle In FCC Lawsuit",
+      "url": "https://deadline.com/2026/10/abc-fcc-trump-court-hearing-1237147792/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:37:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236903197",
+      "title": "Busta Rhymes Breaks Down \u2018Dillagence II\u2019 Album and Writing to J Dilla Beats in Grammy Museum Q&A With Anderson .Paak",
+      "url": "https://variety.com/2026/music/news/busta-rhymes-discusses-dillagence-ii-j-dilla-grammy-museum-1236903197/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:53:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236897800",
+      "title": "Crunchyroll\u2019s Inaugural Anime Future Forum Hopes to Connect Fans and Creators",
+      "url": "https://variety.com/2026/biz/news/crunchyroll-anime-future-forum-1236897800/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:36:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236902751",
+      "title": "Warner Bros. Water Tower Already Repainted to Add \u2018A Skydance Corporation\u2019 After Merger Closes",
+      "url": "https://variety.com/2026/film/news/warner-bros-water-tower-repainted-skydance-corporation-merger-1236902751/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:32:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236902199",
+      "title": "Record Store Day Black Friday 2026 Lineup Unveiled: Noah Kahan, Katseye, Sombr, Springsteen, \u2018Wicked,\u2019 \u2018KPop Demon Hunters\u2019 and 180 More Exclusives",
+      "url": "https://variety.com/2026/music/news/record-store-day-black-friday-2026-vinyl-noah-kahan-katseye-1236902199/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:30:32+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236722312",
+      "title": "BBC Releases \u2018Blue Planet III\u2019 Trailer at London Premiere With Blue Carpet, Splashy Piccadilly Lights Takeover",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bbc-blue-planet-iii-trailer-released-piccadilly-lights-event-1236722312/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236722065",
+      "title": "\u2018Cupertino\u2019 Review: Robert and Michelle King Tackle Big Tech in Their Latest Broadcast Winner",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/cupertino-review-robert-michelle-king-cbs-1236722065/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:36:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723364",
+      "title": "Zhang Yimou Teases Chinese \u2018Three-Body Problem\u2019 Movie at Busan Film Festival\u2019s Star-Packed Opening",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/zhang-yimou-chinese-three-body-problem-movi-1236723364/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:32:19+00:00"
+    },
+    {
+      "guid": "YGWbeFPPrKYdktiHznfpqX",
+      "title": "RuneScape devs apologize for plan to reset and divide the MMO with Reignited servers",
+      "url": "https://www.gamesradar.com/games/mmo/runescape-devs-apologize-for-plan-to-reset-and-divide-the-mmo-we-have-made-you-as-existing-players-feel-like-you-are-no-longer-our-focus/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:31:44+00:00"
+    },
+    {
+      "guid": "1909724",
+      "title": "Razer\u2019s Wolverine V4 Controller Is Overkill For Most Gamers, And That\u2019s The Point",
+      "url": "https://www.gamespot.com/articles/razers-wolverine-v4-controller-is-overkill-for-most-gamers-and-thats-the-point/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:49:46+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207298",
+      "title": "Marvel Tokon Will Fully Reveal First DLC Fighter Phoenix Cyclops This Week",
+      "url": "https://www.pushsquare.com/news/2026/10/marvel-tokon-will-fully-reveal-first-dlc-fighter-phoenix-cyclops-this-week",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207297",
+      "title": "Space Harrier Fans, You Need to Keep an Eye on This PS5 Arcade Shooter",
+      "url": "https://www.pushsquare.com/news/2026/10/space-harrier-fans-you-need-to-keep-an-eye-on-this-ps5-arcade-shooter",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759230",
+      "title": "Jang Jae In Signs With Niche Music, Begins a New Chapter in Her Career",
+      "url": "https://otakukart.com/jang-jae-in-signs-with-niche-music-begins-a-new-chapter-in-her-career/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:59:17+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759220",
+      "title": "AND2BLE Announces First Comeback With 2nd Mini Album \u201cSequence 02: Attraction\u201d",
+      "url": "https://otakukart.com/and2ble-announces-first-comeback-with-2nd-mini-album-sequence-02-attraction/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:57:15+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759232",
+      "title": "NCT WISH Reveals B-Side Details for 4th Mini Album I SPY",
+      "url": "https://otakukart.com/nct-wish-reveals-b-side-details-for-4th-mini-album-i-spy/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:55:54+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759216",
+      "title": "The Ordinary Jackpot Hits New Ratings High as Between Steps Makes Its Debut",
+      "url": "https://otakukart.com/the-ordinary-jackpot-hits-new-ratings-high-as-between-steps-makes-its-debut/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:51:38+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759218",
+      "title": "BABYMONSTER Sets Surprise October Comeback With Mysterious Teaser",
+      "url": "https://otakukart.com/babymonster-sets-surprise-october-comeback-with-mysterious-teaser/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:47:56+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759222",
+      "title": "NewJeans\u2019 \u201cSuper Shy\u201d Surpasses 300 Million Views, Becomes Group\u2019s 2nd MV to Reach Milestone",
+      "url": "https://otakukart.com/newjeans-super-shy-surpasses-300-million-views-becomes-groups-2nd-mv-to-reach-milestone/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:43:46+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759224",
+      "title": "Han So Hee Jokingly Asks Why She Was Left Out of The Intern Cast Photos",
+      "url": "https://otakukart.com/han-so-hee-jokingly-asks-why-she-was-left-out-of-the-intern-cast-photos/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:40:50+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759226",
+      "title": "BTS Jimin Faces Mixed Reactions After New Group Photos With V, Jungkook and J-Hope",
+      "url": "https://otakukart.com/bts-jimin-faces-mixed-reactions-after-new-group-photos-with-v-jungkook-and-j-hope/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:38:23+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759228",
+      "title": "aespa\u2019s Giselle Faces Fresh Backlash After Being Spotted With Controversial Model",
+      "url": "https://otakukart.com/aespas-giselle-faces-fresh-backlash-after-being-spotted-with-controversial-model/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:36:11+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing.720898/",
+      "title": "Dungeons & Dragons is unionizing!",
+      "url": "https://www.enworld.org/threads/dungeons-dragons-is-unionizing.720898/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-06T17:52:00+00:00"
     }
   ]
 }
