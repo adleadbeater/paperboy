@@ -911,28 +911,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.pushsquare.com/#article-207275",
-      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace, and Sony Must Be Sweating",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-06T13:30:00+00:00"
-    },
-    {
       "guid": "c5813d9e-f149-4c6b-a8b2-9911bea5a7d6",
       "title": "Modern Warships Dev Causes Actual Art Storm After Plagiarizing Ship Design",
       "url": "https://www.ign.com/articles/modern-warships-dev-causes-actual-art-storm-after-plagiarizing-ship-design",
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-10-06T13:36:59+00:00"
-    },
-    {
-      "guid": "8b7e69b2-417c-434e-841b-3793fc0323a0",
-      "title": "For Prime Day Only, This 2026 TV Packs in All the Features a Gamer Needs at a Supremely Affordable Price",
-      "url": "https://www.ign.com/articles/hisense-4k-tv-deal-amazon-october-prime-day-sale-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-06T13:30:00+00:00"
     },
     {
       "guid": "https://www.videogameschronicle.com/?p=247832",
@@ -2013,6 +1997,14 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-06T17:23:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236902192",
+      "title": "Noel Gallagher Explains His Mostly Silent Reunion With Liam in Unseen Footage From Oasis Tour Doc: \u2018Family Is Different, You Don\u2019t Have to Say Anything\u2019",
+      "url": "https://variety.com/2026/film/global/noel-gallagher-explains-oasis-reunion-family-is-different-1236902192/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-06T17:30:00+00:00"
     }
   ]
 }
