@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Deadlock's New Map Is a Stunning Visual Overhaul",
-      "tag": "deadlock",
-      "posted_at": "2026-09-30T14:31:30.921475+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/moba/holy-hell-deadlocks-new-map-looks-absolutely-beautiful/"
-      ],
-      "article_titles": [
-        "Holy hell\u2014Deadlock's new map looks absolutely beautiful"
-      ]
-    },
-    {
       "headline": "Pok\u00e9mon Legends: Z-A Is Getting a Dedicated Switch 2 Physical Release Next Month",
       "tag": "pok\u00e9mon legends: z-a",
       "posted_at": "2026-09-30T16:01:17.177055+00:00",
@@ -905,6 +894,17 @@
         "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
         "State Of Decay 3 Was Announced Early To Keep Undead Labs On Microsoft\u2019s Radar"
       ]
+    },
+    {
+      "headline": "Mafia 2 and Mafia 3 Definitive Editions Leak for PS5 and Xbox Series X/S",
+      "tag": "mafia",
+      "posted_at": "2026-10-07T15:01:16.398216+00:00",
+      "urls": [
+        "https://www.ign.com/articles/mafia-2-mafia-3-definitive-edition-leaked"
+      ],
+      "article_titles": [
+        "Mafia 2 and Mafia 3 Could Be Set for PS5 and Xbox Series Upgrades After Definitive Editions Leak Online"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1301,6 +1301,158 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-07T14:01:26+00:00"
+    },
+    {
+      "guid": "5e93694d-f9c1-45b3-aa4a-f7ed9b0092dc",
+      "title": "Mafia 2 and Mafia 3 Could Be Set for PS5 and Xbox Series Upgrades After Definitive Editions Leak Online",
+      "url": "https://www.ign.com/articles/mafia-2-mafia-3-definitive-edition-leaked",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:37:19+00:00"
+    },
+    {
+      "guid": "292a7281-cdaf-4758-8513-21f0ffcbf287",
+      "title": "\u2018Why Hasn\u2019t Someone Thought About That Before?\u2019 \u2013 How Star Wars: Galactic Racer Solves One of Driving Games\u2019 Biggest Problems",
+      "url": "https://www.ign.com/articles/how-star-wars-galactic-racer-solves-driving-games-biggest-problem",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741098",
+      "title": "AI Bro Defends Sloppily Reverse-Engineering PlayStation Homebrew Tool Without Permission By Invoking \u2018Freedom Of Speech\u2019",
+      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:36:16+00:00"
+    },
+    {
+      "guid": "C5HGKZSDYjK6DFsMmy4PBJ",
+      "title": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make",
+      "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:42:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148993",
+      "title": "Toby Emmerich Joins FilmNation Entertainment\u2019s Infrared As Consultant",
+      "url": "https://deadline.com/2026/10/toby-emmerich-filmnation-infrared-1237148993/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148982",
+      "title": "Tradition Pictures Sets Multi-Project Partnership With Kenan Thompson\u2019s Artists For Artists; Mark Canton, James Maslow & Joseph Sikora Join Advisory Board",
+      "url": "https://deadline.com/2026/10/kenan-thompson-tradition-pictures-tv-partnership-1237148982/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:40:56+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904243",
+      "title": "MK2 Films Acquires Dardenne Brothers, Archipel 35 Film Library to Expand Its Heritage Footprint",
+      "url": "https://variety.com/2026/film/global/mk2-films-dardenne-brothers-archipel-35-film-library-heritage-1236904243/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:59:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236903907",
+      "title": "Fox News Puts Spotlight on News Team as Midterm Elections Approach",
+      "url": "https://variety.com/2026/tv/news/fox-news-midterm-elections-jay-wallace-bret-baier-1236903907/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:50:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904389",
+      "title": "Wall Street Skittish on Skydance as Stock Drops Further Post-Merger",
+      "url": "https://variety.com/2026/biz/news/wall-street-skittish-skydance-stock-drops-1236904389/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:46:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899688",
+      "title": "ATX TV Festival Sets \u2018Sweet 16\u2019 Theme for 2027 Lineup With \u2018Revenge\u2019 Reunion, \u2018Freaks and Geeks\u2019 Pilot Reading",
+      "url": "https://variety.com/2026/tv/news/atx-tv-festival-2027-revenge-reunion-freaks-and-geeks-1236899688/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724236",
+      "title": "Pixar, Lionsgate and Paramount Nab $100 Million in California Tax Credits",
+      "url": "https://www.hollywoodreporter.com/business/business-news/pixar-lionsgate-paramount-california-tax-credits-1236724236/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724287",
+      "title": "\u2018The Cadburys\u2019: BritBox Drops First Look at Chocolate Empire Drama (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-cadburys-britbox-chocolate-tv-show-series-show-regbo-1236724287/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:00:00+00:00"
+    },
+    {
+      "guid": "iKXWoqZNgtGYQdcNBRGHyJ",
+      "title": "Former Halo art director claps back at founding Xbox member for implying 343 Industries had a \"laziness\" problem",
+      "url": "https://www.gamesradar.com/games/halo/former-halo-art-director-claps-back-at-founding-xbox-member-for-implying-343-industries-had-a-laziness-problem-it-isnt-accurate/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T14:47:08+00:00"
+    },
+    {
+      "guid": "8ZPFASAAbfwY8jRAgyX3ZG",
+      "title": "Set up the perfect Halloween party with these discounted horror board games",
+      "url": "https://www.gamesradar.com/games/board-games/set-up-the-perfect-halloween-party-with-these-discounted-horror-board-games/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T14:36:06+00:00"
+    },
+    {
+      "guid": "3a4XAXiduNZmscPTScoLHF",
+      "title": "30 Prime Day Lego deals under $30",
+      "url": "https://www.gamesradar.com/toys-collectibles/30-lego-sets-under-usd30-i-searched-through-the-prime-day-sales-to-bring-you-the-best-cheap-lego-kits/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T14:35:36+00:00"
+    },
+    {
+      "guid": "pcvD24mAJGDRCnsLNiJ9Ag",
+      "title": "Silent Hill Townfall's real hero is hiding in plain sight",
+      "url": "https://www.gamesradar.com/games/silent-hill/silent-hill-townfalls-real-hero-is-hiding-in-plain-sight/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T14:28:29+00:00"
+    },
+    {
+      "guid": "1910840",
+      "title": "GTA 6 Won\u2019t Make You \u201cAll-Powerful\u201d Like GTA 5 Did",
+      "url": "https://www.gamespot.com/articles/gta-6-wont-make-you-all-powerful-like-gta-5-did/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T14:35:16+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207335",
+      "title": "PS5 Fans Think They May Have Found Evidence of an Enhanced PS Portal",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-fans-think-they-may-have-found-evidence-of-an-enhanced-ps-portal",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124352",
+      "title": "Pokemon Home Works With Pokemon FireRed and LeafGreen Switch Now",
+      "url": "https://www.siliconera.com/pokemon-home-works-with-pokemon-firered-and-leafgreen-switch-now/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T15:00:00+00:00"
     }
   ]
 }
