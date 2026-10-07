@@ -1,50 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Mecha PvPvE Game Shuts Down After Two Years \u2014 But an Offline Mode May Keep It Alive",
-      "tag": "",
-      "posted_at": "2026-09-29T19:31:17.715910+00:00",
-      "urls": [
-        "https://kotaku.com/forgotten-pvpve-mecha-game-ending-service-after-just-two-years-but-an-offline-mode-could-save-it-2000738089"
-      ],
-      "article_titles": [
-        "Forgotten PvPvE Mecha Game Ending Service After Just Two Years, But An Offline Mode Could Save It"
-      ]
-    },
-    {
-      "headline": "A New Limited Naruto Anime Series Is Coming \u2014 and It's Debuting at NYCC 2026",
-      "tag": "naruto",
-      "posted_at": "2026-09-29T19:31:17.818285+00:00",
-      "urls": [
-        "https://www.siliconera.com/new-naruto-limited-anime-series-will-appear-at-nycc-2026/"
-      ],
-      "article_titles": [
-        "New Naruto Limited Anime Series Will Appear at NYCC 2026"
-      ]
-    },
-    {
-      "headline": "You Can Unlock a Free Switch 2 Upgrade for The Witcher 3 by Borrowing an Old Physical Copy",
-      "tag": "the witcher 3",
-      "posted_at": "2026-09-30T00:30:40.322160+00:00",
-      "urls": [
-        "https://kotaku.com/you-can-get-a-free-digital-copy-of-the-witcher-3-remastered-on-switch-2-if-you-just-borrow-an-old-physical-switch-copy-of-the-rpg-2000738492"
-      ],
-      "article_titles": [
-        "You Can Get A Free Digital Copy Of The Witcher 3 Remastered  On Switch 2 If You Just Borrow An Old Physical Switch Copy Of The RPG"
-      ]
-    },
-    {
-      "headline": "Control Resonant Devs Made a \"Conscious Decision\" to Ditch Yellow Paint Navigation",
-      "tag": "control resonant",
-      "posted_at": "2026-09-30T13:31:04.897258+00:00",
-      "urls": [
-        "https://www.eurogamer.net/control-resonant-yellow-paint-conscious-decision-marvels-wolverine"
-      ],
-      "article_titles": [
-        "As handholding mechanics come under fire elsewhere, Control Resonant devs confirm they made a \"conscious decision\" not to use yellow paint"
-      ]
-    },
-    {
       "headline": "Grasshopper Manufacture Breaks Free from NetEase, Goes Indie Again",
       "tag": "grasshopper manufacture",
       "posted_at": "2026-09-30T14:01:10.745083+00:00",
@@ -927,58 +883,192 @@
       "article_titles": [
         "Previous Game Pass Strategy Sent Xbox Into 'Freefall,' CEO Asha Sharma Reportedly Tells Staff"
       ]
+    },
+    {
+      "headline": "Monster Hunter Rise Is Coming to iOS and Android \u2014 But Only If You Have Netflix",
+      "tag": "monster hunter rise",
+      "posted_at": "2026-10-07T13:31:12.256640+00:00",
+      "urls": [
+        "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix"
+      ],
+      "article_titles": [
+        "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription"
+      ]
+    },
+    {
+      "headline": "Forza Horizon 6 May Have Been Delayed on PS5 Despite Playground's Denials",
+      "tag": "forza horizon 6",
+      "posted_at": "2026-10-07T13:31:12.337888+00:00",
+      "urls": [
+        "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027"
+      ],
+      "article_titles": [
+        "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237148403",
-      "title": "Skydance Co-CEO On Prospect Of TV Studios Merging: \u201cWe\u2019re Not Looking To Reduce Output Production\u201d",
-      "url": "https://deadline.com/2026/10/skydance-tv-studios-merging-warner-bros-cbs-studios-ptvs-1237148403/",
+      "guid": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
+      "title": "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription",
+      "url": "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:27:42+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+      "title": "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't",
+      "url": "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:22:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741133",
+      "title": "10 Hours With Jonathan Blow\u2019s New Puzzle Game Order Of The Sinking Star",
+      "url": "https://kotaku.com/i-love-intricate-puzzles-but-jonathan-blows-latest-block-pusher-is-complicated-2000741133",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:00:49+00:00"
+    },
+    {
+      "guid": "SrpMZfTF4x4vdEHtY7EJtb",
+      "title": "Lenovo's Legion Go S has dropped by 14% this Prime Day, beating the Steam Deck in price and performance",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/lenovos-legion-go-s-has-dropped-by-14-percent-this-prime-day-beating-the-steam-deck-in-price-and-performance/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:10:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148926",
+      "title": "Skydance Sets Leadership Across Games, Products, HR",
+      "url": "https://deadline.com/2026/10/skydance-sets-leadership-games-products-hr-1237148926/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-07T05:24:48+00:00"
+      "published_dt": "2026-10-07T13:22:16+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236904060",
-      "title": "Zhang Yimou Says \u2018The Three-Body Problem\u2019 Script Is Still Being Polished After Several Years: \u2018It Is Very Difficult to Adapt\u2019",
-      "url": "https://variety.com/2026/film/news/zhang-yimou-polishing-three-body-problem-script-1236904060/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T05:18:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904050",
-      "title": "Michelle Yeoh Calls \u2018Blade Runner 2099\u2019 an \u2018Amazing Journey,\u2019 Rules Out Directing at Busan",
-      "url": "https://variety.com/2026/film/festivals/michelle-yeoh-blade-runner-2099-amazing-journey-busan-1236904050/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T05:03:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904044",
-      "title": "Chuck Lorre Says Working on \u2018Roseanne\u2019 \u2018Was Malice\u2019 Because Roseanne Barr \u2018Fundamentally Hated\u2019 the Show\u2019s Writers",
-      "url": "https://variety.com/2026/tv/news/chuck-lorre-working-on-roseanne-was-malice-roseanne-barr-1236904044/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T05:01:38+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237148613",
-      "title": "Zhang Yimou Teases \u2018Three-Body Problem\u2019 At BIFF Opening; Jury Talks \u2018The Assassin(s)\u2019 Controversy & Competition Impact",
-      "url": "https://deadline.com/2026/10/zhang-yimou-three-body-problem-busan-jury-1237148613/",
+      "guid": "https://deadline.com/?p=1237148419",
+      "title": "\u2018The Social Reckoning\u2019 Review: Jeremy Allen White And Mikey Madison Expose Facebook In Aaron Sorkin\u2019s Stirring Journalistic Thriller Sequel",
+      "url": "https://deadline.com/2026/10/the-social-reckoning-review-jeremy-allen-white-mikey-madison-1237148419/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-07T06:29:46+00:00"
+      "published_dt": "2026-10-07T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237148745",
-      "title": "\u2018Ted Lasso\u2019 Season 4 Finale Recap: The Last Match Of The Season & A Shareholders\u2019 Showdown",
-      "url": "https://deadline.com/2026/10/ted-lasso-season-4-finale-recap-how-it-ends-1237148745/",
-      "source_name": "Deadline",
+      "guid": "https://variety.com/?p=1236897690",
+      "title": "Prime Video\u2019s \u2018Carrie\u2019 Is a Superb Reimagining of the Classic Horror Tale: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/carrie-review-prime-video-1236897690/",
+      "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-07T06:10:03+00:00"
+      "published_dt": "2026-10-07T13:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904146",
+      "title": "\u2018The Social Reckoning\u2019 Review: Aaron Sorkin\u2019s \u2018Social Network\u2019 Follow-Up Is Missing More Than Just David Fincher",
+      "url": "https://variety.com/2026/film/reviews/the-social-reckoning-review-1236904146/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:01:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904104",
+      "title": "These Lego Sets Are All Up to 40% Off on Amazon for Prime Big Deals Day",
+      "url": "https://variety.com/2026/shopping/news/lego-set-deals-amazon-prime-big-deals-day-2026-shop-online-1236904104/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724316",
+      "title": "L.A.\u2019s Studio Lot Values Are Cratering",
+      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-studio-lot-values-crater-1236724316/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:01:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723322",
+      "title": "Olivia Rodrigo: The Queen of Sad Finds Her Happy Place",
+      "url": "https://www.hollywoodreporter.com/music/music-features/olivia-rodrigo-interview-daisy-chain-festival-album-stardom-1236723322/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724207",
+      "title": "\u2018The Social Reckoning\u2019 Review: Aaron Sorkin Savages Facebook Once Again in Sharp Whistleblower Thriller Led by Mikey Madison and Jeremy Allen White",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-social-reckoning-review-mikey-madison-aaron-sorkin-1236724207/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724268",
+      "title": "Elizabeth Holmes and Husband Billy Haven\u2019t Seen \u2018You Can See Everything,\u2019 Nathan Fielder Says Communication With Couple \u201cBroke Down\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-husband-billy-you-can-see-everything-1236724268/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:00:00+00:00"
+    },
+    {
+      "guid": "H47RXeLizszsYjwB8mKQSf",
+      "title": "Neon Genesis Evangelion is getting a new story \u2013 exclusive to bullet trains in Japan",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/neon-genesis-evangelion-is-getting-a-new-story-exclusive-to-bullet-trains-in-japan/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:23:53+00:00"
+    },
+    {
+      "guid": "eoFoT64Bb24mnuRFw7VfCQ",
+      "title": "Pokemon RSE Switch ports feel all but confirmed, fans believe thanks to Pokemon Home update",
+      "url": "https://www.gamesradar.com/games/pokemon/pokemon-ruby-sapphire-and-emerald-switch-ports-feel-all-but-confirmed-fans-believe-as-new-pokemon-home-update-suggests-more-gba-games-could-be-on-the-way/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:14:40+00:00"
+    },
+    {
+      "guid": "q7tXAKeKYJqAeb6kXd43Sa",
+      "title": "As a retro gaming expert, the biggest piece of Prime Day advice I can give is to focus on small setup improvements",
+      "url": "https://www.gamesradar.com/hardware/retro/as-a-retro-gaming-expert-the-biggest-piece-of-prime-day-advice-i-can-give-is-to-focus-on-small-setup-improvements/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:13:21+00:00"
+    },
+    {
+      "guid": "FdUkciMrbjDPpJmFs2g2LK",
+      "title": "Blade Runner timeline: The movies, comics, and TV shows in order",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/blade-runner-timeline/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207334",
+      "title": "More Mafia Games Seemingly Getting Native PS5 Ports, Likely 60fps",
+      "url": "https://www.pushsquare.com/news/2026/10/more-mafia-games-seemingly-getting-native-ps5-ports-likely-60fps",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1123972",
+      "title": "Review: Thousand Hells Is More Random Than Six Ages",
+      "url": "https://www.siliconera.com/review-thousand-hells-is-more-random-than-six-ages/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082565",
+      "title": "ATMOSFAR launches in Early Access on October 29",
+      "url": "https://www.gematsu.com/2026/10/atmosfar-launches-in-early-access-on-october-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:12:24+00:00"
     }
   ]
 }
