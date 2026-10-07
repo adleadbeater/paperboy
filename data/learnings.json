@@ -915,142 +915,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "5e93694d-f9c1-45b3-aa4a-f7ed9b0092dc",
-      "title": "Mafia 2 and Mafia 3 Could Be Set for PS5 and Xbox Series Upgrades After Definitive Editions Leak Online",
-      "url": "https://www.ign.com/articles/mafia-2-mafia-3-definitive-edition-leaked",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:37:19+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000741098",
-      "title": "AI Bro Defends Sloppily Reverse-Engineering PlayStation Homebrew Tool Without Permission By Invoking \u2018Freedom Of Speech\u2019",
-      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:36:16+00:00"
-    },
-    {
-      "guid": "C5HGKZSDYjK6DFsMmy4PBJ",
-      "title": "Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make",
-      "url": "https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:42:52+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237148993",
-      "title": "Toby Emmerich Joins FilmNation Entertainment\u2019s Infrared As Consultant",
-      "url": "https://deadline.com/2026/10/toby-emmerich-filmnation-infrared-1237148993/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237148982",
-      "title": "Tradition Pictures Sets Multi-Project Partnership With Kenan Thompson\u2019s Artists For Artists; Mark Canton, James Maslow & Joseph Sikora Join Advisory Board",
-      "url": "https://deadline.com/2026/10/kenan-thompson-tradition-pictures-tv-partnership-1237148982/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:40:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904243",
-      "title": "MK2 Films Acquires Dardenne Brothers, Archipel 35 Film Library to Expand Its Heritage Footprint",
-      "url": "https://variety.com/2026/film/global/mk2-films-dardenne-brothers-archipel-35-film-library-heritage-1236904243/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:59:33+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236903907",
-      "title": "Fox News Puts Spotlight on News Team as Midterm Elections Approach",
-      "url": "https://variety.com/2026/tv/news/fox-news-midterm-elections-jay-wallace-bret-baier-1236903907/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:50:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904389",
-      "title": "Wall Street Skittish on Skydance as Stock Drops Further Post-Merger",
-      "url": "https://variety.com/2026/biz/news/wall-street-skittish-skydance-stock-drops-1236904389/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:46:07+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899688",
-      "title": "ATX TV Festival Sets \u2018Sweet 16\u2019 Theme for 2027 Lineup With \u2018Revenge\u2019 Reunion, \u2018Freaks and Geeks\u2019 Pilot Reading",
-      "url": "https://variety.com/2026/tv/news/atx-tv-festival-2027-revenge-reunion-freaks-and-geeks-1236899688/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T14:45:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724236",
-      "title": "Pixar, Lionsgate and Paramount Nab $100 Million in California Tax Credits",
-      "url": "https://www.hollywoodreporter.com/business/business-news/pixar-lionsgate-paramount-california-tax-credits-1236724236/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724287",
-      "title": "\u2018The Cadburys\u2019: BritBox Drops First Look at Chocolate Empire Drama (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-cadburys-britbox-chocolate-tv-show-series-show-regbo-1236724287/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "iKXWoqZNgtGYQdcNBRGHyJ",
-      "title": "Former Halo art director claps back at founding Xbox member for implying 343 Industries had a \"laziness\" problem",
-      "url": "https://www.gamesradar.com/games/halo/former-halo-art-director-claps-back-at-founding-xbox-member-for-implying-343-industries-had-a-laziness-problem-it-isnt-accurate/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T14:47:08+00:00"
-    },
-    {
-      "guid": "8ZPFASAAbfwY8jRAgyX3ZG",
-      "title": "Set up the perfect Halloween party with these discounted horror board games",
-      "url": "https://www.gamesradar.com/games/board-games/set-up-the-perfect-halloween-party-with-these-discounted-horror-board-games/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T14:36:06+00:00"
-    },
-    {
-      "guid": "3a4XAXiduNZmscPTScoLHF",
-      "title": "30 Prime Day Lego deals under $30",
-      "url": "https://www.gamesradar.com/toys-collectibles/30-lego-sets-under-usd30-i-searched-through-the-prime-day-sales-to-bring-you-the-best-cheap-lego-kits/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T14:35:36+00:00"
-    },
-    {
-      "guid": "1910840",
-      "title": "GTA 6 Won\u2019t Make You \u201cAll-Powerful\u201d Like GTA 5 Did",
-      "url": "https://www.gamespot.com/articles/gta-6-wont-make-you-all-powerful-like-gta-5-did/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T14:35:16+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124352",
-      "title": "Pokemon Home Works With Pokemon FireRed and LeafGreen Switch Now",
-      "url": "https://www.siliconera.com/pokemon-home-works-with-pokemon-firered-and-leafgreen-switch-now/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "x6XujMCz4dvwbSCJTgUt8J",
-      "title": "I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237149016",
       "title": "\u2018Dick Clark\u2019s New Year\u2019s Rockin\u2019 Eve with Ryan Seacrest 2027\u2032 To Simulcast On ABC & Disney+",
       "url": "https://deadline.com/2026/10/dick-clarks-new-years-rockin-eve-ryan-seacrest-2027-simulcast-abc-disney-1237149016/",
@@ -1067,68 +931,12 @@
       "published_dt": "2026-10-07T15:00:43+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237148493",
-      "title": "David Krumholtz Joins \u2018The Trial Of Louise Woodward\u2019 At HBO After Mulling \u201cIndefinite Break\u201d From Acting",
-      "url": "https://deadline.com/2026/10/the-trial-of-louise-woodward-david-krumholtz-acting-break-1237148493/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899199",
-      "title": "Ben Affleck Explains It All: Artists Equity, the Death of Movie Stars and the Dilemma With Comic Book Movies",
-      "url": "https://variety.com/2026/film/features/ben-affleck-interview-animals-batman-movie-stars-damon-1236899199/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236903912",
-      "title": "\u2018Michael\u2019 Sequel to Get $31 Million in California Tax Credits",
-      "url": "https://variety.com/2026/film/news/michael-2-california-tax-credits-1236903912/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904265",
-      "title": "Disney+ Will Stream 2027 Super Bowl",
-      "url": "https://variety.com/2026/tv/news/disney-plus-streaming-super-bowl-lxi-2027-1236904265/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207259",
-      "title": "Opinion: Elden Ring Is One Of My Favourite Games That I've Hardly Played",
-      "url": "https://www.nintendolife.com/features/opinion-elden-ring-is-one-of-my-favourite-games-that-ive-hardly-played",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207149",
-      "title": "Feature: \"It's Insulting & Hurtful\" - Beetle Adventure Racing Decomp Dev Kicks Back Against The Rise Of AI Recomps",
-      "url": "https://www.timeextension.com/features/its-insulting-and-hurtful-beetle-adventure-racing-decomp-dev-kicks-back-against-the-rise-of-ai-recomps",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T15:00:00+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1082631",
       "title": "SN\u00d8: Ultimate Freeriding coming to PS5, Xbox Series, and Switch 2 on October 28",
       "url": "https://www.gematsu.com/2026/10/sno-ultimate-freeriding-coming-to-ps5-xbox-series-and-switch-2-on-october-28",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-07T15:20:18+00:00"
-    },
-    {
-      "guid": "https://automaton-media.com/en/?p=73525",
-      "title": "Yoko Taro says he already achieved his game development dreams with Drakengard, and now works \u201cto prevent dementia\u201d",
-      "url": "https://automaton-media.com/en/news/yoko-taro-says-he-already-achieved-his-game-development-dreams-with-drakengard-and-now-works-to-prevent-dementia/",
-      "source_name": "Automaton",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T15:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1759430",
@@ -1969,6 +1777,166 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-07T18:04:54+00:00"
+    },
+    {
+      "guid": "c4b1f63e-d4c2-4665-846e-6272ab0cdc6f",
+      "title": "Some of Our Favorite Switch 2 Controllers Are Dropping to Actually Reasonable Prices for October Prime Day",
+      "url": "https://www.ign.com/articles/nintendo-switch-2-controller-deals-october-prime-day-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T18:35:07+00:00"
+    },
+    {
+      "guid": "d00c1655-f37f-4bec-9323-bdc676aac918",
+      "title": "Gears of War E-Day is a 'Natural Choice to Be an Exclusive' \u2013 Studio Head Mike Crump Claims Series Carries The Banner For Xbox",
+      "url": "https://www.ign.com/articles/gears-of-war-e-day-is-a-natural-choice-to-be-an-exclusive-studio-head-mike-crump-claims-series-carries-the-banner-for-xbox",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T18:32:43+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741968",
+      "title": "Call Of Duty Commentator Leaves The League After Revealing He\u2019s Dating His Co-Commentator\u2019s Ex-Wife",
+      "url": "https://kotaku.com/call-of-duty-merk-maven-league-ex-wife-divorce-dating-2000741968",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T18:30:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148711",
+      "title": "Apple TV\u2019s \u2018Beat The Reaper\u2019 Casts Paul Schulze & Tony Macht",
+      "url": "https://deadline.com/2026/10/apple-tv-beat-the-reaper-cast-paul-schulze-tony-macht-1237148711/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237149258",
+      "title": "Frank G. Mancuso Sr. Dies: Former Head Of Paramount Pictures & MGM Was 93",
+      "url": "https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T18:40:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899132",
+      "title": "\u2018Wicker\u2019 in 4DX at Black Bear One-Night-Only \u2013 Film News in Brief",
+      "url": "https://variety.com/2026/film/news/film-news-in-brief-oct-5-2026-1236899132/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236903431",
+      "title": "\u2018Elsbeth\u2019 Season 4 Adds Uzo Aduba, Tyne Daly and Christine Ebersole (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/elsbeth-season-4-uzo-aduba-tyne-daly-christine-ebersole-1236903431/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904492",
+      "title": "Ben Stiller to Moderate Conversation With William Shatner at New York Comic-Con \u2018Star Trek\u2019 Panel (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/ben-stiller-william-shatner-nycc-star-trek-panel-1236904492/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904595",
+      "title": "\u2018Dick Clark\u2019s New Year\u2019s Rockin\u2019 Eve With Ryan Seacrest\u2019 to Simulcast on Both ABC and Disney+ for the First Time",
+      "url": "https://variety.com/2026/tv/news/dick-clark-new-years-rockin-eve-simulcast-disney-plus-abc-1236904595/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T18:35:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724656",
+      "title": "Glen Powell Says He Doesn\u2019t Want to Talk Politics, Blames Paramount Marketing Cuts for \u2018The Running Man\u2019 Box Office Performance",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/glen-powell-politics-1236724656/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T18:58:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724636",
+      "title": "CBS News Sets Town Hall With J.D. Vance Ahead of Midterm Elections",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/cbs-news-town-hall-j-d-vance-tony-dokoupil-elections-1236724636/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T18:32:13+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124369",
+      "title": "Glitter & Glamours Bleach Yoruichi Shihoin Figure Comes With a Cape",
+      "url": "https://www.siliconera.com/glitter-glamours-bleach-yoruichi-shihoin-figure-comes-with-a-cape/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T19:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759347",
+      "title": "Rainbow\u2019s Go Woori Welcomes Her First Child, Shares Heartfelt Message With Fans",
+      "url": "https://otakukart.com/rainbows-go-woori-welcomes-her-first-child-shares-heartfelt-message-with-fans/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:58:34+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759357",
+      "title": "TWICE\u2019s 11th Anniversary Fan Event Sparks Major Backlash Over Limited Capacity",
+      "url": "https://otakukart.com/twices-11th-anniversary-fan-event-sparks-major-backlash-over-limited-capacity/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:57:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759359",
+      "title": "BLACKPINK\u2019s Jennie Allegedly Gets Better Chanel Treatment Than ILLIT\u2019s Wonhee",
+      "url": "https://otakukart.com/blackpinks-jennie-allegedly-gets-better-chanel-treatment-than-illits-wonhee/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:56:07+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759361",
+      "title": "BTS Take a Break From Their World Tour for a Fun-Filled Toronto Picnic on Run BTS 2.0",
+      "url": "https://otakukart.com/bts-take-a-break-from-their-world-tour-for-a-fun-filled-toronto-picnic-on-run-bts-2-0/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:53:40+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759363",
+      "title": "PRODUCE 101 JAPAN\u2019s KO1KEYZ Officially Makes Its Korea-Japan Debut",
+      "url": "https://otakukart.com/produce-101-japans-ko1keyz-officially-makes-its-korea-japan-debut/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:51:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759353",
+      "title": "BTS\u2019 Jungkook Faces Backlash After Sharing AI-Generated Video of Bam",
+      "url": "https://otakukart.com/bts-jungkook-faces-backlash-after-sharing-ai-generated-video-of-bam/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:50:35+00:00"
+    },
+    {
+      "guid": "t3_1x04i8s",
+      "title": "The Weeknd posted several images of his visit to Shift Up studio with CEO Kim Hyung-tae. One image shows the startup screen of Stellar Blade BLOOD RAIN, and another image shows the Weeknd standing inside a multi-camera 3D photogrammetry / body-scanning rig.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x04i8s/the_weeknd_posted_several_images_of_his_visit_to/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:37:15+00:00"
+    },
+    {
+      "guid": "t3_1x04n7l",
+      "title": "Fuerza Regida teases GTA 6 soundtrack announcement, likely tomorrow",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x04n7l/fuerza_regida_teases_gta_6_soundtrack/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T18:42:43+00:00"
     }
   ]
 }
