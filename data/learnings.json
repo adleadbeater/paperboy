@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Grasshopper Manufacture Breaks Free from NetEase, Goes Indie Again",
-      "tag": "grasshopper manufacture",
-      "posted_at": "2026-09-30T14:01:10.745083+00:00",
-      "urls": [
-        "https://kotaku.com/grasshopper-manufacture-goes-indie-again-after-split-with-netease-as-the-chinese-internet-giant-retreats-japanese-game-development-2000738619",
-        "https://www.gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games"
-      ],
-      "article_titles": [
-        "Grasshopper Manufacture Goes Indie Again After Split With NetEase As The Chinese Internet Giant Retreats From Japanese Game Development",
-        "Grasshopper Manufacture splits from NetEase Games"
-      ]
-    },
-    {
       "headline": "Deadlock's New Map Is a Stunning Visual Overhaul",
       "tag": "deadlock",
       "posted_at": "2026-09-30T14:31:30.921475+00:00",
@@ -905,6 +892,19 @@
       "article_titles": [
         "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
       ]
+    },
+    {
+      "headline": "Undead Labs Breaks Silence on Xbox Split and What It Means for State of Decay 3",
+      "tag": "state of decay 3",
+      "posted_at": "2026-10-07T14:01:15.634610+00:00",
+      "urls": [
+        "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
+        "https://www.gamespot.com/articles/state-of-decay-3-was-announced-early-to-keep-undead-labs-on-microsofts-radar/"
+      ],
+      "article_titles": [
+        "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
+        "State Of Decay 3 Was Announced Early To Keep Undead Labs On Microsoft\u2019s Radar"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1069,6 +1069,134 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-07T13:12:24+00:00"
+    },
+    {
+      "guid": "232187b5-7b1b-4895-98fe-b74e97300534",
+      "title": "Scream\u2019s 30th Anniversary Collector\u2019s Set Includes a Bloody Cordless Phone",
+      "url": "https://www.ign.com/articles/screams-30th-anniversary-collectors-set-where-to-buy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:29:34+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
+      "title": "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
+      "url": "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:56:05+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
+      "title": "Call of Duty: Modern Warfare 4's latest DMZ trailers have left players confused about the existence of a PvE-only mode",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-trailers-discussion",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:46:53+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741879",
+      "title": "Pok\u00e9mon Fans Are Trading Cards For Jonas Brothers Concert Memorabilia",
+      "url": "https://kotaku.com/pokemon-cards-tcg-scalpers-jonas-brothers-tambourine-trade-concert-2000741879",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:40:11+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741869",
+      "title": "When Is Forza Horizon 6 Coming To PS5? A Reliable Leaker Claims To Finally Know The Answer",
+      "url": "https://kotaku.com/forza-horizon-6-playstation-port-delay-microsoft-sony-ps5-2000741869",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:30:45+00:00"
+    },
+    {
+      "guid": "VMcHGGKK8gnmWRbLJUeT8d",
+      "title": "Quarterfinals: Vote for the best RTS unit of all time",
+      "url": "https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:45:34+00:00"
+    },
+    {
+      "guid": "KSoRFpQJo6ZqgpUGvfVgjZ",
+      "title": "The biggest discounts on PC hardware we've spotted this Prime Day",
+      "url": "https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:42:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148848",
+      "title": "Netflix Unveils Trailer For Canada\u2019s \u2018North Of North\u2019 Season 2",
+      "url": "https://deadline.com/2026/10/netflix-trailer-north-of-north-season-2-1237148848/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148965",
+      "title": "Low Light Films Boards Jane Schoenbrun EP\u2019d \u2018The Arrow At Rest\u2019 + First Clip",
+      "url": "https://deadline.com/2026/10/low-light-films-sales-arrow-rest-clip-1237148965/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T13:57:45+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904061",
+      "title": "\u2018Mami Wata\u2019 Director C.J. Obasi, \u2018Khartoum\u2019 Filmmaker Ibrahim Ahmad and More Take New Projects to Durban FilmMart\u2019s Co-Production Forum",
+      "url": "https://variety.com/2026/film/global/durban-filmmart-co-production-forum-1236904061/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904317",
+      "title": "Lego\u2019s \u2018Heartlake the Musical\u2019 Heads to Peacock in the U.S., Tencent in China Amid Global Sales  (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/legos-heartlake-the-musical-where-to-watch-1236904317/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723649",
+      "title": "Actor Jack Reynor to Be Honored at the Oscar Wilde Awards (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jack-reynor-oscar-wilde-awards-1236723649/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T14:00:00+00:00"
+    },
+    {
+      "guid": "6SezJcwxJmggwyWCfc39U",
+      "title": "Overwatch devs know removing Sombra's Hack ability will \"upset\" players",
+      "url": "https://www.gamesradar.com/games/fps/overwatch-devs-know-removing-sombras-hack-ability-will-upset-players-but-insist-the-reworked-support-hero-will-be-better-for-the-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:33:17+00:00"
+    },
+    {
+      "guid": "1910830",
+      "title": "State Of Decay 3 Was Announced Early To Keep Undead Labs On Microsoft\u2019s Radar",
+      "url": "https://www.gamespot.com/articles/state-of-decay-3-was-announced-early-to-keep-undead-labs-on-microsofts-radar/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:54:47+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207330",
+      "title": "Random: UK Retailer Lists Theatrhythm Sticker Set For A Whopping $499",
+      "url": "https://www.nintendolife.com/news/2026/10/random-uk-retailer-lists-theatrhythm-sticker-set-for-a-whopping-usd499",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=621195",
+      "title": "D&D: Five Ways To Create A Memorable Player Character",
+      "url": "https://www.belloflostsouls.net/2026/10/dd-five-ways-to-create-a-memorable-player-character.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T14:00:00+00:00"
     }
   ]
 }
