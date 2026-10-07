@@ -913,62 +913,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
-      "title": "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania",
-      "url": "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T18:28:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149230",
-      "title": "NBC Developing Series Based On Finland\u2019s \u201966th North Precinct\u2019 From \u2018The Irrational\u2019 Creator Arika Mittman",
-      "url": "https://deadline.com/2026/10/nbc-developing-66th-north-precinct-arika-mittman-1237149230/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T18:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149218",
-      "title": "\u2018Ted Lasso\u2019 Co-Creator Brandan Hunt On Theme Song Switch In Season 4 Finale & If Brandi Carlile\u2019s Version Is Here To Stay",
-      "url": "https://deadline.com/2026/10/ted-lasso-theme-song-brandi-carlile-explained-1237149218/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T18:23:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904576",
-      "title": "Frank Mancuso Sr., Former Chief of Paramount, MGM/UA, Dies at 93",
-      "url": "https://variety.com/2026/film/news/frank-mancuso-dead-dies-paramount-chief-1236904576/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T18:13:10+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724659",
-      "title": "Frank Mancuso Sr., Former Chairman of Paramount and MGM, Dies at 93",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/frank-mancuso-sr-dead-paramount-mgm-1236724659/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T18:27:49+00:00"
-    },
-    {
-      "guid": "1911339",
-      "title": "007 First Light Players Unlock A Very Good Boy",
-      "url": "https://www.gamespot.com/articles/007-first-light-players-unlock-a-very-good-boy/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T18:25:13+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082670",
-      "title": "Springs, Eternal launches November 11",
-      "url": "https://www.gematsu.com/2026/10/springs-eternal-launches-november-11",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T18:10:28+00:00"
-    },
-    {
       "guid": "c4b1f63e-d4c2-4665-846e-6272ab0cdc6f",
       "title": "Some of Our Favorite Switch 2 Controllers Are Dropping to Actually Reasonable Prices for October Prime Day",
       "url": "https://www.ign.com/articles/nintendo-switch-2-controller-deals-october-prime-day-2026",
@@ -1599,6 +1543,38 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-07T21:48:07+00:00"
+    },
+    {
+      "guid": "CBjKxumGZhFhQRLEawbahj",
+      "title": "'You have HOW MANY unread emails?' PC Gamer shares their inbox shame",
+      "url": "https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T22:06:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904354",
+      "title": "Miles Teller to Be Honored by Newport Beach Film Festival (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/awards/miles-teller-honored-newport-beach-film-festival-paper-tiger-1236904354/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T22:19:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899761",
+      "title": "\u2018Carrie\u2019 Star Samantha Sloyan on Modernizing an Iconic Evil Mom, Playing a Character Who \u2018Chooses Violence\u2019 and Being Mike Flanagan\u2019s Secret Weapon",
+      "url": "https://variety.com/2026/tv/features/carrie-mom-samantha-sloyan-evil-mike-flanagan-series-1236899761/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T22:14:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724989",
+      "title": "For Israeli Actress Noa Cohen, October 7 Is Both Personal and Professional",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/october-7-movies-best-our-loves-nova-noa-1236724989/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T22:14:35+00:00"
     }
   ]
 }
