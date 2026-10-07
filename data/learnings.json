@@ -1,52 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Pok\u00e9mon Legends: Z-A Is Getting a Dedicated Switch 2 Physical Release Next Month",
-      "tag": "pok\u00e9mon legends: z-a",
-      "posted_at": "2026-09-30T16:01:17.177055+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/09/pokemon-legends-z-a-is-getting-a-new-switch-2-physical-release-next-month"
-      ],
-      "article_titles": [
-        "Pok\u00e9mon Legends: Z-A Is Getting A New Switch 2 Physical Release Next Month"
-      ]
-    },
-    {
-      "headline": "Xbox Boss Asha Sharma Says \"Xbox Is Not For Sale\" Amid Spin-Off Fears",
-      "tag": "xbox",
-      "posted_at": "2026-09-30T16:01:17.259668+00:00",
-      "urls": [
-        "https://kotaku.com/asha-sharma-says-xbox-is-not-for-sale-amid-concerns-microsofts-gaming-business-is-being-streamlined-for-a-spin-off-2000738651"
-      ],
-      "article_titles": [
-        "Asha Sharma Says \u2018Xbox Is Not For Sale\u2019 Amid Concerns Microsoft\u2019s Gaming Business Is Being Streamlined For A Spin-Off"
-      ]
-    },
-    {
-      "headline": "PlayStation Plus Essential Games for October 2026 Revealed",
-      "tag": "playstation plus",
-      "posted_at": "2026-09-30T16:01:17.333238+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced",
-        "https://www.gematsu.com/2026/09/playstation-plus-monthly-games-lineup-for-october-2026-announced"
-      ],
-      "article_titles": [
-        "PS Plus Essential Games for October 2026 Announced",
-        "PlayStation Plus Monthly Games lineup for October 2026 announced"
-      ]
-    },
-    {
-      "headline": "Alleged Rockstar Hacker Arrested Over GTA Online Data Breach",
-      "tag": "rockstar games",
-      "posted_at": "2026-09-30T16:01:17.404698+00:00",
-      "urls": [
-        "https://kotaku.com/alleged-rockstar-games-hacker-arrested-in-connection-with-data-breach-that-revealed-gta-online-profits-2000738638"
-      ],
-      "article_titles": [
-        "Alleged Rockstar Games Hacker Arrested In Connection With Data Breach That Revealed GTA Online Profits"
-      ]
-    },
-    {
       "headline": "World of Warcraft: Forever Already Has a Real-Money Gold Scandal Before Launch",
       "tag": "world of warcraft",
       "posted_at": "2026-09-30T17:00:55.047413+00:00",
@@ -920,6 +874,30 @@
         "Pokemon RSE Switch ports feel all but confirmed, fans believe thanks to Pokemon Home update",
         "Pokemon Home Works With Pokemon FireRed and LeafGreen Switch Now"
       ]
+    },
+    {
+      "headline": "Gears of War: E-Day Studio Head Says the Next Game Won't Take Seven Years to Make",
+      "tag": "gears of war",
+      "posted_at": "2026-10-07T16:01:26.649397+00:00",
+      "urls": [
+        "https://www.ign.com/articles/gears-of-war-e-day-studio-boss-insists-the-next-game-will-not-take-nearly-as-long-to-make-responds-to-layoff-concern",
+        "https://www.gamespot.com/articles/the-next-gears-of-war-game-probably-wont-need-7-years-to-cook/"
+      ],
+      "article_titles": [
+        "Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern",
+        "The Next Gears Of War Game Probably Won\u2019t Need 7 Years To Cook"
+      ]
+    },
+    {
+      "headline": "The Original Grand Theft Auto Was Open-World by Accident, Dev Reveals",
+      "tag": "grand theft auto",
+      "posted_at": "2026-10-07T16:01:26.832973+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/"
+      ],
+      "article_titles": [
+        "The original Grand Theft Auto was open-world because \u2018we didn\u2019t want to have to build a front end\u2019, dev says"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1564,6 +1542,190 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-07T15:24:20+00:00"
+    },
+    {
+      "guid": "78a457ac-5f13-426a-83a2-115549b62784",
+      "title": "The Odyssey Returns to IMAX as Digger's Run Comes to an End a Week After Launch",
+      "url": "https://www.ign.com/articles/the-odyssey-returning-imax-disappointing-opening-digger",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:48:45+00:00"
+    },
+    {
+      "guid": "72948f2e-0f4e-4ebb-93b8-0e718f684f1d",
+      "title": "Pok\u00e9mon Legends: Z-A Hits Brand New Low at Amazon During Prime Big Deal Days Sale",
+      "url": "https://www.ign.com/articles/pokemon-legends-z-a-hits-brand-new-low-at-amazon-during-prime-big-deal-days-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:40:28+00:00"
+    },
+    {
+      "guid": "7dad6e18-8a5f-4720-a201-a26df07d6cc8",
+      "title": "Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern",
+      "url": "https://www.ign.com/articles/gears-of-war-e-day-studio-boss-insists-the-next-game-will-not-take-nearly-as-long-to-make-responds-to-layoff-concern",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:25:26+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=247933",
+      "title": "The original Grand Theft Auto was open-world because \u2018we didn\u2019t want to have to build a front end\u2019, dev says",
+      "url": "https://www.videogameschronicle.com/news/the-original-grand-theft-auto-was-open-world-because-we-didnt-want-to-have-to-build-a-front-end-dev-says/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:31:02+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741891",
+      "title": "The Critics Got This One Dead Wrong: Tom Cruise\u2019s Digger Is 100 Percent \u2018Certified Fresh\u2019",
+      "url": "https://kotaku.com/the-critics-got-this-one-dead-wrong-tom-cruise-digger-is-100-percent-certified-fresh-2000741891",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:44:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237146536",
+      "title": "Oscars: Saudi Arabia Submits \u2018A Matter Of Life & Death\u2019 For Best International Feature Film",
+      "url": "https://deadline.com/2026/10/oscars-saudi-arabia-a-matter-of-life-and-death-1237146536/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237149050",
+      "title": "\u2018Anna Pigeon\u2019 Renewed For Season 2 At USA Network",
+      "url": "https://deadline.com/2026/10/anna-pigeon-renewed-season-2-usa-network-1237149050/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237147700",
+      "title": "David Brindley Confirmed As Channel 4 Content Chief",
+      "url": "https://deadline.com/2026/10/david-brindley-named-channel-4-content-chief-1237147700/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:42:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237148944",
+      "title": "Emilia Clarke & Josh Brolin Latest To Join Series \u2018A Roadmap To Happiness\u2019",
+      "url": "https://deadline.com/2026/10/emilia-clarke-josh-brolin-join-series-roadmap-to-happiness-1237148944/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:34:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904415",
+      "title": "\u2018All\u2019s Fair\u2019 Sets Season 2 Release Date, Drops Decadent First Trailer",
+      "url": "https://variety.com/2026/tv/news/alls-fair-season-2-release-date-trailer-1236904415/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236863118",
+      "title": "In a Groundbreaking Premium Drama, \u2018R91\u2019 Brings a Murder Mystery Aboard Flagship French Aircraft Carrier",
+      "url": "https://variety.com/2026/tv/markets-festivals/r91-murder-mystery-aircraft-carrier-m6-snd-prime-video-1236863118/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:58:43+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904433",
+      "title": "\u2018Satoko Always\u2019 Review: A Trio of Women Find Their Inner Voice in Shuichi Okita\u2019s Delightful Celebration of the Art of Writing",
+      "url": "https://variety.com/2026/film/reviews/satoko-always-review-1236904433/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:53:04+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236903255",
+      "title": "As New York Comic Con Turns 20, Organizer Teases Coney Island Team-Up, After 3 p.m. Ticket and Possibility of Expanding to Five Days Next Year",
+      "url": "https://variety.com/2026/tv/news/new-york-comic-con-20th-anniversary-schedule-panels-events-1236903255/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:36:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236721951",
+      "title": "Oscars: Saudi Arabia Picks \u2018A Matter of Life and Death\u2019 as Best Int\u2019l Feature Submission",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-saudi-arabia-picks-a-matter-of-life-and-death-1236721951/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236722887",
+      "title": "Julio Pe\u00f1a Joins Josh Heuston, Nicole Wallace in Amazon MGM\u2019s \u2018Throttled\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/julio-pena-amazon-mgm-throttled-adaptation-1236722887/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724415",
+      "title": "\u2018Anna Pigeon\u2019 Renewed for Second Season on USA",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/anna-pigeon-renewed-season-2-usa-1236724415/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723327",
+      "title": "Grammy Predictions: It\u2019s a Race Between Olivia and Olivia",
+      "url": "https://www.hollywoodreporter.com/music/music-features/grammys-predictions-olivia-rodrigo-olivia-dean-1236723327/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724409",
+      "title": "DEVO Frontman Mark Mothersbaugh on 1970s Pop Band Predicting Today\u2019s Politics: \u201cIt\u2019s Gone Really Dark Again\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-features/devo-frontman-mark-mothersbaugh-band-politics-1236724409/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:39:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724428",
+      "title": "Disney+ Will Stream the 2027 Super Bowl and \u2018New Year\u2019s Rockin\u2019 Eve\u2019",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-stream-2027-super-bowl-new-years-rockin-eve-1236724428/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T15:33:51+00:00"
+    },
+    {
+      "guid": "1910879",
+      "title": "The Next Gears Of War Game Probably Won\u2019t Need 7 Years To Cook",
+      "url": "https://www.gamespot.com/articles/the-next-gears-of-war-game-probably-wont-need-7-years-to-cook/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T15:58:47+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207341",
+      "title": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting",
+      "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082606",
+      "title": "Cities: Skylines \u2013 Expanded Edition coming to Switch 2 on October 28 alongside new content",
+      "url": "https://www.gematsu.com/2026/10/cities-skylines-expanded-edition-coming-to-switch-2-on-october-28-alongside-new-content",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T15:35:47+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759327",
+      "title": "MediaOCD Adds Aniplex of America Blu-rays, Bringing Gurren Lagann and Mashle to Its Store",
+      "url": "https://otakukart.com/mediaocd-adds-aniplex-of-america-blu-rays-bringing-gurren-lagann-and-mashle-to-its-store/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T16:00:06+00:00"
     }
   ]
 }
