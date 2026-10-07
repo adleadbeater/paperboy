@@ -926,110 +926,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
-      "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
-      "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T19:24:25+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000741893",
-      "title": "Everything We Know About Final Fantasy 14 Evercold So Far",
-      "url": "https://kotaku.com/everything-we-know-about-final-fantasy-14-evercold-so-far-2000741893",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T19:00:57+00:00"
-    },
-    {
-      "guid": "aS7PGDMX7EfhtqU3CQXaxH",
-      "title": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times\u2014devs say they will comply if EA's lawyers come knocking",
-      "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T19:15:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149289",
-      "title": "\u2018Ted Lasso\u2019 Team Hoped To Bring Anthony Head Back In Season 4 Finale",
-      "url": "https://deadline.com/2026/10/ted-lasso-anthony-head-return-season-4-finale-1237149289/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T19:28:58+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149298",
-      "title": "Sebastian Stan Says \u2018Avengers: Doomsday\u2019 Is \u201cProbably Heartbreaking\u201d: \u201cWe\u2019ll See Who Makes It To The Next Level\u201d",
-      "url": "https://deadline.com/2026/10/sebastian-stan-avengers-doomsday-heartbreaking-1237149298/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T19:10:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899215",
-      "title": "\u2018Krux\u2019 Review: A Potently Bleak Portrait of German Village Life at the Bitter End of WWII",
-      "url": "https://variety.com/2026/film/news/krux-review-1236899215/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T19:07:54+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724646",
-      "title": "Saban Community Clinic to Honor Peter Friedlander and David Nevins at 50th Gala",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/saban-community-clinic-gala-peter-friedlander-david-nevins-1236724646/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T19:21:08+00:00"
-    },
-    {
-      "guid": "R2szNSWZXkYJrzBVJqYgcQ",
-      "title": "Troy Baker says The Last of Us 2's devastating final scene was originally at the start of the game",
-      "url": "https://www.gamesradar.com/games/the-last-of-us/the-last-of-us-2s-troy-baker-says-the-endings-devastating-final-conversation-between-joel-and-ellie-was-originally-supposed-to-be-at-the-start-of-the-game/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T19:04:59+00:00"
-    },
-    {
-      "guid": "1911354",
-      "title": "Resident Evil Movie Will Become Zach Cregger\u2019s Biggest Ever, Surpassing Weapons",
-      "url": "https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T19:14:22+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082312",
-      "title": "The Hambagu Shop launches January 11, 2027",
-      "url": "https://www.gematsu.com/2026/10/the-hambagu-shop-launches-january-11-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T19:23:44+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082302",
-      "title": "BrokenLore: ASCEND launches January 7, 2027",
-      "url": "https://www.gematsu.com/2026/10/brokenlore-ascend-launches-january-7-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T19:11:33+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1759355",
-      "title": "ADOR Faces Backlash Over Hanni\u2019s Birthday Playlist Decision",
-      "url": "https://otakukart.com/ador-faces-backlash-over-hannis-birthday-playlist-decision/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T19:00:38+00:00"
-    },
-    {
-      "guid": "t3_1x05nqx",
-      "title": "Castlevania Belmont's Curse gets first reviews from leaked Famitsu review, all 8s.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x05nqx/castlevania_belmonts_curse_gets_first_reviews/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T19:21:22+00:00"
-    },
-    {
       "guid": "38fe7355-a56c-479d-a098-5bd39dd44520",
       "title": "Star Wars Tabletop Games Are Discounted For Prime Day, Including Unlimited",
       "url": "https://www.ign.com/articles/star-wars-tabletop-games-are-discounted-for-prime-day-including-unlimited",
@@ -1484,6 +1380,54 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-10-07T22:33:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904999",
+      "title": "Sundance-Winning Producer Neeraj Churi Boards Awedacious Originals\u2019 Busan Title \u2018About an Intimate Matter\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/festivals/sundance-cactus-pears-producer-bengali-queer-drama-busan-1236904999/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T23:10:26+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724998",
+      "title": "Alexander Skarsgard\u2019s \u2018Wicker\u2019 Gets Immersive With 4DX Screening Event",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alexander-skarsgard-wicker-immersive-4dx-screening-1236724998/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T23:09:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724751",
+      "title": "Marilyn Monroe and Sydney Sweeney Are Related",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/marilyn-monroe-sydney-sweeney-related-ninth-cousins-1236724751/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T23:08:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724332",
+      "title": "\u2018The Louis Theroux Podcast\u2019 to Double Spotify Output, Unveils Season 9 Guests (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/louis-theroux-podcast-spotify-season-9-1236724332/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T23:01:00+00:00"
+    },
+    {
+      "guid": "SysYE7GFCS8FizKc7n43bc",
+      "title": "A new Ultima RPG is on the table now that the series' creator is getting back the rights from EA",
+      "url": "https://www.gamesradar.com/games/rpg/i-never-thought-wed-get-a-new-ultima-rpg-but-now-that-series-creator-richard-garriott-is-getting-back-the-rights-from-ea-everythings-on-the-table/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T23:20:55+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207358",
+      "title": "The First Review For Castlevania: Belmont's Curse Is In",
+      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T23:25:00+00:00"
     }
   ]
 }
