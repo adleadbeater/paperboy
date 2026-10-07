@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Vincent D'Onofrio Defends God of War: Laufey Star Deborah Ann Woll Against Sexist \"Gooner\" Backlash",
-      "tag": "god of war",
-      "posted_at": "2026-09-30T19:31:22.039862+00:00",
-      "urls": [
-        "https://kotaku.com/vincent-donofrio-shuts-down-god-of-war-laufey-gooner-complaints-buddy-got-bodied-by-kingpin-2000738728",
-        "https://www.ign.com/articles/vincent-donofrio-defends-laufey-star-deborah-ann-woll-from-gooners-upset-that-the-games-armor-sets-dont-show-more-skin"
-      ],
-      "article_titles": [
-        "Vincent D\u2019Onofrio Shuts Down God Of War Laufey Gooner Complaints: \u2018Buddy Got Bodied By Kingpin\u2019",
-        "Vincent D\u2019Onofrio Defends Laufey Star Deborah Ann Woll From Gooners Upset That the Game's Armor Sets Don't Show More Skin"
-      ]
-    },
-    {
       "headline": "Over 85% of Japanese Game Developers Are Now Using AI, Survey Finds",
       "tag": "gaming industry",
       "posted_at": "2026-09-30T21:29:02.514399+00:00",
@@ -909,43 +896,22 @@
       "article_titles": [
         "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania"
       ]
+    },
+    {
+      "headline": "Fan-made mod ReSkate has effectively de-live-serviced the old Skate game \u2014 and devs say they'll yield to EA lawyers",
+      "tag": "skate",
+      "posted_at": "2026-10-07T19:31:24.622819+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/"
+      ],
+      "article_titles": [
+        "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times\u2014devs say they will comply if EA's lawyers come knocking"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237149016",
-      "title": "\u2018Dick Clark\u2019s New Year\u2019s Rockin\u2019 Eve with Ryan Seacrest 2027\u2032 To Simulcast On ABC & Disney+",
-      "url": "https://deadline.com/2026/10/dick-clarks-new-years-rockin-eve-ryan-seacrest-2027-simulcast-abc-disney-1237149016/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237148890",
-      "title": "The Set Up To Adapt Lisa Wilkinson Novel \u2018The Titanic Story Of Evelyn\u2019 For TV",
-      "url": "https://deadline.com/2026/10/titanic-story-of-evelyn-lisa-wilkinson-tv-adaptation-1237148890/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:00:43+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082631",
-      "title": "SN\u00d8: Ultimate Freeriding coming to PS5, Xbox Series, and Switch 2 on October 28",
-      "url": "https://www.gematsu.com/2026/10/sno-ultimate-freeriding-coming-to-ps5-xbox-series-and-switch-2-on-october-28",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T15:20:18+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1759430",
-      "title": "Annihilated Sets November 10 Steam Release for Dark and Cute Roguelite RPG",
-      "url": "https://otakukart.com/annihilated-sets-november-10-steam-release-for-dark-and-cute-roguelite-rpg/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T15:24:20+00:00"
-    },
     {
       "guid": "78a457ac-5f13-426a-83a2-115549b62784",
       "title": "The Odyssey Returns to IMAX as Digger's Run Comes to an End a Week After Launch",
@@ -961,14 +927,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-10-07T15:40:28+00:00"
-    },
-    {
-      "guid": "7dad6e18-8a5f-4720-a201-a26df07d6cc8",
-      "title": "Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern",
-      "url": "https://www.ign.com/articles/gears-of-war-e-day-studio-boss-insists-the-next-game-will-not-take-nearly-as-long-to-make-responds-to-layoff-concern",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-07T15:25:26+00:00"
     },
     {
       "guid": "https://www.videogameschronicle.com/?p=247933",
@@ -1105,14 +1063,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-07T15:58:47+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207341",
-      "title": "Anime Racing Game Screamer's Latest PS5 Update Lets You Turn Off Its Right Stick Drifting",
-      "url": "https://www.pushsquare.com/news/2026/10/anime-racing-game-screamers-latest-ps5-update-lets-you-turn-off-its-right-stick-drifting",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-07T15:30:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1082606",
@@ -1937,6 +1887,110 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-07T18:42:43+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+      "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
+      "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:24:25+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741893",
+      "title": "Everything We Know About Final Fantasy 14 Evercold So Far",
+      "url": "https://kotaku.com/everything-we-know-about-final-fantasy-14-evercold-so-far-2000741893",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:00:57+00:00"
+    },
+    {
+      "guid": "aS7PGDMX7EfhtqU3CQXaxH",
+      "title": "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times\u2014devs say they will comply if EA's lawyers come knocking",
+      "url": "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:15:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237149289",
+      "title": "\u2018Ted Lasso\u2019 Team Hoped To Bring Anthony Head Back In Season 4 Finale",
+      "url": "https://deadline.com/2026/10/ted-lasso-anthony-head-return-season-4-finale-1237149289/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:28:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237149298",
+      "title": "Sebastian Stan Says \u2018Avengers: Doomsday\u2019 Is \u201cProbably Heartbreaking\u201d: \u201cWe\u2019ll See Who Makes It To The Next Level\u201d",
+      "url": "https://deadline.com/2026/10/sebastian-stan-avengers-doomsday-heartbreaking-1237149298/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:10:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899215",
+      "title": "\u2018Krux\u2019 Review: A Potently Bleak Portrait of German Village Life at the Bitter End of WWII",
+      "url": "https://variety.com/2026/film/news/krux-review-1236899215/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:07:54+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236724646",
+      "title": "Saban Community Clinic to Honor Peter Friedlander and David Nevins at 50th Gala",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/saban-community-clinic-gala-peter-friedlander-david-nevins-1236724646/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-07T19:21:08+00:00"
+    },
+    {
+      "guid": "R2szNSWZXkYJrzBVJqYgcQ",
+      "title": "Troy Baker says The Last of Us 2's devastating final scene was originally at the start of the game",
+      "url": "https://www.gamesradar.com/games/the-last-of-us/the-last-of-us-2s-troy-baker-says-the-endings-devastating-final-conversation-between-joel-and-ellie-was-originally-supposed-to-be-at-the-start-of-the-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T19:04:59+00:00"
+    },
+    {
+      "guid": "1911354",
+      "title": "Resident Evil Movie Will Become Zach Cregger\u2019s Biggest Ever, Surpassing Weapons",
+      "url": "https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T19:14:22+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082312",
+      "title": "The Hambagu Shop launches January 11, 2027",
+      "url": "https://www.gematsu.com/2026/10/the-hambagu-shop-launches-january-11-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T19:23:44+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082302",
+      "title": "BrokenLore: ASCEND launches January 7, 2027",
+      "url": "https://www.gematsu.com/2026/10/brokenlore-ascend-launches-january-7-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T19:11:33+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759355",
+      "title": "ADOR Faces Backlash Over Hanni\u2019s Birthday Playlist Decision",
+      "url": "https://otakukart.com/ador-faces-backlash-over-hannis-birthday-playlist-decision/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T19:00:38+00:00"
+    },
+    {
+      "guid": "t3_1x05nqx",
+      "title": "Castlevania Belmont's Curse gets first reviews from leaked Famitsu review, all 8s.",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x05nqx/castlevania_belmonts_curse_gets_first_reviews/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-07T19:21:22+00:00"
     }
   ]
 }
