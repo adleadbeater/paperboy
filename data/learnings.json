@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Gaming Show MinnMax Cuts Ties With Jacob Geller Following Sexual Misconduct Allegation",
-      "tag": "minnmax",
-      "posted_at": "2026-10-01T17:01:18.933196+00:00",
-      "urls": [
-        "https://kotaku.com/jacob-geller-minnmax-youtube-sexual-assault-allegations-2000738985"
-      ],
-      "article_titles": [
-        "Gaming Show MinnMax Removes YouTuber Jacob Geller After Recently Surfaced Allegation Of Past Sexual Misconduct"
-      ]
-    },
-    {
-      "headline": "PS5 Gets AI Upscaling for Base Model, Debuting With Wolverine and Ghost of Yotei",
-      "tag": "playstation 5",
-      "posted_at": "2026-10-01T17:01:19.115678+00:00",
-      "urls": [
-        "https://kotaku.com/base-ps5-is-getting-ai-upscaling-starting-with-wolverine-and-ghost-of-yotei-to-make-the-smallest-details-look-even-crisper-2000738994"
-      ],
-      "article_titles": [
-        "Base PS5 Is Getting AI Upscaling Starting With Wolverine And Ghost Of Yotei To Make The Smallest Details Look Even Crisper"
-      ]
-    },
-    {
       "headline": "Final Fantasy XI Finally Gets a Generous Free Trial \u2014 24 Years After Launch",
       "tag": "final fantasy xi",
       "posted_at": "2026-10-01T17:31:19.175107+00:00",
@@ -902,131 +880,61 @@
         "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
         "Spending On Physical Games In The U.S. Is\u2026Up? Thanks To Game-Key Cards?"
       ]
+    },
+    {
+      "headline": "Dave the Diver is Getting a Subnautica 2 Crossover DLC Pack",
+      "tag": "dave the diver",
+      "posted_at": "2026-10-08T17:01:40.956715+00:00",
+      "urls": [
+        "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+        "https://www.gematsu.com/2026/10/dave-the-diver-dlc-subnautica-2-content-pack-announced"
+      ],
+      "article_titles": [
+        "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
+        "DAVE THE DIVER DLC \u2018Subnautica 2 Content Pack\u2019 announced"
+      ]
+    },
+    {
+      "headline": "Best Buy Is Holding a Midnight Launch for the Zelda: Ocarina of Time Switch 2 Remake That Keeps Selling Out",
+      "tag": "the legend of zelda: ocarina of time",
+      "posted_at": "2026-10-08T17:01:41.021574+00:00",
+      "urls": [
+        "https://www.siliconera.com/best-buy-holding-legend-of-zelda-ocarina-of-time-remake-midnight-launch/",
+        "https://kotaku.com/youll-have-one-last-shot-at-the-zelda-ocarina-of-time-switch-2-that-keeps-selling-out-everywhere-during-a-midnight-launch-2000742663"
+      ],
+      "article_titles": [
+        "Best Buy Holding Legend of Zelda: Ocarina of Time Remake Midnight Launch",
+        "You\u2019ll Have One Last Shot At The Zelda: Ocarina Of Time Switch 2 That Keeps Selling Out Everywhere During A Midnight Launch"
+      ]
+    },
+    {
+      "headline": "Travis Willingham Is Taking Over as Sephiroth's Voice in Final Fantasy VII Revelation",
+      "tag": "final fantasy vii revelation",
+      "posted_at": "2026-10-08T17:01:41.097468+00:00",
+      "urls": [
+        "https://kotaku.com/final-fantasy-7-revelation-sephiroth-new-voice-actor-2000742686"
+      ],
+      "article_titles": [
+        "Travis Willingham On Taking Over Sephiroth In Final Fantasy VII Revelation: \u2018There\u2019s Nothing More Dangerous Than The Villain That Doesn\u2019t Need To Shout To Be Heard\u2019"
+      ]
+    },
+    {
+      "headline": "Star Wars: Galactic Racer Boss Says the New Game Will Demand Far More From Players Than Burnout Did",
+      "tag": "star wars: galactic racer",
+      "posted_at": "2026-10-08T17:01:41.180069+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/racing/25-years-after-burnout-star-wars-galactic-racer-studio-lead-says-we-are-asking-way-more-out-of-players-than-weve-ever-done-because-modern-players-are-built-different/",
+        "https://www.eurogamer.net/star-wars-galactic-racer-board-game-post-it-prototype"
+      ],
+      "article_titles": [
+        "25 years after Burnout, Star Wars: Galactic Racer boss says \"we are asking way more\" from players",
+        "Star Wars: Galactic Racer was prototyped in the most unexpected way: as a board game covered in Post-It notes"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000742618",
-      "title": "The Witcher 3 Remastered Gets Notable Improvements And A Much-Requested Feature On PS5 And Xbox",
-      "url": "https://kotaku.com/the-witcher-3-remastered-gets-notable-improvements-and-a-much-requested-feature-on-ps5-and-xbox-2000742618",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T12:40:10+00:00"
-    },
-    {
-      "guid": "wEwVii8JbyjXws2ow5bYN4",
-      "title": "How to complete Clean Hands in Arc Raiders",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-clean-hands-walkthrough/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T12:38:22+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149754",
-      "title": "IDFA Announces Forum Lineup: Projects From Wang Bing, Rachael Leah Jones, Vitaly Mansky, Juanjo Pereira, Liang Zhao & More",
-      "url": "https://deadline.com/2026/10/2026-idfa-forum-lineup-announcement-1237149754/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149789",
-      "title": "Apple TV Buys Tropic Noir Series \u2018Dustfall\u2019 Starring Anna Torv",
-      "url": "https://deadline.com/2026/10/apple-tv-buys-dustfall-anna-torv-juliet-stevenson-australia-1237149789/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149848",
-      "title": "BBC Staff Raise Concerns About Director-General\u2019s Praise For AI-Generated \u2018Doctor Who\u2019",
-      "url": "https://deadline.com/2026/10/bbc-staff-concerns-matt-brittin-ai-doctor-who-1237149848/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T12:46:07+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236899471",
-      "title": "Erin Andrews and Charissa Thompson Bring Their \u2018Calm Down\u2019 Podcast to Colin Cowherd\u2019s The Volume",
-      "url": "https://variety.com/2026/digital/news/erin-andrews-charissa-thompson-calm-down-podcast-colin-cowherd-1236899471/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236905495",
-      "title": "Ganni and Lululemon Team Up for \u2018Flashdance\u2019-Inspired Collection, With Jennifer Beals and Mette-Fronted Campaign",
-      "url": "https://variety.com/2026/shopping/news/lululemon-ganni-workout-collection-shop-online-1236905495/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T12:51:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236905477",
-      "title": "Top Fremantle Mipcom Format \u2018Stacks of Cash\u2019 Adds Seven Network to CBS in New Major Commissions (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/fremantle-format-stacks-of-cash-seven-network-cbs-mipcom-1236905477/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T12:39:58+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236723328",
-      "title": "The Most Powerful Man in Music Isn\u2019t Afraid of AI",
-      "url": "https://www.hollywoodreporter.com/music/music-features/lucian-grainge-interview-ai-music-universal-music-group-1236723328/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724373",
-      "title": "From \u2018Artificial Clouds\u2019 to \u2018Being North Korean\u2019: IDFA Forum Unveils Slate, Rejigs Formats",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/idfa-forum-2026-projects-new-format-on-market-challenges-1236724373/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236725078",
-      "title": "Prince Harry Gets Real on Grief, Panic Attacks and Not Crying for Years After Princess Diana\u2019s Death",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/prince-harry-princess-diana-death-grief-masterclass-session-1236725078/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236725326",
-      "title": "Joe Rogan Renews Multiyear Spotify Partnership",
-      "url": "https://www.hollywoodreporter.com/business/digital/joe-rogan-multiyear-spotify-partnership-1236725326/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T12:40:31+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1123981",
-      "title": "Review: Qliphah in Providence\u2019s Shadow Gets Confusing",
-      "url": "https://www.siliconera.com/review-qliphah-in-providences-shadow-gets-confusing/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207388",
-      "title": "Atari's 800XL Is The Next Hardware Revival From The Company Behind The Neo Geo AES+",
-      "url": "https://www.timeextension.com/news/2026/10/ataris-800xl-is-the-next-hardware-revival-from-the-company-behind-the-neo-geo-aesplus",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-08T12:40:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1082912",
-      "title": "Spyder: Agent 8 adds Switch 2 version, launches February 11, 2027",
-      "url": "https://www.gematsu.com/2026/10/spyder-agent-8-adds-switch-2-version-launches-february-11-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-08T12:45:24+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/star-wars-galactic-racer-board-game-post-it-prototype",
       "title": "Star Wars: Galactic Racer was prototyped in the most unexpected way: as a board game covered in Post-It notes",
@@ -1034,22 +942,6 @@
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-10-08T13:27:45+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000742604",
-      "title": "Spending On Physical Games In The U.S. Is\u2026Up? Thanks To Game-Key Cards?",
-      "url": "https://kotaku.com/spending-on-physical-games-in-the-u-s-was-up-in-august-thanks-to-game-key-cards-2000742604",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:30+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000741998",
-      "title": "After Playing Final Fantasy VII Revelation, I\u2019m Convinced Square Saved Some Of The Best Stuff For Last",
-      "url": "https://kotaku.com/final-fantasy-7-revelation-demo-preview-cid-vincent-2000741998",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:02+00:00"
     },
     {
       "guid": "MtwbkBtAdn5WujxNNxGx9M",
@@ -1066,30 +958,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-08T13:05:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237148827",
-      "title": "Joe Sugg & Caspar Lee\u2019s MVE Hires CAA & WME Agents In U.S.",
-      "url": "https://deadline.com/2026/10/mve-hires-caa-wme-agents-in-us-1237148827/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149546",
-      "title": "\u2019Bridgerton\u2019 Spinoff About Young Lady Violet Greenlit At Netflix With Shonda Rhimes Writing",
-      "url": "https://deadline.com/2026/10/bridgerton-lady-violet-prequel-spinoff-in-works-shonda-1237149546/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237149847",
-      "title": "How Oasis Came To Rock The Doc World \u2013 And What It Might Mean For Bond 26",
-      "url": "https://deadline.com/2026/10/how-oasis-dont-look-back-in-anger-steven-knight-1237149847/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236904628",
@@ -1124,38 +992,6 @@
       "published_dt": "2026-10-08T13:02:01+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236902190",
-      "title": "\u2018Rent,\u2019 Reborn: How Star Gaten Matarazzo, Director Luke Sheppard and a Perfectly Cast West End Ensemble Are Giving the Musical Its Biggest Revival Yet",
-      "url": "https://variety.com/2026/theater/global/rent-revival-gaten-matarazzo-luke-sheppard-west-end-musical-1236902190/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904884",
-      "title": "Alex Warren to Host 2026 Kids Choice Awards, Nominations Announced",
-      "url": "https://variety.com/2026/tv/news/kids-choice-awards-2026-alex-warren-nominations-1236904884/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236904917",
-      "title": "AI Audio Startup Sonilo, Founded by TikTok Veterans, Raises $11 Million in B Capital-Led Round (EXCLUSIVE)",
-      "url": "https://variety.com/2026/digital/news/ai-audio-startup-sonilo-tiktok-veterans-11-million-1236904917/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236905097",
-      "title": "\u2018Bridgerton\u2019 Spinoff, Centered on Lady Violet, Ordered by Netflix",
-      "url": "https://variety.com/2026/tv/news/bridgerton-spinoff-lady-violet-netflix-shondaland-1236905097/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236725275",
       "title": "Pia Tjelta Joins \u2018The Day of the Jackal\u2019 Season 2 (Exclusive)",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/the-day-of-the-jackal-season-2-pia-tjelta-norway-exclusive-1236725275/",
@@ -1172,60 +1008,12 @@
       "published_dt": "2026-10-08T13:15:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724475",
-      "title": "Angel Studios\u2019 \u2018Homestead: The Series\u2019 Sets Season 2 Premiere Date and Cast (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/angel-studios-homestead-the-series-season-2-premiere-date-1236724475/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724873",
-      "title": "Alex Warren to Host Kids\u2019 Choice Awards, Airing on CBS for the First Time; Taylor Swift Leads Nominees",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/2026-kids-choice-awards-host-nominees-where-its-airing-1236724873/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236725142",
-      "title": "\u2018Bridgerton\u2019 Lady Violet Prequel Courts Netflix Series Pickup",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/bridgerton-prequel-lady-violet-netflix-1236725142/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
       "guid": "1911986",
       "title": "NBA 2K27 Tops Madden NFL 27 In August, Shocking Absolutely Nobody",
       "url": "https://www.gamespot.com/articles/nba-2k27-tops-madden-nfl-27-in-august-shocking-absolutely-nobody/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-08T13:14:06+00:00"
-    },
-    {
-      "guid": "1911968",
-      "title": "US Video Game Hardware Sales Just Had Their Worst August In 13 Years",
-      "url": "https://www.gamespot.com/articles/us-video-game-hardware-sales-just-had-their-worst-august-in-13-years/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207325",
-      "title": "Marvel Cosmic Invasion's New DLC Will Build The Hype For 'Doomsday' Next Month",
-      "url": "https://www.nintendolife.com/news/2026/10/marvel-cosmic-invasions-new-dlc-will-build-the-hype-for-doomsday-next-month",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-08T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207282",
-      "title": "Review: Evercade Nexus - a Commendable Upgrade, but Bundling Banjo-Kazooie Is the True Masterstroke",
-      "url": "https://www.timeextension.com/reviews/evercade-nexus-a-commendable-upgrade-but-bundling-banjo-kazooie-is-the-true-masterstroke",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-08T13:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1082930",
@@ -1714,6 +1502,326 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-08T16:13:25+00:00"
+    },
+    {
+      "guid": "e0e6a86d-9ff8-4cb4-85fa-5b507c475c2a",
+      "title": "Fjord Review",
+      "url": "https://www.ign.com/articles/fjord-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:49:18+00:00"
+    },
+    {
+      "guid": "cfc2c86b-ab3e-4ac8-8cf5-da7c44ec4455",
+      "title": "Last Chance to Pick up a Pair of Apple AirPods Pro 3 Wireless Noise Canceling Earbuds for $179",
+      "url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-amazon-october-prime-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:40:00+00:00"
+    },
+    {
+      "guid": "18dcf22b-ef64-4991-91a5-f9ccfeec8d77",
+      "title": "The 2026 LG Evo B6 4K 120Hz OLED TV Drops to Under $1,000 for Prime Day, Plus Get a Free Soundbar",
+      "url": "https://www.ign.com/articles/lg-evo-b6-4k-oled-tv-deal-amazon-october-prime-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:35:00+00:00"
+    },
+    {
+      "guid": "7d2f9f1f-c76f-41c4-90c4-c8d6f93fe9cb",
+      "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:30:00+00:00"
+    },
+    {
+      "guid": "f9e06198-bf86-41b3-b7b0-31e179307618",
+      "title": "The $849 ABS Cyclone RTX 5060 Gaming PC Is More Powerful AND Less Expensive Than the Steam Machine",
+      "url": "https://www.ign.com/articles/abs-cyclone-rtx-5060-gaming-pc-deal-better-than-steam-machine",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:30:00+00:00"
+    },
+    {
+      "guid": "02f7c483-da02-41c1-8694-57cb6cc18280",
+      "title": "The Acer Nitro Radeon RX 9070 XT Gaming PC Drops to Just $1,699 for Prime Day, Excels at 4K Gaming",
+      "url": "https://www.ign.com/articles/acer-nitro-radeon-rx-9070-xt-gaming-pc-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:30:00+00:00"
+    },
+    {
+      "guid": "14ae4131-b5b9-4e1c-a8b9-c1f4980d4459",
+      "title": "The Meta Quest 3 512GB VR Headset Is 30% Off at eBay, Beats Any Amazon Prime Day Deal",
+      "url": "https://www.ign.com/articles/best-meta-quest-3-deal-amazon-october-prime-day-sale",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+      "title": "\"It's clear that we both adore one another's games a lot\" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven",
+      "url": "https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000742686",
+      "title": "Travis Willingham On Taking Over Sephiroth In Final Fantasy VII Revelation: \u2018There\u2019s Nothing More Dangerous Than The Villain That Doesn\u2019t Need To Shout To Be Heard\u2019",
+      "url": "https://kotaku.com/final-fantasy-7-revelation-sephiroth-new-voice-actor-2000742686",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:51:03+00:00"
+    },
+    {
+      "guid": "wZZBcy3ZjCCFWhzVZV24Gh",
+      "title": "Amazon is roasting users with their own shopping habits, but it don't have nothin' on us",
+      "url": "https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:38:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150157",
+      "title": "Taylor Swift To Perform At Academy Museum Gala This Month In L.A.",
+      "url": "https://deadline.com/2026/10/taylor-swift-academy-museum-gala-perform-1237150157/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150191",
+      "title": "Big Shot Pictures Lands Film Rights To \u2018CookieRun\u2019 Game Franchise; 2029 Theatrical Release Eyed",
+      "url": "https://deadline.com/2026/10/brian-robbins-big-shot-cookie-run-1237150191/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:54:22+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150041",
+      "title": "Paul Walter Hauser Set For Crime Drama \u2018Garden City\u2019 From John Curran, Magenta Light Studios",
+      "url": "https://deadline.com/2026/10/paul-walter-hauser-to-star-garden-city-magenta-light-1237150041/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236903313",
+      "title": "Michaela Ja\u00e9 Rodriguez to Receive APLA Health\u2019s Voice of Visibility Award at AIDS Walk Los Angeles (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/columns/michaela-jae-rodriguez-apla-health-award-aids-walk-los-angeles-1236903313/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904998",
+      "title": "Brian Grazer and Ron Howard to Receive Harold Matzner Distinguished Achievement Award at Palm Springs Honors",
+      "url": "https://variety.com/2026/awards/news/brian-grazer-ron-howard-palm-springs-honors-1236904998/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236905184",
+      "title": "Taylor Swift to Perform at Academy Museum Gala",
+      "url": "https://variety.com/2026/film/columns/taylor-swift-perform-academy-museum-gala-1236905184/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236905709",
+      "title": "Grace Coddington on the Future of Media,  Anna Wintour, AI and Beauty Standards: \u2018Everybody Wants to Look Young and It\u2019s Ridiculous\u2019",
+      "url": "https://variety.com/2026/shopping/fashion/grace-coddington-ai-beauty-standards-anna-wintour-1236905709/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:59:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236905716",
+      "title": "Kevin MacLellan, Paramount\u2019s Head of Global Content Distribution and International, Is Leaving Skydance Post-Merger",
+      "url": "https://variety.com/2026/tv/news/kevin-maclellan-leaving-skydance-1236905716/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:42:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723323",
+      "title": "Worst Girl in America: The Rebirth of Slayyyter",
+      "url": "https://www.hollywoodreporter.com/music/music-features/slayyyter-interview-underground-pop-star-1236723323/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723878",
+      "title": "Angie Harmon Returns to Directing for Lifetime\u2019s \u2018The Girl Who Disappeared\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/angie-harmon-lifetime-the-girl-who-disappeared-directing-1236723878/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236725475",
+      "title": "Taylor Swift to Perform at This Year\u2019s Academy Museum Gala",
+      "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-perform-academy-museum-gala-1236725475/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236725478",
+      "title": "Clive Davis Grammy Party Will Return in 2027",
+      "url": "https://www.hollywoodreporter.com/music/music-news/clive-davis-grammy-party-return-2027-1236725478/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:42:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236725365",
+      "title": "\u2018Other Mommy\u2019 First Reactions: \u201cJessica Chastain\u2019s Worst Movie in a Long Time\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/other-mommy-reviews-jessica-chastain-1236725365/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T16:37:08+00:00"
+    },
+    {
+      "guid": "stsbkCup8MygjSwR5p6BAa",
+      "title": "Arc Raiders Frozen Trail patch notes are full of sentences that players have dreamed of for years",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-frozen-trail-patch-notes-are-full-of-sentences-that-players-have-dreamed-of-for-years-you-can-now-open-the-map-while-downed/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:48:33+00:00"
+    },
+    {
+      "guid": "nqeaXEWyrkciLeeoDddomJ",
+      "title": "Xbox puts former Reddit and Facebook exec in charge of Minecraft studio Mojang",
+      "url": "https://www.gamesradar.com/games/minecraft/xbox-puts-former-reddit-and-facebook-exec-in-charge-of-minecraft-studio-mojang/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:36:23+00:00"
+    },
+    {
+      "guid": "u35mEjffP973bN6kk2JHZg",
+      "title": "WoW: Forever is \"simplifying\" Blizzard's usual PvP but also adding a controversial weekly grind",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-is-simplifying-blizzards-usual-pvp-but-also-adding-a-controversial-weekly-grind-as-mmo-fans-beg-please-dont-do-the-weeklies-thing/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:35:43+00:00"
+    },
+    {
+      "guid": "rpTcapQDDyVs4XEU3Je2Vm",
+      "title": "Where to find Celeste's childhood drawings in Arc Raiders",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-celestes-childhood-drawings/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:32:56+00:00"
+    },
+    {
+      "guid": "ycTdgnD7uqrXM6hZvPVFrn",
+      "title": "25 years after Burnout, Star Wars: Galactic Racer boss says \"we are asking way more\" from players",
+      "url": "https://www.gamesradar.com/games/racing/25-years-after-burnout-star-wars-galactic-racer-studio-lead-says-we-are-asking-way-more-out-of-players-than-weve-ever-done-because-modern-players-are-built-different/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:27:28+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207413",
+      "title": "I Love K-Pop, But This New PS5 Game Ain't It",
+      "url": "https://www.pushsquare.com/news/2026/10/i-love-k-pop-but-this-new-ps5-game-aint-it",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207411",
+      "title": "Fatal Fury PS5's Ridiculous DLC Run Continues with Tekken 8's Reina Teased",
+      "url": "https://www.pushsquare.com/news/2026/10/fatal-fury-ps5s-ridiculous-dlc-run-continues-with-tekken-8s-reina-teased",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124463",
+      "title": "Best Buy Holding Legend of Zelda: Ocarina of Time Remake Midnight Launch",
+      "url": "https://www.siliconera.com/best-buy-holding-legend-of-zelda-ocarina-of-time-remake-midnight-launch/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082218",
+      "title": "DAVE THE DIVER DLC \u2018Subnautica 2 Content Pack\u2019 announced",
+      "url": "https://www.gematsu.com/2026/10/dave-the-diver-dlc-subnautica-2-content-pack-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:45:07+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083120",
+      "title": "The Escapists 3 announced for PS5, Xbox Series, Switch 2, and PC",
+      "url": "https://www.gematsu.com/2026/10/the-escapists-3-announced-for-ps5-xbox-series-switch-2-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:43:55+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082708",
+      "title": "Norsfell announces top-down \u2018survivalite\u2019 action RPG Aftergods for PS5, Xbox Series, and PC",
+      "url": "https://www.gematsu.com/2026/10/norsfell-announces-top-down-survivalite-action-rpg-aftergods-for-ps5-xbox-series-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:39:13+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082279",
+      "title": "Trainwatch launches March 10, 2027",
+      "url": "https://www.gematsu.com/2026/10/trainwatch-launches-march-10-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:36:22+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082681",
+      "title": "Dark fantasy roguelike action game Little Prince Tyger announced for PC",
+      "url": "https://www.gematsu.com/2026/10/dark-fantasy-roguelike-action-game-little-prince-tyger-announced-for-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:34:17+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082261",
+      "title": "PRISON OF HUSKS launches January 27, 2027",
+      "url": "https://www.gematsu.com/2026/10/prison-of-husks-launches-january-27-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:29:29+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759538",
+      "title": "Overgeared Anime Confirms 12-Episode First Season as Fans Compare It With Solo Leveling",
+      "url": "https://otakukart.com/overgeared-anime-confirms-12-episode-first-season-as-fans-compare-it-with-solo-leveling/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:53:50+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759537",
+      "title": "FX Fighter Kurumi-chan Anime Opens With Warning That Forex Losses Can Exceed Deposited Funds and Affect Daily Life",
+      "url": "https://otakukart.com/fx-fighter-kurumi-chan-anime-opens-with-warning-that-forex-losses-can-exceed-deposited-funds-and-affect-daily-life/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:39:27+00:00"
+    },
+    {
+      "guid": "t3_1x0vy6s",
+      "title": "Playstation game news feature showing Mafia 3 PS5 Version is releasing very soon",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x0vy6s/playstation_game_news_feature_showing_mafia_3_ps5/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-08T16:45:32+00:00"
     }
   ]
 }
