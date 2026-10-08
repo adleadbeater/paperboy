@@ -941,6 +941,17 @@
       "article_titles": [
         "GTA 6 Has Some Very Famous Musicians Hosting Its Radio Stations, Including Bad Bunny"
       ]
+    },
+    {
+      "headline": "Paramount Is Developing a Cyberpunk 2077 Movie",
+      "tag": "cyberpunk 2077",
+      "posted_at": "2026-10-08T18:03:10.886405+00:00",
+      "urls": [
+        "https://deadline.com/2026/10/paramount-lorenzo-di-bonaventura-cyberpunk-2077-1237150129/"
+      ],
+      "article_titles": [
+        "Paramount And Producer Lorenzo di Bonaventura Developing Movie Based On \u2018Cyberpunk 2077\u2019 Video Game"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -2065,6 +2076,70 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-08T17:41:43+00:00"
+    },
+    {
+      "guid": "9x6ad6NFpdnzvjK8mbNvD3",
+      "title": "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
+      "url": "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T17:56:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237149519",
+      "title": "Jennifer Coolidge Returns For Season 2 Of \u2018The Watcher\u2019",
+      "url": "https://deadline.com/2026/10/jennifer-coolidge-season-2-the-watcher-1237149519/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150129",
+      "title": "Paramount And Producer Lorenzo di Bonaventura Developing Movie Based On \u2018Cyberpunk 2077\u2019 Video Game",
+      "url": "https://deadline.com/2026/10/paramount-lorenzo-di-bonaventura-cyberpunk-2077-1237150129/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150189",
+      "title": "\u2018Ludwig\u2019 Remake \u2018Rabbit\u2019 Lands Pilot Order At ABC",
+      "url": "https://deadline.com/2026/10/ludwig-remake-rabbit-pilot-abc-1237150189/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150255",
+      "title": "\u2018The Traitors: New Blood\u2019 Attracts Fresh Meat On NBC & Peacock",
+      "url": "https://deadline.com/2026/10/the-traitors-new-blood-ratings-boost-franchise-expansion-nbc-1237150255/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236903239",
+      "title": "Rooster Teeth Founders Matt Hullum and Burnie Burns Reunite for Christmas Horror Movie \u2018Bad Toys\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/rooster-teeth-matt-hullum-burnie-burns-movie-bad-toys-1236903239/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T18:00:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236905711",
+      "title": "Jennifer Coolidge to Return for \u2018The Watcher\u2019 Season 2",
+      "url": "https://variety.com/2026/tv/news/jennifer-coolidge-the-watcher-season-2-1236905711/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236905749",
+      "title": "\u2018Dexter: Resurrection\u2019 Season 2: Eric Stonestreet to Return",
+      "url": "https://variety.com/2026/tv/news/dexter-resurrection-season-2-eric-stonestreet-rapunzel-1236905749/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T18:00:00+00:00"
     }
   ]
 }
