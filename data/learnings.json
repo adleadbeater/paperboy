@@ -939,22 +939,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237148817",
-      "title": "How \u2018Chicago Fire\u2019 Star Dermot Mulroney Exits Series",
-      "url": "https://deadline.com/2026/10/chicago-fire-star-dermot-mulroney-exit-series-1237148817/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T02:13:20+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207362",
-      "title": "\ufeffPok\u00e9mon Ruby & Sapphire Switch Port Rumours Resurface Following \ufeffPok\u00e9mon HOME's Latest Update",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-08T01:55:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237149661",
       "title": "Alfonso Cuar\u00f3n & Jon\u00e1s Cuar\u00f3n On Future Of Cinema: \u201cThe Theatrical Experience Will Continue, But It Will Co-Exist With Many Different Forms\u201d",
       "url": "https://deadline.com/2026/10/alfonso-cuaron-jonas-cuaron-gravity-campeon-gabacho-busan-1237149661/",
@@ -977,6 +961,14 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-08T05:25:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236905277",
+      "title": "Vancouver Film Festival Prizes: Big Wins for Immigrant Tale \u2018Nina Roza,\u2019 the \u2018Polished Cinematic\u2019 \u2018In the Heart of the South\u2019 and Separated Sisters Story \u2018How We Stand\u2019",
+      "url": "https://variety.com/2026/film/global/vancouver-film-festival-prizes-nina-roza-how-we-stand-1236905277/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-08T06:36:42+00:00"
     }
   ]
 }
