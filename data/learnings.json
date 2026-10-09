@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Capcom Says Porting Monster Hunter Wilds to Switch 2 Has Been \"Painstaking\"",
-      "tag": "monster hunter wilds",
-      "posted_at": "2026-10-02T05:16:43.662738+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/10/capcom-admits-its-been-a-painstaking-process-porting-monster-hunter-wilds-to-switch-2"
-      ],
-      "article_titles": [
-        "Capcom Admits It's Been A \"Painstaking\" Process Porting Monster Hunter Wilds To Switch 2"
-      ]
-    },
-    {
       "headline": "Activision Is Reportedly Considering a Full Halo Reboot, With Sledgehammer Games Leading Development",
       "tag": "halo",
       "posted_at": "2026-10-02T13:31:57.700805+00:00",
@@ -1011,42 +1000,93 @@
       "article_titles": [
         "Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'"
       ]
+    },
+    {
+      "headline": "Street Fighter 6's producer says Capcom knew the franchise was on the brink of death before SF6",
+      "tag": "street fighter 6",
+      "posted_at": "2026-10-09T13:00:52.669465+00:00",
+      "urls": [
+        "https://kotaku.com/street-fighter-6-producer-knew-capcom-had-to-do-something-to-save-the-series-if-we-left-it-as-it-was-the-ip-would-likely-die-in-10-years-2000743223"
+      ],
+      "article_titles": [
+        "Street Fighter 6 Producer Knew Capcom Had To Do Something To Save The Series: \u2018If We Left It As It Was, The IP Would Likely Die In 10 Years\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236906279",
-      "title": "Indian Premier League Stands Alone at the Top as Asia Pacific Sports Rights Growth Slows, Media Partners Asia Finds",
-      "url": "https://variety.com/2026/sports/news/indian-premier-league-leads-apac-sports-rights-growth-slows-1236906279/",
-      "source_name": "Variety",
+      "guid": "https://kotaku.com/?p=2000743223",
+      "title": "Street Fighter 6 Producer Knew Capcom Had To Do Something To Save The Series: \u2018If We Left It As It Was, The IP Would Likely Die In 10 Years\u2019",
+      "url": "https://kotaku.com/street-fighter-6-producer-knew-capcom-had-to-do-something-to-save-the-series-if-we-left-it-as-it-was-the-ip-would-likely-die-in-10-years-2000743223",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-10-09T03:00:00+00:00"
+      "published_dt": "2026-10-09T12:44:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237149879",
-      "title": "Daughter Of Dead BBC & \u2018Paddington\u2019 Star Accuses Royal Mail Of Resurrecting Her Father\u2019s Voice Using AI: \u201cIt\u2019s Outrageous\u201d",
-      "url": "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/",
-      "source_name": "Deadline",
+      "guid": "DtjZzSBUncLgbS5qywL2jN",
+      "title": "Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/",
+      "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-10-09T05:36:27+00:00"
+      "published_dt": "2026-10-09T12:42:55+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236905546",
-      "title": "Italy\u2019s RAI Inks Major Deal for High-Profile, Female-Led Titles With Beta Film Ahead of Mipcom (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/italy-rai-beta-film-barton-vet-mozart-mozart-mipcom-1236905546/",
+      "guid": "https://variety.com/?p=1236906258",
+      "title": "AI-Assisted Animated K-Drama \u2018The Painted Soul\u2019 From \u2018Mouse\u2019 Director Sets Rakuten Viki Launch (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-09T06:28:05+00:00"
+      "published_dt": "2026-10-09T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236906316",
-      "title": "Indian Crime Drama \u2018Chaar Yaar\u2019 Sets Global Premiere on Prime Video (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/indian-crime-drama-chaar-yaar-premiere-prime-video-1236906316/",
+      "guid": "https://variety.com/?p=1236906434",
+      "title": "Skydance-Owned Channel 5 Profits Dropped by $32 Million Last Year Due to Ad Market and Inward Streaming Investment",
+      "url": "https://variety.com/2026/tv/global/channel-5-profits-ad-market-streaming-1236906434/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-09T06:25:00+00:00"
+      "published_dt": "2026-10-09T12:58:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236726151",
+      "title": "\u2018The French Connection\u2019: THR\u2019s 1971 Review",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/french-connection-review-movie-1236726151/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T12:58:19+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207449",
+      "title": "Dave The Diver's Final DLC Is The Perfect Crossover",
+      "url": "https://www.nintendolife.com/news/2026/10/dave-the-divers-final-dlc-is-the-perfect-crossover",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083337",
+      "title": "Zenless Zone Zero version 3.3 update \u2018Journey to the Sky\u2019 launches October 21",
+      "url": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T12:55:35+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759668",
+      "title": "Once Upon A KATAMARI Launches on Nintendo Switch 2 Alongside Rolling LIVE Highlights DLC",
+      "url": "https://otakukart.com/once-upon-a-katamari-launches-on-nintendo-switch-2-alongside-rolling-live-highlights-dlc/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T12:49:07+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759667",
+      "title": "Epic Seven Announces October 29 Steam Launch, New Foundry Server, and E7WC 2026 Tournament",
+      "url": "https://otakukart.com/epic-seven-announces-october-29-steam-launch-new-foundry-server-and-e7wc-2026-tournament/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T12:28:06+00:00"
     }
   ]
 }
