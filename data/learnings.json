@@ -1017,22 +1017,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236905719",
-      "title": "Ice-T on \u2018Law & Order: SVU\u2019s\u2019 Longevity and Cultural Impact: \u2018I\u2019m on a Good Treadmill, and I Want to Stay on It\u2019",
-      "url": "https://variety.com/2026/biz/news/ice-t-law-order-svu-longevity-cultural-impact-1236905719/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T23:11:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236906114",
-      "title": "\u2018Animals\u2019 Review: Ben Affleck Returns to the Director\u2019s Chair for a Nasty, Compulsive Kidnapping Thriller",
-      "url": "https://variety.com/2026/film/reviews/animals-review-ben-affleck-1236906114/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-08T23:05:48+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236906279",
       "title": "Indian Premier League Stands Alone at the Top as Asia Pacific Sports Rights Growth Slows, Media Partners Asia Finds",
       "url": "https://variety.com/2026/sports/news/indian-premier-league-leads-apac-sports-rights-growth-slows-1236906279/",
@@ -1055,6 +1039,14 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-09T02:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237149879",
+      "title": "Daughter Of Dead BBC & \u2018Paddington\u2019 Star Accuses Royal Mail Of Resurrecting Her Father\u2019s Voice Using AI: \u201cIt\u2019s Outrageous\u201d",
+      "url": "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T05:36:27+00:00"
     }
   ]
 }
