@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6 Is Taking Over Miami: Rockstar Rebrands the Heat to Vice City for a Night",
-      "tag": "gta 6",
-      "posted_at": "2026-10-02T14:31:22.694159+00:00",
-      "urls": [
-        "https://kotaku.com/gta-6-marketing-ramps-up-as-miami-heat-announce-vice-city-night-that-sounds-very-expensive-2000739310",
-        "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only"
-      ],
-      "article_titles": [
-        "GTA 6 Marketing Ramps Up As Miami Heat Announce Vice City Night That Sounds Very Expensive",
-        "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only"
-      ]
-    },
-    {
       "headline": "This Upcoming Game Dev Simulator Is So Deep Your In-Game Game Can Actually Get Cyber-Leaked",
       "tag": "",
       "posted_at": "2026-10-02T16:31:23.237753+00:00",
@@ -1024,6 +1011,30 @@
         "Inside The Failed Fight To Unionize One Of Gaming\u2019s Most Idealized Studios",
         "Our Interview With Tim Schafer About Unionization At Psychonauts Studio Double Fine"
       ]
+    },
+    {
+      "headline": "Charlie Cox Has Already Recorded 40 Hours of Dialogue for a Mystery Sega Game",
+      "tag": "sega",
+      "posted_at": "2026-10-09T15:31:33.130030+00:00",
+      "urls": [
+        "https://kotaku.com/charlie-cox-reveals-hes-already-recorded-40-hours-of-lines-for-a-surprise-sega-game-2000742798",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x1noij/charlie_cox_leaks_that_he_has_recorded_40_hours/"
+      ],
+      "article_titles": [
+        "Charlie Cox Reveals He\u2019s Already Recorded 40 Hours Of Lines For A Surprise Sega Game",
+        "Charlie Cox leaks that he has recorded 40 hours of lines for a new SEGA game"
+      ]
+    },
+    {
+      "headline": "A CS2 Player Wrote Their Entire Master's Thesis on Catching Cheaters \u2014 and It Works",
+      "tag": "counter-strike 2",
+      "posted_at": "2026-10-09T15:31:33.287927+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/"
+      ],
+      "article_titles": [
+        "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1484,6 +1495,206 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000742798",
+      "title": "Charlie Cox Reveals He\u2019s Already Recorded 40 Hours Of Lines For A Surprise Sega Game",
+      "url": "https://kotaku.com/charlie-cox-reveals-hes-already-recorded-40-hours-of-lines-for-a-surprise-sega-game-2000742798",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:00:04+00:00"
+    },
+    {
+      "guid": "7hPCry4D43rX49jLPnkKHe",
+      "title": "WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:13:04+00:00"
+    },
+    {
+      "guid": "w6RVBSGwoXbYVCfMSL93aS",
+      "title": "Motion blur is the worst effect in games (confirmed)",
+      "url": "https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:05:37+00:00"
+    },
+    {
+      "guid": "238qZ5tbC2jvuXkvsKjAWV",
+      "title": "When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut\u2014they're some of the best loot spots I've found",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:00:49+00:00"
+    },
+    {
+      "guid": "zFLe6wRrHyJCo2eAd697LL",
+      "title": "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system",
+      "url": "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:59:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150975",
+      "title": "Danny Boyle Says \u201828 Years Later: Part III\u2019 Is Currently On The \u201cBack Burner\u201d",
+      "url": "https://deadline.com/2026/10/danny-boyle-28-years-later-part-iii-back-burner-1237150975/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:20:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150961",
+      "title": "Court TV Parent Law & Crime Ups Rachel Stockman To CEO; Founder Dan Abrams To Remain As Chairman",
+      "url": "https://deadline.com/2026/10/court-tv-law-and-crime-rachel-stockman-ceo-dan-abrams-1237150961/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:17:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150934",
+      "title": "Craig Ferguson & Megyn Price Starring In Addiction Dramedy Series \u2018Quitters\u2019 For Angel",
+      "url": "https://deadline.com/2026/10/craig-ferguson-megyn-price-angel-series-quitters-1237150934/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:08:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150019",
+      "title": "International Insider: \u2018Doctor Who\u2019 Regeneration Underway; MIPCOM Preview; Busan Takeaways",
+      "url": "https://deadline.com/2026/10/international-insider-doctor-who-regeneration-underway-1237150019/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:05:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150762",
+      "title": "Sarah Snook & \u2018Game Of Thrones\u2019 Stars Shows Adapted As Microdramas For Snips",
+      "url": "https://deadline.com/2026/10/snips-microdramas-succession-game-of-thrones-stars-adapted-1237150762/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150777",
+      "title": "Geeta Gandbhir, Sam Pollard, Alisa Payne Board ICE-Themed Oscar Contender \u2018Water Cooler\u2019 As EPs",
+      "url": "https://deadline.com/2026/10/water-cooler-executive-producer-announcement-1237150777/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236904699",
+      "title": "Bill Owens and Wendy McMahon on Why They Left CBS News: \u2018The Match Was Fixed\u2019",
+      "url": "https://variety.com/2026/tv/news/bill-owens-wendy-mcmahon-why-they-left-60-minutes-cbs-news-1236904699/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:10:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906569",
+      "title": "Classic Moments With Dolly Parton, Remembered by the Actors Portraying Her in the Broadway Musical, \u2018A True Original\u2019: \u2018I\u2019m Jezebel, and God Loves Me Anyway!\u2019",
+      "url": "https://variety.com/2026/legit/news/dolly-parton-remembered-actors-broadway-musical-1236906569/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:05:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236723482",
+      "title": "The Most Powerful Women in International TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/most-powerful-women-international-tv-1236723482/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236726228",
+      "title": "Mike Ditka, No-Nonsense Chicago Bears Legend and TV Analyst, Dies at 86",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/mike-ditka-dead-chicago-bears-1236726228/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:28:43+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236726172",
+      "title": "$1.1 Billion for Five Warner Bros. Execs: Who Cashed Out From Paramount Sale",
+      "url": "https://www.hollywoodreporter.com/business/business-news/wbd-exes-1-billion-skydance-sale-1236726172/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T15:03:10+00:00"
+    },
+    {
+      "guid": "xLDNaiEUt9j8jyiGHYWtDo",
+      "title": "WoW: Forever patch notes leave fans asking Blizzard \"why\" and hoping for more class changes",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-patch-notes-leave-fans-asking-blizzard-why-and-hoping-for-more-class-adjustments/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:21:02+00:00"
+    },
+    {
+      "guid": "V3G6BiWWSYzAKvWUtJwcaG",
+      "title": "Dragon's Dogma 2 Dark Arisen is kicking players' butts, and they're loving it: \"Everything I wanted\"",
+      "url": "https://www.gamesradar.com/games/rpg/dragons-dogma-2-dark-arisen-is-kicking-players-butts-and-theyre-loving-it-the-new-dlc-is-everything-i-wanted/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:15:49+00:00"
+    },
+    {
+      "guid": "eB5VWfWQ7fHvhrrLkKdWy5",
+      "title": "Help! The Witcher 3 Remastered keeps distracting me with beautiful sunsets",
+      "url": "https://www.gamesradar.com/games/rpg/help-the-witcher-3-remastered-keeps-distracting-me-with-beautiful-sunsets-i-took-4-hours-to-leave-white-orchard/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:00:00+00:00"
+    },
+    {
+      "guid": "1913581",
+      "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
+      "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:01:41+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207359",
+      "title": "Nintendo Download: 8th October (North America) - Plus 3 Discounted Games That Should Be On Your Radar",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-8th-october-north-america-plus-3-discounted-games-that-should-be-on-your-radar",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-206892",
+      "title": "Community: Played A Top Switch Game We Missed? Send Us Your Recommendations",
+      "url": "https://www.nintendolife.com/features/community-played-a-top-switch-game-we-missed-send-us-your-recommendations",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207289",
+      "title": "Interview: \"It Was A Match Made In Heaven\" - Ghostbusters: Special Edition ROM Hacker On Giving The Sega Mega Drive / Genesis Title A Better Afterlife",
+      "url": "https://www.timeextension.com/features/interview-it-was-a-match-made-in-heaven-ghostbusters-special-edition-rom-hacker-on-giving-the-sega-mega-drive-genesis-title-a-better-afterlif",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083396",
+      "title": "Shadow of the Road delayed to March 10, 2027",
+      "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:14:05+00:00"
+    },
+    {
+      "guid": "t3_1x1noij",
+      "title": "Charlie Cox leaks that he has recorded 40 hours of lines for a new SEGA game",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x1noij/charlie_cox_leaks_that_he_has_recorded_40_hours/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T15:02:08+00:00"
     }
   ]
 }
