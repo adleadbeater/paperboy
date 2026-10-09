@@ -1067,14 +1067,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "fe9c96f8-472c-48f4-8d49-e30a91137afc",
-      "title": "Militsioner Preview: Flirting with a Colossal Policeman to Beat the Allegations",
-      "url": "https://www.ign.com/articles/militsioner-preview-flirting-with-a-colossal-policeman-to-beat-the-allegations",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-09T13:31:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000743226",
       "title": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated \u2018Sex And Nudity Policy\u2019",
       "url": "https://kotaku.com/youtuber-gets-banned-for-hellraiser-revival-censored-gameplay-video-that-still-violated-sex-and-nudity-policy-2000743226",
@@ -2137,6 +2129,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-09T17:07:50+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906731",
+      "title": "DC Comics Now Sits Within Skydance Products & Publishing Division, Alongside Warner Bros. and Paramount Consumer Products Groups",
+      "url": "https://variety.com/2026/biz/news/dc-comics-skydance-products-publishing-division-warner-bros-paramount-1236906731/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T17:30:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236899774",
+      "title": "Music Industry Moves: Believe Names Adriana Sein President of Americas; Guy Moot Joins NMPA Board",
+      "url": "https://variety.com/2026/music/news/thomas-rhett-label-partnership-hybe-blue-highway-1236899774/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T17:20:00+00:00"
     }
   ]
 }
