@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 6's Age Rating Suggests Full Sex Scenes \u2014 And No, Hot Coffee Doesn't Count",
-      "tag": "gta 6",
-      "posted_at": "2026-10-02T14:01:16.214418+00:00",
-      "urls": [
-        "https://www.eurogamer.net/gta-6-sex-scenes-pegi-esrb-ratings-boards"
-      ],
-      "article_titles": [
-        "Grand Theft Auto 6 may be the first GTA to have full-on \"sex scenes\", Hot Coffee not included"
-      ]
-    },
-    {
-      "headline": "Final Fantasy 7 Revelation's Director Reflects on That \"Extravagant\" Sephiroth Fight and Whether This Trilogy Could Ever Be Topped",
-      "tag": "final fantasy 7",
-      "posted_at": "2026-10-02T14:01:16.441746+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/final-fantasy/final-fantasy-7-revelation-director-on-its-very-extravagant-final-sephiroth-fight-and-whether-anyone-will-ever-pull-something-like-this-trilogy-off-again/"
-      ],
-      "article_titles": [
-        "Final Fantasy 7 Revelation director on its \"very extravagant\" final Sephiroth fight and whether anyone will ever pull something like this trilogy off again"
-      ]
-    },
-    {
       "headline": "GTA 6 Is Taking Over Miami: Rockstar Rebrands the Heat to Vice City for a Night",
       "tag": "gta 6",
       "posted_at": "2026-10-02T14:31:22.694159+00:00",
@@ -1033,6 +1011,19 @@
       "article_titles": [
         "Nintendo of America Chief Breaks Down Her First Year: \u2018Zelda\u2019 Live-Action Movie, \u2018GTA 6,\u2019 Third-Party Game Goals and More"
       ]
+    },
+    {
+      "headline": "Double Fine Workers Tried to Unionize \u2014 and Failed. Here's What Happened Inside",
+      "tag": "double fine",
+      "posted_at": "2026-10-09T14:30:47.410794+00:00",
+      "urls": [
+        "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+        "https://kotaku.com/our-interview-with-tim-schafer-about-unionization-at-psychonauts-studio-double-fine-2000741988"
+      ],
+      "article_titles": [
+        "Inside The Failed Fight To Unionize One Of Gaming\u2019s Most Idealized Studios",
+        "Our Interview With Tim Schafer About Unionization At Psychonauts Studio Double Fine"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1299,6 +1290,94 @@
       "title": "A truly great character creator \"lets the ugly parts in\"",
       "url": "https://www.gamesradar.com/games/a-truly-great-character-creator-lets-the-ugly-parts-in/",
       "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000742755",
+      "title": "Inside The Failed Fight To Unionize One Of Gaming\u2019s Most Idealized Studios",
+      "url": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:00:24+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000741988",
+      "title": "Our Interview With Tim Schafer About Unionization At Psychonauts Studio Double Fine",
+      "url": "https://kotaku.com/our-interview-with-tim-schafer-about-unionization-at-psychonauts-studio-double-fine-2000741988",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:00:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150907",
+      "title": "Robby Hoffman Sets Second Netflix Special",
+      "url": "https://deadline.com/2026/10/robby-hoffman-new-netflix-special-1237150907/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237150620",
+      "title": "Netflix Eyes Major Layoffs \u2013 The Dish",
+      "url": "https://deadline.com/2026/10/netflix-layoffs-1237150620/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:06:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906525",
+      "title": "Gunna Launches SB the Label in Partnership With Atlantic Music Group",
+      "url": "https://variety.com/2026/music/news/gunna-launches-sb-label-atlantic-music-group-1236906525/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:22:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906515",
+      "title": "Hollywood Defends \u2018Digger\u2019: Anne Hathaway and More Praise Tom Cruise\u2019s Flop as Guillermo del Toro Says \u2018Love the Arts. F\u2014 the Charts\u2019",
+      "url": "https://variety.com/2026/film/news/anne-hathaway-defends-digger-tom-cruise-flop-1236906515/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:19:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236725897",
+      "title": "Robby Hoffman Snags Stand-Up Sequel at Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/robby-hoffman-netflix-standup-special-2027-1236725897/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:30:00+00:00"
+    },
+    {
+      "guid": "1913562",
+      "title": "The EU Is Coming For Gaming\u2019s Most Manipulative Monetization Tactics",
+      "url": "https://www.gamespot.com/articles/the-eu-is-coming-for-gamings-most-manipulative-monetization-tactics/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T14:01:08+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207450",
+      "title": "CD Projekt Red Delivers The Witcher 3 Remastered Fixes, Improvements in Patch 5.01",
+      "url": "https://www.pushsquare.com/news/2026/10/cd-projekt-red-delivers-the-witcher-3-remastered-fixes-improvements-in-patch-5-01",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124551",
+      "title": "Zenless Zone Zero Gets Honkai: Star Rail Crossover in 3.4, Severian in 3.3",
+      "url": "https://www.siliconera.com/zenless-zone-zero-gets-honkai-star-rail-crossover-in-3-4-severian-in-3-3/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207336",
+      "title": "Japan-Only Famicom Adventure Ripple Island Brings Fairy Tale Whimsy To The Console Archives",
+      "url": "https://www.timeextension.com/news/2026/10/japan-only-famicom-adventure-ripple-island-brings-fairy-tale-whimsy-to-the-console-archives",
+      "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-10-09T14:00:00+00:00"
     }
