@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Activision Is Reportedly Considering a Full Halo Reboot, With Sledgehammer Games Leading Development",
-      "tag": "halo",
-      "posted_at": "2026-10-02T13:31:57.700805+00:00",
-      "urls": [
-        "https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot"
-      ],
-      "article_titles": [
-        "Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge"
-      ]
-    },
-    {
       "headline": "GTA 6's Age Rating Suggests Full Sex Scenes \u2014 And No, Hot Coffee Doesn't Count",
       "tag": "gta 6",
       "posted_at": "2026-10-02T14:01:16.214418+00:00",
@@ -1033,6 +1022,17 @@
       "article_titles": [
         "Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated"
       ]
+    },
+    {
+      "headline": "Nintendo of America's president opens up on the Zelda movie, GTA 6, and third-party strategy",
+      "tag": "nintendo",
+      "posted_at": "2026-10-09T14:01:06.071278+00:00",
+      "urls": [
+        "https://variety.com/2026/gaming/news/legend-of-zelda-movie-gta-6-nintendo-devon-pritchard-interview-1236906466/"
+      ],
+      "article_titles": [
+        "Nintendo of America Chief Breaks Down Her First Year: \u2018Zelda\u2019 Live-Action Movie, \u2018GTA 6,\u2019 Third-Party Game Goals and More"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1237,6 +1237,70 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-09T13:02:07+00:00"
+    },
+    {
+      "guid": "fe9c96f8-472c-48f4-8d49-e30a91137afc",
+      "title": "Militsioner Preview: Flirting with a Colossal Policeman to Beat the Allegations",
+      "url": "https://www.ign.com/articles/militsioner-preview-flirting-with-a-colossal-policeman-to-beat-the-allegations",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T13:31:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000743226",
+      "title": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated \u2018Sex And Nudity Policy\u2019",
+      "url": "https://kotaku.com/youtuber-gets-banned-for-hellraiser-revival-censored-gameplay-video-that-still-violated-sex-and-nudity-policy-2000743226",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T13:45:33+00:00"
+    },
+    {
+      "guid": "2ytZCenPBWfTXKTJdkUBSZ",
+      "title": "How to get planks and sheet metal in Arc Raiders",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T13:57:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906466",
+      "title": "Nintendo of America Chief Breaks Down Her First Year: \u2018Zelda\u2019 Live-Action Movie, \u2018GTA 6,\u2019 Third-Party Game Goals and More",
+      "url": "https://variety.com/2026/gaming/news/legend-of-zelda-movie-gta-6-nintendo-devon-pritchard-interview-1236906466/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906444",
+      "title": "\u2018The Handmaid\u2019s Tale\u2019 Cinematographer B\u00e9r\u00e9nice Eveno to Direct Paris Thriller \u2018Sleepless Nights,\u2019 Starring Sawsan Abes, as SND Boards Sales (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/global/handmaids-tale-cinematographer-direct-sleepless-nights-1236906444/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T13:39:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236905356",
+      "title": "The Lumi\u00e8re Festival\u2019s Classic Film Market Gains International Reach, Honors Greece and Spotlights Taiwan as Heritage Films Grow in Market Value",
+      "url": "https://variety.com/2026/film/global/lumiere-mifc-classic-film-catalogue-1236905356/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T13:35:34+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906437",
+      "title": "Australian Classic \u2018Caddie,\u2019 Considered a Landmark Film of Australia\u2019s New Wave, Acquired by Potential Films Ahead of Lumi\u00e8re Film Festival Premiere",
+      "url": "https://variety.com/2026/film/global/australia-classic-caddie-potential-films-lumiere-mifc-1236906437/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-09T13:35:34+00:00"
+    },
+    {
+      "guid": "Wf2ubECMngnedcTZV5jvsc",
+      "title": "A truly great character creator \"lets the ugly parts in\"",
+      "url": "https://www.gamesradar.com/games/a-truly-great-character-creator-lets-the-ugly-parts-in/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-09T14:00:00+00:00"
     }
   ]
 }
