@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Capcom Plans to Transform Its RE Engine Into an AI-Generation Game Engine",
-      "tag": "capcom",
-      "posted_at": "2026-10-03T15:17:10.670956+00:00",
-      "urls": [
-        "https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project"
-      ],
-      "article_titles": [
-        "Capcom plans to evolve RE Engine into an \"AI-generation game engine\""
-      ]
-    },
-    {
       "headline": "RuneScape 4 Is Real \u2014 Full MMO Sequel Announced at RuneFest",
       "tag": "runescape",
       "posted_at": "2026-10-03T21:52:35.838391+00:00",
@@ -1068,18 +1057,72 @@
       "article_titles": [
         "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
       ]
+    },
+    {
+      "headline": "Jailbroken PS5 Can Now Run PS2 Disc Games via Emulation",
+      "tag": "playstation 5",
+      "posted_at": "2026-10-10T20:11:43.410576+00:00",
+      "urls": [
+        "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781"
+      ],
+      "article_titles": [
+        "Jailbroken PS5s Can Now Emulate PS2 Games Using Physical Discs"
+      ]
+    },
+    {
+      "headline": "GTA 6 Leaker CyberLeek Threatens to Release a Full Playable Build of the Game",
+      "tag": "gta 6",
+      "posted_at": "2026-10-10T20:11:43.789124+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak"
+      ],
+      "article_titles": [
+        "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236906453",
-      "title": "\u2018Rio,\u2019 \u2018Ice Age\u2019 Director Carlos Saldanha on \u2018Wonderful Homecoming\u2019 With Ambitious Brazilian Adventure Film \u2018100 Days\u2019: \u2018It Deserved a Big Cinema Treatment\u2019",
-      "url": "https://variety.com/2026/film/global/rio-ice-age-director-carlos-saldanha-100-days-rio-film-fest-1236906453/",
+      "guid": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+      "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+      "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T19:42:21+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000743781",
+      "title": "Jailbroken PS5s Can Now Emulate PS2 Games Using Physical Discs",
+      "url": "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T19:51:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154069",
+      "title": "Nicolas Cage Didn\u2019t Sign AI Waiver For \u2018Spider-Noir\u2019 & \u201cProbably\u201d Won\u2019t Work Again With \u201cAI-Friendly\u201d Amazon; Teases \u2018True Detective\u2019 Role",
+      "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T19:46:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236907684",
+      "title": "Joseph Gordon-Levitt Says A.I. Is Being Trained to \u2018Hijack Your Intimacy\u2019: \u2018We Should Be Concerned\u2019",
+      "url": "https://variety.com/2026/film/news/joseph-gordon-levitt-a-i-worries-decline-of-democracy-1236907684/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-10T16:03:12+00:00"
+      "published_dt": "2026-10-10T19:53:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236907307",
+      "title": "\u2018Tenzing\u2019 Review: A Remarkable Adventure That Puts the Audience Right Up on Mount Everest, Along with the First Two Men \u2014 One a Sherpa, Overlooked by History \u2014 to Scale It",
+      "url": "https://variety.com/2026/film/reviews/tenzing-review-tom-hiddelston-mount-everest-1236907307/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T19:52:45+00:00"
     }
   ]
 }
