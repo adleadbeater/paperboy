@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Neon Genesis Evangelion Is Getting a VR Game With an Alternate-Universe Story in 2027",
-      "tag": "neon genesis evangelion",
-      "posted_at": "2026-10-02T19:30:47.711679+00:00",
-      "urls": [
-        "https://kotaku.com/neon-genesis-evangelion-is-set-to-jump-into-vr-in-2027-for-an-alternative-universe-retelling-of-the-anime-2000739163"
-      ],
-      "article_titles": [
-        "Neon Genesis Evangelion Is Set To Jump Into VR In 2027 For An Alternate-Universe Retelling Of The Anime"
-      ]
-    },
-    {
-      "headline": "Sony in Talks to Turn Battlefield Into a Movie With Christopher McQuarrie and Michael B. Jordan",
-      "tag": "battlefield",
-      "posted_at": "2026-10-02T20:00:51.798315+00:00",
-      "urls": [
-        "https://variety.com/2026/film/news/michael-b-jordan-battlefield-video-game-movie-sony-1236731771/"
-      ],
-      "article_titles": [
-        "Sony in Talks to Land \u2018Battlefield\u2019 Video Game Movie From Christopher McQuarrie and Michael B. Jordan"
-      ]
-    },
-    {
       "headline": "Capcom Plans to Transform Its RE Engine Into an AI-Generation Game Engine",
       "tag": "capcom",
       "posted_at": "2026-10-03T15:17:10.670956+00:00",
@@ -1079,18 +1057,61 @@
         "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
         "US console market hasn't been this bad \"since the early 80s,\" analyst says"
       ]
+    },
+    {
+      "headline": "Silent Hill and Gravity Rush Director's Studio Is Casting for a New Horror Game",
+      "tag": "bokeh game studio",
+      "posted_at": "2026-10-10T12:00:36.554085+00:00",
+      "urls": [
+        "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting"
+      ],
+      "article_titles": [
+        "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236907324",
-      "title": "Vietnamese Supernatural Horror \u2018Bloodline: The Curse Within\u2019 Heads to Busan Market With Mockingbird Pictures (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324/",
+      "guid": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+      "title": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+      "url": "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T11:44:06+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237153908",
+      "title": "L\u00e9a Seydoux & Marie Kreutzer On The \u201cEarthquake\u201d At The Heart Of \u2018Gentle Monster\u2019 \u2014 Contenders London",
+      "url": "https://deadline.com/2026/10/lea-seydoux-marie-kreutzer-on-earthquake-of-gentle-monster-1237153908/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T11:57:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237153918",
+      "title": "Guy Nattiv & Carrie Coon On Finding Empathy In \u2018The Liberation\u2019: \u201cWho Are We To Say What Is Required For Someone To Move On?\u201d \u2014 Contenders London",
+      "url": "https://deadline.com/2026/10/guy-nattiv-carrie-coon-the-liberation-lily-james-bleecker-1237153918/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T11:41:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237153936",
+      "title": "Si\u00e2n Heder & The \u2018Being Heumann\u2019 Crew On Creating An Inclusive Film & Production Environment \u2014 Contenders London",
+      "url": "https://deadline.com/2026/10/sian-heder-being-heumann-inclusive-contenders-london-1237153936/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-10T11:34:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236907394",
+      "title": "Netflix Romance \u2018Love Untangled\u2019 Director Namkoong Sun on Netflix Freedom and the Funding and Distribution Gap in Korean Indie Film",
+      "url": "https://variety.com/2026/tv/festivals/love-untangled-director-netflix-korean-indie-film-busan-1236907394/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-10T05:59:30+00:00"
+      "published_dt": "2026-10-10T11:36:14+00:00"
     }
   ]
 }
