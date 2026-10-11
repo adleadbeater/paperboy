@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "RuneScape 4 Is Real \u2014 Full MMO Sequel Announced at RuneFest",
-      "tag": "runescape",
-      "posted_at": "2026-10-03T21:52:35.838391+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/"
-      ],
-      "article_titles": [
-        "RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds"
-      ]
-    },
-    {
       "headline": "Dead by Daylight's Studio Is Building a Triple-A Sci-Fi First-Person Shooter",
       "tag": "behaviour interactive",
       "posted_at": "2026-10-05T13:01:04.091045+00:00",
@@ -1079,42 +1068,61 @@
       "article_titles": [
         "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game"
       ]
+    },
+    {
+      "headline": "A New Naruto Manga and Spin-Off Anime Were Just Announced at New York Comic Con",
+      "tag": "naruto",
+      "posted_at": "2026-10-11T16:50:12.574367+00:00",
+      "urls": [
+        "https://kotaku.com/new-naruto-manga-and-spin-off-anime-announced-at-new-york-comic-con-2000744146"
+      ],
+      "article_titles": [
+        "New Naruto Manga And Spin-Off Anime Announced At New York Comic Con"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237154186",
-      "title": "\u2018Saturday Night Live\u2019: Shane Gillis\u2019 Third Time Hosting Is Saved By Cast Newbie Grace Reiter",
-      "url": "https://deadline.com/2026/10/saturday-night-live-shane-gillis-grace-reiter-1237154186/",
+      "guid": "https://kotaku.com/?p=2000744146",
+      "title": "New Naruto Manga And Spin-Off Anime Announced At New York Comic Con",
+      "url": "https://kotaku.com/new-naruto-manga-and-spin-off-anime-announced-at-new-york-comic-con-2000744146",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-11T16:26:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154325",
+      "title": "James Stewart\u2019s Daughter Praises KJ Apa For \u201cBringing Him To Life\u201d In \u2018Jimmy\u2019 Biopic: \u201cIt Was Eerie\u201d",
+      "url": "https://deadline.com/2026/10/james-stewart-daughter-praises-kj-apa-jimmy-biopic-1237154325/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-11T05:06:21+00:00"
+      "published_dt": "2026-10-11T16:32:36+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236727138",
-      "title": "Netflix Has Used AI on About 300 Titles, but \u201cHuman Touch Is Critical,\u201d Exec Says in Busan",
-      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
+      "guid": "https://deadline.com/?p=1237151001",
+      "title": "\u2018The Social Reckoning\u2019 Bombs With $5.5 Million Opening, Horror \u2018Other Mommy\u2019 Rules Weekend\u2019 \u2013 Box Office Update",
+      "url": "https://deadline.com/2026/10/box-office-other-mommy-social-reckoning-1237151001/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-11T16:31:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236893901",
+      "title": "Spain Hits Mipcom With Prestige Dramas, Reality Formats, Headed by Can Yaman, \u2018Nowhere\u2019 Star Anna Castillo and \u2018La Mesias\u2019 Lead Carmen Machi",
+      "url": "https://variety.com/2026/tv/markets-festivals/movistar-plus-mediaset-the-mediapro-studio-atresmedia-rtve-1236893901/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-11T16:37:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236726908",
+      "title": "\u2018Social Reckoning\u2019 Goes Dark With $5.5M as \u2018Other Mommy\u2019 Delivers at Box Office",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/other-mommy-box-office-social-reckoning-opening-1236726908/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-11T05:12:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236907993",
-      "title": "Sci-Fi Thriller \u2018Overstake\u2019 Gets Generative AI Rebuild, Boarded by Cappu Films at Busan Market (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-11T06:31:57+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236907983",
-      "title": "Rosal\u00eda Performs an Entire Number En Pointe on \u2018SNL,\u2019 Then Cools Off With a Nice Shower",
-      "url": "https://variety.com/2026/music/news/rosalia-snl-en-pointe-performance-reliquia-magnolias-1236907983/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-11T06:23:24+00:00"
+      "published_dt": "2026-10-11T16:19:24+00:00"
     }
   ]
 }
