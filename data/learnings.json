@@ -1,54 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Zelda and Banjo Recompilation Devs Push Back Against AI \"Slopcomps\"",
-      "tag": "zelda",
-      "posted_at": "2026-10-05T14:31:06.103559+00:00",
-      "urls": [
-        "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936"
-      ],
-      "article_titles": [
-        "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded \u2018Slopcomps\u2019"
-      ]
-    },
-    {
-      "headline": "Ninja Theory Is Laying Off Staff After Two Studio-Saving Deals Collapsed",
-      "tag": "ninja theory",
-      "posted_at": "2026-10-05T15:01:10.492309+00:00",
-      "urls": [
-        "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
-        "https://kotaku.com/senua-studio-ninja-theory-layoffs-consultation-2000739951",
-        "https://www.pushsquare.com/news/2026/10/hellblade-dev-begins-shedding-staff-months-after-revealing-new-game-at-xbox-showcase"
-      ],
-      "article_titles": [
-        "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
-        "Senua Studio Ninja Theory Begins Letting People Go After Two Deals To Save The Studio Fell Through",
-        "Hellblade Dev Begins Shedding Staff, Months After Revealing New Game at Xbox Showcase"
-      ]
-    },
-    {
-      "headline": "Capcom Says Generative AI Won't Replace Human Developers in the RE Engine",
-      "tag": "capcom",
-      "posted_at": "2026-10-05T15:30:59.963205+00:00",
-      "urls": [
-        "https://kotaku.com/heres-what-capcom-said-about-using-generative-ai-in-the-re-engine-2000739690"
-      ],
-      "article_titles": [
-        "Here\u2019s What Capcom Said About Using Generative AI In The RE Engine: \u2018AI Is Not A Replacement For Humans\u2019"
-      ]
-    },
-    {
-      "headline": "Rockstar Explains Why GTA 6 Steps Back From Satirising Real-World Events",
-      "tag": "gta 6",
-      "posted_at": "2026-10-05T15:31:00.112486+00:00",
-      "urls": [
-        "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events"
-      ],
-      "article_titles": [
-        "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events"
-      ]
-    },
-    {
       "headline": "Supermassive Games Lays Off Over 70 Staff as Dark Pictures Studio Faces Major Cuts",
       "tag": "supermassive games",
       "posted_at": "2026-10-05T16:01:24.290752+00:00",
@@ -1103,6 +1055,30 @@
       "article_titles": [
         "Unlike Sony, Nintendo Exec Says Switch 2 Maker Has No Plans To Abandon Physical: \u2018We Know How Much Fans Enjoy It\u2019"
       ]
+    },
+    {
+      "headline": "Nvidia's RTX 5080 Super With 24GB VRAM Is Reportedly Coming in Early 2027",
+      "tag": "nvidia rtx 5080 super",
+      "posted_at": "2026-10-12T16:01:06.701126+00:00",
+      "urls": [
+        "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x437nt/nvidia_is_preparing_an_rtx_5080_with_24gb_of/"
+      ],
+      "article_titles": [
+        "Schr\u00f6dinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
+        "NVIDIA is preparing an RTX 5080 with 24GB of GDDR7 memory for release in Q1 2027"
+      ]
+    },
+    {
+      "headline": "Dragon Quest Creator Yuji Horii Says AI Has Replaced His Need to Code or Draw",
+      "tag": "dragon quest",
+      "posted_at": "2026-10-12T16:01:06.878302+00:00",
+      "urls": [
+        "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194"
+      ],
+      "article_titles": [
+        "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1691,6 +1667,126 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-12T15:23:39+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000744194",
+      "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
+      "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:34:17+00:00"
+    },
+    {
+      "guid": "5ZFMqj6qAWuPK3fu7ivBV8",
+      "title": "Schr\u00f6dinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:55:44+00:00"
+    },
+    {
+      "guid": "NiU6D7FjdaKw7AVxmwKhe5",
+      "title": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
+      "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:34:40+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154646",
+      "title": "Director Rory Kennedy On \u2018The Trial Of Alec Baldwin,\u2019 And Why \u2018Rust\u2019 Star At First Reacted Negatively To Her Film",
+      "url": "https://deadline.com/2026/10/the-trial-of-alec-baldwin-director-rory-kennedy-interview-1237154646/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154785",
+      "title": "\u2018Beatles\u2019 Producer Pippa Harris Shares Update On Sam Mendes Film Series & Explains Staggered Release Strategy \u2014 LFF",
+      "url": "https://deadline.com/2026/10/pippa-harris-beatles-sam-mendes-london-film-festival-1237154785/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:39:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154777",
+      "title": "\u2018Miami Vice \u201985\u2032 First Look: See Austin Butler & Michael B. Jordan As Crockett & Tubbs",
+      "url": "https://deadline.com/2026/10/miami-vice-85-first-look-austin-butler-michael-b-jordan-1237154777/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:32:28+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236907475",
+      "title": "WWE Enters Microdrama Space With \u2018Agent of Shadows,\u2019 Drew McIntyre Takes Central Role",
+      "url": "https://variety.com/2026/tv/news/wwe-microdrama-agent-of-shadows-drew-mcintyre-1236907475/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909115",
+      "title": "Natalie Morales Joins Flow Space Women\u2019s Health Summit in L.A.",
+      "url": "https://variety.com/2026/tv/news/natalie-morales-flow-space-womens-health-summit-l-a-1236909115/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:52:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236908927",
+      "title": "Amanda Seyfried Rejects Sex Scenes and Turned Down a TV Series Where \u2018I\u2019d Have to Have Sex All the Time\u2019: I Don\u2019t Want to Be \u2018Naked With a Stranger\u2019",
+      "url": "https://variety.com/2026/film/news/amanda-seyfried-bans-sex-scenes-1236908927/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:52:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909058",
+      "title": "\u2018The Beatles\u2019 Biopics Producer Says Releasing All Four Movies at Once in 2028 Will Have a \u2018Cumulative Power That\u2019s Greater Than the Sum of Its Parts\u2019",
+      "url": "https://variety.com/2026/film/global/the-beatles-films-producer-on-releasing-four-movies-at-once-1236909058/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:39:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236727787",
+      "title": "\u2018Beatles\u2019 Movies Release Details: A \u201cFour-Film Cinematic Event\u201d in April 2028",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/beatles-movies-release-dates-april-2028-1236727787/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:53:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236727803",
+      "title": "Journalist Natalie Morales Joins Flow Space Women\u2019s Health Summit in Los Angeles",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/natalie-morales-flow-space-women-health-summit-lineup-1236727803/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:49:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236727766",
+      "title": "Dan Levy Slams Shane Gillis\u2019 \u2018SNL\u2019 Joke About Women at the Gym: \u201cSpeechless That Can Exist\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-snl-dan-levy-1236727766/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T15:30:37+00:00"
+    },
+    {
+      "guid": "dzMTC9z6QEguCqxQDHhwPa",
+      "title": "WandaVision creator is bringing Stargate back to TV, but fans aren't happy after previous attempt was scrapped",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/wandavision-creator-is-bringing-stargate-back-to-tv-but-fans-arent-happy-after-previous-attempt-was-scrapped/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T15:35:48+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207516",
+      "title": "NQ JPN Is A New Japan-Themed Arcade Bar Opening Soon In London's Soho District",
+      "url": "https://www.timeextension.com/news/2026/10/nq-jpn-is-a-new-japan-themed-arcade-bar-opening-soon-in-londons-soho-district",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T15:30:00+00:00"
     }
   ]
 }
