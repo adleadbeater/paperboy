@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Halo Studios Says It \"Absolutely\" Intends to Publish New Halo Book Amid Layoffs and Rumored Lore Reboot",
-      "tag": "halo",
-      "posted_at": "2026-10-05T19:01:08.441307+00:00",
-      "urls": [
-        "https://www.eurogamer.net/halo-studios-absolutely-our-intent-new-book-activision-reboot"
-      ],
-      "article_titles": [
-        "Halo Studios says \"it is absolutely our intent\" to release new Halo book, despite layoffs and a rumored lore reboot from Activision"
-      ]
-    },
-    {
       "headline": "Xbox Elite Series 3 Controller Leaks With Upgraded Sticks and Haptics",
       "tag": "xbox",
       "posted_at": "2026-10-06T13:31:12.635039+00:00",
@@ -944,67 +933,47 @@
       "article_titles": [
         "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire"
       ]
+    },
+    {
+      "headline": "Epic Games Delays Its Star Wars and Marvel Shooter and Mandates \"AI-First\" Development \u2014 No Human-Written Code Required",
+      "tag": "epic games",
+      "posted_at": "2026-10-12T19:31:01.542114+00:00",
+      "urls": [
+        "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+        "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x49trl/jason_schreier_new_epic_games_has_delayed_its/",
+        "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project",
+        "https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project"
+      ],
+      "article_titles": [
+        "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
+        "Epic Games Forces Shocked Developers Into \u2018AI-First\u2019 Mode For Delayed Shooter Featuring Marvel And Star Wars Characters",
+        "Jason Schreier: NEW: Epic Games has delayed its upcoming (not yet announced) Star Wars + Marvel shooter as it pivots to complete AI game development.",
+        "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project",
+        "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project"
+      ]
+    },
+    {
+      "headline": "VisionQuest Reviews Are In: Paul Bettany's Marvel Disney+ Series Is Emotionally Uneven But James Spader Delivers",
+      "tag": "visionquest",
+      "posted_at": "2026-10-12T19:31:01.651934+00:00",
+      "urls": [
+        "https://variety.com/2026/tv/reviews/visionquest-review-marvel-ai-1236908516/",
+        "https://www.hollywoodreporter.com/tv/tv-reviews/visionquest-review-paul-bettany-james-spader-disney-marvel-1236727897/",
+        "https://www.hollywoodreporter.com/tv/tv-reviews/visionquest-review-paul-bettany-james-spader-disney-marvel-1236727897/",
+        "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-review/"
+      ],
+      "article_titles": [
+        "Like Its Hero, Marvel\u2019s \u2018VisionQuest\u2019 Struggles to Connect Emotionally: TV Review",
+        "\u2018VisionQuest\u2019 Review: Paul Bettany and James Spader Elevate Disney+\u2019s Sometimes Moving, Sometimes Exhausting Marvel Spinoff",
+        "\u2018VisionQuest\u2019 Review: Paul Bettany and James Spader Elevate Disney+\u2019s Sometimes Moving, Sometimes Exhausting Marvel Spinoff",
+        "VisionQuest review: \"Successfully closes the loop on the MCU's most unusual trilogy\""
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237154706",
-      "title": "Banijay Plots U.S. Expansion As Marco Bassetti Says \u2018Peaky Blinders\u2019 Maker Is Not \u201cJealous\u201d Of Hollywood Studios",
-      "url": "https://deadline.com/2026/10/banijay-jeff-zucker-marco-bassetti-eye-us-growth-1237154706/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:20:23+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236908936",
-      "title": "Banijay Eyes Expansion Into U.S. Scripted Space: \u2018The U.S. Is a New Opportunity\u2019",
-      "url": "https://variety.com/2026/tv/global/banijay-jeff-zucker-marco-bassetti-mipcom-1236908936/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:19:52+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909064",
-      "title": "BBC Blurs Trans Rights T-Shirt on \u2018Strictly Come Dancing\u2019 but Says It\u2019s \u2018Standard Practice\u2019 to Cut \u2018Overt Branding or Slogans\u2019",
-      "url": "https://variety.com/2026/tv/news/bbc-blurs-trans-rights-t-shirt-strictly-come-dancing-1236909064/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:18:19+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909044",
-      "title": "\u2018Adventure Garage With Bear Grylls,\u2019 Featuring \u2018Top Gear\u2019s\u2019 Rutledge Wood, Launched by Propagate Content and The Natural Studios (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/adventure-garage-with-bear-grylls-1236909044/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:07:55+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236727764",
-      "title": "New York Store Says Kelly Clarkson Spent \u201c5 Minutes\u201d Inside, Reached Out to \u201cClear the Air\u201d Amid Star\u2019s \u2018Pretty Woman\u2019 Claims",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/new-york-store-art-of-play-kelly-clarkson-pretty-woman-1236727764/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:17:31+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1083695",
-      "title": "Chivalware adds Switch 2 version, launches November 5",
-      "url": "https://www.gematsu.com/2026/10/chivalware-adds-switch-2-version-launches-november-5",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-12T15:25:03+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760041",
-      "title": "Aaron Sorkin\u2019s The Social Reckoning Opens With $5.5 Million as Facebook Drama Debuts Below Original Film",
-      "url": "https://otakukart.com/aaron-sorkins-the-social-reckoning-opens-with-5-5-million-as-facebook-drama-debuts-below-original-film/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-12T15:23:39+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000744194",
       "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
@@ -1116,14 +1085,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-12T15:35:48+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207516",
-      "title": "NQ JPN Is A New Japan-Themed Arcade Bar Opening Soon In London's Soho District",
-      "url": "https://www.timeextension.com/news/2026/10/nq-jpn-is-a-new-japan-themed-arcade-bar-opening-soon-in-londons-soho-district",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-12T15:30:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
@@ -1580,6 +1541,126 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-12T18:30:38+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+      "title": "Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces \"AI-accelerated development\"",
+      "url": "https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:11:39+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000744620",
+      "title": "Epic Games Forces Shocked Developers Into \u2018AI-First\u2019 Mode For Delayed Shooter Featuring Marvel And Star Wars Characters",
+      "url": "https://kotaku.com/epic-games-forces-shocked-developers-into-ai-first-mode-for-delayed-shooter-featuring-marvel-and-star-wars-characters-2000744620",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:00:43+00:00"
+    },
+    {
+      "guid": "BN2iLcGzWM6szMKNKTkBLX",
+      "title": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
+      "url": "https://www.pcgamer.com/games/rts/does-blizzards-revival-of-its-classic-games-signal-a-return-of-the-old-blizzard/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:15:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237153816",
+      "title": "\u2018Line Of Fire\u2019 Gets Backup Script Order As Lisa Katz Talks NBC Fall Rollout, \u2018Newlyweds\u2019 Exit, 2027 Pilot Season, Peacock Strategy & \u2018Dungeon Crawler Carl\u2019",
+      "url": "https://deadline.com/2026/10/nbc-peacock-scripted-strategy-liza-katz-interview-newlyweds-1237153816/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:15:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909315",
+      "title": "Grace Helbig Reveals Upcoming Surgery for Brain Tumors Three Years After Beating Breast Cancer",
+      "url": "https://variety.com/2026/tv/news/grace-helbig-brain-tumors-cancer-1236909315/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:26:01+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909335",
+      "title": "TV Cooking Shows Get Spicy With Food Influencers in the Mix: \u2018It Has to Hook You In\u2019",
+      "url": "https://variety.com/2026/tv/global/tv-cooking-shows-spicy-food-influencers-1236909335/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:16:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236908938",
+      "title": "\u201930 Rock\u2019 20th Anniversary Reunion: Tina Fey and Tracy Morgan Try to Remember Their Lines, Alec Baldwin Riffs as Jack Donaghy and More Best Moments",
+      "url": "https://variety.com/2026/tv/news/30-rock-anniversary-best-moments-tina-fey-alec-baldwin-1236908938/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:05:56+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236908516",
+      "title": "Like Its Hero, Marvel\u2019s \u2018VisionQuest\u2019 Struggles to Connect Emotionally: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/visionquest-review-marvel-ai-1236908516/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236727873",
+      "title": "Nobody Would Read His Script, Then He Got the Call From Robert Pattinson",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/primetime-script-robert-pattinson-1236727873/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:29:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236727917",
+      "title": "Milania Giudice, Daughter of \u2018Real Housewives of New Jersey\u2019 Star Teresa Guidice, Shares Bipolar Disorder Diagnosis",
+      "url": "https://www.hollywoodreporter.com/news/general-news/milania-giudice-bipolar-disorder-mental-health-1236727917/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:18:41+00:00"
+    },
+    {
+      "guid": "7sPiLTndhHt3VyXoyiLtQf",
+      "title": "Ahead of GTA 6, Rockstar narrative lead says the American Dream is \"more modest now\" but still \"out of reach\"",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-narrative-lead-says-the-american-dream-previous-grand-theft-auto-games-were-critical-of-is-more-modest-now-but-still-out-of-reach-for-the-average-person/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:00:00+00:00"
+    },
+    {
+      "guid": "ZDs8vTSAYNdLE93Nc7wppa",
+      "title": "Assassin's Creed creator says 1666: Amsterdam developers create up to 20 builds a day",
+      "url": "https://www.gamesradar.com/games/action/assassins-creed-creator-says-1666-amsterdam-developers-create-up-to-20-builds-a-day-progression-is-more-important-than-perfection/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:00:00+00:00"
+    },
+    {
+      "guid": "N7NZmkAHuW7rKDh7r6FS7S",
+      "title": "VisionQuest review: \"Successfully closes the loop on the MCU's most unusual trilogy\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083687",
+      "title": "Usual June delayed to January 20, 2027",
+      "url": "https://www.gematsu.com/2026/10/usual-june-delayed-to-january-20-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:12:14+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083752",
+      "title": "Blind Descent launches in Early Access for PC on December 2",
+      "url": "https://www.gematsu.com/2026/10/blind-descent-launches-in-early-access-for-pc-on-december-2",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:08:01+00:00"
     }
   ]
 }
