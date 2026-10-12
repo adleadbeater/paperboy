@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Dead by Daylight's Studio Is Building a Triple-A Sci-Fi First-Person Shooter",
-      "tag": "behaviour interactive",
-      "posted_at": "2026-10-05T13:01:04.091045+00:00",
-      "urls": [
-        "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter"
-      ],
-      "article_titles": [
-        "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\""
-      ]
-    },
-    {
-      "headline": "PlatinumGames Says It Has a \"Strong Desire\" to Continue the Bayonetta Series",
-      "tag": "bayonetta",
-      "posted_at": "2026-10-05T13:01:04.382287+00:00",
-      "urls": [
-        "https://www.ign.com/articles/bayonetta-4"
-      ],
-      "article_titles": [
-        "'We Have a Strong Desire to Further Develop the Character of Bayonetta' \u2014 PlatinumGames Isn't Done With the Gun Witch"
-      ]
-    },
-    {
       "headline": "Zelda and Banjo Recompilation Devs Push Back Against AI \"Slopcomps\"",
       "tag": "zelda",
       "posted_at": "2026-10-05T14:31:06.103559+00:00",
@@ -1079,66 +1057,205 @@
       "article_titles": [
         "New Naruto Manga And Spin-Off Anime Announced At New York Comic Con"
       ]
+    },
+    {
+      "headline": "Steam Just Hit a Staggering 43 Million Concurrent Users in October",
+      "tag": "steam",
+      "posted_at": "2026-10-12T13:31:20.171689+00:00",
+      "urls": [
+        "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564"
+      ],
+      "article_titles": [
+        "Steam Smashes Its Player Records, With Over 43 Million Concurrent Users In October"
+      ]
+    },
+    {
+      "headline": "EA Is Reviving Wing Commander III With a 30th Anniversary Edition and Remastered FMVs",
+      "tag": "wing commander iii",
+      "posted_at": "2026-10-12T13:31:20.331570+00:00",
+      "urls": [
+        "https://variety.com/2026/shopping/news/scream-limited-edition-box-set-30th-anniversary-buy-online-1236908928/",
+        "https://www.timeextension.com/news/2026/10/it-looks-like-ea-is-bringing-back-wing-commander-iii-with-a-brand-new-30th-anniversary-edition-featuring-remastered-fmvs"
+      ],
+      "article_titles": [
+        "\u2018Scream\u2019 Celebrates 30th Anniversary With Limited-Edition Box Set Featuring Replica of Drew Barrymore\u2019s Iconic Bloody Phone",
+        "It Looks Like EA Is Bringing Back Wing Commander III, With A Brand New 30th Anniversary Edition Featuring Remastered FMVs"
+      ]
+    },
+    {
+      "headline": "A Modder Has Finally Added Seamless Planetary Landings to Starfield",
+      "tag": "starfield",
+      "posted_at": "2026-10-12T13:31:20.507925+00:00",
+      "urls": [
+        "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings"
+      ],
+      "article_titles": [
+        "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237154268",
-      "title": "Buyers Move For German Crime Drama \u2018SOKO\u2019 As ZDF Studios Brings Classic & YA Series To Cannes",
-      "url": "https://deadline.com/2026/10/soko-zdf-studios-german-drama-sales-mipcom-high-valley-ya-1237154268/",
-      "source_name": "Deadline",
+      "guid": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
+      "title": "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work",
+      "url": "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-10-12T05:30:45+00:00"
+      "published_dt": "2026-10-12T12:56:58+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237154572",
-      "title": "\u2018A Haunting\u2019 Revived At Radial Entertainment With Jupiter Pictures Producing: \u201cWe Are Focused On Where The Audience Is\u201d",
-      "url": "https://deadline.com/2026/10/a-haunting-revived-radial-entertainment-jupiter-pictures-1237154572/",
-      "source_name": "Deadline",
+      "guid": "https://kotaku.com/?p=2000744564",
+      "title": "Steam Smashes Its Player Records, With Over 43 Million Concurrent Users In October",
+      "url": "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-10-12T05:26:33+00:00"
+      "published_dt": "2026-10-12T13:15:13+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237154555",
-      "title": "John Oliver Has A Message For His New Skydance Overlords",
-      "url": "https://deadline.com/2026/10/john-oliver-skydance-bosses-1237154555/",
+      "guid": "https://deadline.com/?p=1237154650",
+      "title": "BBC News Chief Warns Of Need To \u201cUrgently\u201d Win Over TikTok Generation",
+      "url": "https://deadline.com/2026/10/bbc-news-rachel-jupp-tiktok-generation-1237154650/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-12T05:19:18+00:00"
+      "published_dt": "2026-10-12T13:26:48+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236908660",
-      "title": "The Beach Boys Play Nashville\u2019s Ryman in What John Stamos Says \u2018Could Be the Last Time I Stand Behind Mike\u2019 Love in Concert",
-      "url": "https://variety.com/2026/music/news/beach-boys-mike-love-play-nashville-ryman-john-stamos-1236908660/",
+      "guid": "https://deadline.com/?p=1237150933",
+      "title": "\u2018RuPaul\u2019s Drag Race UK All Stars\u2019 Will Still Be Produced In Britain Once Show Leaves BBC",
+      "url": "https://deadline.com/2026/10/rupauls-drag-race-uk-all-stars-production-stays-uk-1237150933/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154258",
+      "title": "\u2018Baywatch\u2019 Showrunner & Stars On \u201cReminding The Hollywood Community\u201d Of The Power Of Shooting In Los Angeles & Casting TikTok Star Noah Beck: \u201cThere\u2019s A Massive Responsibility When You Put On Those Red Shorts\u201d",
+      "url": "https://deadline.com/2026/10/baywatch-team-shooting-la-tiktok-star-noah-beck-1237154258/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154686",
+      "title": "Doha Film Festival To Showcase Four Qatari Features In Milestone Moment For Local Industry",
+      "url": "https://deadline.com/2026/10/doha-film-festival-qatari-features-milestone-moment-1237154686/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T12:57:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236908145",
+      "title": "\u2018Elize: Shadows of a Woman\u2019 Director Felipe Vellas to Helm Real-Life Sinking Tragedy \u2018Bateau Mouche\u2019 for Boutique Filmes and Anonymous Content (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/felipe-vellas-bateau-mouche-boutique-filmes-anonymous-1236908145/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-12T05:30:12+00:00"
+      "published_dt": "2026-10-12T13:18:05+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236727487",
-      "title": "John Oliver Says \u2018Last Week Tonight\u2019 Is \u201cNever Gonna Change\u201d Following Skydance Acquisition",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-last-week-tonight-skydance-acquisitoni-1236727487/",
+      "guid": "https://variety.com/?p=1236908907",
+      "title": "Fox News Veteran Slams Network for \u2018Journalistic Malpractice\u2019 Over \u2018Choice to Ignore\u2019 Kimberly Guilfoyle Scandal \u2014 Then Hours Later Site Published Story About How She Might Be Fired by Trump",
+      "url": "https://variety.com/2026/tv/news/fox-news-slamsjournalistic-malpractice-kimberly-guilfoyle-scandal-1236908907/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T13:16:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236908825",
+      "title": "Fremantle Takes Singapore Dating Format \u2018Wingman\u2019 Global in Mediacorp Deal",
+      "url": "https://variety.com/2026/tv/markets-festivals/fremantle-singapore-dating-format-wingman-global-1236908825/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T13:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236908928",
+      "title": "\u2018Scream\u2019 Celebrates 30th Anniversary With Limited-Edition Box Set Featuring Replica of Drew Barrymore\u2019s Iconic Bloody Phone",
+      "url": "https://variety.com/2026/shopping/news/scream-limited-edition-box-set-30th-anniversary-buy-online-1236908928/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T13:08:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236906703",
+      "title": "JW Anderson and Ugg Team Up for Loafer-Inspired Boots and Slippers, With Dev Hynes Fronting New Campaign",
+      "url": "https://variety.com/2026/shopping/fashion/jonathan-anderson-ugg-boots-slippers-shop-online-1236906703/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236726556",
+      "title": "CoComelon Is Ready to Grow Up",
+      "url": "https://www.hollywoodreporter.com/business/business-news/cocomelon-grows-up-movie-disney-streaming-1236726556/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-12T05:07:09+00:00"
+      "published_dt": "2026-10-12T13:24:10+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236908698",
-      "title": "Beta Film Secures Major Deals for Female-Led Dramas \u2018Queen Silvia\u2019 and \u2018La Vida Barcelona\u2019",
-      "url": "https://variety.com/2026/tv/global/beta-film-queen-silvia-la-vida-barcelona-1236908698/",
-      "source_name": "Variety",
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc_list&p=1236723902",
+      "title": "How to Spend a Few Days in Victoria, Australia: \u201cThe Vibes are Immaculate\u201d",
+      "url": "https://www.hollywoodreporter.com/lists/australia-travel-restaurants-hotels-qantas-schedule-itinerary/",
+      "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-12T06:28:01+00:00"
+      "published_dt": "2026-10-12T13:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236907351",
-      "title": "Where Is Spanish Production Heading at Mipcom 2026?",
-      "url": "https://variety.com/2026/tv/global/spanish-production-mipcom-rights-ip-services-partnerships-1236907351/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T06:11:54+00:00"
+      "guid": "Z3AhKBeZ2HkBKGaEfYyYxV",
+      "title": "Valor Mortis review: \"First-person Souslike parrying feels clutch, but I need more for this to truly stand out\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "guid": "1915517",
+      "title": "Baki\u2019s Yujiro Hanma Is About To Turn Tekken 8 Into A Full-Blown Muscle Appreciation Simulator",
+      "url": "https://www.gamespot.com/articles/baki-yujiro-hanma-is-about-to-turn-tekken-8-into-a-full-blown-muscle-appreciation-simulator/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T13:27:28+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124153",
+      "title": "Review: Bluey\u2019s Happy Snaps Feels a Little Like Toem for Toddlers",
+      "url": "https://www.siliconera.com/review-blueys-happy-snaps-feels-a-little-like-toem-for-toddlers/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T13:01:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207490",
+      "title": "It Looks Like EA Is Bringing Back Wing Commander III, With A Brand New 30th Anniversary Edition Featuring Remastered FMVs",
+      "url": "https://www.timeextension.com/news/2026/10/it-looks-like-ea-is-bringing-back-wing-commander-iii-with-a-brand-new-30th-anniversary-edition-featuring-remastered-fmvs",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083655",
+      "title": "Hunter\u2019s Moon voice cast announced",
+      "url": "https://www.gematsu.com/2026/10/hunters-moon-voice-cast-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T13:24:47+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1076380",
+      "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction launches February 4, 2027",
+      "url": "https://www.gematsu.com/2026/10/he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction-launches-february-4-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T13:05:43+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/pathfinder-action-figure-line-announced.720945/",
+      "title": "Pathfinder Action Figure Line Announced",
+      "url": "https://www.enworld.org/threads/pathfinder-action-figure-line-announced.720945/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T13:22:00+00:00"
     }
   ]
 }
