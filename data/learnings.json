@@ -975,118 +975,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000744194",
-      "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
-      "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:34:17+00:00"
-    },
-    {
-      "guid": "5ZFMqj6qAWuPK3fu7ivBV8",
-      "title": "Schr\u00f6dinger's GPU set for an early 2027 release as the dead/alive 24 GB RTX 5080 Super box is shaken once more",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/schrodingers-gpu-set-for-an-early-2027-release-as-the-dead-alive-24-gb-rtx-5080-super-box-is-shaken-once-more/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:55:44+00:00"
-    },
-    {
-      "guid": "NiU6D7FjdaKw7AVxmwKhe5",
-      "title": "I am the controller now: MIT engineers have created a 'second skin' that could one day track whole bodies in VR",
-      "url": "https://www.pcgamer.com/hardware/vr-hardware/i-am-the-controller-now-mit-engineers-have-created-a-second-skin-that-could-one-day-track-whole-bodies-in-vr/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:34:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237154646",
-      "title": "Director Rory Kennedy On \u2018The Trial Of Alec Baldwin,\u2019 And Why \u2018Rust\u2019 Star At First Reacted Negatively To Her Film",
-      "url": "https://deadline.com/2026/10/the-trial-of-alec-baldwin-director-rory-kennedy-interview-1237154646/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237154785",
-      "title": "\u2018Beatles\u2019 Producer Pippa Harris Shares Update On Sam Mendes Film Series & Explains Staggered Release Strategy \u2014 LFF",
-      "url": "https://deadline.com/2026/10/pippa-harris-beatles-sam-mendes-london-film-festival-1237154785/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:39:35+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237154777",
-      "title": "\u2018Miami Vice \u201985\u2032 First Look: See Austin Butler & Michael B. Jordan As Crockett & Tubbs",
-      "url": "https://deadline.com/2026/10/miami-vice-85-first-look-austin-butler-michael-b-jordan-1237154777/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:32:28+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236907475",
-      "title": "WWE Enters Microdrama Space With \u2018Agent of Shadows,\u2019 Drew McIntyre Takes Central Role",
-      "url": "https://variety.com/2026/tv/news/wwe-microdrama-agent-of-shadows-drew-mcintyre-1236907475/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909115",
-      "title": "Natalie Morales Joins Flow Space Women\u2019s Health Summit in L.A.",
-      "url": "https://variety.com/2026/tv/news/natalie-morales-flow-space-womens-health-summit-l-a-1236909115/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:52:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236908927",
-      "title": "Amanda Seyfried Rejects Sex Scenes and Turned Down a TV Series Where \u2018I\u2019d Have to Have Sex All the Time\u2019: I Don\u2019t Want to Be \u2018Naked With a Stranger\u2019",
-      "url": "https://variety.com/2026/film/news/amanda-seyfried-bans-sex-scenes-1236908927/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:52:01+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909058",
-      "title": "\u2018The Beatles\u2019 Biopics Producer Says Releasing All Four Movies at Once in 2028 Will Have a \u2018Cumulative Power That\u2019s Greater Than the Sum of Its Parts\u2019",
-      "url": "https://variety.com/2026/film/global/the-beatles-films-producer-on-releasing-four-movies-at-once-1236909058/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:39:41+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236727787",
-      "title": "\u2018Beatles\u2019 Movies Release Details: A \u201cFour-Film Cinematic Event\u201d in April 2028",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/beatles-movies-release-dates-april-2028-1236727787/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:53:19+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236727803",
-      "title": "Journalist Natalie Morales Joins Flow Space Women\u2019s Health Summit in Los Angeles",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/natalie-morales-flow-space-women-health-summit-lineup-1236727803/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:49:42+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236727766",
-      "title": "Dan Levy Slams Shane Gillis\u2019 \u2018SNL\u2019 Joke About Women at the Gym: \u201cSpeechless That Can Exist\u201d",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-snl-dan-levy-1236727766/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-12T15:30:37+00:00"
-    },
-    {
-      "guid": "dzMTC9z6QEguCqxQDHhwPa",
-      "title": "WandaVision creator is bringing Stargate back to TV, but fans aren't happy after previous attempt was scrapped",
-      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/wandavision-creator-is-bringing-stargate-back-to-tv-but-fans-arent-happy-after-previous-attempt-was-scrapped/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-12T15:35:48+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
       "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
       "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
@@ -1661,6 +1549,86 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-12T19:08:01+00:00"
+    },
+    {
+      "guid": "27992b82-8fac-43f2-a03e-4644f7fc7fef",
+      "title": "Save Over $1,000 Off the Cyberpowerpc RTX 5080 Prebuilt Gaming PC With 32GB of RAM and 2TB SSD",
+      "url": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5080-gaming-pc-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=248315",
+      "title": "Epic Games reportedly orders staff to implement \u2018AI-first\u2019 development",
+      "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:43:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154982",
+      "title": "Selma Blair Taken To Hospital After Allegedly Biting Flight Attendant & Trying To Open Plane Door",
+      "url": "https://deadline.com/2026/10/selma-blair-flight-biting-open-plane-door-1237154982/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:41:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909138",
+      "title": "Ben Affleck Calls \u2018Justice League\u2019 Reshoots the \u2018Low Point of My Career\u2019: \u2018It Was So Gross\u2019 How the Studio Replaced Zack Snyder With Joss Whedon",
+      "url": "https://variety.com/2026/film/news/ben-affleck-justice-league-reshoots-low-point-of-my-career-1236909138/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:49:32+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236727820",
+      "title": "\u2018Civics Made Easy\u2019 Renewed for Season 2 by PBS (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/civics-made-easy-renewed-season-2-pbs-ben-sheehan-1236727820/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:54:30+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728100",
+      "title": "Diddy Briefly Hospitalized After Head Injury in Prison",
+      "url": "https://www.hollywoodreporter.com/news/general-news/diddy-head-injury-prison-hospitalized-1236728100/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:43:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236727876",
+      "title": "Shane Gillis\u2019 \u2018SNL\u2019 Monologue Was Wrong Place, Wrong Time (Again)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/shane-gillis-snl-monologue-controversy-women-whores-at-gym-1236727876/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-12T19:31:47+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207532",
+      "title": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
+      "url": "https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=622481",
+      "title": "RPG: Pathfinder Kicks Off The \u2018Vaultlines\u2019 AP With A Free Player\u2019s Guide",
+      "url": "https://www.belloflostsouls.net/2026/10/rpg-pathfinder-kicks-off-the-vaultlines-ap-with-a-free-players-guide.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:49:42+00:00"
+    },
+    {
+      "guid": "t3_1x4bgmw",
+      "title": "Windows Central: Xbox CEO Asha Sharma wants to keep building \"enduring\" new IP \u2014 with a warning in tow",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x4bgmw/windows_central_xbox_ceo_asha_sharma_wants_to/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-12T19:30:34+00:00"
     }
   ]
 }
