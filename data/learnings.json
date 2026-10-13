@@ -1,52 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Amazon Is Quietly Experimenting with Turning Twitch Into QVC",
-      "tag": "twitch",
-      "posted_at": "2026-10-06T17:02:20.849284+00:00",
-      "urls": [
-        "https://kotaku.com/amazon-is-experimenting-with-turning-twitch-into-qvc-2000740979"
-      ],
-      "article_titles": [
-        "Amazon Is Experimenting With Turning Twitch Into QVC"
-      ]
-    },
-    {
-      "headline": "BBC Reveals New Doctor Who Spinoff Starring a Blue-Haired Young Doctor and a Robot Toaster",
-      "tag": "doctor who",
-      "posted_at": "2026-10-06T17:02:20.991997+00:00",
-      "urls": [
-        "https://www.ign.com/articles/bbc-reveals-new-doctor-who-spinoff-starring-a-young-doctor-with-blue-hair-and-a-robot-toaster-sidekick"
-      ],
-      "article_titles": [
-        "BBC Reveals New Doctor Who Spinoff Starring a 'Young Doctor' With Blue Hair and a Robot Toaster Sidekick"
-      ]
-    },
-    {
-      "headline": "D&D and Magic: The Gathering Workers Are Unionizing",
-      "tag": "wizards of the coast",
-      "posted_at": "2026-10-06T18:01:27.178792+00:00",
-      "urls": [
-        "https://www.enworld.org/threads/dungeons-dragons-is-unionizing.720898/",
-        "https://kotaku.com/the-dungeons-and-dragons-and-magic-the-gathering-teams-are-forming-a-union-2000741031"
-      ],
-      "article_titles": [
-        "Dungeons & Dragons is unionizing!",
-        "The Dungeons & Dragons And Magic: The Gathering Teams Are Forming A Union"
-      ]
-    },
-    {
-      "headline": "A Warship Game Apparently Stole a Real Nonsensical Aircraft Design and Is Now Selling It for $700",
-      "tag": "\u2014",
-      "posted_at": "2026-10-06T18:01:27.414051+00:00",
-      "urls": [
-        "https://kotaku.com/modern-warships-artstorm-plagiarism-alex-brady-war-thunder-2000740997"
-      ],
-      "article_titles": [
-        "Warship Game Steals Nonsensical Aircraft Design And Then Tries To Sell It In-Game For $700"
-      ]
-    },
-    {
       "headline": "Xbox CEO Asha Sharma Reportedly Told Staff Game Pass Strategy Sent the Platform Into \"Freefall\"",
       "tag": "xbox",
       "posted_at": "2026-10-06T19:00:59.287431+00:00",
@@ -1004,6 +958,32 @@
       "article_titles": [
         "Sony Announces $350 All-Black PS5, but You Probably Can't Buy It"
       ]
+    },
+    {
+      "headline": "Greta Gerwig's Narnia: The Magician's Nephew Gets Its First Trailer \u2014 and It Looks Epic",
+      "tag": "narnia: the magician's nephew",
+      "posted_at": "2026-10-13T18:30:48.577693+00:00",
+      "urls": [
+        "https://variety.com/2026/film/news/narnia-the-magicians-nephew-trailer-greta-gerwig-netflix-1236909994/",
+        "https://www.hollywoodreporter.com/movies/movie-news/narnia-magicians-nephew-trailer-greta-gerwig-behind-scenes-1236728979/",
+        "https://www.gamesradar.com/entertainment/fantasy-movies/narnia-the-magicians-nephew-trailer/"
+      ],
+      "article_titles": [
+        "\u2018Narnia: The Magician\u2019s Nephew\u2019 Trailer: Greta Gerwig\u2019s Fantasy Epic Unveils Aslan, the White Witch and More in Dazzling Footage",
+        "Greta Gerwig Debuts \u2018Narnia\u2019 Trailer, Opens Up About Telling an Intimate Story on \u201cthe Biggest Screen You Can Imagine\u201d",
+        "Narnia: The Magician's Nephew first trailer shows Greta Gerwig's take on the Wood Between the Worlds"
+      ]
+    },
+    {
+      "headline": "Haunted Chocolatier Dev ConcernedApe Teases More Action-RPG Combat for Stardew Valley Fans Who Love the Mines",
+      "tag": "haunted chocolatier",
+      "posted_at": "2026-10-13T18:30:48.649038+00:00",
+      "urls": [
+        "https://kotaku.com/concernedape-teases-more-action-rpg-gameplay-in-haunted-chocolatier-its-for-the-people-in-stardew-valley-that-go-into-the-mines-2000745296"
+      ],
+      "article_titles": [
+        "ConcernedApe Teases More Action-RPG Gameplay In Haunted Chocolatier: \u2018It\u2019s For The People In Stardew Valley That Go Into The Mines\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1016,22 +996,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-10-13T14:35:21+00:00"
-    },
-    {
-      "guid": "e79bf698-5202-445b-83fc-888b289b073e",
-      "title": "AI Couldn\u2019t Have Made Star Wars: Galactic Racer\u2019s Biddy Blas",
-      "url": "https://www.ign.com/articles/ai-couldnt-have-made-star-wars-galactic-racers-biddy-blas",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
-      "title": "Sifu, the singular kung fu action game, is out now on Android and iOS",
-      "url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:26:57+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000745285",
@@ -2248,6 +2212,70 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-13T17:52:26+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745296",
+      "title": "ConcernedApe Teases More Action-RPG Gameplay In Haunted Chocolatier: \u2018It\u2019s For The People In Stardew Valley That Go Into The Mines\u2019",
+      "url": "https://kotaku.com/concernedape-teases-more-action-rpg-gameplay-in-haunted-chocolatier-its-for-the-people-in-stardew-valley-that-go-into-the-mines-2000745296",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:00:03+00:00"
+    },
+    {
+      "guid": "kkhZep5NVqJcLcLZqHJsYE",
+      "title": "Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:07:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909994",
+      "title": "\u2018Narnia: The Magician\u2019s Nephew\u2019 Trailer: Greta Gerwig\u2019s Fantasy Epic Unveils Aslan, the White Witch and More in Dazzling Footage",
+      "url": "https://variety.com/2026/film/news/narnia-the-magicians-nephew-trailer-greta-gerwig-netflix-1236909994/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:02:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909107",
+      "title": "Quentin Tarantino to Attend AFI Fest for \u2018Once Upon A Time In Hollywood\u2019 Screening and Conversation \u2013 Film News in Brief",
+      "url": "https://variety.com/2026/film/news/film-news-in-brief-oct-12-2026-1236909107/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728956",
+      "title": "Kerry Washington Knows \u2018Animals\u2019 Raises More Questions Than Answers",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/animals-kerry-washington-ending-netflix-1236728956/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:29:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728979",
+      "title": "Greta Gerwig Debuts \u2018Narnia\u2019 Trailer, Opens Up About Telling an Intimate Story on \u201cthe Biggest Screen You Can Imagine\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/narnia-magicians-nephew-trailer-greta-gerwig-behind-scenes-1236728979/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:09:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728974",
+      "title": "Reese Witherspoon\u2019s Hello Sunshine Breaks Away From Candle Media",
+      "url": "https://www.hollywoodreporter.com/business/business-news/reese-witherspoon-mediawan-hello-sunshine-1236728974/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:00:22+00:00"
+    },
+    {
+      "guid": "fAKwXzbqJJPf7KBJ5sZXu7",
+      "title": "Narnia: The Magician's Nephew first trailer shows Greta Gerwig's take on the Wood Between the Worlds",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-movies/narnia-the-magicians-nephew-trailer/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T18:14:45+00:00"
     }
   ]
 }
