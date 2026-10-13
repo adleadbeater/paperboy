@@ -1010,78 +1010,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/playstation-5-midnight-black-japan-only",
-      "title": "Japan is getting an exclusive Midnight Black PlayStation 5 next month, but there's still hope for the rest of the world",
-      "url": "https://www.eurogamer.net/playstation-5-midnight-black-japan-only",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T13:02:32+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000745234",
-      "title": "Castlevania: Belmont\u2019s Curse Is Kicking My Ass In The Worst Way",
-      "url": "https://kotaku.com/castlevania-belmonts-curse-is-kicking-my-ass-in-the-worst-way-2000745234",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T13:12:46+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155563",
-      "title": "Howard & Karen Baldwin Launch HKT Entertainment & Sports Group With Backing From Thessalon First Nation",
-      "url": "https://deadline.com/2026/10/howard-karen-baldwin-hkt-group-thessalon-first-nation-1237155563/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T13:12:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155560",
-      "title": "Sony Ups Tim Erickson To CEO Of Peanuts Worldwide, Appoints Ken Ohtake As Chairman",
-      "url": "https://deadline.com/2026/10/sony-peanuts-worldwide-tim-erickson-ceo-ken-ohtake-chairman-1237155560/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T13:11:41+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236910014",
-      "title": "Netflix Scores Exclusive 2030 FIFA World Cup Rights in Spain and Andorra in Landmark Deal",
-      "url": "https://variety.com/2026/tv/markets-festivals/netflix-2030-fifa-world-cup-rights-spain-andorra-1236910014/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T13:15:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236728663",
-      "title": "The Asylum Is Bringing \u2018Z Nation\u2019 Back From the Dead (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-asylum-rebooting-z-nation-1236728663/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T13:17:35+00:00"
-    },
-    {
-      "guid": "xUPEV9p8RGymubBuph56ZM",
-      "title": "Are Gears of War E-Day servers down?",
-      "url": "https://www.gamesradar.com/games/gears-of-war/gears-of-war-e-day-servers-error-codes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T13:22:26+00:00"
-    },
-    {
-      "guid": "AbYFaRZEv6PqbaUj9AgWNj",
-      "title": "Before Skyrim, Todd Howard said a \"brute force\" Fallout 3 system shaped the RPG's iconic open world",
-      "url": "https://www.gamesradar.com/games/the-elder-scrolls/before-skyrim-todd-howard-said-a-brute-force-fallout-3-system-helped-shape-the-fantasy-rpgs-iconic-open-world/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T13:15:53+00:00"
-    },
-    {
-      "guid": "1915945",
-      "title": "GTA 6 Fans Are Excited For Another Date In November, And It\u2019s Not Release Day",
-      "url": "https://www.gamespot.com/articles/gta-6-fans-are-excited-for-another-date-in-november-and-its-not-release-day/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T13:18:16+00:00"
-    },
-    {
       "guid": "6cd1a860-59ba-43d2-8140-90adfe35b941",
       "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter",
       "url": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter",
@@ -1976,6 +1904,278 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745258",
+      "title": "The Vibe-Coders Have Come For Nintendo, And Obviously This Won\u2019t End Well",
+      "url": "https://kotaku.com/the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-well-2000745258",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:30:33+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745324",
+      "title": "New Oblivion Remastered Patch Fixes What The Old Oblivion Remastered Patch Broke On Switch 2",
+      "url": "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-to-fix-issues-added-in-the-last-update-2000745324",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:15:29+00:00"
+    },
+    {
+      "guid": "7eJMdxttjAH5tpV4z5ozfG",
+      "title": "Can you beat General Lothaire in Valor Mortis?",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "g4cN7XypqW5dMGfZHVJCd5",
+      "title": "How to equip ambers in Valor Mortis",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-amber-equip/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "PD4kopcwT9E3ZCJwmktppS",
+      "title": "How to complete The Scarecrow in Valor Mortis",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-the-scarecrow-walkthrough/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "4KqCy9bT7reSW9aEnuNA94",
+      "title": "I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "Lq6k4DoUAGQJwbJ2qYbMpQ",
+      "title": "How to complete An Unheard Farewell in Valor Mortis",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "qEmBzc8egL9pV8zaRWNWKo",
+      "title": "How to complete The Emissary in Valor Mortis",
+      "url": "https://www.pcgamer.com/games/action/valor-mortis-the-emissary-walkthrough/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155822",
+      "title": "Lucian Piane Dies: Former \u2018RuPaul\u2019s Drag Race\u2019 Music Producer Was 46",
+      "url": "https://deadline.com/2026/10/lucian-piane-dead-rupauls-drag-race-music-producer-1237155822/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:32:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154362",
+      "title": "Sam Jaeger & Ariel Winter To Lead Hallmark+ Series \u2018Change Of Heart\u2019, 3 More Cast",
+      "url": "https://deadline.com/2026/10/sam-jaeger-ariel-winter-hallmark-series-change-of-heart-1237154362/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155702",
+      "title": "Mark Harmon & Michael Weatherly To Reunite On \u2018NCIS: Origins\u2019",
+      "url": "https://deadline.com/2026/10/mark-harmon-michael-weatherly-ncis-origins-reunion-1237155702/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155802",
+      "title": "Michael Jackson 1993 Halftime Show Documentary Set From Hulu & ESPN",
+      "url": "https://deadline.com/2026/10/michael-jackson-super-bowl-halftime-show-documentary-1237155802/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236908330",
+      "title": "Dropout Sets \u2018MP3\u2019 Starring Jeremy Culhane, Paul F. Tompkins as Its First Scripted Live-Action Series in Seven Years",
+      "url": "https://variety.com/2026/tv/news/dropout-mp3-tv-series-jeremy-culhane-paul-f-tompkins-1236908330/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909242",
+      "title": "Parker Posey to Star in \u2018Sleepover\u2019 from Blumhouse Atomic Monster and Universal (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/parker-posey-sleepover-horror-movie-blumhouse-a-1236909242/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910264",
+      "title": "John Leguizamo, Indya Moore and D\u2019Arcy Carden to be Honored at Denver Film Festival",
+      "url": "https://variety.com/2026/film/news/john-leguizamo-indya-moore-darcy-carden-denver-film-fest-1236910264/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:25:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909788",
+      "title": "South Africa\u2019s Cash Rebate Bounces Back, African Verticals Lift Off and AI at a Crossroads: 10 Takeaways From the Durban FilmMart",
+      "url": "https://variety.com/2026/film/global/south-africa-10-takeaways-durban-filmmart-1236909788/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:18:38+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910232",
+      "title": "A Cyclops on Strings and Samantha Morton Reshaping Faces by Hand: How Christopher Nolan\u2019s \u2018The Odyssey\u2019 Made Its Monsters Real",
+      "url": "https://variety.com/2026/artisans/global/christopher-nolan-odyssey-monsters-cyclops-puppet-samantha-morton-circe-1236910232/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:18:33+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909299",
+      "title": "\u2018Nick Cannon @ Night\u2019 Podcast Moves to BET, Will Relaunch as a Weekly TV Talk Show (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/nick-cannon-at-night-bet-talk-show-podcast-1236909299/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910172",
+      "title": "\u2018NCIS: Origins\u2019 to Reunite Mark Harmon and Michael Weatherly on Screen For the First Time in 10 Years",
+      "url": "https://variety.com/2026/tv/news/ncis-origins-mark-harmon-michael-weatherly-reunite-1236910172/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910198",
+      "title": "\u2018Michael Jackson at the Super Bowl\u2019 Documentary Coming to Hulu and ESPN",
+      "url": "https://variety.com/2026/tv/news/michael-jackson-super-bowl-documentary-hulu-espn-1236910198/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728887",
+      "title": "Sam Levinson Inks Overall TV Deal With Amazon MGM Studios",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/sam-levinson-amazon-mgm-studios-overall-tv-deal-1236728887/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728793",
+      "title": "Nick Cannon Inks Deal for BET Late Night Show",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nick-cannon-bet-tv-talk-show-1236728793/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T17:00:21+00:00"
+    },
+    {
+      "guid": "KT4JSqN2bRSfpiaZU2Uvnj",
+      "title": "\"He was one of us\": Unexpected tributes to RJ Mitte from MMO fans after Breaking Bad star dies",
+      "url": "https://www.gamesradar.com/games/mmo/he-was-one-of-us-unexpected-tributes-to-rj-mitte-pour-in-from-mmo-fans-saluting-a-fellow-maxed-player-after-breaking-bad-star-dies/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:16:01+00:00"
+    },
+    {
+      "guid": "u2RmTopm6YVNeR8qPYQstj",
+      "title": "The best skills in Valor Mortis to get early and become a master of combat",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-skills/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "odDUyDjUtRjAKu7wsBEsbY",
+      "title": "How to complete the In the Name of Art quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-in-the-name-of-art/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "GwmGR9Us6ThMK5hwE8MgS3",
+      "title": "How to complete the Till Death quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-till-death/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "LWREwwni5zic5aBUtU5ofd",
+      "title": "How to complete The Deserter quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-the-deserter/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "weFN8QwvUB8YY9TCevfLiQ",
+      "title": "How to complete the Laundanum quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-laudanum/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "DAVY8pm9o5QNpH4oNyPb2c",
+      "title": "How to complete the Shrike's Anthem quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-the-shrikes-anthem/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "heL7GReUSgGMAvRaKSVTnb",
+      "title": "How to complete The Lullaby quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-the-lullaby/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "tJMD4Z7CXo6iJZMPbJrUYV",
+      "title": "How to complete the In the Monster Hunt quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-monster-hunt/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "mkBimR6zZTYQhZoPRqz7UG",
+      "title": "How to get started in Valor Mortis and find your footing in this first person soulslike",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-tips/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "kjEAnUne7PTasSxmfaLJY8",
+      "title": "How to complete The Lost Boy quest in Valor Mortis",
+      "url": "https://www.gamesradar.com/games/action-rpg/valor-mortis-lost-boy/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083932",
+      "title": "ID@Xbox Showcase set for October 20",
+      "url": "https://www.gematsu.com/2026/10/idxbox-showcase-set-for-october-20",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T17:19:14+00:00"
     }
   ]
 }
