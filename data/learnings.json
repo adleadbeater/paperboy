@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox CEO Asha Sharma Reportedly Told Staff Game Pass Strategy Sent the Platform Into \"Freefall\"",
-      "tag": "xbox",
-      "posted_at": "2026-10-06T19:00:59.287431+00:00",
-      "urls": [
-        "https://www.ign.com/articles/previous-game-pass-strategy-sent-xbox-into-freefall-ceo-asha-sharma-reportedly-tells-staff"
-      ],
-      "article_titles": [
-        "Previous Game Pass Strategy Sent Xbox Into 'Freefall,' CEO Asha Sharma Reportedly Tells Staff"
-      ]
-    },
-    {
       "headline": "Monster Hunter Rise Is Coming to iOS and Android \u2014 But Only If You Have Netflix",
       "tag": "monster hunter rise",
       "posted_at": "2026-10-07T13:31:12.256640+00:00",
@@ -984,155 +973,24 @@
       "article_titles": [
         "ConcernedApe Teases More Action-RPG Gameplay In Haunted Chocolatier: \u2018It\u2019s For The People In Stardew Valley That Go Into The Mines\u2019"
       ]
+    },
+    {
+      "headline": "EA Sports College Football Could Be Dead by 2030, Developers Fear",
+      "tag": "ea sports college football",
+      "posted_at": "2026-10-13T19:01:01.270036+00:00",
+      "urls": [
+        "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x514e4/insider_gaming_ea_sports_college_football_could/"
+      ],
+      "article_titles": [
+        "EA Sports' College Football Devs Reportedly Fear the Franchise Could Disappear by 2030",
+        "Insider Gaming: EA Sports College Football Could Be at Risk of Cancellation Within Five Years"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "6cd1a860-59ba-43d2-8140-90adfe35b941",
-      "title": "Nvidia RTX 5090 Reportedly Dead, but It's So Expensive That It Doesn't Really Matter",
-      "url": "https://www.ign.com/articles/nvidia-rtx-5090-reportedly-dead-but-its-so-expensive-that-it-doesnt-really-matter",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:35:21+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000745285",
-      "title": "Avatar: Seven Havens Has Korra Defenders Fighting For Their Lives",
-      "url": "https://kotaku.com/avatar-seven-havens-korra-cataclysm-destroyer-pavi-nisha-2000745285",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:40:11+00:00"
-    },
-    {
-      "guid": "w3TTRaaWFUomemCJTjFmz3",
-      "title": "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:39:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237154930",
-      "title": "\u2018Secret Garden\u2019 Maker Plimsoll Studios Ups Nathan Small To Creative Director For Natural History And Kids & Family",
-      "url": "https://deadline.com/2026/10/plimsoll-studios-promotes-nathan-small-creative-director-1237154930/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155004",
-      "title": "\u2018Grey\u2019s Anatomy\u2019 EP On How Harry Shum Jr. Juggles Medical Drama & \u2018Dancing With The Stars\u2019 & If It Affects His Presence On ABC Show",
-      "url": "https://deadline.com/2026/10/greys-anatomy-ep-harry-shum-jr-dancing-with-the-stars-1237155004/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:56:18+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155591",
-      "title": "Details Revealed About Under-The-Radar Daily Wire Project \u2018Confession\u2019 Starring Rob Lowe, James Franco, Jennifer Jason Leigh, Nick Nolte & More",
-      "url": "https://deadline.com/2026/10/daily-wire-film-confession-rob-lowe-james-franco-trailer-1237155591/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:49:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155615",
-      "title": "New White House Press Secretary Debuts With A Very Short Briefing, Some Breaking News And Lots Of Praise For Donald Trump",
-      "url": "https://deadline.com/2026/10/trump-press-secretary-katie-zacharia-first-briefing-1237155615/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:44:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155624",
-      "title": "\u2018Cameron Winter At Carnegie Hall\u2019 Review: Paul Thomas Anderson\u2019s Concert Movie Captures The Grandeur And Intimacy Of An Esoteric Event \u2013 London Film Festival",
-      "url": "https://deadline.com/2026/10/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1237155624/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:37:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236700931",
-      "title": "\u2018Baywatch\u2019 Trailer: Reboot Has Hot People, Big Stunts and Lots of Slow-Motion Running on the Beach",
-      "url": "https://variety.com/2026/tv/news/baywatch-reboot-trailer-stephen-amell-1236700931/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236908445",
-      "title": "How \u2018American Girl\u2019 Author Aged Up Samantha Parkington for Adult Historical Fiction Novel: \u2018It Would Never Be Spicy\u2019",
-      "url": "https://variety.com/2026/biz/news/american-girl-adult-samantha-book-fiona-davis-1236908445/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909725",
-      "title": "HBO Gives Two-Season Order to Animated Comedy \u2018Merrick & Treves\u2019 From \u2018Archer\u2019 Alums",
-      "url": "https://variety.com/2026/tv/news/hbo-merrick-treves-animated-comedy-archer-alums-1236909725/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909748",
-      "title": "\u2018SNL\u2019 Sets Druski as First Online Content Creator to Host",
-      "url": "https://variety.com/2026/tv/news/snl-druski-host-1236909748/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:46:58+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236910093",
-      "title": "Hillary Clinton to Co-Host Podcast on 2026 Midterm Elections With Kara Swisher for Vox Media, Owned by James Murdoch",
-      "url": "https://variety.com/2026/digital/news/hillary-clinton-podcast-midterm-elections-kara-swisher-vox-media-1236910093/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:37:08+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236728693",
-      "title": "HBO Gives Two-Season Order to Original Animated Comedy \u2018Merrick & Treves\u2019 From \u2018Archer\u2019 Creator",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/hbo-orders-animated-comedy-merrick-treves-archer-creators-1236728693/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:15+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236724640",
-      "title": "USC\u2019s Themed Entertainment Program Hires Epic Universe Creative Exec Steve Tatham as Director",
-      "url": "https://www.hollywoodreporter.com/business/business-news/usc-hires-epic-universe-creative-executive-steve-tatham-1236724640/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:47:41+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124659",
-      "title": "Razer Pokemon Collection Gets Charizard, Lucario, and Sylveon Headsets",
-      "url": "https://www.siliconera.com/razer-pokemon-collection-gets-charizard-lucario-and-sylveon-headsets/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760155",
-      "title": "Rare Legend of Zelda Famicom Copy Sells for $32,500 at Heritage Auctions Due to Yellow Packaging Text",
-      "url": "https://otakukart.com/rare-legend-of-zelda-famicom-copy-sells-for-32500-at-heritage-auctions-due-to-yellow-packaging-text/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T14:54:55+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000745275",
-      "title": "Grand Theft Auto\u2019s Iconic Cover Design Only Exists Because Of 9/11 And Was Created At The Last Minute",
-      "url": "https://kotaku.com/grand-theft-autos-iconic-cover-design-only-exists-because-of-9-11-and-was-created-at-the-last-minute-2000745275",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:02+00:00"
-    },
     {
       "guid": "SoWDuiPXFWSnRTGKw6gB3j",
       "title": "Ben Affleck lost 3 years to Starcraft, has strong Valorant opinions, and mourns RTSes as a genre, so there's solid odds he's one of our regular commenters",
@@ -1140,14 +998,6 @@
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-10-13T15:19:23+00:00"
-    },
-    {
-      "guid": "JNdm3qYBxnKL9PmRvxqsuG",
-      "title": "Hundreds of layoffs and many cancelled projects later, Xbox CEO Asha Sharma reportedly says 'we will not survive' without new IPs",
-      "url": "https://www.pcgamer.com/gaming-industry/hundreds-of-layoffs-and-many-cancelled-projects-later-xbox-ceo-asha-sharma-reportedly-says-we-will-not-survive-without-new-ips/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T14:57:01+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237150691",
@@ -1198,22 +1048,6 @@
       "published_dt": "2026-10-13T15:01:13+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237155285",
-      "title": "Animated Comedy Series \u2018Merrick & Treves\u2019 From \u2018Archer\u2019 Team Lands Two-Season HBO Order",
-      "url": "https://deadline.com/2026/10/archer-team-merrick-and-treves-animated-comedy-hbo-1237155285/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155347",
-      "title": "\u2018Baywatch\u2019 Reboot Full Trailer Release Ahead Of January 2027 Premiere On Fox",
-      "url": "https://deadline.com/2026/10/baywatch-reboot-full-trailer-release-fox-1237155347/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T15:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236728751",
       "title": "\u2018Baywatch\u2019 Trailer Dives Back into Lifeguard Drama",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/fox-baywatch-trailer-1236728751/",
@@ -1238,28 +1072,12 @@
       "published_dt": "2026-10-13T15:15:26+00:00"
     },
     {
-      "guid": "VzCgRXibdi295muAb9djeK",
-      "title": "All Arasaka Academy codes (October 2026) and how to redeem them for rerolls",
-      "url": "https://www.gamesradar.com/games/rpg/all-arasaka-academy-codes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T15:00:01+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-207572",
       "title": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following its Debut on PS5",
       "url": "https://www.pushsquare.com/news/2026/10/rumour-gta-6-will-be-ported-to-pc-in-record-time-following-its-debut-on-ps5",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-13T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207317",
-      "title": "Interview: \"I Wanted Something Instant\" - We Spoke To The Creator Of The \"Digital Museum\" That Lets Players View Thousands Of N64 & PS1 Models",
-      "url": "https://www.timeextension.com/features/interview-i-wanted-something-instant-we-spoke-to-the-creator-of-the-digital-museum-that-lets-players-view-thousands-of-n64-and-ps1-models",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T15:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1760165",
@@ -2284,6 +2102,134 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-13T18:30:27+00:00"
+    },
+    {
+      "guid": "adf6ecff-dc1d-471f-8ffc-4186034932e0",
+      "title": "The Best Street Fighter Anime You've Never Seen",
+      "url": "https://www.ign.com/articles/the-best-street-fighter-anime-youve-never-seen",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:49:19+00:00"
+    },
+    {
+      "guid": "7d2f9f1f-c76f-41c4-90c4-c8d6f93fe9cb",
+      "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
+      "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:40:00+00:00"
+    },
+    {
+      "guid": "45ad29e4-da5b-4a80-890a-2b25c97c8250",
+      "title": "Save an Extra 10% Off Alienware's Budget Friendly 27\" QD-OLED Gaming Monitor With 240Hz Refresh Rate",
+      "url": "https://www.ign.com/articles/alienware-aw2726dm-oled-gaming-monitor-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:40:00+00:00"
+    },
+    {
+      "guid": "49957742-8afc-4218-95a5-53206259cfb4",
+      "title": "EA Sports' College Football Devs Reportedly Fear the Franchise Could Disappear by 2030",
+      "url": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:34:40+00:00"
+    },
+    {
+      "guid": "78b6694b-5027-48fe-bc84-bf2704b03d61",
+      "title": "Brandon Sanderson's War for Roshar Kickstarter Campaign Crosses $1 Million on Its First Day",
+      "url": "https://www.ign.com/articles/brandon-sandersons-stormlight-war-for-roshar-board-game-kickstarter-campaign-is-live",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:29:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155907",
+      "title": "Jesse Eisenberg Reveals Thoughts On \u2018The Social Reckoning\u2019 & Why He Turned Down Zuckerberg Role",
+      "url": "https://deadline.com/2026/10/jesse-eisenberg-social-reckoning-the-debut-interview-1237155907/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:38:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155933",
+      "title": "Quentin Tarantino & \u2018Once Upon A Time In Hollywood\u2019 Special Event Set For AFI Fest",
+      "url": "https://deadline.com/2026/10/afi-fest-quentin-tarantino-once-upon-a-time-in-hollywood-1237155933/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:29:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909362",
+      "title": "\u2018Girls\u2019 Shocker: Lena Dunham Sets Revival at HBO With Allison Williams, Zosia Mamet, Jemima Kirke Returning",
+      "url": "https://variety.com/2026/tv/news/girls-revival-lena-dunham-allison-williams-zosia-mamet-hbo-1236909362/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910332",
+      "title": "Peacock Sets \u2018Assassins\u2019 Competition Show Based on Popular School Game; Scarlett Johansson to Produce",
+      "url": "https://variety.com/2026/tv/news/assassins-reality-show-peacock-1236910332/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909531",
+      "title": "Duane \u2018Keffe D\u2019 Davis Sentenced to 40 Years to Life for Role in Tupac Shakur\u2019s Murder",
+      "url": "https://variety.com/2026/music/news/duane-keffe-d-davis-sentenced-40-years-tupac-shakur-murder-1236909531/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:59:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910350",
+      "title": "Mia Goth Slams Instagram\u2019s \u2018Incomprehensible\u2019 Decision to Let AI-Altered Selfie Spread Online",
+      "url": "https://variety.com/2026/film/news/mia-goth-slams-instagram-incomprehensible-ai-altered-selfie-1236910350/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:49:31+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729000",
+      "title": "Lucian Piane, Former \u2018RuPaul\u2019s Drag Race\u2019 Music Producer, Dies at 46",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/lucian-piane-dead-rupauls-drag-race-music-producer-1236729000/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:52:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729009",
+      "title": "Messy Golden Globes Legal Battle Heats Up With New Salvo",
+      "url": "https://www.hollywoodreporter.com/business/business-news/messy-golden-globes-legal-battle-heats-up-with-new-salvo-1236729009/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-13T18:34:04+00:00"
+    },
+    {
+      "guid": "1916330",
+      "title": "Despite Huge Changes For The Series, Halo Fest 2026 Is Going Forward, And News Is Coming Soon",
+      "url": "https://www.gamespot.com/articles/despite-huge-changes-for-the-series-halo-fest-2026-is-going-forward-and-news-is-coming-soon/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T18:30:59+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124699",
+      "title": "Pokemon Unit Finally Gets All Eevee Evolutions With Flareon and Jolteon",
+      "url": "https://www.siliconera.com/pokemon-unit-finally-gets-all-eevee-evolutions-with-flareon-and-jolteon/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T19:00:00+00:00"
+    },
+    {
+      "guid": "t3_1x557hf",
+      "title": "Necro Felipe teasing more Ocarina of Time news tomorrow",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x557hf/necro_felipe_teasing_more_ocarina_of_time_news/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-13T18:50:11+00:00"
     }
   ]
 }
