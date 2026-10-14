@@ -1142,6 +1142,17 @@
       "article_titles": [
         "Magic: The Gathering Designer's Response to Product Fatigue Sparks Debate About the Deluge of New Cards"
       ]
+    },
+    {
+      "headline": "Microsoft Announces the Xbox Nano Controller",
+      "tag": "xbox",
+      "posted_at": "2026-10-14T16:31:09.341755+00:00",
+      "urls": [
+        "https://www.gematsu.com/2026/10/xbox-nano-controller-announced"
+      ],
+      "article_titles": [
+        "Xbox Nano Controller announced"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1154,14 +1165,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-10-14T12:47:35+00:00"
-    },
-    {
-      "guid": "aeaf83f5-519e-4b0c-bece-86032bcf92d7",
-      "title": "Deathstroke Star Joe Manganiello Speaks Out About Ben Affleck's Canceled Batman Movie",
-      "url": "https://www.ign.com/articles/deathstroke-star-speaks-out-ben-affleck-cancelled-batman-movie",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T12:27:50+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
@@ -1204,28 +1207,12 @@
       "published_dt": "2026-10-14T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237155551",
-      "title": "Urban One Lines Up \u2018Foul Play\u2019 And \u2018Power & Influence\u2019 TikTok Microdramas",
-      "url": "https://deadline.com/2026/10/urban-one-tiktok-microdramas-1237155551/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T12:30:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236910814",
       "title": "DataFuelX Launches Video Ad Marketplace That Taps 13 Different Publishers",
       "url": "https://variety.com/2026/tv/news/datafuelx-video-ad-marketplace-13-different-publishers-1236910814/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236911130",
-      "title": "\u2018Forensic Files\u2019 to Resume Original Production Amid the Streaming Boom for Vintage True Crime Series",
-      "url": "https://variety.com/2026/tv/news/forensic-files-new-episodes-radial-content-partners-itv-1236911130/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T12:30:13+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236728133",
@@ -1244,14 +1231,6 @@
       "published_dt": "2026-10-14T12:48:09+00:00"
     },
     {
-      "guid": "1918780",
-      "title": "GTA 6\u2019s Nightclubs Have An Absurd Amount Of Detail, Right Down To The Lighting",
-      "url": "https://www.gamespot.com/articles/gta-6-nightclubs-have-an-absurd-amount-of-detail-right-down-to-the-lighting/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T12:28:16+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-207610",
       "title": "Metro 2039 Dev Puts PS5 Pre-Orders Live and Confirms DLC",
       "url": "https://www.pushsquare.com/news/2026/10/metro-2039-dev-puts-ps5-pre-orders-live-and-confirms-dlc",
@@ -1260,28 +1239,12 @@
       "published_dt": "2026-10-14T13:00:00+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-207619",
-      "title": "GTA 6 Tech Will Help Create the Next Rockstar Game, Won't Be Another 8-Year Wait",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T12:30:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1124752",
       "title": "Petit Planet Final Beta Test Ends This Week",
       "url": "https://www.siliconera.com/petit-planet-final-beta-test-ends-this-week/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207603",
-      "title": "Feature: 'He Has Taken Advantage of Extremely Talented, Kind and Professional People' - All Is Not Well with Boutique Retro Publisher 33 Games",
-      "url": "https://www.timeextension.com/features/he-has-taken-advantage-of-extremely-talented-kind-and-professional-people-all-is-not-well-with-boutique-retro-publisher-33-games",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T12:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1760260",
@@ -2058,6 +2021,190 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-14T15:42:49+00:00"
+    },
+    {
+      "guid": "QAjURTGp5J47TAhkCAexrQ",
+      "title": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
+      "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:02:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156722",
+      "title": "Gareth Reynolds Talks Robots, Algorithms & Billionaires In New 800 Pound Gorilla Special \u2018Why Aren\u2019t You Bigger?\u2019",
+      "url": "https://deadline.com/2026/10/gareth-reynolds-new-special-where-to-watch-1237156722/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156805",
+      "title": "Ron Perlman Lines Up Hemingway Movie & Updates On \u2018Sons Of Anarchy\u2019 Spinoff \u2018Legends\u2019, That Third \u2018Hellboy\u2019 Film & Next Steps For His Asylum Studios",
+      "url": "https://deadline.com/2026/10/ron-perlman-to-play-hemingway-updates-on-legends-hellboy-1237156805/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:16:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156887",
+      "title": "Aaron Sorkin On \u2018The West Wing\u2019 Revival: \u201cIt Would Be Very, Very Tricky To Do In The Current Environment\u201d",
+      "url": "https://deadline.com/2026/10/aaron-sorkin-the-west-wing-revival-1237156887/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:15:11+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156640",
+      "title": "Russell Brand\u2019s Accusers: Prosecutors Claim \u2018Despicable Me\u2019 Star Preyed On Women In TV Industry During \u201cFrenzied\u201d & \u201cWild-Eyed\u201d Incidents",
+      "url": "https://deadline.com/2026/10/russell-brand-accusers-star-preyed-women-tv-industry-1237156640/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:03:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156595",
+      "title": "\u2018Nuisance Bear\u2019 Trailer: In Oscar-Contending Documentary, Polar Bears And Humans Collide In Frigid North",
+      "url": "https://deadline.com/2026/10/nuisance-bear-trailer-exclusive-1237156595/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156473",
+      "title": "\u2018La Tierra Del Valor\u2019 Trailer: Nezza Bravely Sings Spanish-Language Version Of National Anthem In Film From Cristina Costantini, EP Eva Longoria",
+      "url": "https://deadline.com/2026/10/la-tierra-del-valor-trailer-exclusive-1237156473/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910573",
+      "title": "For the Love of Television, Please Watch \u2018The Lowdown\u2019 Season 2: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/the-lowdown-season-2-review-ethan-hawke-fx-1236910573/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910297",
+      "title": "Xavier Becerra\u2019s Film Policy Is Vague. Was It Written by AI?",
+      "url": "https://variety.com/2026/film/news/xavier-becerra-film-policy-vague-ai-1236910297/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911991",
+      "title": "Universal Music Group Hit With Layoffs, Several Top Execs to Leave Company",
+      "url": "https://variety.com/2026/music/news/universal-music-group-layoffs-top-execs-out-1236911991/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:19:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911189",
+      "title": "Mediawan\u2019s Pierre-Antoine Capton on Buying Reese Witherspoon\u2019s Hello Sunshine and Doubling Down on Hollywood Amid Consolidation (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/mediawan-pierre-antoine-capton-reese-witherspoons-hello-sunshine-1236911189/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:10:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729612",
+      "title": "Lindsay Arnold Cusick on Life After \u2018DWTS\u2019 and If She\u2019d Ever Return as a Pro Dancer: \u201cNever Say Never\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/lindsay-arnold-dwts-pro-return-kachava-rylee-1236729612/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729265",
+      "title": "IMDb\u2019s Latest Pivot Takes a Cue From LinkedIn",
+      "url": "https://www.hollywoodreporter.com/business/digital/imdbs-nea-features-connections-linkedin-1236729265/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:27:59+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729859",
+      "title": "Higher Ground Links Up With Basketball Podcast \u2018The Young Man and the Three\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/higher-ground-basketball-podcast-young-man-and-the-three-1236729859/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:06:34+00:00"
+    },
+    {
+      "guid": "XayK5LPA7rE2GvMtxDJhbT",
+      "title": "Over the Hill review: \"The single most stressful game I\u2019ve played in years and I think it hates me\"",
+      "url": "https://www.gamesradar.com/games/open-world/over-the-hill-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207633",
+      "title": "'It's Taken 35 Years' - Moonstone Is Getting an AI-Assisted Update for the Amiga 1200",
+      "url": "https://www.timeextension.com/news/2026/10/its-taken-35-years-moonstone-is-getting-an-ai-assisted-update-for-the-amiga-1200",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084293",
+      "title": "Kotaro Uchikoshi establishes new studio CRASH KEYS",
+      "url": "https://www.gematsu.com/2026/10/kotaro-uchikoshi-establishes-new-studio-crash-keys",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:26:28+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084286",
+      "title": "Xbox Nano Controller announced",
+      "url": "https://www.gematsu.com/2026/10/xbox-nano-controller-announced",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:12:03+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084061",
+      "title": "Titanium Court coming to PS5, Switch 2, Switch, iOS, and Android on October 29",
+      "url": "https://www.gematsu.com/2026/10/titanium-court-coming-to-ps5-switch-2-switch-ios-and-android-on-october-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:04:40+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760289",
+      "title": "Atsushi Ohkubo, Hajime Isayama, and Rumiko Takahashi Among America\u2019s Most-Banned Manga Creators in 2026 Report",
+      "url": "https://otakukart.com/atsushi-ohkubo-hajime-isayama-and-rumiko-takahashi-among-americas-most-banned-manga-creators-in-2026-report/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:29:56+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760288",
+      "title": "Manga UP! Representative Says the US Could Have More Manga Readers Than Japan Within 10 Years",
+      "url": "https://otakukart.com/manga-up-representative-says-the-us-could-have-more-manga-readers-than-japan-within-10-years/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:16:15+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760287",
+      "title": "Japan Seeks $11.6 Million to Promote Anime Worldwide, Eyes More Anime Concerts and Manga-Based Language Apps",
+      "url": "https://otakukart.com/japan-seeks-11-6-million-to-promote-anime-worldwide-eyes-more-anime-concerts-and-manga-based-language-apps/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:07:50+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/",
+      "title": "Paizo's 13 OMENS now live on Kickstarter",
+      "url": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:05:00+00:00"
     }
   ]
 }
