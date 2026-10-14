@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Star Wars Zero Company Studio Is Trying to Rehire Furloughed Developers After Mysterious \"Unexpected Business Developments\"",
-      "tag": "star wars zero company",
-      "posted_at": "2026-10-07T17:31:20.421904+00:00",
-      "urls": [
-        "https://kotaku.com/star-wars-zero-company-studio-tries-to-bring-back-as-many-furloughed-devs-as-possible-following-unexpected-business-developments-outside-of-our-control-2000741943"
-      ],
-      "article_titles": [
-        "Star Wars Zero Company Studio Tries To Bring Back As Many Furloughed Devs \u2018As Possible\u2019 Following \u2018Unexpected Business Developments Outside Of Our Control\u2019"
-      ]
-    },
-    {
-      "headline": "Xbox Game Pass October 2026 Lineup Includes Battlefield 6 and Gears of War: E-Day",
-      "tag": "xbox game pass",
-      "posted_at": "2026-10-07T17:31:20.590111+00:00",
-      "urls": [
-        "https://www.eurogamer.net/xbox-game-pass-lineup-october-2026",
-        "https://www.gamespot.com/articles/xbox-game-pass-gets-gears-of-war-e-day-and-these-11-games-in-october/",
-        "https://www.gematsu.com/2026/10/game-pass-adds-battlefield-6-valor-mortis-forever-ago-and-more-in-mid-october"
-      ],
-      "article_titles": [
-        "Here are our Xbox Game Pass games for October 2026",
-        "Xbox Game Pass Gets Gears Of War: E-Day And These 11 Games In October",
-        "Game Pass adds Battlefield 6, Valor Mortis, Forever Ago, and more in mid October"
-      ]
-    },
-    {
       "headline": "Sony Is Reportedly Reviving Ape Escape, With the Sonic Mania Devs at the Helm",
       "tag": "ape escape",
       "posted_at": "2026-10-07T18:30:56.452283+00:00",
@@ -1181,6 +1155,19 @@
       "article_titles": [
         "Everything Announced at IGN Fan Fest: Fall Edition 2026 (Updating Live!)"
       ]
+    },
+    {
+      "headline": "GTA 6's Lead Developer Speaks Out on the Devastating 2022 Leak",
+      "tag": "gta 6",
+      "posted_at": "2026-10-14T17:31:25.730135+00:00",
+      "urls": [
+        "https://kotaku.com/gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-through-your-dirty-washing-2000745968",
+        "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-first-major-leak-was-like-having-someone-wading-through-your-dirty-washing-says-rockstar-lead-its-like-theyre-inside-your-head/"
+      ],
+      "article_titles": [
+        "GTA 6 Lead Reacts To The Infamous 2022 Leak: \u2018Like Somebody\u2019s Wading Through Your Dirty Washing\u2019",
+        "First big GTA 6 leak was like having someone \"wading through your dirty washing,\" says Rockstar dev"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1201,14 +1188,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-10-14T13:49:04+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000745897",
-      "title": "The Legend Of Zelda: Ocarina Of Time Remake\u2019s Latest Trailer Shows A Lot Of Old, But Some Surprising New",
-      "url": "https://kotaku.com/legend-of-zelda-ocarina-of-time-switch-2-remake-bosses-rematch-2000745897",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:30:22+00:00"
     },
     {
       "guid": "NMxPPtuMNwo4jTZSdtRhEi",
@@ -1233,22 +1212,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-14T13:45:01+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156351",
-      "title": "Netflix Layoffs Underway, Streamer Cutting 1,000 Jobs, 6% Of Its Workforce",
-      "url": "https://deadline.com/2026/10/netflix-layoffs-underway-1237156351/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:27:16+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156648",
-      "title": "Peter Facinelli Among Cast Set For Indie Drama \u20181 AM Pacific Time\u2019",
-      "url": "https://deadline.com/2026/10/peter-facinelli-1-am-pacific-time-1237156648/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:26:09+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236911027",
@@ -1283,14 +1246,6 @@
       "published_dt": "2026-10-14T13:31:42+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236729095",
-      "title": "TikTok Inks Second Major Microdrama Deal, Partners With Made By Us Studios",
-      "url": "https://www.hollywoodreporter.com/business/business-news/tiktok-second-microdrama-agreement-made-by-us-studios-1236729095/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:30:00+00:00"
-    },
-    {
       "guid": "mtUWXtkue68bYQRSAgEAPg",
       "title": "What Marvel's Television and Animation NYCC panel means for the future of the MCU",
       "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/what-marvels-television-and-animation-nycc-panel-means-for-the-future-of-the-mcu/",
@@ -1307,28 +1262,12 @@
       "published_dt": "2026-10-14T13:44:47+00:00"
     },
     {
-      "guid": "68W8i8bRVYi9CtZZ23JuR7",
-      "title": "VisionQuest's E.D.I.T.H. star brought elements of Tony Stark into her role: \"Tony's legacy is in there\"",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquests-e-d-i-t-h-star-brought-elements-of-tony-stark-into-her-role-tonys-legacy-is-in-there/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T13:26:24+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-207628",
       "title": "Video: Here's 20+ Minutes Of Zelda: Ocarina Of Time Gameplay On Switch 2",
       "url": "https://www.nintendolife.com/news/2026/10/video-heres-20plus-minutes-of-zelda-ocarina-of-time-gameplay-on-switch-2",
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-14T13:45:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207626",
-      "title": "PlayStation Celebrates 30 Years of Gran Turismo with a Stunning PS5 Controller",
-      "url": "https://www.pushsquare.com/news/2026/10/playstation-celebrates-30-years-of-gran-turismo-with-a-stunning-ps5-controller",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T13:30:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1084132",
@@ -2345,6 +2284,190 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-14T16:43:56+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745989",
+      "title": "Zero Escape And Hundred Line Director\u2019s New Game Canceled Before He Could Announce New Studio",
+      "url": "https://kotaku.com/kotaro-uchikoshi-hundred-line-zero-escape-crash-keys-2000745989",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:10:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745968",
+      "title": "GTA 6 Lead Reacts To The Infamous 2022 Leak: \u2018Like Somebody\u2019s Wading Through Your Dirty Washing\u2019",
+      "url": "https://kotaku.com/gta-6-lead-reacts-to-the-infamous-2022-leak-like-somebodys-wading-through-your-dirty-washing-2000745968",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:52+00:00"
+    },
+    {
+      "guid": "GSbvWNh5QDS85oYdMSMVum",
+      "title": "I've given GTA 5's cars Bond-style ejector seats",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236748421",
+      "title": "Everything We Know About \u2018The Gilded Age\u2019 Season 4 So Far",
+      "url": "https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:24:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236007845",
+      "title": "List Of Hollywood & Media Layoffs From Paramount To Warner Bros Discovery To CNN & More",
+      "url": "https://deadline.com/feature/hollywood-media-layoffs-list-1236007845/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:16:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156953",
+      "title": "How Matthew Gray Gubler Went Back To The Drawing Board For \u2018Einstein\u2019",
+      "url": "https://deadline.com/2026/10/atthew-gray-gubler-art-behind-cbs-einstein-1237156953/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:02:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156972",
+      "title": "\u2018Abbott Elementary\u2019 Welcomes Miranda Cosgrove, Edi Patterson & Ali Wong As Season 6 Guest Stars",
+      "url": "https://deadline.com/2026/10/abbott-elementary-miranda-cosgrove-edi-patterson-ali-wong-1237156972/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156706",
+      "title": "Comedian Alfred Robles Sets Debut Hour Special With Gabriel Iglesias As Executive Producer",
+      "url": "https://deadline.com/2026/10/alfred-robles-comedian-special-el-cowboy-where-to-watch-1237156706/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912126",
+      "title": "Celine Dion Gets Her Own Barbie Doll Inspired by Iconic \u2018Titanic\u2019 Oscars Performance",
+      "url": "https://variety.com/2026/shopping/news/celine-dion-barbie-doll-buy-online-1236912126/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:17:13+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912024",
+      "title": "Steve Hilton, Republican Candidate for Governor, Rolls Out Expanded Hollywood Plan",
+      "url": "https://variety.com/2026/politics/news/steve-hilton-hollywood-plan-1236912024/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:13:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912086",
+      "title": "Emmitt Smith Talks \u2018Dancing with the Stars,\u2019 Taylor Swift\u2019s Impact on the NFL and the State of the Dallas Cowboys Under Dak Prescott: \u2018He\u2019s the Best We\u2019ve Got\u2019",
+      "url": "https://variety.com/2026/sports/features/emmitt-smith-dancing-with-the-stars-taylor-swift-nfl-dallas-cowboys-dak-prescott-1236912086/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:11:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912034",
+      "title": "James McAvoy Got Bullied by Famous Co-Star on His First Day of Being a Professional Actor: I Got Laughed at For Three Minutes",
+      "url": "https://variety.com/2026/tv/news/james-mcavoy-bullied-band-of-brothers-actor-first-day-set-1236912034/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:10:57+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729933",
+      "title": "Universal Music Undergoes Shake Up With Def Jam, Republic Top Execs Among Departures",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/umg-restructuring-def-jam-republic-execs-leave-1236729933/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:20:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729955",
+      "title": "\u2018South Park\u2019 Takes On Aura Battles in Midseason Episode",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-you-like-that-on-your-face-logline-1236729955/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:11:30+00:00"
+    },
+    {
+      "guid": "XN4HWCs3KdVFM7KYiRLHhC",
+      "title": "The assassination of Bruce Wayne, Absolute Justice, and more reveals from DC's NYCC panels",
+      "url": "https://www.gamesradar.com/comics/dc-comics/the-assassination-of-bruce-wayne-absolute-justice-and-more-reveals-from-dcs-nycc-panels/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "1918882",
+      "title": "Retro Handhelds Loaded With Unlicensed Games Could Face Government Crackdown",
+      "url": "https://www.gamespot.com/articles/retro-handhelds-loaded-with-unlicensed-games-could-face-government-crackdown/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:12:32+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207637",
+      "title": "PS5 Pro Easily the Best Place to Play The Witcher 3 Remastered on Console, Finds Digital Foundry",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-pro-easily-the-best-place-to-play-the-witcher-3-remastered-on-console-finds-digital-foundry",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084311",
+      "title": "Arizona Sunshine remake launches January 21, 2027",
+      "url": "https://www.gematsu.com/2026/10/arizona-sunshine-remake-launches-january-21-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:11:55+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084208",
+      "title": "Sker: The Bleeding Veil announced for PS5, Xbox Series, and PC",
+      "url": "https://www.gematsu.com/2026/10/sker-the-bleeding-veil-announced-for-ps5-xbox-series-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:04:05+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760291",
+      "title": "Prime Video Casts 11 Actors in Rose Hill Adaptation of Elsie Silver\u2019s Bestselling Romance Series",
+      "url": "https://otakukart.com/prime-video-casts-11-actors-in-rose-hill-adaptation-of-elsie-silvers-bestselling-romance-series/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:29:57+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760308",
+      "title": "The Greatest Trailer Reveals Jaalen Best as Muhammad Ali Ahead of Prime Video Premiere",
+      "url": "https://otakukart.com/the-greatest-trailer-reveals-jaalen-best-as-muhammad-ali-ahead-of-prime-video-premiere/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:15:01+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760306",
+      "title": "Legion Breaker Launches on Steam With Army-Building, Spell Upgrades, and Massive Auto-Battles",
+      "url": "https://otakukart.com/legion-breaker-launches-on-steam-with-army-building-spell-upgrades-and-massive-auto-battles/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:02:59+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=622637",
+      "title": "D&D: The Magus Blends Swords And Spells In A Brand New Class",
+      "url": "https://www.belloflostsouls.net/2026/10/dd-the-magus-blends-swords-and-spells-in-a-brand-new-class.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:20:00+00:00"
     }
   ]
 }
