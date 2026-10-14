@@ -1,41 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Monster Hunter Rise Is Coming to iOS and Android \u2014 But Only If You Have Netflix",
-      "tag": "monster hunter rise",
-      "posted_at": "2026-10-07T13:31:12.256640+00:00",
-      "urls": [
-        "https://www.eurogamer.net/monster-hunter-rise-ios-android-netflix"
-      ],
-      "article_titles": [
-        "20 million sales later, Capcom is bringing Monster Hunter Rise to iOS and Android, but for now it's locked behind a Netflix subscription"
-      ]
-    },
-    {
-      "headline": "Forza Horizon 6 May Have Been Delayed on PS5 Despite Playground's Denials",
-      "tag": "forza horizon 6",
-      "posted_at": "2026-10-07T13:31:12.337888+00:00",
-      "urls": [
-        "https://www.eurogamer.net/forza-horizon-6-release-date-leak-2027"
-      ],
-      "article_titles": [
-        "Forza Horizon 6 has been delayed on PS5, a new report suggests, not long after developer Playground insisted it hadn't"
-      ]
-    },
-    {
-      "headline": "Undead Labs Breaks Silence on Xbox Split and What It Means for State of Decay 3",
-      "tag": "state of decay 3",
-      "posted_at": "2026-10-07T14:01:15.634610+00:00",
-      "urls": [
-        "https://www.eurogamer.net/undead-labs-xbox-layoffs-state-of-decay-3",
-        "https://www.gamespot.com/articles/state-of-decay-3-was-announced-early-to-keep-undead-labs-on-microsofts-radar/"
-      ],
-      "article_titles": [
-        "Undead Labs speaks about its split from Xbox, revealing it has to \"make some changes\" to State of Decay 3 following layoffs",
-        "State Of Decay 3 Was Announced Early To Keep Undead Labs On Microsoft\u2019s Radar"
-      ]
-    },
-    {
       "headline": "Mafia 2 and Mafia 3 Definitive Editions Leak for PS5 and Xbox Series X/S",
       "tag": "mafia",
       "posted_at": "2026-10-07T15:01:16.398216+00:00",
@@ -1124,6 +1089,17 @@
       "article_titles": [
         "Deathstroke Star Joe Manganiello Speaks Out About Ben Affleck's Canceled Batman Movie"
       ]
+    },
+    {
+      "headline": "Epic Games Launcher Gets a Major Overhaul \u2014 Library Now Loads 30x Faster",
+      "tag": "epic games launcher",
+      "posted_at": "2026-10-14T14:01:26.421405+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-library-loads-30x-faster-the-new-much-speedier-epic-games-launcher-has-arrived"
+      ],
+      "article_titles": [
+        "'The Library Loads 30x Faster\u2019 \u2013 The New, Much Speedier Epic Games Launcher Has Arrived"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1288,6 +1264,158 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-14T12:52:42+00:00"
+    },
+    {
+      "guid": "fa1cf4de-682b-42a5-b3f9-2fa9229d1ff4",
+      "title": "'The Library Loads 30x Faster\u2019 \u2013 The New, Much Speedier Epic Games Launcher Has Arrived",
+      "url": "https://www.ign.com/articles/the-library-loads-30x-faster-the-new-much-speedier-epic-games-launcher-has-arrived",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:55:04+00:00"
+    },
+    {
+      "guid": "65de8e1b-cd95-4c04-b97c-80dcedf864da",
+      "title": "Borderlands 4 Plummets to $20 at Amazon, Hitting New Low Price",
+      "url": "https://www.ign.com/articles/borderlands-4-plummets-to-20-at-amazon-hitting-new-low-price",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:49:04+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745897",
+      "title": "The Legend Of Zelda: Ocarina Of Time Remake\u2019s Latest Trailer Shows A Lot Of Old, But Some Surprising New",
+      "url": "https://kotaku.com/legend-of-zelda-ocarina-of-time-switch-2-remake-bosses-rematch-2000745897",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:30:22+00:00"
+    },
+    {
+      "guid": "NMxPPtuMNwo4jTZSdtRhEi",
+      "title": "Arc Raiders' PvE test is finally here and it's the perfect reason to jump back in",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-pve-test-is-finally-here-and-its-the-perfect-reason-to-jump-back-in/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:42:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156643",
+      "title": "Mongolian-German Feature \u2018Zogsool\u2019 Wins Big At Busan Film Festival\u2019s Vision Awards",
+      "url": "https://deadline.com/2026/10/busan-vision-award-zogsool-mongolia-selvi-full-moon-1237156643/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:48:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156644",
+      "title": "Avatar Entertainment Adapting Vicente Vall\u00e9s Novel \u2018La Caza Del Ejector\u2019 As TV Series",
+      "url": "https://deadline.com/2026/10/avatar-entertainment-la-caza-del-ejector-tv-series-1237156644/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:45:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156351",
+      "title": "Netflix Layoffs Underway, Streamer Cutting 1,000 Jobs, 6% Of Its Workforce",
+      "url": "https://deadline.com/2026/10/netflix-layoffs-underway-1237156351/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:27:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156648",
+      "title": "Peter Facinelli Among Cast Set For Indie Drama \u20181 AM Pacific Time\u2019",
+      "url": "https://deadline.com/2026/10/peter-facinelli-1-am-pacific-time-1237156648/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:26:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911027",
+      "title": "Jonathan Bailey and Natalie Portman Thriller \u2018Pumping Black\u2019 Adds Daniel Quinn-Toye, Lucas Lynggaard T\u00f8nnesen, Arieh Worthalter and Tony Hale (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/jonathan-bailey-natalie-portman-pumping-black-starts-shoot-1236911027/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911062",
+      "title": "Apple TV\u2019s Hit German Series \u2018Where\u2019s Wanda?\u2019 Returns for Season 2, Again Asking: \u2018How Far Would You Go to Save Your Child?\u2019",
+      "url": "https://variety.com/2026/tv/global/apple-tv-wheres-wanda-ufa-fiction-mipcom-1236911062/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:41:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729752",
+      "title": "\u201cRuthless, Sexual Predator\u201d: Russell Brand Rape Allegations Detailed as Prosecution Opens Case",
+      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-rape-trial-prosecution-claims-sexual-assault-1236729752/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:56:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236720435",
+      "title": "Netflix Lays Off Around 1,000 Employees In Largest Cuts Since 2022",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-hit-layoffs-growth-slows-1236720435/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:31:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729095",
+      "title": "TikTok Inks Second Major Microdrama Deal, Partners With Made By Us Studios",
+      "url": "https://www.hollywoodreporter.com/business/business-news/tiktok-second-microdrama-agreement-made-by-us-studios-1236729095/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:30:00+00:00"
+    },
+    {
+      "guid": "mtUWXtkue68bYQRSAgEAPg",
+      "title": "What Marvel's Television and Animation NYCC panel means for the future of the MCU",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/what-marvels-television-and-animation-nycc-panel-means-for-the-future-of-the-mcu/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:54:15+00:00"
+    },
+    {
+      "guid": "WvVakJ6TBMnfyiTZx3rn4g",
+      "title": "Arc Raiders Ruins and Reverberations guide and walkthrough",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/arc-raiders-ruins-and-reverberations/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:44:47+00:00"
+    },
+    {
+      "guid": "68W8i8bRVYi9CtZZ23JuR7",
+      "title": "VisionQuest's E.D.I.T.H. star brought elements of Tony Stark into her role: \"Tony's legacy is in there\"",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquests-e-d-i-t-h-star-brought-elements-of-tony-stark-into-her-role-tonys-legacy-is-in-there/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:26:24+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207628",
+      "title": "Video: Here's 20+ Minutes Of Zelda: Ocarina Of Time Gameplay On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/video-heres-20plus-minutes-of-zelda-ocarina-of-time-gameplay-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207626",
+      "title": "PlayStation Celebrates 30 Years of Gran Turismo with a Stunning PS5 Controller",
+      "url": "https://www.pushsquare.com/news/2026/10/playstation-celebrates-30-years-of-gran-turismo-with-a-stunning-ps5-controller",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084132",
+      "title": "Summer Eternal announces \u2018incendiary, physics-driven RPG\u2019 Red Rooster for PS5, Xbox Series, Switch 2, and PC",
+      "url": "https://www.gematsu.com/2026/10/summer-eternal-announces-incendiary-physics-driven-rpg-red-rooster-for-ps5-xbox-series-switch-2-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:57:21+00:00"
     }
   ]
 }
