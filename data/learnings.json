@@ -1073,78 +1073,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "c2f4d4a5-3f9a-4715-b31c-5965bfa42d0f",
-      "title": "Save 20% Off the New Steelseries Aeon Pro Wireless Gaming Controller With Infinite Battery Life",
-      "url": "https://www.ign.com/articles/steelseries-aeon-pro-wireless-gaming-controller-deal-october-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T22:40:00+00:00"
-    },
-    {
-      "guid": "8eb78b57-2ecd-447f-9799-3d9b916f05e7",
-      "title": "The Bose QuietComfort Noise Canceling Headphones Retail for $359, But You Can Get a Pair for Just $123",
-      "url": "https://www.ign.com/articles/bose-quietcomfort-noise-canceling-headphone-deal-october-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T22:35:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156136",
-      "title": "Doc Talk Podcast: David And Liani Greaves On Their Oscar Contender \u2018Once Upon A Time In Harlem\u2019",
-      "url": "https://deadline.com/2026/10/once-upon-a-time-in-harlem-david-liani-greaves-podcast-1237156136/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T23:01:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156207",
-      "title": "Bay Theater In Pacific Palisades To Reopen For First Time Since 2025 Fires As Paramount Takes Over Venue",
-      "url": "https://deadline.com/2026/10/bay-theater-palisades-to-reopen-paramount-1237156207/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T22:57:45+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156252",
-      "title": "Bob Odenkirk Mourns \u2018Breaking Bad\u2019 Co-Star RJ Mitte Following Death: \u201cThis Is Simply, Deeply Sad\u201d",
-      "url": "https://deadline.com/2026/10/bob-odenkirk-mourns-breaking-bad-rj-mitte-death-1237156252/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T22:45:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909902",
-      "title": "\u2018Tommy & Tuppence\u2019 Stars Josh Dylan and Antonia Thomas on That \u2018Intense\u2019 Finale, Why the Detective Duo \u2018Keep Missing Each Other\u2019 Romantically and a Potential Season 2",
-      "url": "https://variety.com/2026/tv/global/tommy-tuppence-finale-josh-dylan-antonia-thomas-romance-season-2-1236909902/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T23:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236910307",
-      "title": "Why the \u2018Girls\u2019 Revival Is Such an Exciting Idea",
-      "url": "https://variety.com/2026/tv/columns/girls-revival-hbo-1236910307/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T22:45:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236726224",
-      "title": "QVC Turns 40: Hosts Break Down Shopping Network\u2019s Most-Viral Moments",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/qvc-at-40-biggest-viral-fails-oral-history-1236726224/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-13T22:42:41+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207562",
-      "title": "The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are",
-      "url": "https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-13T23:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237155960",
       "title": "\u2018Dancing With The Stars\u2019 Recap: Super Bowl Night Sends Home A Fan Favorite",
       "url": "https://deadline.com/2026/10/dancing-with-the-stars-season-35-week-5-recap-super-bowl-1237155960/",
@@ -1159,6 +1087,14 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-14T01:28:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910947",
+      "title": "Judge Extends Block on Trump\u2019s White House Ban on CNN, MS NOW and Politico",
+      "url": "https://variety.com/2026/tv/news/judge-blocks-trump-administrations-ban-cnn-ms-now-politico-1236910947/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T03:59:35+00:00"
     }
   ]
 }
