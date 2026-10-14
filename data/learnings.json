@@ -1067,34 +1067,227 @@
         "Project_Lamordia is now on DDB bringing modern survival horror to D&D",
         "D&D\u2019s Project_Lamordia Pulls Out Techno/Medical Horror Vibes"
       ]
+    },
+    {
+      "headline": "Ocarina of Time's Switch 2 Remake Is Fixing the Most Annoying Owl in Gaming History",
+      "tag": "the legend of zelda: ocarina of time",
+      "posted_at": "2026-10-14T13:01:29.978637+00:00",
+      "urls": [
+        "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl"
+      ],
+      "article_titles": [
+        "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake"
+      ]
+    },
+    {
+      "headline": "Rockstar Co-Founder Dan Houser Says He Was Personally Responsible for Max Payne 3's Failure",
+      "tag": "max payne 3",
+      "posted_at": "2026-10-14T13:01:30.225190+00:00",
+      "urls": [
+        "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame"
+      ],
+      "article_titles": [
+        "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\""
+      ]
+    },
+    {
+      "headline": "GTA 6 Leaker Drops Final Gameplay Footage of End Missions Before Going Dark",
+      "tag": "gta 6",
+      "posted_at": "2026-10-14T13:01:30.504320+00:00",
+      "urls": [
+        "https://www.ign.com/articles/gta-6-leaker-releases-new-gameplay-video-showing-snippets-of-the-final-missions-declares-the-end-of-the-road-after-crypto-scheme-collapses",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x5q962/gameplay_tidbits_from_the_final_gta_vi_leak_end/"
+      ],
+      "article_titles": [
+        "GTA 6 Leaker Releases New Gameplay Video Showing Snippets of the Final Missions, Declares 'The End of the Road' After Crypto Scheme Collapses",
+        "Gameplay tidbits from the final GTA VI leak (End of the Road)"
+      ]
+    },
+    {
+      "headline": "Ubisoft Is Closing Trials Developer RedLynx and Cutting the Assassin's Creed: Black Flag Resynced Team",
+      "tag": "ubisoft",
+      "posted_at": "2026-10-14T13:01:30.754484+00:00",
+      "urls": [
+        "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag"
+      ],
+      "article_titles": [
+        "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore"
+      ]
+    },
+    {
+      "headline": "Joe Manganiello Breaks Silence on the Cancelled Deathstroke Batman Movie",
+      "tag": "dc",
+      "posted_at": "2026-10-14T13:01:30.995477+00:00",
+      "urls": [
+        "https://www.ign.com/articles/deathstroke-star-speaks-out-ben-affleck-cancelled-batman-movie"
+      ],
+      "article_titles": [
+        "Deathstroke Star Joe Manganiello Speaks Out About Ben Affleck's Canceled Batman Movie"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237155960",
-      "title": "\u2018Dancing With The Stars\u2019 Recap: Super Bowl Night Sends Home A Fan Favorite",
-      "url": "https://deadline.com/2026/10/dancing-with-the-stars-season-35-week-5-recap-super-bowl-1237155960/",
-      "source_name": "Deadline",
+      "guid": "b674de12-2e4a-4de2-a411-5e0ea642dfa5",
+      "title": "GTA 6 Leaker Releases New Gameplay Video Showing Snippets of the Final Missions, Declares 'The End of the Road' After Crypto Scheme Collapses",
+      "url": "https://www.ign.com/articles/gta-6-leaker-releases-new-gameplay-video-showing-snippets-of-the-final-missions-declares-the-end-of-the-road-after-crypto-scheme-collapses",
+      "source_name": "IGN",
       "source_tier": 1,
-      "published_dt": "2026-10-14T01:59:43+00:00"
+      "published_dt": "2026-10-14T12:47:35+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236910947",
-      "title": "Judge Extends Block on Trump\u2019s White House Ban on CNN, MS NOW and Politico",
-      "url": "https://variety.com/2026/tv/news/judge-blocks-trump-administrations-ban-cnn-ms-now-politico-1236910947/",
+      "guid": "aeaf83f5-519e-4b0c-bece-86032bcf92d7",
+      "title": "Deathstroke Star Joe Manganiello Speaks Out About Ben Affleck's Canceled Batman Movie",
+      "url": "https://www.ign.com/articles/deathstroke-star-speaks-out-ben-affleck-cancelled-batman-movie",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T12:27:50+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
+      "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake",
+      "url": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
+      "title": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
+      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T12:52:32+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
+      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
+      "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T12:40:59+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
+      "title": "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore",
+      "url": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T12:30:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155362",
+      "title": "Hearst Networks UK & Super Channel Search For Black Watch Entertainment\u2019s \u2018Missing Pieces\u2019",
+      "url": "https://deadline.com/2026/10/hearst-networks-uk-super-channel-missing-pieces-1237155362/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155551",
+      "title": "Urban One Lines Up \u2018Foul Play\u2019 And \u2018Power & Influence\u2019 TikTok Microdramas",
+      "url": "https://deadline.com/2026/10/urban-one-tiktok-microdramas-1237155551/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T12:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910814",
+      "title": "DataFuelX Launches Video Ad Marketplace That Taps 13 Different Publishers",
+      "url": "https://variety.com/2026/tv/news/datafuelx-video-ad-marketplace-13-different-publishers-1236910814/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-14T03:59:35+00:00"
+      "published_dt": "2026-10-14T13:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237156369",
-      "title": "\u2018A Chronicle Of Minor Things\u2019 & \u2018Goldfish\u2019 Among Award Winners At Busan\u2019s Asian Project Market",
-      "url": "https://deadline.com/2026/10/busan-apm-a-chronicle-of-minor-things-goldfish-1237156369/",
-      "source_name": "Deadline",
+      "guid": "https://variety.com/?p=1236911130",
+      "title": "\u2018Forensic Files\u2019 to Resume Original Production Amid the Streaming Boom for Vintage True Crime Series",
+      "url": "https://variety.com/2026/tv/news/forensic-files-new-episodes-radial-content-partners-itv-1236911130/",
+      "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-14T05:00:55+00:00"
+      "published_dt": "2026-10-14T12:30:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728133",
+      "title": "Snoop Dogg\u2019s Daughter Cori Broadus Debuts Character in Animated Series \u2018Doggyland\u2019 \u2014 Fulfilling a Childhood Dream (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/music/music-news/snoop-dogg-daughter-cori-broadus-voice-role-doggyland-1236728133/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "guid": "NfmQh2BBvoKvc6p7DySwLc",
+      "title": "CRKD's tiny controller got a growth spurt, but the new Atom+ is still a perfect travel-friendly pad",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/crkds-tiny-controller-got-a-growth-spurt-but-the-new-atom-is-still-a-perfect-travel-friendly-pad/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T12:48:09+00:00"
+    },
+    {
+      "guid": "1918780",
+      "title": "GTA 6\u2019s Nightclubs Have An Absurd Amount Of Detail, Right Down To The Lighting",
+      "url": "https://www.gamespot.com/articles/gta-6-nightclubs-have-an-absurd-amount-of-detail-right-down-to-the-lighting/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T12:28:16+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207610",
+      "title": "Metro 2039 Dev Puts PS5 Pre-Orders Live and Confirms DLC",
+      "url": "https://www.pushsquare.com/news/2026/10/metro-2039-dev-puts-ps5-pre-orders-live-and-confirms-dlc",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207619",
+      "title": "GTA 6 Tech Will Help Create the Next Rockstar Game, Won't Be Another 8-Year Wait",
+      "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124752",
+      "title": "Petit Planet Final Beta Test Ends This Week",
+      "url": "https://www.siliconera.com/petit-planet-final-beta-test-ends-this-week/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207603",
+      "title": "Feature: 'He Has Taken Advantage of Extremely Talented, Kind and Professional People' - All Is Not Well with Boutique Retro Publisher 33 Games",
+      "url": "https://www.timeextension.com/features/he-has-taken-advantage-of-extremely-talented-kind-and-professional-people-all-is-not-well-with-boutique-retro-publisher-33-games",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T12:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760260",
+      "title": "Star Fox Developer Says Mid-Sized Studios Can Survive by Making AA Games for Established IPs and Smaller Games With Original Ideas",
+      "url": "https://otakukart.com/star-fox-developer-says-mid-sized-studios-can-survive-by-making-aa-games-for-established-ips-and-smaller-games-with-original-ideas/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T12:49:19+00:00"
+    },
+    {
+      "guid": "t3_1x5q962",
+      "title": "Gameplay tidbits from the final GTA VI leak (End of the Road)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x5q962/gameplay_tidbits_from_the_final_gta_vi_leak_end/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T12:44:47+00:00"
+    },
+    {
+      "guid": "t3_1x5qfa3",
+      "title": "New GTA 6 Leak (along with a lengthy announcement)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x5qfa3/new_gta_6_leak_along_with_a_lengthy_announcement/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T12:52:42+00:00"
     }
   ]
 }
