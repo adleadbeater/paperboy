@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Mafia 2 and Mafia 3 Definitive Editions Leak for PS5 and Xbox Series X/S",
-      "tag": "mafia",
-      "posted_at": "2026-10-07T15:01:16.398216+00:00",
-      "urls": [
-        "https://www.ign.com/articles/mafia-2-mafia-3-definitive-edition-leaked"
-      ],
-      "article_titles": [
-        "Mafia 2 and Mafia 3 Could Be Set for PS5 and Xbox Series Upgrades After Definitive Editions Leak Online"
-      ]
-    },
-    {
-      "headline": "Pok\u00e9mon FireRed and LeafGreen Support Added to Pok\u00e9mon Home, Fueling Switch Port Speculation",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-10-07T15:31:06.655056+00:00",
-      "urls": [
-        "https://www.siliconera.com/pokemon-home-works-with-pokemon-firered-and-leafgreen-switch-now/",
-        "https://www.gamesradar.com/games/pokemon/pokemon-ruby-sapphire-and-emerald-switch-ports-feel-all-but-confirmed-fans-believe-as-new-pokemon-home-update-suggests-more-gba-games-could-be-on-the-way/",
-        "https://www.siliconera.com/pokemon-home-works-with-pokemon-firered-and-leafgreen-switch-now/"
-      ],
-      "article_titles": [
-        "Pokemon Home Works With Pokemon FireRed and LeafGreen Switch Now",
-        "Pokemon RSE Switch ports feel all but confirmed, fans believe thanks to Pokemon Home update",
-        "Pokemon Home Works With Pokemon FireRed and LeafGreen Switch Now"
-      ]
-    },
-    {
       "headline": "Gears of War: E-Day Studio Head Says the Next Game Won't Take Seven Years to Make",
       "tag": "gears of war",
       "posted_at": "2026-10-07T16:01:26.649397+00:00",
@@ -1133,6 +1107,28 @@
       "article_titles": [
         "\"This non-profit will be the 'voice of the gamers'\" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure"
       ]
+    },
+    {
+      "headline": "Guild Wars 2 Is Ditching Paid Living World Seasons and Bundling Them Into Expansions",
+      "tag": "guild wars 2",
+      "posted_at": "2026-10-14T15:31:28.979215+00:00",
+      "urls": [
+        "https://www.eurogamer.net/guild-wars-2-living-world-expansions"
+      ],
+      "article_titles": [
+        "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions"
+      ]
+    },
+    {
+      "headline": "Take-Two CEO Was Blindsided When Rockstar Asked to Delay GTA 6 Again",
+      "tag": "gta 6",
+      "posted_at": "2026-10-14T15:31:29.249741+00:00",
+      "urls": [
+        "https://kotaku.com/when-rockstar-needed-to-delay-gta-6-again-take-twos-ceo-replied-please-tell-me-youre-kidding-2000745938"
+      ],
+      "article_titles": [
+        "When Rockstar Needed To Delay GTA 6 Again, Take-Two\u2019s CEO Replied: \u2018Please Tell Me You\u2019re Kidding\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1601,6 +1597,190 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-10-14T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+      "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+      "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:14:15+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745938",
+      "title": "When Rockstar Needed To Delay GTA 6 Again, Take-Two\u2019s CEO Replied: \u2018Please Tell Me You\u2019re Kidding\u2019",
+      "url": "https://kotaku.com/when-rockstar-needed-to-delay-gta-6-again-take-twos-ceo-replied-please-tell-me-youre-kidding-2000745938",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:10:02+00:00"
+    },
+    {
+      "guid": "UU7m3PLoZxRt8QYwXcmcJN",
+      "title": "WoW: Forever has a new kind of ban to deal with real money trading",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:03:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910445",
+      "title": "Nia Long Joins Teyana Taylor\u2019s Directorial Debut \u2018Get Lite\u2019 at Paramount (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/nia-long-teyana-taylor-get-lite-cast-1236910445/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911989",
+      "title": "ESPN Launches ESPN JV YouTube Channel for Kids",
+      "url": "https://variety.com/2026/tv/news/espn-launches-espn-jv-youtube-channel-kids-1236911989/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:29:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911288",
+      "title": "RadicalMedia\u2019s New CEO Wants to Test Business Models That Give Production Powerhouse Stakes in Work It Does for Others",
+      "url": "https://variety.com/2026/tv/news/radicalmedia-new-ceo-justin-barocas-ownership-models-1236911288/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:20:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909503",
+      "title": "From Bob Hope to Macy\u2019s Thanksgiving Day Parade to \u2018Wicked: One Wonderful Night\u2019: How NBC Became America\u2019s Home for TV Specials",
+      "url": "https://variety.com/2026/tv/news/bob-hope-macys-thanksgiving-day-parade-wicked-nbc-specials-1236909503/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910598",
+      "title": "Jamie Foxx Boards Indie Crime Thriller \u2018East of the River\u2019 as Producer (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/columns/jamie-foxx-indie-crime-thriller-east-of-the-river-producer-1236910598/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:10:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911580",
+      "title": "Skydance Shares Skid Down 25% After Company Issues 471 Million Stock Warrants to Paramount Investors",
+      "url": "https://variety.com/2026/biz/news/skydance-stock-drops-warrants-paramount-investors-1236911580/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:00:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910976",
+      "title": "\u2018Yellowjackets\u2019 Season 4 Trailer: The Wilderness Survivors Return Home",
+      "url": "https://variety.com/2026/tv/news/yellowjackets-season-4-trailer-shauna-mista-van-1236910976/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909149",
+      "title": "Sex, Love and War: How the Racy Gay Epic \u2018La Bola Negra\u2019 Could Win Netflix\u2019s First Best Picture Oscar",
+      "url": "https://variety.com/2026/film/features/la-bola-negra-netflix-sexy-gay-oscar-contender-1236909149/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911701",
+      "title": "Aziz Ansari Sets New Netflix Special and Says \u2018I Believe It\u2019s My Best One\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/aziz-ansari-new-netflix-special-1236911701/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236911877",
+      "title": "Netflix Film VP Doug Belgrad Is Out Amid Layoffs",
+      "url": "https://variety.com/2026/film/news/netflix-film-vp-doug-belgrad-layoff-1236911877/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T14:57:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729808",
+      "title": "Brooklyn Shop Changes Mind, Puts Bird Wanted by Kelly Clarkson on Sale for $15 Million",
+      "url": "https://www.hollywoodreporter.com/news/general-news/bird-kelly-clarkson-sale-15-million-1236729808/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:27:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236728112",
+      "title": "Justin Baldoni\u2018s Crisis PR Firm Linked to Smear of Consumer Safety Advocate",
+      "url": "https://www.hollywoodreporter.com/news/general-news/justin-baldoni-melissa-nathan-tamara-rubin-benita-litt-1236728112/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:02:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729332",
+      "title": "\u2018Yellowjackets\u2019: First Footage of Final Season Shows the Long-Awaited Homecoming",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/yellowjackets-final-season-4-first-look-rescue-1236729332/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T15:00:00+00:00"
+    },
+    {
+      "guid": "Xxh7FXgs87t2Str4qetzoK",
+      "title": "Rockstar still won't reveal cost of GTA 6 development, but it's definitely not previously rumored $1.5 billion",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-still-wont-reveal-the-cost-of-gta-6-development-but-its-definitely-not-the-previously-rumored-usd1-5-billion/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T15:23:04+00:00"
+    },
+    {
+      "guid": "CSYK7HHm4nNALJfwYmXwuP",
+      "title": "Mario Kart 8 patch stops Switch 2 players from being bombarded with more obstacles than on Switch 1",
+      "url": "https://www.gamesradar.com/games/super-mario/new-mario-kart-8-patch-stops-switch-2-players-from-being-bombarded-with-more-obstacles-than-their-switch-1-rivals/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T15:05:13+00:00"
+    },
+    {
+      "guid": "viicUKvxJXbMFGQVqfgCKW",
+      "title": "Rockstar wins without doing anything as GTA 6 leaker Cyberleek retreats after meme coin crashes",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wins-without-doing-anything-as-cyberleek-retreats-after-meme-coin-crashes-gta-6-leaker-says-the-leeks-stop-here-as-if-the-games-not-out-in-a-month/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T15:00:39+00:00"
+    },
+    {
+      "guid": "1918862",
+      "title": "Ubisoft\u2019s Latest Restructuring Plan Puts Trials Developer RedLynx On The Chopping Block",
+      "url": "https://www.gamespot.com/articles/ubisofts-latest-restructuring-plan-puts-trials-developer-redlynx-on-the-chopping-block/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T15:02:27+00:00"
+    },
+    {
+      "guid": "1918852",
+      "title": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack \u201cWeirdly Invasive\u201d",
+      "url": "https://www.gamespot.com/articles/gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-invasive/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T14:57:53+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207631",
+      "title": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124644",
+      "title": "Review: Tales of Eternia Remastered Is a Much-Needed Remaster",
+      "url": "https://www.siliconera.com/review-tales-of-eternia-remastered-is-a-much-needed-remaster/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T15:01:00+00:00"
     }
   ]
 }
