@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "An AI-Generated Games Platform Already Has 10 Million Monthly Users",
-      "tag": "\u2014",
-      "posted_at": "2026-10-07T16:31:39.245573+00:00",
-      "urls": [
-        "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894"
-      ],
-      "article_titles": [
-        "AI-Generated Games Platform Already Has 10 Million Monthly Users"
-      ]
-    },
-    {
       "headline": "Star Wars Zero Company Studio Is Trying to Rehire Furloughed Developers After Mysterious \"Unexpected Business Developments\"",
       "tag": "star wars zero company",
       "posted_at": "2026-10-07T17:31:20.421904+00:00",
@@ -1153,123 +1142,50 @@
       "article_titles": [
         "Xbox Nano Controller announced"
       ]
+    },
+    {
+      "headline": "PS Plus Extra and Premium Games for October 2026 Revealed",
+      "tag": "playstation",
+      "posted_at": "2026-10-14T17:01:41.358938+00:00",
+      "urls": [
+        "https://www.eurogamer.net/playstation-plus-october-2026-games",
+        "https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced"
+      ],
+      "article_titles": [
+        "Here are our PS Plus Premium and Extra games for October",
+        "9 PS Plus Extra, Premium Games for October 2026 Announced"
+      ]
+    },
+    {
+      "headline": "Zero Escape and AI: The Somnium Files Creator Kotaro Uchikoshi Launches New Studio CRASH KEYS",
+      "tag": "crash keys",
+      "posted_at": "2026-10-14T17:01:41.586573+00:00",
+      "urls": [
+        "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
+        "https://www.gematsu.com/2026/10/kotaro-uchikoshi-establishes-new-studio-crash-keys",
+        "https://www.gematsu.com/2026/10/kotaro-uchikoshi-establishes-new-studio-crash-keys"
+      ],
+      "article_titles": [
+        "Kotaro Uchikoshi, Creator Of Zero Escape And AI: The Somnium Files, Launches New Studio",
+        "Kotaro Uchikoshi establishes new studio CRASH KEYS",
+        "Kotaro Uchikoshi establishes new studio CRASH KEYS"
+      ]
+    },
+    {
+      "headline": "Everything Announced at IGN Fan Fest: Fall 2026 \u2014 Live Updates",
+      "tag": "ign fan fest",
+      "posted_at": "2026-10-14T17:01:41.839212+00:00",
+      "urls": [
+        "https://www.ign.com/articles/everything-announced-at-ign-fan-fest-fall-edition-2026"
+      ],
+      "article_titles": [
+        "Everything Announced at IGN Fan Fest: Fall Edition 2026 (Updating Live!)"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "b674de12-2e4a-4de2-a411-5e0ea642dfa5",
-      "title": "GTA 6 Leaker Releases New Gameplay Video Showing Snippets of the Final Missions, Declares 'The End of the Road' After Crypto Scheme Collapses",
-      "url": "https://www.ign.com/articles/gta-6-leaker-releases-new-gameplay-video-showing-snippets-of-the-final-missions-declares-the-end-of-the-road-after-crypto-scheme-collapses",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T12:47:35+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
-      "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake",
-      "url": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-      "title": "Rockstar co-founder Dan Houser blames himself for Max Payne 3 - \"a large amount of that failure was on me\"",
-      "url": "https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T12:52:32+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
-      "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
-      "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T12:40:59+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
-      "title": "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore",
-      "url": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T12:30:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155362",
-      "title": "Hearst Networks UK & Super Channel Search For Black Watch Entertainment\u2019s \u2018Missing Pieces\u2019",
-      "url": "https://deadline.com/2026/10/hearst-networks-uk-super-channel-missing-pieces-1237155362/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236910814",
-      "title": "DataFuelX Launches Video Ad Marketplace That Taps 13 Different Publishers",
-      "url": "https://variety.com/2026/tv/news/datafuelx-video-ad-marketplace-13-different-publishers-1236910814/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236728133",
-      "title": "Snoop Dogg\u2019s Daughter Cori Broadus Debuts Character in Animated Series \u2018Doggyland\u2019 \u2014 Fulfilling a Childhood Dream (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/music/music-news/snoop-dogg-daughter-cori-broadus-voice-role-doggyland-1236728133/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "NfmQh2BBvoKvc6p7DySwLc",
-      "title": "CRKD's tiny controller got a growth spurt, but the new Atom+ is still a perfect travel-friendly pad",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/crkds-tiny-controller-got-a-growth-spurt-but-the-new-atom-is-still-a-perfect-travel-friendly-pad/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T12:48:09+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207610",
-      "title": "Metro 2039 Dev Puts PS5 Pre-Orders Live and Confirms DLC",
-      "url": "https://www.pushsquare.com/news/2026/10/metro-2039-dev-puts-ps5-pre-orders-live-and-confirms-dlc",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124752",
-      "title": "Petit Planet Final Beta Test Ends This Week",
-      "url": "https://www.siliconera.com/petit-planet-final-beta-test-ends-this-week/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760260",
-      "title": "Star Fox Developer Says Mid-Sized Studios Can Survive by Making AA Games for Established IPs and Smaller Games With Original Ideas",
-      "url": "https://otakukart.com/star-fox-developer-says-mid-sized-studios-can-survive-by-making-aa-games-for-established-ips-and-smaller-games-with-original-ideas/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T12:49:19+00:00"
-    },
-    {
-      "guid": "t3_1x5q962",
-      "title": "Gameplay tidbits from the final GTA VI leak (End of the Road)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x5q962/gameplay_tidbits_from_the_final_gta_vi_leak_end/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T12:44:47+00:00"
-    },
-    {
-      "guid": "t3_1x5qfa3",
-      "title": "New GTA 6 Leak (along with a lengthy announcement)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x5qfa3/new_gta_6_leak_along_with_a_lengthy_announcement/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T12:52:42+00:00"
-    },
     {
       "guid": "fa1cf4de-682b-42a5-b3f9-2fa9229d1ff4",
       "title": "'The Library Loads 30x Faster\u2019 \u2013 The New, Much Speedier Epic Games Launcher Has Arrived",
@@ -2205,6 +2121,230 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-10-14T16:05:00+00:00"
+    },
+    {
+      "guid": "c98cd85e-83d2-460d-a7c8-c2d13f577bae",
+      "title": "PlayStation Plus Game Catalog October 2026 Lineup Confirmed",
+      "url": "https://www.ign.com/articles/playstation-plus-game-catalog-october-2026-lineup-confirmed",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:55:19+00:00"
+    },
+    {
+      "guid": "c6a29e52-50a0-4f18-acb9-153bb12e352e",
+      "title": "Gears of War: E-Day Mod Adds Halo, Star Wars, and Warhammer 40,000 Skins",
+      "url": "https://www.ign.com/articles/halo-warhammer-gears-of-war-e-day-mod",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:39:26+00:00"
+    },
+    {
+      "guid": "4f9fbcfb-3403-476c-ae9a-475b58d1be0b",
+      "title": "Everything Announced at IGN Fan Fest: Fall Edition 2026 (Updating Live!)",
+      "url": "https://www.ign.com/articles/everything-announced-at-ign-fan-fest-fall-edition-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:28:55+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/playstation-plus-october-2026-games",
+      "title": "Here are our PS Plus Premium and Extra games for October",
+      "url": "https://www.eurogamer.net/playstation-plus-october-2026-games",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:51:54+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000745965",
+      "title": "5 Things We Just Learned About The Legend Of Zelda: Ocarina Of Time Remake",
+      "url": "https://kotaku.com/5-things-we-just-learned-about-the-legend-of-zelda-ocarina-of-time-remake-2000745965",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:41:31+00:00"
+    },
+    {
+      "guid": "azVaGjJJFngbhZgGhN2QR3",
+      "title": "Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here",
+      "url": "https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:37:47+00:00"
+    },
+    {
+      "guid": "uRDbjNtrUUqiVbJ7LEqeGh",
+      "title": "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'",
+      "url": "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:34:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156521",
+      "title": "SFFILM\u2019s Doc Stories To Open With Ava DuVernay\u2019s \u201814th,\u2019 Showcase \u2018Tutu,\u2019 \u2018Black Sunflowers,\u2019 \u2019Soul Patrol\u2019 & More",
+      "url": "https://deadline.com/2026/10/sffilm-doc-stories-2026-lineup-announcement-1237156521/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237156988",
+      "title": "Lisa Lang McMullen, James Oh, Andrew McQuinn & Carolina Garcia Among Netflix TV Execs Impacted By Layoffs",
+      "url": "https://deadline.com/2026/10/lisa-lang-mcmullen-james-oh-andrew-mcquinn-netflix-layoffs-1237156988/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:56:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237154802",
+      "title": "Midjourney: Report Claims AI Model Is Worst Offender For Flouting Hollywood Copyright",
+      "url": "https://deadline.com/2026/10/midjourney-worst-offender-flouting-hollywood-copyright-1237154802/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T16:48:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910396",
+      "title": "Katseye Teams Up With Disney for Mickey Mouse-Inspired Collection Ahead of Hulu Doc",
+      "url": "https://variety.com/2026/shopping/news/katseye-disney-collection-shop-online-1236910396/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910704",
+      "title": "Amy Poehler\u2019s \u2018Dig\u2019 Adds Max Greenfield, Jason Mantzoukas, Noma Dumezweni and More (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/amy-poehler-dig-max-greenfield-jason-mantzoukas-1236910704/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910719",
+      "title": "Doc Stories Unveils 12th Annual Film Lineup (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/doc-stories-film-lineup-14th-1236910719/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729075",
+      "title": "Netflix\u2019s \u2018Untold\u2019 to Tackle Daejon Love (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/daejon-love-viral-scammer-netflix-untold-documentary-1236729075/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "wihS9gwgrERMEKhvG7ncM6",
+      "title": "Xbox just announced its brand new controller, and it's far from the pro pad we all expected",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/xbox-just-announced-its-brand-new-controller-and-its-far-from-the-pro-pad-we-all-expected/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:52:03+00:00"
+    },
+    {
+      "guid": "KvsJPf3nz57zASiitxJn9o",
+      "title": "VisionQuest star Paul Bettany once left a complete Avengers: Infinity War script on a plane",
+      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-star-paul-bettany-once-left-a-complete-avengers-infinity-war-script-on-a-plane/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:37:59+00:00"
+    },
+    {
+      "guid": "efJXerrqesSXChcVzJ5nmY",
+      "title": "Henry Cavill brought Geralt voice actor Doug Cockle to a Witcher premiere, but only after he had to prove his identity",
+      "url": "https://www.gamesradar.com/games/the-witcher/henry-cavill-brought-geralt-voice-actor-doug-cockle-to-a-witcher-premiere-but-only-after-the-superman-star-had-to-prove-his-identity-i-get-a-lot-of-weird-dms/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:34:13+00:00"
+    },
+    {
+      "guid": "zA7fNJTPPzzZ98zF8W4SER",
+      "title": "First big GTA 6 leak was like having someone \"wading through your dirty washing,\" says Rockstar dev",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6s-first-major-leak-was-like-having-someone-wading-through-your-dirty-washing-says-rockstar-lead-its-like-theyre-inside-your-head/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:26:10+00:00"
+    },
+    {
+      "guid": "1918906",
+      "title": "Ex-Overwatch Director Jeff Kaplan Says He Never Wanted The Spotlight, But The Game Needed A Face",
+      "url": "https://www.gamespot.com/articles/ex-overwatch-director-jeff-kaplan-says-he-never-wanted-the-spotlight-but-the-game-needed-a-face/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:34:55+00:00"
+    },
+    {
+      "guid": "1918883",
+      "title": "Jeff Kaplan Says Seperation From Overwatch Was \u201cClinical\u201d: \u201d I Never Go Back\u201d",
+      "url": "https://www.gamespot.com/articles/jeff-kaplan-says-seperation-from-overwatch-was-clinical-i-never-go-back/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:34:31+00:00"
+    },
+    {
+      "guid": "1918902",
+      "title": "Minecraft\u2019s Verity Is A Top Trending Halloween Costume For 2026",
+      "url": "https://www.gamespot.com/articles/minecrafts-verity-is-a-top-trending-halloween-costume-for-2026/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:29:27+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207642",
+      "title": "Kotaro Uchikoshi, Creator Of Zero Escape And AI: The Somnium Files, Launches New Studio",
+      "url": "https://www.nintendolife.com/news/2026/10/kotaro-uchikoshi-creator-of-zero-escape-and-ai-the-somnium-files-launches-new-studio",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207606",
+      "title": "Sony's Missing First-Party Games Have Returned to PS Store in the US",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-missing-first-party-games-have-returned-to-ps-store-in-the-us",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207636",
+      "title": "Call of Duty Can't Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124785",
+      "title": "Gundam Games 40th Anniversary Live Stream Airs in October 2026",
+      "url": "https://www.siliconera.com/gundam-games-40th-anniversary-live-stream-airs-in-october-2026/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760305",
+      "title": "Jinx It Announced for Steam: Hand-Drawn Roguelike Dicebuilder Lets Players Create Overpowered Builds",
+      "url": "https://otakukart.com/jinx-it-announced-for-steam-hand-drawn-roguelike-dicebuilder-lets-players-create-overpowered-builds/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:52:58+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760307",
+      "title": "Zelda: Ocarina of Time Remake Adds Hall of Fallen Foes With Boss Rematches and Best-Time Challenges",
+      "url": "https://otakukart.com/zelda-ocarina-of-time-remake-adds-hall-of-fallen-foes-with-boss-rematches-and-best-time-challenges/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:44:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760290",
+      "title": "Naruto Study Links the Anime\u2019s Themes of Resilience and Perseverance to Better Stress Management",
+      "url": "https://otakukart.com/naruto-study-links-the-animes-themes-of-resilience-and-perseverance-to-better-stress-management/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T16:43:56+00:00"
     }
   ]
 }
