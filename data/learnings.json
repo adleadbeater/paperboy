@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Fan-made mod ReSkate has effectively de-live-serviced the old Skate game \u2014 and devs say they'll yield to EA lawyers",
-      "tag": "skate",
-      "posted_at": "2026-10-07T19:31:24.622819+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/sports/reskate-modding-platform-released/"
-      ],
-      "article_titles": [
-        "Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times\u2014devs say they will comply if EA's lawyers come knocking"
-      ]
-    },
-    {
       "headline": "Blood Bowl 3 Is Being Shut Down and Replaced \u2014 Here's What Happens to Your Unspent Currency",
       "tag": "blood bowl 3",
       "posted_at": "2026-10-07T22:48:14.565058+00:00",
@@ -1181,19 +1170,35 @@
         "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film",
         "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'"
       ]
+    },
+    {
+      "headline": "GTA 5 Is Being Removed From PlayStation Plus Just Before GTA VI Launches",
+      "tag": "gta",
+      "posted_at": "2026-10-14T20:15:52.205966+00:00",
+      "urls": [
+        "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022"
+      ],
+      "article_titles": [
+        "GTA 5 Getting Yanked From PlayStation Plus Right Before GTA VI Launches"
+      ]
+    },
+    {
+      "headline": "Microsoft Is Surveying Players on Making Fallout, Elder Scrolls, and Minecraft Xbox Exclusives",
+      "tag": "xbox",
+      "posted_at": "2026-10-14T20:15:52.372351+00:00",
+      "urls": [
+        "https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x60g84/windows_central_microsoft_is_considering_making/"
+      ],
+      "article_titles": [
+        "Xbox Polling Players on Whether Fallout, Elder Scrolls, or Even Minecraft Should Go Exclusive",
+        "Windows Central: Microsoft is considering making Fallout, The Elder Scrolls, and even Minecraft Xbox console exclusive \u2014 surveys detailed"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "QAjURTGp5J47TAhkCAexrQ",
-      "title": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
-      "url": "https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T16:02:03+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237156722",
       "title": "Gareth Reynolds Talks Robots, Algorithms & Billionaires In New 800 Pound Gorilla Special \u2018Why Aren\u2019t You Bigger?\u2019",
@@ -1209,22 +1214,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-14T16:16:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156887",
-      "title": "Aaron Sorkin On \u2018The West Wing\u2019 Revival: \u201cIt Would Be Very, Very Tricky To Do In The Current Environment\u201d",
-      "url": "https://deadline.com/2026/10/aaron-sorkin-the-west-wing-revival-1237156887/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T16:15:11+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156640",
-      "title": "Russell Brand\u2019s Accusers: Prosecutors Claim \u2018Despicable Me\u2019 Star Preyed On Women In TV Industry During \u201cFrenzied\u201d & \u201cWild-Eyed\u201d Incidents",
-      "url": "https://deadline.com/2026/10/russell-brand-accusers-star-preyed-women-tv-industry-1237156640/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T16:03:58+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236910573",
@@ -1251,14 +1240,6 @@
       "published_dt": "2026-10-14T16:19:05+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236911189",
-      "title": "Mediawan\u2019s Pierre-Antoine Capton on Buying Reese Witherspoon\u2019s Hello Sunshine and Doubling Down on Hollywood Amid Consolidation (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/mediawan-pierre-antoine-capton-reese-witherspoons-hello-sunshine-1236911189/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T16:10:45+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236729612",
       "title": "Lindsay Arnold Cusick on Life After \u2018DWTS\u2019 and If She\u2019d Ever Return as a Pro Dancer: \u201cNever Say Never\u201d",
       "url": "https://www.hollywoodreporter.com/tv/tv-features/lindsay-arnold-dwts-pro-return-kachava-rylee-1236729612/",
@@ -1275,36 +1256,12 @@
       "published_dt": "2026-10-14T16:27:59+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236729859",
-      "title": "Higher Ground Links Up With Basketball Podcast \u2018The Young Man and the Three\u2019 (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/digital/higher-ground-basketball-podcast-young-man-and-the-three-1236729859/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T16:06:34+00:00"
-    },
-    {
       "guid": "https://www.gematsu.com/?p=1084293",
       "title": "Kotaro Uchikoshi establishes new studio CRASH KEYS",
       "url": "https://www.gematsu.com/2026/10/kotaro-uchikoshi-establishes-new-studio-crash-keys",
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-14T16:26:28+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1084286",
-      "title": "Xbox Nano Controller announced",
-      "url": "https://www.gematsu.com/2026/10/xbox-nano-controller-announced",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T16:12:03+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1084061",
-      "title": "Titanium Court coming to PS5, Switch 2, Switch, iOS, and Android on October 29",
-      "url": "https://www.gematsu.com/2026/10/titanium-court-coming-to-ps5-switch-2-switch-ios-and-android-on-october-29",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T16:04:40+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1760289",
@@ -1321,22 +1278,6 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-14T16:16:15+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760287",
-      "title": "Japan Seeks $11.6 Million to Promote Anime Worldwide, Eyes More Anime Concerts and Manga-Based Language Apps",
-      "url": "https://otakukart.com/japan-seeks-11-6-million-to-promote-anime-worldwide-eyes-more-anime-concerts-and-manga-based-language-apps/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T16:07:50+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/",
-      "title": "Paizo's 13 OMENS now live on Kickstarter",
-      "url": "https://www.enworld.org/threads/paizos-13-omens-now-live-on-kickstarter.720971/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T16:05:00+00:00"
     },
     {
       "guid": "c98cd85e-83d2-460d-a7c8-c2d13f577bae",
@@ -2329,6 +2270,46 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-14T19:52:27+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746022",
+      "title": "GTA 5 Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
+      "url": "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T20:00:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730183",
+      "title": "Harvey Keitel Threw \u2018Bad Lieutenant\u2019 in the Trash Before Giving One of His Greatest Performances",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/harvey-keitel-bad-lieutenant-abel-ferrara-1236730183/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T20:13:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730147",
+      "title": "\u2018Whalefall\u2019 Director Brian Duffield Talks Book Changes, Test Screening Challenges and How Those \u2018Alien\u2019 Rumors Started",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/whalefall-brian-duffield-test-screening-challenges-alien-1236730147/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T20:07:43+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207649",
+      "title": "Xbox Polling Players on Whether Fallout, Elder Scrolls, or Even Minecraft Should Go Exclusive",
+      "url": "https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T20:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760331",
+      "title": "The Vermilion Mask Episode 1 Review: Peru\u2019s Dark Fantasy Adventure Begins With a Bang",
+      "url": "https://otakukart.com/the-vermilion-mask-episode-1-review-perus-dark-fantasy-adventure-begins-with-a-bang/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T20:10:55+00:00"
     }
   ]
 }
