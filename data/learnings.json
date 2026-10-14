@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Sony Is Reportedly Reviving Ape Escape, With the Sonic Mania Devs at the Helm",
-      "tag": "ape escape",
-      "posted_at": "2026-10-07T18:30:56.452283+00:00",
-      "urls": [
-        "https://www.eurogamer.net/sony-classic-playstation-games-ape-escape-sonic-mania"
-      ],
-      "article_titles": [
-        "Sony is reportedly plotting to revive classic PlayStation games, starting with a new Ape Escape from the developers behind Sonic Mania"
-      ]
-    },
-    {
       "headline": "Fan-made mod ReSkate has effectively de-live-serviced the old Skate game \u2014 and devs say they'll yield to EA lawyers",
       "tag": "skate",
       "posted_at": "2026-10-07T19:31:24.622819+00:00",
@@ -1168,6 +1157,17 @@
         "GTA 6 Lead Reacts To The Infamous 2022 Leak: \u2018Like Somebody\u2019s Wading Through Your Dirty Washing\u2019",
         "First big GTA 6 leak was like having someone \"wading through your dirty washing,\" says Rockstar dev"
       ]
+    },
+    {
+      "headline": "A GTA 6 Leaker Is Threatening Take-Two with a 'Dead Man's Switch' of Unreleased Material",
+      "tag": "gta 6",
+      "posted_at": "2026-10-14T19:01:09.399981+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/"
+      ],
+      "article_titles": [
+        "GTA 6 leaker threatens Take-Two with a 'dead man's switch'"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1246,38 +1246,6 @@
       "published_dt": "2026-10-14T15:00:52+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236910976",
-      "title": "\u2018Yellowjackets\u2019 Season 4 Trailer: The Wilderness Survivors Return Home",
-      "url": "https://variety.com/2026/tv/news/yellowjackets-season-4-trailer-shauna-mista-van-1236910976/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909149",
-      "title": "Sex, Love and War: How the Racy Gay Epic \u2018La Bola Negra\u2019 Could Win Netflix\u2019s First Best Picture Oscar",
-      "url": "https://variety.com/2026/film/features/la-bola-negra-netflix-sexy-gay-oscar-contender-1236909149/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236911701",
-      "title": "Aziz Ansari Sets New Netflix Special and Says \u2018I Believe It\u2019s My Best One\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/aziz-ansari-new-netflix-special-1236911701/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236911877",
-      "title": "Netflix Film VP Doug Belgrad Is Out Amid Layoffs",
-      "url": "https://variety.com/2026/film/news/netflix-film-vp-doug-belgrad-layoff-1236911877/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T14:57:55+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236729808",
       "title": "Brooklyn Shop Changes Mind, Puts Bird Wanted by Kelly Clarkson on Sale for $15 Million",
       "url": "https://www.hollywoodreporter.com/news/general-news/bird-kelly-clarkson-sale-15-million-1236729808/",
@@ -1292,14 +1260,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-14T15:02:52+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236729332",
-      "title": "\u2018Yellowjackets\u2019: First Footage of Final Season Shows the Long-Awaited Homecoming",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/yellowjackets-final-season-4-first-look-rescue-1236729332/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-14T15:00:00+00:00"
     },
     {
       "guid": "Xxh7FXgs87t2Str4qetzoK",
@@ -1318,36 +1278,12 @@
       "published_dt": "2026-10-14T15:05:13+00:00"
     },
     {
-      "guid": "viicUKvxJXbMFGQVqfgCKW",
-      "title": "Rockstar wins without doing anything as GTA 6 leaker Cyberleek retreats after meme coin crashes",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-wins-without-doing-anything-as-cyberleek-retreats-after-meme-coin-crashes-gta-6-leaker-says-the-leeks-stop-here-as-if-the-games-not-out-in-a-month/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T15:00:39+00:00"
-    },
-    {
       "guid": "1918862",
       "title": "Ubisoft\u2019s Latest Restructuring Plan Puts Trials Developer RedLynx On The Chopping Block",
       "url": "https://www.gamespot.com/articles/ubisofts-latest-restructuring-plan-puts-trials-developer-redlynx-on-the-chopping-block/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-14T15:02:27+00:00"
-    },
-    {
-      "guid": "1918852",
-      "title": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack \u201cWeirdly Invasive\u201d",
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-invasive/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T14:57:53+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207631",
-      "title": "Round Up: The Previews Are In For Zelda: Ocarina Of Time On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-previews-are-in-for-zelda-ocarina-of-time-on-switch-2",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-14T15:00:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1124644",
@@ -2476,6 +2412,150 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-10-14T18:00:44+00:00"
+    },
+    {
+      "guid": "86f64b0f-43e9-40a9-ba27-ff187decd152",
+      "title": "Invincible VS Players Can't Get Enough of Atom Eve's 'Thicc' Casual Skin",
+      "url": "https://www.ign.com/articles/invincible-vs-players-cant-get-enough-of-atom-eves-thicc-casual-skin",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:42:08+00:00"
+    },
+    {
+      "guid": "07a1c266-d2e4-40ca-952f-4c7a27c5f813",
+      "title": "Cyberpunk: Edgerunners 2 Creators Talk New Child Lead and Gory Influences | IGN Fall Fan Fest 2026",
+      "url": "https://www.ign.com/articles/cyberpunk-edgerunners-2-creators-talk-new-child-lead-and-gory-influences-ign-fall-fan-fest-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:40:00+00:00"
+    },
+    {
+      "guid": "604bb4b0-c8bf-4686-bf58-d7ad96169e43",
+      "title": "The Skytech Ryzen X3D Edition Radeon RX 9070 XT Gaming PC With 32GB of RAM Drops to $1,999.99",
+      "url": "https://www.ign.com/articles/skytech-radeon-rx-9070-xt-gaming-pc-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:40:00+00:00"
+    },
+    {
+      "guid": "0c21f898-d121-4aca-9e5e-641c05b458ba",
+      "title": "Check Out New Shudder Horror The Cycle | IGN Fall Fan Fest 2026",
+      "url": "https://www.ign.com/articles/check-out-new-shudder-horror-the-cycle-ign-fall-fan-fest-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:30:00+00:00"
+    },
+    {
+      "guid": "45893a68-f2cb-458f-896f-59302d401a6c",
+      "title": "Save 20% Off the LEGO Star Wars Ultimate Collector Series AT-ST Walker With Exclusive Mini-Fig",
+      "url": "https://www.ign.com/articles/save-20-off-the-lego-star-wars-ultimate-collector-series-at-st-walker-with-exclusive-mini-fig",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:30:00+00:00"
+    },
+    {
+      "guid": "QV8AEEWGcEWa74EXShcYdH",
+      "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:36:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237157176",
+      "title": "\u2018Maximum Pleasure Guaranteed\u2019 Renewed For Season 2 By Apple TV",
+      "url": "https://deadline.com/2026/10/maximum-pleasure-guaranteed-renewed-season-2-apple-tv-1237157176/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237157305",
+      "title": "Aaron Paul Mourns \u2018Breaking Bad\u2019 Co-Star RJ Mitte: \u201cI Am So Sorry You Were Hurting, My Friend\u201d",
+      "url": "https://deadline.com/2026/10/aaron-paul-mourns-breaking-bad-rj-mitte-1237157305/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:52:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912202",
+      "title": "\u2018Maximum Pleasure Guaranteed\u2019 Renewed for Season 2 at Apple TV",
+      "url": "https://variety.com/2026/tv/news/maximum-pleasure-guaranteed-season-2-apple-tv-1236912202/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912235",
+      "title": "Bob Daly to Step Down as Chair of AFI Board of Directors (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/bob-daly-step-down-chair-of-afi-board-of-directors-1236912235/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:49:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910614",
+      "title": "Box Office: \u2018Street Fighter\u2019 Aims for $30 Million Opening, \u2018You Can See Everything\u2019 Could Score $8 Million Start",
+      "url": "https://variety.com/2026/film/box-office/street-fighter-box-office-opening-weekend-projections-1236910614/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:45:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912271",
+      "title": "Warner Records Names Jim Roppo Vice Chairman",
+      "url": "https://variety.com/2026/music/news/warner-records-jim-roppo-vice-chairman-1236912271/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T18:33:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729947",
+      "title": "\u2018Maximum Pleasure Guaranteed\u2019 Scores Season 2 Renewal at Apple TV",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/maximum-pleasure-guaranteed-renewed-season-2-apple-tv-1236729947/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-14T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124792",
+      "title": "New Gashapon Series Lets You Build a PC With Parts and a Case",
+      "url": "https://www.siliconera.com/new-gashapon-series-lets-you-build-a-pc-with-parts-and-a-case/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084352",
+      "title": "007 First Light for Switch 2 launches March 18, 2027",
+      "url": "https://www.gematsu.com/2026/10/007-first-light-for-switch-2-launches-march-18-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T18:38:48+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084196",
+      "title": "Acts of Blood launches December 4 for PC, in 2027 for PS5 and Xbox Series",
+      "url": "https://www.gematsu.com/2026/10/acts-of-blood-launches-december-4-for-pc-in-2027-for-ps5-and-xbox-series",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T18:34:49+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084356",
+      "title": "4 Penny Coffins launches October 27",
+      "url": "https://www.gematsu.com/2026/10/4-penny-coffins-launches-october-27",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T18:31:22+00:00"
+    },
+    {
+      "guid": "t3_1x5zhrv",
+      "title": "Insider Gaming: GTA 6 Reviews Will Be Released Before November 19th",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x5zhrv/insider_gaming_gta_6_reviews_will_be_released/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-14T18:45:13+00:00"
     }
   ]
 }
