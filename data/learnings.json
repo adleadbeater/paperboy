@@ -1175,134 +1175,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-      "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
-      "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:48:43+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000746339",
-      "title": "Sega\u2019s Total War: Shogun 2 Remake Is Such A Disaster It\u2019s Being Pulled From Sale",
-      "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:59:17+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000746333",
-      "title": "The Sex Scene Is One Of The Best Parts Of Grand Theft Auto 6\u2032s New Trailer",
-      "url": "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:53:58+00:00"
-    },
-    {
-      "guid": "xApgAh9kheZ4FmQRcBvGpN",
-      "title": "Razer Wolverine V4 Pro wireless gaming controller review",
-      "url": "https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:43:35+00:00"
-    },
-    {
-      "guid": "wUU2gN5Bo4w8XKNxjmBSJZ",
-      "title": "The Grand Theft Auto 6 launch trailer is here",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:43:12+00:00"
-    },
-    {
-      "guid": "JQ9x9a69R7prL5cQr7Y3ug",
-      "title": "Nvidia's RTX Spark makes for an impressive Arm-based gaming laptop but not one I'd recommend you buy just for PC gaming",
-      "url": "https://www.pcgamer.com/hardware/gaming-laptops/nvidias-rtx-spark-makes-for-an-impressive-arm-based-gaming-laptop-but-not-one-id-recommend-you-buy-just-for-pc-gaming/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:35:06+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237157045",
-      "title": "Fandango And Plex Team To Integrate Movie Ticket Sales Into Streaming",
-      "url": "https://deadline.com/2026/10/plex-fandango-movie-ticket-sales-streaming-1237157045/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237158018",
-      "title": "Rita Coburn & Jeffrey Wright To Bring Their Feature Doc \u2018W.E.B. Du Bois: Rebel With A Cause\u2019 To London",
-      "url": "https://deadline.com/2026/10/w-e-b-du-bois-rebel-with-a-cause-rita-coburn-jeffrey-wright-1237158018/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:55:38+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236912673",
-      "title": "\u2018POV Shorts\u2019 Moves From PBS to Time Studios\u2019 YouTube Channel (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/pov-shorts-time-studios-youtube-channel-pbs-season-9-1236912673/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236906431",
-      "title": "\u2018KPop Demon Hunters\u2019 Coming Soon to Toca Boca World Gaming App",
-      "url": "https://variety.com/2026/digital/news/kpop-demon-hunters-toca-boca-world-1236906431/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236912494",
-      "title": "\u2018La Bola Negra\u2019 Directors Los Javis and Star Guitarricadelafuente to Be Awarded at Miami Film Festival Gems",
-      "url": "https://variety.com/2026/film/news/los-javis-guitarricadelafuente-miami-film-festival-1236912494/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730784",
-      "title": "Iranian Drama \u2018Midday Meal\u2019 Wins Busan Film Festival\u2019s Top Prize, Qualifying for Oscar Consideration",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/midday-meal-iran-movie-busan-award-qualifies-oscars-1236730784/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T13:50:26+00:00"
-    },
-    {
-      "guid": "HMoEs6huUCqjDvzvKEwnh7",
-      "title": "Dune: Awakening team faces layoffs as Funcom boss says it can't sustain its \"size and structure\"",
-      "url": "https://www.gamesradar.com/games/survival/dune-awakening-team-faces-layoffs-as-funcom-boss-admits-we-cannot-sustain-the-size-and-structure-of-the-past/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T13:36:55+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124836",
-      "title": "Monster Hunter Wilds Switch 2 Demo Offers Local Multiplayer",
-      "url": "https://www.siliconera.com/monster-hunter-wilds-switch-2-demo-offers-local-multiplayer/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207693",
-      "title": "'The Current Experience Is Not Where It Needs to Be' - SEGA Is Pulling Total War: Shogun 2 Complete Edition from Stores",
-      "url": "https://www.timeextension.com/news/2026/10/the-current-experience-is-not-where-it-needs-to-be-sega-is-pulling-total-war-shogun-2-complete-edition-from-stores",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T13:40:00+00:00"
-    },
-    {
-      "guid": "TophoSbgnbN7PyobvZAURD",
-      "title": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree",
-      "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T14:00:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237158037",
       "title": "Donald Trump Says Execution Of Fort Hood Shooter Will Not Be Live Streamed",
       "url": "https://deadline.com/2026/10/trump-ford-hood-shoot-execution-live-stream-1237158037/",
@@ -1343,14 +1215,6 @@
       "published_dt": "2026-10-15T14:07:38+00:00"
     },
     {
-      "guid": "jjfssyBAQXwsE8PVFid8tU",
-      "title": "The Legend of Zelda: Ocarina of Time's Hyrule feels more alive than ever",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-times-hyrule-feels-more-alive-than-ever-thanks-to-clever-expansion-and-a-dose-of-breath-of-the-wild-vibes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T14:00:00+00:00"
-    },
-    {
       "guid": "1920533",
       "title": "9 Things We Noticed In The GTA 6 Launch Trailer",
       "url": "https://www.gamespot.com/articles/things-we-noticed-in-the-gta-6-launch-trailer/",
@@ -1365,14 +1229,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-15T14:15:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207674",
-      "title": "Viral Hit Supermarket Simulator Finally Opens Its Doors on PS5 This November",
-      "url": "https://www.pushsquare.com/news/2026/10/viral-hit-supermarket-simulator-finally-opens-its-doors-on-ps5-this-november",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T14:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1760383",
@@ -2469,6 +2325,158 @@
       "source_name": "Bell of Lost Souls",
       "source_tier": 2,
       "published_dt": "2026-10-15T17:00:00+00:00"
+    },
+    {
+      "guid": "c1d4909c-0bd6-4958-bbb5-ef6c2939ad6f",
+      "title": "K/DA Is Getting an Official Louis Vuitton Art Book Ahead of 'Start a Fire' Comeback",
+      "url": "https://www.ign.com/articles/riot-games-louis-vuitton-kda-travel-book-announcement",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:47:00+00:00"
+    },
+    {
+      "guid": "f44cd943-5b7a-4309-ac08-dd287434c6e5",
+      "title": "Amazon's Best Audible Deal for 2026 Is Back for Just a Few Days: Pay $0.99 Per Month Plus Get $20 Credit",
+      "url": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:45:00+00:00"
+    },
+    {
+      "guid": "485a4d17-db85-4773-9839-4cdeca5aac91",
+      "title": "Avatar: Seven Havens Episode 3 Hints at the Return of the 'My Cabbages!' Guy",
+      "url": "https://www.ign.com/articles/avatar-seven-havens-episode-3-hints-at-the-return-of-the-my-cabbages-guy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:35:40+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746378",
+      "title": "The  Ocarina Of Time Remake Doesn\u2019t Do Everyone\u2019s Favorite Bombchu-Bowling Baddie Justice",
+      "url": "https://kotaku.com/the-ocarina-of-time-remake-doesnt-do-everyones-favorite-bombchu-bowling-baddie-justice-2000746378",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:30:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237157751",
+      "title": "\u2018Seeker\u2019 Writer/Producer Michael Learner Inks With WME & Untitled",
+      "url": "https://deadline.com/2026/10/michael-learner-seeker-signs-wme-untitled-1237157751/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158240",
+      "title": "Tim Burton And \u2018Klara And The Sun\u2019 Author Kazuo Ishiguro Team On Secret Project\u2013The Dish",
+      "url": "https://deadline.com/2026/10/tim-burton-kazuo-ishiguro-script-the-dish-klara-and-the-sun-1237158240/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913258",
+      "title": "\u2018The Conners\u2019 Boss Bruce Helford Hired to Run \u2018Newlyweds\u2019 at NBC After Gail Lerner\u2019s Firing",
+      "url": "https://variety.com/?p=1236913258",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909431",
+      "title": "Tracy Morgan, Jane Krakowski, Daniel Radcliffe and More Join NBC Comedy Panels at New York Comedy Festival",
+      "url": "https://variety.com/?p=1236909431",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913172",
+      "title": "Warner Bros. Studios Leavesden Revenues Climb 11% to $390 Million Thanks to \u2018Harry Potter\u2019 Tour, Increased Production (EXCLUSIVE)",
+      "url": "https://variety.com/2026/biz/global/harry-potter-tour-leavesden-accounts-2025-1236913172/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:55:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733018",
+      "title": "NBC\u2019s \u2018Newlyweds\u2019 Names Bruce Helford as New Showrunner",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-newlyweds-bruce-helford-new-showrunner-1236733018/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236732958",
+      "title": "\u2018The Daily Show\u2019s\u2019 Jordan Klepper Tackles Midterm Elections in Next \u2018Fingers the Pulse\u2019 Special (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/jordan-klepper-midterm-elections-daily-show-special-1236732958/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236732977",
+      "title": "\u2018The Beekeeper 2\u2019 Trailer: Jason Statham Uses Machine Gun, Flamethrower to Battle Rogue Intelligence Organization",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/beekeeper-2-trailer-jason-statham-1236732977/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:46:24+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730164",
+      "title": "Annie Hamilton Signs With CAA (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/annie-hamilton-signs-caa-1236730164/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:45:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236732945",
+      "title": "Indie Distributor Bleecker Street Sold to Firm Backed By Billionaire Pierre Omidyar",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bleecker-street-sold-1236732945/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:42:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729036",
+      "title": "Creator Duo Slushy Noobz Signs With UTA (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/slushy-noobz-signs-with-uta-1236729036/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:31:15+00:00"
+    },
+    {
+      "guid": "xGST2QcPADbcAUrQptdhWa",
+      "title": "Zelda doesn't rate against GTA 6 and COD as the \"biggest games of the year,\" Activision exec says",
+      "url": "https://www.gamesradar.com/games/call-of-duty/zelda-ocarina-of-time-remake-doesnt-even-rate-against-gta-6-and-call-of-duty-modern-warfare-4-as-the-biggest-games-of-the-year-activision-exec-says/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T17:37:18+00:00"
+    },
+    {
+      "guid": "gVVvWZb36N5AT6HVzAVmz6",
+      "title": "The Ghost of Yotei DLC isn't great, but it's a good reminder of why the main game is",
+      "url": "https://www.gamesradar.com/games/open-world/the-ghost-of-yotei-dlc-isnt-great-but-its-a-good-reminder-of-why-the-main-game-is/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T17:30:12+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207709",
+      "title": "Star Wars Zero Company Adds Modifiers, Cuts Upgrade Costs, More in Massive Update",
+      "url": "https://www.pushsquare.com/news/2026/10/star-wars-zero-company-adds-modifiers-cuts-upgrade-costs-more-in-massive-update",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124874",
+      "title": "GTA VI Launch Trailer Appears Over a Month Before Its Release Date",
+      "url": "https://www.siliconera.com/gta-vi-launch-trailer-appears-over-a-month-before-its-release-date/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T18:00:00+00:00"
     }
   ]
 }
