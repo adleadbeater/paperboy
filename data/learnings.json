@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Beloved Indie Studio Is Making a Sequel 17 Years Later \u2014 Because the World Seems to Be Ending",
-      "tag": "",
-      "posted_at": "2026-10-08T18:31:13.217542+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/",
-        "https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/"
-      ],
-      "article_titles": [
-        "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'",
-        "A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'"
-      ]
-    },
-    {
-      "headline": "Rainbow Six Siege Mobile Is Shutting Down After Just 7 Months",
-      "tag": "rainbow six siege mobile",
-      "posted_at": "2026-10-08T20:00:55.857561+00:00",
-      "urls": [
-        "https://kotaku.com/rainbow-six-siege-mobile-already-has-a-shutdown-date-just-7-months-into-its-full-release-2000742717"
-      ],
-      "article_titles": [
-        "Rainbow Six Siege Mobile Already Has A Shutdown Date Just 7 Months Into Its Full Release"
-      ]
-    },
-    {
       "headline": "Lucasfilm Announces Ahsoka Prequel Comic 'Escape From Thrawn' at NYCC",
       "tag": "star wars: ahsoka",
       "posted_at": "2026-10-08T21:00:50.928207+00:00",
@@ -1125,227 +1101,48 @@
         "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales",
         "CONTROL Resonant sales top one million"
       ]
+    },
+    {
+      "headline": "WWE's Cody Rhodes May Have Just Accidentally Confirmed He's in the X-Men Reboot",
+      "tag": "x-men",
+      "posted_at": "2026-10-15T20:01:14.442892+00:00",
+      "urls": [
+        "https://kotaku.com/street-fighter-cody-rhodes-guile-x-men-mcu-reboot-cast-2000746434"
+      ],
+      "article_titles": [
+        "Did Street Fighter Actor And WWE Wrestler Cody Rhodes Accidentally Let Slip He\u2019s In The X-Men Reboot?"
+      ]
+    },
+    {
+      "headline": "The Mummy 4 Has an Official Title: The Mummy: The Book of the Dead",
+      "tag": "the mummy",
+      "posted_at": "2026-10-15T20:01:14.641037+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-mummy-4-now-officially-titled-the-mummy-book-of-the-dead",
+        "https://variety.com/2026/film/news/the-mummy-4-title-book-of-the-dead-brendan-fraser-rachel-weisz-1236913372/"
+      ],
+      "article_titles": [
+        "The Mummy 4 Now Officially Titled The Mummy: Book of the Dead",
+        "\u2018The Mummy 4\u2019 With Brendan Fraser and Rachel Weisz Officially Titled \u2018The Mummy: The Book of the Dead\u2019"
+      ]
+    },
+    {
+      "headline": "Modern Warfare 4 Testers Vote to Authorize a Strike as Union Contract Talks Break Down",
+      "tag": "modern warfare 4",
+      "posted_at": "2026-10-15T20:01:14.815101+00:00",
+      "urls": [
+        "https://kotaku.com/modern-warfare-4-testers-vote-to-authorize-union-strike-as-contract-negotiations-stall-it-is-time-to-stop-playing-games-2000746427",
+        "https://otakukart.com/nintendo-download-october-2026-modern-warfare-4-pre-orders-resident-evil-games-and-new-switch-releases/"
+      ],
+      "article_titles": [
+        "Modern Warfare 4 Testers Vote To Authorize Union Strike As Contract Negotiations Stall: \u2018It Is Time To Stop Playing Games\u2019",
+        "Nintendo Download October 2026: Modern Warfare 4 Pre-Orders, Resident Evil Games, and New Switch Releases"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000746376",
-      "title": "Hearing That Dude Say \u2018Grand Theft Auto\u2019 At The End Of The Latest GTA 6 Trailer Made Me Feel Like This",
-      "url": "https://kotaku.com/hearing-that-dude-say-grand-theft-auto-at-the-end-of-the-latest-gta-6-trailer-made-me-feel-like-this-2000746376",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:45:54+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000746320",
-      "title": "GTA 6 Avoids A Very Awkward Situation By Officially Being Eligible For The 2026 Game Awards",
-      "url": "https://kotaku.com/gta-6-avoids-a-very-awkward-situation-by-officially-being-eligible-for-the-2026-game-awards-2000746320",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:30:29+00:00"
-    },
-    {
-      "guid": "txpkLSpZevTQVpDn6NgUuh",
-      "title": "79% of you think Razer's new gaming mouse feature counts as cheating",
-      "url": "https://www.pcgamer.com/hardware/gaming-mice/79-percent-of-you-think-razers-new-gaming-mouse-feature-counts-as-cheating/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:42:42+00:00"
-    },
-    {
-      "guid": "2ZJwFLqyzMkSBLWiBAcSek",
-      "title": "It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty",
-      "url": "https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:34:33+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237157747",
-      "title": "Talent Manager Shakira Hedgpeth Joins ColorCreative",
-      "url": "https://deadline.com/2026/10/shakira-hedgpeth-joins-colorcreative-talent-manager-1237157747/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:45:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237158118",
-      "title": "UK\u2019s Bectu Union Unveils New Chief",
-      "url": "https://deadline.com/2026/10/bectu-union-noel-mcclean-head-philippa-childs-1237158118/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:30:35+00:00"
-    },
-    {
-      "guid": "ip8KoUXpAUeSAjLb7MfwFg",
-      "title": "This Zelda grip case is enough to make me forget the pain of not getting my hands on the new 40th Anniversary Switch 2",
-      "url": "https://www.gamesradar.com/hardware/accessories/this-legend-of-zelda-inspired-grip-case-is-enough-to-make-me-forget-the-pain-of-not-getting-my-hands-on-the-new-40th-anniversary-switch-2/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:43:17+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760408",
-      "title": "In a World Full of Zombies I\u2019m the Only One Who Doesn\u2019t Get Attacked Anime Reveals RetBear Opening Theme",
-      "url": "https://otakukart.com/in-a-world-full-of-zombies-im-the-only-one-who-doesnt-get-attacked-anime-reveals-retbear-opening-theme/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:41:10+00:00"
-    },
-    {
-      "guid": "34189bc2-bb3e-4a9c-bdb7-063f24c7c796",
-      "title": "SanDisk MicroSD Express Review: Super-Fast Storage for Your Switch 2",
-      "url": "https://www.ign.com/articles/sandisk-microsd-express-card-review",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:48:21+00:00"
-    },
-    {
-      "guid": "e54fa795-cc6e-46da-ab2c-462737af6892",
-      "title": "Diablo 5 Inches Closer to Launch as Cinematics Work Begins",
-      "url": "https://www.ign.com/articles/diablo-5-inches-closer-to-launch-as-cinematics-work-begins",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:43:23+00:00"
-    },
-    {
-      "guid": "UcA6USdpWrfxf6GJiSUZaj",
-      "title": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
-      "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:50:41+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237158135",
-      "title": "Xochitl Gomez, Madeleine McGraw & Jack Champion Cast In \u2018Bad Influence\u2019 YA Horror",
-      "url": "https://deadline.com/2026/10/xochitl-gomez-madeleine-mcgraw-jack-champion-bad-influence-1237158135/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237158170",
-      "title": "3 Arts Entertainment Hires Karen Bonck As Head Of Brand Partnerships",
-      "url": "https://deadline.com/2026/10/3-arts-entertainment-karen-bonck-1237158170/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:58:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236912939",
-      "title": "Odell Beckham Jr. Taps Range Sports for Off-Field Opportunities",
-      "url": "https://variety.com/?p=1236912939",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236912948",
-      "title": "\u2018Street Fighter\u2019 Review: Video Game Fighter Film Knocks Itself Unconscious",
-      "url": "https://variety.com/?p=1236912948",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236912562",
-      "title": "FilmQuest Details New Genre-Focused Film Market, \u2018March\u00e9 Du Cthulhu\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/?p=1236912562",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909596",
-      "title": "With \u2019Scrubs\u2019 and \u2019Ted Lasso,\u2019 Bill Lawrence Shows How Much TV Has Changed \u2014 and How Much It\u2019s Still the Same",
-      "url": "https://variety.com/2026/biz/news/trade-desk-bill-lawrence-shows-how-much-tv-has-changed-how-much-its-still-the-same-1236909596/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730035",
-      "title": "\u2018Street Fighter\u2019 Review: Noah Centineo Stars in a Video Game Adaptation That Pummels You With Fan Service and (Too Few) New Moves",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/street-fighter-review-noah-centineo-1236730035/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730833",
-      "title": "Why Did Pablo Torre Want to Investigate Kelly Clarkson\u2019s Birdgate? \u201cThis Had the Making of a Modern Morality Play\u201d",
-      "url": "https://www.hollywoodreporter.com/business/digital/pablo-torre-talks-kelly-clarkson-security-tape-1236730833/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:57:44+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730789",
-      "title": "Russell Brand Accuser Says Alleged Rape Left Her Feeling \u201cDirty\u201d and in Fear She Was Pregnant",
-      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-accuser-feared-pregnant-alleged-rape-1236730789/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:57:23+00:00"
-    },
-    {
-      "guid": "o7EkL3ESTEZwwmgaauCdqK",
-      "title": "Modern-day D&D horror adventure feels like Resident Evil mixed with Control, and it's perfect for Halloween",
-      "url": "https://www.gamesradar.com/tabletop-gaming/modern-day-d-and-d-horror-adventure-feels-like-resident-evil-mixed-with-control-and-its-perfect-for-halloween/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:52:35+00:00"
-    },
-    {
-      "guid": "CM9AG4CHdg2B2RFgsYpPpk",
-      "title": "Accused of using AI in World of Warcraft: Forever videos, Blizzard employee says \"hell nah\"",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:48:45+00:00"
-    },
-    {
-      "guid": "1920591",
-      "title": "GTA 6 Isn\u2019t Showing Boobie In Promotional Material",
-      "url": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:44:08+00:00"
-    },
-    {
-      "guid": "1920606",
-      "title": "A New Call Of Duty Sub-Series Is Coming, After Years Of Black Ops and Modern Warfare",
-      "url": "https://www.gamespot.com/articles/a-new-call-of-duty-sub-series-is-coming-after-years-of-black-ops-and-modern-warfare/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:31:36+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207695",
-      "title": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year",
-      "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124769",
-      "title": "Resident Evil Doesn\u2019t Need More Remakes",
-      "url": "https://www.siliconera.com/resident-evil-doesnt-need-more-remakes/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/",
-      "title": "Wizards of the Coast responds to D&D unionization effort, says they will respect results of union vote",
-      "url": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:47:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
       "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
@@ -1353,14 +1150,6 @@
       "source_name": "Eurogamer",
       "source_tier": 1,
       "published_dt": "2026-10-15T16:10:34+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000746296",
-      "title": "Kojima Explains What The Most Divisive Movie Of 2026 Has In Common With Metal Gear Solid 2",
-      "url": "https://kotaku.com/kojima-explains-what-the-most-divisive-movie-of-2026-has-in-common-with-metal-gear-solid-2-2000746296",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:13+00:00"
     },
     {
       "guid": "kgRA2JGKcxL8ncqn4XHRE7",
@@ -1385,14 +1174,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-15T16:15:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237157505",
-      "title": "\u2018Street Fighter\u2019 Review: Cheesy, Action-Packed Movie Reboot Has A Game Cast That Should Please Fans Looking To Relive The \u201990s",
-      "url": "https://deadline.com/2026/10/street-fighter-review-movie-reboot-video-game-1237157505/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236912589",
@@ -1443,60 +1224,12 @@
       "published_dt": "2026-10-15T16:04:13+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236912827",
-      "title": "Paramount+ Scottish Highland Drama \u2018Laird\u2019 Adds Ruaridh Mollica, Holliday Grainger, Peter Mullan, Corey Mylchreest and More (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/laird-paramount-scottish-highland-drama-comlpetes-cast-1236912827/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
       "guid": "ZLFAnSMNM7zBuVYsHiWZod",
       "title": "Shigaku codes (October 2026) and how to redeem them for free Rerolls and Cash",
       "url": "https://www.gamesradar.com/games/action/shigaku-codes/",
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-15T16:16:09+00:00"
-    },
-    {
-      "guid": "MGj64Mvg6CzisMgonpMeN6",
-      "title": "Street Fighter movie review: \"This reboot is far from a perfect knockout\"",
-      "url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-movie-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "1920334",
-      "title": "How WoW: Forever Is \u201cPushing The Envelope,\u201d And What Comes After Launch",
-      "url": "https://www.gamespot.com/?post_type=articles&p=1920334",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T16:00:00+00:00"
-    },
-    {
-      "guid": "1920635",
-      "title": "Sega Pulls Total War: Shogun 2 Remaster After Backlash Over AI-Upscaled Graphics",
-      "url": "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:59:11+00:00"
-    },
-    {
-      "guid": "1920610",
-      "title": "007 First Light On Switch 2 Includes Something No Other Platform Gets, And It\u2019s Ridiculous",
-      "url": "https://www.gamespot.com/articles/007-first-light-on-switch-2-includes-something-no-other-platform-gets-and-its-ridiculous/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:57:42+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207618",
-      "title": "Movie Review: Street Fighter - Gaudy Testosterone-Fuelled Action Film Is Fun But Not a Knockout",
-      "url": "https://www.pushsquare.com/features/movie-review-street-fighter-gaudy-testosterone-fuelled-action-film-is-fun-but-not-a-knockout",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T16:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1084675",
@@ -2281,6 +2014,150 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-15T19:00:00+00:00"
+    },
+    {
+      "guid": "76fd2aa0-b1be-4f10-8229-3ec369eb3a59",
+      "title": "The Mummy 4 Now Officially Titled The Mummy: Book of the Dead",
+      "url": "https://www.ign.com/articles/the-mummy-4-now-officially-titled-the-mummy-book-of-the-dead",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:46:23+00:00"
+    },
+    {
+      "guid": "c7a5c4ae-aca0-42ce-a6d6-19ed4c3ebb85",
+      "title": "Sacrifice Review",
+      "url": "https://www.ign.com/articles/sacrifice-movie-2026-review-netflix",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:45:25+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746434",
+      "title": "Did Street Fighter Actor And WWE Wrestler Cody Rhodes Accidentally Let Slip He\u2019s In The X-Men Reboot?",
+      "url": "https://kotaku.com/street-fighter-cody-rhodes-guile-x-men-mcu-reboot-cast-2000746434",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:50:14+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746427",
+      "title": "Modern Warfare 4 Testers Vote To Authorize Union Strike As Contract Negotiations Stall: \u2018It Is Time To Stop Playing Games\u2019",
+      "url": "https://kotaku.com/modern-warfare-4-testers-vote-to-authorize-union-strike-as-contract-negotiations-stall-it-is-time-to-stop-playing-games-2000746427",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:30:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158436",
+      "title": "\u2018Eternally Yours\u2019 Creators Joe Port & Joe Wiseman On Resurrecting Their Vampire Comedy Series For CBS",
+      "url": "https://deadline.com/2026/10/eternally-yours-premiere-creators-tease-cbs-vampire-comedy-1237158436/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:34:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913141",
+      "title": "With \u2018Obsession,\u2019 Is the Golden Globes\u2019 Comedy Race the New Home for Category Fraud?",
+      "url": "https://variety.com/2026/film/awards/obsession-golden-globes-comedy-category-fraud-1236913141/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913395",
+      "title": "Fandango Orders \u2018Bad Girls Club: Unfinished Business\u2019 as the Versant-Owned Streamer Gets Into Original Programming",
+      "url": "https://variety.com/2026/tv/news/fandango-bad-girls-club-unfinished-business-first-original-1236913395/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T20:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913372",
+      "title": "\u2018The Mummy 4\u2019 With Brendan Fraser and Rachel Weisz Officially Titled \u2018The Mummy: The Book of the Dead\u2019",
+      "url": "https://variety.com/2026/film/news/the-mummy-4-title-book-of-the-dead-brendan-fraser-rachel-weisz-1236913372/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:45:19+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913350",
+      "title": "Verve Signs 10-Year Lease for Hollywood Headquarters (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/verve-signs-lease-hollywood-headquarters-exclusive-1236913350/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733142",
+      "title": "Bullying Book \u2018The One We Left Behind\u2019 Optioned by \u2018Henry Danger\u2019 Director Mike Caron (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-one-we-left-behind-movie-1236733142/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:58:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733141",
+      "title": "\u2018The Mummy\u2019: Brendan Fraser Sequel Gets New Title Ahead of 2027 Release",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-mummy-brendan-fraser-sequel-new-title-2027-release-1236733141/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:30:31+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207716",
+      "title": "'Call of Duty Tax' Blamed for Softer CoD Reception by Marketing Lead",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T19:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207561",
+      "title": "Hit Co-Op Game Peak Officially Confirmed for PS5, and It's Coming Very Soon",
+      "url": "https://www.pushsquare.com/news/2026/10/hit-co-op-game-peak-officially-confirmed-for-ps5-and-its-coming-very-soon",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T19:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124884",
+      "title": "Christmas 2026 Hatsune Miku Figure and Plush Debut in November",
+      "url": "https://www.siliconera.com/christmas-2026-hatsune-miku-figure-and-plush-debut-in-november/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T20:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084649",
+      "title": "Guns of Eschaton launches December 8",
+      "url": "https://www.gematsu.com/2026/10/guns-of-eschaton-launches-december-8",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T19:52:03+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1083815",
+      "title": "MR. RECORDS reveals Level Editor",
+      "url": "https://www.gematsu.com/2026/10/mr-records-reveals-level-editor",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T19:50:13+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084667",
+      "title": "ZERO PARADES: Director\u2019s Cut coming to Switch 2 on November 3 alongside PS5 version",
+      "url": "https://www.gematsu.com/2026/10/zero-parades-directors-cut-coming-to-switch-2-on-november-3-alongside-ps5-version",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T19:46:45+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084734",
+      "title": "Ancestors: The Humankind Odyssey coming to PS5, Xbox Series, and Switch 2 on December 8",
+      "url": "https://www.gematsu.com/2026/10/ancestors-the-humankind-odyssey-coming-to-ps5-xbox-series-and-switch-2-on-december-8",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T19:40:19+00:00"
     }
   ]
 }
