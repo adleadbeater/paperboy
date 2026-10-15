@@ -1131,52 +1131,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000746332",
-      "title": "Link Can Blow Up Boulders With Water In Newly Discovered Ocarina Of Time Glitch",
-      "url": "https://kotaku.com/link-can-blow-up-boulders-with-water-in-newly-discovered-ocarina-of-time-glitch-2000746332",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:05+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237158064",
       "title": "Comcast Gave $7.5 Million To Help Fund Donald Trump\u2019s White House Ballroom, New Report Reveals",
       "url": "https://deadline.com/2026/10/comcast-trump-white-house-ballroom-donor-1237158064/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-15T15:04:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237155358",
-      "title": "Hudson Williams, Zach Galifianakis & Jay Baruchel Set For \u2018The Assembly\u2019 Season 2 At Canada\u2019s CBC",
-      "url": "https://deadline.com/2026/10/the-assembly-canada-season-2-hudson-williams-cast-1237155358/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237157660",
-      "title": "Al Pacino To Receive SAG-AFTRA Life Achievement Award",
-      "url": "https://deadline.com/2026/10/al-pacino-sag-aftra-life-achievement-award-1237157660/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156844",
-      "title": "\u2018The Baby-Sitters Club\u2019 Stage Musical Sets Los Angeles World Premiere Opening Date, Venue",
-      "url": "https://deadline.com/2026/10/the-baby-sitters-club-stage-musical-los-angeles-1237156844/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237157647",
-      "title": "\u2018Frisco King\u2019: Samuel L. Jackson Plays \u201cOutside The Law\u201d In Teaser For Taylor Sheridan\u2019s \u2018Tulsa King\u2019 Spinoff As Paramount+ Sets Winter Release",
-      "url": "https://deadline.com/2026/10/frisco-king-trailer-release-date-taylor-sheridan-paramount-1237157647/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236911138",
@@ -1211,46 +1171,6 @@
       "published_dt": "2026-10-15T15:01:17+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236910862",
-      "title": "How Do You Get \u2018Friday the 13th\u2019 Fans to Care About Jason\u2019s Mom? \u2018Crystal Lake\u2019 Team on Their Ambitious Attempt and Decision to Leave Out the Hockey Mask",
-      "url": "https://variety.com/2026/tv/features/crystal-lake-friday-the-13th-jason-mom-prequel-1236910862/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909226",
-      "title": "\u2018Wildwood\u2019s\u2019 Murder of the Crows Sequence Took Laika\u2019s Artisans Over Five Years to Complete (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/wildwood-murder-of-the-crows-sequence-took-laikas-artisans-over-five-years-to-complete-exclusive-1236909226/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236909810",
-      "title": "See-Saw Films Heads on Mediawan Sale, Why \u2018Tenzing\u2019 Was Their \u2018Most Challenging\u2019 Movie Yet and the \u2018World Building\u2019 Potential of \u2018Slow Horses\u2019 and \u2018The NeverEnding Story\u2019",
-      "url": "https://variety.com/2026/film/global/see-saw-mediawan-tenzing-slow-horses-neverending-story-1236909810/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236912626",
-      "title": "Al Pacino to Be Honored With SAG-AFTRA Life Achievement Award",
-      "url": "https://variety.com/2026/film/news/al-pacino-sag-aftra-life-achievement-award-1236912626/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236912003",
-      "title": "\u2018Schitt\u2019s Creek\u2019 Star Sarah Levy\u2019s \u2018Run\u2019 Boarded by Mise En Scene Company for Sales, First Look Unveiled (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/schitts-creek-star-sarah-levy-run-sales-msc-1236912003/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236730347",
       "title": "Gender-Balanced Hiring On TV Shows \u201cBacksliding,\u201d New Report Finds (Exclusive)",
       "url": "https://www.hollywoodreporter.com/tv/tv-news/gender-representation-backsliding-television-report-1236730347/",
@@ -1265,38 +1185,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-15T15:07:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730425",
-      "title": "Al Pacino Tapped for SAG-AFTRA Life Achievement Award",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/al-pacino-sag-aftra-life-achievement-award-1236730425/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730758",
-      "title": "New York Poised to Overtake California as Top State for Movie and TV Production",
-      "url": "https://www.hollywoodreporter.com/business/business-news/new-york-california-hollyood-production-1236730758/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730377",
-      "title": "Samuel L. Jackson\u2019s \u2018Tulsa King\u2019 Spinoff \u2018Frisco King\u2019 Sets Premiere Date in First Teaser Trailer",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/frisco-king-trailer-samuel-l-jackson-1236730377/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730980",
-      "title": "Maddie Ziegler Finds Herself Stuck in a Christmas Time Loop in Trailer for Netflix\u2019s \u2018In A Holidaze\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/maddie-ziegler-in-a-holidaze-netflix-trailer-1236730980/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-15T14:56:46+00:00"
     },
     {
       "guid": "P2vbeiGWbdVaNVoQux8YAH",
@@ -1323,14 +1211,6 @@
       "published_dt": "2026-10-15T15:14:10+00:00"
     },
     {
-      "guid": "pL3vAKDZpS3ZxZR2H8cG4c",
-      "title": "Apple launches its Pok\u00e9mon Special Edition Beats Pill speaker, and Pikachu's already worried about your playlists",
-      "url": "https://www.gamesradar.com/hardware/apple-launches-its-pokemon-special-edition-beats-pill-speaker-and-pikachus-already-worried-about-your-playlists/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
       "guid": "1920592",
       "title": "GTA 5 Will Be Removed From PS Plus Just Before GTA 6 Releases, It Seems",
       "url": "https://www.gamespot.com/articles/gta-5-will-be-removed-from-ps-plus-just-before-gta-6-releases-it-seems/",
@@ -1345,22 +1225,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-15T15:05:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207703",
-      "title": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-kingdom-hearts-collection-grabs-the-top-spot-despite-a-slow-start",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207692",
-      "title": "GTA 6's Original Music Score Is Composed by Excellent French Electronic Duo Justice",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6s-original-music-score-is-composed-by-excellent-french-electronic-duo-justice",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-15T15:00:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1124853",
@@ -2441,6 +2305,78 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-10-15T18:00:19+00:00"
+    },
+    {
+      "guid": "d54008ec-49a7-412f-8a7c-33479a00a943",
+      "title": "Get a Perlegear Full Motion TV Wall Mount for Up to 90\" TVs With 135lb Capacity for Just $33",
+      "url": "https://www.ign.com/articles/perlegear-full-motion-tv-wall-mount-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:55:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158434",
+      "title": "Tatiana Maslany, Tony Shalhoub & John Turturro Set For \u2018Rhinoceros\u2019 Broadway Revival This Spring",
+      "url": "https://deadline.com/2026/10/rhinoceros-broadway-tatiana-maslany-tony-shalhoub-john-turturro-1237158434/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158489",
+      "title": "Strand Releasing Takes North American For Hana\u00ebl El Yousfi\u2019s TIFF-Selected \u2018The Daughters Of Abraham\u2019",
+      "url": "https://deadline.com/2026/10/strand-releasing-north-american-daughters-abraham-1237158489/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:42:52+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237157829",
+      "title": "Brad Caleb Kane On Making \u2018Crystal Lake\u2019 A \u201cSmall Town Show\u201d In Same N.J. Locations Where \u2018Friday the 13th\u2019 Filmed, \u201cFaithfully\u201d Recreating An Iconic Scene & \u201cTwin Peaks-y\u201d Ideas For Season 2",
+      "url": "https://deadline.com/2026/10/brad-caleb-kane-crystal-lake-same-nj-locations-friday-the-13th-season-2-1237157829/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:40:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236732988",
+      "title": "Disney Inks Major Creator Deal With Dude Perfect (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/disney-inks-major-creator-deal-dude-perfect-1236732988/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T19:00:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733094",
+      "title": "\u2018I Love Lucy\u2019 Treasures Acquired by the National Comedy Center",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/i-love-lucy-treasures-national-comedy-center-1236733094/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T18:42:35+00:00"
+    },
+    {
+      "guid": "Ji6XsLsU9aFZf8r7dNmtLe",
+      "title": "The next Call of Duty will be another brand new sub-franchise like Vanguard, Activision confirms",
+      "url": "https://www.gamesradar.com/games/call-of-duty/the-next-call-of-duty-will-be-another-brand-new-sub-franchise-like-vanguard-5-years-ago-activision-confirms/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T18:44:37+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207632",
+      "title": "Cyberpunk 2's Director Is a Big Reason to Be Hyped for the Secretive 2077 Sequel",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2s-director-is-a-big-reason-to-be-hyped-for-the-secretive-2077-sequel",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T18:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124877",
+      "title": "Vtuber Ironmouse Joins Hatsune Miku: Colorful Stage for Halloween",
+      "url": "https://www.siliconera.com/vtuber-ironmouse-joins-hatsune-miku-colorful-stage-for-halloween/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T19:00:00+00:00"
     }
   ]
 }
