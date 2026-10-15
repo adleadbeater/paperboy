@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Silent Hill: Townfall Patch 1.4.0 Significantly Nerfs Its Most Punishing Enemy",
-      "tag": "silent hill: townfall",
-      "posted_at": "2026-10-08T16:01:05.486541+00:00",
-      "urls": [
-        "https://www.siliconera.com/silent-hill-townfall-patch-1-4-0-nerfs-the-weight/",
-        "https://www.pushsquare.com/news/2026/10/nerfs-to-silent-hill-townfalls-worst-enemy-are-substantial-hard-puzzle-also-tweaked"
-      ],
-      "article_titles": [
-        "Silent Hill: Townfall Patch 1.4.0 Nerfs The Weight",
-        "Nerfs to Silent Hill: Townfall's Worst Enemy Are Substantial, Hard Puzzle Also Tweaked"
-      ]
-    },
-    {
       "headline": "Xbox Is Getting Into the Movie Business While Laying Off Developers and Closing Studios",
       "tag": "xbox",
       "posted_at": "2026-10-08T16:31:59.198639+00:00",
@@ -1188,6 +1175,30 @@
       "article_titles": [
         "WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures"
       ]
+    },
+    {
+      "headline": "Sega's Total War: Shogun 2 Remaster Is So Bad They're Pulling It From Sale and Restoring the Original",
+      "tag": "total war: shogun 2",
+      "posted_at": "2026-10-15T16:01:32.924152+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
+        "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339"
+      ],
+      "article_titles": [
+        "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
+        "Sega\u2019s Total War: Shogun 2 Remake Is Such A Disaster It\u2019s Being Pulled From Sale"
+      ]
+    },
+    {
+      "headline": "Diablo 5 Is Officially in Production as Blizzard Begins Cinematics Work",
+      "tag": "diablo 5",
+      "posted_at": "2026-10-15T16:01:33.084275+00:00",
+      "urls": [
+        "https://www.ign.com/articles/diablo-5-inches-closer-to-launch-as-cinematics-work-begins"
+      ],
+      "article_titles": [
+        "Diablo 5 Inches Closer to Launch as Cinematics Work Begins"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1800,6 +1811,166 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-15T15:41:10+00:00"
+    },
+    {
+      "guid": "34189bc2-bb3e-4a9c-bdb7-063f24c7c796",
+      "title": "SanDisk MicroSD Express Review: Super-Fast Storage for Your Switch 2",
+      "url": "https://www.ign.com/articles/sandisk-microsd-express-card-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T15:48:21+00:00"
+    },
+    {
+      "guid": "e54fa795-cc6e-46da-ab2c-462737af6892",
+      "title": "Diablo 5 Inches Closer to Launch as Cinematics Work Begins",
+      "url": "https://www.ign.com/articles/diablo-5-inches-closer-to-launch-as-cinematics-work-begins",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T15:43:23+00:00"
+    },
+    {
+      "guid": "d607974a-e96f-4521-bdf6-d84bc6fb77a1",
+      "title": "\u2018I Can Really Nitpick Things\u2019 \u2013 Firearms Expert Jonathan Ferguson Explains the Most Common Gun Mistakes in Games",
+      "url": "https://www.ign.com/articles/firearms-expert-jonathan-ferguson-explains-the-most-common-gun-mistakes-in-games",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T15:30:00+00:00"
+    },
+    {
+      "guid": "UcA6USdpWrfxf6GJiSUZaj",
+      "title": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
+      "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T15:50:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158135",
+      "title": "Xochitl Gomez, Madeleine McGraw & Jack Champion Cast In \u2018Bad Influence\u2019 YA Horror",
+      "url": "https://deadline.com/2026/10/xochitl-gomez-madeleine-mcgraw-jack-champion-bad-influence-1237158135/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158170",
+      "title": "3 Arts Entertainment Hires Karen Bonck As Head Of Brand Partnerships",
+      "url": "https://deadline.com/2026/10/3-arts-entertainment-karen-bonck-1237158170/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T15:58:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912939",
+      "title": "Odell Beckham Jr. Taps Range Sports for Off-Field Opportunities",
+      "url": "https://variety.com/?p=1236912939",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912948",
+      "title": "\u2018Street Fighter\u2019 Review: Video Game Fighter Film Knocks Itself Unconscious",
+      "url": "https://variety.com/?p=1236912948",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236912562",
+      "title": "FilmQuest Details New Genre-Focused Film Market, \u2018March\u00e9 Du Cthulhu\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/?p=1236912562",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236909596",
+      "title": "With \u2019Scrubs\u2019 and \u2019Ted Lasso,\u2019 Bill Lawrence Shows How Much TV Has Changed \u2014 and How Much It\u2019s Still the Same",
+      "url": "https://variety.com/2026/biz/news/trade-desk-bill-lawrence-shows-how-much-tv-has-changed-how-much-its-still-the-same-1236909596/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730035",
+      "title": "\u2018Street Fighter\u2019 Review: Noah Centineo Stars in a Video Game Adaptation That Pummels You With Fan Service and (Too Few) New Moves",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/street-fighter-review-noah-centineo-1236730035/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730833",
+      "title": "Why Did Pablo Torre Want to Investigate Kelly Clarkson\u2019s Birdgate? \u201cThis Had the Making of a Modern Morality Play\u201d",
+      "url": "https://www.hollywoodreporter.com/business/digital/pablo-torre-talks-kelly-clarkson-security-tape-1236730833/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T15:57:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730789",
+      "title": "Russell Brand Accuser Says Alleged Rape Left Her Feeling \u201cDirty\u201d and in Fear She Was Pregnant",
+      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-accuser-feared-pregnant-alleged-rape-1236730789/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T15:57:23+00:00"
+    },
+    {
+      "guid": "o7EkL3ESTEZwwmgaauCdqK",
+      "title": "Modern-day D&D horror adventure feels like Resident Evil mixed with Control, and it's perfect for Halloween",
+      "url": "https://www.gamesradar.com/tabletop-gaming/modern-day-d-and-d-horror-adventure-feels-like-resident-evil-mixed-with-control-and-its-perfect-for-halloween/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T15:52:35+00:00"
+    },
+    {
+      "guid": "CM9AG4CHdg2B2RFgsYpPpk",
+      "title": "Accused of using AI in World of Warcraft: Forever videos, Blizzard employee says \"hell nah\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T15:48:45+00:00"
+    },
+    {
+      "guid": "1920591",
+      "title": "GTA 6 Isn\u2019t Showing Boobie In Promotional Material",
+      "url": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T15:44:08+00:00"
+    },
+    {
+      "guid": "1920606",
+      "title": "A New Call Of Duty Sub-Series Is Coming, After Years Of Black Ops and Modern Warfare",
+      "url": "https://www.gamespot.com/articles/a-new-call-of-duty-sub-series-is-coming-after-years-of-black-ops-and-modern-warfare/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T15:31:36+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207695",
+      "title": "\"No Offense To Zelda\" - Activision Exec Says Call Of Duty: MW4 And GTA 6 Are The Two Biggest Games Of The Year",
+      "url": "https://www.nintendolife.com/news/2026/10/no-offense-to-zelda-activision-exec-says-call-of-duty-mw4-and-gta-6-are-the-two-biggest-games-of-the-year",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124769",
+      "title": "Resident Evil Doesn\u2019t Need More Remakes",
+      "url": "https://www.siliconera.com/resident-evil-doesnt-need-more-remakes/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/",
+      "title": "Wizards of the Coast responds to D&D unionization effort, says they will respect results of union vote",
+      "url": "https://www.enworld.org/threads/wizards-of-the-coast-responds-to-d-d-unionization-effort-says-they-will-respect-results-of-union-vote.720980/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T15:47:00+00:00"
     }
   ]
 }
