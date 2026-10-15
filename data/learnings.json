@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox Is Getting Into the Movie Business While Laying Off Developers and Closing Studios",
-      "tag": "xbox",
-      "posted_at": "2026-10-08T16:31:59.198639+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/"
-      ],
-      "article_titles": [
-        "As it lays off developers and closes studios, Xbox gets into the movie business"
-      ]
-    },
-    {
-      "headline": "Switch 2 Game-Key Card Spending Is Up 631% in the U.S. as Physical Game Sales Rebound",
-      "tag": "nintendo switch 2",
-      "posted_at": "2026-10-08T16:31:59.443323+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
-        "https://kotaku.com/spending-on-physical-games-in-the-u-s-was-up-in-august-thanks-to-game-key-cards-2000742604"
-      ],
-      "article_titles": [
-        "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
-        "Spending On Physical Games In The U.S. Is\u2026Up? Thanks To Game-Key Cards?"
-      ]
-    },
-    {
       "headline": "Dave the Diver is Getting a Subnautica 2 Crossover DLC Pack",
       "tag": "dave the diver",
       "posted_at": "2026-10-08T17:01:40.956715+00:00",
@@ -1199,6 +1175,39 @@
       "article_titles": [
         "Diablo 5 Inches Closer to Launch as Cinematics Work Begins"
       ]
+    },
+    {
+      "headline": "GTA 6's launch trailer hides 33 new details \u2014 here's what IGN spotted",
+      "tag": "gta 6",
+      "posted_at": "2026-10-15T17:01:20.081088+00:00",
+      "urls": [
+        "https://www.ign.com/articles/33-new-details-from-the-gta-6-launch-trailer"
+      ],
+      "article_titles": [
+        "33 New Details From the GTA 6 Launch Trailer"
+      ]
+    },
+    {
+      "headline": "AI \"vibe-coding\" is hitting the games industry hard, and Kotaku has the story",
+      "tag": "\u2014",
+      "posted_at": "2026-10-15T17:01:20.286270+00:00",
+      "urls": [
+        "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366"
+      ],
+      "article_titles": [
+        "AI Vibe-Coding Just Hit The Video Game Industry Like An Avalanche"
+      ]
+    },
+    {
+      "headline": "Overwatch creator Jeff Kaplan says he hasn't touched the game since leaving Blizzard in 2021",
+      "tag": "overwatch",
+      "posted_at": "2026-10-15T17:01:20.452071+00:00",
+      "urls": [
+        "https://kotaku.com/jeff-kaplan-blizzard-overwatch-california-aaron-keller-2000746382"
+      ],
+      "article_titles": [
+        "Jeff Kaplan Doesn\u2019t Engage With Overwatch After Leaving Blizzard: \u2018I\u2019ve Literally Not Played The Game Since April 2021\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -2155,6 +2164,190 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-15T16:02:12+00:00"
+    },
+    {
+      "guid": "23bd3f6d-3f18-4018-bbfc-df51d9cab207",
+      "title": "New Marvel's Wolverine Funko Pops Drop Next April \u2013 Here\u2019s Where You Can Preorder Them",
+      "url": "https://www.ign.com/articles/new-marvels-wolverine-ps5-funko-pops-where-to-buy",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:56:46+00:00"
+    },
+    {
+      "guid": "4fe8bb80-3a31-499a-8ed2-51f901b9398d",
+      "title": "33 New Details From the GTA 6 Launch Trailer",
+      "url": "https://www.ign.com/articles/33-new-details-from-the-gta-6-launch-trailer",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:35:45+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746366",
+      "title": "AI Vibe-Coding Just Hit The Video Game Industry Like An Avalanche",
+      "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:30:35+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746382",
+      "title": "Jeff Kaplan Doesn\u2019t Engage With Overwatch After Leaving Blizzard: \u2018I\u2019ve Literally Not Played The Game Since April 2021\u2019",
+      "url": "https://kotaku.com/jeff-kaplan-blizzard-overwatch-california-aaron-keller-2000746382",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:30:35+00:00"
+    },
+    {
+      "guid": "9MaWpJD3hriWrogu63uRoh",
+      "title": "Come on Razer what are you doing? This Pokemon-themed mouse is most definitely not the one",
+      "url": "https://www.pcgamer.com/hardware/gaming-mice/come-on-razer-what-are-you-doing-this-pokemon-themed-mouse-is-most-definitely-not-the-one/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:30:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237157559",
+      "title": "Scott Bakula To Make LA Opera Debut This Fall In \u2018Candide\u2019 Opposite Patti LuPone",
+      "url": "https://deadline.com/2026/10/scott-bakula-la-opera-candide-1237157559/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158046",
+      "title": "Chuck Lorre Q&A On The Care & Feeding Of Sitcom Stars & Why A WGA Strike Doomed Democracy",
+      "url": "https://deadline.com/2026/10/chuck-lorre-memoir-interview-sitcom-1237158046/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158222",
+      "title": "Bleecker Street Bought By Outerlight Entertainment",
+      "url": "https://deadline.com/2026/10/bleecker-street-outerlight-entertainment-1237158222/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:30:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237157757",
+      "title": "Talia Ryder, Elizabeth Marvel & Bill Camp Join STX & Aggregate\u2019s True-Crime Thriller \u2018PR\u018ePPY\u2019",
+      "url": "https://deadline.com/2026/10/talia-ryder-elizabeth-marvel-bill-camp-join-preppy-thriller-1237157757/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913151",
+      "title": "CNN and Google Strike Multiyear Partnership to Embrace Generative AI",
+      "url": "https://variety.com/2026/biz/news/cnn-google-multiyear-partnership-embrace-generative-ai-1236913151/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:37:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913155",
+      "title": "\u2018The Gilded Age\u2019 to Take Over Historic Beverly Hills Mansion With Elaborate Floral Exhibition: Buy Tickets Online",
+      "url": "https://variety.com/2026/shopping/news/the-gilded-age-floral-exhibition-beverly-hills-buy-tickets-1236913155/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:36:25+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730371",
+      "title": "NBA Star Kyle Kuzma\u2019s New Off Court Media Project Is a Business Podcast (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/nba-star-kyle-kuzma-new-business-podcast-read-the-room-1236730371/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:00:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236732888",
+      "title": "Hulu Picks Up Drama \u2018Durango\u2019 Starring Kathryn Newton, Cooper Hoffman",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/durango-cooper-hoffman-kathryn-newton-hulu-1236732888/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236729899",
+      "title": "Ryan Beatty On  Capturing Joy With \u2018Sweet Fortune,\u2019 Arms Over Armor Tour",
+      "url": "https://www.hollywoodreporter.com/music/music-features/ryan-beatty-interview-sweet-fortune-tour-1236729899/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:51:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236732929",
+      "title": "American Film Market Plans New Global Screen Economy Summit For This Year",
+      "url": "https://www.hollywoodreporter.com/business/business-news/afm-2026-screen-economy-summit-1236732929/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236731855",
+      "title": "Bernie Orenstein, Writer-Producer on \u2018That Girl,\u2019 \u2018Sanford and Son\u2019 and \u2018What\u2019s Happening!!,\u2019 Dies at 95",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bernie-orenstein-dead-that-girl-sanford-son-whats-happening-1236731855/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-15T16:37:14+00:00"
+    },
+    {
+      "guid": "7t3rWb7kkxdqwvBECq9QyF",
+      "title": "Konami takes emergency action as Yu-Gi-Oh hits a rare low \u2013 ban list sees \"34 newly Forbidden cards\"",
+      "url": "https://www.gamesradar.com/tabletop-gaming/konami-takes-emergency-action-as-yu-gi-oh-hits-a-rare-low-new-ban-list-sees-34-newly-forbidden-cards-and-8-limited-cards/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T16:51:10+00:00"
+    },
+    {
+      "guid": "BUANWoDtmuSXENKXTwaQrf",
+      "title": "Diablo 5 has officially started filming cinematics for Blizzard's upcoming action-RPG",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-5-has-officially-started-filming-cinematics-for-blizzards-upcoming-action-rpg/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T16:33:44+00:00"
+    },
+    {
+      "guid": "vfvJPgb7iSpNLAD9Le8pZH",
+      "title": "Despite controversy, World of Warcraft Forever's $30 Skyborne race is one of the Beta's most popular",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/despite-controversy-world-of-warcraft-forevers-usd30-skyborne-race-is-one-of-the-betas-most-popular-among-both-horde-and-alliance-players/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T16:30:56+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207710",
+      "title": "Hitman: Absolution Finally Sneaks Onto Switch 2 Next Week",
+      "url": "https://www.nintendolife.com/news/2026/10/hitman-absolution-finally-sneaks-onto-switch-2-next-week",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207705",
+      "title": "PS5's Saros Already an Official Award Winner",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5s-saros-already-an-official-award-winner",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124868",
+      "title": "Fate/Extra Record Trailer Focuses on Rival Masters and Servants Like Rin and Lancer",
+      "url": "https://www.siliconera.com/fate-extra-record-trailer-focuses-on-rival-masters-and-servants-like-rin-and-lancer/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760442",
+      "title": "The Vermilion Mask Episode 2 Release Date, Synopsis, and New Illustration Revealed",
+      "url": "https://otakukart.com/the-vermilion-mask-episode-2-release-date-synopsis-and-new-illustration-revealed/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-15T16:50:09+00:00"
     }
   ]
 }
