@@ -1020,19 +1020,35 @@
         "The Street Fighter Movie: The Kotaku Review",
         "Who The Hell Was That In The Street Fighter Movie Because It Wasn\u2019t Cammy"
       ]
+    },
+    {
+      "headline": "The Cyberpunk 2077 movie won't just retell the game, CD Projekt's boss confirms",
+      "tag": "cyberpunk 2077",
+      "posted_at": "2026-10-16T22:09:13.578796+00:00",
+      "urls": [
+        "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/"
+      ],
+      "article_titles": [
+        "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
+      ]
+    },
+    {
+      "headline": "Smash Bros. legend Mew2King banned from tournament over bug bites and health concerns",
+      "tag": "super smash bros.",
+      "posted_at": "2026-10-16T22:09:13.653682+00:00",
+      "urls": [
+        "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+        "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns"
+      ],
+      "article_titles": [
+        "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+        "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000746405",
-      "title": "New RPG From Final Fantasy, Persona Vets Borrows From The Past To Ask How We Can Save The Future",
-      "url": "https://kotaku.com/new-rpg-from-final-fantasy-persona-vets-borrows-from-the-past-to-ask-how-we-can-save-the-future-2000746405",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T18:00:46+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237151127",
       "title": "A Different World: Tom Werner Wants To Make An Impact On Screen, Stage & In The Stadium",
@@ -1096,14 +1112,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-16T18:11:58+00:00"
-    },
-    {
-      "guid": "1922557",
-      "title": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
-      "url": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T18:01:39+00:00"
     },
     {
       "guid": "t3_1x7ns8j",
@@ -1512,6 +1520,22 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-16T21:52:29+00:00"
+    },
+    {
+      "guid": "V5t4fctLvsa9Kmb7B4JPyk",
+      "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
+      "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T22:02:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236914043",
+      "title": "Elizabeth Holmes\u2019 Partner Billy Evans Admits \u2018She Looks Insane\u2019 in \u2018You Can See Everything\u2019 Trailer but Defends Making the Doc: \u2018Make Up Your Own Mind\u2019",
+      "url": "https://variety.com/2026/film/news/billy-evans-defends-you-can-see-everything-elizabeth-holmes-insane-1236914043/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T22:00:54+00:00"
     }
   ]
 }
