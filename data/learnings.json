@@ -1026,174 +1026,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "c44d2da5-131c-4041-8cc0-efdc3a3136ad",
-      "title": "Nvidia App Update Adds Support For Agent Control, But Some Users are Warning to Turn it Off",
-      "url": "https://www.ign.com/articles/nvidia-app-update-adds-support-for-agent-control-but-some-users-are-warning-to-turn-it-off",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:56:32+00:00"
-    },
-    {
-      "guid": "19b84233-29d4-45fc-9455-b8787786b270",
-      "title": "Save 35% Off the Logitech G Pro X2 Superstrike Wireless Gaming Mouse With Haptic Inductive Triggers",
-      "url": "https://www.ign.com/articles/logitech-g-pro-x2-superstrike-gaming-mouse-deal-october-2026",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:50:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237165898",
-      "title": "Chase Infiniti-Starring \u2018The Julia Set\u2019 Acquired By Sony Pictures Classics After TIFF Premiere",
-      "url": "https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T18:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237165942",
-      "title": "Katie Zacharia Out As Trump\u2019s White House Press Secretary",
-      "url": "https://deadline.com/2026/10/katie-zacharia-white-house-press-secretary-trump-1237165942/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:58:22+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237165886",
-      "title": "Sean Combs Moved To New Prison \u201cFor Safety And Security\u201d After Fort Dix Turmoil",
-      "url": "https://deadline.com/2026/10/sean-combs-moved-new-prison-1237165886/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:57:35+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237165879",
-      "title": "Cineverse Boards Genre-Bending Holiday Film \u2018Ralph\u2019s Perfekt Christmas\u2019",
-      "url": "https://deadline.com/2026/10/cineverse-acquires-ralphs-perfekt-christmas-north-america-1237165879/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:52:26+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237165897",
-      "title": "\u2018P-Valley\u2019 Drops Opening Scene Teaser From Third & Final Season",
-      "url": "https://deadline.com/2026/10/p-valley-teaser-trailer-third-season-1237165897/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:45:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237150531",
-      "title": "Kal Penn\u2019s Busy Onscreen Year Includes Playing Anna Nicole Smith\u2019s Doctor, A Gregg Araki Role & \u2018Harold & Kumar 4\u2019 In Works: \u201cOne Of The Funniest Scripts\u201d",
-      "url": "https://deadline.com/2026/10/kal-penn-anna-nicole-smith-doctor-gregg-araki-harold-kumar-4-1237150531/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:41:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914181",
-      "title": "\u2018Michael\u2019 to Receive Musical Tribute at 2026 Gotham Film Awards",
-      "url": "https://variety.com/2026/awards/news/michael-gotham-musical-tribute-1236914181/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914143",
-      "title": "\u2018The Julia Set,\u2019 Starring Chase Infiniti, Lands at Sony Pictures Classics Following TIFF Premiere",
-      "url": "https://variety.com/2026/film/news/the-julia-set-chase-infiniti-sony-pictures-classics-tiff-1236914143/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914225",
-      "title": "The Avalanches Create Another Sample-delic Pop Masterpiece With \u2018No Bad Memories\u2019: Album Review",
-      "url": "https://variety.com/2026/music/reviews/avalanches-no-bad-memories-album-review-1236914225/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:58:19+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914195",
-      "title": "Lumi\u00e8re Award Winners Joel and Ethan Coen Praise Cinema-Going : \u2018The Joy of Sitting in a Movie Theater with a Crowd of People, There\u2019s No Substitute for That\u2019",
-      "url": "https://variety.com/2026/film/global/joel-coen-ethan-coen-lumiere-award-winners-1236914195/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:52:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914182",
-      "title": "Who Is Emilio Sakraya? Meet \u2018Fourth Wing\u2019 Actor Playing Xaden Riorson",
-      "url": "https://variety.com/2026/tv/news/emilio-sakraya-fourth-actor-xaden-riorson-1236914182/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:42:14+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236733715",
-      "title": "Chase Infiniti\u2019s \u2018The Julia Set\u2019 Acquired by Sony Pictures Classics For U.S., International Territories",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/julia-set-sony-pictures-classics-1236733715/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236733765",
-      "title": "Prime Video Orders Competitive Tennis Series \u2018Rally\u2019 From Julie Plec and Executive Producer Andre Agassi",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-rally-julie-plec-andre-agassi-1236733765/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:59:47+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236733596",
-      "title": "Netflix Regime Change: Ruthless Cuts Set the Stage for a New Era at Streaming Giant",
-      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-regime-change-layoffs-1236733596/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:45:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236733532",
-      "title": "DC Studios\u2019 James Gunn and Peter Safran Recall  Detailing Long-Term Plans to New Boss David Ellison",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-james-gunn-peter-safran-david-ellison-skydance-1236733532/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T17:31:54+00:00"
-    },
-    {
-      "guid": "nMHJGdwzx8fFS7pjMpsZ5C",
-      "title": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since GTA 4",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/after-18-years-gta-6-might-finally-fix-a-graphical-bug-thats-plagued-rockstars-games-since-grand-theft-auto-4/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T17:39:11+00:00"
-    },
-    {
-      "guid": "bM4qB4pREPKrfsBTT4uzCG",
-      "title": "PlayStation creator backs Sony's call to end discs, says backlash is a \"mentality issue\"",
-      "url": "https://www.gamesradar.com/platforms/playstation/playstation-creator-backs-sonys-call-to-end-discs-says-backlash-is-a-mentality-issue/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T17:36:26+00:00"
-    },
-    {
-      "guid": "XWNu94qPAQtVKfF6sbnh4E",
-      "title": "Street Fighter star Cody Rhodes seemingly keeps hinting at his involvement in an MCU X-Men project",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/street-fighter-star-cody-rhodes-seemingly-keeps-hinting-at-his-involvement-in-an-mcu-x-men-project/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T17:35:24+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124947",
-      "title": "Resident Evil Anniversary Exhibition Full Map Revealed",
-      "url": "https://www.siliconera.com/resident-evil-anniversary-exhibition-full-map-revealed/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T18:00:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000746405",
       "title": "New RPG From Final Fantasy, Persona Vets Borrows From The Past To Ask How We Can Save The Future",
       "url": "https://kotaku.com/new-rpg-from-final-fantasy-persona-vets-borrows-from-the-past-to-ask-how-we-can-save-the-future-2000746405",
@@ -1272,14 +1104,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-16T18:01:39+00:00"
-    },
-    {
-      "guid": "https://www.tabletopbattles.com/trench-crusade-warband-focus-the-drowned-choir/",
-      "title": "Trench Crusade Warband Focus: The Drowned Choir",
-      "url": "https://www.tabletopbattles.com/trench-crusade-warband-focus-the-drowned-choir/",
-      "source_name": "Goonhammer",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T18:00:07+00:00"
     },
     {
       "guid": "t3_1x7ns8j",
@@ -1608,6 +1432,86 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-16T21:00:00+00:00"
+    },
+    {
+      "guid": "fdaa62fd-c449-44fa-8a8c-527f2f5fb032",
+      "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+      "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T21:54:09+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746855",
+      "title": "Fans Are Comparing Grand Theft Auto 6\u2032s Latest Trailer To Its First And Complaining That It\u2019s A Blurry \u2018Downgrade\u2019",
+      "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T21:30:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237158527",
+      "title": "\u2018Crystal Lake\u2019s Gwendolyn Sundstrom On Grace\u2019s Friendship With Jason, \u201cLearning A Lot\u201d From Linda Cardellini & That Killer Twist",
+      "url": "https://deadline.com/2026/10/crystal-lake-gwendolyn-sundstrom-killer-twist-1237158527/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T22:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237159320",
+      "title": "\u2018Street Fighter\u2019 Socking $30M, \u2018You Can See Everything\u2019 Beaming 2nd Best Opening For Documentary At $12M \u2013 Friday Box Office Update",
+      "url": "https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T21:39:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910696",
+      "title": "Music Industry Moves: My Chemical Romance Signs With Warner Chappell",
+      "url": "https://variety.com/2026/music/news/jesse-jo-stark-wme-1236910696/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T21:35:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236914459",
+      "title": "\u2018Red Rising\u2019 Movie in the Works at Paramount With \u2018Hunger Games\u2019 Director Francis Lawrence",
+      "url": "https://variety.com/2026/film/news/red-rising-movie-paramount-hunger-games-director-books-1236914459/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T21:34:22+00:00"
+    },
+    {
+      "guid": "bjStBkaD7XoqUGSwCwe5D4",
+      "title": "Former Valve writer says Gabe Newell has been pretty clear about Steam: \"It's an MMO\"",
+      "url": "https://www.gamesradar.com/games/former-valve-writer-says-gabe-newell-has-been-pretty-clear-about-steam-its-an-mmo/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T21:56:12+00:00"
+    },
+    {
+      "guid": "zgcPNoFb4wxr262iHGaPVK",
+      "title": "Diablo 4 players spent weeks searching for missing armor only to find it hiding in the new update",
+      "url": "https://www.gamesradar.com/games/diablo/diablo-4-players-spent-weeks-searching-for-missing-armor-only-for-blizzard-to-quietly-sneak-it-into-the-latest-update/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T21:30:27+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124979",
+      "title": "Cult of the Lamb Switch 2 Version Launches With Free Upgrade",
+      "url": "https://www.siliconera.com/cult-of-the-lamb-switch-2-version-launches-with-free-upgrade/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T22:00:00+00:00"
+    },
+    {
+      "guid": "t3_1x7t4bb",
+      "title": "Samson developer Liquid Swords goes bankrupt",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x7t4bb/samson_developer_liquid_swords_goes_bankrupt/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T21:52:29+00:00"
     }
   ]
 }
