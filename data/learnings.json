@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Valve Is Now Sharing Real-World Steam Deck Performance Data Directly With Developers",
-      "tag": "steam deck",
-      "posted_at": "2026-10-09T16:01:11.283479+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/"
-      ],
-      "article_titles": [
-        "Valve is telling devs how well their games actually run on Steam Deck with real world data"
-      ]
-    },
-    {
       "headline": "Gears of War: E-Day Reportedly Sold Only 320,000 Copies Despite Critical Acclaim",
       "tag": "gears of war: e-day",
       "posted_at": "2026-10-09T17:01:12.767188+00:00",
@@ -1094,6 +1083,19 @@
         "The Blood Of Dawnwalker\u2019s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
         "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes"
       ]
+    },
+    {
+      "headline": "Leaked Footage Surfaces of Canceled Assassin's Creed Game Set in Qin Dynasty China",
+      "tag": "assassin's creed",
+      "posted_at": "2026-10-16T16:02:15.925362+00:00",
+      "urls": [
+        "https://www.ign.com/articles/assassins-creed-destiny-leak",
+        "https://www.gamesradar.com/games/assassin-s-creed/we-finally-get-to-see-the-canceled-assassins-creed-game-set-in-china-and-darn-it-it-looks-pretty-good/"
+      ],
+      "article_titles": [
+        "Apparent Leaked Footage Shows Canceled Assassin's Creed Game Set in Qin Dynasty China",
+        "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1698,6 +1700,142 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-16T15:30:08+00:00"
+    },
+    {
+      "guid": "89e3cd7a-00ee-42fb-8a57-716abcf33690",
+      "title": "VisionQuest Fans Think the MCU Show Is Hiding a Major Character Right Under Their Noses",
+      "url": "https://www.ign.com/articles/visionquest-fans-think-the-mcu-show-is-hiding-a-major-character-right-under-their-noses",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:56:53+00:00"
+    },
+    {
+      "guid": "fa29bbca-2046-4ffa-bb5f-d8560bbea22d",
+      "title": "Apparent Leaked Footage Shows Canceled Assassin's Creed Game Set in Qin Dynasty China",
+      "url": "https://www.ign.com/articles/assassins-creed-destiny-leak",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:56:14+00:00"
+    },
+    {
+      "guid": "834e69e5-64fe-4e26-ac4b-cef6ebec1272",
+      "title": "Elon Musk's Tesla Flying Car Reveal Met With Mix of Astonishment and Skepticism",
+      "url": "https://www.ign.com/articles/elon-musks-tesla-flying-car-reveal-met-with-mix-of-astonishment-and-skepticism",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:49:19+00:00"
+    },
+    {
+      "guid": "aa10b6ee-fa0f-40cc-8aa5-59dec8833b1c",
+      "title": "'We F***ed Up' \u2014 Wardogs Boss Admits Season 2 Hasn't Gone Particularly Well",
+      "url": "https://www.ign.com/articles/wardogs-season-2-hasnt-gone-particularly-well",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:35:03+00:00"
+    },
+    {
+      "guid": "d78AbM7vgNFrKrXQ8Cjj6i",
+      "title": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
+      "url": "https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:52:39+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165695",
+      "title": "Nicole Wallace Signs With UTA",
+      "url": "https://deadline.com/2026/10/nicole-wallace-uta-agency-1237165695/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165671",
+      "title": "Scarlet Stallone & Rayll Team To Develop \u2018Fears To Fathom\u2019 Horror Video Game Franchise For Film & TV",
+      "url": "https://deadline.com/2026/10/scarlet-stallone-fears-to-fathom-horror-video-game-film-tv-1237165671/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165731",
+      "title": "Netflix Acquires \u2018Canopy\u2019 Creature Feature Spec From Brandon Feldman",
+      "url": "https://deadline.com/2026/10/canopy-spec-brandon-feldman-sells-netflix-1237165731/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:52:22+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236914014",
+      "title": "Broadcaster France T\u00e9l\u00e9visions Warns Far-Right Would Crush French Cinema",
+      "url": "https://variety.com/2026/film/global/french-broadcaster-france-televisions-far-right-would-cinema-1236914014/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T16:00:16+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913358",
+      "title": "Katseye\u2019s New Documentary \u2018Wild Hearts\u2019 Is Officially Streaming on Hulu",
+      "url": "https://variety.com/2026/shopping/news/how-to-watch-katseye-documentary-wild-hearts-online-1236913358/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733172",
+      "title": "Everybody Needs to Calm Down \u2014 Comedian Laura Ramoso Says She Can Help With That",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/laura-ramoso-calm-down-interview-1236733172/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:48:44+00:00"
+    },
+    {
+      "guid": "P2nB6EF7QZQn9VG5YWUtwm",
+      "title": "The best Xbox gifts in 2026: this year's top tech and must-see accessories",
+      "url": "https://www.gamesradar.com/hardware/best-xbox-gifts/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:58:08+00:00"
+    },
+    {
+      "guid": "GmcN4pFXSwedDvcDPeCEoJ",
+      "title": "Big RPGs like The Witcher 4 have CD Projekt Red in a \"dangerous place,\" warns BioWare veteran",
+      "url": "https://www.gamesradar.com/games/rpg/big-rpgs-like-the-witcher-4-and-cyberpunk-2-have-cd-projekt-red-in-a-dangerous-place-warns-bioware-veteran-with-costs-and-sales-expectations-exploding/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:34:34+00:00"
+    },
+    {
+      "guid": "1922508",
+      "title": "A Comically On-The-Nose New Title Has Me Even More Excited For This Upcoming Tactics Game",
+      "url": "https://www.gamespot.com/articles/a-comically-on-the-nose-new-title-has-me-even-more-excited-for-this-upcoming-tactics-game/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:38:26+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124855",
+      "title": "Final Fantasy XIII Is Long Overdue for an HD Remaster",
+      "url": "https://www.siliconera.com/final-fantasy-xiii-is-long-overdue-for-an-hd-remaster/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1082171",
+      "title": "Vixen 357 coming to PS5, Xbox Series, PS4, Xbox One, Switch, and PC on October 23",
+      "url": "https://www.gematsu.com/2026/10/vixen-357-coming-to-ps5-xbox-series-ps4-xbox-one-switch-and-pc-on-october-23",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:48:06+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=622863",
+      "title": "D&D: The Arcane Order Magus Subclass \u2013 Teleporting For Fun And Profit",
+      "url": "https://www.belloflostsouls.net/2026/10/dd-the-arcane-order-magus-subclass-teleporting-for-fun-and-profit.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:51:54+00:00"
     }
   ]
 }
