@@ -1102,68 +1102,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236913988",
-      "title": "Iron Maiden Announce 2027 North American Tour Dates",
-      "url": "https://variety.com/2026/music/news/iron-maiden-2027-north-american-tour-dates-1236913988/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T14:10:01+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236913972",
-      "title": "David Surkamp, Pavlov\u2019s Dog Singer, Dies at 73",
-      "url": "https://variety.com/2026/music/news/david-surkamp-dead-pavlovs-dog-singer-1236913972/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T14:03:53+00:00"
-    },
-    {
-      "guid": "DqQyXGoYg7niRvN9eC3aif",
-      "title": "Street Fighter fans can't tell how they feel about the new film: \"You could do a lot worse\"",
-      "url": "https://www.gamesradar.com/entertainment/live-action-movies/street-fighter-fans-cant-tell-how-they-feel-about-the-new-film-as-a-video-game-movie-you-could-do-a-lot-worse/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T14:22:19+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1084929",
-      "title": "STRANGER THAN HEAVEN \u2018Act 1: Kokura\u2019 story trailer",
-      "url": "https://www.gematsu.com/2026/10/stranger-than-heaven-act-1-kokura-story-trailer",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T14:12:33+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1084923",
-      "title": "Second Stone demo launches October 19",
-      "url": "https://www.gematsu.com/2026/10/second-stone-demo-launches-october-19",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T14:07:17+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760540",
-      "title": "Hearts2Hearts Releases First English Single \u201cNext Chapter\u201d in Collaboration With Arena of Valor",
-      "url": "https://otakukart.com/hearts2hearts-releases-first-english-single-next-chapter-in-collaboration-with-arena-of-valor/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T14:10:12+00:00"
-    },
-    {
       "guid": "a2e530f7-bb31-4622-a914-ba673ccb2646",
       "title": "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes",
       "url": "https://www.ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting",
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-10-16T14:30:54+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000746506",
-      "title": "Silent Hill And Metal Gear Publisher Konami Does \u2018Not Believe The Market Will Shift Significantly\u2019 Because Of AI",
-      "url": "https://kotaku.com/silent-hill-and-metal-gear-publisher-konami-does-not-believe-the-market-will-shift-significantly-because-of-ai-2000746506",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T14:30:23+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236913601",
@@ -1182,14 +1126,6 @@
       "published_dt": "2026-10-16T14:30:40+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236912879",
-      "title": "Kenny Ortega Says His New Lego Friends \u2018Heartlake\u2019 Movie Brings the Bricks to Life \u2018in the Most Wonderful Musical Capacity\u2019",
-      "url": "https://variety.com/2026/film/global/kenny-ortega-lego-friends-heartlake-musical-1236912879/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-16T14:30:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236725892",
       "title": "Role Model\u2019s Next Move? He\u2019ll Figure It Out Onstage",
       "url": "https://www.hollywoodreporter.com/music/music-features/role-model-chuck-timely-album-tour-good-sex-interview-1236725892/",
@@ -1204,14 +1140,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-16T14:37:53+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207761",
-      "title": "Over 1,100 Improvements Promised in The Blood of Dawnwalker Patch 1.1",
-      "url": "https://www.pushsquare.com/news/2026/10/over-1100-improvements-promised-in-the-blood-of-dawnwalker-patch-1-1",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-16T14:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1124956",
@@ -1756,6 +1684,102 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-16T18:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746405",
+      "title": "New RPG From Final Fantasy, Persona Vets Borrows From The Past To Ask How We Can Save The Future",
+      "url": "https://kotaku.com/new-rpg-from-final-fantasy-persona-vets-borrows-from-the-past-to-ask-how-we-can-save-the-future-2000746405",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:00:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237151127",
+      "title": "A Different World: Tom Werner Wants To Make An Impact On Screen, Stage & In The Stadium",
+      "url": "https://deadline.com/2026/10/tom-werner-a-different-world-liverpool-fc-interview-1237151127/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:20:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237155045",
+      "title": "Jude Law Set To Play Legendary Liverpool Manager Bill Shankly In A24 Series From Jack Thorne",
+      "url": "https://deadline.com/2026/10/jude-law-liverpool-fc-manager-bill-shankly-a24-series-1237155045/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:17:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165903",
+      "title": "\u2018Dancing With The Stars\u2019 Scores 9-Year Ratings High Among Adults 18-49 On Super Bowl Night",
+      "url": "https://deadline.com/2026/10/dancing-with-the-stars-super-bowl-night-ratings-abc-1237165903/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:15:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165913",
+      "title": "Michael Che\u2019s Awkward Interview Over Shane Gillis\u2019 Joke Backlash On \u2018SNL\u2019: \u201cI Didn\u2019t Think About It, Honestly\u201d",
+      "url": "https://deadline.com/2026/10/michael-che-shane-gillis-joke-backlash-snl-1237165913/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236914031",
+      "title": "Eight VIFF Films That Deserve a Closer Look",
+      "url": "https://variety.com/2026/film/global/viff-films-deserve-closer-look-matthew-rankin-john-turturro-1236914031/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:22:28+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733731",
+      "title": "How Cher Honors Costume Designer Bob Mackie in New Campaign for Moncler\u2019s Re/Icons Collection",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/moncler-collection-cher-jennie-blackpink-grace-jones-2026-1236733731/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:27:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733816",
+      "title": "Half a Scaramucci: White House Press Secretary Katie Zacharia Ousted After One Briefing",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/katie-zacharia-out-as-white-house-press-secretary-1236733816/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:15:21+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733702",
+      "title": "Universal Music and Sony Want to Know How Many AI-Generated Songs DistroKid Releases",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/umg-and-sony-distrokid-ai-song-subpoena-1236733702/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T18:11:58+00:00"
+    },
+    {
+      "guid": "1922557",
+      "title": "WoW: Forever Just Changed The Math On What Race To Play In A Big Way",
+      "url": "https://www.gamespot.com/articles/wow-forever-just-changed-the-math-on-what-race-to-play-in-a-big-way/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T18:01:39+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/trench-crusade-warband-focus-the-drowned-choir/",
+      "title": "Trench Crusade Warband Focus: The Drowned Choir",
+      "url": "https://www.tabletopbattles.com/trench-crusade-warband-focus-the-drowned-choir/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T18:00:07+00:00"
+    },
+    {
+      "guid": "t3_1x7ns8j",
+      "title": "Smyths Toys (UK retailer) has listed separate Zelda 40th Anniversary Edition Pro Controllers and Switch 2 consoles with user-replaceable batteries and a later release date, suggesting those who pre-ordered early will not get hardware with user-replaceable batteries",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x7ns8j/smyths_toys_uk_retailer_has_listed_separate_zelda/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T18:19:41+00:00"
     }
   ]
 }
