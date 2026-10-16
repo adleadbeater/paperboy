@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "D&D Is Getting a Second Star Wars Crossover Book from Wizards of the Coast",
-      "tag": "dungeons & dragons",
-      "posted_at": "2026-10-09T19:01:17.500470+00:00",
-      "urls": [
-        "https://www.belloflostsouls.net/2026/10/always-two-there-are-dd-unveils-a-2nd-star-wars-crossover-book.html",
-        "https://www.enworld.org/threads/wizards-of-the-coast-announces-more-d-d-star-wars-crossover-plans.720925/"
-      ],
-      "article_titles": [
-        "Always Two, There Are \u2013 D&D Unveils A 2nd Star Wars Crossover Book",
-        "Wizards of the Coast announces more D&D/Star Wars crossover plans"
-      ]
-    },
-    {
-      "headline": "US Console Market Is at Its Worst Since the Early '80s, Analyst Warns",
-      "tag": "\u2014",
-      "posted_at": "2026-10-09T19:01:17.697763+00:00",
-      "urls": [
-        "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-        "https://www.gamesradar.com/hardware/us-console-market-hasnt-been-in-a-more-precarious-position-since-the-early-80s-analyst-says-as-ps5-and-xbox-series-x-price-soar-to-all-time-highs/"
-      ],
-      "article_titles": [
-        "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-        "US console market hasn't been this bad \"since the early 80s,\" analyst says"
-      ]
-    },
-    {
       "headline": "Silent Hill and Gravity Rush Director's Studio Is Casting for a New Horror Game",
       "tag": "bokeh game studio",
       "posted_at": "2026-10-10T12:00:36.554085+00:00",
@@ -1031,6 +1005,21 @@
       "article_titles": [
         "Anime Gambling Horror Game Ditches Free Steam Demo So It Doesn\u2019t Get Ripped Off By AI"
       ]
+    },
+    {
+      "headline": "The Street Fighter Movie Is Out \u2014 And It's Already Stirring Up Controversy Over Cammy",
+      "tag": "street fighter",
+      "posted_at": "2026-10-16T21:00:54.961575+00:00",
+      "urls": [
+        "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822",
+        "https://kotaku.com/street-fighter-2026-movie-review-guile-ken-ryu-chun-li-2000746803",
+        "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822"
+      ],
+      "article_titles": [
+        "Who The Hell Was That In The Street Fighter Movie Because It Wasn\u2019t Cammy",
+        "The Street Fighter Movie: The Kotaku Review",
+        "Who The Hell Was That In The Street Fighter Movie Because It Wasn\u2019t Cammy"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1491,6 +1480,70 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-16T20:00:00+00:00"
+    },
+    {
+      "guid": "45893a68-f2cb-458f-896f-59302d401a6c",
+      "title": "Save 20% Off the LEGO Star Wars Ultimate Collector Series AT-ST Walker With Exclusive Mini-Fig",
+      "url": "https://www.ign.com/articles/save-20-off-the-lego-star-wars-ultimate-collector-series-at-st-walker-with-exclusive-mini-fig",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T20:55:00+00:00"
+    },
+    {
+      "guid": "ed1bb90e-a762-4f6e-9a00-ca21efbc7416",
+      "title": "Get a 2-Pack of 6.6ft Right Angle USB-C Cables for $5 (Just $2.50 Per Cable)",
+      "url": "https://www.ign.com/articles/best-right-angle-usb-cable-deals-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T20:50:00+00:00"
+    },
+    {
+      "guid": "1e7fc540-3b5a-4ae1-bf5c-3cb635ffc822",
+      "title": "True Detective Season 5 Confirms Antonio Banderas and Nicolas Cage as Its Leads",
+      "url": "https://www.ign.com/articles/true-detective-season-5-confirms-antonio-banderas-and-nicolas-cage-as-its-leads",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T20:49:26+00:00"
+    },
+    {
+      "guid": "3842eaaf-27e9-4025-9c56-01c74c857079",
+      "title": "What Happened to Modern Technology in Avatar: Seven Havens?",
+      "url": "https://www.ign.com/articles/what-happened-to-modern-technology-in-avatar-seven-havens",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T20:40:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165901",
+      "title": "Netflix Enters Box Office Era With \u2018La Bola Negra\u2019; \u2018You Can See Everything\u2019 & \u2018Musk\u2019 Face Off \u2013 Specialty Preview",
+      "url": "https://deadline.com/2026/10/indie-films-opening-you-can-see-everything-la-bola-negra-netflix-1237165901/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T20:45:17+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733561",
+      "title": "London Film Festival\u2019s Surprise Movie Is\u2026 \u2018I Play Rocky\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/london-film-festival-surprise-movie-i-play-rocky-ippolito-1236733561/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T20:47:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733987",
+      "title": "Michael Forest, Actor in Roger Corman Movies and \u2018Star Trek,\u2019 Dies at 97",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T20:47:48+00:00"
+    },
+    {
+      "guid": "1922653",
+      "title": "All The Records GTA 6 Will Break, We Think",
+      "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T20:27:22+00:00"
     }
   ]
 }
