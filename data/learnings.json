@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Charlie Cox Has Already Recorded 40 Hours of Dialogue for a Mystery Sega Game",
-      "tag": "sega",
-      "posted_at": "2026-10-09T15:31:33.130030+00:00",
-      "urls": [
-        "https://kotaku.com/charlie-cox-reveals-hes-already-recorded-40-hours-of-lines-for-a-surprise-sega-game-2000742798",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x1noij/charlie_cox_leaks_that_he_has_recorded_40_hours/"
-      ],
-      "article_titles": [
-        "Charlie Cox Reveals He\u2019s Already Recorded 40 Hours Of Lines For A Surprise Sega Game",
-        "Charlie Cox leaks that he has recorded 40 hours of lines for a new SEGA game"
-      ]
-    },
-    {
-      "headline": "A CS2 Player Wrote Their Entire Master's Thesis on Catching Cheaters \u2014 and It Works",
-      "tag": "counter-strike 2",
-      "posted_at": "2026-10-09T15:31:33.287927+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/"
-      ],
-      "article_titles": [
-        "Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system"
-      ]
-    },
-    {
       "headline": "Valve Is Now Sharing Real-World Steam Deck Performance Data Directly With Developers",
       "tag": "steam deck",
       "posted_at": "2026-10-09T16:01:11.283479+00:00",
@@ -1092,6 +1068,32 @@
       "article_titles": [
         "Silent Hill And Metal Gear Publisher Konami Does \u2018Not Believe The Market Will Shift Significantly\u2019 Because Of AI"
       ]
+    },
+    {
+      "headline": "No Rest for the Wicked Confirms PS5 Version 1.0 for March 2027, Doubles Game Size",
+      "tag": "no rest for the wicked",
+      "posted_at": "2026-10-16T15:38:39.930842+00:00",
+      "urls": [
+        "https://www.gematsu.com/2026/10/no-rest-for-the-wicked-details-new-class-systems-version-1-0-enhancements",
+        "https://www.pushsquare.com/news/2026/10/1-0-roughly-doubles-the-size-of-the-game-no-rest-for-the-wicked-confirms-march-2027-release-on-ps5"
+      ],
+      "article_titles": [
+        "No Rest for the Wicked details new class systems, version 1.0 enhancements",
+        "'1.0 Roughly Doubles the Size of the Game': No Rest for the Wicked Confirms March 2027 Release on PS5"
+      ]
+    },
+    {
+      "headline": "Blood of Dawnwalker Update 1.1 Adds Animal Petting, Mistake-Erasing and 1,100+ Fixes",
+      "tag": "the blood of dawnwalker",
+      "posted_at": "2026-10-16T15:38:40.075016+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
+        "https://www.ign.com/articles/the-blood-of-dawnwalker-update-directional-based-animal-petting"
+      ],
+      "article_titles": [
+        "The Blood Of Dawnwalker\u2019s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+        "The Blood of Dawnwalker Update 1.1 Adds Directional Animal Petting and Over 1,100 Other Improvements and Fixes"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1608,6 +1610,94 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-16T15:06:12+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000746749",
+      "title": "2026 Has Already Seen More Games Added To Steam Than All Of 2025, And It\u2019s About To Get So Much Worse",
+      "url": "https://kotaku.com/steam-valve-slop-ai-genai-vibe-coding-pc-game-releases-2000746749",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:30:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165657",
+      "title": "Kevin Hart Animated Series \u2018Lil Kev\u2019 Sets Season 2 Premiere Date",
+      "url": "https://deadline.com/2026/10/kevin-hart-animated-series-lil-kev-season-2-premiere-date-1237165657/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236914037",
+      "title": "\u2018Safe Exit\u2019 Director Mohammed Hammad on Staying True to His Vision: \u2018I Need to Be Free as a Filmmaker\u2019",
+      "url": "https://variety.com/2026/film/global/safe-exit-mohammed-hammad-1236914037/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:36:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236913929",
+      "title": "Box Office: \u2018Street Fighter\u2019 Makes $4 Million in Previews, \u2018You Can See Everything\u2019 Behind With $1.75 Million",
+      "url": "https://variety.com/2026/film/box-office/box-office-street-fighter-you-can-see-everything-previews-1236913929/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-16T15:31:45+00:00"
+    },
+    {
+      "guid": "UdJrR2PoakQXM3QmPukPpc",
+      "title": "Xbox X25 controller pre-orders are back in stock ahead of next week's launch",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/xbox-x25-controller-pre-orders-are-back-in-stock-ahead-of-next-weeks-launch/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:31:23+00:00"
+    },
+    {
+      "guid": "DAQ8ZZ8GHKTV8MbsEY72Vo",
+      "title": "Ahead of Persona 6, former lead devs say every Atlus JRPG \"changing to reflect the times\" is key",
+      "url": "https://www.gamesradar.com/games/persona/ahead-of-persona-6-former-lead-devs-say-every-atlus-jrpg-changing-to-reflect-the-times-is-key-and-should-give-players-something-to-draw-on-as-they-go-on-to-live-their-lives/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:30:03+00:00"
+    },
+    {
+      "guid": "1922481",
+      "title": "Call Of Duty: MW4\u2019s Campaign Launches Today, Please Don\u2019t Spoil It For Others",
+      "url": "https://www.gamespot.com/articles/call-of-duty-mw4s-campaign-launches-today-please-dont-spoil-it-for-others/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:24:46+00:00"
+    },
+    {
+      "guid": "1922469",
+      "title": "The Blood Of Dawnwalker\u2019s Next Update Will Let You Erase Your Mistakes And Pet The Dog",
+      "url": "https://www.gamespot.com/articles/the-blood-of-dawnwalkers-next-update-will-let-you-erase-your-mistakes-and-pet-the-dog/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:09:53+00:00"
+    },
+    {
+      "guid": "1922433",
+      "title": "Next Red Dead Launching By 2027 Or 2028 \u201cMay Not Be Unreasonable,\u201d Bank Says, But It Definitely Is",
+      "url": "https://www.gamespot.com/articles/next-red-dead-launching-by-2027-or-2028-may-not-be-unreasonable-bank-says-but-it-definitely-is/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:07:49+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207713",
+      "title": "'1.0 Roughly Doubles the Size of the Game': No Rest for the Wicked Confirms March 2027 Release on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/1-0-roughly-doubles-the-size-of-the-game-no-rest-for-the-wicked-confirms-march-2027-release-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1084711",
+      "title": "No Rest for the Wicked details new class systems, version 1.0 enhancements",
+      "url": "https://www.gematsu.com/2026/10/no-rest-for-the-wicked-details-new-class-systems-version-1-0-enhancements",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-16T15:30:08+00:00"
     }
   ]
 }
