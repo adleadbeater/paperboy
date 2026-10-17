@@ -1044,43 +1044,22 @@
       "article_titles": [
         "Samson Developer And Publisher Liquid Swords Goes Bankrupt, 6 Months After Release"
       ]
+    },
+    {
+      "headline": "Vampire: The Masquerade \u2014 Bloodlines Remaster Reportedly in the Works",
+      "tag": "vampire: the masquerade \u2014 bloodlines",
+      "posted_at": "2026-10-17T18:39:03.705297+00:00",
+      "urls": [
+        "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour"
+      ],
+      "article_titles": [
+        "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000747049",
-      "title": "Samson Developer And Publisher Liquid Swords Goes Bankrupt, 6 Months After Release",
-      "url": "https://kotaku.com/samson-developer-and-publisher-liquid-swords-goes-bankrupt-6-months-after-release-2000747049",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T14:01:23+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914806",
-      "title": "Mahershala Ali Cries Recalling \u2018Moonlight\u2019 Scene, Keeps Quiet on \u2018Spider-Verse\u2019 at London Talk: \u2018I\u2019ve Got to Be Careful\u2019",
-      "url": "https://variety.com/2026/film/festivals/mahershala-ali-cries-moonlight-scene-spider-verse-1236914806/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T14:28:04+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914681",
-      "title": "\u2018The Angry Birds Movie 3\u2019 Unpacked by VFX Supervisor, Including Red\u2019s Redesign and Character-Effects Automation: \u2019He\u2019s Similar by Choice\u2019",
-      "url": "https://variety.com/2026/film/global/the-angry-birds-movie-3-red-redesign-character-automation-1236914681/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T13:56:06+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236734282",
-      "title": "Mahershala Ali Put His Two Oscars Into a Cabinet: \u201cI Felt a Sense of Accomplishment, Not Fulfillment\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-two-oscars-in-cabinet-london-green-book-1236734282/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T14:25:17+00:00"
-    },
     {
       "guid": "YV8kG8iJVCKAgQWZKiFgVH",
       "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
@@ -1136,6 +1115,46 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-10-17T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+      "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+      "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-17T18:28:40+00:00"
+    },
+    {
+      "guid": "AEdSr7Gmwts9J5BttmCeuh",
+      "title": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer\u2019s Biddy Blas is scribbing doon all your enthusiasm",
+      "url": "https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-17T18:34:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237166419",
+      "title": "Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs \u2018Jolene\u2019",
+      "url": "https://deadline.com/2026/10/miley-cyrus-dolly-parton-jolene-hollywood-bowl-1237166419/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-17T18:26:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236914995",
+      "title": "\u2018Musk\u2019 TikTok Account Permanently Suspended from Platform Ahead of Documentary\u2019s Wide Release",
+      "url": "https://variety.com/2026/film/news/musk-documentary-tiktok-account-permanently-suspended-1236914995/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-17T18:36:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236910368",
+      "title": "How \u2018Whalefall\u2019 Production Designer Ramsey Avery Built the Creature\u2019s Stomach Using Mattress Foam and Silicone Bits",
+      "url": "https://variety.com/2026/artisans/features/whalefall-production-design-whale-stomach-bile-1236910368/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-17T18:22:56+00:00"
     }
   ]
 }
