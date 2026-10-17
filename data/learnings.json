@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Silent Hill and Gravity Rush Director's Studio Is Casting for a New Horror Game",
-      "tag": "bokeh game studio",
-      "posted_at": "2026-10-10T12:00:36.554085+00:00",
-      "urls": [
-        "https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting"
-      ],
-      "article_titles": [
-        "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game"
-      ]
-    },
-    {
       "headline": "Jailbroken PS5 Can Now Run PS2 Disc Games via Emulation",
       "tag": "playstation 5",
       "posted_at": "2026-10-10T20:11:43.410576+00:00",
@@ -1044,42 +1033,53 @@
         "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
         "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns"
       ]
+    },
+    {
+      "headline": "Liquid Swords, Developer of Samson, Files for Bankruptcy Just 6 Months After Launch",
+      "tag": "liquid swords",
+      "posted_at": "2026-10-17T14:29:44.063495+00:00",
+      "urls": [
+        "https://kotaku.com/samson-developer-and-publisher-liquid-swords-goes-bankrupt-6-months-after-release-2000747049"
+      ],
+      "article_titles": [
+        "Samson Developer And Publisher Liquid Swords Goes Bankrupt, 6 Months After Release"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237166304",
-      "title": "Anthony Scaramucci Reacts To Katie Zacharia\u2019s White House Tenure Being Shorter Than His: \u201cRecords Are Made To Be Broken\u201d",
-      "url": "https://deadline.com/2026/10/anthony-scaramucci-katie-zacharia-trump-press-secretary-1237166304/",
-      "source_name": "Deadline",
+      "guid": "https://kotaku.com/?p=2000747049",
+      "title": "Samson Developer And Publisher Liquid Swords Goes Bankrupt, 6 Months After Release",
+      "url": "https://kotaku.com/samson-developer-and-publisher-liquid-swords-goes-bankrupt-6-months-after-release-2000747049",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-10-17T03:38:34+00:00"
+      "published_dt": "2026-10-17T14:01:23+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237166302",
-      "title": "\u20189-1-1: Nashville\u2019 Pays Tribute To Chad Lowe\u2019s Daughter Fiona With Title Card In Season 2 Premiere",
-      "url": "https://deadline.com/2026/10/9-1-1-nashville-pays-tribute-chad-lowe-daughter-title-card-1237166302/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T03:34:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914492",
-      "title": "Miley Cyrus Setlist: Every Song Played at \u2018Bass Persuades \u2013 Live at the Hollywood Bowl\u2019 (UPDATING LIVE)",
-      "url": "https://variety.com/2026/music/news/miley-cyrus-setlist-hollywood-bowl-los-angeles-1236914492/",
+      "guid": "https://variety.com/?p=1236914806",
+      "title": "Mahershala Ali Cries Recalling \u2018Moonlight\u2019 Scene, Keeps Quiet on \u2018Spider-Verse\u2019 at London Talk: \u2018I\u2019ve Got to Be Careful\u2019",
+      "url": "https://variety.com/2026/film/festivals/mahershala-ali-cries-moonlight-scene-spider-verse-1236914806/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-17T03:37:30+00:00"
+      "published_dt": "2026-10-17T14:28:04+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236734264",
-      "title": "Miley Cyrus Tearfully Pays Tribute to Dolly Parton With \u201cJolene\u201d Performance at Hollywood Bowl: \u201cMe and Dolly, We Are Eternal\u201d",
-      "url": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-dolly-parton-hollywood-bowl-jolene-watch-1236734264/",
+      "guid": "https://variety.com/?p=1236914681",
+      "title": "\u2018The Angry Birds Movie 3\u2019 Unpacked by VFX Supervisor, Including Red\u2019s Redesign and Character-Effects Automation: \u2019He\u2019s Similar by Choice\u2019",
+      "url": "https://variety.com/2026/film/global/the-angry-birds-movie-3-red-redesign-character-automation-1236914681/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-17T13:56:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734282",
+      "title": "Mahershala Ali Put His Two Oscars Into a Cabinet: \u201cI Felt a Sense of Accomplishment, Not Fulfillment\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-two-oscars-in-cabinet-london-green-book-1236734282/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-17T04:48:51+00:00"
+      "published_dt": "2026-10-17T14:25:17+00:00"
     }
   ]
 }
