@@ -1072,62 +1072,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "YV8kG8iJVCKAgQWZKiFgVH",
-      "title": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
-      "url": "https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T17:00:00+00:00"
-    },
-    {
-      "guid": "pSZ5kCrSja7ToggT9q7t43",
-      "title": "Discussion time: Do you think zone chats in MMOs are forces for good, or evil?",
-      "url": "https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T17:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237166392",
-      "title": "Harry Styles Pays Tribute To Liam Payne With New Song At Madison Square Garden Concert",
-      "url": "https://deadline.com/2026/10/harry-styles-liam-payne-madison-square-garden-1237166392/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T17:04:25+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914848",
-      "title": "How NBC Brought Live Musicals Back to Television",
-      "url": "https://variety.com/2026/tv/news/sound-of-music-nbc-live-musicals-greenblatt-hairspray-1236914848/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T17:03:19+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914863",
-      "title": "Harry Styles Debuts Unreleased Song He Wrote in Memory of Liam Payne, \u2018What Is Enough,\u2019 on Second Anniversary of Ex-Bandmate\u2019s Death",
-      "url": "https://variety.com/2026/music/news/harry-styles-liam-payne-song-debut-what-is-enough-msg-1236914863/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T17:02:16+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914884",
-      "title": "Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show: \u2018Nothing In This Life Could Ever Tear Us Apart\u2019",
-      "url": "https://variety.com/2026/music/news/miley-cyrus-tears-up-honoring-dolly-parton-hollywood-bowl-1236914884/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-17T16:51:16+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207750",
-      "title": "Technosoft's Rare Sega Saturn Blaster 'Hyper Duel' Is Getting A 2-Disc Soundtrack Release Next Month",
-      "url": "https://www.timeextension.com/news/2026/10/technosofts-rare-sega-saturn-blaster-hyper-duel-is-getting-a-2-disc-soundtrack-release-next-month",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-17T17:00:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
       "title": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
       "url": "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour",
@@ -1238,6 +1182,14 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-17T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237166466",
+      "title": "Donald Trump Finally Arrives On \u2018SNL UK\u2019 In Job Swap Cold Open With Andy Burnham & Volodymyr Zelenskyy",
+      "url": "https://deadline.com/2026/10/snl-uk-donald-trump-first-time-andy-burnham-zelensky-1237166466/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-17T21:23:27+00:00"
     }
   ]
 }
