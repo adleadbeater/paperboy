@@ -1061,46 +1061,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
-      "title": "God of War Laufey's \u00a3130 Collector Box doesn't come with the game",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-18T14:47:02+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236915017",
-      "title": "Apichatpong Weerasethakul\u2019s \u2018Jengira\u2019s Magnificent Dream,\u2019 With Tilda Swinton, Boarded by \u2018Triangle of Sadness\u2019 Mexican Co-Producer Piano",
-      "url": "https://variety.com/2026/film/global/apichatpong-weerasethakul-tilda-swinton-piano-1236915017/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-18T14:32:49+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236734749",
-      "title": "Jesse Eisenberg Relives Kieran Culkin Woes Making \u2018A Real Pain\u2019 and Says His Next Project Is a TV Show",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-kieran-culkin-real-pain-debut-film-london-1236734749/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-18T14:28:44+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236734403",
-      "title": "The Best-Dressed Stars at the Academy Museum Gala, Including Inde Navarrette and Taylor Swift",
-      "url": "https://www.hollywoodreporter.com/lifestyle/style/best-dressed-stars-academy-museum-gala-2026-1236734403/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-18T14:27:52+00:00"
-    },
-    {
-      "guid": "56GLzLx4mP6szUdkZbqQp",
-      "title": "A Resident Evil fan is remaking Zach Cregger's film as a PS1-style game with fixed camera angles",
-      "url": "https://www.gamesradar.com/games/resident-evil/a-resident-evil-fan-is-remaking-zach-creggers-film-as-a-ps1-style-survival-horror-game-with-fixed-camera-angles/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-18T14:43:50+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
       "title": "Battlefield 6 devs to fix \"Secuty\" skin typo, but five-pistol outfit was intentional",
       "url": "https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond",
@@ -1147,6 +1107,38 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-18T17:20:25+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167162",
+      "title": "Cindy Crawford & Family Pay Tribute To Late Son Presley Gerber: \u201c\u2018Til We Meet Again, Our Sweet Boy\u201d",
+      "url": "https://deadline.com/2026/10/cindy-crawford-family-pay-tribute-presley-gerber-1237167162/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T19:29:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236915890",
+      "title": "Betty McGuire, \u2018Growing Pains\u2019 Actress, Dies at 100",
+      "url": "https://variety.com/2026/tv/people-news/betty-mcguire-dead-growing-pains-1236915890/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T19:38:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236915876",
+      "title": "Jesse Eisenberg Says He \u2018Couldn\u2019t Get Movie Studio Parts Anymore\u2019 After Winning A Razzie For \u2018Batman v Superman\u2019: \u2018The Industry Did Not Want Me to Be in a Superhero Movie\u2019",
+      "url": "https://variety.com/2026/film/global/jesse-eisenberg-razzie-batman-v-superman-1236915876/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T19:27:18+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734751",
+      "title": "Young Miko Gets Flirty With L.A. During Her Late Checkout Tour",
+      "url": "https://www.hollywoodreporter.com/music/music-news/young-miko-la-concert-late-checkout-tour-highlights-1236734751/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T19:34:06+00:00"
     }
   ]
 }
