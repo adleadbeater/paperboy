@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Jailbroken PS5 Can Now Run PS2 Disc Games via Emulation",
-      "tag": "playstation 5",
-      "posted_at": "2026-10-10T20:11:43.410576+00:00",
-      "urls": [
-        "https://kotaku.com/jailbroken-ps5s-can-now-emulate-ps2-games-using-physical-discs-2000743781"
-      ],
-      "article_titles": [
-        "Jailbroken PS5s Can Now Emulate PS2 Games Using Physical Discs"
-      ]
-    },
-    {
-      "headline": "GTA 6 Leaker CyberLeek Threatens to Release a Full Playable Build of the Game",
-      "tag": "gta 6",
-      "posted_at": "2026-10-10T20:11:43.789124+00:00",
-      "urls": [
-        "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak"
-      ],
-      "article_titles": [
-        "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game"
-      ]
-    },
-    {
       "headline": "A New Naruto Manga and Spin-Off Anime Were Just Announced at New York Comic Con",
       "tag": "naruto",
       "posted_at": "2026-10-11T16:50:12.574367+00:00",
@@ -1066,9 +1044,61 @@
       "article_titles": [
         "Ben Affleck's Batman Movie Would Have Featured Arkham Asylum-Inspired Deathstroke Fight and DCEU Batgirl, Joe Manganiello Reveals"
       ]
+    },
+    {
+      "headline": "God of War: Laufey's Collector's Box Costs \u00a3130 and Doesn't Include the Game",
+      "tag": "god of war",
+      "posted_at": "2026-10-18T14:56:29.599139+00:00",
+      "urls": [
+        "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game"
+      ],
+      "article_titles": [
+        "God of War Laufey's \u00a3130 Collector Box doesn't come with the game"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": []
+  "article_cache": [
+    {
+      "guid": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+      "title": "God of War Laufey's \u00a3130 Collector Box doesn't come with the game",
+      "url": "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T14:47:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236915017",
+      "title": "Apichatpong Weerasethakul\u2019s \u2018Jengira\u2019s Magnificent Dream,\u2019 With Tilda Swinton, Boarded by \u2018Triangle of Sadness\u2019 Mexican Co-Producer Piano",
+      "url": "https://variety.com/2026/film/global/apichatpong-weerasethakul-tilda-swinton-piano-1236915017/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T14:32:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734749",
+      "title": "Jesse Eisenberg Relives Kieran Culkin Woes Making \u2018A Real Pain\u2019 and Says His Next Project Is a TV Show",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-kieran-culkin-real-pain-debut-film-london-1236734749/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T14:28:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734403",
+      "title": "The Best-Dressed Stars at the Academy Museum Gala, Including Inde Navarrette and Taylor Swift",
+      "url": "https://www.hollywoodreporter.com/lifestyle/style/best-dressed-stars-academy-museum-gala-2026-1236734403/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-18T14:27:52+00:00"
+    },
+    {
+      "guid": "56GLzLx4mP6szUdkZbqQp",
+      "title": "A Resident Evil fan is remaking Zach Cregger's film as a PS1-style game with fixed camera angles",
+      "url": "https://www.gamesradar.com/games/resident-evil/a-resident-evil-fan-is-remaking-zach-creggers-film-as-a-ps1-style-survival-horror-game-with-fixed-camera-angles/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-18T14:43:50+00:00"
+    }
+  ]
 }
