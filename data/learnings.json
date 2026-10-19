@@ -1,63 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A New Naruto Manga and Spin-Off Anime Were Just Announced at New York Comic Con",
-      "tag": "naruto",
-      "posted_at": "2026-10-11T16:50:12.574367+00:00",
-      "urls": [
-        "https://kotaku.com/new-naruto-manga-and-spin-off-anime-announced-at-new-york-comic-con-2000744146"
-      ],
-      "article_titles": [
-        "New Naruto Manga And Spin-Off Anime Announced At New York Comic Con"
-      ]
-    },
-    {
-      "headline": "Steam Just Hit a Staggering 43 Million Concurrent Users in October",
-      "tag": "steam",
-      "posted_at": "2026-10-12T13:31:20.171689+00:00",
-      "urls": [
-        "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564"
-      ],
-      "article_titles": [
-        "Steam Smashes Its Player Records, With Over 43 Million Concurrent Users In October"
-      ]
-    },
-    {
-      "headline": "EA Is Reviving Wing Commander III With a 30th Anniversary Edition and Remastered FMVs",
-      "tag": "wing commander iii",
-      "posted_at": "2026-10-12T13:31:20.331570+00:00",
-      "urls": [
-        "https://variety.com/2026/shopping/news/scream-limited-edition-box-set-30th-anniversary-buy-online-1236908928/",
-        "https://www.timeextension.com/news/2026/10/it-looks-like-ea-is-bringing-back-wing-commander-iii-with-a-brand-new-30th-anniversary-edition-featuring-remastered-fmvs"
-      ],
-      "article_titles": [
-        "\u2018Scream\u2019 Celebrates 30th Anniversary With Limited-Edition Box Set Featuring Replica of Drew Barrymore\u2019s Iconic Bloody Phone",
-        "It Looks Like EA Is Bringing Back Wing Commander III, With A Brand New 30th Anniversary Edition Featuring Remastered FMVs"
-      ]
-    },
-    {
-      "headline": "A Modder Has Finally Added Seamless Planetary Landings to Starfield",
-      "tag": "starfield",
-      "posted_at": "2026-10-12T13:31:20.507925+00:00",
-      "urls": [
-        "https://www.eurogamer.net/starfield-mod-seamless-planetary-landings"
-      ],
-      "article_titles": [
-        "Starfield seamless planetary landings are finally nearly a thing, thanks to one modder's tireless work"
-      ]
-    },
-    {
-      "headline": "Nintendo Exec Confirms Switch 2 Will Keep Physical Games as Sony Moves Away",
-      "tag": "nintendo switch 2",
-      "posted_at": "2026-10-12T14:01:04.980983+00:00",
-      "urls": [
-        "https://kotaku.com/unlike-sony-nintendo-exec-says-switch-2-maker-has-no-plans-to-abandon-physical-we-know-how-much-fans-enjoy-it-2000744191"
-      ],
-      "article_titles": [
-        "Unlike Sony, Nintendo Exec Says Switch 2 Maker Has No Plans To Abandon Physical: \u2018We Know How Much Fans Enjoy It\u2019"
-      ]
-    },
-    {
       "headline": "Nvidia's RTX 5080 Super With 24GB VRAM Is Reportedly Coming in Early 2027",
       "tag": "nvidia rtx 5080 super",
       "posted_at": "2026-10-12T16:01:06.701126+00:00",
@@ -1055,6 +998,17 @@
       "article_titles": [
         "God of War Laufey's \u00a3130 Collector Box doesn't come with the game"
       ]
+    },
+    {
+      "headline": "Infinity Ward Responds to Rumors That Modern Warfare 4 Will End the Rebooted Story",
+      "tag": "call of duty: modern warfare",
+      "posted_at": "2026-10-19T14:01:44.777190+00:00",
+      "urls": [
+        "https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds"
+      ],
+      "article_titles": [
+        "Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1203,6 +1157,150 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-19T13:00:23+00:00"
+    },
+    {
+      "guid": "64e9e6d6-ab06-46b3-bb04-bc6cfe7159b8",
+      "title": "Is Call of Duty: Modern Warfare 4 Really the End of the Rebooted Modern Warfare Story? Infinity Ward Responds",
+      "url": "https://www.ign.com/articles/is-call-of-duty-modern-warfare-4-really-the-end-of-the-rebooted-modern-warfare-story-infinity-ward-responds",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:29:09+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/saros-update-zenith-ps5-new-game-plus",
+      "title": "PS5 \"bullet ballet\" game Saros gets a big update to make it both easier and harder",
+      "url": "https://www.eurogamer.net/saros-update-zenith-ps5-new-game-plus",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:56:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000747551",
+      "title": "One Of 2026\u2019s Most Underappreciated Gems Is On Sale And Just Got A Free Update, So Now\u2019s The Time To Give It A Shot",
+      "url": "https://kotaku.com/saros-zenith-update-sale-playstation-5-housemarque-2000747551",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:40:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167357",
+      "title": "Story Of Jewish Spiritual Leader The Rebbe, Who Was Recognized By Bill Clinton & George W. Bush, Being Told In Feature Doc \u2018The Emissary Of Light\u2019",
+      "url": "https://deadline.com/2026/10/rebbe-doc-emissary-of-light-rachel-greenberg-clinton-bush-1237167357/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916336",
+      "title": "Globo, Netflix Strike Biggest Licensing Deal Between the Two Companies, Led by Walter Salles\u2019 Oscar Winner \u2018I\u2019m Still Here\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/streaming/global/globo-netflix-im-still-here-walter-salles-india-a-love-story-1236916336/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236915534",
+      "title": "Locarno Golden Leopard Winner Sho Miyake Gets First North American Retrospective, 14-City Tour (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/locarno-winner-sho-miyake-north-american-retrospective-1236915534/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916380",
+      "title": "Elon Musk Said He Will Give One SpaceX Share \u2018to Every Kid in America\u2019 \u2014 a Giveaway That Would Amount to Over $10.5 Billion",
+      "url": "https://variety.com/2026/digital/news/elon-musk-spacex-share-to-every-kid-in-america-10-5-billion-1236916380/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:59:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916373",
+      "title": "\u2018Slow Horses\u2019 Season 7 Taps \u2018The Other Bennet Sister\u2019 Star Varada Sethu, \u2018Mank\u2019s\u2019 Tuppence Middleton",
+      "url": "https://variety.com/2026/tv/global/slow-horses-season-7-varada-sethu-tuppence-middleton-1236916373/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:52:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916335",
+      "title": "Russell Brand Trial: Third Woman Alleges He Had a \u2018Big Grin\u2019 Like a \u2018Clown\u2019 Before Sexually Assaulting Her",
+      "url": "https://variety.com/2026/tv/global/russell-brand-trial-third-woman-grin-assault-1236916335/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:31:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734723",
+      "title": "Entertainment 360, Griffin Gaming Launch HITpoint to Bring Gaming Characters, Stories to Film, TV",
+      "url": "https://www.hollywoodreporter.com/business/business-news/entertainment-360-griffin-gaming-hitpoint-gaming-hollywood-1236734723/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734182",
+      "title": "Angry Golf Bros Tried to Ruin Heather McMahon. She Released a Hulu Special Instead",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/heather-mcmahon-interview-ryder-cup-1236734182/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735243",
+      "title": "Edward Berger Talks Filmmaking in a Streaming Age: \u201cThe Movie Industry Needed Netflix to Wake Up\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/conclave-edward-berger-netflix-world-war-z-mia-market-1236735243/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:44:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734764",
+      "title": "Netflix Earnings Preview: Not the Time to Chill",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-earnings-preview-near-term-pain-long-term-gain-layoffs-1236734764/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T13:40:12+00:00"
+    },
+    {
+      "guid": "1923059",
+      "title": "Mr. Beast Teases A Huge Call Of Duty Video Focused On DMZ With Real-Life Content Creators",
+      "url": "https://www.gamespot.com/articles/mr-beast-teases-a-huge-call-of-duty-video-focused-on-dmz-with-real-life-content-creators/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T13:28:09+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207831",
+      "title": "'Gooner Game' Zenless Zone Zero Gets an Age Rating Increase on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/gooner-game-zenless-zone-zero-gets-an-age-rating-increase-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207830",
+      "title": "Snoop Dogg and Singing Are All Over Stranger Than Heaven's Act 1 Deep Dive Trailer",
+      "url": "https://www.pushsquare.com/news/2026/10/snoop-dogg-and-singing-are-all-over-stranger-than-heavens-act-1-deep-dive-trailer",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125027",
+      "title": "Jump Festa 2027 Will Include Shueisha Games",
+      "url": "https://www.siliconera.com/jump-festa-2027-will-include-shueisha-games/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T14:00:28+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207819",
+      "title": "It's (almost) Clean-Up Time! Troma's Toxic Crusaders Demo Now Available on Steam",
+      "url": "https://www.timeextension.com/news/2026/10/its-almost-clean-up-time-tromas-toxic-crusaders-demo-now-available-on-steam",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T14:00:00+00:00"
     }
   ]
 }
