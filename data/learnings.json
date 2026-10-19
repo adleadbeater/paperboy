@@ -1098,110 +1098,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
-      "title": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice",
-      "url": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:12:17+00:00"
-    },
-    {
-      "guid": "3vjwS8etkxhFQAApmPCsBX",
-      "title": "GameSir Nova Lite 2 review",
-      "url": "https://www.pcgamer.com/hardware/controllers/gamesir-nova-lite-2-review/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:01:40+00:00"
-    },
-    {
-      "guid": "CAHqRBCRNGwmcLdYhft2HJ",
-      "title": "Two entire pallets of RTX 5090s have 'gone missing' from a Brazilian airport\u2014$495,000 worth of unobtanium graphics cards now presumably at large",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/two-entire-pallets-of-rtx-5090s-have-gone-missing-from-a-brazilian-airport-usd495-000-worth-of-unobtanium-graphics-cards-now-presumably-at-large/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:00:43+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237167533",
-      "title": "Christiane Amanpour To Leave CNN In 2027 After 43 Years With Network",
-      "url": "https://deadline.com/2026/10/christiane-amanpour-to-leave-cnn-1237167533/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:21:57+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237167518",
-      "title": "Tony Revolori, Audrina Miranda, Maria Gabriella De Faria & Lou Lou Safran Starring In \u2018Night At The Oasis\u2019",
-      "url": "https://deadline.com/2026/10/tony-revolori-maria-gabriella-de-faria-night-at-the-oasis-1237167518/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:20:45+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237167504",
-      "title": "Cineverse Wins North American Rights To Thriller-Horror \u2018The Night Driver\u2019 With Josh Lucas, Alyssa Milano & David Arquette",
-      "url": "https://deadline.com/2026/10/cineverse-buys-night-driver-with-josh-lucas-alyssa-milano-1237167504/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:06:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236913606",
-      "title": "Dan Lin Out as Netflix Film Chief",
-      "url": "https://variety.com/2026/film/news/netflix-film-chair-dan-lin-leaving-netflix-1236913606/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:25:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916503",
-      "title": "Christiane Amanpour to Exit CNN in June After 43 Years",
-      "url": "https://variety.com/2026/tv/news/christiane-amanpour-cnn-exit-june-1236916503/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:16:14+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735334",
-      "title": "CNN Shocker: Christiane Amanpour to Exit News Channel Next Year",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/christiane-amanpour-to-exit-cnn-1236735334/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T15:26:35+00:00"
-    },
-    {
-      "guid": "eiAPXKj2XJLSUbcBq3qqgU",
-      "title": "Roblox creator shares project with GTA 6 vibes onlookers \"can't believe\" comes from Roblox",
-      "url": "https://www.gamesradar.com/games/roblox-creator-shares-project-with-gta-6-vibes-that-onlookers-cant-believe-comes-from-roblox-how-is-this-even-possible/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-19T15:24:05+00:00"
-    },
-    {
-      "guid": "W2FATVyYCKa5pRxFfCtvkm",
-      "title": "Best Halloween board games 2026",
-      "url": "https://www.gamesradar.com/games/board-games/best-halloween-board-games/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-19T15:09:17+00:00"
-    },
-    {
-      "guid": "1923119",
-      "title": "Open-World Crime Game Samson Did Better On Console But Not Enough To Save Its Developer From Shutting Down",
-      "url": "https://www.gamespot.com/articles/open-world-crime-game-samson-did-better-on-console-but-not-enough-to-save-its-developer-from-shutting-down/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-19T15:12:36+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085255",
-      "title": "Faraway launches November 5 for PS5, Xbox Series, Switch 2, Switch, and PC",
-      "url": "https://www.gematsu.com/2026/10/faraway-launches-november-5-for-ps5-xbox-series-switch-2-switch-and-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-19T15:07:05+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000747558",
       "title": "AI Cloning Threatens To End Public Playtests For Video Games",
       "url": "https://kotaku.com/revamp-public-playtest-cancelled-digital-sun-claude-ai-clones-2000747558",
@@ -1360,14 +1256,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-19T15:32:21+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207836",
-      "title": "Hideo Kojima Back in the Cyberpunk Universe for Edgerunners Season 2",
-      "url": "https://www.pushsquare.com/news/2026/10/hideo-kojima-back-in-the-cyberpunk-universe-for-edgerunners-season-2",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-19T15:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1124687",
@@ -2056,6 +1944,70 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-19T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167971",
+      "title": "Harrison Harvey Promoted To Agent At IAG",
+      "url": "https://deadline.com/2026/10/harrison-harvey-promoted-iag-1237167971/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T19:22:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167905",
+      "title": "Justine Lupe To Lead Rom-Com Series In Development At Amazon, From Briana Pozner & Colin Lupe; Will Gluck To Direct",
+      "url": "https://deadline.com/2026/10/justine-lupe-cast-amazon-series-development-1237167905/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T19:13:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916721",
+      "title": "Richard Riehle, Character Actor in \u2018Office Space,\u2019 \u2018Star Trek,\u2019 \u2018Bridesmaids\u2019 and More, Dies at 78",
+      "url": "https://variety.com/2026/film/news/richard-riehle-dead-office-space-star-trek-bridesmaids-actor-1236916721/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T19:17:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735509",
+      "title": "Charli xcx Brings Out Chappell Roan, Ad\u00e9la Across Two-Night Stand at Los Angeles\u2019 Kia Forum",
+      "url": "https://www.hollywoodreporter.com/music/music-news/charli-xcx-los-angeles-concerts-chappell-roan-adela-1236735509/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T19:12:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735579",
+      "title": "Netflix Orders Two Seasons of A24\u2019s \u2018The Apology\u2019 Starring Gwyneth Paltrow",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/gwyneth-paltrow-a24-show-the-apology-2-season-order-netflix-1236735579/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-19T19:08:45+00:00"
+    },
+    {
+      "guid": "1923625",
+      "title": "You Don\u2019t Need An Expensive Console Or High-End PC To Play Call Of Duty: Modern Warfare 4",
+      "url": "https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T19:11:06+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760738",
+      "title": "Cyberpunk: Edgerunners 2 Review: A Stunning Return to Night City With a Powerful Story of Friendship",
+      "url": "https://otakukart.com/cyberpunk-edgerunners-2-review-a-stunning-return-to-night-city-with-a-powerful-story-of-friendship/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T19:07:56+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=622866",
+      "title": "D&D: The Heaven\u2019s Guard Magus Is A Tanky Gish With Tricksy Options",
+      "url": "https://www.belloflostsouls.net/2026/10/dd-the-heavens-guard-magus-is-a-tanky-gish-with-tricksy-options.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-19T19:27:58+00:00"
     }
   ]
 }
