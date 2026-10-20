@@ -1060,22 +1060,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237167937",
-      "title": "Chelsey Summey Departs As Warner Bros Head of Communications",
-      "url": "https://deadline.com/2026/10/warner-bros-chelsey-summey-exits-1237167937/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T20:03:25+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735653",
-      "title": "Richard Riehle, \u2018Office Space\u2019 Actor, Dies at 78",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/richard-riehle-dead-office-space-1236735653/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T20:17:41+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000747356",
       "title": "Voice Of Goku Responds To AI Stealing Her Voice: \u2018I can\u2019t Forgive Them\u2026It Makes Me Really Angry, It\u2019s No Different Than Theft\u2019",
       "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356",
@@ -1162,6 +1146,62 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-19T23:31:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168258",
+      "title": "Disney Appoints Carol Choi As Asia Pacific President Following Luke Kang\u2019s Retirement",
+      "url": "https://deadline.com/2026/10/disney-carol-choi-luke-kang-asia-pacific-1237168258/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T00:25:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168250",
+      "title": "Rita Wilson Teases Return In Lena Dunham\u2019s \u2018Girls\u2019 Revival On HBO: \u201cI Would Do Anything For Her\u201d",
+      "url": "https://deadline.com/2026/10/rita-wilson-return-lena-dunham-girls-revival-hbo-1237168250/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T00:15:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167973",
+      "title": "\u2018Lizard Music\u2019 Starring Dwayne Johnson And Directed By Benny Safdie To Tune Up Christmas Day 2027 Via Amazon MGM",
+      "url": "https://deadline.com/2026/10/dwayne-johnson-lizard-music-release-date-1237167973/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T00:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916933",
+      "title": "Why Netflix Fired Dan Lin (and the Truth About His Tension With Greta Gerwig Over \u2018Narnia\u2019)",
+      "url": "https://variety.com/2026/film/news/netflix-fired-dan-lin-greta-gerwig-narnia-tensions-1236916933/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T00:31:27+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735912",
+      "title": "Disney Names Carol Choi President of Asia-Pacific as Luke Kang Retires",
+      "url": "https://www.hollywoodreporter.com/business/business-news/disney-carol-choi-president-asia-pacific-luke-kang-retires-1236735912/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T00:31:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735722",
+      "title": "\u2018Phony\u2019 Review: Connie Britton and Sam Nivola Lead Hulu\u2019s Likably Quirky and Beguiling Paranoid Mystery Series",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/phony-review-connie-britton-sam-nivola-hulu-1236735722/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T00:27:03+00:00"
+    },
+    {
+      "guid": "dafXGwZVysHG6KMp57x3Ac",
+      "title": "Red Dead Redemption 2 gets a Shadow of Mordor-style nemesis system in massive new mod",
+      "url": "https://www.gamesradar.com/games/red-dead/red-dead-redemption-2-gets-a-shadow-of-mordor-style-nemesis-system-in-massive-new-mod-where-everyone-you-cross-in-the-west-can-become-your-nemesis/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T00:11:07+00:00"
     }
   ]
 }
