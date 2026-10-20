@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Sony Unveils a Limited All-Black PS5 \u2014 and It's Almost Impossible to Actually Buy",
-      "tag": "playstation 5",
-      "posted_at": "2026-10-13T17:01:11.194219+00:00",
-      "urls": [
-        "https://www.ign.com/articles/sony-announces-350-all-black-ps5-but-you-probably-cant-buy-it"
-      ],
-      "article_titles": [
-        "Sony Announces $350 All-Black PS5, but You Probably Can't Buy It"
-      ]
-    },
-    {
       "headline": "Greta Gerwig's Narnia: The Magician's Nephew Gets Its First Trailer \u2014 and It Looks Epic",
       "tag": "narnia: the magician's nephew",
       "posted_at": "2026-10-13T18:30:48.577693+00:00",
@@ -1066,163 +1055,22 @@
       "article_titles": [
         "Xbox Manager Tries To Legitimize AI In Wild Rant, Deletes His Account Instead"
       ]
+    },
+    {
+      "headline": "Marvel Rivals adds a 50-player mode that recreates Avengers: Endgame's final battle",
+      "tag": "marvel rivals",
+      "posted_at": "2026-10-20T17:34:59.902083+00:00",
+      "urls": [
+        "https://kotaku.com/marvel-rivals-avengers-endgame-mode-thanos-iron-man-2000748003"
+      ],
+      "article_titles": [
+        "Marvel Rivals\u2019 New Mode Lets You Reenact Avengers: Endgame\u2019s Final Battle With 50 Players"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
-      "title": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
-      "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:13:19+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000747931",
-      "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
-      "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:09:52+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168470",
-      "title": "U2 Set For Haltime Performance During Netflix\u2019s Thanksgiving Eve NFL Broadcast",
-      "url": "https://deadline.com/2026/10/u2-netflix-thanksgiving-eve-nfl-1237168470/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:04:47+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917382",
-      "title": "BBC Three Among Linear Services Set to Close as Broadcaster Looks for Savings",
-      "url": "https://variety.com/2026/tv/global/bbc-three-linear-close-savings-1236917382/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:20:36+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914281",
-      "title": "Hulu\u2019s Mother-Son Mystery \u2018Phony\u2019 Mutes Connie Britton\u2019s Charisma Under Visual Effects: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/phony-review-hulu-connie-britton-1236914281/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:15:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736096",
-      "title": "David Ellison, Dina Powell McCormick, Chris Winfrey and Roger Lynch Join Paley Center Board",
-      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-dina-powell-mccormick-join-paley-center-board-1236736096/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:17:36+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736092",
-      "title": "Christina Applegate Reveals She Was Misdiagnosed and Does Not Have MS: \u201cI Haven\u2019t Gotten Better \u2026 I\u2019m Back at Square One\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/christina-applegate-misdiagnosed-ms-podcast-1236736092/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:04:42+00:00"
-    },
-    {
-      "guid": "aCo9DnHL3mKVPqSWvr3shP",
-      "title": "The GMKTec K8 Plus holds its own on the mini PC price battlefield, but I'd add a WiFi card to that cart as well",
-      "url": "https://www.gamesradar.com/hardware/desktop-pc/gmktec-k8-plus-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:18:48+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124833",
-      "title": "Review: Nintendo Switch Sports Resort Marks the Return of a Staple",
-      "url": "https://www.siliconera.com/review-nintendo-switch-sports-resort-marks-the-return-of-a-staple/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124991",
-      "title": "Review: I Didn\u2019t Want Final Fantasy Resonance to End",
-      "url": "https://www.siliconera.com/review-i-didnt-want-final-fantasy-resonance-to-end/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:01:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085357",
-      "title": "Palworld update \u2018Side by Side\u2019 launches this winter",
-      "url": "https://www.gematsu.com/2026/10/palworld-update-side-by-side-launches-this-winter",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:23:41+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085353",
-      "title": "Ys VIII: Lacrimosa of DANA coming to Switch 2 on February 25, 2027",
-      "url": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:14:26+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760780",
-      "title": "Former Valorant Director Says Path of Exile Is the \u201cMost Freeform\u201d ARPG for Buildcrafting After Logging 3,437 Hours",
-      "url": "https://otakukart.com/former-valorant-director-says-path-of-exile-is-the-most-freeform-arpg-for-buildcrafting-after-logging-3437-hours/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:15:27+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760803",
-      "title": "Wuxiaworld Founder Ren Buys Back Platform From Tapas as 2027 Shutdown Looms, Plans Cost Cuts and New Novel Licenses",
-      "url": "https://otakukart.com/wuxiaworld-founder-ren-buys-back-web-novel-platform-from-tapas-amid-shutdown-plans/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:12:32+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760779",
-      "title": "Former Capcom Manager Reveals The Last of Us Inspired Resident Evil 7\u2019s Early Versions as Developers Sought Critical Acclaim and Deeper Storytelling",
-      "url": "https://otakukart.com/former-capcom-manager-reveals-the-last-of-us-inspired-resident-evil-7s-early-versions-as-developers-sought-critical-acclaim-and-deeper-storytelling/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:02:26+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760793",
-      "title": "Can Love Save Me? Japanese Developer Hikisann Launches Steam Page for New Angel-Themed Visual Novel",
-      "url": "https://otakukart.com/can-love-save-me-japanese-developer-hikisann-launches-steam-page-for-new-angel-themed-visual-novel/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:01:41+00:00"
-    },
-    {
-      "guid": "t3_1xarotm",
-      "title": "It seems like Sony acquired the Kena IP (and potentially Ember Lab as well)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xarotm/it_seems_like_sony_acquired_the_kena_ip_and/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:08:09+00:00"
-    },
-    {
-      "guid": "t3_1xas06l",
-      "title": "Small insider update on the Lord of the Rings game and Kingdom Come spin-off",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xas06l/small_insider_update_on_the_lord_of_the_rings/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:21:50+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000747672",
-      "title": "Masahiro Sakurai Says Gaming Needs Originality Or It \u2018Will Die Slowly\u2019",
-      "url": "https://kotaku.com/masahiro-sakurai-says-gaming-needs-originality-or-it-will-die-slowly-2000747672",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:30:38+00:00"
-    },
     {
       "guid": "VeCPQtyZy8ESkdBtXUyr7Q",
       "title": "I'm not sure if the Steam Frame hits any corners in this bouncing screensaver, but maybe if I watch long enough the headset will come down in price",
@@ -1262,30 +1110,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-20T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917359",
-      "title": "Palestinian Filmmaker Rakan Mayasi on His Search for Unconventional Stories and Portraying \u2018Communities That Have Not Been on Film Before\u2019",
-      "url": "https://variety.com/2026/film/global/rakan-mayasi-yesterday-the-eye-didnt-sleep-1236917359/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:31:49+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917004",
-      "title": "Guillermo del Toro Tears Up as He Says \u2018We\u2019re Handing Down a World in Ruins\u2019: \u2018It Pains Me Deeply to See Three Generations Fail the Next\u2019",
-      "url": "https://variety.com/2026/film/global/guillermo-del-toro-pans-labyrinth-morelia-film-festival-1236917004/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:30:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916991",
-      "title": "Meet Kate DePetro, Fox News\u2019 Social-Media Ambassador to Younger Viewers",
-      "url": "https://variety.com/2026/tv/news/kate-depetro-fox-news-social-media-ambassador-young-viewers-1236916991/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T13:30:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236735554",
@@ -1352,28 +1176,12 @@
       "published_dt": "2026-10-20T13:50:20+00:00"
     },
     {
-      "guid": "https://www.pushsquare.com/#article-207876",
-      "title": "PS Store Must Copy Steam If PC Players' Campaign Against AI Content Succeeds",
-      "url": "https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:30:00+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1125126",
       "title": "LA Umamusume Concerts Canceled Over US Visa Issues",
       "url": "https://www.siliconera.com/la-umamusume-concerts-canceled-over-us-visa-issues/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-20T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207825",
-      "title": "SiN: Reloaded Is Getting a Physical Edition on PS5 from Limited Run Games",
-      "url": "https://www.timeextension.com/news/2026/10/sin-reloaded-is-getting-a-physical-edition-on-ps5-from-limited-run-games",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T13:30:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1760794",
@@ -2308,6 +2116,150 @@
       "title": "D&D: Five Campaign Start Premises That Are Almost Guaranteed To Break Your Heart",
       "url": "https://www.belloflostsouls.net/2026/10/dd-five-campaign-start-premises-that-are-almost-guaranteed-to-break-your-heart.html",
       "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "guid": "2ce4085e-7dc8-4afa-b54a-664ea38e7ce7",
+      "title": "DayZ Badlands Collector's Vinyl Box Set Available Exclusively at IGN Store",
+      "url": "https://www.ign.com/articles/dayz-badlands-collectors-vinyl-box-set-ign-store",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "guid": "ffe20b75-9210-444a-8c36-7e7cc6c3dc61",
+      "title": "\u2018It Represents an Evolution of the First-Person Shooter\u2019 \u2014 Why Infinity Ward Is Giving Extraction Shooters Another Shot in Modern Warfare 4\u2019s DMZ Mode",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-dmz-extraction-shooter",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748003",
+      "title": "Marvel Rivals\u2019 New Mode Lets You Reenact Avengers: Endgame\u2019s Final Battle With 50 Players",
+      "url": "https://kotaku.com/marvel-rivals-avengers-endgame-mode-thanos-iron-man-2000748003",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:20:08+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168782",
+      "title": "Haley Friedman Joins Linden Entertainment As Senior Digital Talent Manager",
+      "url": "https://deadline.com/2026/10/haley-friedman-joins-linden-entertainment-1237168782/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:30:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168709",
+      "title": "Sundance Institute Appoints Tracy Brady As Chief Marketing, Brand And Communications Officer",
+      "url": "https://deadline.com/2026/10/tracy-brady-joins-sundance-institute-marketing-communications-1237168709/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168727",
+      "title": "Broadway Contributed $21 Billion To New York City Economy Last Season Even As Production Costs Soared, According To New League Report",
+      "url": "https://deadline.com/2026/10/broadway-league-annual-report-economy-production-costs-1237168727/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:15:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168735",
+      "title": "Comedian Ali Siddiq Extends The Custom Fit Tour With More Arena Shows, Radio City Music Hall Stop",
+      "url": "https://deadline.com/2026/10/ali-siddiq-sets-tour-dates-2027-new-special-1237168735/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:13:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168734",
+      "title": "Andrew Garfield To Receive Santa Barbara Film Festival\u2019s Maltin Modern Master Award",
+      "url": "https://deadline.com/2026/10/andrew-garfield-santa-barbara-film-festival-maltin-award-1237168734/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:11:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917653",
+      "title": "Sundance Hires Tracy Brady as Marketing, Communications Chief",
+      "url": "https://variety.com/2026/film/news/tracy-brady-sundance-marketing-communications-chief-1236917653/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917571",
+      "title": "Mariah Carey Wins Dismissal of Brother\u2019s Defamation Suit Over Memoir",
+      "url": "https://variety.com/2026/music/news/mariah-carey-defamation-morgan-brother-memoir-1236917571/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:21:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917746",
+      "title": "Andrew Garfield to Be Honored at Santa Barbara Film Festival",
+      "url": "https://variety.com/2026/awards/news/andrew-garfield-santa-barbara-film-festival-1236917746/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736309",
+      "title": "Sundance Institute Taps Tracy Brady for Chief Marketing, Brand and Communications Role",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sundance-institute-tracy-brady-chief-marketing-communications-1236736309/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736336",
+      "title": "Dua Lipa, Amy Poehler, Bowen Yang and More Come Out For \u2018Lincoln in the Bardo\u2019 Opera World Premiere",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/dua-lipa-amy-poehler-bowen-yang-lincoln-in-the-bardo-opera-1236736336/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:23:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736132",
+      "title": "Katt Williams Was Sure He\u2019d Be Dead by Now",
+      "url": "https://www.hollywoodreporter.com/news/general-news/katt-williams-memoir-podcast-1236736132/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:15:33+00:00"
+    },
+    {
+      "guid": "XmLiazCKgcgXFcUrYJ6eza",
+      "title": "Another PS5 jailbreak has seemingly arrived ahead of GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/another-ps5-jailbreak-has-seemingly-arrived-ahead-of-gta-6-and-sony-and-rockstars-worst-nightmare-could-be-on-the-horizon/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T17:02:53+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207607",
+      "title": "Impressions: Call Of Duty: Modern Warfare 4 DMZ - CoD's Extraction Shooter Mode Hits The Target",
+      "url": "https://www.nintendolife.com/previews/impressions-call-of-duty-modern-warfare-4-dmz-cods-extraction-shooter-mode-hits-the-target",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207899",
+      "title": "Free Fallout 4 DLC Sees Modders Bring Back Original Voice Actors for a Spooky Adventure on PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/free-fallout-4-dlc-sees-modders-bring-back-original-voice-actors-for-a-spooky-adventure-on-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207896",
+      "title": "'Campaign Is Easily Top Three': Modern Warfare 4's Early User Reviews Are Shockingly Positive",
+      "url": "https://www.pushsquare.com/news/2026/10/campaign-is-easily-top-three-modern-warfare-4s-early-user-reviews-are-shockingly-positive",
+      "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-20T17:00:00+00:00"
     }
