@@ -1060,118 +1060,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000747356",
-      "title": "Voice Of Goku Responds To AI Stealing Her Voice: \u2018I can\u2019t Forgive Them\u2026It Makes Me Really Angry, It\u2019s No Different Than Theft\u2019",
-      "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T21:30:50+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168068",
-      "title": "Ex-UTA Agent Dante DeSario Launches Collage, A Management Firm For AI-Native Production",
-      "url": "https://deadline.com/2026/10/uta-agent-dante-desario-launches-collage-ai-management-firm-1237168068/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T21:23:54+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916776",
-      "title": "Role Model Shouts Out Jake Shane and Renee Rapp, Channels Chuck Timely on Final North American Tour Date: Concert Report",
-      "url": "https://variety.com/2026/music/news/role-model-jake-shane-renee-rapp-concert-report-1236916776/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T21:37:29+00:00"
-    },
-    {
-      "guid": "TonLzN9eLMyQYBNMpzBybi",
-      "title": "I've been covering MMOs for 13 years, and this is by far the most disgusting grind I've ever seen",
-      "url": "https://www.gamesradar.com/games/mmo/ive-been-covering-mmos-for-13-years-and-this-is-by-far-the-most-disgusting-grind-ive-ever-seen-someone-complete/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-19T21:18:05+00:00"
-    },
-    {
-      "guid": "YGgkGVcRTjMFRAmEPe7vf6",
-      "title": "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'",
-      "url": "https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T23:33:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168179",
-      "title": "\u2018Friday Night Lights\u2019 Stars Hit The Field For James Talarico\u2019s Smashmouth Attempt To Score Texas Senate Race Win",
-      "url": "https://deadline.com/2026/10/james-talaricos-friday-night-lights-ad-midterms-1237168179/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T23:37:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168161",
-      "title": "\u2018The Gilded Age\u2019: 2 Supporting Characters Not Returning For Season 4",
-      "url": "https://deadline.com/2026/10/the-gilded-age-characters-not-returning-season-4-1237168161/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T23:36:29+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916117",
-      "title": "Tim O\u2019Donnell, Veteran TV Comedy Writer-Director Known for \u2018Growing Pains\u2019 and \u2018Dave\u2019s World,\u2019 Dies at 77",
-      "url": "https://variety.com/2026/tv/news/tim-odonnell-dead-77-writer-growing-pains-daves-world-1236916117/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T23:56:09+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735846",
-      "title": "How to Stream San Antonio Spurs 2026-27 NBA Season Games With DAZN",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/stream-san-antonio-spurs-2026-27-nba-games-dazn-free-trial-1236735846/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T23:55:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735886",
-      "title": "Fox Corp. Top Lawyer Adam Ciongoli Stepping Down",
-      "url": "https://www.hollywoodreporter.com/business/business-news/fox-corp-top-lawyer-adam-ciongoli-stepping-down-1236735886/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T23:44:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735778",
-      "title": "Dwayne Johnson Reveals \u2018Jumanji: Open World\u2019 New Look Ahead of Holiday Release: \u201cOne Final Game\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jumanji-open-world-poster-dwayne-johnson-jack-black-release-1236735778/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-19T23:31:14+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168258",
-      "title": "Disney Appoints Carol Choi As Asia Pacific President Following Luke Kang\u2019s Retirement",
-      "url": "https://deadline.com/2026/10/disney-carol-choi-luke-kang-asia-pacific-1237168258/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T00:25:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168250",
-      "title": "Rita Wilson Teases Return In Lena Dunham\u2019s \u2018Girls\u2019 Revival On HBO: \u201cI Would Do Anything For Her\u201d",
-      "url": "https://deadline.com/2026/10/rita-wilson-return-lena-dunham-girls-revival-hbo-1237168250/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T00:15:05+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237167973",
-      "title": "\u2018Lizard Music\u2019 Starring Dwayne Johnson And Directed By Benny Safdie To Tune Up Christmas Day 2027 Via Amazon MGM",
-      "url": "https://deadline.com/2026/10/dwayne-johnson-lizard-music-release-date-1237167973/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T00:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236916933",
       "title": "Why Netflix Fired Dan Lin (and the Truth About His Tension With Greta Gerwig Over \u2018Narnia\u2019)",
       "url": "https://variety.com/2026/film/news/netflix-fired-dan-lin-greta-gerwig-narnia-tensions-1236916933/",
@@ -1188,28 +1076,28 @@
       "published_dt": "2026-10-20T00:31:50+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735722",
-      "title": "\u2018Phony\u2019 Review: Connie Britton and Sam Nivola Lead Hulu\u2019s Likably Quirky and Beguiling Paranoid Mystery Series",
-      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/phony-review-connie-britton-sam-nivola-hulu-1236735722/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T00:27:03+00:00"
-    },
-    {
-      "guid": "dafXGwZVysHG6KMp57x3Ac",
-      "title": "Red Dead Redemption 2 gets a Shadow of Mordor-style nemesis system in massive new mod",
-      "url": "https://www.gamesradar.com/games/red-dead/red-dead-redemption-2-gets-a-shadow-of-mordor-style-nemesis-system-in-massive-new-mod-where-everyone-you-cross-in-the-west-can-become-your-nemesis/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T00:11:07+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237168277",
       "title": "Awards Go To \u2018Mayilaa,\u2019 \u2018The Gymnasts Of Fisherman Colony\u2019 And More At Seattle\u2019s Tasveer film Festival",
       "url": "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-20T00:43:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917177",
+      "title": "Jon Stewart Jokes Skydance Has \u2018Pulled Our Renewal\u2019 Before Slamming JD Vance, Trump and Emmanuel Macron",
+      "url": "https://variety.com/2026/tv/news/jon-stewart-jokes-skydance-has-pulled-our-renewal-j-d-vance-1236917177/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T04:06:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735969",
+      "title": "Ann Hornaday, Longtime Washington Post Film Critic, Dies at 66",
+      "url": "https://www.hollywoodreporter.com/news/general-news/ann-hornaday-washington-post-film-critic-dead-at-66-1236735969/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T04:01:41+00:00"
     }
   ]
 }
