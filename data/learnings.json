@@ -1057,140 +1057,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
-      "title": "Ex-Call of Duty designer \"who survived the crunch\" in order to launch Black Ops 1 & 2 calls out executives \"raking it in\" from sales of remasters",
-      "url": "https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T15:45:04+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168607",
-      "title": "\u2018You Can See Everything\u2019 Wins Monday With $2.5M+; Can Nathan Fielder & Elizabeth Holmes Melt \u2018Clayface\u2019 This Weekend?",
-      "url": "https://deadline.com/2026/10/you-can-see-everything-clayface-box-office-1237168607/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T15:48:28+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917594",
-      "title": "\u2018Mayor of Kingstown\u2019 Season 5 Drops Release Date and First Look Photos at Jeremy Renner\u2019s Final Episodes",
-      "url": "https://variety.com/2026/tv/news/mayor-of-kingstown-season-5-release-date-first-look-photos-1236917594/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T15:50:19+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085412",
-      "title": "DERELIKT launches November 13 for PC, later for PS5 and Xbox Series",
-      "url": "https://www.gematsu.com/2026/10/derelikt-launches-november-13-for-pc-later-for-ps5-and-xbox-series",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T15:41:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168630",
-      "title": "WGA East Is Trying To Help Writers Make Their Work \u201cUnreadable\u201d To AI Models",
-      "url": "https://deadline.com/2026/10/wga-east-ai-software-protect-writing-cloak-1237168630/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917194",
-      "title": "Shaquille O\u2019Neal\u2019s Advice for NBA Phenom Victor Wembanyama: \u2018Be Meaner\u2019",
-      "url": "https://variety.com/2026/sports/news/shaquille-o-neal-nba-victor-wembanyama-meaner-1236917194/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917428",
-      "title": "WGA East Strikes Deal With Cloak to Safeguard Screenplays from AI Scraping",
-      "url": "https://variety.com/2026/biz/news/wgae-strikes-deal-with-cloak-safeguard-scripts-ai-scraping-1236917428/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916975",
-      "title": "JustWatch TV Launches With Content Partners Including Cineverse and Altitude for New AVOD Streaming Service",
-      "url": "https://variety.com/2026/streaming/news/justwatch-tv-avod-launch-content-partners-1236916975/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916683",
-      "title": "Daniel Kaluuya to Star in \u2018Purpose\u2019 Playwright Branden Jacobs-Jenkins\u2019 Next Show \u2018Grass\u2019",
-      "url": "https://variety.com/2026/film/news/daniel-kaluuya-grass-branden-jacobs-jenkins-play-1236916683/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735917",
-      "title": "Writers Guild East Inks Deal With AI-Shielding Software Company",
-      "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-east-deal-ai-shielding-software-1236735917/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735461",
-      "title": "Daniel Kaluuya to Make U.S. Stage Debut in New Branden Jacobs-Jenkins Play",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/daniel-kaluuya-to-make-u-s-stage-debut-in-new-branden-jacobs-jenkins-play-1236735461/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236734043",
-      "title": "Rita Moreno to Be Honored at Carlos Eric Lopez\u2019s D\u00eda de Muertos Gala; Guitarricadelafuente to Perform",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/rita-moreno-carlos-eric-lopez-dia-de-muertos-gala-2026-1236734043/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1125129",
-      "title": "Sekhmet and Zoe Win 2026 Palworld Characters Popularity Poll",
-      "url": "https://www.siliconera.com/sekhmet-and-zoe-win-2026-palworld-characters-popularity-poll/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085417",
-      "title": "AMD FSR Upscaling 4.1 coming to Xbox Series; FSR Diamond coming to Project Helix",
-      "url": "https://www.gematsu.com/2026/10/amd-fsr-upscaling-4-1-coming-to-xbox-series-fsr-diamond-coming-to-project-helix",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T15:53:51+00:00"
-    },
-    {
-      "guid": "662d01c8-9799-42ab-a4c9-bdd77f332255",
-      "title": "Magic: The Gathering\u2019s Star Trek Booster Box Just Dropped To Its Lowest Price Ever",
-      "url": "https://www.ign.com/articles/magic-the-gathering-star-trek-booster-box-lowest-price-ever",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T15:57:19+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000747980",
       "title": "Nikki From Obsession Coming To Fortnite Is The Endgame Of People Not Getting It",
       "url": "https://kotaku.com/obsession-nikki-fortnite-universal-studios-inde-navarrette-2000747980",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-10-20T16:19:51+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000747941",
-      "title": "Cyberpunk\u2019s Trading Card Game Is Getting An Edgerunners Set, And We Have An Exclusive Card Reveal",
-      "url": "https://kotaku.com/cyberpunk-tcg-trading-card-game-edgerunners-cards-release-date-2000747941",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:22+00:00"
     },
     {
       "guid": "HS2rJCTo8iT9ZZpuDJPuYA",
@@ -1241,44 +1113,12 @@
       "published_dt": "2026-10-20T16:06:03+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237168596",
-      "title": "Chris Rock, Quinta Brunson, Jaafar Jackson, Chiwetel Ejiofor Among Honorees For 9th Critics Choice Celebration Of Black Cinema & TV",
-      "url": "https://deadline.com/2026/10/celebration-of-black-cinema-television-honorees-2026-1237168596/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168168",
-      "title": "Nick Kroll To Host & EP Amazon\u2019s \u2018LOL: Last One Laughing\u2019",
-      "url": "https://deadline.com/2026/10/nick-kroll-to-host-amazon-lol-last-one-laughing-1237168168/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236917330",
       "title": "\u2018Only What We Carry\u2019 Team Sets Offbeat Family Drama \u2018Trafalgar,\u2019 Starring Fanny Ardant, Danny Huston (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/global/only-what-we-carry-trafalgar-fanny-ardant-danny-huston-1236917330/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-20T16:10:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917375",
-      "title": "\u2018MobLand\u2019 Actor Mandeep Dhillon to Star in Self-Written Short \u2018The Things I Want to Do to You\u2019 Alongside Golda Rosheuvel and Scott Karim (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/mobland-mandeep-dhillon-short-golda-rosheuvel-scott-karim-1236917375/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917457",
-      "title": "\u2018Deadstream\u2019 Directors Joseph and Vanessa Winter to Helm Horror Movie \u2018Future Me\u2019 as Longevity Pictures, Spooky Pictures and Image Nation Studios Ink Multi-Picture Deal (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/deadstream-directors-joseph-vanessa-winter-future-me-1236917457/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T16:00:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236736259",
@@ -1313,52 +1153,12 @@
       "published_dt": "2026-10-20T16:05:49+00:00"
     },
     {
-      "guid": "cQzpesDUvYQ8gkdAvok3y6",
-      "title": "Anime Dimensions Simulator codes (October 2026) and how to redeem them for Gems, Raid Tokens, and Boosts",
-      "url": "https://www.gamesradar.com/games/rpg/anime-dimensions-simulator-codes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T16:00:22+00:00"
-    },
-    {
       "guid": "1926683",
       "title": "Xbox Game Pass\u2019s Newest Wave Is Headlined By A Huge Final Fantasy Adventure",
       "url": "https://www.gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-20T16:12:33+00:00"
-    },
-    {
-      "guid": "1926692",
-      "title": "Here\u2019s An Exclusive Look At How Cyberpunk: Edgerunners\u2019 Cast Will Look In The Hit Trading Card Game",
-      "url": "https://www.gamespot.com/articles/heres-an-exclusive-look-at-how-cyberpunk-edgerunners-cast-will-look-in-the-hit-trading-card-game/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207892",
-      "title": "Ready To Feel Old? The Switch 1 Reveal Trailer Launched A Whopping 10 Years Ago Today",
-      "url": "https://www.nintendolife.com/news/2026/10/ready-to-feel-old-the-switch-1-reveal-trailer-launched-a-whopping-10-years-ago-today",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207893",
-      "title": "The Best Dead Space Can Get Now Is a Crossover in a Different Game",
-      "url": "https://www.pushsquare.com/news/2026/10/the-best-dead-space-can-get-now-is-a-crossover-in-a-different-game",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207872",
-      "title": "How Many ZX Spectrum Heroes Can You Name in This Fun Cycle of 8-Bit Superstars?",
-      "url": "https://www.timeextension.com/news/2026/10/how-many-zx-spectrum-heroes-can-you-name-in-this-fun-cycle-of-8-bit-superstars",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T16:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1085424",
@@ -2167,6 +1967,78 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-20T19:31:18+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748041",
+      "title": "A Big Overhaul Of Xbox Game Pass Is In The Works",
+      "url": "https://kotaku.com/a-big-overhaul-of-xbox-game-pass-is-in-the-works-2000748041",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T19:52:34+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168879",
+      "title": "\u2018American Horror Story\u2019 Renewed For Season 14 At FX",
+      "url": "https://deadline.com/2026/10/american-horror-story-renewed-season-14-fx-1237168879/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T20:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168885",
+      "title": "In NBA First, Atlanta Hawks Full Regular Season To Stream On Prime Video In Parallel With Local TV",
+      "url": "https://deadline.com/2026/10/nba-atlanta-hawks-full-regular-season-streaming-on-prime-video-1237168885/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T19:46:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917945",
+      "title": "Keanu Reeves in Talks to Star in James Wan\u2019s \u2018The Gangster, The Cop, The Devil\u2019 at Paramount",
+      "url": "https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T19:48:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917946",
+      "title": "Andy Cohen Celebrates 20 Years of \u2018Real Housewives\u2019 With New Book Featuring 600 Never-Before-Seen Photos and Behind-the-Scenes Stories",
+      "url": "https://variety.com/2026/shopping/news/andy-cohen-bravo-book-real-housewives-20-year-anniversary-1236917946/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T19:44:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736606",
+      "title": "\u2018American Horror Story\u2019 Scores Season 14 Renewal at FX",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/american-horror-story-renewed-season-14-fx-1236736606/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T20:00:00+00:00"
+    },
+    {
+      "guid": "wxqEfUdiCyVUzcyefQsbr8",
+      "title": "Nintendo \"clearly revised\" its messaging on discs following PlayStation mess, says ex-marketing lead",
+      "url": "https://www.gamesradar.com/games/nintendo-clearly-revised-its-messaging-on-physical-media-following-playstation-debacle-says-ex-marketing-lead/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T19:56:53+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207907",
+      "title": "Worried About PS6 Price? Next Xbox Could Be as Much as $1,800",
+      "url": "https://www.pushsquare.com/news/2026/10/worried-about-ps6-price-next-xbox-could-be-as-much-as-usd1800",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T20:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760813",
+      "title": "IVE Debuts \u201cLooks Can Kill\u201d Live at Spotify DIVE ACADEMY Ahead of October 26 EP Release",
+      "url": "https://otakukart.com/ive-debuts-looks-can-kill-live-at-spotify-dive-academy-ahead-of-october-26-ep-release/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T19:41:23+00:00"
     }
   ]
 }
