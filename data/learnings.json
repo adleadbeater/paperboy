@@ -1072,62 +1072,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237168349",
-      "title": "Netflix\u2019s Jinny Howe Restructures UCAN Scripted Operation By Genre, Ups Cole Galvin To VP",
-      "url": "https://deadline.com/2026/10/netflix-jinny-howe-restructuring-ucan-scripted-cole-galvin-1237168349/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T14:05:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917439",
-      "title": "Cleo Sol Announces First-Ever North American Arena Tour Dates",
-      "url": "https://variety.com/2026/music/news/cleo-sol-gentlewoman-north-american-arena-tour-dates-1236917439/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T14:19:51+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736114",
-      "title": "Parke\u2019s Cult-Favorite Sweatshirt Gets Acid Washed for Halloween",
-      "url": "https://www.hollywoodreporter.com/lifestyle/shopping/parke-halloween-2026-release-acid-wash-mockneck-sweatshirt-1236736114/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T14:08:16+00:00"
-    },
-    {
-      "guid": "oXzWBaEep6yctWX7MA3vhF",
-      "title": "Clayface director says he \"didn't have to worry about any concerns for a greater universe\"",
-      "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-director-says-he-didnt-have-to-worry-about-any-concerns-for-a-greater-universe-in-conversations-with-james-gunn-and-matt-reeves/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T14:17:11+00:00"
-    },
-    {
-      "guid": "nxDAT9jfVbKTPn7TKDdfJa",
-      "title": "Apple's new Pokemon edition Beats Pill has reignited my appreciation of wireless Bluetooth speakers",
-      "url": "https://www.gamesradar.com/hardware/speakers-audio/apples-new-pokemon-edition-beats-pill-has-reignited-my-appreciation-of-wireless-bluetooth-speakers/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T14:14:32+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760760",
-      "title": "Tomb Raider: Legacy of Atlantis Director Says Remake Must Preserve the Original Game\u2019s Most Emotional Moments Almost Untouched",
-      "url": "https://otakukart.com/tomb-raider-legacy-of-atlantis-director-says-remake-must-preserve-the-original-games-most-emotional-moments-almost-untouched/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T14:10:14+00:00"
-    },
-    {
-      "guid": "t3_1xatln0",
-      "title": "Cyberpunk 2077 Patch 2.50 Content revealed early by YouTuber Was Nemo",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xatln0/cyberpunk_2077_patch_250_content_revealed_early/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T14:27:21+00:00"
-    },
-    {
       "guid": "ZTKM9cAikMrMf7qnXhRqWK",
       "title": "Of course a new Edgerunners series means a new Cyberpunk 2077 patch",
       "url": "https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/",
@@ -1262,22 +1206,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-20T14:33:25+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207882",
-      "title": "Mortal Shell 2 Gets Even Better in Big Free Content Patch, Live Now on PS5",
-      "url": "https://www.pushsquare.com/news/2026/10/mortal-shell-2-gets-even-better-in-big-free-content-patch-live-now-on-ps5",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T14:30:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-207879",
-      "title": "Former MotoGP Rider Sells Sega Shadow the Hedgehog 'Dark Rider' Bike, Raises $279,000 for Charity",
-      "url": "https://www.timeextension.com/news/2026/10/former-motogp-rider-sells-sega-shadow-the-hedgehog-dark-rider-bike-raises-usd279000-for-charity",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-20T14:30:00+00:00"
     },
     {
       "guid": "https://www.enworld.org/threads/now-live-o%C9%B4%E1%B4%87q%E1%B4%9C%E1%B4%87s%E1%B4%9Bs-two-interactive-solo-survival-games.721031/",
@@ -2190,6 +2118,142 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-20T18:00:11+00:00"
+    },
+    {
+      "guid": "559bc736-1949-49f2-b540-5133cb0048c7",
+      "title": "The Clash Royale Board Game Reaches Its Crowdfunding Goal in Less Than an Hour",
+      "url": "https://www.ign.com/articles/the-clash-royale-board-game-reaches-its-crowdfunding-goal-in-less-than-an-hour",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T17:59:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000747929",
+      "title": "Magic: The Gathering\u2019s Star Trek Set Is Gargantuan\u2014Check Out Brand New Card Arts",
+      "url": "https://kotaku.com/magic-the-gathering-star-trek-card-art-commander-picard-spock-2000747929",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:00:48+00:00"
+    },
+    {
+      "guid": "QuhXHv5unctiNignjTyWQj",
+      "title": "Helldivers 2 studio warns mods may break as it switches to new anti-cheat, and the negative reviews are dropping on Steam like Hellbombs",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/helldivers-2-studio-warns-mods-may-break-as-it-switches-to-new-anti-cheat-and-the-negative-reviews-are-dropping-on-steam-like-hellbombs/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:19:34+00:00"
+    },
+    {
+      "guid": "v7MMYHJzVaruwkLpSXHDch",
+      "title": "I played 20 cozy game demos in Steam Next Fest and these 5 made it onto my wishlist",
+      "url": "https://www.pcgamer.com/games/life-sim/i-played-20-cozy-game-demos-in-steam-next-fest-and-these-5-made-it-onto-my-wishlist/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:14:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168822",
+      "title": "Starz Is Back On Verizon Fios As Carriage Dispute Settled",
+      "url": "https://deadline.com/2026/10/starz-verizon-fios-settle-carriage-fight-1237168822/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:26:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168808",
+      "title": "Amazon MGM Studios Elevates Julie Rapaport & Alana Mayo In Film Division Reorg",
+      "url": "https://deadline.com/2026/10/amazon-mgm-studios-julie-rapaport-alana-mayo-film-heads-1237168808/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:13:15+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236748421",
+      "title": "Everything We Know About \u2018The Gilded Age\u2019 Season 4 So Far",
+      "url": "https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:06:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917824",
+      "title": "Lionsgate Stock Jumps on Report Legendary Entertainment Has Submitted New $3.5 Billion Takeover Offer",
+      "url": "https://variety.com/2026/film/news/lionsgate-stock-legendary-entertainment-acquisition-offer-1236917824/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:10:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917825",
+      "title": "David Fincher Cut 60 Pages of Tarantino\u2019s \u2018Cliff Booth\u2019 Script: \u2018The First Draft Was 230 Pages. It Was Essentially Two Movies\u2019",
+      "url": "https://variety.com/2026/film/news/david-fincher-cut-tarantino-cliff-booth-script-60-pages-1236917825/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:04:05+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917826",
+      "title": "Alana Mayo Promoted to Head of Film, Production & Development Alongside Julie Rapaport at Amazon MGM Studios",
+      "url": "https://variety.com/2026/film/news/amazon-mgm-julie-rapaport-alana-mayo-heads-of-film-production-development-1236917826/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:02:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736414",
+      "title": "Legendary Heats Up Bid to Nab Lionsgate",
+      "url": "https://www.hollywoodreporter.com/business/business-news/legendary-lionsgate-1236736414/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T18:28:04+00:00"
+    },
+    {
+      "guid": "1926792",
+      "title": "Here Are The Mechanics and Dozens Of New Cards From Magic: The Gathering\u2019s Star Trek Set",
+      "url": "https://www.gamespot.com/articles/here-are-the-mechanics-and-dozens-of-new-cards-from-magic-the-gatherings-star-trek-set/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207891",
+      "title": "Round Up: The Reviews Are In For Nintendo Switch Sports Resort",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-nintendo-switch-sports-resort",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207901",
+      "title": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
+      "url": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085390",
+      "title": "Mouthwashing coming to PS5, Xbox Series, PS4, and Switch on October 29",
+      "url": "https://www.gematsu.com/2026/10/mouthwashing-coming-to-ps5-xbox-series-ps4-and-switch-on-october-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T17:59:07+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=623176",
+      "title": "RPG: Sword World Gets Its First Ever English Release With A Million-Dollar BackerKit Campaign",
+      "url": "https://www.belloflostsouls.net/2026/10/rpg-sword-world-gets-its-first-ever-english-release-with-a-million-dollar-backerkit-campaign.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T18:04:45+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/conquest-weaver-courts-wyrd-knights-and-fianna-cavalry-model-review/",
+      "title": "Conquest: Weaver Courts Wyrd Knights and Fianna Cavalry Model Review",
+      "url": "https://www.tabletopbattles.com/conquest-weaver-courts-wyrd-knights-and-fianna-cavalry-model-review/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T18:00:10+00:00"
     }
   ]
 }
