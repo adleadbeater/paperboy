@@ -1060,28 +1060,140 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236917177",
-      "title": "Jon Stewart Jokes Skydance Has \u2018Pulled Our Renewal\u2019 Before Slamming JD Vance, Trump and Emmanuel Macron",
-      "url": "https://variety.com/2026/tv/news/jon-stewart-jokes-skydance-has-pulled-our-renewal-j-d-vance-1236917177/",
+      "guid": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
+      "title": "People who've finished Call of Duty: Modern Warfare 4 on the new YOLO, single-life difficulty share experiences and tips for doing so",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-finish-yolo-campaign-difficulty",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T12:57:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167379",
+      "title": "BBC Three To Be Switched Off For Second Time, As BBC Confirms TV & Radio Network Closures",
+      "url": "https://deadline.com/2026/10/bbc-tv-network-closures-bbc-three-1237167379/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:00:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168457",
+      "title": "BBC News Slashing 100 Jobs: \u201cThis Will Be Very Difficult For Those Affected\u201d",
+      "url": "https://deadline.com/2026/10/bbc-news-cutting-100-jobs-1237168457/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T12:53:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168455",
+      "title": "Italian Prioduction Shoots Get U.S. Backing With $112M One Media Capital Fund",
+      "url": "https://deadline.com/2026/10/italy-film-tv-fund-launches-mia-market-1237168455/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T12:44:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168099",
+      "title": "Tilda Swinton Sets New York Stage Debut In \u2018Man To Man\u2019 This Winter",
+      "url": "https://deadline.com/2026/10/tilda-swinton-off-broadway-man-to-man-1237168099/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T12:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168241",
+      "title": "Lin-Manuel Miranda\u2019s \u2018Warriors\u2019 Broadway Cast To Include Casey Likes, Amber Gray & Jasmine Cephas Jones; Opening Date, Venue Announced",
+      "url": "https://deadline.com/2026/10/warriors-broadway-casey-likes-amber-gray-jasmine-cephas-jones-1237168241/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T12:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917249",
+      "title": "LuckyChap International Hires Experienced Searchlight Exec Katie Goodson-Thomas as President of Film",
+      "url": "https://variety.com/2026/film/global/luckychap-international-katie-goodson-thomas-president-film-1236917249/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-20T04:06:35+00:00"
+      "published_dt": "2026-10-20T13:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735969",
-      "title": "Ann Hornaday, Longtime Washington Post Film Critic, Dies at 66",
-      "url": "https://www.hollywoodreporter.com/news/general-news/ann-hornaday-washington-post-film-critic-dead-at-66-1236735969/",
+      "guid": "https://variety.com/?p=1236916968",
+      "title": "Skydance Boss David Ellison, New Mattel CEO Roger Lynch Join Paley Center\u2019s Board of Trustees (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/paley-center-david-ellison-skydance-board-of-trustees-1236916968/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917352",
+      "title": "Prince Harry Opens Up About Move Back to England and Wanting to \u2018Work It Out\u2019 With King Charles and Prince William: \u2018The Most Important Thing Is to Reconcile\u2019",
+      "url": "https://variety.com/2026/tv/global/prince-harry-england-move-reconcile-william-charles-1236917352/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T12:37:11+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916824",
+      "title": "Lin-Manuel Miranda\u2019s \u2018Warriors\u2019 Sets Broadway Cast",
+      "url": "https://variety.com/2026/film/news/lin-manuel-miranda-warriors-broadway-cast-1236916824/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736089",
+      "title": "U2 to Headline Halftime Show on Netflix\u2019s Thanksgiving Eve NFL Game",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/u2-halftime-show-netflix-thanksgiving-eve-nfl-game-1236736089/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-20T04:01:41+00:00"
+      "published_dt": "2026-10-20T12:57:51+00:00"
     },
     {
-      "guid": "t3_1xajbqt",
-      "title": "More leaks about doa7",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xajbqt/more_leaks_about_doa7/",
-      "source_name": "Reddit GamingLeaks",
+      "guid": "WndA8ZnhLYY99ZauPUXVDh",
+      "title": "The Evercade Nexus is Blaze's best retro handheld yet, but I wouldn't compare the physical cartridge champion to similarly priced rivals",
+      "url": "https://www.gamesradar.com/hardware/retro/evercade-nexus-review/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-10-20T05:05:22+00:00"
+      "published_dt": "2026-10-20T12:28:03+00:00"
+    },
+    {
+      "guid": "1926693",
+      "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
+      "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T12:51:41+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207861",
+      "title": "Rumour: Iconic RPG Vampire: The Masquerade - Bloodlines Is Being Remastered",
+      "url": "https://www.pushsquare.com/news/2026/10/rumour-iconic-rpg-vampire-the-masquerade-bloodlines-is-being-remastered",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207866",
+      "title": "Infested DX, a Callback to Classic DOS Horror Graphic Adventures, Is Coming to Steam Next Week",
+      "url": "https://www.timeextension.com/news/2026/10/infested-dx-a-callback-to-classic-dos-horror-graphic-adventures-is-coming-to-steam-next-week",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T12:30:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760767",
+      "title": "One Piece Manga Launches in Arabic for the First Time With Over 100 Chapters Available",
+      "url": "https://otakukart.com/one-piece-manga-launches-in-arabic-for-the-first-time-with-over-100-chapters-available/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T12:51:38+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760769",
+      "title": "\u201cIt Had To Reinvent Itself\u201d \u2013 Dan Houser Says GTA 4 Became Darker Because Rockstar Believed San Andreas Had Taken the Series\u2019 \u201cPop\u201d Style as Far as It Could Go",
+      "url": "https://otakukart.com/it-had-to-reinvent-itself-dan-houser-says-gta-4-became-darker-because-rockstar-believed-san-andreas-had-taken-the-series-pop-style-as-far-as-it-could-go/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T12:41:40+00:00"
     }
   ]
 }
