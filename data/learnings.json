@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Mick Gordon Is Taking His Doom Concert Tour on the Road",
-      "tag": "doom",
-      "posted_at": "2026-10-13T02:10:12.037275+00:00",
-      "urls": [
-        "https://www.ign.com/articles/mick-gordon-plans-to-take-his-upcoming-doom-concert-performance-on-the-road"
-      ],
-      "article_titles": [
-        "Mick Gordon Plans to Take His Upcoming Doom Concert Performance On the Road"
-      ]
-    },
-    {
-      "headline": "Sony Announces Midnight Black PS5 at a Lower Price Point \u2014 But It's Japan-Only for Now",
-      "tag": "playstation 5",
-      "posted_at": "2026-10-13T11:31:06.588659+00:00",
-      "urls": [
-        "https://www.gamesradar.com/hardware/sony-announces-cheaper-midnight-black-ps5-to-launch-alongside-gta-6-its-just-a-shame-we-wont-be-able-to-buy-it/",
-        "https://www.pushsquare.com/news/2026/10/sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive-for-now"
-      ],
-      "article_titles": [
-        "Sony announces cheaper Midnight Black PS5 to launch alongside GTA 6, it's just a shame we won't be able to buy it",
-        "Sony Reveals Slick Midnight Black PS5 Model, But It's a Japan Exclusive for Now"
-      ]
-    },
-    {
       "headline": "AMD Already Raising GDDR6 Prices \u2014 GPU Costs Could Climb Even Higher",
       "tag": "amd",
       "posted_at": "2026-10-13T15:01:17.376340+00:00",
@@ -1054,6 +1030,34 @@
       "article_titles": [
         "Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'"
       ]
+    },
+    {
+      "headline": "Helldivers 2 Ditches GameGuard for Easy Anti-Cheat After Admitting It \"Wasn't Effective\"",
+      "tag": "helldivers 2",
+      "posted_at": "2026-10-20T13:31:26.115747+00:00",
+      "urls": [
+        "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard"
+      ],
+      "article_titles": [
+        "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\""
+      ]
+    },
+    {
+      "headline": "Final Fantasy Resonance Reviews Are Sharply Divided \u2014 From Comfort Food to Genuine Praise",
+      "tag": "final fantasy resonance",
+      "posted_at": "2026-10-20T13:31:26.208934+00:00",
+      "urls": [
+        "https://www.ign.com/articles/final-fantasy-resonance-review",
+        "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599",
+        "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-review/",
+        "https://www.siliconera.com/review-i-didnt-want-final-fantasy-resonance-to-end/"
+      ],
+      "article_titles": [
+        "Final Fantasy Resonance Review",
+        "Final Fantasy Resonance Feels Like Comfort Food, But I Want Cuisine",
+        "Final Fantasy Resonance review: \"A breezy nostalgia-laced JRPG that gives the HD-2D style a shot in the arm\"",
+        "Review: I Didn\u2019t Want Final Fantasy Resonance to End"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1194,6 +1198,198 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-20T12:41:40+00:00"
+    },
+    {
+      "guid": "b9cf7c3f-4b6c-41e3-9673-2be4cea0bdda",
+      "title": "Capturing Bigfoot Review",
+      "url": "https://www.ign.com/articles/capturing-bigfoot-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:00:00+00:00"
+    },
+    {
+      "guid": "903732d0-acd8-46c3-889f-fe170fe0273e",
+      "title": "Final Fantasy Resonance Review",
+      "url": "https://www.ign.com/articles/final-fantasy-resonance-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:00:00+00:00"
+    },
+    {
+      "guid": "3806b872-e143-4fea-9121-093d6f16817d",
+      "title": "Nintendo Switch Sports Resort Review",
+      "url": "https://www.ign.com/articles/nintendo-switch-sports-resort-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+      "title": "Helldivers 2 swaps over to Easy anti-cheat, with developers admitting Gameguard \"wasn't as effective as it could have been\"",
+      "url": "https://www.eurogamer.net/helldivers-2-easy-anti-cheat-switch-game-guard",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:13:19+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000747931",
+      "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
+      "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:09:52+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000747599",
+      "title": "Final Fantasy Resonance Feels Like Comfort Food, But I Want Cuisine",
+      "url": "https://kotaku.com/final-fantasy-resonance-brave-exvius-review-rpg-square-enix-2000747599",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168470",
+      "title": "U2 Set For Haltime Performance During Netflix\u2019s Thanksgiving Eve NFL Broadcast",
+      "url": "https://deadline.com/2026/10/u2-netflix-thanksgiving-eve-nfl-1237168470/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:04:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917382",
+      "title": "BBC Three Among Linear Services Set to Close as Broadcaster Looks for Savings",
+      "url": "https://variety.com/2026/tv/global/bbc-three-linear-close-savings-1236917382/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:20:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236914281",
+      "title": "Hulu\u2019s Mother-Son Mystery \u2018Phony\u2019 Mutes Connie Britton\u2019s Charisma Under Visual Effects: TV Review",
+      "url": "https://variety.com/2026/tv/reviews/phony-review-hulu-connie-britton-1236914281/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736096",
+      "title": "David Ellison, Dina Powell McCormick, Chris Winfrey and Roger Lynch Join Paley Center Board",
+      "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-dina-powell-mccormick-join-paley-center-board-1236736096/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:17:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736092",
+      "title": "Christina Applegate Reveals She Was Misdiagnosed and Does Not Have MS: \u201cI Haven\u2019t Gotten Better \u2026 I\u2019m Back at Square One\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/christina-applegate-misdiagnosed-ms-podcast-1236736092/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:04:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735323",
+      "title": "Snap Enlists Robert Downey Jr. to Push Specs",
+      "url": "https://www.hollywoodreporter.com/business/digital/snaps-specs-hire-robert-downey-jr-ad-campaign-1236735323/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T13:00:00+00:00"
+    },
+    {
+      "guid": "aCo9DnHL3mKVPqSWvr3shP",
+      "title": "The GMKTec K8 Plus holds its own on the mini PC price battlefield, but I'd add a WiFi card to that cart as well",
+      "url": "https://www.gamesradar.com/hardware/desktop-pc/gmktec-k8-plus-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:18:48+00:00"
+    },
+    {
+      "guid": "XbVpkxCR8CQjdjD7MStrFm",
+      "title": "Final Fantasy Resonance review: \"A breezy nostalgia-laced JRPG that gives the HD-2D style a shot in the arm\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124833",
+      "title": "Review: Nintendo Switch Sports Resort Marks the Return of a Staple",
+      "url": "https://www.siliconera.com/review-nintendo-switch-sports-resort-marks-the-return-of-a-staple/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124991",
+      "title": "Review: I Didn\u2019t Want Final Fantasy Resonance to End",
+      "url": "https://www.siliconera.com/review-i-didnt-want-final-fantasy-resonance-to-end/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:01:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085357",
+      "title": "Palworld update \u2018Side by Side\u2019 launches this winter",
+      "url": "https://www.gematsu.com/2026/10/palworld-update-side-by-side-launches-this-winter",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:23:41+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085353",
+      "title": "Ys VIII: Lacrimosa of DANA coming to Switch 2 on February 25, 2027",
+      "url": "https://www.gematsu.com/2026/10/ys-viii-lacrimosa-of-dana-coming-to-switch-2-on-february-25-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:14:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760780",
+      "title": "Former Valorant Director Says Path of Exile Is the \u201cMost Freeform\u201d ARPG for Buildcrafting After Logging 3,437 Hours",
+      "url": "https://otakukart.com/former-valorant-director-says-path-of-exile-is-the-most-freeform-arpg-for-buildcrafting-after-logging-3437-hours/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:15:27+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760803",
+      "title": "Wuxiaworld Founder Ren Buys Back Platform From Tapas as 2027 Shutdown Looms, Plans Cost Cuts and New Novel Licenses",
+      "url": "https://otakukart.com/wuxiaworld-founder-ren-buys-back-web-novel-platform-from-tapas-amid-shutdown-plans/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:12:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760779",
+      "title": "Former Capcom Manager Reveals The Last of Us Inspired Resident Evil 7\u2019s Early Versions as Developers Sought Critical Acclaim and Deeper Storytelling",
+      "url": "https://otakukart.com/former-capcom-manager-reveals-the-last-of-us-inspired-resident-evil-7s-early-versions-as-developers-sought-critical-acclaim-and-deeper-storytelling/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:02:26+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760793",
+      "title": "Can Love Save Me? Japanese Developer Hikisann Launches Steam Page for New Angel-Themed Visual Novel",
+      "url": "https://otakukart.com/can-love-save-me-japanese-developer-hikisann-launches-steam-page-for-new-angel-themed-visual-novel/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:01:41+00:00"
+    },
+    {
+      "guid": "t3_1xarotm",
+      "title": "It seems like Sony acquired the Kena IP (and potentially Ember Lab as well)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xarotm/it_seems_like_sony_acquired_the_kena_ip_and/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:08:09+00:00"
+    },
+    {
+      "guid": "t3_1xas06l",
+      "title": "Small insider update on the Lord of the Rings game and Kingdom Come spin-off",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xas06l/small_insider_update_on_the_lord_of_the_rings/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T13:21:50+00:00"
     }
   ]
 }
