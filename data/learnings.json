@@ -1060,30 +1060,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236916933",
-      "title": "Why Netflix Fired Dan Lin (and the Truth About His Tension With Greta Gerwig Over \u2018Narnia\u2019)",
-      "url": "https://variety.com/2026/film/news/netflix-fired-dan-lin-greta-gerwig-narnia-tensions-1236916933/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T00:31:27+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236735912",
-      "title": "Disney Names Carol Choi President of Asia-Pacific as Luke Kang Retires",
-      "url": "https://www.hollywoodreporter.com/business/business-news/disney-carol-choi-president-asia-pacific-luke-kang-retires-1236735912/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T00:31:50+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168277",
-      "title": "Awards Go To \u2018Mayilaa,\u2019 \u2018The Gymnasts Of Fisherman Colony\u2019 And More At Seattle\u2019s Tasveer film Festival",
-      "url": "https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T00:43:53+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236917177",
       "title": "Jon Stewart Jokes Skydance Has \u2018Pulled Our Renewal\u2019 Before Slamming JD Vance, Trump and Emmanuel Macron",
       "url": "https://variety.com/2026/tv/news/jon-stewart-jokes-skydance-has-pulled-our-renewal-j-d-vance-1236917177/",
@@ -1098,6 +1074,14 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-20T04:01:41+00:00"
+    },
+    {
+      "guid": "t3_1xajbqt",
+      "title": "More leaks about doa7",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xajbqt/more_leaks_about_doa7/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T05:05:22+00:00"
     }
   ]
 }
