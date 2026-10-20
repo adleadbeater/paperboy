@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "AMD Already Raising GDDR6 Prices \u2014 GPU Costs Could Climb Even Higher",
-      "tag": "amd",
-      "posted_at": "2026-10-13T15:01:17.376340+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/"
-      ],
-      "article_titles": [
-        "AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red"
-      ]
-    },
-    {
-      "headline": "Sifu Is Now Out on Mobile \u2014 The Brutal Kung Fu Game Arrives on Android and iOS",
-      "tag": "sifu",
-      "posted_at": "2026-10-13T15:01:17.516869+00:00",
-      "urls": [
-        "https://www.eurogamer.net/sifu-mobile-release-android-ios"
-      ],
-      "article_titles": [
-        "Sifu, the singular kung fu action game, is out now on Android and iOS"
-      ]
-    },
-    {
-      "headline": "Xbox CEO Asha Sharma Reportedly Warned 'We Will Not Survive' Without New IPs Amid Ongoing Layoffs",
-      "tag": "xbox",
-      "posted_at": "2026-10-13T15:31:10.679487+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/hundreds-of-layoffs-and-many-cancelled-projects-later-xbox-ceo-asha-sharma-reportedly-says-we-will-not-survive-without-new-ips/"
-      ],
-      "article_titles": [
-        "Hundreds of layoffs and many cancelled projects later, Xbox CEO Asha Sharma reportedly says 'we will not survive' without new IPs"
-      ]
-    },
-    {
       "headline": "Korra Voice Actor \"Sobbed\" Over Her Character's Treatment in Avatar: Seven Havens",
       "tag": "avatar: seven havens",
       "posted_at": "2026-10-13T16:01:11.661898+00:00",
@@ -1108,6 +1075,17 @@
       "article_titles": [
         "Microsoft won't like this open source project to get Game Pass working on SteamOS and Linux, but I think it's pretty neat"
       ]
+    },
+    {
+      "headline": "Steam Deck 2 May Be Coming: Alleged Chip Benchmarks Surface With Final Fantasy-Themed Codename",
+      "tag": "steam deck",
+      "posted_at": "2026-10-20T15:31:30.772466+00:00",
+      "urls": [
+        "https://www.ign.com/articles/potential-steam-deck-2-chip-shows-up-in-leaked-benchmarks-yet-another-potential-final-fantasy-themed-codename"
+      ],
+      "article_titles": [
+        "Potential Steam Deck 2 Chip Shows Up in Leaked Benchmarks, Yet Another Potential Final Fantasy-Themed Codename"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1848,6 +1826,174 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-10-20T15:00:00+00:00"
+    },
+    {
+      "guid": "ef6aeb2f-cbb3-4992-ae3c-67d87a19cf36",
+      "title": "Modern Warfare 4 Rescues The Reboot Series By Replicating Call of Duty\u2019s Greatest Era",
+      "url": "https://www.ign.com/articles/modern-warfare-4-rescues-the-reboot-series-by-replicating-call-of-dutys-greatest-era",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:00:00+00:00"
+    },
+    {
+      "guid": "a8679453-14a3-4507-8842-c3f59fff83bf",
+      "title": "Razer Announces Xbox 25th Anniversary Collection of Peripherals for Xbox Series X|S and PC",
+      "url": "https://www.ign.com/articles/razer-announces-xbox-25th-anniversary-collection-of-peripherals-for-xbox-series-xs-and-pc",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:00:00+00:00"
+    },
+    {
+      "guid": "bd14551c-f448-4b47-8ee2-3708a9056616",
+      "title": "Potential Steam Deck 2 Chip Shows Up in Leaked Benchmarks, Yet Another Potential Final Fantasy-Themed Codename",
+      "url": "https://www.ign.com/articles/potential-steam-deck-2-chip-shows-up-in-leaked-benchmarks-yet-another-potential-final-fantasy-themed-codename",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T14:56:01+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000747935",
+      "title": "Xbox Reportedly Emailing Users To \u2018Trade In Your Console To Best Buy\u2019",
+      "url": "https://kotaku.com/xbox-reportedly-emailing-users-to-trade-in-your-console-to-best-buy-2000747935",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000747683",
+      "title": "Umamusume: Pretty Derby Maker Cygames Wants To Release Three Games Per Year Under New Small-Games Label",
+      "url": "https://kotaku.com/umamusume-pretty-derby-maker-cygames-wants-to-release-three-games-per-year-under-new-small-games-label-2000747683",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:00:45+00:00"
+    },
+    {
+      "guid": "5Erwy88jahCq6zjtNaudYe",
+      "title": "I have neither the budget nor the inclination for a crystal encrusted RTX 5090, but Galax is releasing one anyway",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/i-have-neither-the-budget-nor-the-inclination-for-a-crystal-encrusted-rtx-5090-but-galax-is-releasing-one-anyway/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:25:03+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168572",
+      "title": "Christina Applegate Reveals MS Misdiagnosis: \u201cI Am Back At Square One\u201d",
+      "url": "https://deadline.com/2026/10/christina-applegate-multiple-sclerosis-misdiagnosis-1237168572/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:16:02+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917400",
+      "title": "\u2018Sinners\u2019 Music Exhibition Opens at California African American Museum",
+      "url": "https://variety.com/2026/film/columns/sinners-music-exhibition-california-african-american-museum-1236917400/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917448",
+      "title": "Patrick Dempsey Signs With Gersh (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/patrick-dempsey-gersh-talent-agency-1236917448/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236734691",
+      "title": "Tatyana Ali on Honoring James Avery for \u2018DWTS\u2019 Dedication Night, Reading Fan Comments and Going Viral With Jan Ravnik",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/tatyana-ali-dwts-james-avery-fresh-prince-jan-ravnik-1236734691/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736072",
+      "title": "Russell Brand Trial: Three More Women Allege Assaults \u2014\u00a0\u201cI Was Literally Attacked at Work\u201d",
+      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-trial-rape-sexual-assault-women-court-latest-1236736072/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:10:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736206",
+      "title": "Jeremy Renner\u2019s \u2018Mayor of Kingstown\u2019 Gets a Season 5 Update",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/mayor-of-kingstown-season-5-date-1236736206/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:03:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735986",
+      "title": "\u2018Klara and the Sun\u2019 Review: Jenna Ortega and Amy Adams Should Have Insisted on a Factory Reset for Taika Waititi\u2019s Cloying, Clumsy AI Fable",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/klara-and-the-sun-review-jenna-ortega-taika-waititi-1236735986/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:00:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236735869",
+      "title": "Lou Diamond Phillips Set For Lifetime Achievement Award From Red Nation International Film Festival",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/red-nation-international-film-festival-2026-schedule-honoree-1236735869/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-20T15:00:00+00:00"
+    },
+    {
+      "guid": "WQMvhj52AdFqeKRCLSDL8c",
+      "title": "All Roll a Stickman codes (October 2026) and how to redeem them for rolls and potions",
+      "url": "https://www.gamesradar.com/games/simulation/roll-a-stickman-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T15:25:09+00:00"
+    },
+    {
+      "guid": "pN7zcMZMQU2JLV2AtH8kjR",
+      "title": "The Legend of Zelda: Ocarina of Time remake file size is over 800 times larger than the N64 original",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-time-remake-file-size-is-over-800-times-larger-than-the-nintendo-64-original/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T15:17:18+00:00"
+    },
+    {
+      "guid": "4jguxa4MayzmU2u3PALU3n",
+      "title": "I'm too old for Fortnite, but even I can appreciate GameSir's new mobile controller designs",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/im-too-old-for-fortnite-but-even-i-can-appreciate-gamesirs-flashy-new-mobile-controller-designs-especially-the-translucent-ones/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T14:58:31+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207889",
+      "title": "Round Up: The Reviews Are In For Final Fantasy Resonance",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-are-in-for-final-fantasy-resonance",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207868",
+      "title": "Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T15:15:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125106",
+      "title": "Mister Donut Japan Reveals Winter 2026 Pokemon Donuts",
+      "url": "https://www.siliconera.com/mister-donut-japan-reveals-winter-2026-pokemon-donuts/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T15:00:17+00:00"
+    },
+    {
+      "guid": "t3_1xaupn0",
+      "title": "From onion site a dialogue GTA 6 final end",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xaupn0/from_onion_site_a_dialogue_gta_6_final_end/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-20T15:10:40+00:00"
     }
   ]
 }
