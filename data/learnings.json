@@ -1,43 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "PS Plus Game Catalog for October 2026 Revealed: Mafia: The Old Country and Tales of Arise Headline the Lineup",
-      "tag": "playstation plus",
-      "posted_at": "2026-10-14T16:01:32.975649+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/",
-        "https://www.gematsu.com/2026/10/playstation-plus-game-catalog-and-classics-catalog-lineup-for-october-2026-announced"
-      ],
-      "article_titles": [
-        "October\u2019s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise",
-        "PlayStation Plus Game Catalog and Classics Catalog lineup for October 2026 announced"
-      ]
-    },
-    {
-      "headline": "Metro 2039 Pre-Orders Go Live With DLC Confirmed \u2014 and That Collector's Edition Is Already Moving",
-      "tag": "metro 2039",
-      "posted_at": "2026-10-14T16:01:33.144683+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/fps/metro-2039-pre-orders-are-live-but-that-collectors-edition-is-moving-fast/",
-        "https://www.pushsquare.com/news/2026/10/metro-2039-dev-puts-ps5-pre-orders-live-and-confirms-dlc"
-      ],
-      "article_titles": [
-        "Metro 2039 pre-orders are live, but that Collector's Edition is moving fast",
-        "Metro 2039 Dev Puts PS5 Pre-Orders Live and Confirms DLC"
-      ]
-    },
-    {
-      "headline": "Magic: The Gathering's Lead Designer Responds to Product Fatigue \u2014 and the Community Isn't Buying It",
-      "tag": "magic: the gathering",
-      "posted_at": "2026-10-14T16:01:33.333373+00:00",
-      "urls": [
-        "https://www.ign.com/articles/magic-the-gathering-designers-response-to-product-fatigue-sparks-debate-about-the-deluge-of-new-cards"
-      ],
-      "article_titles": [
-        "Magic: The Gathering Designer's Response to Product Fatigue Sparks Debate About the Deluge of New Cards"
-      ]
-    },
-    {
       "headline": "Microsoft Announces the Xbox Nano Controller",
       "tag": "xbox",
       "posted_at": "2026-10-14T16:31:09.341755+00:00",
@@ -904,6 +867,39 @@
         "Of Course Pok\u00e9mon\u2019s Been Pulled Into The AI Decompilation Frenzy",
         "Of Course Pok\u00e9mon\u2019s Been Pulled Into The AI Decompilation Frenzy"
       ]
+    },
+    {
+      "headline": "Beyond Good & Evil 2 Is Reportedly Still Alive \u2014 and Now a Solo-First Adventure",
+      "tag": "beyond good & evil 2",
+      "posted_at": "2026-10-21T16:11:19.209866+00:00",
+      "urls": [
+        "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft"
+      ],
+      "article_titles": [
+        "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure now"
+      ]
+    },
+    {
+      "headline": "Multiple Pok\u00e9mon Apps Taken Offline Following PHP Cyber Attack Fears",
+      "tag": "pok\u00e9mon",
+      "posted_at": "2026-10-21T16:11:19.425035+00:00",
+      "urls": [
+        "https://kotaku.com/pokemon-home-sleep-champions-offline-php-cyber-attack-2000748338"
+      ],
+      "article_titles": [
+        "Multiple Pok\u00e9mon Apps Taken Offline Over PHP Cyber Attack Fears"
+      ]
+    },
+    {
+      "headline": "Oni Press Announces New Adventure Time: Fionna & Cake Comic Spinoff Series",
+      "tag": "adventure time",
+      "posted_at": "2026-10-21T16:11:19.617590+00:00",
+      "urls": [
+        "https://www.ign.com/articles/oni-press-reveals-new-adventure-time-fionna-cake-spinoff-series"
+      ],
+      "article_titles": [
+        "Oni Press Reveals New Adventure Time: Fionna & Cake Spinoff Series"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1652,6 +1648,166 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-21T15:53:27+00:00"
+    },
+    {
+      "guid": "005717c7-c3a5-4a14-a560-355a06a40337",
+      "title": "Everything Coming to Cyberpunk 2077 With the 2.5 Update, Including New Side Quests, New Double Trouble Perk, and Much More",
+      "url": "https://www.ign.com/articles/everything-coming-to-cyberpunk-2077-with-the-25-update-including-new-side-quests-new-double-trouble-perk-and-much-more",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:38+00:00"
+    },
+    {
+      "guid": "3f854d0a-afe2-4b5b-89ab-4782e25d258e",
+      "title": "Exclusive \u2014 See 7 New Cards From Magic: The Gathering Star Trek, Including 1 That Remembers the Most Iconic Drink of TNG",
+      "url": "https://www.ign.com/articles/exclusive-see-7-new-cards-from-magic-the-gathering-star-trek-including-1-that-remembers-the-most-iconic-drink-of-tng",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "66eedc59-7058-41e8-bdf7-d97b3308b09e",
+      "title": "Oni Press Reveals New Adventure Time: Fionna & Cake Spinoff Series",
+      "url": "https://www.ign.com/articles/oni-press-reveals-new-adventure-time-fionna-cake-spinoff-series",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
+      "title": "CD Projekt Red details new Cyberpunk 2077 update - adding dual-wielding, cross-platform mods, Edgerunners story quests, and more",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-update-edgerunners-2-mod-support",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:03:54+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
+      "title": "Beyond Good & Evil 2 reportedly still in development 18 years after being announced, now a \"solo-first\" adventure now",
+      "url": "https://www.eurogamer.net/beyond-good-and-evil-bge2-report-ubisoft",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:01:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748338",
+      "title": "Multiple Pok\u00e9mon Apps Taken Offline Over PHP Cyber Attack Fears",
+      "url": "https://kotaku.com/pokemon-home-sleep-champions-offline-php-cyber-attack-2000748338",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:48+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169649",
+      "title": "John Malone Says Trump Administration Told Netflix They Had \u201cNo Chance\u201d Of Getting Regulatory Greenlight For Merger With Warner Bros. Discovery",
+      "url": "https://deadline.com/2026/10/john-malone-trump-netflix-warner-bros-discovery-1237169649/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:04:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169272",
+      "title": "Adam McKay & Woody Harrelson Team For Darkly Comic \u201cExxon El Ni\u00f1o Commercial\u201d",
+      "url": "https://deadline.com/2026/10/adam-mckay-woody-harrelson-exxon-el-nino-commercial-1237169272/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169652",
+      "title": "E!\u2019s \u2018The Golden Life\u2019 To Stream On Hulu As Versant Strikes Licensing Agreement",
+      "url": "https://deadline.com/2026/10/the-golden-life-streaming-hulu-versant-1237169652/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237168857",
+      "title": "Image Nation Studios, Spooky Pictures And Made By Us Studios Partner To Launch Creator-First Horror Label Made By Spooky",
+      "url": "https://deadline.com/2026/10/made-by-spooky-creator-first-horror-label-1237168857/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918516",
+      "title": "Thirty Tigers President David Macias Previews His First Book, \u2018Circulation,\u2019 a Look at What Gets Lost When the Algorithm Dominates Music Consumption (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/david-macias-thirty-tigers-book-music-circulation-algorithm-1236918516/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:01:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918806",
+      "title": "E!\u2019s \u2018The Golden Life\u2019 to Stream on Hulu in November",
+      "url": "https://variety.com/2026/tv/news/the-golden-life-streaming-hulu-1236918806/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918183",
+      "title": "Hulu\u2019s \u2018The Circle\u2019 Revival Sets SiriusXM\u2019s Tinx as Host (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/tinx-host-the-circle-hulu-revival-1236918183/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737341",
+      "title": "Paul Mescal, Daisy Edgar-Jones Back \u2018Normal People\u2019 Author Sally Rooney After U.K. Book Ban Over Palestine Support",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/paul-mescal-daisy-edgar-jones-sally-rooney-palestine-letter-1236737341/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:05:14+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733921",
+      "title": "\u2018Daredevil: Born Again\u2019 Star Wilson Bethel Takes on Dark Romance Role in Quinn\u2019s Audio Erotica \u2018The Dead End Diner\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/wilson-bethel-narrate-quinn-audio-erotica-1236733921/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736479",
+      "title": "How Porn Blazed the Trail for the Creator Economy",
+      "url": "https://www.hollywoodreporter.com/business/digital/how-porn-trail-creator-economy-1236736479/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236733831",
+      "title": "UTA\u2019s Blair Kohan and Nick and Vaughan Meyer to Be Honored by Big Brothers Big Sisters of Greater L.A.",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/big-brothers-big-sisters-greater-la-fundraiser-2026-1236733831/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736475",
+      "title": "The Creator A-List: The 25 Influencers Who Matter Most to Hollywood",
+      "url": "https://www.hollywoodreporter.com/business/digital/the-creator-a-list-2026-influencers-hollywood-1236736475/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "Rs8RPxpx2JSMTJtkAa3zEm",
+      "title": "Resident Evil Requiem's physical PS5 sales were nearly twice as large as its total Xbox sales, analyst finds",
+      "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiems-physical-ps5-sales-were-nearly-twice-as-large-as-its-total-xbox-sales-analyst-finds/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T16:00:06+00:00"
+    },
+    {
+      "guid": "iLbYAgmb2rt6p7BrJW3zS5",
+      "title": "Don't call the new Diablo board game a dungeon crawler, it's a \"dungeon battler\" with fighting and loot all the way down",
+      "url": "https://www.gamesradar.com/games/board-games/dont-call-the-new-diablo-board-game-a-dungeon-crawler-its-a-dungeon-battler-with-fighting-and-loot-all-the-way-down/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T16:00:00+00:00"
     }
   ]
 }
