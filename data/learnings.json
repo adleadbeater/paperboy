@@ -913,6 +913,17 @@
       "article_titles": [
         "Pok\u00e9mon Is Finally Opening Official Stores Outside Of Asia, Starting With London"
       ]
+    },
+    {
+      "headline": "Xbox Is Bringing AMD FSR 4.1 to Series X/S for Better Graphics and Performance",
+      "tag": "xbox",
+      "posted_at": "2026-10-21T14:31:14.208760+00:00",
+      "urls": [
+        "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling"
+      ],
+      "article_titles": [
+        "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1125,6 +1136,198 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-21T13:50:32+00:00"
+    },
+    {
+      "guid": "c0a07ec9-574f-4cdf-b50e-eca57c5e6ccf",
+      "title": "Dragon Ball Xenoverse 3 Spices Up Anime Fighters With the Soul Switching Mechanic | IGN Preview",
+      "url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-spices-up-anime-fighters-with-the-soul-switching-mechanic-ign-preview",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "guid": "ad6d54de-72ab-4446-b60f-94f6a7eb8da4",
+      "title": "Stranger Than Heaven: The Final Preview of the Yakuza Team\u2019s Ambitious, Decades-Spanning Action-Adventure",
+      "url": "https://www.ign.com/articles/stranger-than-heaven-the-final-preview-of-the-yakuza-teams-ambitious-decades-spanning-action-adventure",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
+      "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
+      "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:13:43+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237165652",
+      "title": "How The Associated Press Will Be At The Center Of The Midterms\u2019 Election-Night Results",
+      "url": "https://deadline.com/2026/10/associated-press-midterms-results-data-1237165652/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:29:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169586",
+      "title": "\u2018Dune: Part Three\u2019 Smashes BFI Imax Record With 33,000 Admissions Sold In First 24 Hours",
+      "url": "https://deadline.com/2026/10/dune-part-three-smashes-bfi-imax-record-ticket-sales-1237169586/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:15:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916876",
+      "title": "Gay Bodybuilder Romance \u2018Test\u2019 Acquired by Dark Star Pictures (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/columns/gay-bodybuilder-romance-test-acquired-dark-star-pictures-1236916876/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917173",
+      "title": "Larry David Participated in a Biography. Does He Regret It?",
+      "url": "https://variety.com/2026/tv/news/larry-david-biography-regret-1236917173/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918630",
+      "title": "Sharjah Film Festival Expands Opportunities for Young Filmmakers: \u2018There Is No Shortage of Talent\u2019",
+      "url": "https://variety.com/2026/film/global/sharjah-film-festival-young-filmmakers-industry-1236918630/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918656",
+      "title": "Warner Music Group Combines Music and Publishing Sync Operations",
+      "url": "https://variety.com/2026/music/news/warner-music-combines-music-publishing-sync-operations-1236918656/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:27:48+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917997",
+      "title": "Empire Founder Ghazi Launches Supply Chain, New Rights Management/ Distribution Company for Independent Music",
+      "url": "https://variety.com/2026/music/news/empire-ghazi-launches-supply-chain-rights-management-distribution-1236917997/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737241",
+      "title": "\u2018Dune: Part Three\u2019 Smashes \u2018Odyssey\u2019 Presale Record at London\u2019s BFI IMAX",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/dune-part-three-bfi-imax-ticket-presale-record-odyssey-film-1236737241/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:28:09+00:00"
+    },
+    {
+      "guid": "mnMcgL8hueuCyqKHPsJjAF",
+      "title": "Candy Kingdom Defense codes (October 2026) and how to redeem them for Gems, Trait Crystals, and more",
+      "url": "https://www.gamesradar.com/games/strategy/candy-kingdom-defense-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:10:50+00:00"
+    },
+    {
+      "guid": "A6xpdUcx4sSTxmEBd5at7S",
+      "title": "Backlash to Sony ending PS5 discs comes from a \"vocal minority of a revenue minority,\" analyst says",
+      "url": "https://www.gamesradar.com/games/backlash-to-sony-ending-ps5-discs-comes-from-a-vocal-minority-of-a-revenue-minority-analyst-says-but-thats-still-a-community-that-spends-a-lot-of-money/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:04:29+00:00"
+    },
+    {
+      "guid": "RXJnBUffPciuAQMYUMycrT",
+      "title": "Clayface director didn't want to reference Batman as the film is like how \"Joker is the story of one person in Gotham\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-director-didnt-want-to-reference-batman-because-the-dc-horror-is-like-how-joker-is-the-story-of-one-person-in-gotham/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:02:01+00:00"
+    },
+    {
+      "guid": "q2bUPEDJwjfC5NDqE6iYZB",
+      "title": "I'm not surprised by how much Yakuza DNA is in Stranger Than Heaven, but I am shocked by how much I love it",
+      "url": "https://www.gamesradar.com/games/action-rpg/im-not-surprised-by-how-much-yakuza-dna-is-in-stranger-than-heaven-but-i-am-shocked-by-how-much-i-love-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "guid": "1928109",
+      "title": "Halo 3 Looks Like It Could Come To Browsers Via Xbox Labs",
+      "url": "https://www.gamespot.com/articles/halo-3-looks-like-it-could-come-to-browsers-via-xbox-labs/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T13:56:38+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207946",
+      "title": "A Permanent Pok\u00e9mon Store Is Finally Coming To London",
+      "url": "https://www.nintendolife.com/news/2026/10/a-permanent-pokemon-store-is-finally-coming-to-london",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207854",
+      "title": "Preview: 3 Hours with Stranger Than Heaven Left Me Partly Convinced, Partly Concerned, and Craving Gyudon",
+      "url": "https://www.pushsquare.com/previews/3-hours-with-stranger-than-heaven-left-me-partly-convinced-partly-concerned-and-craving-gyudon",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207927",
+      "title": "Thin End of the Wedge: Steam Next Fest Under Fire as Demo Festival Drowns in a Flood of 'AI Slop'",
+      "url": "https://www.timeextension.com/news/2026/10/thin-end-of-the-wedge-steam-next-fest-under-fire-as-demo-festival-drowns-in-a-flood-of-ai-slop",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085629",
+      "title": "LET IT DIE: INFERNO demo now available",
+      "url": "https://www.gematsu.com/2026/10/let-it-die-inferno-demo-now-available",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:12:54+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085606",
+      "title": "RV There Yet? for PS5 launches October 29",
+      "url": "https://www.gematsu.com/2026/10/rv-there-yet-for-ps5-launches-october-29",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:08:47+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760916",
+      "title": "Go, Go, Loser Ranger! Manga Goes on Hiatus Again as Creator Negi Haruba Faces Health Issues",
+      "url": "https://otakukart.com/go-go-loser-ranger-manga-goes-on-hiatus-again-as-creator-negi-haruba-faces-health-issues/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:26:24+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760911",
+      "title": "One Piece Mugiwara Store Says U.S. Debut Is Set for November 6 in Los Angeles With Exclusive Anime Merchandise",
+      "url": "https://otakukart.com/one-piece-mugiwara-store-says-u-s-debut-is-set-for-november-6-in-los-angeles-with-exclusive-anime-merchandise/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:26:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760895",
+      "title": "Tegan Says \u201cDaydream\u201d Is About Imagining a Future With Someone Special as Hawaii-Born Singer Releases Second Solo Single",
+      "url": "https://otakukart.com/tegan-says-daydream-is-about-imagining-a-future-with-someone-special-as-hawaii-born-singer-releases-second-solo-single/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:12:34+00:00"
     }
   ]
 }
