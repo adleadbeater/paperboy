@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A GTA 6 Leaker Is Threatening Take-Two with a 'Dead Man's Switch' of Unreleased Material",
-      "tag": "gta 6",
-      "posted_at": "2026-10-14T19:01:09.399981+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/"
-      ],
-      "article_titles": [
-        "GTA 6 leaker threatens Take-Two with a 'dead man's switch'"
-      ]
-    },
-    {
-      "headline": "Carl from The Walking Dead Made a Resident Evil 7 Fan Film and It's Here",
-      "tag": "resident evil 7",
-      "posted_at": "2026-10-14T19:30:54.277749+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/10/video-the-walking-deads-chandler-riggs-stars-in-resident-evil-7-short-film",
-        "https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/"
-      ],
-      "article_titles": [
-        "Video: The Walking Dead's Chandler Riggs Stars In Resident Evil 7 Short Film",
-        "The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'"
-      ]
-    },
-    {
       "headline": "GTA 5 Is Being Removed From PlayStation Plus Just Before GTA VI Launches",
       "tag": "gta",
       "posted_at": "2026-10-14T20:15:52.205966+00:00",
@@ -940,99 +916,58 @@
         "Xbox Insiders Can Now Stream Games by Buying Cloud Playtime Without Game Pass, Introductory Launch Pricing Revealed",
         "Sony Said Xbox Game Pass Isn't Sustainable, Now It Seems the Gravy Train Is Almost Over"
       ]
+    },
+    {
+      "headline": "EA Cancels Unannounced Sims Project and Cuts Skate Team in 400-Person Layoff Wave",
+      "tag": "ea",
+      "posted_at": "2026-10-21T19:31:44.390236+00:00",
+      "urls": [
+        "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+        "https://kotaku.com/here-are-the-games-ea-says-it-will-still-make-amid-cancelations-and-400-layoffs-were-the-number-one-publisher-in-western-hd-gaming-2000748390",
+        "https://www.gamesradar.com/games/rpg/standing-on-biowares-grave-ea-says-we-should-be-proud-to-be-the-number-one-publisher-in-western-hd-gaming/"
+      ],
+      "article_titles": [
+        "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
+        "Here Are The Games EA Says It Will Still Make Amid Cancelations And 400 Layoffs: \u2018We\u2019re The Number One Publisher In Western HD Gaming\u2019",
+        "Standing on BioWare's grave, EA says \"we should be proud\" to be top \"publisher in Western HD gaming\""
+      ]
+    },
+    {
+      "headline": "A Dangerous PS5 Security Exploit So Bad Its Discoverer Sat on It \u2014 May Now Be Patched",
+      "tag": "playstation 5",
+      "posted_at": "2026-10-21T19:31:44.494078+00:00",
+      "urls": [
+        "https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354"
+      ],
+      "article_titles": [
+        "A PS5 Exploit So Bad The Hacker Who Discovered It Was Too Afraid To Release It May Have Just Been Patched"
+      ]
+    },
+    {
+      "headline": "Clayface Reviews Are In \u2014 DC's Body-Horror Origin Story Is a Bona Fide Delight",
+      "tag": "clayface",
+      "posted_at": "2026-10-21T19:31:44.580240+00:00",
+      "urls": [
+        "https://deadline.com/2026/10/clayface-review-dcu-batman-villain-origin-story-body-horror-1237169912/",
+        "https://variety.com/2026/film/news/clayface-review-1236918659/",
+        "https://www.hollywoodreporter.com/movies/movie-reviews/clayface-review-dc-batman-1236736489/",
+        "https://www.gamesradar.com/entertainment/dc-movies/clayface-review/",
+        "https://deadline.com/2026/10/clayface-review-dcu-batman-villain-origin-story-body-horror-1237169912/",
+        "https://www.hollywoodreporter.com/movies/movie-reviews/clayface-review-dc-batman-1236736489/"
+      ],
+      "article_titles": [
+        "\u2018Clayface\u2019 Review: DCU Molds Batman Villain\u2019s Origin Story Into Fun, Scary Body Horror",
+        "\u2018Clayface\u2019 Review: DC Comics Horror Movie Is Good, Gross Fun, With No Franchise Homework Required",
+        "\u2018Clayface\u2019 Review: DC Studios\u2019 Batman Villain Origin Story Is a Bona Fide Body-Horror Delight",
+        "Clayface review: \"Skin-deep thrills and spills mask an uneven DC horror\"",
+        "\u2018Clayface\u2019 Review: DCU Molds Batman Villain\u2019s Origin Story Into Fun, Scary Body Horror",
+        "\u2018Clayface\u2019 Review: DC Studios\u2019 Batman Villain Origin Story Is a Bona Fide Body-Horror Delight"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000748316",
-      "title": "Of Course Pok\u00e9mon\u2019s Been Pulled Into The AI Decompilation Frenzy",
-      "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:26:56+00:00"
-    },
-    {
-      "guid": "6F8Q4nJafMcqv2LiadmzyP",
-      "title": "'You've taken us free cash flow negative as a company, so congratulations': Amazon has plenty of Nvidia GPUs, but not enough energy to power its AI boom",
-      "url": "https://www.pcgamer.com/software/ai/youve-taken-us-free-cash-flow-negative-as-a-company-so-congratulations-amazon-has-plenty-of-nvidia-gpus-but-not-enough-energy-to-power-its-ai-boom/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:09:46+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237169619",
-      "title": "ProSiebenSat.1 Boss Marco Giordani Outlines Plan For Pan-European Streamer: \u201cWe Are Spending Less And Getting Better Tech\u201d",
-      "url": "https://deadline.com/2026/10/prosiebensat-1-boss-pan-european-streamer-plan-1237169619/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:20:32+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237169260",
-      "title": "Greenwich Entertainment Buys Philip Byron\u2019s \u2018Spin Wars\u2019",
-      "url": "https://deadline.com/2026/10/greenwich-entertainment-philip-byron-spin-wars-1237169260/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:04:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236918182",
-      "title": "Studiocanal\u2019s Sixth Dimension Sets Feature Adaptation of Horror Video Game \u2018The Headliners\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/studiocanals-sixth-dimension-the-headliners-movie-1236918182/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236918662",
-      "title": "Paul Mescal and Daisy Edgar-Jones Support \u2018Normal People\u2019 Author Sally Rooney After U.K. Bans Her Books: She\u2019s a \u2018Writer, Not a Terrorist\u2019",
-      "url": "https://variety.com/2026/tv/global/paul-mescal-daisy-edgar-jones-support-sally-rooney-book-ban-1236918662/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:06:50+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236917952",
-      "title": "Latino Film Institute Names Seventh Annual Inclusion Fellowship Cohort",
-      "url": "https://variety.com/2026/film/news/latino-film-institute-netflix-inclusion-fellowship-cohort-1236917952/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:02:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236918673",
-      "title": "\u2018My Brilliant Career\u2019 Star Philippa Northeast Replaces Quintessa Swindell in Netflix Drama \u2018Feral\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/philippa-northeast-replaces-quintessa-swindell-feral-netflix-1236918673/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T15:01:05+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207943",
-      "title": "Sony Said Xbox Game Pass Isn't Sustainable, Now It Seems the Gravy Train Is Almost Over",
-      "url": "https://www.pushsquare.com/news/2026/10/sony-said-xbox-game-pass-isnt-sustainable-now-it-seems-the-gravy-train-is-almost-over",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-21T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1125007",
-      "title": "Review: One Piece: Grand Gourmet Is a Classic Kairosoft Sim",
-      "url": "https://www.siliconera.com/review-one-piece-grand-gourmet-is-a-classic-kairosoft-sim/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-21T15:01:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085718",
-      "title": "CRYMELIGHT demo now available",
-      "url": "https://www.gematsu.com/2026/10/crymelight-demo-now-available",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-21T15:11:09+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
       "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
@@ -2176,6 +2111,182 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-21T18:34:02+00:00"
+    },
+    {
+      "guid": "84c1f222-f541-4c54-8944-5ff2acf7cf42",
+      "title": "Clayface Review",
+      "url": "https://www.ign.com/articles/clayface-movie-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:00:00+00:00"
+    },
+    {
+      "guid": "d831abdb-b140-46e7-904d-681fc1a3023a",
+      "title": "The Internet Reacts to the Cancelation of Mass Effect 5 and the Death of BioWare",
+      "url": "https://www.ign.com/articles/the-internet-reacts-to-the-cancelation-of-mass-effect-5-and-the-death-of-bioware",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T18:56:20+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "title": "EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: \"We're the number one publisher in Western HD gaming\"",
+      "url": "https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:01:46+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748436",
+      "title": "Xbox Reveals New Pricing Plans For Cloud Gaming",
+      "url": "https://kotaku.com/xbox-reveals-new-pricing-plans-for-cloud-gaming-2000748436",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:20:05+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748391",
+      "title": "The One Thing EA Has Always Been Good At Is Killing Video Game Studios",
+      "url": "https://kotaku.com/the-one-thing-ea-has-always-been-good-at-is-killing-video-game-studios-2000748391",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:00:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748354",
+      "title": "A PS5 Exploit So Bad The Hacker Who Discovered It Was Too Afraid To Release It May Have Just Been Patched",
+      "url": "https://kotaku.com/a-ps5-exploit-so-bad-the-hacker-who-discovered-it-was-too-afraid-to-release-it-may-have-just-been-patched-2000748354",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:00:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169913",
+      "title": "Kid Cudi To Direct, Write & Star In Basquiat Movie: :A Love Letter To Jean, The 80s & NY City\u201d",
+      "url": "https://deadline.com/2026/10/kid-cudi-basquiat-movie-1237169913/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:30:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169969",
+      "title": "Los Angeles On-Location Production Declines Again Even As California\u2019s Tax Incentive Heavily Backs Remaining Projects",
+      "url": "https://deadline.com/2026/10/los-angeles-production-days-decline-q3-2026-filmla-1237169969/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:27:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169587",
+      "title": "Paramount+ Lands \u2018Zero Hour\u2019 Sci-Fi Thriller Series From Matthew Michael Carnahan & AGBO For Development",
+      "url": "https://deadline.com/2026/10/zero-hour-paramount-plus-matthew-michael-carnahan-agbo-1237169587/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169872",
+      "title": "Tom Cruise To Receive 52nd AFI Life Achievement Award",
+      "url": "https://deadline.com/2026/10/tom-cruise-afi-life-achievement-award-1237169872/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918801",
+      "title": "\u2018ComicView: Rooftop Series\u2019 Renewed for Season 2 at BET (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/comicview-rooftop-series-renewed-season-2-bet-1236918801/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919156",
+      "title": "Poison Ivy DC Series in the Works at HBO With \u2018The Penguin\u2019 Exec Lauren LeFranc",
+      "url": "https://variety.com/2026/tv/news/poison-ivy-tv-show-hbo-dc-penguin-1236919156/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:24:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919006",
+      "title": "Anna Marsh on How Canal+ Group\u2019s M&A Activity Helps \u2018Challenge the Status Quo\u2019 and Why \u2018There\u2019s Just No Room for Error\u2019 in Fast-Moving Business",
+      "url": "https://variety.com/2026/film/global/canal-anna-marsh-acquisitions-challenge-status-quo-1236919006/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:17:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919076",
+      "title": "Brandi Carlile to Receive Humanitarian Honor at National Arts & Entertainment Journalism Awards",
+      "url": "https://variety.com/2026/music/news/brandi-carlile-humanitarian-honor-los-angeles-press-club-1236919076/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:10:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919039",
+      "title": "Kenan Thompson Says Shane Gillis \u2018SNL\u2019 Monologue Backlash \u2018Overshadowed\u2019 the Episode and \u2018We Would Have to Have a Real Chat\u2019 If He Hosts Again",
+      "url": "https://variety.com/2026/tv/news/kenan-thompson-shane-gillis-snl-monologue-1236919039/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:07:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918659",
+      "title": "\u2018Clayface\u2019 Review: DC Comics Horror Movie Is Good, Gross Fun, With No Franchise Homework Required",
+      "url": "https://variety.com/2026/film/news/clayface-review-1236918659/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736004",
+      "title": "Val Chmerkovskiy Returns to \u2018Dancing With the Stars\u2019 After One-Episode Suspension",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/val-back-dancing-with-stars-season-35-suspension-jenna-dewan-1236736004/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:29:10+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737502",
+      "title": "Samara Weaving Joins Jennifer Aniston in Universal Holiday Comedy \u2018Naughty\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/samara-weaving-olivia-wilde-holiday-comedy-naughty-1236737502/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:27:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737208",
+      "title": "How Republicans Are Trying to Use Democrats\u2019 Hollywood Connections Against Them",
+      "url": "https://www.hollywoodreporter.com/news/politics-news/republicans-hollywood-midterms-1236737208/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:06:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737442",
+      "title": "Lea Michele in Talks for \u2018Glee\u2019 Return in Disney+/Hulu Revival",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/glee-revival-lea-michele-returning-rachel-berry-1236737442/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T19:01:45+00:00"
+    },
+    {
+      "guid": "wWmrMHnipD7dXeyYSwTL6m",
+      "title": "Clayface review: \"Skin-deep thrills and spills mask an uneven DC horror\"",
+      "url": "https://www.gamesradar.com/entertainment/dc-movies/clayface-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207965",
+      "title": "Star Wars Battlefront 3 in Dev at DICE and Respawn, Multiple Sources Say",
+      "url": "https://www.pushsquare.com/news/2026/10/star-wars-battlefront-3-in-dev-at-dice-and-respawn-multiple-sources-say",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T19:00:00+00:00"
     }
   ]
 }
