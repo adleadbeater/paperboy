@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Guild Wars 2 Is Ditching Paid Living World Seasons and Bundling Them Into Expansions",
-      "tag": "guild wars 2",
-      "posted_at": "2026-10-14T15:31:28.979215+00:00",
-      "urls": [
-        "https://www.eurogamer.net/guild-wars-2-living-world-expansions"
-      ],
-      "article_titles": [
-        "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions"
-      ]
-    },
-    {
-      "headline": "Take-Two CEO Was Blindsided When Rockstar Asked to Delay GTA 6 Again",
-      "tag": "gta 6",
-      "posted_at": "2026-10-14T15:31:29.249741+00:00",
-      "urls": [
-        "https://kotaku.com/when-rockstar-needed-to-delay-gta-6-again-take-twos-ceo-replied-please-tell-me-youre-kidding-2000745938"
-      ],
-      "article_titles": [
-        "When Rockstar Needed To Delay GTA 6 Again, Take-Two\u2019s CEO Replied: \u2018Please Tell Me You\u2019re Kidding\u2019"
-      ]
-    },
-    {
       "headline": "PS Plus Game Catalog for October 2026 Revealed: Mafia: The Old Country and Tales of Arise Headline the Lineup",
       "tag": "playstation plus",
       "posted_at": "2026-10-14T16:01:32.975649+00:00",
@@ -902,6 +880,30 @@
       "article_titles": [
         "Ace Driver Victory Lap is the next polygonal Namco arcade racer getting its first ever home release"
       ]
+    },
+    {
+      "headline": "Epic Games and Roblox Hit With Lawsuit Alleging They Deliberately Engineered Addiction in Kids",
+      "tag": "epic games / roblox",
+      "posted_at": "2026-10-21T16:01:20.895499+00:00",
+      "urls": [
+        "https://kotaku.com/epic-and-roblox-sued-for-allegedly-creating-deliberately-addictive-games-2000748307"
+      ],
+      "article_titles": [
+        "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games"
+      ]
+    },
+    {
+      "headline": "Pok\u00e9mon Gets Swept Into the AI Decompilation Controversy",
+      "tag": "pok\u00e9mon",
+      "posted_at": "2026-10-21T16:01:21.024628+00:00",
+      "urls": [
+        "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+        "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316"
+      ],
+      "article_titles": [
+        "Of Course Pok\u00e9mon\u2019s Been Pulled Into The AI Decompilation Frenzy",
+        "Of Course Pok\u00e9mon\u2019s Been Pulled Into The AI Decompilation Frenzy"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1522,6 +1524,134 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-21T15:11:09+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
+      "title": "World of Warcraft: Forever's beta has been extended, as community members mourn the loss of their hunter pets",
+      "url": "https://www.eurogamer.net/world-of-warcraft-forever-beta-extended",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:46:24+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748307",
+      "title": "Epic And Roblox Sued For Allegedly Creating Deliberately Addictive Games",
+      "url": "https://kotaku.com/epic-and-roblox-sued-for-allegedly-creating-deliberately-addictive-games-2000748307",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:45:01+00:00"
+    },
+    {
+      "guid": "fuLVqZPDd6qztEN2c7oHkV",
+      "title": "Don't get hit with the BIOS update hammer for COD MW4 like my colleagues - here's how to ensure you can play multiplayer and DMZ",
+      "url": "https://www.pcgamer.com/games/call-of-duty/dont-get-hit-with-the-bios-update-hammer-for-cod-mw4-like-my-colleagues-heres-how-to-ensure-you-can-play-multiplayer-and-dmz/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:55:30+00:00"
+    },
+    {
+      "guid": "jvNnziEKGCYNf37L6pbx4Z",
+      "title": "AMD has shipped FSR 4.1 early for RX 6000 graphics cards, and it's coming to Ryzen APUs, Vulkan, and Xbox too",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-has-shipped-fsr-4-1-early-for-rx-6000-graphics-cards-and-its-coming-to-ryzen-apus-vulkan-and-xbox-too/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:35:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169029",
+      "title": "Annual Teens And Screens Survey: Kids Like Influencers, But Not Necessarily In Their Movies & TV Shows",
+      "url": "https://deadline.com/2026/10/teens-and-screens-survey-what-kids-like-in-movies-tv-1237169029/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167923",
+      "title": "Is Competitive Barbecue The Next Big Sport? Wheelhouse & Peyton Manning\u2019s Omaha Put Their Money Where Their Mouths Are",
+      "url": "https://deadline.com/2026/10/bbq-world-cup-expo-investment-wheelhouse-peyton-manning-1237167923/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169655",
+      "title": "Chris Rock\u2019s A24 Pic \u2018Misty Green\u2019 To Stream On Netflix In Early November",
+      "url": "https://deadline.com/2026/10/chris-rock-mistry-green-netflix-date-1237169655/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:42:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918825",
+      "title": "Interscope Promotes Michelle An, Laura Carter and Ramon Alvarez-Smikle to Executive Posts",
+      "url": "https://variety.com/2026/music/news/interscope-promotes-michelle-an-laura-carter-ramon-alvarez-smikle-1236918825/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:40:49+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737306",
+      "title": "What Happened to Natalee Holloway? Netflix\u2019s \u2018Taken\u2019 Documentary Trailer Revisits the Case",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/netflix-taken-natalee-holloway-documentary-trailer-1236737306/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:32:21+00:00"
+    },
+    {
+      "guid": "JEYosBkAg6wxKNi7onUPFU",
+      "title": "Cyberpunk 2077 update 2.5 adds a new quest as a prequel for Edgerunners 2",
+      "url": "https://www.gamesradar.com/games/cyberpunk/cyberpunk-2077-update-2-5-adds-a-new-quest-as-a-prequel-for-edgerunners-2-and-mod-support-on-consoles-that-includes-adult-options/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T15:52:36+00:00"
+    },
+    {
+      "guid": "HBsYEhBXrETfkoTyJFXQbF",
+      "title": "Football Manager 27 is getting a free preview for everyone on PC, to restore faith after FM26",
+      "url": "https://www.gamesradar.com/games/sports/football-manager-27-is-getting-a-free-preview-for-everyone-on-pc-for-5-days-to-restore-faith-after-fm26s-disastrous-launch-last-year/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T15:40:57+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-207947",
+      "title": "Nintendo Switch Sports Resort Has Been Updated To Ver. 1.1.0, Here Are The Full Patch Notes",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-has-been-updated-to-ver-1-1-0-here-are-the-full-patch-notes",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207949",
+      "title": "Peak Isn't the Only 'Friendslop' Game Coming Soon to PS5",
+      "url": "https://www.pushsquare.com/news/2026/10/peak-isnt-the-only-friendslop-game-coming-soon-to-ps5",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207868",
+      "title": "Cyberpunk 2077 PS5 Patch 2.5 Notes Revealed, Update Live on Thursday",
+      "url": "https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-notes-revealed-update-live-on-thursday",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T15:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125181",
+      "title": "Jinshi Is Playable in The Apothecary Diaries: The False Imperial Brother",
+      "url": "https://www.siliconera.com/jinshi-is-playable-in-the-apothecary-diaries-the-false-imperial-brother/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085723",
+      "title": "Cyberpunk 2077 version 2.5 \u2018Edgerunners II\u2019 update detailed",
+      "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-edgerunners-ii-update-detailed",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T15:53:27+00:00"
     }
   ]
 }
