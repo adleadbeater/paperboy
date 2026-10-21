@@ -1057,28 +1057,124 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236916762",
-      "title": "Julia Stiles Says \u201910 Things I Hate About You\u2019 Cast \u2018Rallied\u2019 to Support Her for Emotional Heath Ledger Tribute on \u2018Dancing With the Stars\u2019",
-      "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
-      "source_name": "Variety",
+      "guid": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover",
+      "title": "COD: Modern Warfare 4 DMZ players are spawning in the middle of a road and being flattened before they can do anything",
+      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-spawn-runover",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-10-21T04:05:00+00:00"
+      "published_dt": "2026-10-21T13:21:37+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236918379",
-      "title": "\u2018Young Sheldon\u2019 Star Iain Armitage Says He Was the \u2018Most Happy\u2019 About the Show Ending: I Wasn\u2019t \u2018Going Home and Crying All Day\u2019",
-      "url": "https://variety.com/2026/tv/news/young-sheldon-iain-armitage-show-ending-1236918379/",
-      "source_name": "Variety",
+      "guid": "https://deadline.com/?p=1237169559",
+      "title": "\u2018Hunting Alice Bell\u2019: Trailer Drops For Channel 4 Drama Featuring Alexandra Roach & Simon Pegg",
+      "url": "https://deadline.com/2026/10/hunting-alice-bell-trailer-alexandra-roach-simon-pegg-1237169559/",
+      "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-21T04:02:29+00:00"
+      "published_dt": "2026-10-21T13:00:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1085594",
-      "title": "Romance visual novel bundle Einstein Yori Ai o Komete + APOLLOCRISIS coming to Switch in 2027 in Japan",
-      "url": "https://www.gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan",
+      "guid": "https://variety.com/?p=1236918129",
+      "title": "Young Audiences Want to Redefine Modern Storytelling, New Study Shows",
+      "url": "https://variety.com/2026/film/news/young-audiences-redefine-modern-storytelling-ucla-study-1236918129/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T13:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918541",
+      "title": "Jake Tapper Sketches Work Outside CNN: Graphic Novel Probes Life of \u2018Butcher\u2019 Klaus Barbie",
+      "url": "https://variety.com/2026/tv/news/jake-tapper-cnn-graphic-novel-the-butcher-klaus-barbie-1236918541/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916724",
+      "title": "Neiman Marcus\u2019s Luxe 2026 Holiday Offerings Include $180,000 \u2018Star Wars\u2019 Experience",
+      "url": "https://variety.com/2026/shopping/news/neiman-marcus-star-wars-experience-gift-guide-shop-online-1236916724/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737199",
+      "title": "Disney and Netflix Are Courting Creators. YouTube Is Playing Hardball to Keep Them",
+      "url": "https://www.hollywoodreporter.com/business/business-news/disney-and-netflix-are-courting-creators-youtube-is-playing-hardball-to-keep-them-1236737199/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T13:01:09+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736244",
+      "title": "Sacha Baron Cohen Gets Real About Backlash, Death Threats and Resurrecting Ali G",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/sacha-baron-cohen-interview-backlash-ali-g-1236736244/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736558",
+      "title": "Interscope Unveils Exec Promotions Following Shake Up",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/interscope-announces-promotions-following-shakeup-1236736558/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "guid": "1928064",
+      "title": "Xbox Game Pass Heading For A Massive Shakeup, Report Says",
+      "url": "https://www.gamespot.com/articles/xbox-game-pass-heading-for-a-massive-shakeup-report-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T13:04:31+00:00"
+    },
+    {
+      "guid": "1928065",
+      "title": "Prospective Buyers Reportedly Value Xbox As High As $150 Billion",
+      "url": "https://www.gamespot.com/articles/prospective-buyers-reportedly-value-xbox-as-high-as-150-billion/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T12:56:23+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207932",
+      "title": "You Won't Have to Wait Long for The Apothecary Diaries' PS5 Game",
+      "url": "https://www.pushsquare.com/news/2026/10/you-wont-have-to-wait-long-for-the-apothecary-diaries-ps5-game",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125174",
+      "title": "Snow Miku 2027 Live Concerts Announced",
+      "url": "https://www.siliconera.com/snow-miku-2027-live-concerts-announced/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T13:00:50+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207933",
+      "title": "Classic PS1 Shmup Compilation 'The Raiden Project' Fires Its Way to Nintendo Switch 2 & PS5 Tomorrow",
+      "url": "https://www.timeextension.com/news/2026/10/classic-ps1-shmup-compilation-the-raiden-project-fires-its-way-to-nintendo-switch-2-and-ps5-tomorrow",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085627",
+      "title": "Pratfall coming to PS5, Xbox Series, and Switch 2",
+      "url": "https://www.gematsu.com/2026/10/pratfall-coming-to-ps5-xbox-series-and-switch-2",
       "source_name": "Gematsu",
       "source_tier": 2,
-      "published_dt": "2026-10-21T04:19:15+00:00"
+      "published_dt": "2026-10-21T13:05:27+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760892",
+      "title": "Nintendo Switch Halloween 2026 Sale Discounts Persona 5 Royal to $17.99 and Skyrim to $29.99, With More Games on Offer",
+      "url": "https://otakukart.com/nintendo-switch-halloween-2026-sale-discounts-persona-5-royal-to-17-99-and-skyrim-to-29-99-with-more-games-on-offer/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T13:30:21+00:00"
     }
   ]
 }
