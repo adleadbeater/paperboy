@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "GTA 5 Is Being Removed From PlayStation Plus Just Before GTA VI Launches",
-      "tag": "gta",
-      "posted_at": "2026-10-14T20:15:52.205966+00:00",
-      "urls": [
-        "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022"
-      ],
-      "article_titles": [
-        "GTA 5 Getting Yanked From PlayStation Plus Right Before GTA VI Launches"
-      ]
-    },
-    {
-      "headline": "Microsoft Is Surveying Players on Making Fallout, Elder Scrolls, and Minecraft Xbox Exclusives",
-      "tag": "xbox",
-      "posted_at": "2026-10-14T20:15:52.372351+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1x60g84/windows_central_microsoft_is_considering_making/"
-      ],
-      "article_titles": [
-        "Xbox Polling Players on Whether Fallout, Elder Scrolls, or Even Minecraft Should Go Exclusive",
-        "Windows Central: Microsoft is considering making Fallout, The Elder Scrolls, and even Minecraft Xbox console exclusive \u2014 surveys detailed"
-      ]
-    },
-    {
       "headline": "Garry's Mod Successor Is Scrapping Its \"Netflix for Games\" Model With Sweeping Changes",
       "tag": "garry's mod",
       "posted_at": "2026-10-14T22:01:00.638597+00:00",
@@ -963,51 +939,24 @@
         "\u2018Clayface\u2019 Review: DCU Molds Batman Villain\u2019s Origin Story Into Fun, Scary Body Horror",
         "\u2018Clayface\u2019 Review: DC Studios\u2019 Batman Villain Origin Story Is a Bona Fide Body-Horror Delight"
       ]
+    },
+    {
+      "headline": "World of Warcraft: Forever Is Offering Free Server Access Today Ahead of Launch",
+      "tag": "world of warcraft: forever",
+      "posted_at": "2026-10-21T20:31:07.221081+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/",
+        "https://www.pcgamer.com/games/world-of-warcraft/everyone-gets-a-free-ticket-to-world-of-warcraft-forever-today-as-blizzard-stress-tests-the-servers-ahead-of-launch-day/"
+      ],
+      "article_titles": [
+        "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day",
+        "Everyone gets a free ticket to World of Warcraft: Forever today as Blizzard stress tests the servers ahead of launch day"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000748326",
-      "title": "Everything In Cyberpunk 2077\u2032s Edgerunners II-Themed 2.5 Update",
-      "url": "https://kotaku.com/cyberpunk-2077-2-5-edgerunners-2-update-mods-new-quest-2000748326",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T16:20:23+00:00"
-    },
-    {
-      "guid": "bpGUaCoYuyrhZGS55DHLWN",
-      "title": "GOG taken offline for maintenance in wake of PHP security emergency",
-      "url": "https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T16:20:08+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237169237",
-      "title": "Amazon MGM\u2019s \u2018Egg Baby\u2019 Adds Seven To Cast",
-      "url": "https://deadline.com/2026/10/egg-baby-movie-adds-seven-cast-1237169237/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T16:20:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236918627",
-      "title": "Netflix Touts International Success Amid Content Leadership Shake-Up, Eyes More Broadcaster Deals After TF1 and Globo Pacts",
-      "url": "https://variety.com/2026/tv/global/netflix-international-success-leadership-shake-up-1236918627/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T16:21:13+00:00"
-    },
-    {
-      "guid": "1928135",
-      "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead\u2019s Dynamic Horse Testicle Physics",
-      "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-21T16:16:36+00:00"
-    },
     {
       "guid": "https://www.pushsquare.com/#article-207381",
       "title": "Guide: Stage Tour Setlist: All Confirmed Songs and Artists",
@@ -1015,14 +964,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-21T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085753",
-      "title": "Bloody Hell Hotel launches in 2027",
-      "url": "https://www.gematsu.com/2026/10/bloody-hell-hotel-launches-in-2027",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-21T16:25:42+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days",
@@ -1153,14 +1094,6 @@
       "published_dt": "2026-10-21T16:30:51+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236737373",
-      "title": "StudioCanal CEO on Chasing Gen Z Audiences: \u201cThere\u2019s Just No Room For Error\u201d",
-      "url": "https://www.hollywoodreporter.com/business/business-news/studiocanal-ceo-anna-marsh-1236737373/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T16:30:39+00:00"
-    },
-    {
       "guid": "YjcUJRRoVv66LPfMefMoDS",
       "title": "CDPR has \"hired so many modders\" that \"half of the quest team\" for Cyberpunk 2077 started in mods",
       "url": "https://www.gamesradar.com/games/cyberpunk/cd-projekt-red-has-hired-so-many-modders-that-cyberpunk-2-co-lead-says-i-think-half-of-the-quest-team-is-all-former-modders/",
@@ -1175,14 +1108,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-21T16:34:40+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207945",
-      "title": "One of PS5's Best Exclusive Games Is at an All-Time Low Price",
-      "url": "https://www.pushsquare.com/news/2026/10/one-of-ps5s-best-exclusive-games-is-at-an-all-time-low-price",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-21T16:30:00+00:00"
     },
     {
       "guid": "1383bddb-e78d-4cc5-b3cd-6b16124dd804",
