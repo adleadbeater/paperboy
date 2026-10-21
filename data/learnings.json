@@ -1057,70 +1057,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237169110",
-      "title": "Versant Unlikely To Acquire Skydance Cable Networks If They Hit The Market, CEO Mark Lazarus Says",
-      "url": "https://deadline.com/2026/10/versant-skydance-cable-tv-networks-ceo-1237169110/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:36:01+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237169108",
-      "title": "\u2018Narnia: The Magician\u2019s Nephew\u2019 Trailer Clocks Massive 481M+ First-Week Views, More Than \u2018Barbie\u2019",
-      "url": "https://deadline.com/2026/10/narnia-the-magicians-nephew-trailer-viewership-1237169108/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237168034",
-      "title": "Denzel Washington And Christopher McQuarrie Team On New Thriller At United Artists And Amazon MGM Studios",
-      "url": "https://deadline.com/2026/10/denzel-washington-chris-mcquarrie-united-artists-1237168034/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:15:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237169073",
-      "title": "Netflix\u2019s Greg Peters Calls Layoffs Hard Tradeoff For Long-Term Growth",
-      "url": "https://deadline.com/2026/10/netflix-greg-peters-layoffs-growth-1237169073/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:11:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736776",
-      "title": "Hunter Schafer Reveals She Underwent Gender-Affirming Bottom Surgery",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hunter-schafer-gender-affirming-bottom-surgery-1236736776/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:42:59+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736736",
-      "title": "Harrison Ford and Calista Flockhart to Receive First Joint Award as Couple Is Selected for Icon Honors",
-      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/harrison-ford-calista-flockhart-couple-award-stardust-ball-1236736736/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:39:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736743",
-      "title": "The Hollywood Reporter Power Business Managers Event to Honor Michael Ullman, Feature Conversations With David Kramer and Lisa Callif",
-      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-reporter-power-business-managers-michael-ullman-1236736743/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:22:24+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736781",
-      "title": "Denzel Washington, Christopher McQuarrie Team for Original Thriller at Amazon MGM, United Artists",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/denzel-washington-christopher-mcquarrie-thriller-1236736781/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-20T22:19:50+00:00"
-    },
-    {
       "guid": "932c4c59-b6e1-43eb-a88f-1b482e334f84",
       "title": "Marvel's VisionQuest Episodes 3 and 4 Review: 'Reboot' and 'Malware'",
       "url": "https://www.ign.com/articles/marvels-visionquest-episodes-3-and-4-review-recap-reboot-malware",
@@ -1151,6 +1087,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-21T00:54:47+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916762",
+      "title": "Julia Stiles Says \u201910 Things I Hate About You\u2019 Cast \u2018Rallied\u2019 to Support Her for Emotional Heath Ledger Tribute on \u2018Dancing With the Stars\u2019",
+      "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T04:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918379",
+      "title": "\u2018Young Sheldon\u2019 Star Iain Armitage Says He Was the \u2018Most Happy\u2019 About the Show Ending: I Wasn\u2019t \u2018Going Home and Crying All Day\u2019",
+      "url": "https://variety.com/2026/tv/news/young-sheldon-iain-armitage-show-ending-1236918379/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T04:02:29+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085594",
+      "title": "Romance visual novel bundle Einstein Yori Ai o Komete + APOLLOCRISIS coming to Switch in 2027 in Japan",
+      "url": "https://www.gematsu.com/2026/10/romance-visual-novel-bundle-einstein-yori-ai-o-komete-apollocrisis-coming-to-switch-in-2027-in-japan",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T04:19:15+00:00"
     }
   ]
 }
