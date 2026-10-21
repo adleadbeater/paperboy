@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Fortnite Is Finally Coming to Linux Once Epic Sorts Out Easy Anti-Cheat",
-      "tag": "fortnite",
-      "posted_at": "2026-10-14T14:31:35.995957+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/battle-royale/fortnite-is-coming-to-linux-once-epic-improves-easy-anti-cheat/"
-      ],
-      "article_titles": [
-        "Fortnite is coming to Linux once Epic improves Easy Anti-Cheat"
-      ]
-    },
-    {
-      "headline": "Total War: Shogun 2's \"Enhanced\" Edition Is Enraging Players Over AI-Upscaled Assets",
-      "tag": "total war: shogun 2",
-      "posted_at": "2026-10-14T14:31:36.176846+00:00",
-      "urls": [
-        "https://kotaku.com/total-war-shogun-2-complete-edition-gen-ai-art-sega-creative-assembly-2000745877"
-      ],
-      "article_titles": [
-        "Players Are Furious About Total War: Shogun 2\u2018s AI-Upscaled \u2018Enhanced\u2019 Edition"
-      ]
-    },
-    {
-      "headline": "Former Disco Elysium Devs Launch Player- and Developer-Owned Studio \u2014 a First in the Industry",
-      "tag": "disco elysium",
-      "posted_at": "2026-10-14T14:31:36.349439+00:00",
-      "urls": [
-        "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit"
-      ],
-      "article_titles": [
-        "\"This non-profit will be the 'voice of the gamers'\" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure"
-      ]
-    },
-    {
       "headline": "Guild Wars 2 Is Ditching Paid Living World Seasons and Bundling Them Into Expansions",
       "tag": "guild wars 2",
       "posted_at": "2026-10-14T15:31:28.979215+00:00",
@@ -924,6 +891,17 @@
       "article_titles": [
         "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S"
       ]
+    },
+    {
+      "headline": "Ace Driver: Victory Lap Is Getting Its First-Ever Home Release",
+      "tag": "ace driver: victory lap",
+      "posted_at": "2026-10-21T15:00:56.196008+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/ace-driver-victory-lap-is-the-next-polygonal-namco-arcade-racer-getting-its-first-ever-home-release/"
+      ],
+      "article_titles": [
+        "Ace Driver Victory Lap is the next polygonal Namco arcade racer getting its first ever home release"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1328,6 +1306,94 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-21T14:12:34+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=248891",
+      "title": "Ace Driver Victory Lap is the next polygonal Namco arcade racer getting its first ever home release",
+      "url": "https://www.videogameschronicle.com/news/ace-driver-victory-lap-is-the-next-polygonal-namco-arcade-racer-getting-its-first-ever-home-release/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:31:36+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748317",
+      "title": "VisionQuest Already Fixed Its Biggest Problem In Just One Week",
+      "url": "https://kotaku.com/visionquest-jocasta-josephine-carrington-butcherbird-killer-2000748317",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:54:36+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169584",
+      "title": "Elon Musk & Larry Ellison Will Join Forces To Boost Both Starlink And Skydance, John Malone Predicts",
+      "url": "https://deadline.com/2026/10/elon-musk-larry-ellison-skydance-starlink-john-malone-1237169584/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:41:01+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237169578",
+      "title": "For First Time Since 2018, Italian Content Investment Falls But Sector Generates $18.9B \u2013 Annual APA Report",
+      "url": "https://deadline.com/2026/10/italian-audiovisual-apa-report-investment-down-1237169578/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:31:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918154",
+      "title": "\u2018Tangles\u2019 Trailer: Seth Rogen-Produced Film Shows the Impact of Alzheimer\u2019s Through Animation (EXCLUSIVE)",
+      "url": "https://variety.com/2026/artisans/news/tangles-trailer-animation-alzheimers-seth-rogen-1236918154/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918468",
+      "title": "Screen Brasil Backs International Distribution of Oscar Hopeful \u2018Gugu\u2019s World\u2019 and Gramado Winner \u2018Our Secret\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/screen-brasil-gugus-world-our-secret-recipients-1236918468/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737240",
+      "title": "How Lucille Ball Saved \u2018Star Trek\u2019 to Become a Six-Decade Juggernaut Franchise",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/lucille-ball-saved-star-trek-1236737240/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:51:58+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737239",
+      "title": "The NFL Plays a Long Game as Skydance and Netflix Reshape Media \u2014 and the Race for Rights",
+      "url": "https://www.hollywoodreporter.com/business/business-news/nfl-media-rights-skydance-netflix-future-1236737239/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-21T14:49:43+00:00"
+    },
+    {
+      "guid": "ALffNC2LhvnwmGxWaTn7FP",
+      "title": "Where to find the Counting Room Vault in MW4 DMZ",
+      "url": "https://www.gamesradar.com/games/call-of-duty/modern-warfare-4-dmz-counting-room-vault/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:45:25+00:00"
+    },
+    {
+      "guid": "2MPuTbcbd9oUtPrMkLnLSU",
+      "title": "The Steam store goes down as Valve seemingly joins the whole internet struggling amid PHP issues",
+      "url": "https://www.gamesradar.com/games/the-steam-store-goes-down-as-valve-seemingly-joins-the-whole-internet-struggling-amid-php-vulnerabilities/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:36:38+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207942",
+      "title": "Fans Have Done What SEGA's Scared to Do: Remaster the Craziest Yakuza Game",
+      "url": "https://www.pushsquare.com/news/2026/10/fans-have-done-what-segas-scared-to-do-remaster-the-craziest-yakuza-game",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-21T14:30:00+00:00"
     }
   ]
 }
