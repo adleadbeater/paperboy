@@ -987,6 +987,39 @@
         "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
         "Marvel\u2019s Wolverine Proves You Shouldn\u2019t Always Trust What You See On Social Media"
       ]
+    },
+    {
+      "headline": "An award-winning sci-fi author was writing Mass Effect 5's story before BioWare cancelled it",
+      "tag": "mass effect 5",
+      "posted_at": "2026-10-22T14:01:02.255317+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/what-we-were-cooking-was-really-cool-an-award-winning-science-fiction-author-was-working-on-mass-effect-5s-story/"
+      ],
+      "article_titles": [
+        "'What we were cooking was really cool': An award-winning science fiction author was working on Mass Effect 5's story"
+      ]
+    },
+    {
+      "headline": "The Nintendo Switch 2 has been jailbroken for the first time",
+      "tag": "nintendo switch 2",
+      "posted_at": "2026-10-22T14:01:02.342359+00:00",
+      "urls": [
+        "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784"
+      ],
+      "article_titles": [
+        "The Switch 2 Has Been Jailbroken For The First Time"
+      ]
+    },
+    {
+      "headline": "BioWare's cancelled Mass Effect game would have delivered unprecedented player choice, inspired by Baldur's Gate 3 and The Witcher",
+      "tag": "mass effect",
+      "posted_at": "2026-10-22T14:01:02.430581+00:00",
+      "urls": [
+        "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy"
+      ],
+      "article_titles": [
+        "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\""
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1223,6 +1256,142 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-22T13:27:04+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
+      "title": "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\"",
+      "url": "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:35:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748784",
+      "title": "The Switch 2 Has Been Jailbroken For The First Time",
+      "url": "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:36:31+00:00"
+    },
+    {
+      "guid": "VjD4suHssJrXPSJbpxNzL9",
+      "title": "'What we were cooking was really cool': An award-winning science fiction author was working on Mass Effect 5's story",
+      "url": "https://www.pcgamer.com/gaming-industry/what-we-were-cooking-was-really-cool-an-award-winning-science-fiction-author-was-working-on-mass-effect-5s-story/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:54:53+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237170579",
+      "title": "John Anderson Dies: Country Singer Of Hits \u2018Wild And Blue\u2019 & \u2018Swingin\u201d Was 71",
+      "url": "https://deadline.com/2026/10/john-anderson-dead-1237170579/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T14:00:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237170586",
+      "title": "Apple\u2019s Fleetwood Mac Doc Lands Title & Release Date",
+      "url": "https://deadline.com/2026/10/fleetwood-mac-documentary-frank-marshall-apple-1237170586/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:31:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918620",
+      "title": "Lego Unveils Daft Punk Set Based on 2007 \u2018Alive\u2019 Tour, Short Film Collab Set to \u2018Human After All\u2019",
+      "url": "https://variety.com/2026/music/global/daft-punk-lego-set-alive-tour-1236918620/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919614",
+      "title": "Egyptian Screenwriter Mariam Naoum on the Struggle for Arab Series to Find Buyers: \u2018We\u2019re Suffocating Inside\u2019",
+      "url": "https://variety.com/2026/tv/global/el-gouna-cinegouna-series-arab-tv-mariam-naoum-1236919614/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:40:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737584",
+      "title": "Chuck Lorre Talks David Ellison Optimism, Scientology and the Perks (Really!) of Working for Roseanne Barr",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/chuck-lorre-interview-david-ellison-roseanne-barr-1236737584/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737224",
+      "title": "Ben Silverman Still Doesn\u2019t Want a Job \u2014 But He\u2019s Busier Than Ever",
+      "url": "https://www.hollywoodreporter.com/business/business-news/ben-silverman-propagate-tv-docs-1236737224/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:45:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236738014",
+      "title": "Doc Maker Rocky Mudaliar Signs With Verve (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/business-news/rocky-mudaliar-verve-1236738014/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:35:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737522",
+      "title": "A Search for His Biological Father Led to a Top Podcast \u2014 and an Endorsement From Ira Glass",
+      "url": "https://www.hollywoodreporter.com/business/digital/sayre-quevedo-podcast-reaching-out-ira-glass-1236737522/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:31:25+00:00"
+    },
+    {
+      "guid": "u2MGEbSoSZSYphdACRR3fZ",
+      "title": "Capcom confirms 11.7 million accounts breached of service needed to play Street Fighter and more",
+      "url": "https://www.gamesradar.com/games/capcom-confirms-breach-of-11-7-million-id-accounts-promises-stronger-defences-for-the-platform-needed-to-play-street-fighter-monster-hunter-and-more-online/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T13:48:47+00:00"
+    },
+    {
+      "guid": "1929732",
+      "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It\u2019s Not Cheap",
+      "url": "https://www.gamespot.com/articles/you-can-now-buy-gta-6-burgers-and-fried-chicken-irl-but-its-not-cheap/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T13:26:08+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208003",
+      "title": "Japanese Charts: Castlevania And Tales Of Eternia Battle It Out For The Gold",
+      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-castlevania-and-tales-of-eternia-battle-it-out-for-the-gold",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207999",
+      "title": "PS5 Exclusive Marvel's Wolverine Is Sony's Biggest Launch Since Helldivers 2",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-exclusive-marvels-wolverine-is-sonys-biggest-launch-since-helldivers-2",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208001",
+      "title": "PS5 Beats Switch 2 in Strongest US Sales Month Since May 2025",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-beats-switch-2-in-strongest-us-sales-month-since-may-2025",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T13:45:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085812",
+      "title": "Order of the Sinking Star physical edition launches in 2027",
+      "url": "https://www.gematsu.com/2026/10/order-of-the-sinking-star-physical-edition-launches-in-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T13:37:28+00:00"
     }
   ]
 }
