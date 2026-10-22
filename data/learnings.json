@@ -958,30 +958,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000748466",
-      "title": "SonicFox Reminds Everyone They\u2019re Based, Backing Out Of A Gaming Convention Over An AI-Generated Promo",
-      "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T23:00:51+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170213",
-      "title": "Oscar Nu\u00f1ez, Marlene Forte, Otmara Marrero & Vivian Ruiz To Star In Adrian Cardenas\u2019 Directorial Debut \u2018In An Orderly Fashion\u2019",
-      "url": "https://deadline.com/2026/10/oscar-nunez-star-in-an-orderly-fashion-film-1237170213/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-21T23:25:04+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-207964",
-      "title": "All PS Plus Deluxe Members in Korea Get a Free Upgrade as Cloud Streaming Arrives",
-      "url": "https://www.pushsquare.com/news/2026/10/all-ps-plus-deluxe-members-in-korea-get-a-free-upgrade-as-cloud-streaming-arrives",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-21T23:00:00+00:00"
-    },
-    {
       "guid": "otQuNg3cfpDjnKvPNLDPET",
       "title": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
       "url": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
@@ -1020,6 +996,22 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-22T01:13:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237170408",
+      "title": "David Krumholtz Explains Why He Missed \u201910 Things I Hate About You\u2019 Reunion On \u2018DWTS\u2019: \u201cLove Them All\u201d",
+      "url": "https://deadline.com/2026/10/david-krumholtz-missed-10-things-i-hate-about-you-reunion-dwts-1237170408/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T03:53:48+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085792",
+      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero announced for PC, iOS, and Android",
+      "url": "https://www.gematsu.com/2026/10/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-announced-for-pc-ios-and-android",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T03:55:50+00:00"
     }
   ]
 }
