@@ -1,19 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Fire Emblem: Fortune's Weave Gets an Expansion Pass \u2014 Wave 1 Out Now",
-      "tag": "fire emblem: fortune's weave",
-      "posted_at": "2026-10-15T01:35:19.570423+00:00",
-      "urls": [
-        "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today",
-        "https://www.gematsu.com/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced"
-      ],
-      "article_titles": [
-        "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today",
-        "Fire Emblem: Fortune\u2019s Weave Expansion Pass announced"
-      ]
-    },
-    {
       "headline": "GTA 6's Launch Trailer Is Here \u2014 and Yes, There's Already a Sex Scene",
       "tag": "gta 6",
       "posted_at": "2026-10-15T14:01:11.113049+00:00",
@@ -952,34 +939,152 @@
       "article_titles": [
         "SonicFox Reminds Everyone They\u2019re Based, Backing Out Of A Gaming Convention Over An AI-Generated Promo"
       ]
+    },
+    {
+      "headline": "BioWare Has Suddenly Closed",
+      "tag": "bioware",
+      "posted_at": "2026-10-22T13:01:10.627354+00:00",
+      "urls": [
+        "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure"
+      ],
+      "article_titles": [
+        "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\""
+      ]
+    },
+    {
+      "headline": "A Web Exploit Is Forcing Japan's Oldest Mobile Games Offline Permanently",
+      "tag": "",
+      "posted_at": "2026-10-22T13:01:10.829641+00:00",
+      "urls": [
+        "https://kotaku.com/two-of-japans-oldest-mobile-games-have-been-forced-permanently-offline-because-of-the-new-exploit-ravaging-the-web-2000748511"
+      ],
+      "article_titles": [
+        "Two Of Japan\u2019s Oldest Mobile Games Have Been Forced Permanently Offline Because Of The New Exploit Ravaging The Web"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237170408",
-      "title": "David Krumholtz Explains Why He Missed \u201910 Things I Hate About You\u2019 Reunion On \u2018DWTS\u2019: \u201cLove Them All\u201d",
-      "url": "https://deadline.com/2026/10/david-krumholtz-missed-10-things-i-hate-about-you-reunion-dwts-1237170408/",
+      "guid": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
+      "title": "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\"",
+      "url": "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:56:13+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748511",
+      "title": "Two Of Japan\u2019s Oldest Mobile Games Have Been Forced Permanently Offline Because Of The New Exploit Ravaging The Web",
+      "url": "https://kotaku.com/two-of-japans-oldest-mobile-games-have-been-forced-permanently-offline-because-of-the-new-exploit-ravaging-the-web-2000748511",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:31:43+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237167318",
+      "title": "Puck Yeah! \u2018Heated Rivalry\u2019 Gets Limited Theatrical Run With Regal For Season 1",
+      "url": "https://deadline.com/2026/10/heated-rivalry-regal-cinema-limited-theatrical-run-1237167318/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-22T03:53:48+00:00"
+      "published_dt": "2026-10-22T13:00:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1085792",
-      "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero announced for PC, iOS, and Android",
-      "url": "https://www.gematsu.com/2026/10/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-announced-for-pc-ios-and-android",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T03:55:50+00:00"
+      "guid": "https://deadline.com/?p=1237168027",
+      "title": "Investigation Discovery Buys SXSW True-Crime Doc \u2018My Brother\u2019s Killer\u2019",
+      "url": "https://deadline.com/2026/10/investigation-discovery-true-crime-doc-my-brothers-killer-1237168027/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:00:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1081798",
-      "title": "Pocket Mirror: GoldenerTraum now available for PS5, PS4, and Switch",
-      "url": "https://www.gematsu.com/2026/10/pocket-mirror-goldenertraum-now-available-for-ps5-ps4-and-switch",
-      "source_name": "Gematsu",
+      "guid": "https://deadline.com/?p=1237170574",
+      "title": "Space 11 & SK Films Bringing Artemis II To The Big Screen With \u2018Return To The Moon: The Story Of Artemis II\u2019",
+      "url": "https://deadline.com/2026/10/artemis-ii-space-film-return-moon-story-of-artemis-ii-1237170574/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:58:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237170562",
+      "title": "The Lede Company Acquires Lauren Winslade\u2019s London-Based Agency Aisle 8",
+      "url": "https://deadline.com/2026/10/the-lede-company-lauren-winslade-aisle-8-1237170562/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:35:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916996",
+      "title": "\u2018Heated Rivalry\u2019 to Release in Movie Theaters, Two Episodes at a Time",
+      "url": "https://variety.com/2026/tv/columns/heated-rivalry-released-movie-theaters-1236916996/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919639",
+      "title": "JJ Watt Named CBS Sports\u2019 New Lead NFL Analyst in Multi-Year Deal",
+      "url": "https://variety.com/2026/tv/news/jj-watt-cbs-sports-lead-nfl-analyst-multi-year-deal-1236919639/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:41:50+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919627",
+      "title": "TV Festival Manchester Sets Dates, Venues and Advisory Chair",
+      "url": "https://variety.com/2026/tv/global/tv-festival-greater-manchester-2027-1236919627/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:34:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236919624",
+      "title": "Julia Stiles Asked Michelle Williams for Permission to Do Heath Ledger \u2018DWTS\u2019 Tribute; David Krumholtz Explains Why He Missed Reunion",
+      "url": "https://variety.com/2026/tv/news/julia-stiles-michelle-williams-heath-ledger-dwts-tribute-1236919624/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:33:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236737798",
+      "title": "Yes, \u2018Heated Rivalry\u2019 is Really Headed to Movie Theaters",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-theatrical-release-regal-amc-cinemark-1236737798/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236738084",
+      "title": "Rupert Grint Sets Next Project: Noiser Audiobook Adaptation of \u2018Treasure Island\u2019 (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/news/general-news/rupert-grint-treasure-island-audiobook-noiser-podcast-1236738084/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T12:45:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-207996",
+      "title": "Disgaea Creator Wants to Make 66 More Games Before He Turns 75, But There's a Catch",
+      "url": "https://www.pushsquare.com/news/2026/10/disgaea-creator-wants-to-make-66-more-games-before-he-turns-75-but-theres-a-catch",
+      "source_name": "Push Square",
       "source_tier": 2,
-      "published_dt": "2026-10-22T05:08:58+00:00"
+      "published_dt": "2026-10-22T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124507",
+      "title": "Review: 9RIP Sequel Is Exactly the Sort of Spooky Otome You\u2019d Expect",
+      "url": "https://www.siliconera.com/review-9rip-sequel-is-exactly-the-sort-of-spooky-otome-youd-expect/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T13:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760950",
+      "title": "Cyberpunk: Edgerunners 2 Showrunner Says the Sequel Draws From Pulp Fiction, City of God, and Mean Streets",
+      "url": "https://otakukart.com/cyberpunk-edgerunners-2-showrunner-says-the-sequel-draws-from-pulp-fiction-city-of-god-and-mean-streets/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T12:54:21+00:00"
     }
   ]
 }
