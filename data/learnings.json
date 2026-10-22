@@ -990,86 +990,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
-      "title": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
-      "url": "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:00:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170800",
-      "title": "Trump Ordered By Judge To Sit For Deposition In $10B Lawsuit Against The BBC",
-      "url": "https://deadline.com/2026/10/donald-trump-ordered-deposition-bbc-lawsuit-1237170800/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:08:34+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921612",
-      "title": "Former Eminem Employee Pleads Guilty to Stealing and Selling Unreleased Music",
-      "url": "https://variety.com/2026/music/news/former-eminem-employee-pleads-guilty-stealing-selling-music-1236921612/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:20:20+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236737975",
-      "title": "\u2018Tangles,\u2019 \u2018Iron Boy\u2019 Win Animation Is Film Festival",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tangles-iron-boy-animation-is-film-festival-winners-1236737975/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236736747",
-      "title": "Jennifer Siebel Newsom Thinks It\u2019s Time Tech Leaders Faced Accountability: \u201cWe\u2019ve Let These Guys Go Unregulated for Too Long\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/jennifer-siebel-newsom-tech-leaders-accountable-1236736747/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:03:39+00:00"
-    },
-    {
-      "guid": "1929829",
-      "title": "WoW: Forever Is Getting A New Server Option By Popular Demand",
-      "url": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:24:13+00:00"
-    },
-    {
-      "guid": "1929797",
-      "title": "Soccer Star Erling Haaland Is A Call Of Duty Camper, And I Really Hate It",
-      "url": "https://www.gamespot.com/articles/soccer-star-erling-haaland-is-a-call-of-duty-camper-and-i-really-hate-it/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:21:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760988",
-      "title": "Chaos Zero Nightmare Celebrates First Anniversary With A Promise Upon the Snow Update",
-      "url": "https://otakukart.com/chaos-zero-nightmare-celebrates-first-anniversary-with-a-promise-upon-the-snow-update/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:02:57+00:00"
-    },
-    {
-      "guid": "https://www.belloflostsouls.net/?p=623187",
-      "title": "D&D: The Shadow Court Magus Really Wants You To Be Naruto",
-      "url": "https://www.belloflostsouls.net/2026/10/dd-the-shadow-court-magus-really-wants-you-to-be-naruto.html",
-      "source_name": "Bell of Lost Souls",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:17:43+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000748846",
-      "title": "New Star Wars: Galactic Racer Update Makes The Already Great Game Even Better",
-      "url": "https://kotaku.com/new-star-wars-galactic-racer-update-makes-the-already-great-game-even-better-2000748846",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:30:28+00:00"
-    },
-    {
       "guid": "pLD86Eai3gD9GH9QfSVsGh",
       "title": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
       "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
@@ -1204,14 +1124,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-22T17:45:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208018",
-      "title": "Hellraiser 'Performing Extremely Well' Says Saber Boss in Bid for Return of AA Games",
-      "url": "https://www.pushsquare.com/news/2026/10/hellraiser-performing-extremely-well-says-saber-boss-in-bid-for-return-of-aa-games",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1125256",
@@ -1804,6 +1716,94 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-22T21:00:00+00:00"
+    },
+    {
+      "guid": "3b42e712-c16d-47e3-85fd-7ea0ec63a404",
+      "title": "Tom Skerritt Dies: Alien and Top Gun Actor Was 93",
+      "url": "https://www.ign.com/articles/tom-skerritt-alien-top-gun-actor-dies-93",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T20:59:59+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237171175",
+      "title": "Rebel Wilson Trial Over \u2018The Deb\u2019 Producers\u2019 Defamation Claims Looks To Be Delayed",
+      "url": "https://deadline.com/2026/10/rebel-wilson-trial-delay-1237171175/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:28:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236921812",
+      "title": "John Mayer Sets Up His Own Label, Sob Rock Records, in Partnership With Mercury to Release First New Solo Music in Five Years",
+      "url": "https://variety.com/2026/music/news/john-mayer-new-label-sob-rock-records-mercury-1236921812/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:21:29+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236921716",
+      "title": "\u2018Wildwood\u2019 Director Travis Knight on AI: \u2018An Amazing Piece of Technology\u2019 But \u2018I\u2019m Not Embracing It at All\u2019",
+      "url": "https://variety.com/2026/film/columns/wildwood-director-travis-knight-ai-1236921716/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:21:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236917883",
+      "title": "Laika\u2019s First PG-13 Film, Brad Bird\u2019s Neo-Noir and an Alzheimer\u2019s Memoir: Animation\u2019s Revolution Isn\u2019t for Kids",
+      "url": "https://variety.com/2026/film/awards/animation-adults-wildwood-ray-gunn-tangles-hoppers-scad-1236917883/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:11:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916685",
+      "title": "Chaka Khan to Be Honored at Soul Train Awards (TV News Roundup)",
+      "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-oct-19-1236916685/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:05:53+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236738517",
+      "title": "NBC Extends \u2018Line of Fire\u2019 With Full-Season Pickup",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/line-of-fire-full-season-pickup-nbc-1236738517/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:00:00+00:00"
+    },
+    {
+      "guid": "46vPDWnZWdNoEbkJwBKemH",
+      "title": "Masters of the Universe director doesn't know if a sequel is on the way after streaming success",
+      "url": "https://www.gamesradar.com/entertainment/fantasy-movies/masters-of-the-universe-director-still-doesnt-know-if-a-sequel-is-on-the-way-after-the-he-man-movies-massive-streaming-success-these-sorts-of-decisions-are-out-of-our-control/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T21:14:46+00:00"
+    },
+    {
+      "guid": "sp8i2tHm9RxjMJAqM8s2Xj",
+      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+      "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T21:09:38+00:00"
+    },
+    {
+      "guid": "qWY95gXfSqCHmou73CbgWb",
+      "title": "Only one person on Earth can play this Steam game at a time: \"You control it for one minute\"",
+      "url": "https://www.gamesradar.com/games/platformer/only-one-person-on-earth-can-play-this-steam-game-at-a-time-when-it-is-your-turn-you-control-it-for-one-minute/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T21:00:38+00:00"
+    },
+    {
+      "guid": "SrSTMbmHJ2JfqRCsmF2hVi",
+      "title": "Zelda: Ocarina of Time on N64 actually had a jump button early in development",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-on-n64-actually-had-a-jump-button-early-in-development-29-years-before-nintendos-remake-added-one/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T20:59:23+00:00"
     }
   ]
 }
