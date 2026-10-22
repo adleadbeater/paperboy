@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Control Resonant Becomes Remedy's Fastest-Selling Game Ever With 1 Million Copies in 3 Weeks",
-      "tag": "control resonant",
-      "posted_at": "2026-10-15T18:30:50.546892+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/action/control-resonant-sells-1-million-copies-in-3-weeks-to-become-remedys-fastest-selling-game-ever/",
-        "https://www.pushsquare.com/news/2026/10/control-resonant-cuts-through-the-crazy-ps5-release-schedule-with-1-million-sales",
-        "https://www.gematsu.com/2026/10/control-resonant-sales-top-one-million"
-      ],
-      "article_titles": [
-        "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever",
-        "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales",
-        "CONTROL Resonant sales top one million"
-      ]
-    },
-    {
       "headline": "WWE's Cody Rhodes May Have Just Accidentally Confirmed He's in the X-Men Reboot",
       "tag": "x-men",
       "posted_at": "2026-10-15T20:01:14.442892+00:00",
@@ -1012,115 +997,22 @@
       "article_titles": [
         "Splash Damage acquired this studio just 3 months after laying off a bunch of people\u2014now it's laying them off, too"
       ]
+    },
+    {
+      "headline": "Hollow Knight: Silksong's $20 Price Point Frustrated Steam's Own Pricing Analyst",
+      "tag": "hollow knight: silksong",
+      "posted_at": "2026-10-22T18:30:59.751535+00:00",
+      "urls": [
+        "https://kotaku.com/steam-pricing-analyst-found-hollow-knight-silksongs-20-price-annoying-i-was-a-bit-like-oh-god-please-price-it-higher-2000748802"
+      ],
+      "article_titles": [
+        "Steam Pricing Analyst Found Hollow Knight: Silksong\u2019s $20 Price Annoying: \u2018I Was A Bit Like, Oh God, Please Price It Higher\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/video-games-down-php-vulnerability",
-      "title": "Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe",
-      "url": "https://www.eurogamer.net/video-games-down-php-vulnerability",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:11:14+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000748803",
-      "title": "Mass Effect 5 Writers Speak Out About The Game We\u2019ll Never Get: \u2018The Most Energizing, In-The-Zone Collaboration I\u2019ve Ever Had\u2019",
-      "url": "https://kotaku.com/mass-effect-5-writers-story-characters-canceled-bioware-2000748803",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:20:27+00:00"
-    },
-    {
-      "guid": "DSeRVSQX3YDFG9pB4Qxowk",
-      "title": "No more waiting on shaders to compile as Nvidia's latest driver adds advanced shader delivery: users report lower RAM usage in Call of Duty: Modern Warfare 4 and Gears of War: E-Day",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/no-more-waiting-on-shaders-to-compile-as-nvidias-latest-driver-adds-advanced-shader-delivery-users-report-lower-ram-usage-in-call-of-duty-modern-warfare-4-and-gears-of-war-e-day/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:17:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170159",
-      "title": "Matt Friend Joins Prime Video\u2019s \u2018Thursday Night Football\u2019 Postgame Show",
-      "url": "https://deadline.com/2026/10/matt-friend-prime-video-thursday-night-football-postgame-1237170159/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170401",
-      "title": "Final James Bond Screen Tests To Take Place Over Next Week As Amazon Nears Naming The Next 007 \u2013 The Dish",
-      "url": "https://deadline.com/2026/10/james-bond-screen-tests-names-1237170401/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:29:19+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170604",
-      "title": "JJ Watt Named Lead Analyst For \u2018NFL On CBS\u2019",
-      "url": "https://deadline.com/2026/10/jj-watt-named-lead-analyst-nfl-on-cbs-1237170604/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:20:43+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170594",
-      "title": "Bianna Golodryga Says She Is Leaving CNN After Nine Years",
-      "url": "https://deadline.com/2026/10/bianna-golodryga-to-leave-cnn-1237170594/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:18:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170591",
-      "title": "Brian Selznick\u2019s Rome-Set Queer YA Romance \u2018Run Away With Me\u2019 Set For Feature Adaptation With Gianni Nunnari Producing",
-      "url": "https://deadline.com/2026/10/queer-ya-romance-run-away-with-me-film-adaptation-1237170591/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:17:03+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237169910",
-      "title": "ESPN Original Series To Depict Formation Of Premier Lacrosse League",
-      "url": "https://deadline.com/2026/10/espn-original-series-premier-lacrosse-league-1237169910/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:08:53+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236919665",
-      "title": "\u2018Obsession\u2019 Star Inde Navarrette Says Gen Z Wants Films \u2018Where We\u2019re Not Being Sold. We Are Tired of Ads in Movies and Product Placement\u2019",
-      "url": "https://variety.com/2026/film/news/inde-navarrette-gen-z-movies-without-ads-product-placement-1236919665/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:28:59+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236920409",
-      "title": "Aamir Khan Tears Up About His Family, Shares Updates on \u20183 Idiots 2,\u2019 \u2018Andaz Apna Apna 2\u2019 at Singapore Film Fest",
-      "url": "https://variety.com/2026/film/festivals/aamir-khan-tears-up-3-idiots-2-andaz-apna-apna-2-updates-1236920409/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:22:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236920356",
-      "title": "Comcast Plans Major Layoffs as It Preps for NBCU Spin-Off, Sees $1 Billion-Plus Restructuring Charge in Q4",
-      "url": "https://variety.com/2026/tv/news/comcast-layoffs-nbcuniversal-spin-off-1-billion-restructuring-charge-1236920356/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T14:10:13+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085826",
-      "title": "Luma Island for PS5, Xbox Series launches December 2",
-      "url": "https://www.gematsu.com/2026/10/luma-island-for-ps5-xbox-series-launches-december-2",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T14:05:44+00:00"
-    },
     {
       "guid": "moymseFQ8aH4p2DmtH5Kvk",
       "title": "Only $70 separates RTX 5050, RTX 5060, and RTX 5060 Ti AND the RTX 5060 Ti 16 GB is now the same price as the RTX 5070 in what I can only describe as pure carnage",
@@ -1200,14 +1092,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-22T14:33:31+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208007",
-      "title": "Star Wars: Galactic Racer Doubles Online Party Size in First Major PS5 Update",
-      "url": "https://www.pushsquare.com/news/2026/10/star-wars-galactic-racer-doubles-online-party-size-in-first-major-ps5-update",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T14:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1125237",
@@ -2304,6 +2188,70 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-22T17:58:02+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000748802",
+      "title": "Steam Pricing Analyst Found Hollow Knight: Silksong\u2019s $20 Price Annoying: \u2018I Was A Bit Like, Oh God, Please Price It Higher\u2019",
+      "url": "https://kotaku.com/steam-pricing-analyst-found-hollow-knight-silksongs-20-price-annoying-i-was-a-bit-like-oh-god-please-price-it-higher-2000748802",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T18:00:53+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237170816",
+      "title": "Elon Musk Steps In With $1 Billion Equity Investment For Debt-Laden Skydance \u2014 Report",
+      "url": "https://deadline.com/2026/10/skydance-elon-musk-investment-larry-ellison-1237170816/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T18:29:03+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236921537",
+      "title": "Chappell Roan Invites Christina Aguilera for \u2018Coffee,\u2019 and Fully Manages \u2018Expectations,\u2019 in First Night of Benefits at L.A.\u2019s Shrine: Concert Review",
+      "url": "https://variety.com/2026/music/concert-reviews/chappell-roan-duet-christina-aguilera-benefit-shrine-1236921537/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T18:10:14+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736884",
+      "title": "Why a Top Hollywood Lawyer for Indie Projects Isn\u2019t Excited About the Paramount-Warner Bros. Merger",
+      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-lawyer-indie-projects-paramount-warner-bros-merger-1236736884/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T18:13:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236738368",
+      "title": "In Latest Smear Scandal Suit, an Influencer Falsely Accused of Involvement in Matthew Perry\u2019s Death",
+      "url": "https://www.hollywoodreporter.com/news/general-news/paige-jimenez-jed-wallace-melissa-nathan-bryan-freedman-1236738368/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T18:04:03+00:00"
+    },
+    {
+      "guid": "2fpkR24TZMYHBBaqfWdrHC",
+      "title": "Ubisoft confirms Assassin's Creed Black Flag Resynced New Game Plus is coming \"next week\"",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-black-flag-resynced-is-finally-getting-the-new-game-plus-update-players-begged-for-ubisoft-confirms/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T18:03:09+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208019",
+      "title": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism",
+      "url": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T18:00:00+00:00"
+    },
+    {
+      "guid": "https://www.tabletopbattles.com/warmachine-running-a-journeyman-league/",
+      "title": "[Warmachine] Running a Journeyman League",
+      "url": "https://www.tabletopbattles.com/warmachine-running-a-journeyman-league/",
+      "source_name": "Goonhammer",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T18:00:34+00:00"
     }
   ]
 }
