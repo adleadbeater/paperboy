@@ -1001,62 +1001,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000748885",
-      "title": "Valve Employee Seemingly Slips Up And Says Rumored Half-Life 3 Codename On Stage",
-      "url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T19:04:14+00:00"
-    },
-    {
-      "guid": "VMjMBRi7i4tpgfKiy7BjZb",
-      "title": "Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments",
-      "url": "https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T19:18:23+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170992",
-      "title": "Comcast Co-CEO Brian Roberts Touts Staffers\u2019 \u201cEnergy And Excitement\u201d About Pending NBCUniversal Split",
-      "url": "https://deadline.com/2026/10/comcast-nbcuniversal-split-brian-roberts-1237170992/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T19:26:08+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171003",
-      "title": "Tom Skerritt Dies: \u2018Top Gun,\u2019 \u2018Picket Fences,\u2019 \u2018Alien\u2019 Actor Was 93",
-      "url": "https://deadline.com/2026/10/tom-skerritt-dead-top-gun-actor-1237171003/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T19:19:10+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170985",
-      "title": "Mayor Zohran Mamdani And Neon Set Free NYC Screenings Of \u2018Once Upon A Time In Harlem\u2019",
-      "url": "https://deadline.com/2026/10/mayor-zohran-mamdani-neon-free-shows-once-upon-a-time-in-harlem-1237170985/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T19:18:18+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921694",
-      "title": "Tom Skerritt, \u2018Picket Fences\u2019 and \u2018Alien\u2019 Star, Dies at 93",
-      "url": "https://variety.com/2026/film/news/tom-skerritt-dead-picket-fences-alien-1236921694/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T19:04:47+00:00"
-    },
-    {
-      "guid": "1930585",
-      "title": "Why People Think Valve Just Accidentally Confirmed Half-Life 3",
-      "url": "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T19:02:15+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-208024",
       "title": "Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make",
       "url": "https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make",
@@ -1639,6 +1583,14 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-22T23:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237171251",
+      "title": "Chris Jericho To Play Gorgeous George In Prime Video\u2019s Muhammad Ali Limited Series \u2018The Greatest\u2019",
+      "url": "https://deadline.com/2026/10/chris-jericho-the-greatest-cast-gorgeous-george-1237171251/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T23:13:40+00:00"
     }
   ]
 }
