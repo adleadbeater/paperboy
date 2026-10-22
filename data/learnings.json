@@ -1006,14 +1006,6 @@
       "published_dt": "2026-10-22T17:00:19+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000748813",
-      "title": "The Internet Is Currently On Fire",
-      "url": "https://kotaku.com/the-internet-is-currently-on-fire-2000748813",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T16:30:25+00:00"
-    },
-    {
       "guid": "Bo69HFfg2oLizYJVMVdAxL",
       "title": "Someone leaked a Mass Effect 5 trailer and now I feel even worse, because it looks really good",
       "url": "https://www.pcgamer.com/games/mass-effect/someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-worse-because-it-looks-really-good/",
@@ -1110,14 +1102,6 @@
       "published_dt": "2026-10-22T16:42:09+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237170614",
-      "title": "Kate Berlant & John Early Join Olivia Wilde\u2019s Universal Holiday Comedy \u2018Naughty\u2019",
-      "url": "https://deadline.com/2026/10/kate-berlant-john-early-join-naughty-olivia-wilde-1237170614/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T16:30:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236910133",
       "title": "\u2018SNL\u2019 Sets John Mulaney\u2019s Seventh Time Hosting With Phoebe Bridgers as Musical Guest, Plus Druski and the Strokes",
       "url": "https://variety.com/2026/tv/news/snl-john-mulaney-phoebe-bridgers-druski-the-strokes-1236910133/",
@@ -1132,14 +1116,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-22T16:33:52+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236918682",
-      "title": "\u2018The Odyssey\u2019 Artisans Talk Bringing Christopher Nolan\u2019s Epic to Life With Practical Sets and Thousands of Costumes at Middleburg Film Fest",
-      "url": "https://variety.com/2026/artisans/news/the-odyssey-sets-costumes-editing-1236918682/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T16:30:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236695508",
@@ -1206,28 +1182,12 @@
       "published_dt": "2026-10-22T16:31:46+00:00"
     },
     {
-      "guid": "6jd8FB7teG6fBCabwDNozf",
-      "title": "Despite Switch 2 price hikes, US consumers actually aren't spending any more on the console now",
-      "url": "https://www.gamesradar.com/platforms/nintendo-switch-2/despite-switch-2-price-hikes-us-consumers-actually-arent-spending-any-more-on-the-console-now-analyst-says-pretty-smart-cookies-over-there-at-nintendo/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T16:29:53+00:00"
-    },
-    {
       "guid": "https://www.pushsquare.com/#article-208020",
       "title": "Mass Effect 5 Trailer Allegedly Leaks Following BioWare Closure",
       "url": "https://www.pushsquare.com/news/2026/10/mass-effect-5-trailer-allegedly-leaks-following-bioware-closure",
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-22T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208013",
-      "title": "Sony's Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T16:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1125245",
@@ -1996,6 +1956,38 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-22T20:02:44+00:00"
+    },
+    {
+      "guid": "adVZgkXrniRob8Bcg8yZYk",
+      "title": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
+      "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T20:16:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236921781",
+      "title": "Bianna Golodryga in Talks for New Roles at Politico, CBS News",
+      "url": "https://variety.com/2026/tv/news/bianna-golodryga-politico-cbs-news-cnn-talks-1236921781/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T20:29:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918375",
+      "title": "\u2018Black Shine, From \u2018State of Silence\u2019 Director Santiago Maza, \u2019 Delves Into the Aftermath of a 2006 Mining Tragedy That Buried 63 Miners",
+      "url": "https://variety.com/2026/film/global/morelia-film-festival-black-shine-aftermath-mining-tragedy-1236918375/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T20:23:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236921707",
+      "title": "Agencies and Producers Back U.S. Tax Incentive as \u2018First Step\u2019 Toward Hollywood Recovery",
+      "url": "https://variety.com/2026/film/news/american-entertainment-alliance-film-incentive-1236921707/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T20:13:06+00:00"
     }
   ]
 }
