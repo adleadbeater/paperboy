@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "RuneScape Reignited Canceled Less Than Two Weeks After Its Announcement",
-      "tag": "runescape",
-      "posted_at": "2026-10-15T21:00:52.201370+00:00",
-      "urls": [
-        "https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced"
-      ],
-      "article_titles": [
-        "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced"
-      ]
-    },
-    {
       "headline": "Pro Dota 2 Player Had to Play a Full Match in Front of Police to Prove His Identity",
       "tag": "dota 2",
       "posted_at": "2026-10-15T22:30:44.912593+00:00",
@@ -984,171 +973,33 @@
         "GTA 6\u2019s New TV Trailer Is A Bit Different, See It For Yourself",
         "GTA 6\u2019s New TV Trailer Is A Bit Different, See It For Yourself"
       ]
+    },
+    {
+      "headline": "Epic Is Hosting a Game Jam That Actively Encourages AI Use",
+      "tag": "epic games",
+      "posted_at": "2026-10-22T22:00:54.661732+00:00",
+      "urls": [
+        "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/"
+      ],
+      "article_titles": [
+        "Epic announces game jam where participants are encouraged to use AI"
+      ]
+    },
+    {
+      "headline": "Canadian Politician Wants BioWare Employees to Buy the Studio Before It's Gone",
+      "tag": "bioware",
+      "posted_at": "2026-10-22T22:00:54.883034+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/"
+      ],
+      "article_titles": [
+        "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "pLD86Eai3gD9GH9QfSVsGh",
-      "title": "'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider",
-      "url": "https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:57:26+00:00"
-    },
-    {
-      "guid": "QkVsgr7JTRxm6kG8dPJdrV",
-      "title": "Splash Damage acquired this studio just 3 months after laying off a bunch of people\u2014now it's laying them off, too",
-      "url": "https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:34:04+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170737",
-      "title": "Neil DeGrasse Tyson, Bill Nye & Dr. Mae Jemison Join Broadway\u2019s \u2018Galileo\u2019 Musical As Co-Producers",
-      "url": "https://deadline.com/2026/10/broadway-galileo-neil-degrasse-tyson-bill-nye-mae-jemison-join-1237170737/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:53:35+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170846",
-      "title": "Tom Hanks & Kelli O\u2019Hara Heading To Broadway Next Fall In \u2018This World Of Tomorrow\u2019",
-      "url": "https://deadline.com/2026/10/tom-hanks-kelli-ohara-broadway-this-world-of-tomorrow-1237170846/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:32:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237170871",
-      "title": "Mayor Zohran Mamdani & Neon Partner On Free \u2018Once Upon A Time In Harlem\u2019 Screenings Across NYC",
-      "url": "https://deadline.com/2026/10/once-upon-a-time-in-harlem-zohran-mamdani-neon-1237170871/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:31:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921622",
-      "title": "Fox Nation Plans to Place Promos for Chris Harrison\u2019s \u2018The Vow\u2019 on ABC Stations",
-      "url": "https://variety.com/2026/tv/news/fox-nation-chris-harrison-the-vow-abc-stations-1236921622/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T18:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921626",
-      "title": "Judge Orders Donald Trump to Testify Under Oath in $10 Billion BBC Defamation Case",
-      "url": "https://variety.com/2026/tv/news/trump-ordered-testify-bbc-defamation-case-1236921626/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:53:07+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921613",
-      "title": "Tom Hanks Returning to Broadway After 14 Years for New Play \u2018This World of Tomorrow\u2019",
-      "url": "https://variety.com/2026/film/news/tom-hanks-broadway-this-world-of-tomorrow-1236921613/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:47:48+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921508",
-      "title": "Sylvester Stallone Defends AI After His Pitch for a \u2018Half Human, Half AI\u2019 Movie Ignited Outrage: \u2018You Get Blasted\u2019 by Hollywood but \u2018I Would Take That Risk\u2019",
-      "url": "https://variety.com/2026/film/news/sylvester-stallone-ai-rambo-movie-backlash-1236921508/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:46:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236738279",
-      "title": "NBA Romance \u2018Vineyard Haven\u2019 in the Works From \u2018All American\u2019 EP Nkechi Okoro Carroll, Greg Berlanti at Amazon MGM (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/vineyard-haven-amazon-nkechi-okoro-carroll-greg-berlanti-1236738279/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236737958",
-      "title": "Netflix\u2019s Ted Sarandos Elected Chair of AFI\u2019s Board of Directors (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ted-sarandos-elected-chair-of-afi-board-of-directors-1236737958/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236738292",
-      "title": "\u2018Amy\u2019 Director Asif Kapadia Recalls Three-Act Quest to Becoming an Oscar Winner",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/amy-director-asif-kapadia-oscar-journey-mia-market-1236738292/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:55:33+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236738341",
-      "title": "Tom Hanks Sets Broadway Return in \u2018This World of Tomorrow\u2019",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/tom-hanks-broadway-return-in-this-world-of-tomorrow-1236738341/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:54:50+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236737956",
-      "title": "Charli D\u2019Amelio, Rob Rausch, Sofia Franklyn and More Internet Faves Join THR to Celebrate the Creators A-List",
-      "url": "https://www.hollywoodreporter.com/business/digital/charli-damelio-internet-faves-creators-a-list-event-1236737956/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T17:41:51+00:00"
-    },
-    {
-      "guid": "GUGfQFcwGwtYxGYTKtmQ8n",
-      "title": "Valve dev mentions rumored Half-Life game HLX, coworker immediately calls him out: \"Nice work\"",
-      "url": "https://www.gamesradar.com/games/fps/valve-dev-mentions-rumored-half-life-game-hlx-at-a-presentation-coworker-immediately-calls-him-out-nice-work/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:52:53+00:00"
-    },
-    {
-      "guid": "1929899",
-      "title": "EA Could Sell BioWare\u2019s IP As It Looks To Tackle Its Massive Debt, Former Studio Boss Says",
-      "url": "https://www.gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:34:21+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-208006",
-      "title": "Surprise! 'Shadow Of The Tomb Raider: Definitive Edition' Has Shadow Dropped On Switch 2",
-      "url": "https://www.nintendolife.com/news/2026/10/surprise-shadow-of-the-tomb-raider-definitive-edition-has-shadow-dropped-on-switch-2",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1125256",
-      "title": "Kenshi Yonezu Sings The Apothecary Diaries Movie Theme Song",
-      "url": "https://www.siliconera.com/kenshi-yonezu-sings-the-apothecary-diaries-movie-theme-song/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T18:00:00+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/",
-      "title": "Chaosium clamps down on AI and removes 40 community titles",
-      "url": "https://www.enworld.org/threads/chaosium-clamps-down-on-ai-and-removes-40-community-titles.721066/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:33:00+00:00"
-    },
-    {
-      "guid": "t3_1xcpse3",
-      "title": "Jason Schreier regarding the Mass Effect Universe trailer: \"Can confirm that this is a real trailer of the Mass Effect game that BioWare was developing up until its closure yesterday\"",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xcpse3/jason_schreier_regarding_the_mass_effect_universe/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T17:58:02+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000748802",
       "title": "Steam Pricing Analyst Found Hollow Knight: Silksong\u2019s $20 Price Annoying: \u2018I Was A Bit Like, Oh God, Please Price It Higher\u2019",
@@ -1196,14 +1047,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-22T18:03:09+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208019",
-      "title": "Promising Sci-Fi RPG Exodus Changes Its Main Character's Face After Fan Criticism",
-      "url": "https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T18:00:00+00:00"
     },
     {
       "guid": "https://www.tabletopbattles.com/warmachine-running-a-journeyman-league/",
@@ -1804,6 +1647,70 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-22T20:59:23+00:00"
+    },
+    {
+      "guid": "9JFFTSRzcnCGvvvVQXDRxU",
+      "title": "Epic announces game jam where participants are encouraged to use AI",
+      "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:39:30+00:00"
+    },
+    {
+      "guid": "79Fn2PSLudQRF2V92HMYME",
+      "title": "Canadian politician calls on government to help BioWare employees buy the studio and run it themselves",
+      "url": "https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:26:29+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237171243",
+      "title": "\u2018Wildwood\u2019 Director Hopes People \u201cSee The Danger\u201d In GenAI, Calls It \u201cAntithetical\u201d To Laika\u2019s Work",
+      "url": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:36:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237171103",
+      "title": "Comcast Flags $1 Billion Q4 Charge For Layoffs, Restructuring Amid Overhaul Of Core Connectivity Business",
+      "url": "https://deadline.com/2026/10/comcast-warns-q4-charge-layoffs-connectivity-1237171103/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:35:14+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236921858",
+      "title": "Raye Wins Mercury Prize for Album of the Year",
+      "url": "https://variety.com/2026/music/news/raye-wins-mercury-prize-album-of-the-year-1236921858/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:40:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236730017",
+      "title": "Nobody Knew This Game Existed, and Now It\u2019s a Hot 2027 Title",
+      "url": "https://www.hollywoodreporter.com/business/digital/1001-threads-of-mizan-game-1236730017/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-22T21:52:35+00:00"
+    },
+    {
+      "guid": "1930784",
+      "title": "After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look",
+      "url": "https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T21:37:24+00:00"
+    },
+    {
+      "guid": "t3_1xcvz1d",
+      "title": "Possible stage tour leak",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xcvz1d/possible_stage_tour_leak/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T21:52:52+00:00"
     }
   ]
 }
