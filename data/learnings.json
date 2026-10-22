@@ -958,46 +958,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "otQuNg3cfpDjnKvPNLDPET",
-      "title": "The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran",
-      "url": "https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T01:14:40+00:00"
-    },
-    {
-      "guid": "3UeTAqtXRr7mSTALbj3uQ9",
-      "title": "Can you identify the horror game by its horrors?",
-      "url": "https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T01:09:04+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236919383",
-      "title": "\u2018Petal Dance\u2019 Director Ishikawa Hiroshi Ends 13-Year Feature Hiatus With \u2018The Blue We Touch\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/markets-festivals/petal-dance-director-blue-we-touch-1236919383/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T01:28:39+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-207972",
-      "title": "EA Shuts Down Legendary RPG Developer BioWare",
-      "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T01:25:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1085774",
-      "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe coming to PS5, PS4, and PC on October 29",
-      "url": "https://www.gematsu.com/2026/10/hatsune-miku-connecting-puzzle-tamagotori-deluxe-coming-to-ps5-ps4-and-pc-on-october-29",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T01:13:57+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237170408",
       "title": "David Krumholtz Explains Why He Missed \u201910 Things I Hate About You\u2019 Reunion On \u2018DWTS\u2019: \u201cLove Them All\u201d",
       "url": "https://deadline.com/2026/10/david-krumholtz-missed-10-things-i-hate-about-you-reunion-dwts-1237170408/",
@@ -1012,6 +972,14 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-22T03:55:50+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1081798",
+      "title": "Pocket Mirror: GoldenerTraum now available for PS5, PS4, and Switch",
+      "url": "https://www.gematsu.com/2026/10/pocket-mirror-goldenertraum-now-available-for-ps5-ps4-and-switch",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-22T05:08:58+00:00"
     }
   ]
 }
