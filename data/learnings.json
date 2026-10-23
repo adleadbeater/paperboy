@@ -1018,86 +1018,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236730017",
-      "title": "Nobody Knew This Game Existed, and Now It\u2019s a Hot 2027 Title",
-      "url": "https://www.hollywoodreporter.com/business/digital/1001-threads-of-mizan-game-1236730017/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T21:52:35+00:00"
-    },
-    {
-      "guid": "t3_1xcvz1d",
-      "title": "Possible stage tour leak",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xcvz1d/possible_stage_tour_leak/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T21:52:52+00:00"
-    },
-    {
-      "guid": "Sj2Ra9wjGDMhnbXcutoLec",
-      "title": "My GOTY is $7 and has 253 Steam reviews",
-      "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T22:29:10+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171297",
-      "title": "Michael Gray Dies: \u2018Shazam!\u2019 Star Was 75",
-      "url": "https://deadline.com/2026/10/michael-gray-dead-shazam-1237171297/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T22:53:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171304",
-      "title": "Marvel\u2019s \u2018Zodiac\u2019 Spy Series To Be Written By Amit Cohen & Ron Leshem",
-      "url": "https://deadline.com/2026/10/marvel-zodiac-spy-series-writers-amit-cohen-ron-leshem-1237171304/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T22:33:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171275",
-      "title": "Tony Lipp And Dara Gordon Join Entertainment 360 As Partners",
-      "url": "https://deadline.com/2026/10/tony-lipp-dara-gordon-join-entertainment-360-partners-1237171275/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T22:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921862",
-      "title": "CBS Premiere Week Multiplatform Ratings See Big Year-Over-Year Increases (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/cbs-premiere-week-multiplatform-ratings-increases-1236921862/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T23:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236738709",
-      "title": "Michael Gray, Former Teen Idol and Star of \u2018Shazam!,\u2019 Dies at 75",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/michael-gray-dead-shazam-1236738709/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T22:59:26+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208020",
-      "title": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
-      "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-22T23:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171251",
-      "title": "Chris Jericho To Play Gorgeous George In Prime Video\u2019s Muhammad Ali Limited Series \u2018The Greatest\u2019",
-      "url": "https://deadline.com/2026/10/chris-jericho-the-greatest-cast-gorgeous-george-1237171251/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-22T23:13:40+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237171442",
       "title": "\u2018Nobody Wants This\u2019 Creator Erin Foster Responds To Adam Brody\u2019s \u201cFree Palestine\u201d Comments: \u201cIt\u2019s Complicated\u201d",
       "url": "https://deadline.com/2026/10/nobody-wants-this-creator-responds-adam-brody-free-palestine-1237171442/",
@@ -1128,6 +1048,14 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-23T01:08:51+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125301",
+      "title": "Petit Planet Pre-Launch Special Program Airs in November",
+      "url": "https://www.siliconera.com/petit-planet-pre-launch-special-program-airs-in-november/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-23T04:00:00+00:00"
     }
   ]
 }
