@@ -1050,46 +1050,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000749095",
-      "title": "Battlefield 6, One Year Later",
-      "url": "https://kotaku.com/battlefield-6-one-year-later-2000749095",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T18:44:13+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171018",
-      "title": "All The Songs In \u2018Love Language\u2019: From Daddy Yankee To Royel Otis",
-      "url": "https://deadline.com/2026/10/love-language-soundtrack-songs-chappell-roan-haim-1237171018/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236739166",
-      "title": "Chino Pacas, Clave Especial, Vic Blends Join Gina Rodriguez\u2019s Boxing Drama \u2018House of Guerrero\u2019 (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/house-of-guerrero-chino-pacas-clave-especial-vic-blends-1236739166/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T18:57:34+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?post_type=pmc-gallery&p=1236735373",
-      "title": "\u2018Wicker\u2019 Premieres, Taika Waititi Debuts \u2018Klara and the Sun\u2019 and This Week\u2019s Best Events",
-      "url": "https://www.hollywoodreporter.com/gallery/wicker-klara-and-the-sun-red-carpet-events-1236735373/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T18:52:08+00:00"
-    },
-    {
-      "guid": "TwkULcMRVqU56ugfMpvupk",
-      "title": "Zelda: Ocarina of Time designer wanted Navi to be a \"cute girl,\" but it \"wasn't possible\" on N64",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-designer-wanted-navi-to-be-a-cute-girl-but-that-wasnt-possible-with-the-nintendo-64/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-23T18:56:46+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000749070",
       "title": "Capcom and Square Enix Suffer Online Attacks As Hackers Access Player Data",
       "url": "https://kotaku.com/capcom-and-square-enix-suffer-online-attacks-as-hackers-access-player-data-2000749070",
@@ -1144,14 +1104,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-23T19:02:02+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1125362",
-      "title": "FFVII Revelation Piano Minigame Gets More Instruments",
-      "url": "https://www.siliconera.com/ffvii-revelation-piano-minigame-gets-more-instruments/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-23T19:00:00+00:00"
     },
     {
       "guid": "t3_1xdn4by",
@@ -1368,6 +1320,46 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-23T22:18:01+00:00"
+    },
+    {
+      "guid": "3oLMhWLxR4sUFv6ayUZ43g",
+      "title": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+      "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T22:46:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236739368",
+      "title": "\u2018Crawl 2\u2019 Adds Sarah Niles, Ray Panthaki and 3 More Ahead of 2027 Paramount Release (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/crawl-2-sarah-niles-ray-panthaki-flula-borg-sequel-1236739368/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T22:51:39+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236739352",
+      "title": "Marysa Maslansky, Founder of the Renowned Visages Photo Agency, Dies at 82",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/marysa-maslansky-dead-visages-photo-agency-herb-ritts-1236739352/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T22:44:17+00:00"
+    },
+    {
+      "guid": "szbmGE4z3J9JDxbyBMDxGG",
+      "title": "The best thing Valve has added to Steam in years just graduated to \"full feature\"",
+      "url": "https://www.gamesradar.com/games/the-best-thing-valve-has-added-to-steam-in-years-just-graduated-to-full-feature/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-23T22:48:10+00:00"
+    },
+    {
+      "guid": "t3_1xdshni",
+      "title": "[The Verge] Xbox's Helen Chiang, appointed COO to manage profits and losses in July, has left Xbox after 20 years at the company and 3 months in the position, according to a leaked internal memo written by Asha Sharma on late Friday",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xdshni/the_verge_xboxs_helen_chiang_appointed_coo_to/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-23T22:48:31+00:00"
     }
   ]
 }
