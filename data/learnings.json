@@ -1018,12 +1018,84 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.siliconera.com/?p=1125301",
-      "title": "Petit Planet Pre-Launch Special Program Airs in November",
-      "url": "https://www.siliconera.com/petit-planet-pre-launch-special-program-airs-in-november/",
-      "source_name": "Siliconera",
+      "guid": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
+      "title": "Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more",
+      "url": "https://www.eurogamer.net/half-life-3-developer-references-codename-public",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T12:43:22+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+      "title": "Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone",
+      "url": "https://www.eurogamer.net/phantom-blade-zero-hit-not-out",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T12:33:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237171447",
+      "title": "\u2018The Gentlemen\u2019 Season 3 Cast Additions Include Orlando Bloom, Robert Carlyle & Elijah Wood But No Meghan Markle; Here\u2019s Who\u2019s Not Coming Back",
+      "url": "https://deadline.com/2026/10/the-gentlemen-season-3-cast-orlando-bloom-no-meghan-markle-1237171447/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236918204",
+      "title": "Jon Tower Takes Executive Producer Role at Revamped \u2018CBS Mornings\u2019",
+      "url": "https://variety.com/2026/tv/news/jon-tower-cbs-mornings-executive-producer-tv-news-1236918204/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T12:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236736290",
+      "title": "Kim Kardashian Read Every Page of Her Authorized Biography. Here\u2019s What She Pushed Back On.",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/kim-kardashian-authorized-biography-author-interview-1236736290/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236738739",
+      "title": "Jonathan Groff to Return to Broadway in Solo Play \u2018The Amish Project\u2019",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/jonathan-groff-broadway-return-solo-play-amish-project-1236738739/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-23T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208056",
+      "title": "Shigeru Miyamoto Becomes First Game Dev To Receive Japan's Prestigious Culture Award",
+      "url": "https://www.nintendolife.com/news/2026/10/shigeru-miyamoto-becomes-first-game-dev-to-receive-japans-prestigious-culture-award",
+      "source_name": "Nintendo Life",
       "source_tier": 2,
-      "published_dt": "2026-10-23T04:00:00+00:00"
+      "published_dt": "2026-10-23T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208060",
+      "title": "Call of Duty: Modern Warfare 4's Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far",
+      "url": "https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-23T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208058",
+      "title": "Thai Rapper Lisa's 'Tarantino' Music Video Squeezes in PS5 Product Placement",
+      "url": "https://www.pushsquare.com/news/2026/10/thai-rapper-lisas-tarantino-music-video-squeezes-in-ps5-product-placement",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-23T12:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1085901",
+      "title": "Genshin Impact Version version 7.2 update \u2018Hour of Ruin\u2019 launches November 4",
+      "url": "https://www.gematsu.com/2026/10/genshin-impact-version-version-7-2-update-hour-of-ruin-launches-november-4",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-23T12:56:55+00:00"
     }
   ]
 }
