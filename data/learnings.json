@@ -1022,38 +1022,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
-      "title": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pok\u00e9mon cards",
-      "url": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T17:17:53+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000749324",
-      "title": "Xbox\u2019s Chief Operating Officer Out Three Months After Role\u2019s Creation",
-      "url": "https://kotaku.com/xboxs-chief-operating-officer-out-three-months-after-roles-creation-2000749324",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T17:27:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236930287",
-      "title": "Sylvester Stallone Says Daughter\u2019s \u2018Tulsa King\u2019 Role is \u2018Of Course\u2019 Nepotism: \u2018Obviously We Let Them Have Every Advantage\u2019",
-      "url": "https://variety.com/2026/tv/news/sylvester-stallone-tulsa-king-nepotism-1236930287/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T17:28:02+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208094",
-      "title": "PS5's Release Schedule Is Insane Next Week, And It's Just Added Another Must Play",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-24T17:30:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000749331",
       "title": "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture",
       "url": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
@@ -1076,6 +1044,38 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-24T20:22:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930402",
+      "title": "Cynthia Erivo Plays Glinda in \u2018Nigerian Wicked\u2019 Sketch on \u2018SNL U.K.\u2019: \u2018She Wants a BBL That Defies Gravity\u2019",
+      "url": "https://variety.com/2026/tv/global/cynthia-erivo-glinda-nigerian-wicked-snl-uk-1236930402/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T21:59:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930410",
+      "title": "Shia LaBeouf Would Trash-Talk \u2018Lizzie McGuire\u2019 While Filming \u2018Even Stevens,\u2019 says Christy Carlson Romano: \u2018He Wanted to Be the Number One Show\u2019",
+      "url": "https://variety.com/2026/tv/news/shia-labeouf-lizzie-mcguire-even-stevens-christy-carlson-romano-1236930410/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T21:52:55+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930011",
+      "title": "Cynthia Erivo Imagines Competing on \u2018The Great British Bake Off\u2019 in \u2018SNL U.K.\u2019 Opening Monologue: \u2018I\u2019ve Got a Soggy Bottom and I\u2019m Freaking Stressed!\u2019",
+      "url": "https://variety.com/2026/tv/global/cynthia-erivo-monologue-snl-uk-british-bake-off-1236930011/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T21:32:52+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930390",
+      "title": "\u2018SNL U.K.\u2019 Cold Open Spoofs Andy Burnham on \u2018Gogglebox,\u2019 Prince William on \u2018The Graham Norton Show,\u2019 \u2018The Celebrity Traitors\u2019 and More",
+      "url": "https://variety.com/2026/tv/global/snl-uk-cold-open-prince-william-graham-norton-show-1236930390/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T21:28:27+00:00"
     }
   ]
 }
