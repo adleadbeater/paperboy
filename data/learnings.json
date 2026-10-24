@@ -1,45 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "The Street Fighter Movie Is Out \u2014 And It's Already Stirring Up Controversy Over Cammy",
-      "tag": "street fighter",
-      "posted_at": "2026-10-16T21:00:54.961575+00:00",
-      "urls": [
-        "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822",
-        "https://kotaku.com/street-fighter-2026-movie-review-guile-ken-ryu-chun-li-2000746803",
-        "https://kotaku.com/who-the-hell-was-that-in-the-street-fighter-movie-because-it-wasnt-cammy-2000746822"
-      ],
-      "article_titles": [
-        "Who The Hell Was That In The Street Fighter Movie Because It Wasn\u2019t Cammy",
-        "The Street Fighter Movie: The Kotaku Review",
-        "Who The Hell Was That In The Street Fighter Movie Because It Wasn\u2019t Cammy"
-      ]
-    },
-    {
-      "headline": "The Cyberpunk 2077 movie won't just retell the game, CD Projekt's boss confirms",
-      "tag": "cyberpunk 2077",
-      "posted_at": "2026-10-16T22:09:13.578796+00:00",
-      "urls": [
-        "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/"
-      ],
-      "article_titles": [
-        "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
-      ]
-    },
-    {
-      "headline": "Smash Bros. legend Mew2King banned from tournament over bug bites and health concerns",
-      "tag": "super smash bros.",
-      "posted_at": "2026-10-16T22:09:13.653682+00:00",
-      "urls": [
-        "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-        "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns"
-      ],
-      "article_titles": [
-        "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
-        "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns"
-      ]
-    },
-    {
       "headline": "Liquid Swords, Developer of Samson, Files for Bankruptcy Just 6 Months After Launch",
       "tag": "liquid swords",
       "posted_at": "2026-10-17T14:29:44.063495+00:00",
@@ -1044,195 +1005,22 @@
       "article_titles": [
         "Developer Of \u2018Ecosocialist\u2019 Game Future? No Thanks! Offers Refunds After Using AI Despite Calling It \u2018Technofascist\u2019"
       ]
+    },
+    {
+      "headline": "Dead by Daylight Is Losing Chucky, Months After Michael Myers Was Also Pulled",
+      "tag": "dead by daylight",
+      "posted_at": "2026-10-24T00:30:34.143652+00:00",
+      "urls": [
+        "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers"
+      ],
+      "article_titles": [
+        "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000749070",
-      "title": "Capcom and Square Enix Suffer Online Attacks As Hackers Access Player Data",
-      "url": "https://kotaku.com/capcom-and-square-enix-suffer-online-attacks-as-hackers-access-player-data-2000749070",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:00:54+00:00"
-    },
-    {
-      "guid": "c6ZV384XgcTYsvZJgEsaCJ",
-      "title": "'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem",
-      "url": "https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:24:34+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171872",
-      "title": "FCC\u2019s Sole Democrat Calls On Broadcast Lobby To Push Back On Trump-Backed Chairman\u2019s Regulatory Threats Over Election Coverage",
-      "url": "https://deadline.com/2026/10/trump-fcc-election-coverage-broadcast-lobby-1237171872/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:11:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236914753",
-      "title": "\u2018The Cycle\u2019 Is a Surprising New Take on the Police Procedural, With a Huge Twist and an Emotional Resonance the Director Didn\u2019t Expect",
-      "url": "https://variety.com/2026/film/features/the-cycle-werewolf-horror-movie-police-procedural-1236914753/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236929945",
-      "title": "El Gouna\u2019s CineGouna Expands Industry Push: \u2018We Want to Give Every Filmmaker a Chance\u2019",
-      "url": "https://variety.com/2026/film/global/el-gouna-cinegouna-arab-film-industry-programs-1236929945/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:23:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236929923",
-      "title": "Blumhouse Soliciting Testimony from Anyone Who Feels \u2018Personally Victimized\u2019 by One of Its Movies or TV Shows",
-      "url": "https://variety.com/2026/tv/news/blumhouse-testimony-victimized-movies-tv-shows-1236929923/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:07:34+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236918133",
-      "title": "Zendaya Sets \u2018Dune 3\u2019 Oscar Campaign for Best Actress in Category Shake-Up (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/awards/zendaya-oscars-dune-3-best-actress-1236918133/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:02:02+00:00"
-    },
-    {
-      "guid": "t3_1xdn4by",
-      "title": "Starting November 16th, Discord and GTA 6 will be running a promotion that features a new Custom App Icon, Display Name Font and Client Theme.",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xdn4by/starting_november_16th_discord_and_gta_6_will_be/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-23T19:10:34+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000749121",
-      "title": "Table Tennis Beast Luc\u00eda Has Returned To Torment Players Again In Switch Sports Resort",
-      "url": "https://kotaku.com/table-tennis-beast-lucia-has-returned-to-torment-players-again-in-switch-sports-resort-2000749121",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:30:42+00:00"
-    },
-    {
-      "guid": "jSPN9ofbdnFeDsLFA99i86",
-      "title": "It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?",
-      "url": "https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:37:16+00:00"
-    },
-    {
-      "guid": "748ycdMz8xzSo7KqmtWPjR",
-      "title": "Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game'",
-      "url": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:35:17+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237156113",
-      "title": "\u2018VisionQuest\u2019 Seems Eager To Confront Dangers Of Unregulated AI, But The Team Behind It Says MCU Series Isn\u2019t A Reflection Of Current Events",
-      "url": "https://deadline.com/2026/10/visionquest-unregulated-ai-danger-paul-bettany-james-spader-1237156113/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:43:03+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171853",
-      "title": "Nick Reiner Poised To Receive Trust Fund Cash For Defense In Parents\u2019 Murder Case; Lawyer Insists \u201cNeed To Get Resolved As Quickly As Possible\u201d",
-      "url": "https://deadline.com/2026/10/nick-reiner-trust-fund-murder-case-defense-1237171853/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:42:48+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171923",
-      "title": "\u2018Fallout Shelter: The Experiment\u2019 Competition Series Sets Release Date At Prime Video",
-      "url": "https://deadline.com/2026/10/fallout-shelter-release-date-video-game-prime-video-1237171923/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:51:51+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236739014",
-      "title": "Apple\u2019s Newest iPhone May Be Hollywood\u2019s Best Friend",
-      "url": "https://www.hollywoodreporter.com/business/digital/apple-iphone-duo-hollywood-streaming-optimized-1236739014/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T19:58:23+00:00"
-    },
-    {
-      "guid": "1931898",
-      "title": "Call Of Duty: Modern Warfare 4\u2019s First DLC Is Out Now,  Honors A Real Soldier Who Sustained Gruesome Injuries",
-      "url": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-23T19:37:03+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1125367",
-      "title": "New Hatsune Miku Swan Lake Black Swan Ballerina Figure Teased",
-      "url": "https://www.siliconera.com/new-hatsune-miku-swan-lake-black-swan-ballerina-figure-teased/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-23T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-      "title": "Nintendo's Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
-      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:12:34+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000749159",
-      "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
-      "url": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:00:30+00:00"
-    },
-    {
-      "guid": "4N8aSPFiskwT4TC2BgQ2GZ",
-      "title": "Time could be running out for Arkane",
-      "url": "https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:07:21+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236929966",
-      "title": "\u2018Law & Order: SVU\u2019 Sets Stephanie March to Return as Alexandra Cabot",
-      "url": "https://variety.com/2026/tv/news/law-order-svu-stephanie-march-return-alexandra-cabot-1236929966/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236929863",
-      "title": "Why Olivia Colman Didn\u2019t Get Splinters From Getting Intimate With Alexander Skarsg\u00e5rd\u2019s \u2018Wicker\u2019 Costume",
-      "url": "https://variety.com/2026/artisans/news/what-alexander-skarsgard-wicker-basket-was-made-from-1236929863/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:20:45+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236929836",
-      "title": "Ethan Klein Reacts to Hila Klein\u2019s Cheating Allegations Amid \u2018H3 Podcast\u2019 Fallout: \u2018Please Respect My Family\u2019s Privacy \u2026 They Have Nothing to Do With This\u2019",
-      "url": "https://variety.com/2026/digital/news/ethan-klein-reacts-hila-klein-cheating-allegations-h3-1236929836/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:01:42+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000749192",
       "title": "The Normandy SR-2 Is Now A Haunted House, But It Will Always Be My Home",
@@ -1264,14 +1052,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-23T20:45:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237172010",
-      "title": "Stephanie March Returning To \u2018Law & Order: SVU\u2019 Reprising Original Role",
-      "url": "https://deadline.com/2026/10/stephanie-march-return-law-order-svu-season-28-1237172010/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:30:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236738791",
@@ -1360,6 +1140,30 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-23T22:48:31+00:00"
+    },
+    {
+      "guid": "04a44ffb-f66c-4b35-97cd-447c3c033d10",
+      "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
+      "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T00:01:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237171300",
+      "title": "Awards Season Heats Up With \u2018The Only Living Pickpocket In New York,\u2019 \u2018Fatherland\u2019 & More \u2014 Specialty Preview",
+      "url": "https://deadline.com/2026/10/indie-films-opening-only-living-pickpocket-in-new-york-wicker-1237171300/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T00:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172205",
+      "title": "Everything We Know About Universal\u2019s \u2018Miami Vice \u201985\u2019 Movie So Far",
+      "url": "https://deadline.com/feature/miami-vice-85-movie-news-updates-1237172205/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T00:16:09+00:00"
     }
   ]
 }
