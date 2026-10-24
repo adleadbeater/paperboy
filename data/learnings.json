@@ -1022,70 +1022,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000749192",
-      "title": "The Normandy SR-2 Is Now A Haunted House, But It Will Always Be My Home",
-      "url": "https://kotaku.com/mass-effect-5-bioware-closure-universe-legendary-edition-2000749192",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:45:06+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000749158",
-      "title": "Developer Of \u2018Ecosocialist\u2019 Game Future? No Thanks! Offers Refunds After Using AI Despite Calling It \u2018Technofascist\u2019",
-      "url": "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:30:36+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237172032",
-      "title": "Judi Dench Reveals She \u201cCan\u2019t Do A Film Anymore\u201d Or \u201cBe On Stage\u201d Amid Worsening Eye Condition",
-      "url": "https://deadline.com/2026/10/judi-dench-cant-do-film-anymore-worsening-eye-condition-1237172032/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:59:34+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237171001",
-      "title": "Trailer Park & Buddha Jones Veteran Joshua Rogers Launches Creative Agency Gravity",
-      "url": "https://deadline.com/2026/10/joshua-rogers-creative-agency-gravity-launch-1237171001/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:45:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236738791",
-      "title": "Director Rory Kennedy on \u2018The Trial of Alec Baldwin\u2019:  \u201cIf This Was Tom Hanks or Julia Roberts, I Don\u2019t Think This Would Have Gone to Trial\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/alec-baldwin-rory-kennedy-rust-1236738791/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:45:05+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236739266",
-      "title": "\u2018Law & Order: SVU\u2019 Brings Back Another Familiar Face in Stephanie March",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/stephanie-march-law-order-svu-return-1236739266/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:31:34+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236739182",
-      "title": "Teen Study: YouTube Rules, AI Doom Increases With Age and Moviegoing Beats Sports on Weekends",
-      "url": "https://www.hollywoodreporter.com/news/general-news/ucla-teens-screens-study-2026-tv-film-media-habits-youth-1236739182/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-23T20:30:57+00:00"
-    },
-    {
-      "guid": "Kui6Ft5uBffbJ5fzYkTuEP",
-      "title": "Factorio 2.1, the last big update to the icon that got 234,000 glowing Steam reviews, is out",
-      "url": "https://www.gamesradar.com/games/simulation/factorio-2-1-the-last-big-update-to-the-sim-icon-that-got-234-000-glowing-steam-reviews-without-ever-going-on-sale-is-officially-out/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-23T20:57:42+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237172108",
       "title": "\u2018Crazy Rich Asians\u2019 Star Constance Wu Teases \u201cReally Funny\u201d HBO Series Filming In NYC",
       "url": "https://deadline.com/2026/10/crazy-rich-asians-constance-wu-teases-funny-hbo-series-1237172108/",
@@ -1164,6 +1100,22 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-24T00:16:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172207",
+      "title": "\u2018Avengers: Doomsday\u2019 World Series Sneak Peek Sees Mister Fantastic Throw Out First Pitch",
+      "url": "https://deadline.com/2026/10/avengers-doomsday-world-series-sneak-peek-1237172207/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T01:01:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930069",
+      "title": "Ken Atchity, \u2018The Meg\u2019 Producer and Literary Agent, Dies at 82",
+      "url": "https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T00:59:59+00:00"
     }
   ]
 }
