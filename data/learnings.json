@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Vampire: The Masquerade \u2014 Bloodlines Remaster Reportedly in the Works",
-      "tag": "vampire: the masquerade \u2014 bloodlines",
-      "posted_at": "2026-10-17T18:39:03.705297+00:00",
-      "urls": [
-        "https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour"
-      ],
-      "article_titles": [
-        "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake"
-      ]
-    },
-    {
-      "headline": "Joe Manganiello Reveals Details of Ben Affleck's Scrapped Batman Movie \u2014 Including a Deathstroke Arkham Fight and Batgirl",
-      "tag": "dc/batman",
-      "posted_at": "2026-10-17T19:33:03.249258+00:00",
-      "urls": [
-        "https://www.ign.com/articles/ben-afflecks-batman-movie-would-have-featured-arkham-asylum-inspired-deathstroke-fight-and-dceu-batgirl-joe-manganiello-reveals"
-      ],
-      "article_titles": [
-        "Ben Affleck's Batman Movie Would Have Featured Arkham Asylum-Inspired Deathstroke Fight and DCEU Batgirl, Joe Manganiello Reveals"
-      ]
-    },
-    {
       "headline": "God of War: Laufey's Collector's Box Costs \u00a3130 and Doesn't Include the Game",
       "tag": "god of war",
       "posted_at": "2026-10-18T14:56:29.599139+00:00",
@@ -1027,75 +1005,22 @@
       "article_titles": [
         "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pok\u00e9mon cards"
       ]
+    },
+    {
+      "headline": "Zelda Producer Eiji Aonuma Has Been Knighted by France",
+      "tag": "the legend of zelda",
+      "posted_at": "2026-10-24T19:53:20.825784+00:00",
+      "urls": [
+        "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331"
+      ],
+      "article_titles": [
+        "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
-      "title": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
-      "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T14:26:27+00:00"
-    },
-    {
-      "guid": "JWXsvDJz7BKnMaXj6D4boK",
-      "title": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
-      "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T14:30:20+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237172323",
-      "title": "Ric Flair Health Update: Ex-Wrestler Recovering After Fall In Florida",
-      "url": "https://deadline.com/2026/10/ric-flair-health-update-1237172323/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T14:26:59+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236930220",
-      "title": "Quentin Tarantino Surprises Fans With 17 Minutes of \u2018The Further Mis-Adventures of Cliff Booth\u2019 at AFI Fest",
-      "url": "https://variety.com/2026/film/news/quentin-tarantino-further-mis-adventures-of-cliff-booth-preview-1236930220/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T14:47:44+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1761196",
-      "title": "Anime Director Rintaro Named Person of Cultural Merit in Japan for His Contributions to Anime Classics Like Galaxy Express 999",
-      "url": "https://otakukart.com/anime-director-rintaro-named-person-of-cultural-merit-in-japan-for-his-contributions-to-anime-classics-like-galaxy-express-999/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-24T14:56:09+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1761195",
-      "title": "Detective Conan Scriptwriter Toyoto Kogisu Dies at 69, Wrote Episodes for the Anime Between 2000 and 2018",
-      "url": "https://otakukart.com/detective-conan-scriptwriter-toyoto-kogisu-dies-at-69-wrote-episodes-for-the-anime-between-2000-and-2018/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-24T14:52:09+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1760975",
-      "title": "One Piece Chapter 1197: Spoilers, Summary and Pics \u2013 LIVE",
-      "url": "https://otakukart.com/one-piece-chapter-1197-spoilers-summary-and-pics-live/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-24T14:51:55+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1761194",
-      "title": "\u201cSorry My Friend, I Have No Good News\u201d \u2013 Vinland Saga Creator Makoto Yukimura Says Season 3 Is Not in Production",
-      "url": "https://otakukart.com/sorry-my-friend-i-have-no-good-news-vinland-saga-creator-makoto-yukimura-says-season-3-is-not-in-production/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-24T14:23:20+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon",
       "title": "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pok\u00e9mon cards",
@@ -1127,6 +1052,22 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-24T17:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000749331",
+      "title": "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture",
+      "url": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T19:45:31+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930049",
+      "title": "What Is \u2018Fjord\u2019 Really About? A Political Stance That May Be Too Hot to Handle",
+      "url": "https://variety.com/2026/film/columns/what-is-fjord-really-about-1236930049/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T19:32:45+00:00"
     }
   ]
 }
