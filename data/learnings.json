@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Liquid Swords, Developer of Samson, Files for Bankruptcy Just 6 Months After Launch",
-      "tag": "liquid swords",
-      "posted_at": "2026-10-17T14:29:44.063495+00:00",
-      "urls": [
-        "https://kotaku.com/samson-developer-and-publisher-liquid-swords-goes-bankrupt-6-months-after-release-2000747049"
-      ],
-      "article_titles": [
-        "Samson Developer And Publisher Liquid Swords Goes Bankrupt, 6 Months After Release"
-      ]
-    },
-    {
       "headline": "Vampire: The Masquerade \u2014 Bloodlines Remaster Reportedly in the Works",
       "tag": "vampire: the masquerade \u2014 bloodlines",
       "posted_at": "2026-10-17T18:39:03.705297+00:00",
@@ -1016,9 +1005,85 @@
       "article_titles": [
         "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers"
       ]
+    },
+    {
+      "headline": "Indie Dev Reverses Course, Strips AI Voice Lines From His Own Game After Calling the Tech \"Anti-Human\"",
+      "tag": "indie gaming / ai in games",
+      "posted_at": "2026-10-24T14:56:49.318685+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/"
+      ],
+      "article_titles": [
+        "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": []
+  "article_cache": [
+    {
+      "guid": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
+      "title": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
+      "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T14:26:27+00:00"
+    },
+    {
+      "guid": "JWXsvDJz7BKnMaXj6D4boK",
+      "title": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
+      "url": "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T14:30:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172323",
+      "title": "Ric Flair Health Update: Ex-Wrestler Recovering After Fall In Florida",
+      "url": "https://deadline.com/2026/10/ric-flair-health-update-1237172323/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T14:26:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930220",
+      "title": "Quentin Tarantino Surprises Fans With 17 Minutes of \u2018The Further Mis-Adventures of Cliff Booth\u2019 at AFI Fest",
+      "url": "https://variety.com/2026/film/news/quentin-tarantino-further-mis-adventures-of-cliff-booth-preview-1236930220/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T14:47:44+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761196",
+      "title": "Anime Director Rintaro Named Person of Cultural Merit in Japan for His Contributions to Anime Classics Like Galaxy Express 999",
+      "url": "https://otakukart.com/anime-director-rintaro-named-person-of-cultural-merit-in-japan-for-his-contributions-to-anime-classics-like-galaxy-express-999/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-24T14:56:09+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761195",
+      "title": "Detective Conan Scriptwriter Toyoto Kogisu Dies at 69, Wrote Episodes for the Anime Between 2000 and 2018",
+      "url": "https://otakukart.com/detective-conan-scriptwriter-toyoto-kogisu-dies-at-69-wrote-episodes-for-the-anime-between-2000-and-2018/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-24T14:52:09+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1760975",
+      "title": "One Piece Chapter 1197: Spoilers, Summary and Pics \u2013 LIVE",
+      "url": "https://otakukart.com/one-piece-chapter-1197-spoilers-summary-and-pics-live/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-24T14:51:55+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761194",
+      "title": "\u201cSorry My Friend, I Have No Good News\u201d \u2013 Vinland Saga Creator Makoto Yukimura Says Season 3 Is Not in Production",
+      "url": "https://otakukart.com/sorry-my-friend-i-have-no-good-news-vinland-saga-creator-makoto-yukimura-says-season-3-is-not-in-production/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-24T14:23:20+00:00"
+    }
+  ]
 }
