@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "God of War: Laufey's Collector's Box Costs \u00a3130 and Doesn't Include the Game",
-      "tag": "god of war",
-      "posted_at": "2026-10-18T14:56:29.599139+00:00",
-      "urls": [
-        "https://www.eurogamer.net/god-of-war-laufey-collector-box-no-game"
-      ],
-      "article_titles": [
-        "God of War Laufey's \u00a3130 Collector Box doesn't come with the game"
-      ]
-    },
-    {
       "headline": "Infinity Ward Responds to Rumors That Modern Warfare 4 Will End the Rebooted Story",
       "tag": "call of duty: modern warfare",
       "posted_at": "2026-10-19T14:01:44.777190+00:00",
@@ -1016,18 +1005,88 @@
       "article_titles": [
         "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture"
       ]
+    },
+    {
+      "headline": "N/A",
+      "tag": "",
+      "posted_at": "2026-10-25T15:06:19.890976+00:00",
+      "urls": [
+        "https://www.eurogamer.net/knightmare-game-free-pc-original-cast"
+      ],
+      "article_titles": [
+        "An officially licensed Knightmare game, based on the British TV show, is coming next year"
+      ]
+    },
+    {
+      "headline": "Vinland Saga Season 3 Is \"Not Currently in Progress,\" Creator Confirms",
+      "tag": "vinland saga",
+      "posted_at": "2026-10-25T15:06:19.953140+00:00",
+      "urls": [
+        "https://kotaku.com/vinland-sagas-creator-has-no-good-news-on-season-3-the-project-is-not-currently-in-progress-2000749374"
+      ],
+      "article_titles": [
+        "Vinland Saga\u2019s Creator Has \u2018No Good News\u2019 On Season 3: \u2018The Project Is Not Currently In Progress\u2019"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.nintendolife.com/#article-208092",
-      "title": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
-      "source_name": "Nintendo Life",
+      "guid": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
+      "title": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
+      "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T14:32:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000749374",
+      "title": "Vinland Saga\u2019s Creator Has \u2018No Good News\u2019 On Season 3: \u2018The Project Is Not Currently In Progress\u2019",
+      "url": "https://kotaku.com/vinland-sagas-creator-has-no-good-news-on-season-3-the-project-is-not-currently-in-progress-2000749374",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T14:31:04+00:00"
+    },
+    {
+      "guid": "2S7yCawRxDXNQeAXfSRoJ9",
+      "title": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging",
+      "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T14:41:17+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930530",
+      "title": "\u2018The New Stanford Prison Experiment\u2019 Creators Break Down Its Shocking Finale",
+      "url": "https://variety.com/2026/tv/news/the-new-stanford-prison-experiment-finale-shocker-netflix-1236930530/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236921644",
+      "title": "\u2018Clayface\u2019 Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills",
+      "url": "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236739646",
+      "title": "Former \u201960 Minutes\u2019 Executive Producer Bill Owens Joins Creator Media Company Newpress",
+      "url": "https://www.hollywoodreporter.com/business/digital/former-60-minutes-ep-bill-owens-joins-creator-newpress-1236739646/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T14:35:28+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761280",
+      "title": "Shift Up CEO Kim Hyung Tae Says He Held Back His \u201cWicked Side\u201d While Designing Bayonetta\u2019s New Stellar Blade Outfit",
+      "url": "https://otakukart.com/shift-up-kim-hyung-tae-held-back-wicked-side-bayonetta-stellar-blade-costume/",
+      "source_name": "Otakukart",
       "source_tier": 2,
-      "published_dt": "2026-10-25T05:55:00+00:00"
+      "published_dt": "2026-10-25T14:50:25+00:00"
     }
   ]
 }
