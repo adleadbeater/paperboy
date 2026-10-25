@@ -1057,62 +1057,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
-      "title": "An officially licensed Knightmare game, based on the British TV show, is coming next year",
-      "url": "https://www.eurogamer.net/knightmare-game-free-pc-original-cast",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T14:32:00+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000749374",
-      "title": "Vinland Saga\u2019s Creator Has \u2018No Good News\u2019 On Season 3: \u2018The Project Is Not Currently In Progress\u2019",
-      "url": "https://kotaku.com/vinland-sagas-creator-has-no-good-news-on-season-3-the-project-is-not-currently-in-progress-2000749374",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T14:31:04+00:00"
-    },
-    {
-      "guid": "2S7yCawRxDXNQeAXfSRoJ9",
-      "title": "This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging",
-      "url": "https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T14:41:17+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236930530",
-      "title": "\u2018The New Stanford Prison Experiment\u2019 Creators Break Down Its Shocking Finale",
-      "url": "https://variety.com/2026/tv/news/the-new-stanford-prison-experiment-finale-shocker-netflix-1236930530/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236921644",
-      "title": "\u2018Clayface\u2019 Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills",
-      "url": "https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236739646",
-      "title": "Former \u201960 Minutes\u2019 Executive Producer Bill Owens Joins Creator Media Company Newpress",
-      "url": "https://www.hollywoodreporter.com/business/digital/former-60-minutes-ep-bill-owens-joins-creator-newpress-1236739646/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T14:35:28+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1761280",
-      "title": "Shift Up CEO Kim Hyung Tae Says He Held Back His \u201cWicked Side\u201d While Designing Bayonetta\u2019s New Stellar Blade Outfit",
-      "url": "https://otakukart.com/shift-up-kim-hyung-tae-held-back-wicked-side-bayonetta-stellar-blade-costume/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-25T14:50:25+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
       "title": "Call of Duty movie will explore the \"cost of war\", says director",
       "url": "https://www.eurogamer.net/call-of-duty-movie-cost-of-war",
@@ -1183,6 +1127,22 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-10-25T18:00:00+00:00"
+    },
+    {
+      "guid": "6Lx8AqXrShpgzShVbXTc7k",
+      "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+      "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T20:49:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930742",
+      "title": "Hudson Williams Says He\u2019s Writing a Film Featuring an \u2018Ex-Hockey Player\u2019 and Is \u2018Getting Tripped Up\u2019 by \u2018Heated Rivalry\u2019 Parallels",
+      "url": "https://variety.com/2026/film/news/hudson-williams-new-film-heated-rivalry-parallel-1236930742/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T20:27:01+00:00"
     }
   ]
 }
