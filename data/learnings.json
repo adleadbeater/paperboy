@@ -1022,30 +1022,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000749331",
-      "title": "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture",
-      "url": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T19:45:31+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236930049",
-      "title": "What Is \u2018Fjord\u2019 Really About? A Political Stance That May Be Too Hot to Handle",
-      "url": "https://variety.com/2026/film/columns/what-is-fjord-really-about-1236930049/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T19:32:45+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236930352",
-      "title": "Happy 20th Birthday, \u2018Debut\u2019! A Revealing Look Back at Taylor Swift\u2019s Self-Titled First Album, Via a Previously Unpublished Q&A",
-      "url": "https://variety.com/2026/music/news/taylor-swift-interview-debut-album-20th-anniversary-1236930352/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-24T20:22:39+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236930402",
       "title": "Cynthia Erivo Plays Glinda in \u2018Nigerian Wicked\u2019 Sketch on \u2018SNL U.K.\u2019: \u2018She Wants a BBL That Defies Gravity\u2019",
       "url": "https://variety.com/2026/tv/global/cynthia-erivo-glinda-nigerian-wicked-snl-uk-1236930402/",
@@ -1076,6 +1052,30 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-24T21:28:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172417",
+      "title": "\u2018SNL UK\u2019 & Cynthia Erivo Give Elphaba-Glinda Shippers A \u2018Nigerian Wicked\u2019 Sapphic Parody",
+      "url": "https://deadline.com/2026/10/snl-uk-cynthia-eriva-nigerian-wicked-sapphic-parody-1237172417/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T00:17:28+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172411",
+      "title": "\u2018SNL UK\u2019 Pokes Fun At PM Andy Burnham\u2019s Gogglebox Special In Cold Open With \u2018Celebrity Traitors\u2019, \u2018Graham Norton Show\u2019 & \u2018Great British Bake Off\u2019 Parodies",
+      "url": "https://deadline.com/2026/10/snl-uk-andy-burnhams-gogglebox-special-cold-open-1237172411/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-24T23:56:26+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236916862",
+      "title": "Nathan Fielder Negotiated a \u2018Kill Switch\u2019 on \u2018You Can See Everything,\u2019 Says Lance Oppenheim: \u2018If We Didn\u2019t Find Something, We Could Just Throw It All Away\u2019",
+      "url": "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-25T00:01:48+00:00"
     }
   ]
 }
