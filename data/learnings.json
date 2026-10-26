@@ -1051,27 +1051,26 @@
       "article_titles": [
         "Call of Duty movie will explore the \"cost of war\", says director"
       ]
+    },
+    {
+      "headline": "Eric Bauza, the Voice of Bugs Bunny and Daffy Duck, Has Died at 46",
+      "tag": "looney tunes",
+      "posted_at": "2026-10-26T04:23:14.305856+00:00",
+      "urls": [
+        "https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416",
+        "https://variety.com/2026/film/people-news/eric-bauza-dead-looney-tunes-voice-actor-1236930931/",
+        "https://www.hollywoodreporter.com/movies/movie-news/eric-bauza-dead-voice-bugs-bunny-daffy-duck-looney-tunes-1236739767/"
+      ],
+      "article_titles": [
+        "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
+        "Eric Bauza, Emmy Award-Winning Looney Tunes Voice Actor, Dies at 46",
+        "Eric Bauza, the Modern Voice of Bugs Bunny, Daffy Duck and Other Iconic Characters, Dies at 46"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000749401",
-      "title": "Google\u2019s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came",
-      "url": "https://kotaku.com/googles-finnish-data-centers-were-already-in-trouble-over-deforestation-then-the-wolves-came-2000749401",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T22:59:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236930872",
-      "title": "James Gunn Defends the DC Universe, Says He Dislikes the Idea That \u2018Individual Stories Aren\u2019t Meaningful Unless They Lead to Something\u2019",
-      "url": "https://variety.com/2026/film/news/james-gunn-defends-clayface-individual-stories-dcu-1236930872/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T23:11:19+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237172813",
       "title": "\u2018Young Sheldon\u2019s Emily Osment Reveals She Requested An Intimacy Coordinator For Teen Co-Star Montana Cooper: \u201cHe Was A Baby!\u201d",
@@ -1103,6 +1102,62 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-26T01:03:02+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000749416",
+      "title": "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
+      "url": "https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T03:54:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172836",
+      "title": "James Gunn Claps Back At Critics Of Continuity In His DCU",
+      "url": "https://deadline.com/2026/10/james-gunn-critics-continuity-in-dcu-1237172836/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T04:06:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172835",
+      "title": "Donald Trump Posts 1,300+ Word Sunday Night Diatribe About \u201cComplete And Total Loser\u201d Bill Maher, Nine Days After Praising Their \u201cGreat Dinner\u201d",
+      "url": "https://deadline.com/2026/10/trump-bill-maher-loser-truth-social-post-1237172835/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T03:54:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930940",
+      "title": "John Oliver Issues Urgent Warning Ahead of Midterms About the Republican Party\u2019s Nazi Ties",
+      "url": "https://variety.com/2026/tv/news/john-oliver-urgent-warning-midterm-elections-republicans-nazi-ties-1236930940/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T04:21:03+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930928",
+      "title": "Korea Box Office: Anime Phenomenon \u2018Chiikawa\u2019 Remains Unstoppable as Yeon Sang-ho Thriller \u2018Paradise Lost\u2019 Debuts",
+      "url": "https://variety.com/2026/film/box-office/korea-box-office-chiikawa-paradise-lost-1236930928/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T04:07:07+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930931",
+      "title": "Eric Bauza, Emmy Award-Winning Looney Tunes Voice Actor, Dies at 46",
+      "url": "https://variety.com/2026/film/people-news/eric-bauza-dead-looney-tunes-voice-actor-1236930931/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T04:07:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236739767",
+      "title": "Eric Bauza, the Modern Voice of Bugs Bunny, Daffy Duck and Other Iconic Characters, Dies at 46",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/eric-bauza-dead-voice-bugs-bunny-daffy-duck-looney-tunes-1236739767/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T04:05:27+00:00"
     }
   ]
 }
