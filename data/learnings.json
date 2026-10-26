@@ -1057,22 +1057,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "6Lx8AqXrShpgzShVbXTc7k",
-      "title": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
-      "url": "https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T20:49:51+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236930742",
-      "title": "Hudson Williams Says He\u2019s Writing a Film Featuring an \u2018Ex-Hockey Player\u2019 and Is \u2018Getting Tripped Up\u2019 by \u2018Heated Rivalry\u2019 Parallels",
-      "url": "https://variety.com/2026/film/news/hudson-williams-new-film-heated-rivalry-parallel-1236930742/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-25T20:27:01+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000749401",
       "title": "Google\u2019s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came",
       "url": "https://kotaku.com/googles-finnish-data-centers-were-already-in-trouble-over-deforestation-then-the-wolves-came-2000749401",
@@ -1087,6 +1071,38 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-25T23:11:19+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237172813",
+      "title": "\u2018Young Sheldon\u2019s Emily Osment Reveals She Requested An Intimacy Coordinator For Teen Co-Star Montana Cooper: \u201cHe Was A Baby!\u201d",
+      "url": "https://deadline.com/2026/10/young-sheldon-emily-osment-intimacy-coordinator-montana-jordan-1237172813/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T01:05:47+00:00"
+    },
+    {
+      "guid": "RrDBtHKNW6iX8P3BTfqkD5",
+      "title": "Phantom Blade Zero review: \"A GOTY contender with combat that looks as good as it feels\"",
+      "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-26T01:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1086028",
+      "title": "Sonic X Shadow Generations sales top three million",
+      "url": "https://www.gematsu.com/2026/10/sonic-x-shadow-generations-sales-top-three-million",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-26T01:18:46+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1759930",
+      "title": "Blue Lock Chapter 366 : Summary & Recap",
+      "url": "https://otakukart.com/blue-lock-chapter-366-summary-recap/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-26T01:03:02+00:00"
     }
   ]
 }
