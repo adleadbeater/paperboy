@@ -1072,38 +1072,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237172813",
-      "title": "\u2018Young Sheldon\u2019s Emily Osment Reveals She Requested An Intimacy Coordinator For Teen Co-Star Montana Cooper: \u201cHe Was A Baby!\u201d",
-      "url": "https://deadline.com/2026/10/young-sheldon-emily-osment-intimacy-coordinator-montana-jordan-1237172813/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-26T01:05:47+00:00"
-    },
-    {
-      "guid": "RrDBtHKNW6iX8P3BTfqkD5",
-      "title": "Phantom Blade Zero review: \"A GOTY contender with combat that looks as good as it feels\"",
-      "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-26T01:00:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1086028",
-      "title": "Sonic X Shadow Generations sales top three million",
-      "url": "https://www.gematsu.com/2026/10/sonic-x-shadow-generations-sales-top-three-million",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-26T01:18:46+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1759930",
-      "title": "Blue Lock Chapter 366 : Summary & Recap",
-      "url": "https://otakukart.com/blue-lock-chapter-366-summary-recap/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-26T01:03:02+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000749416",
       "title": "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
       "url": "https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416",
@@ -1158,6 +1126,22 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-26T04:05:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236930643",
+      "title": "\u2018Saiyaara\u2019 Star Ahaan Panday and Sharvari\u2019s Ali Abbas Zafar Romantic Action-Drama for Yash Raj Films Unveils Title (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/saiyaara-star-ahaan-panday-sharvari-ali-abbas-zafar-film-title-1236930643/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T05:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236739778",
+      "title": "Donald Trump Attacks Bill Maher in Scathing, 1,318-Word Social Media Post: \u201cComplete and Total Loser\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/donald-trump-attacks-bill-maher-truth-social-post-loser-1236739778/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-26T05:02:55+00:00"
     }
   ]
 }
