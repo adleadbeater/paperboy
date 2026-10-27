@@ -1,52 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox Manager Goes on Wild Pro-AI Rant, Then Deletes His Account",
-      "tag": "xbox",
-      "posted_at": "2026-10-20T17:01:06.139411+00:00",
-      "urls": [
-        "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938"
-      ],
-      "article_titles": [
-        "Xbox Manager Tries To Legitimize AI In Wild Rant, Deletes His Account Instead"
-      ]
-    },
-    {
-      "headline": "Marvel Rivals adds a 50-player mode that recreates Avengers: Endgame's final battle",
-      "tag": "marvel rivals",
-      "posted_at": "2026-10-20T17:34:59.902083+00:00",
-      "urls": [
-        "https://kotaku.com/marvel-rivals-avengers-endgame-mode-thanos-iron-man-2000748003"
-      ],
-      "article_titles": [
-        "Marvel Rivals\u2019 New Mode Lets You Reenact Avengers: Endgame\u2019s Final Battle With 50 Players"
-      ]
-    },
-    {
-      "headline": "Xbox Reportedly Planning a Gaming Handheld in 2027 and a $1,200\u2013$1,800 Next-Gen Console in 2028 \u2014 With Internal Turf Wars Along the Way",
-      "tag": "xbox",
-      "posted_at": "2026-10-20T19:31:14.564085+00:00",
-      "urls": [
-        "https://kotaku.com/xbox-reportedly-wants-to-release-a-gaming-handheld-in-2027-despite-ongoing-turf-battles-with-windows-2000748034",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xazai2/fortune_major_game_pass_overhaul_12001800_nextgen/"
-      ],
-      "article_titles": [
-        "Xbox Reportedly Plans To Release New Gaming Handheld In 2027 Despite Ongoing Turf Battles With Windows",
-        "Fortune: Major Game Pass Overhaul, $1,200\u2013$1,800 Next-Gen Console, 2027 Handheld, 2028 Console, and November Layoffs Planned. Tensions between Windows and Xbox Teams"
-      ]
-    },
-    {
-      "headline": "Magic: The Gathering Hauls in $600 Million in Just Three Months",
-      "tag": "magic: the gathering",
-      "posted_at": "2026-10-20T19:31:14.627435+00:00",
-      "urls": [
-        "https://kotaku.com/the-magic-the-gathering-machine-go-brrr-as-it-makes-600-million-in-three-months-2000747952"
-      ],
-      "article_titles": [
-        "The Magic: The Gathering Machine Go BRRR As It Makes $600 Million In Three Months"
-      ]
-    },
-    {
       "headline": "Pok\u00e9mon Is Opening Its First Official Store Outside Asia \u2014 Starting in London",
       "tag": "pok\u00e9mon",
       "posted_at": "2026-10-21T14:01:30.023525+00:00",
@@ -807,170 +761,88 @@
       "article_titles": [
         "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack"
       ]
+    },
+    {
+      "headline": "Weekly Shonen Jump Threatened to Pull Dragon Ball to Save Yu-Gi-Oh! From Toei's Cancellation Axe",
+      "tag": "yu-gi-oh!",
+      "posted_at": "2026-10-27T21:01:55.976734+00:00",
+      "urls": [
+        "https://kotaku.com/toei-animation-tried-to-cancel-its-yu-gi-oh-anime-so-weekly-shonen-jump-threatened-to-pull-its-dragon-ball-license-2000750199"
+      ],
+      "article_titles": [
+        "Toei Animation Tried To Cancel Its Yu-Gi-Oh! Anime, So Weekly Shonen Jump Threatened To Pull Its Dragon Ball License"
+      ]
+    },
+    {
+      "headline": "Rockstar Developers Will Vote on Unionizing the Same Day GTA 6 Pre-Loading Begins",
+      "tag": "gta 6",
+      "posted_at": "2026-10-27T21:01:56.215768+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/grand-theft-auto/the-day-gta-6-pre-loading-starts-unionizing-rockstar-developers-will-vote-on-the-future-of-the-legendary-studio-this-is-our-moment/"
+      ],
+      "article_titles": [
+        "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
-      "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
-      "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
-      "source_name": "Eurogamer",
+      "guid": "https://kotaku.com/?p=2000750199",
+      "title": "Toei Animation Tried To Cancel Its Yu-Gi-Oh! Anime, So Weekly Shonen Jump Threatened To Pull Its Dragon Ball License",
+      "url": "https://kotaku.com/toei-animation-tried-to-cancel-its-yu-gi-oh-anime-so-weekly-shonen-jump-threatened-to-pull-its-dragon-ball-license-2000750199",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-10-27T16:53:16+00:00"
+      "published_dt": "2026-10-27T21:00:20+00:00"
     },
     {
-      "guid": "jMnJDp85NxiFsuNXLTZazD",
-      "title": "Nvidia and AMD invest billions into Meta as companies egg each other on to bet even more on AI",
-      "url": "https://www.pcgamer.com/software/ai/nvidia-and-amd-invest-billions-into-meta-as-companies-egg-each-other-on-to-bet-even-more-on-ai/",
-      "source_name": "PC Gamer",
+      "guid": "https://kotaku.com/?p=2000750190",
+      "title": "This Room In Dark Souls Is My Personal Waking Nightmare",
+      "url": "https://kotaku.com/forget-halloween-this-room-in-dark-souls-is-already-my-personal-waking-nightmare-2000750190",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-10-27T16:34:31+00:00"
+      "published_dt": "2026-10-27T20:30:11+00:00"
     },
     {
-      "guid": "wZDyh6mbQScKpdTYkLehDM",
-      "title": "Vote for the scariest game of all time: Round 1",
-      "url": "https://www.pcgamer.com/games/horror/vote-for-the-scariest-game-of-all-time-round-1/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:28:58+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237206178",
-      "title": "\u2018Divine Rivals\u2019: Feature Take Of Rebecca Ross Fantasy Romance Bestseller Heads To Disney",
-      "url": "https://deadline.com/2026/10/disney-divine-rivals-movie-rebecca-ross-1237206178/",
+      "guid": "https://deadline.com/?p=1237206488",
+      "title": "Kevin Bleyer Dies: Emmy Winning \u2018Daily Show\u2019 Writer & Barack Obama Speech Writer Killed In Car Crash At 54",
+      "url": "https://deadline.com/2026/10/kevin-bleyer-dead-1237206488/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-10-27T16:45:00+00:00"
+      "published_dt": "2026-10-27T20:30:33+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237206187",
-      "title": "Maxine Peake Boards Short Film \u2018The Secret Assistants\u2019 Exploring Power Imbalances In The Movie Business",
-      "url": "https://deadline.com/2026/10/maxine-peake-the-secret-assistants-short-film-1237206187/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:39:10+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237206121",
-      "title": "Gotham Awards Film Nominations Led By \u2018The Invite\u2019, \u2018Tender Loving Care\u2019, \u2018All Of A Sudden\u2019 & More",
-      "url": "https://deadline.com/2026/10/2026-gotham-award-nominations-1237206121/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:33:50+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237206135",
-      "title": "Run-A-Muck Names Adam Kopp Head Of Creative",
-      "url": "https://deadline.com/2026/10/run-a-muck-names-adam-kopp-head-creative-1237206135/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:30:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237206179",
-      "title": "Richard Riehle Cause Of Death Revealed",
-      "url": "https://deadline.com/2026/10/richard-riehle-cause-of-death-1237206179/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:27:01+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916960",
-      "title": "\u201940 Watts From Nowhere\u2019: How a Feisty Pirate Radio Station Stormed the Airwaves in 1990s Silver Lake With Help From the Red Hot Chili Peppers and More",
-      "url": "https://variety.com/2026/film/features/40-watts-from-nowhere-kblt-pirate-radio-station-doc-1236916960/",
+      "guid": "https://variety.com/?p=1236932357",
+      "title": "Kevin Bleyer, Emmy-winning \u2018Daily Show\u2019 Writer, Dies at 54 in Car Accident",
+      "url": "https://variety.com/2026/tv/news/kevin-bleyer-dead-daily-show-1236932357/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-27T16:50:00+00:00"
+      "published_dt": "2026-10-27T20:44:38+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236932105",
-      "title": "Lisa Rinna, Phaedra Parks, Dolores Catania and More \u2018Real Housewives\u2019 to Star in Revival of Neil Simon\u2019s \u2018Rumors\u2019",
-      "url": "https://variety.com/2026/legit/news/real-housewives-lisa-rinna-phaedra-parks-dolores-catania-neil-simon-rumors-revival-1236932105/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:38:09+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236932128",
-      "title": "BAFTA Names Hilary Rosen as Chair",
-      "url": "https://variety.com/2026/film/global/bafta-hilary-rosen-chair-1236932128/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:35:56+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236932124",
-      "title": "\u2018All of a Sudden,\u2019 \u2018Clarissa,\u2019 \u2018La Gradiva,\u2019 \u2018The Invite\u2019 and \u2018Tender Loving Care\u2019 Lead Gothams Nominees",
-      "url": "https://variety.com/2026/film/news/gothams-nominees-all-of-a-sudden-clarissa-la-gradiva-the-invite-tender-loving-care-1236932124/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236740783",
-      "title": "Kailyn Lowry on How New Show \u2018Crashing Out\u2019 Differs From \u2018Teen Mom\u2019 and Her Kids\u2019 Request Before Filming",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/kailyn-lowry-new-show-crashing-out-teen-mom-interview-1236740783/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236740962",
+      "title": "L.A. City Council Passes New Motions Aimed at  Film-Friendly Overhaul",
+      "url": "https://www.hollywoodreporter.com/business/business-news/l-a-city-council-motions-more-film-friendly-1236740962/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-27T16:50:15+00:00"
+      "published_dt": "2026-10-27T20:30:01+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236740240",
-      "title": "Ray Nicholson Levels Up With \u2018The Mosquito Bowl\u2019: \u201cI\u2019m Always Battling for Legitimacy\u201d",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/ray-nicholson-mosquito-bowl-feature-1236740240/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:41:01+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236740814",
-      "title": "Amanda Seyfried Hinted at a \u2018You Can See Everything\u2019 Role in a CBS Interview Last Year",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-you-can-see-everything-1236740814/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:36:45+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236740896",
-      "title": "Gotham Film Awards Nominations: \u2018The Invite,\u2019 \u2018Tender Loving Care\u2019 Among Top Nominees",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-gotham-film-awards-nominations-nominees-list-1236740896/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:32:05+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236740733",
-      "title": "A Comic-Con for the Military? Two Hollywood Veterans Are Betting on It",
-      "url": "https://www.hollywoodreporter.com/business/business-news/military-con-comic-con-hollywood-bruckheimer-1236740733/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T16:27:12+00:00"
-    },
-    {
-      "guid": "KKBAgyzfXgnFDvXL4cRLBd",
-      "title": "The best places to find DMZ Weapon Manuals in Modern Warfare 4",
-      "url": "https://www.gamesradar.com/games/call-of-duty/modern-warfare-4-weapon-manuals-dmz/",
+      "guid": "7Ctuwv22JEhLPkuKUZ4Ch8",
+      "title": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-day-gta-6-pre-loading-starts-unionizing-rockstar-developers-will-vote-on-the-future-of-the-legendary-studio-this-is-our-moment/",
       "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-10-27T16:46:20+00:00"
+      "published_dt": "2026-10-27T20:28:50+00:00"
     },
     {
-      "guid": "9jmp4bF3wX9EcfYp3bGw6e",
-      "title": "Crimson Desert DLC is \"effectively an epilogue\" so you have to beat the main game first",
-      "url": "https://www.gamesradar.com/games/open-world/crimson-desert-dlc-charting-the-unknown-is-effectively-an-epilogue-for-everyone-so-you-have-to-beat-the-main-game-to-access-the-new-story-but-not-to-explore-new-areas/",
-      "source_name": "GamesRadar",
+      "guid": "https://www.siliconera.com/?p=1125577",
+      "title": "Bleach Mirrors High Release Date Is Tomorrow",
+      "url": "https://www.siliconera.com/bleach-mirrors-high-release-date-is-tomorrow/",
+      "source_name": "Siliconera",
       "source_tier": 2,
-      "published_dt": "2026-10-27T16:28:31+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/dan-ayoub-named-head-of-wizards-of-the-coast.721108/",
-      "title": "Dan Ayoub named head of Wizards of the Coast",
-      "url": "https://www.enworld.org/threads/dan-ayoub-named-head-of-wizards-of-the-coast.721108/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-10-27T16:24:00+00:00"
+      "published_dt": "2026-10-27T21:00:00+00:00"
     }
   ]
 }
