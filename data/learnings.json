@@ -1,34 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Nearly $1 Million in PSA-Graded Pok\u00e9mon Cards Stolen Right Outside PSA's Own Headquarters",
-      "tag": "pok\u00e9mon tcg",
-      "posted_at": "2026-10-21T17:01:28.804575+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/nearly-usd1-million-worth-of-psa-graded-pokemon-and-other-tcg-have-been-stolen-right-outside-psas-headquarters/"
-      ],
-      "article_titles": [
-        "Nearly $1 million worth of PSA-graded Pok\u00e9mon and other TCG have been stolen right outside PSA's headquarters"
-      ]
-    },
-    {
-      "headline": "The Rings of Power Season 3 Trailer Shows Sauron Finally Wearing the One Ring \u2014 and a Balrog",
-      "tag": "the lord of the rings: the rings of power",
-      "posted_at": "2026-10-21T17:01:29.028527+00:00",
-      "urls": [
-        "https://deadline.com/2026/10/lord-of-the-rings-the-rings-of-power-season-3-trailer-1237169096/",
-        "https://variety.com/2026/tv/news/rings-of-power-season-3-trailer-balrog-ringwraiths-1236918110/",
-        "https://www.hollywoodreporter.com/tv/tv-news/rings-of-power-season-3-official-trailer-1236737339/",
-        "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/rings-of-power-season-3-official-trailer/"
-      ],
-      "article_titles": [
-        "\u2018Lord Of The Rings: The Rings Of Power\u2019 Action-Packed Season 3 Trailer Reveals Sauron\u2019s Dark Dominance Over Middle-Earth",
-        "\u2018Rings of Power\u2019 Season 3 Trailer: Dragons, Balrogs and Ringwraiths Go to War in Middle-Earth",
-        "Sauron Finally Puts on the One Ring in \u2018Rings of Power\u2019 Season 3 Official Trailer",
-        "Sauron faces a Balrog, wears the One Ring, and gathers his dark army in fiery new The Rings of Power season 3 trailer"
-      ]
-    },
-    {
       "headline": "EA Shuts Down BioWare and Cancels the Next Mass Effect Game",
       "tag": "bioware",
       "posted_at": "2026-10-21T17:31:13.866870+00:00",
@@ -834,6 +806,30 @@
       "article_titles": [
         "When You Search For This New Switch 2 Indie Game, An \u2018Unauthorized\u2019 Knockoff With \u2018AI-Generated Assets\u2019 Shows Up, Too"
       ]
+    },
+    {
+      "headline": "Life is Strange Studio Don't Nod Is on the Brink of Insolvency as Internal Unrest Grows",
+      "tag": "don't nod",
+      "posted_at": "2026-10-28T17:28:58.317367+00:00",
+      "urls": [
+        "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion"
+      ],
+      "article_titles": [
+        "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency"
+      ]
+    },
+    {
+      "headline": "EA Reportedly Told BioWare to Tone Down Inclusivity in Mass Effect 5 Following Saudi Arabia Investment",
+      "tag": "mass effect 5",
+      "posted_at": "2026-10-28T17:28:58.538486+00:00",
+      "urls": [
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xhts2p/mass_effect_5_studio_was_reportedly_told_to_tone/",
+        "https://www.gamesradar.com/games/mass-effect/mass-effect-5-studio-was-reportedly-told-to-tone-down-inclusivity-by-ea-after-saudi-arabia-buyout-former-bioware-dev-alleges-so-as-to-not-cause-offense/"
+      ],
+      "article_titles": [
+        "Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout, former BioWare dev alleges, \"so as to not cause offense\"",
+        "Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -862,14 +858,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-10-28T13:30:10+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237207026",
-      "title": "Tracee Ellis Ross, Lake Bell & Ken Leung Thriller \u2018Blow The Horn\u2019 Heads To AFM For Sales",
-      "url": "https://deadline.com/2026/10/tracee-ellis-ross-lake-bell-ken-leung-film-blow-the-horn-1237207026/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T13:26:35+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236933329",
@@ -1726,6 +1714,134 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-28T16:58:56+00:00"
+    },
+    {
+      "guid": "40dac8b8-adb2-4513-a12b-051e83abfa82",
+      "title": "Vampir Is a Dark, Brutal MMORPG Focused on Bloody Violence",
+      "url": "https://www.ign.com/articles/vampir-is-a-dark-brutal-mmorpg-focused-on-bloody-violence",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T17:00:00+00:00"
+    },
+    {
+      "guid": "597c9cd1-d8e2-41ae-b41b-bac39228e6cd",
+      "title": "This TSA-Compliant Daran 89.6Wh 100W LiFePO4 Power Station Drops to Just $49.99",
+      "url": "https://www.ign.com/articles/daran-lifepo4-power-station-deal-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T16:55:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
+      "title": "\"This company has been driven into a wall for years\" - Life is Strange studio Don't Nod faces unrest while teetering on insolvency",
+      "url": "https://www.eurogamer.net/dont-nod-insolvency-life-is-strange-aphelion",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T17:10:24+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000750542",
+      "title": "PlayStation Plus Free Games For November 2026 Include Tomb Raider Classics And A Superb Deckbuilder",
+      "url": "https://kotaku.com/playstation-plus-free-games-for-november-2026-include-tomb-raider-classics-and-a-superb-deckbuilder-2000750542",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T17:10:02+00:00"
+    },
+    {
+      "guid": "FueMeub4qnjgDuWtMgaZUm",
+      "title": "Arc Raiders' executive producer was 'a bit skeptical' about adding PvE, but after the successful test the team needs to decide 'what we want to do going forward'",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-was-a-bit-skeptical-about-adding-pve-but-after-the-successful-test-the-team-needs-to-decide-what-we-want-to-do-going-forward/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T17:12:25+00:00"
+    },
+    {
+      "guid": "VAcTBcDMCGLkF6UFQoFo3S",
+      "title": "If you love horror but hate actually being scared, I've got the perfect Halloween game for you",
+      "url": "https://www.pcgamer.com/games/puzzle/if-you-love-horror-but-hate-actually-being-scared-ive-got-the-perfect-halloween-game-for-you/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T17:02:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236932443",
+      "title": "Variety\u2019s 10 Actors to Watch Detail Tapping Into Dark Characters and Gaining Confidence at Newport Beach Film Festival",
+      "url": "https://variety.com/2026/awards/fashion/10-actors-to-watch-panel-newport-beach-film-festival-video-1236932443/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T17:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236741798",
+      "title": "William Shatner Pays Tribute to \u2018Star Trek\u2019 Co-Star Walter Koenig: \u201cDeeply Saddened\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/william-shatner-walter-koenig-death-star-trek-tribute-1236741798/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T17:27:31+00:00"
+    },
+    {
+      "guid": "1939990",
+      "title": "WoW: Forever Content Updates Will Come Slower Than You Might Expect",
+      "url": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:16:42+00:00"
+    },
+    {
+      "guid": "1939978",
+      "title": "Sleeping Dogs Movie Director Explains Why The Adaptation Is Taking So Long",
+      "url": "https://www.gamespot.com/articles/sleeping-dogs-movie-director-explains-why-the-adaptation-is-taking-so-long/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:14:09+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208268",
+      "title": "Nearly a Decade in the Making, Magical Life Sim Witchbrook Finally Has a PS5 Release Date",
+      "url": "https://www.pushsquare.com/news/2026/10/nearly-a-decade-in-the-making-magical-life-sim-witchbrook-finally-has-a-ps5-release-date",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207668",
+      "title": "Wizball: Enhanced Edition Out Now, Bringing Improved Visuals, Gameplay, and Music to Ocean's ZX Spectrum Classic",
+      "url": "https://www.timeextension.com/news/2026/10/wizball-enhanced-edition-out-now-bringing-improved-visuals-gameplay-and-music-to-oceans-zx-spectrum-classic",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761714",
+      "title": "Pearl Abyss Confirms Crimson Desert\u2019s Enhanced Story Team Wrote All Three DLC Campaigns for Kliff, Oongka, and Damiane",
+      "url": "https://otakukart.com/pearl-abyss-confirms-crimson-deserts-enhanced-story-team-wrote-all-three-dlc-campaigns-for-kliff-oongka-and-damiane/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:26:46+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761728",
+      "title": "Cyberpunk: Edgerunners Creator Bartosz Sztybor Says More Fans Now Consider Season 2 \u201cSuperior\u201d to Season 1",
+      "url": "https://otakukart.com/cyberpunk-edgerunners-creator-bartosz-sztybor-says-more-fans-now-consider-season-2-superior-to-season-1/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:15:07+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=623680",
+      "title": "D&D: Five Monsters Perfect For Your Halloween Adventure",
+      "url": "https://www.belloflostsouls.net/2026/10/dd-five-monsters-perfect-for-your-halloween-adventure.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:00:00+00:00"
+    },
+    {
+      "guid": "t3_1xhts2p",
+      "title": "Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout, former BioWare dev alleges, \"so as to not cause offense\"",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xhts2p/mass_effect_5_studio_was_reportedly_told_to_tone/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T17:00:28+00:00"
     }
   ]
 }
