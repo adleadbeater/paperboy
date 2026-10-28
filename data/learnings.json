@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Xbox Is Bringing AMD FSR 4.1 to Series X/S for Better Graphics and Performance",
-      "tag": "xbox",
-      "posted_at": "2026-10-21T14:31:14.208760+00:00",
-      "urls": [
-        "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling"
-      ],
-      "article_titles": [
-        "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S"
-      ]
-    },
-    {
-      "headline": "Ace Driver: Victory Lap Is Getting Its First-Ever Home Release",
-      "tag": "ace driver: victory lap",
-      "posted_at": "2026-10-21T15:00:56.196008+00:00",
-      "urls": [
-        "https://www.videogameschronicle.com/news/ace-driver-victory-lap-is-the-next-polygonal-namco-arcade-racer-getting-its-first-ever-home-release/"
-      ],
-      "article_titles": [
-        "Ace Driver Victory Lap is the next polygonal Namco arcade racer getting its first ever home release"
-      ]
-    },
-    {
       "headline": "Epic Games and Roblox Hit With Lawsuit Alleging They Deliberately Engineered Addiction in Kids",
       "tag": "epic games / roblox",
       "posted_at": "2026-10-21T16:01:20.895499+00:00",
@@ -889,51 +867,48 @@
       "article_titles": [
         "'Yes, we are vibe-coding things': Epic confirms it's using AI tools to code Unreal Engine 6, Fortnite, and more"
       ]
+    },
+    {
+      "headline": "Witchbrook Finally Has a Release Date \u2014 and It's Coming to PS5 Too",
+      "tag": "witchbrook",
+      "posted_at": "2026-10-28T15:31:11.974697+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/simulation/after-10-years-cozy-rpg-witchbrook-finally-gets-a-release-date-and-ps5-fans-will-no-longer-be-missing-out-at-launch/",
+        "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date"
+      ],
+      "article_titles": [
+        "After 10 years, cozy RPG Witchbrook finally gets a release date \u2013 and PS5 fans will no longer be missing out at launch",
+        "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date"
+      ]
+    },
+    {
+      "headline": "GOG Is Getting Into Game Publishing After Splitting From CD Projekt",
+      "tag": "gog",
+      "posted_at": "2026-10-28T15:31:12.052575+00:00",
+      "urls": [
+        "https://www.pcgamer.com/gaming-industry/gogs-getting-into-publishing-in-its-new-post-cd-projekt-life-and-it-already-has-games-on-the-way/"
+      ],
+      "article_titles": [
+        "GOG's getting into publishing in its new, post-CD-Projekt life, and it already has games on the way"
+      ]
+    },
+    {
+      "headline": "Sony Is Bringing Back Transparent Hardware With New PS5 Accessory Colors",
+      "tag": "playstation 5",
+      "posted_at": "2026-10-28T15:31:12.121628+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/sony-is-bringing-the-best-trend-of-90s-console-design-to-ps5/",
+        "https://www.pushsquare.com/news/2026/10/ps5-revives-retro-transparent-hardware-with-3-new-gorgeous-accessory-colours"
+      ],
+      "article_titles": [
+        "Sony Is Bringing The Best Trend Of \u201990s Console Design To PS5",
+        "PS5 Revives Retro Transparent Hardware with 3 New Gorgeous Accessory Colours"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236740663",
-      "title": "\u201cDon\u2019t Get Me Wrong, I\u2019m Not Without Ego!\u201d: How Nick Mohammed Earned His Rep as the Nicest Man in British Film and TV",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/nick-mohammed-interview-war-celebrity-traitors-ted-lasso-tv-1236740663/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T11:30:00+00:00"
-    },
-    {
-      "guid": "PeQUQWhihK7GrUvedJntT8",
-      "title": "EA morale hits a new low amid AI push and BioWare closure",
-      "url": "https://www.gamesradar.com/games/ea-morale-hits-a-new-low-amid-ai-push-and-bioware-closure-a-cold-dead-place-thats-slowly-decaying-as-leadership-pilfers-every-last-cent/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T11:24:24+00:00"
-    },
-    {
-      "guid": "UfoevtiDgAHtAR6JM8ixfj",
-      "title": "Valve acknowledges Steam's AI problem as Next Fest exposes thousands of \"low-quality games\"",
-      "url": "https://www.gamesradar.com/games/valve-acknowledges-steams-ai-problem-as-next-fest-exposes-thousands-of-low-quality-games-but-says-it-doesnt-want-to-tell-devs-which-tools-they-should-or-shouldnt-use/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T11:21:27+00:00"
-    },
-    {
-      "guid": "howty7rTPBatPxRHGBKTXM",
-      "title": "Sleeping Dogs director says \"adding layers\" to the game story is \"not an easy task\"",
-      "url": "https://www.gamesradar.com/entertainment/live-action-movies/sleeping-dogs-director-says-adding-layers-to-the-game-story-is-not-an-easy-task-were-taking-our-time-to-make-the-best-version/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T11:17:07+00:00"
-    },
-    {
-      "guid": "JMtDjQhx859FG3fvThEMtQ",
-      "title": "James Gunn explains why some DCU movies like Clayface are standalone and some are \"part of a larger narrative structure\"",
-      "url": "https://www.gamesradar.com/entertainment/dc-movies/james-gunn-explains-why-some-dcu-movies-like-clayface-are-standalone-and-some-are-part-of-a-larger-narrative-structure/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T11:11:26+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
       "title": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test",
@@ -959,14 +934,6 @@
       "published_dt": "2026-10-28T12:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236741680",
-      "title": "Russell Brand Trial: Star Takes the Stand and Tells Court No One Will Touch Him \u201cWith a Bargepole\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-trial-witness-stand-statement-evidence-rape-1236741680/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T11:30:36+00:00"
-    },
-    {
       "guid": "y8qVprxSoPwvRZzY6TaAJN",
       "title": "Cyberpunk 2077 lead wanted 2.5 update to be \"more meaningful\" than CDPR's last Edgerunners patch",
       "url": "https://www.gamesradar.com/games/cyberpunk/cyberpunk-2077-lead-wanted-the-2-5-update-to-be-more-meaningful-than-what-cd-projekt-red-did-last-time-for-edgerunners/",
@@ -989,14 +956,6 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-28T11:45:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1083334",
-      "title": "Mobile Suit Gundam: Battle Operation 3 announced for PS5, PC",
-      "url": "https://www.gematsu.com/2026/10/mobile-suit-gundam-battle-operation-3-announced-for-ps5-pc",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T11:25:57+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000750265",
@@ -1549,6 +1508,118 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-10-28T14:39:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000750497",
+      "title": "Twitch Streamer Hasan Piker Launches $72.5 Million Lawsuit Again CNN Contributor Scott Jennings For Defamation",
+      "url": "https://kotaku.com/twitch-streamer-hasan-piker-launches-72-5-million-lawsuit-again-cnn-contributor-scott-jennings-for-defamation-2000750497",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:15:27+00:00"
+    },
+    {
+      "guid": "QDztX6986QXLoYGLBnkDS4",
+      "title": "GOG's getting into publishing in its new, post-CD-Projekt life, and it already has games on the way",
+      "url": "https://www.pcgamer.com/gaming-industry/gogs-getting-into-publishing-in-its-new-post-cd-projekt-life-and-it-already-has-games-on-the-way/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207060",
+      "title": "Sundance 2027 In Boulder Unveils Legacy Lineup With \u2018Better Luck Tomorrow\u2019, \u2018Memento\u2019, \u2018Y Tu Mam\u00e1 Tambi\u00e9n\u2019 & More",
+      "url": "https://deadline.com/2026/10/sundance-2027-legacy-lineup-memento-y-tu-mama-tambien-1237207060/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236481706",
+      "title": "\u2018Pride and Prejudice\u2019 Trailer: Emma Corrin and Jack Lowden Reboot Elizabeth Bennet and Mr. Darcy\u2019s Love Story for Netflix",
+      "url": "https://variety.com/2026/tv/global/pride-and-prejudice-trailer-emma-corrin-jack-lowden-netflix-series-1236481706/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:26:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933379",
+      "title": "Fox News Ratings Sink a Staggering 27% in October, but It Still Has Much a Larger Audience Than CNN or MS NOW",
+      "url": "https://variety.com/2026/tv/news/fox-news-ratings-plunge-october-2026-cnn-ms-now-1236933379/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:10:23+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933354",
+      "title": "Jamie Dornan Says There\u2019s \u2018Pressure\u2019 to Taking Over Aragorn Role in \u2018Lord of the Rings: Hunt for Gollum\u2019: I\u2019m Not \u2018Trying to Outdo\u2019 Viggo Mortensen",
+      "url": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-lord-of-rings-1236933354/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:02:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236741748",
+      "title": "Free IP and Fresh Eyes: How Hollywood Is Reinventing the Classics",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/east-of-eden-sense-and-sensibility-tv-film-adapt-classics-1236741748/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:29:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236741746",
+      "title": "TikTok Wants to Help Its Users Find Their Next Must Eat",
+      "url": "https://www.hollywoodreporter.com/business/digital/tiktok-launches-must-eat-food-restaurant-platform-1236741746/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:00:51+00:00"
+    },
+    {
+      "guid": "N69PN5WjoXSKzzPrJtgRS6",
+      "title": "After 10 years, cozy RPG Witchbrook finally gets a release date \u2013 and PS5 fans will no longer be missing out at launch",
+      "url": "https://www.gamesradar.com/games/simulation/after-10-years-cozy-rpg-witchbrook-finally-gets-a-release-date-and-ps5-fans-will-no-longer-be-missing-out-at-launch/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T15:14:19+00:00"
+    },
+    {
+      "guid": "3Sb6Nb9BKX5SWmUCGTC5T",
+      "title": "With WoW: Forever days away, its devs give us 7 reasons to get excited: \"We don't know what's going to happen\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-devs-are-preserving-meaningful-friction-big-preview-interview/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T15:11:09+00:00"
+    },
+    {
+      "guid": "Co84LtNcoyh4MUQFGGDcM3",
+      "title": "Mass Effect 5 studio was reportedly told to tone down inclusivity by EA after Saudi Arabia buyout",
+      "url": "https://www.gamesradar.com/games/mass-effect/mass-effect-5-studio-was-reportedly-told-to-tone-down-inclusivity-by-ea-after-saudi-arabia-buyout-former-bioware-dev-alleges-so-as-to-not-cause-offense/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T15:09:34+00:00"
+    },
+    {
+      "guid": "1939629",
+      "title": "Sony Is Bringing The Best Trend Of \u201990s Console Design To PS5",
+      "url": "https://www.gamespot.com/articles/sony-is-bringing-the-best-trend-of-90s-console-design-to-ps5/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208201",
+      "title": "PS5 Revives Retro Transparent Hardware with 3 New Gorgeous Accessory Colours",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-revives-retro-transparent-hardware-with-3-new-gorgeous-accessory-colours",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-207064",
+      "title": "Sega Shows Off 'House of the Dead: Reawakened' Arcade VR Shooter",
+      "url": "https://www.timeextension.com/news/2026/10/sega-shows-off-house-of-the-dead-reawakened-arcade-vr-shooter",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T15:00:00+00:00"
     }
   ]
 }
