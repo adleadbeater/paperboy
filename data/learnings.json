@@ -895,30 +895,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237206927",
-      "title": "Kristen Brancaccio To Direct Microdrama & Feature Adaptations Of Claren Hammond\u2019s Short Story \u2018Summer Session\u2019",
-      "url": "https://deadline.com/2026/10/summer-session-clarence-hammond-microdrama-feature-film-1237206927/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T10:53:44+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236933186",
-      "title": "Russell Brand Takes the Stand in Rape Trial and Reveals No One Agreed to Testify on His Behalf: \u2018My Entire Life Has Been Consumed by These Allegations\u2019",
-      "url": "https://variety.com/2026/tv/global/russell-brand-takes-stand-rape-trial-no-one-else-testifying-1236933186/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T10:38:24+00:00"
-    },
-    {
-      "guid": "7ca686d2-97cb-4f1f-afaa-9a5734535cae",
-      "title": "Phantom Blade Zero Looks Like a Hit Before It's Even Come Out, With an Estimated 1 Million Prelaunch Copies Sold",
-      "url": "https://www.ign.com/articles/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out-with-an-estimated-1-million-prelaunch-copies-sold",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T10:57:05+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236740663",
       "title": "\u201cDon\u2019t Get Me Wrong, I\u2019m Not Without Ego!\u201d: How Nick Mohammed Earned His Rep as the Nicest Man in British Film and TV",
       "url": "https://www.hollywoodreporter.com/tv/tv-features/nick-mohammed-interview-war-celebrity-traitors-ted-lasso-tv-1236740663/",
@@ -957,14 +933,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-28T11:11:26+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-208236",
-      "title": "SNK's 1989 Dino-Themed Shmup Staves Off Extinction (Again) With A Brand New Arcade Archives Release",
-      "url": "https://www.timeextension.com/news/2026/10/snks-1989-dino-themed-shmup-staves-off-extinction-again-with-a-brand-new-arcade-archives-release",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T11:00:00+00:00"
     },
     {
       "guid": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
@@ -1453,6 +1421,134 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-28T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.videogameschronicle.com/?p=249302",
+      "title": "Here\u2019s all 23 games shown during Nintendo\u2019s latest Indie World presentation",
+      "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:36:27+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+      "title": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable",
+      "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:43:53+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day",
+      "title": "Mass Effect composer wants to rescore leaked internal ME Universe trailer to \"properly represent my musical vision\"",
+      "url": "https://www.eurogamer.net/mass-effect-universe-trailer-rescore-composer-n7-day",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:40:48+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000750498",
+      "title": "Everything We Saw At Nintendo\u2019s October Indie World Showcase",
+      "url": "https://kotaku.com/nintendo-indie-world-stream-switch-2-recap-release-date-2000750498",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:40:18+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000750476",
+      "title": "Umamusume: Pretty Derby Cosplayer Details Brutal Arrest By ICE Agents",
+      "url": "https://kotaku.com/umamusume-pretty-derby-cosplay-clara-tan-ice-arrest-2000750476",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:30:54+00:00"
+    },
+    {
+      "guid": "Cp4HP9AidbQv3pHQkx7etC",
+      "title": "Elon Musk says 'robot RAM needs will exceed everything else on Earth' but only assuming we throw all the data centers into space",
+      "url": "https://www.pcgamer.com/hardware/memory/elon-musk-says-robot-ram-needs-will-exceed-everything-else-on-earth-but-only-assuming-we-throw-all-the-data-centers-into-space/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:56:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237206998",
+      "title": "TBD Post Hires Industry Veteran Matt Wallis As Head Of Post & Operations",
+      "url": "https://deadline.com/2026/10/tbd-post-hires-matt-wallis-texas-1237206998/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207071",
+      "title": "Four \u2018Star Trek\u2019 Vets Reunite For Sci-Fi \u2018Life 2.0\u2019, OneTwoThree Media Launches AFM Sales; Brit Comedy With Stephen Fry, Jane Horrocks Also On Slate",
+      "url": "https://deadline.com/2026/10/star-trek-veteran-actors-reunite-for-sci-fi-life-2-0-1237207071/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:56:18+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237206430",
+      "title": "Olivia Holt, Jaimie Alexander & Rohan Campbell Set For Scout Taylor-Compton\u2019s Horror Movie \u2018Survive: The Game\u2019; Filming Underway In Spain",
+      "url": "https://deadline.com/2026/10/olivia-holt-jaimie-alexander-rohan-campbell-cast-film-1237206430/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:38:27+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933344",
+      "title": "Versant Expands Suite of FAST Channels With 4 New Selections From CNBC, E!, Oxygen",
+      "url": "https://variety.com/2026/tv/news/versant-expands-fast-channels-4-new-cnbc-e-oxygen-1236933344/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:45:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236739379",
+      "title": "Environmental Media Association and Its Awards Show to Become Part of Nonprofit United by Nature",
+      "url": "https://www.hollywoodreporter.com/news/general-news/environmental-media-association-awards-united-by-nature-1236739379/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236741586",
+      "title": "Sundance Sets Legacy Screenings Including Films by Christopher Nolan, Justin Lin and Alfonso Cuar\u00f3n",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sundance-2027-legacy-screenings-lineup-schedule-1236741586/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208269",
+      "title": "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date",
+      "url": "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T14:35:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761699",
+      "title": "\u201cWe\u2019d Love to Have Those Conversations\u201d \u2013 Pocketpair CEO Says Palworld Could Come to Switch 2, but the Ongoing Legal Battle Complicates Things",
+      "url": "https://otakukart.com/wed-love-to-have-those-conversations-pocketpair-ceo-says-palworld-could-come-to-switch-2-but-the-ongoing-legal-battle-complicates-things/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T14:55:12+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761698",
+      "title": "Nintendo Reportedly Blocks Switch 2 Game-Key Card Titles From Getting Full Cartridge Reprints",
+      "url": "https://otakukart.com/nintendo-reportedly-blocks-switch-2-game-key-card-titles-from-getting-full-cartridge-reprints/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T14:40:33+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/delays-hit-north-american-release-of-d-d-world-of-warcraft-book.721125/",
+      "title": "Delays hit North American release of D&D World of Warcraft book",
+      "url": "https://www.enworld.org/threads/delays-hit-north-american-release-of-d-d-world-of-warcraft-book.721125/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T14:39:00+00:00"
     }
   ]
 }
