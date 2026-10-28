@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Pok\u00e9mon Is Opening Its First Official Store Outside Asia \u2014 Starting in London",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-10-21T14:01:30.023525+00:00",
-      "urls": [
-        "https://kotaku.com/pokemon-center-london-japan-locations-new-york-2000748308"
-      ],
-      "article_titles": [
-        "Pok\u00e9mon Is Finally Opening Official Stores Outside Of Asia, Starting With London"
-      ]
-    },
-    {
       "headline": "Xbox Is Bringing AMD FSR 4.1 to Series X/S for Better Graphics and Performance",
       "tag": "xbox",
       "posted_at": "2026-10-21T14:31:14.208760+00:00",
@@ -874,51 +863,37 @@
       "article_titles": [
         "Report: Mass Effect: Universe Devs Scrubbed Diversity From Demos To Avoid Negative Feedback From EA"
       ]
+    },
+    {
+      "headline": "No Man's Sky Launches on Mobile With a Free Major Update for All Players",
+      "tag": "no man's sky",
+      "posted_at": "2026-10-28T14:30:56.814894+00:00",
+      "urls": [
+        "https://www.eurogamer.net/no-mans-sky-forsaken-update-release-ipad-iphone",
+        "https://www.eurogamer.net/no-mans-sky-forsaken-update-release-ipad-iphone",
+        "https://www.pushsquare.com/news/2026/10/no-mans-sky-adds-creepy-new-items-big-quality-of-life-changes-in-latest-major-update"
+      ],
+      "article_titles": [
+        "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
+        "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
+        "No Man's Sky Adds Creepy New Items, Big Quality-of-Life Changes in Latest Major Update"
+      ]
+    },
+    {
+      "headline": "Epic Confirms It's Using AI to Help Code Unreal Engine 6 and Fortnite",
+      "tag": "epic games",
+      "posted_at": "2026-10-28T14:30:56.986616+00:00",
+      "urls": [
+        "https://www.pcgamer.com/software/ai/yes-we-are-vibe-coding-things-epic-confirms-its-using-ai-tools-to-code-unreal-engine-6-fortnite-and-more/"
+      ],
+      "article_titles": [
+        "'Yes, we are vibe-coding things': Epic confirms it's using AI tools to code Unreal Engine 6, Fortnite, and more"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237206934",
-      "title": "Russell Brand Forcefully Denies Charges As He Gives Evidence During Rape Trial",
-      "url": "https://deadline.com/2026/10/russell-brand-takes-stand-defences-case-crown-court-1237206934/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T10:19:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237206920",
-      "title": "Banijay Rights Names CFO As John Wagener Exits After 20 Years",
-      "url": "https://deadline.com/2026/10/banijay-rights-cfo-john-richards-john-wagener-exits-1237206920/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T10:02:41+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236933285",
-      "title": "\u2018One Cut of the Dead\u2019 Director Ueda Shinichiro on Turning a Microdrama Into Tokyo Feature \u2018Earthlings in Love\u2019",
-      "url": "https://variety.com/2026/film/festivals/one-cut-of-the-dead-director-microdrama-feature-earthlings-in-love-1236933285/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T10:20:04+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236933235",
-      "title": "Amazon MGM Studios Japan \u2018Doubling\u2019 Investment to Meet Global Standards, Local Chief Buddy Marini Reveals at Tokyo Market",
-      "url": "https://variety.com/2026/film/markets-festivals/amazon-mgm-studios-japan-doubling-investment-global-standards-1236933235/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T10:08:02+00:00"
-    },
-    {
-      "guid": "LZQuXLvQeU6sJKgV4iC9N3",
-      "title": "The Rings of Power season 3 first reactions say it's \"better than ever\"",
-      "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-3-first-reactions/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T10:13:21+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237206927",
       "title": "Kristen Brancaccio To Direct Microdrama & Feature Adaptations Of Claren Hammond\u2019s Short Story \u2018Summer Session\u2019",
@@ -934,14 +909,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-28T10:38:24+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-208238",
-      "title": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-apparently-has-a-policy-to-prevent-game-key-cards-getting-a-full-cart-reprint",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-28T10:30:00+00:00"
     },
     {
       "guid": "7ca686d2-97cb-4f1f-afaa-9a5734535cae",
@@ -1390,6 +1357,102 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-28T13:31:14+00:00"
+    },
+    {
+      "guid": "5bb634b6-4878-4734-829b-2853a77d6d70",
+      "title": "Dexter: Resurrection Season 2 Premiere Review",
+      "url": "https://www.ign.com/articles/dexter-resurrection-season-2-premiere-review",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
+      "title": "Palworld studio still hopes to release the game on Switch 2 one day, despite being in a legal battle with Nintendo",
+      "url": "https://www.eurogamer.net/palworld-switch-2-port-legal-battle-nintendo",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:03:01+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000749204",
+      "title": "Wordeex Challenges Your Vocabulary and Your Logic, But Does It for Free",
+      "url": "https://kotaku.com/wordeex-challenges-your-vocabulary-and-your-logic-but-does-it-for-free-2000749204",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:00:09+00:00"
+    },
+    {
+      "guid": "5hEZTh8FobdA8tHWiyFNBo",
+      "title": "Proton's Black Friday sale is already live: ditch Google with up to 70% off its VPN and 50% off unlimited plan",
+      "url": "https://www.pcgamer.com/hardware/protons-black-friday-sale-is-already-live-ditch-google-with-up-to-70-percent-off-its-vpn-and-50-percent-off-unlimited-plan/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:16:58+00:00"
+    },
+    {
+      "guid": "Qz2WY7vStWdN2voNrcP8KF",
+      "title": "Monster Train 2 is getting a new clan, and they're edgy as h\u0336e\u0336l\u0336l heaven",
+      "url": "https://www.pcgamer.com/games/card-games/monster-train-2-the-punished-dlc/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T13:59:25+00:00"
+    },
+    {
+      "guid": "Sf5Qmwi9omNdrB8zFzGBpd",
+      "title": "'Yes, we are vibe-coding things': Epic confirms it's using AI tools to code Unreal Engine 6, Fortnite, and more",
+      "url": "https://www.pcgamer.com/software/ai/yes-we-are-vibe-coding-things-epic-confirms-its-using-ai-tools-to-code-unreal-engine-6-fortnite-and-more/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T13:58:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207014",
+      "title": "Independent Creative Management Signs Serhat Metin",
+      "url": "https://deadline.com/2026/10/independent-creative-management-serhat-metin-signed-1237207014/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:09:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933340",
+      "title": "Peter Medak, Director of \u2018The Changeling\u2019 and \u2018The Krays,\u2019 Dies at 88",
+      "url": "https://variety.com/2026/film/news/peter-medak-dead-changeling-the-krays-director-1236933340/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:18:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933304",
+      "title": "Oscar Contender \u2018Shame and Money\u2019 Acquired in North America by Oscilloscope (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/shame-and-money-oscilloscope-1236933304/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236741252",
+      "title": "\u2018Transplant\u2019 Creator Joseph Kay Sets Overall Deal at Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/transplant-creator-joseph-kay-netflix-1236741252/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208227",
+      "title": "No Man's Sky Adds Creepy New Items, Big Quality-of-Life Changes in Latest Major Update",
+      "url": "https://www.pushsquare.com/news/2026/10/no-mans-sky-adds-creepy-new-items-big-quality-of-life-changes-in-latest-major-update",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125625",
+      "title": "All October 2026 Nintendo Indie World Switch and Switch 2 Games",
+      "url": "https://www.siliconera.com/all-october-2026-nintendo-indie-world-switch-and-switch-2-games/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T14:30:00+00:00"
     }
   ]
 }
