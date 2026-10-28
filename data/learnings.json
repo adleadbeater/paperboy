@@ -797,22 +797,6 @@
       "published_dt": "2026-10-27T21:00:20+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000750190",
-      "title": "This Room In Dark Souls Is My Personal Waking Nightmare",
-      "url": "https://kotaku.com/forget-halloween-this-room-in-dark-souls-is-already-my-personal-waking-nightmare-2000750190",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T20:30:11+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237206488",
-      "title": "Kevin Bleyer Dies: Emmy Winning \u2018Daily Show\u2019 Writer & Barack Obama Speech Writer Killed In Car Crash At 54",
-      "url": "https://deadline.com/2026/10/kevin-bleyer-dead-1237206488/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T20:30:33+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236932357",
       "title": "Kevin Bleyer, Emmy-winning \u2018Daily Show\u2019 Writer, Dies at 54 in Car Accident",
       "url": "https://variety.com/2026/tv/news/kevin-bleyer-dead-daily-show-1236932357/",
@@ -821,28 +805,68 @@
       "published_dt": "2026-10-27T20:44:38+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236740962",
-      "title": "L.A. City Council Passes New Motions Aimed at  Film-Friendly Overhaul",
-      "url": "https://www.hollywoodreporter.com/business/business-news/l-a-city-council-motions-more-film-friendly-1236740962/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-27T20:30:01+00:00"
-    },
-    {
-      "guid": "7Ctuwv22JEhLPkuKUZ4Ch8",
-      "title": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-day-gta-6-pre-loading-starts-unionizing-rockstar-developers-will-vote-on-the-future-of-the-legendary-studio-this-is-our-moment/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-27T20:28:50+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1125577",
       "title": "Bleach Mirrors High Release Date Is Tomorrow",
       "url": "https://www.siliconera.com/bleach-mirrors-high-release-date-is-tomorrow/",
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-27T21:00:00+00:00"
+    },
+    {
+      "guid": "77c6c31d-cf64-4595-a8eb-9d32bd6df572",
+      "title": "The 2026 55\" LG Evo C6 4K OLED TV Drops to Black Friday Pricing Plus Get a Free Xbox Controller",
+      "url": "https://www.ign.com/articles/lg-evo-c6-4k-oled-tv-deal-free-xbox-controller-october-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237206556",
+      "title": "Doc Talk Podcast: \u2018Nuisance Bear\u2019 Directors On Their Ursine Oscar Contender, Shot From A Polar Bear POV",
+      "url": "https://deadline.com/2026/10/doc-talk-podcast-nuisance-bear-directors-1237206556/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T00:12:12+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236932466",
+      "title": "Variety Nominated for 62 Arts & Entertainment Journalism Awards",
+      "url": "https://variety.com/2026/digital/news/variety-nominated-arts-entertainment-journalism-awards-1236932466/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T00:32:08+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236932468",
+      "title": "\u2018Reacher,\u2019 \u2018Neagley,\u2019 \u2018Lioness\u2019 Give Paramount TV Studios Three of September\u2019s Four Most-Streamed Original Series",
+      "url": "https://variety.com/2026/tv/news/reacher-neagley-lioness-paramount-tv-studios-ratings-1236932468/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-28T00:06:43+00:00"
+    },
+    {
+      "guid": "6kHq6LTs7RGhozTURNTF2E",
+      "title": "Valheim released into Early Access because the solo dev \"couldn't afford to keep working on it\"",
+      "url": "https://www.gamesradar.com/games/survival/valheim-released-into-steam-early-access-because-the-survival-game-started-as-a-solo-project-and-the-dev-couldnt-afford-to-keep-working-on-it/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T00:05:18+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208233",
+      "title": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T00:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208208",
+      "title": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-28T00:00:00+00:00"
     }
   ]
 }
