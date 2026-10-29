@@ -836,14 +836,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000750607",
-      "title": "Xbox\u2019s First Report Card Following Its Big \u2018Reset\u2019 Looks A Lot Like All The Others",
-      "url": "https://kotaku.com/xboxs-first-report-card-following-its-big-reset-looks-a-lot-like-all-the-others-2000750607",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T21:13:31+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237207578",
       "title": "Barbara Barrie Dies: Star Of Broadway And \u2018Barney Miller\u2019 Was 95",
       "url": "https://deadline.com/2026/10/barbara-barrie-dead-1237207578/",
@@ -858,14 +850,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-28T21:21:43+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237207551",
-      "title": "Amazon Developing Alesia Dangerfield Drama Series \u2018Whiskey Matriarch\u2019 Starring Taraji P. Henson",
-      "url": "https://deadline.com/2026/10/taraji-p-henson-to-star-whiskey-matriarch-amazon-series-1237207551/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-28T21:15:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236933664",
@@ -884,12 +868,36 @@
       "published_dt": "2026-10-28T21:31:45+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236741970",
-      "title": "Union Members at RadicalMedia Ratify First Contract (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/business/business-news/union-members-radicalmedia-ratify-first-contract-1236741970/",
+      "guid": "jPYY7i43Fyxtq6iKfi6rzj",
+      "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-npcs-have-about-600-000-animations-as-well-as-personality-traits-that-take-demographic-and-professional-variables-into-account/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T00:52:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207773",
+      "title": "\u2018Stick\u2019 Season 2 Release Schedule: When Do New Episodes Come Out?",
+      "url": "https://deadline.com/2026/10/stick-season-2-release-schedule-new-episodes-streaming-1237207773/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T00:57:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933790",
+      "title": "From Carlos Reygadas to Hamaguchi\u2019s Cinematographer, Tokyo\u2019s Nippon Cinema Now Directors on Unexpected Connections",
+      "url": "https://variety.com/2026/film/festivals/carlos-reygadas-hamaguchi-cinematographer-nippon-cinema-now-1236933790/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T00:50:20+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742326",
+      "title": "David Bruckner Set to Direct \u2018Smile 3\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/david-bruckner-direct-smile-3-parker-finn-produce-1236742326/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-10-28T21:15:57+00:00"
+      "published_dt": "2026-10-29T00:53:54+00:00"
     }
   ]
 }
