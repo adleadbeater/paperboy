@@ -836,12 +836,52 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237207929",
-      "title": "\u2018Merry Berry Love\u2019 Producers Nippon TV & CJ ENM Talk Korea-Japan Collaboration To Boost J-Drama \u2013 TIFFCOM",
-      "url": "https://deadline.com/2026/10/merry-berry-love-nippon-tv-cj-enm-japan-korea-drama-1237207929/",
-      "source_name": "Deadline",
+      "guid": "ZjV68X95gcbwJ3hQpxx7zU",
+      "title": "For the second time this year, Galax says it's not closing down: Palit-owned graphics card brand 'continues to operate as usual'",
+      "url": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/",
+      "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-10-29T04:59:23+00:00"
+      "published_dt": "2026-10-29T10:29:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933998",
+      "title": "Aliens, Dinosaurs and a Father\u2019s Death: \u2018Kefi\u2019 Director Saito Kisin Brings a Surreal Take on Grief to Tokyo",
+      "url": "https://variety.com/2026/film/festivals/aliens-dinosaurs-fathers-death-tokyo-kefi-saito-kisin-1236933998/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T10:13:44+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933937",
+      "title": "Animated Movie Based on Bestseller \u2018The Unicorn That Said No\u2019 Travels to Multiple Territories Ahead of AFM (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/the-unicorn-that-said-no-sales-afm-1236933937/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T10:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236741685",
+      "title": "\u2018The Celebrity Traitors\u2019 Ratings Have Never Been Higher. So Why Has This Season Felt Unusually Flat?",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/the-celebrity-traitors-finale-bbc-maya-james-acaster-season-1236741685/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T10:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208307",
+      "title": "Cronos: The New Dawn's 'Lazarus' DLC Launches Next Year On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/cronos-the-new-dawns-lazarus-dlc-launches-next-year-on-switch-2",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T10:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-140171",
+      "title": "Everyone's Favourite Pith-Helmeted Hero Is Back In A New 'Sabre Wulf' Fan Remaster For The C64",
+      "url": "https://www.timeextension.com/news/2026/10/everyones-favourite-pith-helmeted-hero-is-back-in-a-new-sabre-wulf-fan-remaster-for-the-c64",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T10:00:00+00:00"
     }
   ]
 }
