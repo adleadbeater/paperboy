@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Capcom Data Breach Exposes 11.7 Million Accounts Tied to Street Fighter and More",
-      "tag": "capcom",
-      "posted_at": "2026-10-22T15:31:17.131796+00:00",
-      "urls": [
-        "https://www.pcgamer.com/hardware/capcom-confirms-a-data-breach-has-affected-over-11-million-people-with-emails-ip-addresses-and-birthdays-caught-up-in-the-mix/",
-        "https://www.pcgamer.com/games/third-person-shooter/over-30-million-rounds-of-pve-were-played-over-the-last-week-in-arc-raiders-but-embark-still-needs-a-bit-of-time-to-understand-what-the-data-is-telling-us/",
-        "https://www.gamesradar.com/games/capcom-confirms-breach-of-11-7-million-id-accounts-promises-stronger-defences-for-the-platform-needed-to-play-street-fighter-monster-hunter-and-more-online/"
-      ],
-      "article_titles": [
-        "Capcom confirms a data breach has affected over 11 million people, with emails, IP addresses, and birthdays caught up in the mix",
-        "Over '30 million rounds of PvE were played' over the last week in Arc Raiders but Embark still needs 'a bit of time to understand what the data is telling us'",
-        "Capcom confirms 11.7 million accounts breached of service needed to play Street Fighter and more"
-      ]
-    },
-    {
       "headline": "Katana Zero DLC Is Still in Development \u2014 and Has Grown Into a Full Sequel's Worth of Content",
       "tag": "katana zero",
       "posted_at": "2026-10-22T16:01:40.842754+00:00",
@@ -738,75 +723,22 @@
       "article_titles": [
         "GTA 6 Is So Detailed, Rockstar Had To Make Its World Slower Than GTA 5\u2032s To Accommodate It"
       ]
+    },
+    {
+      "headline": "BioWare co-founder says EA's Saudi-led sale was \"final nail in the coffin\" for the studio",
+      "tag": "bioware",
+      "posted_at": "2026-10-29T15:31:18.936181+00:00",
+      "urls": [
+        "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview"
+      ],
+      "article_titles": [
+        "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
-      "title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
-      "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:21:44+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
-      "title": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments",
-      "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:11:01+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237208039",
-      "title": "Russell Brand\u2019s Wife Says Star Was \u201cCaring\u201d Lover At Time Of Rape Allegations",
-      "url": "https://deadline.com/2026/10/russell-brand-wife-1237208039/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:06:06+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236933613",
-      "title": "Tahmima Anam\u2019s New Novel \u2018Good Books\u2019 Being Adapted for TV With Pacesetter, Kudos and \u2018Emily in Paris\u2019 Writer (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/tahmima-anam-good-books-tv-pacesetter-kudos-emily-in-paris-1236933613/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934000",
-      "title": "Russell Brand\u2019s Wife Calls Him an \u2018Amazing Husband\u2019 at Rape Trial: \u2018I Feel Very Seen by Him\u2019",
-      "url": "https://variety.com/2026/tv/global/russell-brand-wife-amazing-husband-rape-trial-1236934000/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:15:40+00:00"
-    },
-    {
-      "guid": "aiHdkhdsFoN5WrSYMYJ2H9",
-      "title": "Not all Zelda: Ocarina of Time remake devs have played the N64 original, series producer says",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/not-all-zelda-ocarina-of-time-remake-devs-have-played-the-n64-original-series-producer-says-but-its-thanks-to-these-young-people-it-was-made/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T11:27:13+00:00"
-    },
-    {
-      "guid": "NX3hsyWkrf4socXquqqe3N",
-      "title": "The Hunger Games: Sunrise on the Reaping reactions call the film \"exhilarating\" and compare it to Rogue One and Andor",
-      "url": "https://www.gamesradar.com/entertainment/action-movies/the-hunger-games-sunrise-on-the-reaping-first-reactions/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T11:11:22+00:00"
-    },
-    {
-      "guid": "nEEY9BsUWTUeS7Lidw6j7V",
-      "title": "Deadpool and Wolverine is Marvel's most expensive movie ever, as Disney reveals it's near-half-billion-dollar budget",
-      "url": "https://www.gamesradar.com/entertainment/marvel-movies/deadpool-and-wolverine-really-was-one-of-the-most-expensive-movies-ever-made-as-disney-reveals-its-near-half-billion-dollar-budget/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T11:03:53+00:00"
-    },
     {
       "guid": "https://www.videogameschronicle.com/?p=249333",
       "title": "Metroid Prime Trilogy engineer explains why he thinks the motorcycle sections in Metroid Prime 4 were \u2018just a waste\u2019",
@@ -950,14 +882,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-10-29T11:45:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-208302",
-      "title": "Taito Milestones 5 Brings Together Space Invaders, Hat Trick Hero and More Arcade Hits on a Single Switch Cart",
-      "url": "https://www.timeextension.com/news/2026/10/taito-milestones-5-brings-together-space-invaders-hat-trick-hero-and-more-arcade-hits-on-a-single-switch-cart",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T11:30:00+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236742482",
@@ -1606,6 +1530,134 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-10-29T15:01:00+00:00"
+    },
+    {
+      "guid": "921dff6e-9eb4-40a0-a8cb-9119bfd14195",
+      "title": "Dune: Part 3 Has 3 Popcorn Buckets, Including One With 2 Sandworm Mouths",
+      "url": "https://www.ign.com/articles/dune-part-3-concession-collectibles-popcorn-bucket",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:59:32+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
+      "title": "EA's sale to Saudi-led consortium was \"final nail in the coffin\" for BioWare, says studio co-founder",
+      "url": "https://www.eurogamer.net/bioware-co-founder-greg-zeschuk-closure-interview",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:08:17+00:00"
+    },
+    {
+      "guid": "jyvPfAjDsyBGBYsiRe9FaX",
+      "title": "I'm calling it: GTA 6 is officially an immersive sim, based on what you can do with NPCs",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/im-calling-it-gta-6-is-officially-an-immersive-sim-based-on-what-you-can-do-with-npcs/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:21:58+00:00"
+    },
+    {
+      "guid": "ZmPrnHUexjJbgUiLioapPV",
+      "title": "Where to find the Hokubo region Treasure Hunt in Forza Horizon 6",
+      "url": "https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-hokubo-region-location/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:18:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208165",
+      "title": "Bella Glanville Signs With Established Artists",
+      "url": "https://deadline.com/2026/10/bella-glanville-established-artists-management-1237208165/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:12:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208181",
+      "title": "Prestige International Pictures Boards SXSW Mexican Teen Body Horror \u2018Fifteen\u2019 \u2013 AFM",
+      "url": "https://deadline.com/2026/10/prestige-pictures-boards-sxsw-teen-body-horror-fifteen-afm-1237208181/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:12:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208109",
+      "title": "Elke Sommer Dies: \u2018A Shot In The Dark\u2019, \u2018The Wrecking Crew\u2019 Actor Was 85",
+      "url": "https://deadline.com/2026/10/elke-sommer-dead-1237208109/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:09:43+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933403",
+      "title": "DGA and Emmy Winner Glenn Weiss Signs With Gersh (EXCLUSIVE)",
+      "url": "https://variety.com/2026/biz/news/glenn-weiss-signs-gersh-agency-1236933403/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934202",
+      "title": "Juliana Stock Exiting as A+E\u2019s Marketing and Digital Chief to Become Hearst Magazines President",
+      "url": "https://variety.com/2026/tv/news/juliana-stock-hearst-magazines-president-1236934202/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934098",
+      "title": "NewsNation Plans Fast-Paced Election Night Focused on Hot Data, Not Hot Air",
+      "url": "https://variety.com/2026/tv/news/newsnation-midterms-election-night-data-1236934098/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:10:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742400",
+      "title": "Hollywood\u2019s Hottest New Event: the Airbnb.org Gala?",
+      "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hollywoods-hottest-new-event-airbnb-org-gala-1236742400/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:13:13+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742266",
+      "title": "Earl Barret, \u2018Too Close for Comfort\u2019 Writer and Producer, Dies at 94",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/earl-barret-dead-too-close-for-comfort-batman-andy-griffith-1236742266/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:06:50+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742579",
+      "title": "How Bill Paxton\u2019s Son Took Over His Father\u2019s Role in a Western 35 Years in the Making",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/bill-paxton-son-last-train-to-fortune-malcolm-mcdowell-1236742579/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:04:51+00:00"
+    },
+    {
+      "guid": "fTaoJAdJf8VyKG2jzPErb6",
+      "title": "Walton Goggins wraps filming on Fallout season 3 with cryptic message",
+      "url": "https://www.gamesradar.com/entertainment/sci-fi-shows/walton-goggins-wraps-filming-on-fallout-season-3-with-cryptic-message-just-took-it-off-for-the-last-time/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T15:11:24+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208333",
+      "title": "PS5 Still Outselling PS4 in USA Despite Much Higher Price and Fewer Exclusives",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-still-outselling-ps4-in-usa-despite-much-higher-price-and-fewer-exclusives",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T15:30:00+00:00"
+    },
+    {
+      "guid": "https://www.enworld.org/threads/make-your-own-critical-role-with-matt-mercer-miniature-3d-files-from-tiny-furniture.721137/",
+      "title": "Make your own critical role with Matt Mercer miniature 3D files from Tiny Furniture",
+      "url": "https://www.enworld.org/threads/make-your-own-critical-role-with-matt-mercer-miniature-3d-files-from-tiny-furniture.721137/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T15:05:00+00:00"
     }
   ]
 }
