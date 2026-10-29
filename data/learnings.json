@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "An award-winning sci-fi author was writing Mass Effect 5's story before BioWare cancelled it",
-      "tag": "mass effect 5",
-      "posted_at": "2026-10-22T14:01:02.255317+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/what-we-were-cooking-was-really-cool-an-award-winning-science-fiction-author-was-working-on-mass-effect-5s-story/"
-      ],
-      "article_titles": [
-        "'What we were cooking was really cool': An award-winning science fiction author was working on Mass Effect 5's story"
-      ]
-    },
-    {
-      "headline": "The Nintendo Switch 2 has been jailbroken for the first time",
-      "tag": "nintendo switch 2",
-      "posted_at": "2026-10-22T14:01:02.342359+00:00",
-      "urls": [
-        "https://kotaku.com/nintendo-switch-2-jailbreak-hack-exploit-piracy-homebrew-emulation-modding-2000748784"
-      ],
-      "article_titles": [
-        "The Switch 2 Has Been Jailbroken For The First Time"
-      ]
-    },
-    {
-      "headline": "BioWare's cancelled Mass Effect game would have delivered unprecedented player choice, inspired by Baldur's Gate 3 and The Witcher",
-      "tag": "mass effect",
-      "posted_at": "2026-10-22T14:01:02.430581+00:00",
-      "urls": [
-        "https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy"
-      ],
-      "article_titles": [
-        "BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver \"a level of autonomy and choice that no other game has\""
-      ]
-    },
-    {
       "headline": "Capcom Data Breach Exposes 11.7 Million Accounts Tied to Street Fighter and More",
       "tag": "capcom",
       "posted_at": "2026-10-22T15:31:17.131796+00:00",
@@ -732,27 +699,39 @@
       "article_titles": [
         "New GTA 6 Gameplay Revealed Inside South Park Confirms Dog Poop Is A Weapon"
       ]
+    },
+    {
+      "headline": "FromSoftware's Switch 2 Exclusive The Duskbloods Delayed to 2027",
+      "tag": "the duskbloods",
+      "posted_at": "2026-10-29T14:31:06.885279+00:00",
+      "urls": [
+        "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+        "https://kotaku.com/the-duskbloods-is-officially-delayed-until-2027-2000751016",
+        "https://www.gamespot.com/articles/switch-2-exclusives-the-duskbloods-delayed-to-2027/"
+      ],
+      "article_titles": [
+        "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027",
+        "The Duskbloods Is Officially Delayed Until 2027",
+        "From Software Delays Its Switch 2 Exclusive, The Duskbloods"
+      ]
+    },
+    {
+      "headline": "The Bloodborne Movie Just Got a Promising Update From Producer Jacksepticeye",
+      "tag": "bloodborne",
+      "posted_at": "2026-10-29T14:31:06.952860+00:00",
+      "urls": [
+        "https://www.ign.com/articles/bloodborne-movie-gets-promising-update-from-producer-jacksepticeye",
+        "https://www.ign.com/articles/jacksepticeye-talks-being-hitmans-new-elusive-target-bloodborne-movie-dispatch-and-more"
+      ],
+      "article_titles": [
+        "Bloodborne Movie Gets Promising Update from Producer Jacksepticeye",
+        "Jacksepticeye Talks Being Hitman's New Elusive Target, Bloodborne Movie, Dispatch, and More"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "ZjV68X95gcbwJ3hQpxx7zU",
-      "title": "For the second time this year, Galax says it's not closing down: Palit-owned graphics card brand 'continues to operate as usual'",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/for-the-second-time-this-year-galax-says-its-not-closing-down-palit-owned-graphics-card-brand-continues-to-operate-as-usual/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T10:29:32+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236933998",
-      "title": "Aliens, Dinosaurs and a Father\u2019s Death: \u2018Kefi\u2019 Director Saito Kisin Brings a Surreal Take on Grief to Tokyo",
-      "url": "https://variety.com/2026/film/festivals/aliens-dinosaurs-fathers-death-tokyo-kefi-saito-kisin-1236933998/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T10:13:44+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237207215",
       "title": "\u2018The Cube\u2019 Creator Adam Adler Joins Channel 4\u2019s Production Biz As Creative Director",
@@ -808,14 +787,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-29T10:35:00+00:00"
-    },
-    {
-      "guid": "agjvyEc2o3ptxsQ5omS3P4",
-      "title": "600,000 animations are the appetizer: Rockstar gave GTA 6 NPCs meticulous personality traits to control how they react to you",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/600-000-animations-are-the-appetizer-rockstar-gave-gta-6-npcs-meticulous-personality-traits-to-control-how-they-react-to-you-and-now-i-get-why-weve-been-waiting-13-years/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T10:30:00+00:00"
     },
     {
       "guid": "https://www.nintendolife.com/#article-208309",
@@ -1392,6 +1363,150 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-10-29T13:47:17+00:00"
+    },
+    {
+      "guid": "a7534013-b08b-4ef3-a365-11a13b357b7b",
+      "title": "Afterlife With Archie Lives Again in New Mausoleum Edition Hardcover",
+      "url": "https://www.ign.com/articles/afterlife-with-archie-lives-again-in-new-mausoleum-edition-hardcover",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:00:00+00:00"
+    },
+    {
+      "guid": "09eb2f77-1143-4e2f-b849-4ef0f489e3c7",
+      "title": "Bloodborne Movie Gets Promising Update from Producer Jacksepticeye",
+      "url": "https://www.ign.com/articles/bloodborne-movie-gets-promising-update-from-producer-jacksepticeye",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:00:00+00:00"
+    },
+    {
+      "guid": "34e43b0d-c787-478e-a74c-f6e57efd5c58",
+      "title": "Jacksepticeye Talks Being Hitman's New Elusive Target, Bloodborne Movie, Dispatch, and More",
+      "url": "https://www.ign.com/articles/jacksepticeye-talks-being-hitmans-new-elusive-target-bloodborne-movie-dispatch-and-more",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+      "title": "FromSoft's Switch 2 exclusive, The Duskbloods, has been delayed into 2027",
+      "url": "https://www.eurogamer.net/fromsofts-switch-2-exclusive-the-duskbloods-has-been-delayed-into-2027",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:14:25+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
+      "title": "\"A cold dead place that's slowly decaying\" - EA employees reveal a culture of secrecy and terrible morale following layoffs",
+      "url": "https://www.eurogamer.net/inside-ea-layoffs-report-bioware-morale-secrecy",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:08:30+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751016",
+      "title": "The Duskbloods Is Officially Delayed Until 2027",
+      "url": "https://kotaku.com/the-duskbloods-is-officially-delayed-until-2027-2000751016",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:08:34+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751004",
+      "title": "Somehow, The Legend Of Zelda Switch 2 Walmart Fumbled Pre-Order Saga Has Gotten Messier",
+      "url": "https://kotaku.com/legend-zelda-ocarina-time-switch-2-pre-order-walmart-stock-sales-2000751004",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:00:07+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208132",
+      "title": "Chris Sullivan Joins Jeremy Holm On \u2018Tessellation\u2019 As Filming Gets Underway In Illinois",
+      "url": "https://deadline.com/2026/10/chris-sullivan-jeremy-holm-tessellation-filming-illinois-1237208132/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:26:54+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208131",
+      "title": "Camerimage: Hype Williams & Darren Aronofsky Set For Honorary Awards",
+      "url": "https://deadline.com/2026/10/camerimage-hype-williams-darren-aronofsky-honorary-awards-1237208131/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:16:05+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208062",
+      "title": "Paula Reid Joins MS NOW As Chief White House Reporter",
+      "url": "https://deadline.com/2026/10/paula-reid-joins-ms-now-white-house-1237208062/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:05:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237049663",
+      "title": "\u2018Sweetpea\u2019: Ella Purnell Is Back In Killer Role As Full Trailer Drops For Season 2 Of Sky And Starz Series",
+      "url": "https://deadline.com/2026/10/sweetpea-season-2-trailer-ella-purnell-1237049663/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934091",
+      "title": "Paula Reid Has Arrived at MS NOW",
+      "url": "https://variety.com/2026/tv/news/paula-reid-ms-now-joins-1236934091/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934040",
+      "title": "Rotterdam Festival World Premieres Include Malaysian Horror Movie and Nepalese Dostoevsky Adaptation",
+      "url": "https://variety.com/2026/film/global/rotterdam-festival-first-wave-world-premieres-1236934040/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742572",
+      "title": "AMC\u2019s Infamous \u2018Dune\u2019 Sandworm Popcorn Bucket Is Back for \u2018Part Three\u2019 With New Designs",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/amc-dune-sandworm-popcorn-part-three-1236742572/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:07:15+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742555",
+      "title": "Paula Reid Joins MS NOW as Chief White House Reporter",
+      "url": "https://www.hollywoodreporter.com/business/business-news/paula-reid-joins-ms-now-white-house-reporter-leaves-cnn-1236742555/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:05:08+00:00"
+    },
+    {
+      "guid": "1941412",
+      "title": "From Software Delays Its Switch 2 Exclusive, The Duskbloods",
+      "url": "https://www.gamespot.com/articles/switch-2-exclusives-the-duskbloods-delayed-to-2027/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:07:30+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125686",
+      "title": "Animal Crossing: New Horizon Has Legend of Zelda Designs",
+      "url": "https://www.siliconera.com/animal-crossing-new-horizon-has-legend-of-zelda-designs/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:00:39+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-208305",
+      "title": "Polymega Announces Jaleco City Connection Compilation - Inc. Scud Hammer, Tengoku, & Rod Land",
+      "url": "https://www.timeextension.com/news/2026/10/polymega-announces-jaleco-city-connection-compilation-inc-scud-hammer-tengoku-and-rod-land",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:30:00+00:00"
     }
   ]
 }
