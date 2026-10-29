@@ -727,75 +727,22 @@
         "Bloodborne Movie Gets Promising Update from Producer Jacksepticeye",
         "Jacksepticeye Talks Being Hitman's New Elusive Target, Bloodborne Movie, Dispatch, and More"
       ]
+    },
+    {
+      "headline": "GTA 6's World Is So Detailed Rockstar Had to Slow It Down Compared to GTA 5",
+      "tag": "gta 6",
+      "posted_at": "2026-10-29T15:04:23.144938+00:00",
+      "urls": [
+        "https://kotaku.com/gta6-is-so-detailed-rockstar-had-to-make-its-world-slower-than-gta5-to-accommodate-it-2000750634"
+      ],
+      "article_titles": [
+        "GTA 6 Is So Detailed, Rockstar Had To Make Its World Slower Than GTA 5\u2032s To Accommodate It"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237207215",
-      "title": "\u2018The Cube\u2019 Creator Adam Adler Joins Channel 4\u2019s Production Biz As Creative Director",
-      "url": "https://deadline.com/2026/10/adam-adler-joins-channel-4-productions-the-cube-1237207215/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236933808",
-      "title": "TelevisaUnivsion Q3 Buoyed by World Cup in Mexico, Streaming Revenue",
-      "url": "https://variety.com/2026/tv/news/televisaunivsion-q3-world-cup-mexico-streaming-1236933808/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934005",
-      "title": "Sadie Sink and Maya Hawke Star in Hand-Drawn Prada Campaign by Legendary Disney Animator John Pomeroy",
-      "url": "https://variety.com/2026/shopping/news/prada-hand-drawn-holiday-campaign-sadie-sink-maya-hawk-1236934005/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T10:35:47+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236742478",
-      "title": "\u2018Paddington: The Musical\u2019 Extends West End Run Due to \u201cUnprecedented Demand\u201d",
-      "url": "https://www.hollywoodreporter.com/lifestyle/arts/paddington-the-musical-extends-west-end-run-show-tickets-1236742478/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T10:35:29+00:00"
-    },
-    {
-      "guid": "WbvqzAd8qdG38jojQtbAGE",
-      "title": "The Watcher has appeared in VisionQuest, and that usually means bad news",
-      "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/the-watcher-has-appeared-in-visionquest-and-that-usually-means-bad-news/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T10:57:31+00:00"
-    },
-    {
-      "guid": "na6SS56mrZMeYNdfZ96sD3",
-      "title": "GTA 6 promises to be an RPG like nothing the series has ever seen, but Rockstar says there's still a balance to strike",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/you-can-have-your-life-in-the-game-gta-6-promises-to-be-an-rpg-like-nothing-the-series-has-ever-seen-but-rockstar-says-theres-still-a-balance-to-strike/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T10:40:00+00:00"
-    },
-    {
-      "guid": "voMVHCp7dXXZVitDnDcmw5",
-      "title": "GTA 6 \"felt too fast\" when Rockstar made it run like Grand Theft Auto 5 due to the leap in visual performance",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-felt-too-fast-when-rockstar-made-it-run-like-grand-theft-auto-5-due-to-the-leap-in-visual-performance-over-the-past-13-years/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T10:35:00+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-208309",
-      "title": "Pok\u00e9mon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T10:45:00+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
       "title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
@@ -835,14 +782,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-29T11:15:40+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236742427",
-      "title": "TelevisaUnivision Quarterly U.S. Ad Revenue Falls 24 Percent, But World Cup Boosts Mexico Results",
-      "url": "https://www.hollywoodreporter.com/business/business-news/televisaunivision-q3-earnings-world-cup-us-ad-revenue-down-1236742427/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T11:00:00+00:00"
     },
     {
       "guid": "aiHdkhdsFoN5WrSYMYJ2H9",
@@ -1507,6 +1446,166 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-10-29T14:30:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751005",
+      "title": "Phantom Blade Zero Just Rocketed Onto Steam With +700,000 Concurrent Players",
+      "url": "https://kotaku.com/phantom-blade-zero-just-rocketed-onto-steam-with-700000-concurrent-players-2000751005",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:00:49+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000750634",
+      "title": "GTA 6 Is So Detailed, Rockstar Had To Make Its World Slower Than GTA 5\u2032s To Accommodate It",
+      "url": "https://kotaku.com/gta6-is-so-detailed-rockstar-had-to-make-its-world-slower-than-gta5-to-accommodate-it-2000750634",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:30:33+00:00"
+    },
+    {
+      "guid": "cVgNbjCJnmFfBj6byGHrBM",
+      "title": "Havn HS 360 review",
+      "url": "https://www.pcgamer.com/hardware/pc-cases/havn-hs-360-review/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208154",
+      "title": "Roman Coppola Named Creative Consultant For 2027 Spirit Awards",
+      "url": "https://deadline.com/2026/10/roman-coppola-spirit-awards-1237208154/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237206052",
+      "title": "Asian World Film Festival Unveils Competition Line-up; Kyrgyzstan\u2019s \u2018Kassandra\u2019 Set As Opening Film",
+      "url": "https://deadline.com/2026/10/asian-world-film-festival-international-oscars-kassandra-1237206052/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207041",
+      "title": "\u2018Mini War\u2019: First Look At Luke Wilson, Vanessa Hudgens, Nick Swardson & Rob Morgan In R-Rated Comedy",
+      "url": "https://deadline.com/2026/10/luke-wilson-vanessa-hudgens-nick-swardson-r-rated-comedy-1237207041/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:35:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208067",
+      "title": "Gerry Cardinale\u2019s RedBird Capital, Guy Oseary\u2019s Sound Ventures Set $1 Billion Investment Partnership",
+      "url": "https://deadline.com/2026/10/redbird-capital-guy-oseary-sound-ventures-investment-partnership-1237208067/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:34:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934175",
+      "title": "Darren Aronofsky to Receive Director\u2019s Award at Poland\u2019s Camerimage Film Festival",
+      "url": "https://variety.com/2026/film/news/darren-aronofsky-directors-award-2026-camerimage-festival-1236934175/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:35:51+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934141",
+      "title": "Joey King, LaKeith Stanfield to Star in Provocative Alien Romance Comedy \u2018Safe Space,\u2019 Lucky Number, CAA Media Finance and WME Independent Launching Sales at AFM (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/joey-king-lakeith-stanfield-alien-romance-comedy-safe-space-1236934141/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:35:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934105",
+      "title": "\u2018Christmas at the Kringles\u2019 Review: Seasonal Caper Mixes Comedy and Horror, Missing the Mark on Both",
+      "url": "https://variety.com/2026/film/reviews/christmas-at-the-kringles-review-1236934105/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:34:41+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934181",
+      "title": "Prince Estate to Release \u20183121\u2019 Expanded Edition, With Concert Video and Multiple Unreleased Tracks",
+      "url": "https://variety.com/2026/music/news/prince-3121-expanded-edition-1236934181/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:34:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934138",
+      "title": "Elke Sommer, \u2018Pink Panther\u2019 and \u2018The Prize\u2019 Star, Dies at 85",
+      "url": "https://variety.com/2026/film/news/elke-sommer-dead-pink-panther-shot-in-the-dark-1236934138/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:31:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933850",
+      "title": "\u2018Cunk on Cinema\u2019 Trailer: Diane Morgan\u2019s Philomena Cunk Returns for Film-Focused Mockumentary Series",
+      "url": "https://variety.com/2026/tv/global/cunk-on-cinema-trailer-diane-morgan-philomena-cunk-1236933850/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742597",
+      "title": "Bryan Adams Releases New Trump Protest Song \u201cLake Ontario\u201d",
+      "url": "https://www.hollywoodreporter.com/music/music-news/bryan-adams-trump-protest-song-lake-ontario-1236742597/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T14:58:36+00:00"
+    },
+    {
+      "guid": "nyufmyWE8i9qGrjYDEm98F",
+      "title": "When does the Crimson Desert Charting the Unknown DLC release?",
+      "url": "https://www.gamesradar.com/games/rpg/crimson-desert-charting-the-unknown-dlc-release-time-date/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:55:48+00:00"
+    },
+    {
+      "guid": "1941429",
+      "title": "Phantom Blade Zero Is Already Proving Its Prelaunch Hype Was No Fluke",
+      "url": "https://www.gamespot.com/articles/phantom-blade-zero-is-already-proving-its-prelaunch-hype-was-no-fluke/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:40:52+00:00"
+    },
+    {
+      "guid": "1941399",
+      "title": "GTA 6\u2019s Cops Will Send Dogs To Get You",
+      "url": "https://www.gamespot.com/articles/gta-6s-cops-will-send-dogs-to-get-you/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:32:34+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208330",
+      "title": "The Duskbloods Switch 2 Release Has Been Delayed To 2027",
+      "url": "https://www.nintendolife.com/news/2026/10/the-duskbloods-switch-2-release-has-been-delayed-to-2027",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:45:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208294",
+      "title": "Nintendo Download: 29th October (North America)",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-download-29th-october-north-america",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T14:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124813",
+      "title": "Review: Danchi Days Is a Totally Pleasant Neighbor-Collecting Adventure",
+      "url": "https://www.siliconera.com/review-danchi-days-is-a-totally-pleasant-neighbor-collecting-adventure/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T15:01:00+00:00"
     }
   ]
 }
