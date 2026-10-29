@@ -1,54 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "BioWare Has Suddenly Closed",
-      "tag": "bioware",
-      "posted_at": "2026-10-22T13:01:10.627354+00:00",
-      "urls": [
-        "https://www.eurogamer.net/video-game-industry-reacts-to-bioware-closure"
-      ],
-      "article_titles": [
-        "Games industry mourns sudden BioWare closure - \"Anyone who participated in this travesty should be ashamed\""
-      ]
-    },
-    {
-      "headline": "A Web Exploit Is Forcing Japan's Oldest Mobile Games Offline Permanently",
-      "tag": "",
-      "posted_at": "2026-10-22T13:01:10.829641+00:00",
-      "urls": [
-        "https://kotaku.com/two-of-japans-oldest-mobile-games-have-been-forced-permanently-offline-because-of-the-new-exploit-ravaging-the-web-2000748511"
-      ],
-      "article_titles": [
-        "Two Of Japan\u2019s Oldest Mobile Games Have Been Forced Permanently Offline Because Of The New Exploit Ravaging The Web"
-      ]
-    },
-    {
-      "headline": "Gears of War: E-Day Reportedly Cost Over $500 Million to Make",
-      "tag": "gears of war: e-day",
-      "posted_at": "2026-10-22T13:31:01.010508+00:00",
-      "urls": [
-        "https://kotaku.com/the-case-for-exclusivity-when-gears-of-war-e-day-cost-over-500-million-to-make-2000747986",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xcijov/kotaku_gears_of_war_eday_cost_over_500_million_to/"
-      ],
-      "article_titles": [
-        "The Case For Exclusivity When Gears Of War: E-Day Cost Over $500 Million To Make",
-        "[Kotaku] - Gears Of War: E-Day Cost Over $500 Million To Make"
-      ]
-    },
-    {
-      "headline": "Marvel's Wolverine Was September's Best-Selling New Game in the US Despite Mixed Reviews",
-      "tag": "marvel's wolverine",
-      "posted_at": "2026-10-22T13:31:01.076411+00:00",
-      "urls": [
-        "https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana",
-        "https://www.gamespot.com/articles/marvels-wolverine-proves-you-shouldnt-always-trust-what-you-see-on-social-media/"
-      ],
-      "article_titles": [
-        "Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2",
-        "Marvel\u2019s Wolverine Proves You Shouldn\u2019t Always Trust What You See On Social Media"
-      ]
-    },
-    {
       "headline": "An award-winning sci-fi author was writing Mass Effect 5's story before BioWare cancelled it",
       "tag": "mass effect 5",
       "posted_at": "2026-10-22T14:01:02.255317+00:00",
@@ -769,6 +721,17 @@
         "Not all Zelda: Ocarina of Time remake devs have played the N64 original, series producer says",
         "Not all Zelda: Ocarina of Time remake devs have played the N64 original, series producer says"
       ]
+    },
+    {
+      "headline": "South Park's New Special Quietly Revealed New GTA 6 Gameplay \u2014 Including Dog Poop as a Weapon",
+      "tag": "gta 6",
+      "posted_at": "2026-10-29T13:31:02.209325+00:00",
+      "urls": [
+        "https://kotaku.com/grand-theft-auto-6-south-park-america-dog-poop-video-2000750987"
+      ],
+      "article_titles": [
+        "New GTA 6 Gameplay Revealed Inside South Park Confirms Dog Poop Is A Weapon"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -1237,6 +1200,110 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-29T12:46:33+00:00"
+    },
+    {
+      "guid": "393eea79-3ff3-42e2-8044-cb18f754c4e4",
+      "title": "'High-Tech' Atari Hotel With Esports Venue and Creator Studios Breaks Ground in Phoenix",
+      "url": "https://www.ign.com/articles/high-tech-atari-hotel-with-esports-venue-and-creator-studios-breaks-ground-in-phoenix",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000750987",
+      "title": "New GTA 6 Gameplay Revealed Inside South Park Confirms Dog Poop Is A Weapon",
+      "url": "https://kotaku.com/grand-theft-auto-6-south-park-america-dog-poop-video-2000750987",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:00:42+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207408",
+      "title": "Earl Barret Dies: Sitcom Writer Who Co-Created Ted Knight Vehicle \u2018Too Close For Comfort\u2019 Was 94",
+      "url": "https://deadline.com/2026/10/earl-barret-dead-1237207408/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:10:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933737",
+      "title": "\u2018The Diplomat\u2019 Renewed for Season 5 at Netflix",
+      "url": "https://variety.com/2026/tv/news/the-diplomat-renewed-season-5-netflix-1236933737/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934092",
+      "title": "Gerry Cardinale\u2019s RedBird and Guy Oseary\u2019s Sound Ventures Team on $1 Billion Fund Targeting Tech, Media and Culture Investments",
+      "url": "https://variety.com/2026/biz/news/gerry-cardinale-redbird-guy-oseary-sound-ventures-investment-fund-1236934092/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:12:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933707",
+      "title": "Backstreet Boys Launch Backstreet Gamers in Global Gaming League",
+      "url": "https://variety.com/2026/digital/news/backstreet-boys-gamers-global-gaming-league-1236933707/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742457",
+      "title": "A Recent White House Press Secretary Has a New Job: Film Producer (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/white-house-press-secretary-job-jean-pierre-who-is-1236742457/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:18:35+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742548",
+      "title": "Elke Sommer, Actress in \u2018A Shot in the Dark\u2019 and \u2018The Prize,\u2019 Dies at 85",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/elke-sommer-dead-shot-in-the-dark-the-prize-1236742548/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T13:12:13+00:00"
+    },
+    {
+      "guid": "1941370",
+      "title": "Xbox CEO Says Xbox Series X|S Is Supply Constrained, But Is It?",
+      "url": "https://www.gamespot.com/articles/xbox-ceo-says-xbox-series-xs-is-supply-constrained-but-is-it/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T13:20:45+00:00"
+    },
+    {
+      "guid": "1941362",
+      "title": "GTA 6\u2019s Landmass Is Nearly As Big As GTA 4, GTA 5, And Red Dead Redemption 2 Combined",
+      "url": "https://www.gamespot.com/articles/gta-6s-landmass-is-nearly-as-big-as-gta-4-gta-5-and-red-dead-redemption-2-combined/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T13:08:41+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208325",
+      "title": "Konami Records Strong Profit Having Made Excellent Games Again",
+      "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125352",
+      "title": "Final Fantasy Resonance Deserves a Sequel",
+      "url": "https://www.siliconera.com/final-fantasy-resonance-deserves-a-sequel/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-208315",
+      "title": "Humanbrew Is a New Discord Server Dedicated to Sharing and Championing Non-AI Homebrew Projects",
+      "url": "https://www.timeextension.com/news/2026/10/humanbrew-is-a-new-discord-server-dedicated-to-sharing-and-championing-non-ai-homebrew-projects",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T13:00:00+00:00"
     }
   ]
 }
