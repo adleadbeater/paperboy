@@ -1,32 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Smash Bros.' Masahiro Sakurai Warns Gen-AI Will Flood Games With Unoriginal Slop",
-      "tag": "super smash bros.",
-      "posted_at": "2026-10-22T17:31:15.540979+00:00",
-      "urls": [
-        "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games",
-        "https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games"
-      ],
-      "article_titles": [
-        "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
-        "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated"
-      ]
-    },
-    {
-      "headline": "Football Manager Is Letting Players Try the New Game Free After Last Year's Disaster",
-      "tag": "football manager",
-      "posted_at": "2026-10-22T17:31:15.713570+00:00",
-      "urls": [
-        "https://kotaku.com/football-managers-last-game-was-so-hated-that-this-year-its-letting-people-play-the-new-one-for-free-2000748830",
-        "https://kotaku.com/football-managers-last-game-was-so-hated-that-this-year-its-letting-people-play-the-new-one-for-free-2000748830"
-      ],
-      "article_titles": [
-        "Football Manager\u2019s Last Game Was So Hated That This Year It\u2019s Letting People Play The New One For Free",
-        "Football Manager\u2019s Last Game Was So Hated That This Year Its Letting People Play The New One For Free"
-      ]
-    },
-    {
       "headline": "A Valve Dev Just Accidentally Confirmed Half-Life 3 (Codenamed HLX) Is Real",
       "tag": "half-life",
       "posted_at": "2026-10-22T18:01:33.970946+00:00",
@@ -757,83 +731,28 @@
       "article_titles": [
         "A Rare Pok\u00e9mon Is Being Distributed Again For The First Time In A Decade, But There\u2019s A Catch"
       ]
+    },
+    {
+      "headline": "Donald Glover Is Writing and Starring in a Live-Action PUBG Series at Netflix",
+      "tag": "pubg",
+      "posted_at": "2026-10-29T17:39:12.548474+00:00",
+      "urls": [
+        "https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/",
+        "https://variety.com/2026/tv/news/pubg-live-action-show-netflix-donald-glover-stephen-glover-1236934277/",
+        "https://www.hollywoodreporter.com/tv/tv-news/donald-glover-pubg-video-game-series-netflix-1236742656/",
+        "https://otakukart.com/one-piece-showrunner-steven-maeda-says-he-expected-more-live-action-anime-adaptations-after-netflixs-global-hit/"
+      ],
+      "article_titles": [
+        "\u2018PUBG\u2019: Donald Glover Starring In Live-Action Series Adaptation Of Hit Game In Works At Netflix",
+        "\u2018PUBG\u2019 Live-Action Series From Donald Glover, Stephen Glover in Development at Netflix",
+        "Donald Glover Writing, Starring in \u2018PUBG\u2019 Video Game Adaptation in the Works at Netflix",
+        "One Piece Showrunner Steven Maeda Says He Expected More Live-Action Anime Adaptations After Netflix\u2019s Global Hit"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://deadline.com/?p=1237207408",
-      "title": "Earl Barret Dies: Sitcom Writer Who Co-Created Ted Knight Vehicle \u2018Too Close For Comfort\u2019 Was 94",
-      "url": "https://deadline.com/2026/10/earl-barret-dead-1237207408/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:10:15+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236933737",
-      "title": "\u2018The Diplomat\u2019 Renewed for Season 5 at Netflix",
-      "url": "https://variety.com/2026/tv/news/the-diplomat-renewed-season-5-netflix-1236933737/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934092",
-      "title": "Gerry Cardinale\u2019s RedBird and Guy Oseary\u2019s Sound Ventures Team on $1 Billion Fund Targeting Tech, Media and Culture Investments",
-      "url": "https://variety.com/2026/biz/news/gerry-cardinale-redbird-guy-oseary-sound-ventures-investment-fund-1236934092/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:12:53+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236742457",
-      "title": "A Recent White House Press Secretary Has a New Job: Film Producer (Exclusive)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/white-house-press-secretary-job-jean-pierre-who-is-1236742457/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:18:35+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236742548",
-      "title": "Elke Sommer, Actress in \u2018A Shot in the Dark\u2019 and \u2018The Prize,\u2019 Dies at 85",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/elke-sommer-dead-shot-in-the-dark-the-prize-1236742548/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:12:13+00:00"
-    },
-    {
-      "guid": "1941370",
-      "title": "Xbox CEO Says Xbox Series X|S Is Supply Constrained, But Is It?",
-      "url": "https://www.gamespot.com/articles/xbox-ceo-says-xbox-series-xs-is-supply-constrained-but-is-it/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T13:20:45+00:00"
-    },
-    {
-      "guid": "1941362",
-      "title": "GTA 6\u2019s Landmass Is Nearly As Big As GTA 4, GTA 5, And Red Dead Redemption 2 Combined",
-      "url": "https://www.gamespot.com/articles/gta-6s-landmass-is-nearly-as-big-as-gta-4-gta-5-and-red-dead-redemption-2-combined/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T13:08:41+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208325",
-      "title": "Konami Records Strong Profit Having Made Excellent Games Again",
-      "url": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T13:30:00+00:00"
-    },
-    {
-      "guid": "BLhMaQrGipifqbuyxhfdMA",
-      "title": "If Kane Parsons does make a Backrooms sequel then it'll be to 'poke at' aspects of the first film that 'didn't feel like it accurately spoke to the cultural core of Backrooms'",
-      "url": "https://www.pcgamer.com/movies-tv/if-kane-parsons-does-make-a-backrooms-sequel-then-itll-be-to-poke-at-aspects-of-the-first-film-that-didnt-feel-like-it-accurately-spoke-to-the-cultural-core-of-backrooms/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:35:07+00:00"
-    },
     {
       "guid": "https://deadline.com/?p=1237208082",
       "title": "Rotterdam Unveils First Titles Locked To World Premiere At 2027 Edition",
@@ -865,14 +784,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-10-29T13:39:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237207664",
-      "title": "\u2018The Diplomat\u2019 Renewed For Season 5 At Netflix",
-      "url": "https://deadline.com/2026/10/the-diplomat-renewed-season-5-netflix-1237207664/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:30:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236933816",
@@ -921,22 +832,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-29T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236742375",
-      "title": "\u2018The Diplomat\u2019 Renewed for Season 5 at Netflix",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-renewed-season-5-netflix-1236742375/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-29T13:30:00+00:00"
-    },
-    {
-      "guid": "v4rCcRvqcL58KA4HR6X69B",
-      "title": "The best movies you need to watch in November 2026",
-      "url": "https://www.gamesradar.com/entertainment/movies/movies-releasing-in-november-2026/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-29T13:30:00+00:00"
     },
     {
       "guid": "1941389",
@@ -2001,6 +1896,134 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-29T16:45:15+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751042",
+      "title": "Destroy Everything With A Sledgehammer In This Thrilling And Therapeutic Game",
+      "url": "https://kotaku.com/virtue-and-a-sledgehammer-devolver-review-deconstructeam-pc-steam-2000751042",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:30:25+00:00"
+    },
+    {
+      "guid": "XF3yLSQAFbNA97Z8fv6XQ8",
+      "title": "In 2023, an anonymous modder released one of the best horror games of the decade, and they still haven't broken character",
+      "url": "https://www.pcgamer.com/games/horror/in-2023-an-anonymous-modder-released-one-of-the-best-horror-games-of-the-decade-and-they-still-havent-broken-character/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:31:57+00:00"
+    },
+    {
+      "guid": "RfBjYLRnvgj4YZZLtLYjdZ",
+      "title": "Nvidia CEO reportedly targeted by Chinese spy previously under suspicion for AI chip smuggling",
+      "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-reportedly-targeted-by-chinese-spy-previously-under-suspicion-for-ai-chip-smuggling/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:30:39+00:00"
+    },
+    {
+      "guid": "zptXqDkQtbF5FRhLjKv36L",
+      "title": "'We feel very good about our trajectory here' says Google as its stock tanks by $500 billion",
+      "url": "https://www.pcgamer.com/software/ai/we-feel-very-good-about-our-trajectory-here-says-google-as-its-stock-tanks-by-usd500-billion/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:09:36+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207882",
+      "title": "Jay Roach Producing Female-Driven Ensemble Comedy For New Line From \u2018Fockers\u2019 Collaborator Larry Stuckey & Joanna Leeds",
+      "url": "https://deadline.com/2026/10/jay-roach-new-line-comedy-larry-stuckey-joanna-leeds-1237207882/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:33:37+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207739",
+      "title": "\u2018PUBG\u2019: Donald Glover Starring In Live-Action Series Adaptation Of Hit Game In Works At Netflix",
+      "url": "https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:30:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208369",
+      "title": "James Gunn On Margot Robbie Returning To DCU In \u2018The Suicide Squad\u2019 Role: \u201cI Don\u2019t Know If She Wants To Play Harley Again; She May Be Over That\u2019",
+      "url": "https://deadline.com/2026/10/james-gunn-margot-robbie-returning-dcu-harley-quinn-1237208369/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:28:47+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237207587",
+      "title": "Jim O\u2019Heir & Zachary Levi Among Cast For Faith-Based Comedy Series \u2018Shelf Life\u2019 From Angel & \u2018The Promised Land\u2019 Producers",
+      "url": "https://deadline.com/2026/10/jim-oheir-zachary-levi-faith-comedy-series-shelf-life-angel-1237207587/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:21:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208348",
+      "title": "CAA Signs \u2018North Of North\u2019s Stacey Aglok MacDonald & Alethea Arnaquq-Baril",
+      "url": "https://deadline.com/2026/10/north-of-north-creators-sign-caa-1237208348/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:08:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934277",
+      "title": "\u2018PUBG\u2019 Live-Action Series From Donald Glover, Stephen Glover in Development at Netflix",
+      "url": "https://variety.com/2026/tv/news/pubg-live-action-show-netflix-donald-glover-stephen-glover-1236934277/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934291",
+      "title": "Cannes Chief Thierry Fremaux Hails French Film Model as CNC Head Ga\u00ebtan Bruel Vows to Fight for Its Future at 80th Anniversary",
+      "url": "https://variety.com/2026/film/global/cannes-thierry-fremaux-french-film-model-cnc-gaetan-bruel-1236934291/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:08:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742656",
+      "title": "Donald Glover Writing, Starring in \u2018PUBG\u2019 Video Game Adaptation in the Works at Netflix",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/donald-glover-pubg-video-game-series-netflix-1236742656/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:30:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742696",
+      "title": "China\u2019s First Fully AI-Generated Movie Flops at the Box Office",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sanxingdui-future-past-ai-movie-box-office-flop-1236742696/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-29T17:11:34+00:00"
+    },
+    {
+      "guid": "1941492",
+      "title": "You All Guessed Elder Scrolls 6\u2019s Name, And Now Here\u2019s The Game\u2019s Setup \u2013 Report",
+      "url": "https://www.gamespot.com/articles/you-all-guessed-elder-scrolls-6s-name-and-now-heres-the-games-setup-report/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T17:09:54+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761899",
+      "title": "\u2018Galaxy Express 999\u2019 Director Says AI Is Making People Follow Instructions Instead of Thinking Independently, Raising Concerns About Its Impact on Creativity",
+      "url": "https://otakukart.com/galaxy-express-999-director-says-ai-is-making-people-follow-instructions-instead-of-thinking-independently-raising-concerns-about-its-impact-on-creativity/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T17:21:12+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761921",
+      "title": "\u201cThe Emotions Are the Most Intense\u201d \u2013 The Blood of Dawnwalker Director Calls RPGs His Favorite Genre",
+      "url": "https://otakukart.com/the-emotions-are-the-most-intense-the-blood-of-dawnwalker-director-calls-rpgs-his-favorite-genre/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-29T17:13:05+00:00"
     }
   ]
 }
