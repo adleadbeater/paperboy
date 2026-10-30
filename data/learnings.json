@@ -680,14 +680,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236741324",
-      "title": "\u2018American Horror Story\u2019 Finale: Paul Anthony Kelly on the Season 13 Ending and Whether He\u2019ll Return",
-      "url": "https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-finale-paul-anthony-kelly-explained-1236741324/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T04:52:00+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237209296",
       "title": "Japan\u2019s Animation Industry Grows 15.8% To Record $28BN, Driven By Both Domestic & Overseas Sales \u2013 TIFFCOM",
       "url": "https://deadline.com/2026/10/demon-slayer-anime-annual-report-japan-tiffcom-1237209296/",
@@ -710,6 +702,54 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-30T06:02:57+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208379",
+      "title": "AI Dubbing Pioneer Flawless Sells Technology In Deal That Raises Questions About Its Future",
+      "url": "https://deadline.com/2026/10/flawless-ai-dubbing-sells-technology-1237208379/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T09:23:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208052",
+      "title": "Supermodel Rose Bertram On Her Revealing Feature Doc: \u201cThe Thing I\u2019ve Kept Secret For So Long Is Now, In A Way, Being Shared With The World\u201d",
+      "url": "https://deadline.com/2026/10/supermodel-rose-bertram-documentary-a-girl-like-rose-2027-1237208052/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T09:15:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237209311",
+      "title": "Skydance International Sets Its Four Regional Leads: Andrew Georgiou Exiting Europe & Africa Role",
+      "url": "https://deadline.com/2026/10/skydance-international-regional-leads-georgiou-exiting-1237209311/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T09:06:41+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237173046",
+      "title": "Former Movistar Plus Content Chief Domingo Corral On His HBO Deal & Why Quality TV Can Be Commercial",
+      "url": "https://deadline.com/2026/10/domingo-corral-hbo-deal-quality-mainstream-1237173046/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T09:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236739898",
+      "title": "From \u2018Sh*t Happens\u2019 to an Erotic Photographer Being Confronted by His Daughter: Offbeat Films at Tallinn",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-film-festival-preview-poff-2026-offbeat-movies-1236739898/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T09:00:00+00:00"
+    },
+    {
+      "guid": "t3_1xjah6m",
+      "title": "NVIDIA RTX 5080 24GB reportedly launching by January 2027, replacing 16GB model",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xjah6m/nvidia_rtx_5080_24gb_reportedly_launching_by/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T09:13:10+00:00"
     }
   ]
 }
