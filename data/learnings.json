@@ -705,6 +705,19 @@
         "Struggling To Buy Magic\u2019s Foundations Commander Decks? Wizards Confirms Reprints Are Likely",
         "Magic: The Gathering Designer Explains The Dangers Of Releasing Multiple Commander Decks At Once"
       ]
+    },
+    {
+      "headline": "FromSoftware Is Shutting Down Dark Souls 2 and Dark Souls 3 Servers Indefinitely",
+      "tag": "dark souls",
+      "posted_at": "2026-10-30T17:31:03.297951+00:00",
+      "urls": [
+        "https://www.gamesradar.com/games/dark-souls/fromsoftware-has-ominous-news-dark-souls-2-and-dark-souls-3-are-shutting-down-servers-indefinitely-and-i-hope-we-dont-see-a-repeat-of-2022s-massive-outage/",
+        "https://www.gamesradar.com/games/dark-souls/fromsoftware-has-ominous-news-dark-souls-2-and-dark-souls-3-are-shutting-down-servers-indefinitely-and-i-hope-we-dont-see-a-repeat-of-2022s-massive-outage/"
+      ],
+      "article_titles": [
+        "Dark Souls 2 and Dark Souls 3 are shutting down servers indefinitely, FromSoftware says",
+        "Dark Souls 2 and Dark Souls 3 are shutting down servers indefinitely, FromSoftware says"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -717,22 +730,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-10-30T13:30:36+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236742844",
-      "title": "Christina Hendricks, Accidental DJ, Has Music Lovers Lining Up",
-      "url": "https://www.hollywoodreporter.com/music/music-features/christina-hendricks-part-time-dj-music-interview-1236742844/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T13:30:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1086188",
-      "title": "Honkai: Star Rail version 4.7 update \u2018Now, Lay Laughter to All Stars\u2019 launches November 11",
-      "url": "https://www.gematsu.com/2026/10/honkai-star-rail-version-4-7-update-now-lay-laughter-to-all-stars-launches-november-11",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T13:18:21+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237208541",
@@ -773,14 +770,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-10-30T13:40:34+00:00"
-    },
-    {
-      "guid": "rZxRzRZ7RypnwsXxriG7VV",
-      "title": "8BitDo just launched its Gears of War PC gaming roster, complete with giant Crimson Omen and Locust macro buttons",
-      "url": "https://www.gamesradar.com/hardware/8bitdo-just-launched-its-gears-of-war-pc-gaming-roster-complete-with-giant-crimson-omen-and-locust-macro-buttons/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T13:30:13+00:00"
     },
     {
       "guid": "1942891",
@@ -1757,6 +1746,38 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-10-30T17:00:45+00:00"
+    },
+    {
+      "guid": "4gbLWdeXzzKnPxiCRbYrJ6",
+      "title": "'We act as if Halloween is ours': The best way to spend spooky season is within The Outlast Trials' Sinyala Facility",
+      "url": "https://www.pcgamer.com/games/horror/we-act-as-if-halloween-is-ours-the-best-way-to-spend-spooky-season-is-within-the-outlast-trials-sinyala-facility/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T17:21:12+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236743644",
+      "title": "NFL to Face New Trial Over \u2018Sunday Ticket\u2019 $4.7 Billion Verdict",
+      "url": "https://www.hollywoodreporter.com/business/business-news/nfl-new-trial-sunday-ticket-verdict-1236743644/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T17:20:58+00:00"
+    },
+    {
+      "guid": "nxD3gmMZphfmeCAdzPJ3f7",
+      "title": "How to get a sailing ship in the Crimson Desert DLC",
+      "url": "https://www.gamesradar.com/games/rpg/crimson-desert-dlc-ship/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T17:25:10+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1762084",
+      "title": "Baekhyun Establishes New Company, with EXO-CBX Expected to Promote Through the Agency",
+      "url": "https://otakukart.com/baekhyun-establishes-new-company-with-exo-cbx-expected-to-promote-through-the-agency/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T17:20:06+00:00"
     }
   ]
 }
