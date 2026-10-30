@@ -724,70 +724,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "BUXJK99ogZJdtrtWgLS3fe",
-      "title": "Intel shifts Panther Lake capacity to data center chips while the memory crisis wreaks havoc on PC market; still sold out of budget Wildcat Lake chips",
-      "url": "https://www.pcgamer.com/hardware/processors/intel-shifts-panther-lake-capacity-to-data-center-chips-while-the-memory-crisis-wreaks-havoc-on-pc-market-still-sold-out-of-budget-wildcat-lake-chips/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T12:38:22+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237207048",
-      "title": "International Insider: Votes Cast In Israel & Brazil; Tokyo Drift; Domingo Corral Interview",
-      "url": "https://deadline.com/2026/10/israel-brazil-election-international-insider-1237207048/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237209356",
-      "title": "Female-Focused Circle Fiction Orbit Project Incubator Unveils 2026 Cohort",
-      "url": "https://deadline.com/2026/10/circle-fiction-orbit-project-incubator-2026-1237209356/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T12:39:33+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236929731",
-      "title": "Liev Schreiber and Stephen Graham Lead Apple TV\u2019s Gripping Serial Killer Thriller \u2018Nocturne\u2019: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/nocturne-review-apple-tv-1236929731/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934889",
-      "title": "Russell Brand\u2019s Defense in Rape Trial Is \u2018A Lot of Half-Truths, but Spun Into Lies,\u2019 Prosecution Claims in Closing Argument",
-      "url": "https://variety.com/2026/tv/global/russell-brand-rape-trial-defense-lies-closing-argument-1236934889/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T12:40:15+00:00"
-    },
-    {
-      "guid": "gaVYdqmi38Mt2d3cmN4swX",
-      "title": "All The Mimic codes (October 2026) and how to redeem them for Spirits and Revive Credits",
-      "url": "https://www.gamesradar.com/games/survival/the-mimic-codes/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T12:42:35+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124982",
-      "title": "Resident Evil 3 Remake\u2019s Tension and Design Keep It Terrifying",
-      "url": "https://www.siliconera.com/resident-evil-3-remakes-tension-and-design-keep-it-terrifying/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "guid": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/",
-      "title": "Paizo licenses Re-Animator for 13 Omens",
-      "url": "https://www.enworld.org/threads/paizo-licenses-re-animator-for-13-omens.721165/",
-      "source_name": "ENWorld",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T12:41:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000751254",
       "title": "First Teaser For New Death Stranding Anime Cryptically Reveals, \u2018My Mom Became A Crater\u2019",
       "url": "https://kotaku.com/first-teaser-for-new-death-stranding-anime-cryptically-reveals-my-mom-became-a-crater-2000751254",
@@ -820,36 +756,12 @@
       "published_dt": "2026-10-30T13:07:35+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236934780",
-      "title": "David Bowie\u2019s Immersive \u2018Stage\u2019 Concert Experience: Director Brett Morgen on the Show, the Artist and the Archive (EXCLUSIVE)",
-      "url": "https://variety.com/2026/music/news/david-bowie-stage-concert-documentary-brett-morgen-speaks-1236934780/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T13:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934834",
-      "title": "AI Vocal Modifier Voicemod Inks Disney Deal to Add Star Wars, Marvel Soundboards to Platform",
-      "url": "https://variety.com/2026/digital/news/ai-voicemod-disney-star-wars-marvel-soundboards-1236934834/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T13:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236742844",
       "title": "Christina Hendricks, Accidental DJ, Has Music Lovers Lining Up",
       "url": "https://www.hollywoodreporter.com/music/music-features/christina-hendricks-part-time-dj-music-interview-1236742844/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-10-30T13:30:00+00:00"
-    },
-    {
-      "guid": "NxAingZzodjN9UqnT86Va5",
-      "title": "Dexter: Resurrection star Uma Thurman says season 2 will reveal more about her mysterious hitwoman",
-      "url": "https://www.gamesradar.com/entertainment/crime-shows/dexter-resurrection-star-uma-thurman-says-season-2-will-let-us-get-to-know-her-mysterious-hitwoman-character-her-guts-have-been-opened-in-some-way/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T13:00:00+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-208388",
@@ -1554,6 +1466,134 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-10-30T16:07:29+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751572",
+      "title": "Ex-BioWare Devs Released A 40-Minute Gameplay Video Of Exodus And Yeah, That\u2019s A Mass Effect Spiritual Successor Alright",
+      "url": "https://kotaku.com/ex-bioware-devs-released-a-40-minute-gameplay-video-of-exodus-and-yeah-thats-a-mass-effect-spiritual-successor-alright-2000751572",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:30:50+00:00"
+    },
+    {
+      "guid": "jdTJPtnLaazyewCs4rxh84",
+      "title": "Sam Altman argues that it's bad you want DRAM in your computer and not a data center, actually",
+      "url": "https://www.pcgamer.com/software/ai/sam-altman-argues-that-its-bad-you-want-dram-in-your-computer-and-not-a-data-center-actually/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:45:50+00:00"
+    },
+    {
+      "guid": "Vh5nxDGLQm7iXq8GRNyCQY",
+      "title": "EA reportedly canned BioWare and Mass Effect 5 to make a new Star Wars: Battlefront instead",
+      "url": "https://www.pcgamer.com/games/mass-effect/ea-reportedly-canned-bioware-and-mass-effect-5-to-make-a-new-star-wars-battlefront-instead/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:43:23+00:00"
+    },
+    {
+      "guid": "2knfScZQDVNS4N9gLHZrJF",
+      "title": "Which is scarier, Amnesia: The Dark Descent or Alien: Isolation? Vote now!",
+      "url": "https://www.pcgamer.com/games/horror/which-is-scarier-amnesia-the-dark-descent-or-alien-isolation-vote-now/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:30:17+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237209497",
+      "title": "Paramount+ Names Damla Dogan As Unscripted Chief",
+      "url": "https://deadline.com/2026/10/paramount-damla-dogan-unscripted-chief-1237209497/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208079",
+      "title": "Watermelon Pictures Co-Founders Talk Future Plans & Growing Hollywood Support For Palestinian Stories: \u201cWe\u2019ve Been Seeing A Renaissance With A Lot Of The A-Listers\u201d",
+      "url": "https://deadline.com/2026/10/watermelon-pictures-hollywood-support-for-palestine-1237208079/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:30:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934657",
+      "title": "Inde Navarrette, Jaafar Jackson, Jordan Firstman and More Among SBIFF Virtuosos Honorees",
+      "url": "https://variety.com/2026/film/festivals/sbiff-virtuosos-honorees-1236934657/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236935288",
+      "title": "\u2018Dune\u2019 Movies Returning to Imax Theaters With \u2018Dune 3\u2019 Sneak Peek",
+      "url": "https://variety.com/2026/film/news/dune-return-theaters-imax-dune-3-sneak-peek-1236935288/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:47:10+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236935273",
+      "title": "Angel Studios Banning Sex Scenes, F-Words and Misuse of God\u2019s Name in Movies",
+      "url": "https://variety.com/2026/film/news/angel-studios-ban-sex-scenes-f-words-1236935273/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T16:46:02+00:00"
+    },
+    {
+      "guid": "Bpo9QnUnTHYY9VhSM7hDCn",
+      "title": "Everything confirmed about GTA 6 animals so far",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T16:31:14+00:00"
+    },
+    {
+      "guid": "pPPXRPvkNDer8qQ2f8M9mD",
+      "title": "The best VEL 46 builds in MW4",
+      "url": "https://www.gamesradar.com/games/call-of-duty/mw4-vel-46-builds-call-of-duty/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T16:28:07+00:00"
+    },
+    {
+      "guid": "1943015",
+      "title": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash",
+      "url": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T16:42:23+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208409",
+      "title": "Nintendo Showcases Every Switch 1 & 2 Indie World Game In New Infographic",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-showcases-every-switch-1-and-2-indie-world-game-in-new-infographic",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T16:45:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125833",
+      "title": "Next Kura Sushi Event Involves Yoshi and the Mysterious Book",
+      "url": "https://www.siliconera.com/next-kura-sushi-event-involves-yoshi-and-the-mysterious-book/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T17:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1761855",
+      "title": "Kim Woo Seok to Star in Musical \u2018UNDER MOONBOW\u2019 as First Project After Military Discharge",
+      "url": "https://otakukart.com/kim-woo-seok-to-star-in-musical-under-moonbow-as-first-project-after-military-discharge/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T16:58:57+00:00"
+    },
+    {
+      "guid": "t3_1xjkq6o",
+      "title": "Jason Schreier: \"Gears of War: E-Day cost $500 million to Xbox and that is a real number, it's real.\"",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xjkq6o/jason_schreier_gears_of_war_eday_cost_500_million/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T16:53:14+00:00"
     }
   ]
 }
