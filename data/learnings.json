@@ -715,30 +715,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236934725",
-      "title": "\u2018American History X\u2019 Director Tony Kaye Takes On Leicester\u2019s Giant Monsters in Short \u2018Will You Still Love Me Tomorrow?\u2019 (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/american-history-x-director-tony-kaye-leicester-monsters-short-1236934725/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T10:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934882",
-      "title": "Microdrama Platform FlareFlow Sets Thailand Launch on AIS Play (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/microdrama-platform-flareflow-thailand-launch-ais-play-1236934882/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T09:46:39+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208370",
-      "title": "Death Stranding Isolations Anime TV Series Gets First Trailer, Out in 2027",
-      "url": "https://www.pushsquare.com/news/2026/10/death-stranding-isolations-anime-tv-series-gets-first-trailer-out-in-2027",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T10:00:00+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
       "title": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox",
       "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
@@ -1233,6 +1209,70 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-10-30T13:18:21+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237208541",
+      "title": "Attorney For CNN, MS NOW & Politico Talks About Why It\u2019s Urgent To Stop Latest Trump White House Ban: \u201cThe Chilling Effect Is Immense\u201d",
+      "url": "https://deadline.com/2026/10/cnn-attorney-interview-trump-white-house-ban-1237208541/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934581",
+      "title": "\u2018A Court of Thorns and Roses\u2019 Book 6 Breaks Sarah J. Maas\u2019 Release Day Record With 1.7 Million Copies Sold (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/a-court-of-thorns-and-roses-book-6-sales-sarah-j-maas-1236934581/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236933929",
+      "title": "\u2018Percy Jackson and the Olympians\u2019 Debuts New Season 3 Footage at Lucca Comics as Stars and Creator Tease the Show\u2019s \u2018First Real Bad Guy\u2019",
+      "url": "https://variety.com/2026/tv/global/percy-jackson-new-season-3-footage-lucca-comics-1236933929/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:57:04+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236743204",
+      "title": "Eric Karson, Director of \u2018The Octagon\u2019 and Producer of \u2018Lionheart,\u2019 Dies at 86",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/eric-karson-dead-octagon-lionheart-martial-arts-1236743204/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:41:20+00:00"
+    },
+    {
+      "guid": "TguBjD7EQFCfzxZHcZHVb5",
+      "title": "How to start the Charting the Unknown DLC in Crimson Desert and begin your ocean adventure",
+      "url": "https://www.gamesradar.com/games/rpg/crimson-desert-dlc-start-charting-the-unknown/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T13:40:34+00:00"
+    },
+    {
+      "guid": "rZxRzRZ7RypnwsXxriG7VV",
+      "title": "8BitDo just launched its Gears of War PC gaming roster, complete with giant Crimson Omen and Locust macro buttons",
+      "url": "https://www.gamesradar.com/hardware/8bitdo-just-launched-its-gears-of-war-pc-gaming-roster-complete-with-giant-crimson-omen-and-locust-macro-buttons/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T13:30:13+00:00"
+    },
+    {
+      "guid": "1942891",
+      "title": "Don\u2019t Expect Destiny 3 At The Game Awards, Bungie Says",
+      "url": "https://www.gamespot.com/articles/dont-expect-destiny-3-at-the-game-awards-bungie-says/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T13:33:59+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208394",
+      "title": "Nintendo Cancels Kirby Air Riders Halloween Event Following Performance Woes",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-cancels-kirby-air-riders-halloween-event-following-performance-woes",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T13:45:00+00:00"
     }
   ]
 }
