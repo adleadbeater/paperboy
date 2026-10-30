@@ -1,21 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Arkane Lyon Has Until November 13 to Find a Buyer or Face Closure, Putting 217 Jobs at Risk",
-      "tag": "arkane lyon",
-      "posted_at": "2026-10-23T14:01:12.878414+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xde28f/le_monde_arkane_lyon_blade_has_until_november/",
-        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xde28f/le_monde_arkane_lyon_blade_has_until_november/"
-      ],
-      "article_titles": [
-        "Report: Arkane Studios has until November 13 to find a buyer",
-        "Le Monde: Arkane Lyon (Blade) has until November 13th to find a buyer (217 jobs at risk).",
-        "Le Monde: Arkane Lyon (Blade) has until November 13th to find a buyer (217 jobs at risk)."
-      ]
-    },
-    {
       "headline": "Xbox and Netflix's Potential TV and Movie Deal Collapsed Over a Massive Payday Demand \u2014 and Exclusive IP Rights",
       "tag": "xbox",
       "posted_at": "2026-10-23T15:01:18.353210+00:00",
@@ -709,51 +694,35 @@
       "article_titles": [
         "Sony has snapped up the film rights for Mouthwashing"
       ]
+    },
+    {
+      "headline": "EA Killed BioWare Because It Chose Star Wars Over Mass Effect",
+      "tag": "bioware",
+      "posted_at": "2026-10-30T14:31:02.131331+00:00",
+      "urls": [
+        "https://kotaku.com/bioware-shut-down-mass-effect-star-wars-battlefront-3-ea-cancel-2000751575",
+        "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xjgcox/jason_schreier_why_electronic_arts_shut_down/"
+      ],
+      "article_titles": [
+        "Report: BioWare Was Shut Down Because EA Chose Star Wars Over Mass Effect",
+        "Jason Schreier: Why Electronic Arts Shut Down BioWare | Facing financial pressure, the video-game publisher chose \u2018Star Wars\u2019 over \u2018Mass Effect\u2019"
+      ]
+    },
+    {
+      "headline": "Forza's Long-Time Director Exits Microsoft After Turn 10 Merges With Playground Games",
+      "tag": "forza",
+      "posted_at": "2026-10-30T14:31:02.403435+00:00",
+      "urls": [
+        "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft"
+      ],
+      "article_titles": [
+        "Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
-      "title": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox",
-      "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T10:15:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934894",
-      "title": "Shah Rukh Khan, Kajol, Rani Mukerji, Salman Khan Starrer \u2018Kuch Kuch Hota Hai\u2019 to Mark 30th Anniversary at Edinburgh Film Festival With Karan Johar",
-      "url": "https://variety.com/2026/film/festivals/shah-rukh-khan-karan-johar-kuch-kuch-hota-hai-30th-anniversary-edinburgh-film-festival-1236934894/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T10:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236743427",
-      "title": "Edinburgh Film Festival Toasts Bollywood With \u2018Kuch Kuch Hota Hai\u2019 Anniversary Event at 2028 Edition",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/edinburgh-film-festival-kuch-kuch-hota-hai-bollywood-2028-1236743427/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T10:30:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1762031",
-      "title": "Nintendo Switch 2 Sales Fall 12% in the US, but Rising UK Sales and Upcoming Zelda Remake Could Boost Demand",
-      "url": "https://otakukart.com/nintendo-switch-2-sales-fall-12-in-the-us-but-rising-uk-sales-and-upcoming-zelda-remake-could-boost-demand/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T10:23:07+00:00"
-    },
-    {
-      "guid": "t3_1xjbj65",
-      "title": "According to a rumor from a few months ago, Universal Studios will open its own video game studio to compete with Paramount Games Studio and Lucasfilm Games",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xjbj65/according_to_a_rumor_from_a_few_months_ago/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T10:17:47+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
       "title": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
@@ -1273,6 +1242,110 @@
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-10-30T13:45:00+00:00"
+    },
+    {
+      "guid": "ab084a3a-af62-4e8d-9e50-21204dea5997",
+      "title": "Everything Coming to Netflix in November 2026",
+      "url": "https://www.ign.com/articles/whats-new-on-netflix-in-november-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "guid": "ed69779c-2dd8-4380-93f3-a9caae4fa969",
+      "title": "Get Ready for More Tales of the TMNT in 'Tear in Time' Sequel",
+      "url": "https://www.ign.com/articles/get-ready-for-more-tales-of-the-tmnt-in-tear-in-time-sequel",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft",
+      "title": "Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games",
+      "url": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:16:41+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751575",
+      "title": "Report: BioWare Was Shut Down Because EA Chose Star Wars Over Mass Effect",
+      "url": "https://kotaku.com/bioware-shut-down-mass-effect-star-wars-battlefront-3-ea-cancel-2000751575",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:19:47+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751565",
+      "title": "Magic: The Gathering Designer Explains The Dangers Of Releasing Multiple Commander Decks At Once",
+      "url": "https://kotaku.com/magic-the-gathering-designer-explains-the-dangers-of-releasing-multiple-commander-decks-at-once-2000751565",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:04:22+00:00"
+    },
+    {
+      "guid": "7Y6mm7WbdSFf9GtauhRJBU",
+      "title": "Intel giving us a reason to be excited for Nova Lake: 'We've had a bit of a hole in our portfolio for high-end desktop, Nova Lake filled in that gap'",
+      "url": "https://www.pcgamer.com/hardware/processors/intel-giving-us-a-reason-to-be-excited-for-nova-lake-weve-had-a-bit-of-a-hole-in-our-portfolio-for-high-end-desktop-nova-lake-filled-in-that-gap/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:12:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237209398",
+      "title": "\u2018Guria\u2019 Wins Best Film At Asia Pacific Screen Awards; \u20189 Temples To Heaven\u2019 Takes Best Director",
+      "url": "https://deadline.com/2026/10/asia-pacific-screen-awards-guria-9-temples-to-heaven-1237209398/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T14:29:34+00:00"
+    },
+    {
+      "guid": "yoMETSp2xnDYomrcoYy7E8",
+      "title": "8 vital ways that WoW: Forever is different from Retail and Classic",
+      "url": "https://www.gamesradar.com/world-of-warcraft-forever-changes-and-differences/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T14:16:40+00:00"
+    },
+    {
+      "guid": "8CWYGqLy3CU2jMLMxwTCnK",
+      "title": "Before Avengers: Doomsday, Spider-Man: No Way Home proved the best Marvel event movies put character first",
+      "url": "https://www.gamesradar.com/entertainment/marvel-movies/before-avengers-doomsday-spider-man-no-way-home-proved-the-best-marvel-event-movies-put-character-first/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125777",
+      "title": "Village in the Shade Merchandise Involves Character Keychains",
+      "url": "https://www.siliconera.com/village-in-the-shade-merchandise-involves-character-keychains/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-208338",
+      "title": "Feature: BrickStation Turns the Lego PlayStation into a Console You Can Actually Play",
+      "url": "https://www.timeextension.com/features/brickstation-turns-the-lego-playstation-into-a-console-you-can-actually-play",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1086857",
+      "title": "WORLD OF HORROR \u2018AS BELOW SO ABOVE\u2019 update now available for PC, launches in 2027 for PS4 and Switch",
+      "url": "https://www.gematsu.com/2026/10/world-of-horror-as-below-so-above-update-now-available-for-pc-launches-in-2027-for-ps4-and-switch",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T14:12:40+00:00"
+    },
+    {
+      "guid": "t3_1xjgcox",
+      "title": "Jason Schreier: Why Electronic Arts Shut Down BioWare | Facing financial pressure, the video-game publisher chose \u2018Star Wars\u2019 over \u2018Mass Effect\u2019",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xjgcox/jason_schreier_why_electronic_arts_shut_down/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T14:07:59+00:00"
     }
   ]
 }
