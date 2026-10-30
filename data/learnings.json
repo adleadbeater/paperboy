@@ -715,38 +715,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237208379",
-      "title": "AI Dubbing Pioneer Flawless Sells Technology In Deal That Raises Questions About Its Future",
-      "url": "https://deadline.com/2026/10/flawless-ai-dubbing-sells-technology-1237208379/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T09:23:09+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237208052",
-      "title": "Supermodel Rose Bertram On Her Revealing Feature Doc: \u201cThe Thing I\u2019ve Kept Secret For So Long Is Now, In A Way, Being Shared With The World\u201d",
-      "url": "https://deadline.com/2026/10/supermodel-rose-bertram-documentary-a-girl-like-rose-2027-1237208052/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T09:15:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237209311",
-      "title": "Skydance International Sets Its Four Regional Leads: Andrew Georgiou Exiting Europe & Africa Role",
-      "url": "https://deadline.com/2026/10/skydance-international-regional-leads-georgiou-exiting-1237209311/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T09:06:41+00:00"
-    },
-    {
-      "guid": "t3_1xjah6m",
-      "title": "NVIDIA RTX 5080 24GB reportedly launching by January 2027, replacing 16GB model",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xjah6m/nvidia_rtx_5080_24gb_reportedly_launching_by/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-10-30T09:13:10+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236934725",
       "title": "\u2018American History X\u2019 Director Tony Kaye Takes On Leicester\u2019s Giant Monsters in Short \u2018Will You Still Love Me Tomorrow?\u2019 (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/news/american-history-x-director-tony-kaye-leicester-monsters-short-1236934725/",
@@ -761,14 +729,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-10-30T09:46:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236934877",
-      "title": "Mohammad Rasoulof, Shahrbanoo Sadat Push Back on Idea of Separate Oscar Category for Exiled Filmmakers as Cate Blanchett\u2019s Displacement Film Fund Hits Tokyo",
-      "url": "https://variety.com/2026/film/festivals/rasoulof-sadat-push-back-oscar-category-exiled-filmmakers-1236934877/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-30T09:31:09+00:00"
     },
     {
       "guid": "https://www.pushsquare.com/#article-208370",
@@ -1193,6 +1153,86 @@
       "source_name": "ENWorld",
       "source_tier": 2,
       "published_dt": "2026-10-30T12:41:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751254",
+      "title": "First Teaser For New Death Stranding Anime Cryptically Reveals, \u2018My Mom Became A Crater\u2019",
+      "url": "https://kotaku.com/first-teaser-for-new-death-stranding-anime-cryptically-reveals-my-mom-became-a-crater-2000751254",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:30:36+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000751550",
+      "title": "No New Assassin\u2019s Creed Remakes Are Currently In The Works Which Seems Like A Very Bad Idea",
+      "url": "https://kotaku.com/no-new-assassins-creed-remakes-are-currently-in-the-works-which-seems-like-a-very-bad-idea-2000751550",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:14:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934423",
+      "title": "How \u2018Up Again\u2019 Director Captured the Rise of a Teenage Figure Skating Champion: \u2018The Technical Conditions Were Extremely Challenging\u2019",
+      "url": "https://variety.com/2026/film/global/teenage-skater-up-again-jihlava-1236934423/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:17:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934845",
+      "title": "Rom-Com \u2018Eavesdropping\u2019 Tests the Future of Scripted Social Video",
+      "url": "https://variety.com/2026/tv/news/eavesdropping-kaleigh-howland-nicolas-ayalo-sullivan-1236934845/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:07:35+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934780",
+      "title": "David Bowie\u2019s Immersive \u2018Stage\u2019 Concert Experience: Director Brett Morgen on the Show, the Artist and the Archive (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/david-bowie-stage-concert-documentary-brett-morgen-speaks-1236934780/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236934834",
+      "title": "AI Vocal Modifier Voicemod Inks Disney Deal to Add Star Wars, Marvel Soundboards to Platform",
+      "url": "https://variety.com/2026/digital/news/ai-voicemod-disney-star-wars-marvel-soundboards-1236934834/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236742844",
+      "title": "Christina Hendricks, Accidental DJ, Has Music Lovers Lining Up",
+      "url": "https://www.hollywoodreporter.com/music/music-features/christina-hendricks-part-time-dj-music-interview-1236742844/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-10-30T13:30:00+00:00"
+    },
+    {
+      "guid": "NxAingZzodjN9UqnT86Va5",
+      "title": "Dexter: Resurrection star Uma Thurman says season 2 will reveal more about her mysterious hitwoman",
+      "url": "https://www.gamesradar.com/entertainment/crime-shows/dexter-resurrection-star-uma-thurman-says-season-2-will-let-us-get-to-know-her-mysterious-hitwoman-character-her-guts-have-been-opened-in-some-way/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T13:00:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208388",
+      "title": "The Scale of Crimson Desert Just Got Even More Absurd After New PS5 DLC",
+      "url": "https://www.pushsquare.com/news/2026/10/the-scale-of-crimson-desert-just-got-even-more-absurd-after-new-ps5-dlc",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T13:15:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1086188",
+      "title": "Honkai: Star Rail version 4.7 update \u2018Now, Lay Laughter to All Stars\u2019 launches November 11",
+      "url": "https://www.gematsu.com/2026/10/honkai-star-rail-version-4-7-update-now-lay-laughter-to-all-stars-launches-november-11",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-10-30T13:18:21+00:00"
     }
   ]
 }
