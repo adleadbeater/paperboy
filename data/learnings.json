@@ -726,22 +726,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "tWgmzi8bzqezcP34GV4QG9",
-      "title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
-      "url": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T16:10:44+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237209579",
-      "title": "\u2018Clayface\u2019 Chasing Elizabeth Holmes & Nathan Fielder For No. 1, But Docu Duo Have Edge With Near $11M \u2013 Halloween Box Office Update",
-      "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T16:15:00+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000751962",
       "title": "EA Offices Tagged With \u2018Save Mass Effect\u2019 Graffiti",
       "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
@@ -772,6 +756,38 @@
       "source_name": "Time Extension",
       "source_tier": 2,
       "published_dt": "2026-10-31T20:00:00+00:00"
+    },
+    {
+      "guid": "63d9fc97-77db-4fda-a6b8-227a599818b6",
+      "title": "Star Wars Actor Hayden Christensen Says a Man Who Burgled His House Recognized Him Then Gave His Stuff Back Mid-Robbery",
+      "url": "https://www.ign.com/articles/star-wars-actor-hayden-christensen-says-a-man-who-burgled-his-house-recognized-him-then-gave-his-stuff-back-mid-robbery",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T23:00:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237210687",
+      "title": "Taika Waititi Calls \u2018Klara and the Sun\u2019 Critics \u201cIrrelevant, Out Of Touch, Obsolete\u201d",
+      "url": "https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T23:28:09+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236936423",
+      "title": "Judge Dismisses Trump\u2019s Wall Street Journal Defamation Lawsuit Over Published Epstein \u2018Birthday Book\u2019 for a Second Time",
+      "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T23:23:28+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208430",
+      "title": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
+      "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-11-01T00:00:00+00:00"
     }
   ]
 }
