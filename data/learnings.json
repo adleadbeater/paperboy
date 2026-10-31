@@ -1,39 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Dev Who Called AI \"Technofascist\" Is Now Offering Refunds After Using AI in Their Game",
-      "tag": "future? no thanks!",
-      "posted_at": "2026-10-23T21:00:48.085794+00:00",
-      "urls": [
-        "https://kotaku.com/developer-of-ecosocialist-game-future-no-thanks-offers-refunds-after-using-ai-despite-calling-it-technofascist-2000749158"
-      ],
-      "article_titles": [
-        "Developer Of \u2018Ecosocialist\u2019 Game Future? No Thanks! Offers Refunds After Using AI Despite Calling It \u2018Technofascist\u2019"
-      ]
-    },
-    {
-      "headline": "Dead by Daylight Is Losing Chucky, Months After Michael Myers Was Also Pulled",
-      "tag": "dead by daylight",
-      "posted_at": "2026-10-24T00:30:34.143652+00:00",
-      "urls": [
-        "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers"
-      ],
-      "article_titles": [
-        "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers"
-      ]
-    },
-    {
-      "headline": "Indie Dev Reverses Course, Strips AI Voice Lines From His Own Game After Calling the Tech \"Anti-Human\"",
-      "tag": "indie gaming / ai in games",
-      "posted_at": "2026-10-24T14:56:49.318685+00:00",
-      "urls": [
-        "https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/"
-      ],
-      "article_titles": [
-        "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'"
-      ]
-    },
-    {
       "headline": "FBI Is Investigating the Theft of Over 6,000 PSA-Graded Cards, Including Nearly 3,000 Pok\u00e9mon Cards",
       "tag": "pok\u00e9mon",
       "posted_at": "2026-10-24T17:43:00.950161+00:00",
@@ -731,34 +698,96 @@
         "Bungie Outlines The Road To A \u2018New, Forever Destiny\u2018 Given The Cards It\u2019s Been Dealt After A \u2018True Reset Moment\u2019",
         "Bungie Outlines The Road To A \u2018New, Forever Destiny\u2018 Given The Cards It\u2019s Been Dealt After A \u2018True Reset Moment\u2019"
       ]
+    },
+    {
+      "headline": "id Software Says It's Working More Closely With MachineGames After Xbox Laid Off Half the Doom Studio",
+      "tag": "id software",
+      "posted_at": "2026-10-31T16:22:35.676247+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/"
+      ],
+      "article_titles": [
+        "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'"
+      ]
+    },
+    {
+      "headline": "Activision Apologizes and Will Remove Itaewon Crowd Crush Footage From Call of Duty: Modern Warfare 4",
+      "tag": "call of duty: modern warfare 4",
+      "posted_at": "2026-10-31T16:22:35.812634+00:00",
+      "urls": [
+        "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology"
+      ],
+      "article_titles": [
+        "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "62f76a0a-0ed0-44c9-92ed-006289be801a",
-      "title": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
-      "url": "https://www.ign.com/articles/costco-reveals-its-full-black-friday-ad-and-sale-dates-for-2026",
-      "source_name": "IGN",
+      "guid": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+      "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
+      "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
+      "source_name": "Eurogamer",
       "source_tier": 1,
-      "published_dt": "2026-10-31T04:51:13+00:00"
+      "published_dt": "2026-10-31T15:59:46+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236935934",
-      "title": "How Keanu Reeves Landed in Stop-Motion Samurai Epic \u2018Hidari\u2019 \u2013 and Why S.S. Rajamouli Wanted to Know How It Was Made",
-      "url": "https://variety.com/2026/film/festivals/keanu-reeves-hidari-ss-rajamouli-1236935934/",
-      "source_name": "Variety",
+      "guid": "https://kotaku.com/?p=2000751713",
+      "title": "15 Excellent Horror Games You Can Get On Steam For Less Than $10 Each",
+      "url": "https://kotaku.com/15-excellent-horror-games-you-can-get-on-steam-for-less-than-10-each-2000751713",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-10-31T04:38:17+00:00"
+      "published_dt": "2026-10-31T15:48:12+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236935940",
-      "title": "Sourav Ganguly\u2019s \u2018Bigg Boss Bangla\u2019 Among Highlights as Indian Media Giant JioStar Revenues Climb 10%",
-      "url": "https://variety.com/2026/tv/news/sourav-ganguly-bigg-boss-highlight-jiostar-revenue-rises-1236935940/",
+      "guid": "tWgmzi8bzqezcP34GV4QG9",
+      "title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
+      "url": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T16:10:44+00:00"
+    },
+    {
+      "guid": "2RvF2JUdH6CmtTFtxEwDza",
+      "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
+      "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237209579",
+      "title": "\u2018Clayface\u2019 Chasing Elizabeth Holmes & Nathan Fielder For No. 1, But Docu Duo Have Edge With Near $11M \u2013 Halloween Box Office Update",
+      "url": "https://deadline.com/2026/10/box-office-you-can-see-everything-clayface-halloween-1237209579/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T16:15:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236936071",
+      "title": "Box Office: \u2018You Can See Everything\u2019 Fends Off \u2018Clayface\u2019 for Top Spot on Friday With $3.56 Million",
+      "url": "https://variety.com/2026/film/box-office/box-office-you-can-see-everything-clayface-1236936071/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-31T06:20:09+00:00"
+      "published_dt": "2026-10-31T15:49:12+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208354",
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-10-31T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-208313",
+      "title": "Feature: Before Metal Gear and Resident Evil, a Trio of Japanese Devs Blazed a Trail in Stealth and Survival Horror",
+      "url": "https://www.timeextension.com/features/before-metal-gear-and-resident-evil-a-trio-of-japanese-devs-blazed-a-trail-in-stealth-and-survival-horror",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-10-31T16:00:00+00:00"
     }
   ]
 }
