@@ -726,36 +726,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-      "title": "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families",
-      "url": "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T15:59:46+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000751713",
-      "title": "15 Excellent Horror Games You Can Get On Steam For Less Than $10 Each",
-      "url": "https://kotaku.com/15-excellent-horror-games-you-can-get-on-steam-for-less-than-10-each-2000751713",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T15:48:12+00:00"
-    },
-    {
       "guid": "tWgmzi8bzqezcP34GV4QG9",
       "title": "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'",
       "url": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
       "source_name": "PC Gamer",
       "source_tier": 1,
       "published_dt": "2026-10-31T16:10:44+00:00"
-    },
-    {
-      "guid": "2RvF2JUdH6CmtTFtxEwDza",
-      "title": "How fast do you type, and has playing MMOs improved your typing in any way?",
-      "url": "https://www.pcgamer.com/games/mmo/how-fast-do-you-type-and-has-playing-mmos-improved-your-typing-in-any-way/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T16:00:00+00:00"
     },
     {
       "guid": "https://deadline.com/?p=1237209579",
@@ -766,28 +742,36 @@
       "published_dt": "2026-10-31T16:15:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236936071",
-      "title": "Box Office: \u2018You Can See Everything\u2019 Fends Off \u2018Clayface\u2019 for Top Spot on Friday With $3.56 Million",
-      "url": "https://variety.com/2026/film/box-office/box-office-you-can-see-everything-clayface-1236936071/",
+      "guid": "https://kotaku.com/?p=2000751962",
+      "title": "EA Offices Tagged With \u2018Save Mass Effect\u2019 Graffiti",
+      "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T19:48:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237210656",
+      "title": "Jessica Lange Says Acting Career Might Be \u201cComing To An End\u201d",
+      "url": "https://deadline.com/2026/10/jessica-lange-retirement-1237210656/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-10-31T20:05:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236935619",
+      "title": "\u2018The Mosquito Bowl\u2019: How a Parrot Proved to Be Peter Berg\u2019s Biggest Challenge",
+      "url": "https://variety.com/2026/artisans/news/the-mosquito-bowl-peter-berg-parrot-1236935619/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-10-31T15:49:12+00:00"
+      "published_dt": "2026-10-31T20:00:00+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-208354",
-      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations",
-      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-10-31T16:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-208313",
-      "title": "Feature: Before Metal Gear and Resident Evil, a Trio of Japanese Devs Blazed a Trail in Stealth and Survival Horror",
-      "url": "https://www.timeextension.com/features/before-metal-gear-and-resident-evil-a-trio-of-japanese-devs-blazed-a-trail-in-stealth-and-survival-horror",
+      "guid": "https://www.timeextension.com/#article-55388",
+      "title": "The Making Of: Eternal Darkness: Sanity's Requiem - 'Getting Nintendo to Sign Off on Game Elements Was Difficult'",
+      "url": "https://www.timeextension.com/features/the-making-of-eternal-darkness-sanitys-requiem-getting-nintendo-to-sign-off-on-game-elements-was-difficult",
       "source_name": "Time Extension",
       "source_tier": 2,
-      "published_dt": "2026-10-31T16:00:00+00:00"
+      "published_dt": "2026-10-31T20:00:00+00:00"
     }
   ]
 }
