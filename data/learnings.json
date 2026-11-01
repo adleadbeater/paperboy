@@ -726,38 +726,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://kotaku.com/?p=2000751962",
-      "title": "EA Offices Tagged With \u2018Save Mass Effect\u2019 Graffiti",
-      "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T19:48:02+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237210656",
-      "title": "Jessica Lange Says Acting Career Might Be \u201cComing To An End\u201d",
-      "url": "https://deadline.com/2026/10/jessica-lange-retirement-1237210656/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T20:05:37+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236935619",
-      "title": "\u2018The Mosquito Bowl\u2019: How a Parrot Proved to Be Peter Berg\u2019s Biggest Challenge",
-      "url": "https://variety.com/2026/artisans/news/the-mosquito-bowl-peter-berg-parrot-1236935619/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T20:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-55388",
-      "title": "The Making Of: Eternal Darkness: Sanity's Requiem - 'Getting Nintendo to Sign Off on Game Elements Was Difficult'",
-      "url": "https://www.timeextension.com/features/the-making-of-eternal-darkness-sanitys-requiem-getting-nintendo-to-sign-off-on-game-elements-was-difficult",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-10-31T20:00:00+00:00"
-    },
-    {
       "guid": "63d9fc97-77db-4fda-a6b8-227a599818b6",
       "title": "Star Wars Actor Hayden Christensen Says a Man Who Burgled His House Recognized Him Then Gave His Stuff Back Mid-Robbery",
       "url": "https://www.ign.com/articles/star-wars-actor-hayden-christensen-says-a-man-who-burgled-his-house-recognized-him-then-gave-his-stuff-back-mid-robbery",
@@ -788,6 +756,14 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-11-01T00:00:00+00:00"
+    },
+    {
+      "guid": "t3_1xkrdgh",
+      "title": "The bioshock infinite prototype that leaked last year is being repaired and will soon be fully playable",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xkrdgh/the_bioshock_infinite_prototype_that_leaked_last/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-11-01T01:58:55+00:00"
     }
   ]
 }
