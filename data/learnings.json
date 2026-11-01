@@ -726,44 +726,44 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "63d9fc97-77db-4fda-a6b8-227a599818b6",
-      "title": "Star Wars Actor Hayden Christensen Says a Man Who Burgled His House Recognized Him Then Gave His Stuff Back Mid-Robbery",
-      "url": "https://www.ign.com/articles/star-wars-actor-hayden-christensen-says-a-man-who-burgled-his-house-recognized-him-then-gave-his-stuff-back-mid-robbery",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T23:00:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237210687",
-      "title": "Taika Waititi Calls \u2018Klara and the Sun\u2019 Critics \u201cIrrelevant, Out Of Touch, Obsolete\u201d",
-      "url": "https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T23:28:09+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236936423",
-      "title": "Judge Dismisses Trump\u2019s Wall Street Journal Defamation Lawsuit Over Published Epstein \u2018Birthday Book\u2019 for a Second Time",
-      "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-10-31T23:23:28+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208430",
-      "title": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
-      "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-01T00:00:00+00:00"
-    },
-    {
       "guid": "t3_1xkrdgh",
       "title": "The bioshock infinite prototype that leaked last year is being repaired and will soon be fully playable",
       "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xkrdgh/the_bioshock_infinite_prototype_that_leaked_last/",
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-11-01T01:58:55+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237210827",
+      "title": "Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: \u201cCostume Swap!\u201d",
+      "url": "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-01T05:35:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237210810",
+      "title": "Gracie Abrams Channels Baz Luhrmann\u2019s \u2018Romeo + Juliet\u2019 For \u2018SNL\u2019 Halloween Performance",
+      "url": "https://deadline.com/2026/10/gracie-abrams-baz-luhrmann-romeo-juliet-snl-halloween-1237210810/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-01T05:23:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237210812",
+      "title": "\u2018SNL\u2019 Pays Tribute To Patrick Stewart With Clip From His 1994 Episode",
+      "url": "https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-01T05:11:21+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236936612",
+      "title": "\u2018Godzilla Minus Zero\u2019 Stars Relive Hollywood Ovation and Fan Chants for Yamazaki Takashi at Tokyo Festival",
+      "url": "https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-01T05:18:22+00:00"
     }
   ]
 }
