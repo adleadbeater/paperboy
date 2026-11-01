@@ -1,50 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "FBI Is Investigating the Theft of Over 6,000 PSA-Graded Cards, Including Nearly 3,000 Pok\u00e9mon Cards",
-      "tag": "pok\u00e9mon",
-      "posted_at": "2026-10-24T17:43:00.950161+00:00",
-      "urls": [
-        "https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon"
-      ],
-      "article_titles": [
-        "FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pok\u00e9mon cards"
-      ]
-    },
-    {
-      "headline": "Zelda Producer Eiji Aonuma Has Been Knighted by France",
-      "tag": "the legend of zelda",
-      "posted_at": "2026-10-24T19:53:20.825784+00:00",
-      "urls": [
-        "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331"
-      ],
-      "article_titles": [
-        "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture"
-      ]
-    },
-    {
-      "headline": "N/A",
-      "tag": "",
-      "posted_at": "2026-10-25T15:06:19.890976+00:00",
-      "urls": [
-        "https://www.eurogamer.net/knightmare-game-free-pc-original-cast"
-      ],
-      "article_titles": [
-        "An officially licensed Knightmare game, based on the British TV show, is coming next year"
-      ]
-    },
-    {
-      "headline": "Vinland Saga Season 3 Is \"Not Currently in Progress,\" Creator Confirms",
-      "tag": "vinland saga",
-      "posted_at": "2026-10-25T15:06:19.953140+00:00",
-      "urls": [
-        "https://kotaku.com/vinland-sagas-creator-has-no-good-news-on-season-3-the-project-is-not-currently-in-progress-2000749374"
-      ],
-      "article_titles": [
-        "Vinland Saga\u2019s Creator Has \u2018No Good News\u2019 On Season 3: \u2018The Project Is Not Currently In Progress\u2019"
-      ]
-    },
-    {
       "headline": "180,000 Sign Petition to Save Mass Effect as BioWare's Closure Sparks Industry Mourning",
       "tag": "mass effect",
       "posted_at": "2026-10-25T18:28:29.947457+00:00",
@@ -720,42 +676,85 @@
       "article_titles": [
         "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
       ]
+    },
+    {
+      "headline": "Chronicles: Medieval studio faces imminent closure after losing funding just before Early Access launch",
+      "tag": "chronicles: medieval",
+      "posted_at": "2026-11-01T17:17:26.727552+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/"
+      ],
+      "article_titles": [
+        "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237210827",
-      "title": "Robert Downey Jr. & Pedro Pascal Serve MCU Role Reversal For Halloween: \u201cCostume Swap!\u201d",
-      "url": "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/",
-      "source_name": "Deadline",
+      "guid": "ydAekTHxBJ5Qu9HSYbuNbJ",
+      "title": "Composer and designer Lena Raine explains how Pigstep altered Minecraft's approach to music: 'The prompt I keep hearing is \"Oh, Pigstep was such a banger that they want more bangers\"'",
+      "url": "https://www.pcgamer.com/games/composer-and-designer-lena-raine-explains-how-pigstep-altered-minecrafts-approach-to-music-the-prompt-i-keep-hearing-is-oh-pigstep-was-such-a-banger-that-they-want-more-bangers/",
+      "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-11-01T05:35:33+00:00"
+      "published_dt": "2026-11-01T17:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237210810",
-      "title": "Gracie Abrams Channels Baz Luhrmann\u2019s \u2018Romeo + Juliet\u2019 For \u2018SNL\u2019 Halloween Performance",
-      "url": "https://deadline.com/2026/10/gracie-abrams-baz-luhrmann-romeo-juliet-snl-halloween-1237210810/",
-      "source_name": "Deadline",
+      "guid": "TWYXfaPgdqEhqgpS9xpMmE",
+      "title": "'An absolute behemoth': Wildly ambitious FPS Selaco is getting a massive update that doubles its size and adds 'a heavy machinegun that fires literal explosions'",
+      "url": "https://www.pcgamer.com/games/fps/an-absolute-behemoth-wildly-ambitious-fps-selaco-is-getting-a-massive-update-that-doubles-its-size-and-adds-a-heavy-machinegun-that-fires-literal-explosions/",
+      "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-11-01T05:23:35+00:00"
+      "published_dt": "2026-11-01T16:46:26+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237210812",
-      "title": "\u2018SNL\u2019 Pays Tribute To Patrick Stewart With Clip From His 1994 Episode",
-      "url": "https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812/",
-      "source_name": "Deadline",
+      "guid": "qCRFcah5a5J55S8MviV2Bn",
+      "title": "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'",
+      "url": "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/",
+      "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-11-01T05:11:21+00:00"
+      "published_dt": "2026-11-01T16:42:09+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236936612",
-      "title": "\u2018Godzilla Minus Zero\u2019 Stars Relive Hollywood Ovation and Fan Chants for Yamazaki Takashi at Tokyo Festival",
-      "url": "https://variety.com/2026/film/festivals/godzilla-minus-zero-stars-relive-hollywood-ovation-tokyo-festival-1236936612/",
+      "guid": "https://deadline.com/?p=1237210866",
+      "title": "Savannah Guthrie Renews Plea For Information About Mom Nancy\u2019s Disappearance: \u201cWe Cannot Move Forward\u201d",
+      "url": "https://deadline.com/2026/11/savannah-guthrie-renews-plea-information-mom-disappearance-1237210866/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-01T16:50:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236936812",
+      "title": "Savannah Guthrie Shares New Post Asking for Information About Her Mother\u2019s Disappearance: \u2018We Ache for Her, We Cry Out for Answers\u2019",
+      "url": "https://variety.com/2026/tv/news/savannah-guthrie-nancy-guthrie-kidnapping-1236936812/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-11-01T05:18:22+00:00"
+      "published_dt": "2026-11-01T17:16:29+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236744345",
+      "title": "\u2018You Can See Everything,\u2019 \u2018Clayface\u2019 Fighting for No. 1 in Quiet Halloween Weekend",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-clayface-box-office-halloween-1236744345/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-01T17:02:16+00:00"
+    },
+    {
+      "guid": "BFUgogFBtRpDtSxtC7y6kC",
+      "title": "Despite GOG's best efforts this classic Dune RTS is trapped in 5-way licensing hell",
+      "url": "https://www.gamesradar.com/games/real-time-strategy/rts-games-wouldnt-exist-without-this-classic-dune-game-but-despite-gogs-best-efforts-its-trapped-in-5-way-licensing-hell-that-reaches-all-the-way-to-dune-awakening/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-01T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-208433",
+      "title": "Watch: Nintendo Treehouse Plays Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+      "url": "https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-plays-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+      "source_name": "Nintendo Life",
+      "source_tier": 2,
+      "published_dt": "2026-11-01T17:00:00+00:00"
     }
   ]
 }
