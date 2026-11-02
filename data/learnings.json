@@ -693,14 +693,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237210934",
-      "title": "\u2018Criminal Minds: Evolution\u2019s Paget Brewster, Kirsten Vangsness & More React To Cancellation: \u201cThe Finest Group Of People\u201d",
-      "url": "https://deadline.com/2026/11/criminal-minds-evolution-stars-react-cancellation-1237210934/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-01T20:45:26+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236936919",
       "title": "Hilary Duff Says She Was \u2018F\u2014ing Done\u2019 With \u2018Lizzie McGuire\u2019 When It Ended and Never Wanted to Sing \u2018What Dreams Are Made Of\u2019 Again: I Was \u2018Exhausted By It\u2019",
       "url": "https://variety.com/2026/music/news/hilary-duff-fing-done-when-lizzie-mcguire-ended-1236936919/",
@@ -709,20 +701,28 @@
       "published_dt": "2026-11-01T21:16:13+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236936933",
-      "title": "My Chemical Romance Scores First-Ever No. 1 on Albums Chart With \u2018The Black Parade,\u2019 20 Years After Its Release",
-      "url": "https://variety.com/2026/music/news/my-chemical-romance-scores-first-no-1-with-the-black-parade-1236936933/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-01T20:53:51+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236744359",
       "title": "Harry Styles Goes Full Pizza Rat for Halloween at Final MSG Show, Jalen Brunson Makes Surprise Visit",
       "url": "https://www.hollywoodreporter.com/music/music-features/harry-styles-rat-halloween-final-msg-show-jalen-brunson-1236744359/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-11-01T21:01:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236937024",
+      "title": "Dustin Hoffman Says Filming \u2018The Graduate\u2019 Was a \u2018Terrible Experience\u2019 and Director Mike Nichols Made Katharine Ross Slap Him 27 Times for a Scene He \u2018Didn\u2019t Even Use\u2019",
+      "url": "https://variety.com/2026/film/news/dustin-hoffman-the-graduate-mike-nichols-1236937024/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-02T00:34:30+00:00"
+    },
+    {
+      "guid": "t3_1xlj4a8",
+      "title": "Nintendeal: Grand Theft Auto VI pre-orders from Walmart will have a \"surprise\" included with the delivery",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xlj4a8/nintendeal_grand_theft_auto_vi_preorders_from/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-11-02T00:32:04+00:00"
     }
   ]
 }
