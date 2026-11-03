@@ -1,67 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "180,000 Sign Petition to Save Mass Effect as BioWare's Closure Sparks Industry Mourning",
-      "tag": "mass effect",
-      "posted_at": "2026-10-25T18:28:29.947457+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
-        "https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/"
-      ],
-      "article_titles": [
-        "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
-        "The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'"
-      ]
-    },
-    {
-      "headline": "Call of Duty Movie Director Says the Film Will Explore the \"Cost of War\"",
-      "tag": "call of duty",
-      "posted_at": "2026-10-25T18:28:30.058125+00:00",
-      "urls": [
-        "https://www.eurogamer.net/call-of-duty-movie-cost-of-war"
-      ],
-      "article_titles": [
-        "Call of Duty movie will explore the \"cost of war\", says director"
-      ]
-    },
-    {
-      "headline": "Eric Bauza, the Voice of Bugs Bunny and Daffy Duck, Has Died at 46",
-      "tag": "looney tunes",
-      "posted_at": "2026-10-26T04:23:14.305856+00:00",
-      "urls": [
-        "https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416",
-        "https://variety.com/2026/film/people-news/eric-bauza-dead-looney-tunes-voice-actor-1236930931/",
-        "https://www.hollywoodreporter.com/movies/movie-news/eric-bauza-dead-voice-bugs-bunny-daffy-duck-looney-tunes-1236739767/"
-      ],
-      "article_titles": [
-        "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
-        "Eric Bauza, Emmy Award-Winning Looney Tunes Voice Actor, Dies at 46",
-        "Eric Bauza, the Modern Voice of Bugs Bunny, Daffy Duck and Other Iconic Characters, Dies at 46"
-      ]
-    },
-    {
-      "headline": "Pok\u00e9mon UNITE Is Shutting Down in March 2027",
-      "tag": "pok\u00e9mon unite",
-      "posted_at": "2026-10-27T05:46:12.509426+00:00",
-      "urls": [
-        "https://www.gematsu.com/2026/10/pokemon-unite-to-end-service-on-march-23-2027"
-      ],
-      "article_titles": [
-        "Pokemon UNITE to end service on March 23, 2027"
-      ]
-    },
-    {
-      "headline": "Kingdom Come: Deliverance Developer Warhorse Studios Hit by Cyberattack",
-      "tag": "kingdom come: deliverance",
-      "posted_at": "2026-10-27T16:55:16.941960+00:00",
-      "urls": [
-        "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance"
-      ],
-      "article_titles": [
-        "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack"
-      ]
-    },
-    {
       "headline": "Weekly Shonen Jump Threatened to Pull Dragon Ball to Save Yu-Gi-Oh! From Toei's Cancellation Axe",
       "tag": "yu-gi-oh!",
       "posted_at": "2026-10-27T21:01:55.976734+00:00",
@@ -687,18 +626,127 @@
       "article_titles": [
         "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'"
       ]
+    },
+    {
+      "headline": "Ocarina of Time Remake's Director Says Fixing the Water Temple Was \"Overdue Homework\"",
+      "tag": "the legend of zelda: ocarina of time",
+      "posted_at": "2026-11-03T17:00:54.000529+00:00",
+      "urls": [
+        "https://kotaku.com/original-zelda-ocarina-of-time-director-calls-the-infamous-water-temple-overdue-homework-for-the-remake-2000752762",
+        "https://www.timeextension.com/news/2026/11/nintendo-got-the-original-zelda-ocarina-of-time-artist-to-draw-the-remakes-map"
+      ],
+      "article_titles": [
+        "The Director Of The Original Zelda: Ocarina Of Time Calls Fixing The Infamous Water Temple \u2018Overdue Homework\u2019",
+        "Nintendo Got the Original Zelda: Ocarina of Time Artist to Draw the Remake's Map"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236938181",
-      "title": "\u2018Wicker\u2019 Edges \u2018Primetime\u2019 for U.K., Ireland Box Office Crown as \u2018Godzilla,\u2019 \u2018Ramayana\u2019 Loom",
-      "url": "https://variety.com/2026/film/box-office/wicker-primetime-uk-ireland-box-office-crown-godzilla-ramayana-1236938181/",
-      "source_name": "Variety",
+      "guid": "https://kotaku.com/?p=2000752762",
+      "title": "The Director Of The Original Zelda: Ocarina Of Time Calls Fixing The Infamous Water Temple \u2018Overdue Homework\u2019",
+      "url": "https://kotaku.com/original-zelda-ocarina-of-time-director-calls-the-infamous-water-temple-overdue-homework-for-the-remake-2000752762",
+      "source_name": "Kotaku",
       "source_tier": 1,
-      "published_dt": "2026-11-03T07:05:25+00:00"
+      "published_dt": "2026-11-03T16:30:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237211348",
+      "title": "WME Signs \u2018SNL\u2019s Jeremy Culhane",
+      "url": "https://deadline.com/2026/11/jeremy-culhane-snl-signs-wme-1237211348/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-03T17:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237212251",
+      "title": "Mekhi Phifer, Katee Sackhoff, Mark Dacascos & John Hennigan Set For Post-Apocalypse Sci-Fi \u2018Future Tense\u2019",
+      "url": "https://deadline.com/2026/11/mekhi-phifer-katee-sackhoff-mark-dacascos-future-tense-film-1237212251/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-03T16:40:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237212103",
+      "title": "Isabelle Fuhrman Set For Sci-Fi Thriller \u2018Heartache\u2019",
+      "url": "https://deadline.com/2026/11/isabelle-fuhrman-to-star-heartache-thriller-beth-fletcher-1237212103/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-03T16:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237212193",
+      "title": "Jonathan Rhys Meyers To Star In Vampire Romance \u2018Pretty Kill Machine\u2019; Quantify Launches Sales For AFM",
+      "url": "https://deadline.com/2026/11/jonathan-rhys-meyers-vampire-romance-pretty-kill-machine-1237212193/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-03T16:26:45+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236746055",
+      "title": "\u2018The Cat in the Hat\u2019 Review: Bill Hader in a Dr. Seuss Adaptation That Captures the Antic Silliness but Misses the Charm",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-cat-in-the-hat-review-bill-hader-1236746055/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-03T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236746201",
+      "title": "\u2018Starlog\u2019 Magazine Returns with First Cover in 17 Years",
+      "url": "https://www.hollywoodreporter.com/business/business-news/starlog-magazine-returns-with-first-cover-1236746201/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-03T16:48:33+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208540",
+      "title": "Bill & Ted Rock Out on PS5 in New Side-Scrolling Arcade Adventure",
+      "url": "https://www.pushsquare.com/news/2026/11/bill-and-ted-rock-out-on-ps5-in-new-side-scrolling-arcade-adventure",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-11-03T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1125700",
+      "title": "Square Enix Should Put Stranger of Paradise: Final Fantasy Origin on the Switch 2",
+      "url": "https://www.siliconera.com/square-enix-should-put-stranger-of-paradise-final-fantasy-origin-on-the-switch-2/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-03T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-208522",
+      "title": "Nintendo Got the Original Zelda: Ocarina of Time Artist to Draw the Remake's Map",
+      "url": "https://www.timeextension.com/news/2026/11/nintendo-got-the-original-zelda-ocarina-of-time-artist-to-draw-the-remakes-map",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-11-03T16:30:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1087264",
+      "title": "Hyperspace Neptunia: Unlimited coming west in 2027 for PS5, Switch 2, PS4, Switch, and PC",
+      "url": "https://www.gematsu.com/2026/11/hyperspace-neptunia-unlimited-coming-west-in-2027-for-ps5-switch-2-ps4-switch-and-pc",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-11-03T16:56:42+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1087253",
+      "title": "Stronghold 4 Early Access delayed to April 20, 2027",
+      "url": "https://www.gematsu.com/2026/11/stronghold-4-early-access-delayed-to-april-20-2027",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-11-03T16:33:11+00:00"
+    },
+    {
+      "guid": "t3_1xmxxcz",
+      "title": "More hiring from New radical game, in development with UE5.8 mentioned, probably for Simpson remake or prototype remaster?",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xmxxcz/more_hiring_from_new_radical_game_in_development/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-11-03T16:41:24+00:00"
     }
   ]
 }
