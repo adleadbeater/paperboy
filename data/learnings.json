@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Weekly Shonen Jump Threatened to Pull Dragon Ball to Save Yu-Gi-Oh! From Toei's Cancellation Axe",
-      "tag": "yu-gi-oh!",
-      "posted_at": "2026-10-27T21:01:55.976734+00:00",
-      "urls": [
-        "https://kotaku.com/toei-animation-tried-to-cancel-its-yu-gi-oh-anime-so-weekly-shonen-jump-threatened-to-pull-its-dragon-ball-license-2000750199"
-      ],
-      "article_titles": [
-        "Toei Animation Tried To Cancel Its Yu-Gi-Oh! Anime, So Weekly Shonen Jump Threatened To Pull Its Dragon Ball License"
-      ]
-    },
-    {
-      "headline": "Rockstar Developers Will Vote on Unionizing the Same Day GTA 6 Pre-Loading Begins",
-      "tag": "gta 6",
-      "posted_at": "2026-10-27T21:01:56.215768+00:00",
-      "urls": [
-        "https://www.gamesradar.com/games/grand-theft-auto/the-day-gta-6-pre-loading-starts-unionizing-rockstar-developers-will-vote-on-the-future-of-the-legendary-studio-this-is-our-moment/"
-      ],
-      "article_titles": [
-        "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the studio's future"
-      ]
-    },
-    {
       "headline": "Phantom Blade Zero Already Crossed 1 Million Pre-Launch Copies Sold, Analyst Says",
       "tag": "phantom blade zero",
       "posted_at": "2026-10-28T12:31:04.706270+00:00",
@@ -639,6 +617,17 @@
         "The Director Of The Original Zelda: Ocarina Of Time Calls Fixing The Infamous Water Temple \u2018Overdue Homework\u2019",
         "Nintendo Got the Original Zelda: Ocarina of Time Artist to Draw the Remake's Map"
       ]
+    },
+    {
+      "headline": "Ubisoft and Others Are Reportedly Circling Arkane for Acquisition",
+      "tag": "arkane studios",
+      "posted_at": "2026-11-04T09:30:47.258086+00:00",
+      "urls": [
+        "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers"
+      ],
+      "article_titles": [
+        "Ubisoft and at least two other companies are interested in buying Arkane, according to new report"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -651,14 +640,6 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-11-04T05:31:28+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237212469",
-      "title": "Midterm Elections: Troy Jackson Defeats Susan Collins In Maine",
-      "url": "https://deadline.com/2026/11/election-2026-latest-1237212469/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-04T05:29:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236939064",
@@ -683,6 +664,54 @@
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-11-04T06:48:00+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers",
+      "title": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
+      "url": "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-04T09:17:51+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237212954",
+      "title": "Kartik Aaryan To Star In \u2018Ladaku\u2019 With Kabir Khan Directing; Worldwide Release Date Set For 2027",
+      "url": "https://deadline.com/2026/11/ladaku-karthik-aaryan-kabir-khan-directing-1237212954/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-04T09:15:33+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237212068",
+      "title": "Star Of \u2018Horrible Histories\u2019 & \u2018Tracey Ullman\u2019s Show\u2019 Launches Talent Agency For Kids",
+      "url": "https://deadline.com/2026/11/dominique-moore-dma-talent-agency-horrible-histories-1237212068/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-04T09:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237212292",
+      "title": "UK\u2019s Creative Cities Convention Reveals 2027 Location",
+      "url": "https://deadline.com/2026/11/creative-cities-convention-2027-glasgow-location-1237212292/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-04T09:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236939089",
+      "title": "Dylan Sprouse Says the Only Residual Check He\u2019s Received for \u2018The Suite Life of Zack and Cody\u2019 Was \u2018Five Cents\u2019: \u2018I\u2019m Not Joking\u2019",
+      "url": "https://variety.com/2026/tv/news/dylan-sprouse-residual-check-suite-life-of-zack-and-cody-1236939089/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-04T09:21:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236938985",
+      "title": "Chinese Pop Star Chen Chusheng Commissions 14 Paintings From Artist Li Erpeng for \u2018Wasteland of Wonders\u2019 Vinyl (EXCLUSIVE)",
+      "url": "https://variety.com/2026/music/news/chinese-pop-star-chen-chusheng-li-erpeng-vinyl-paintings-1236938985/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-04T09:00:00+00:00"
     }
   ]
 }
