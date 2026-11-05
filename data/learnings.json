@@ -452,5 +452,38 @@
   ],
   "processed_reactions": [],
   "processed_replies": [],
-  "article_cache": []
+  "article_cache": [
+    {
+      "guid": "https://deadline.com/?p=1237214122",
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Propels Sony Pictures To Huge Q2 Profit Boost",
+      "url": "https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T07:05:49+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236940011",
+      "title": "Former KABC and KCBS News Anchor Harold Greene Dies at 82",
+      "url": "https://variety.com/2026/tv/news/harold-greene-dies-dead-82-kabc-kcbs-1236940011/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T07:00:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236744161",
+      "title": "\u2018Sounds of the Desert\u2019 Explores Lives, Music and Cosmic Visions of Two Members of the Sun Ra Arkestra (Exclusive Tallinn Trailer)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-sounds-of-the-desert-doc-film-trailer-sun-ra-arkestra-1236744161/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T07:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1087422",
+      "title": "MAGES. to announce Girls und Panzer game for console on November 14",
+      "url": "https://www.gematsu.com/2026/11/mages-to-announce-girls-und-panzer-game-for-console-on-november-14",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-11-05T06:57:53+00:00"
+    }
+  ]
 }
