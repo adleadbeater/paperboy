@@ -454,36 +454,124 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237214122",
-      "title": "\u2018Spider-Man: Brand New Day\u2019 Propels Sony Pictures To Huge Q2 Profit Boost",
-      "url": "https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
+      "guid": "https://kotaku.com/?p=2000754137",
+      "title": "Woim Is A Super-Smart Puzzle Game That Combines Snake With Stephen\u2019s Sausage Roll",
+      "url": "https://kotaku.com/woim-puzzle-game-logic-sokoban-indie-game-pc-steam-review-2000754137",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T19:00:14+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237214604",
+      "title": "\u2018Primetime\u2019 Star Skyler Gisondo On Pushing Beyond His Comfort Zone & Teasing What\u2019s Next For Jimmy Olsen",
+      "url": "https://deadline.com/2026/11/skyler-gisondo-interview-primetime-the-people-v-gorilla-grodd-1237214604/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-11-05T07:05:49+00:00"
+      "published_dt": "2026-11-05T19:02:12+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236940011",
-      "title": "Former KABC and KCBS News Anchor Harold Greene Dies at 82",
-      "url": "https://variety.com/2026/tv/news/harold-greene-dies-dead-82-kabc-kcbs-1236940011/",
+      "guid": "https://deadline.com/?p=1237214546",
+      "title": "Paul Bettany To Star In Netflix Series \u2018Pagans\u2019",
+      "url": "https://deadline.com/2026/11/paul-bettany-star-pagans-netflix-series-1237214546/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237214644",
+      "title": "Ari Stidham Joins \u2018Reacher\u2019 For Season 5",
+      "url": "https://deadline.com/2026/11/ari-stidham-cast-reacher-season-5-1237214644/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T19:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236940344",
+      "title": "T-Mobile Taps Bryan Cranston in Bid to Wake Consumers Up to \u2018T-Mix\u2019 Plan",
+      "url": "https://variety.com/2026/tv/news/t-mobile-bryan-cranston-t-mix-1236940344/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-11-05T07:00:52+00:00"
+      "published_dt": "2026-11-05T19:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236744161",
-      "title": "\u2018Sounds of the Desert\u2019 Explores Lives, Music and Cosmic Visions of Two Members of the Sun Ra Arkestra (Exclusive Tallinn Trailer)",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-sounds-of-the-desert-doc-film-trailer-sun-ra-arkestra-1236744161/",
+      "guid": "https://variety.com/?p=1236940057",
+      "title": "Levon Hawke to Star With Anthony Hopkins in Indie Drama \u2018Twenty-Seven\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/news/levon-hawke-anthony-hopkins-twenty-seven-gregory-caruso-1236940057/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T18:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236940535",
+      "title": "Saudi-Backed LIV Golf, After Five Years of Trying to Challenge PGA Tour, Is Shutting Down",
+      "url": "https://variety.com/2026/tv/news/liv-golf-shutting-down-1236940535/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T18:42:03+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236940551",
+      "title": "Warner Records Hit With Executive Layoffs",
+      "url": "https://variety.com/2026/music/news/warner-records-executive-layoffs-1236940551/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T18:42:01+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236748606",
+      "title": "\u2018Gilmore Girls\u2018 Star Kelly Bishop to Release First Novel",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/gilmore-girls-star-kelly-bishop-first-novel-1236748606/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-11-05T07:00:00+00:00"
+      "published_dt": "2026-11-05T19:03:36+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1087422",
-      "title": "MAGES. to announce Girls und Panzer game for console on November 14",
-      "url": "https://www.gematsu.com/2026/11/mages-to-announce-girls-und-panzer-game-for-console-on-november-14",
-      "source_name": "Gematsu",
+      "guid": "https://www.hollywoodreporter.com/?p=1236745912",
+      "title": "\u2018The Wizard of Oz\u2019 Was a Big Reference for Doc \u2018A Want in Her.\u2019 Now Its Creator Is Moving Into Fiction.",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/the-wizard-of-oz-a-want-in-her-bafta-breakthrough-myrid-carten-1236745912/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236748279",
+      "title": "\u2018La Bola Negra\u2019 Ups Planned Theater Count Heading Into Netflix Film\u2019s Widest Weekend Yet (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-netflix-movie-theatrical-count-expand-weekend-1236748279/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T18:58:07+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236747708",
+      "title": "Alex Karpovsky on Returning to Filmmaking (and Maybe \u2018Girls\u2019) After More Than a Decade Away",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/alex-karpovsky-on-returning-to-filmmaking-girls-1236747708/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-05T18:53:47+00:00"
+    },
+    {
+      "guid": "ubGPo9S4fTDsCKvZdfVpsG",
+      "title": "Assassin's Creed Valhalla gets New Game Plus and Stash inventory in \"The Most Requested Update\"",
+      "url": "https://www.gamesradar.com/games/assassin-s-creed/assassins-creed-valhalla-gets-new-game-plus-a-stash-inventory-and-extended-progression-mode-in-the-most-requested-update/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-11-05T06:57:53+00:00"
+      "published_dt": "2026-11-05T18:40:03+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1126173",
+      "title": "Stellar Blade Bayonetta Crossover Costumes Released",
+      "url": "https://www.siliconera.com/stellar-blade-bayonetta-crossover-costumes-released/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-05T19:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1762776",
+      "title": "Off Campus Season 2 Sets April 28, 2027 Premiere on Prime Video, Focuses on Allie and Dean",
+      "url": "https://otakukart.com/off-campus-season-2-sets-april-28-2027-premiere-on-prime-video-focuses-on-allie-and-dean/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-05T18:43:52+00:00"
     }
   ]
 }
