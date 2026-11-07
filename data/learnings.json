@@ -97,22 +97,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
-      "title": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
-      "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-07T16:55:30+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237210620",
-      "title": "Deep Purple\u2019s Ian Gillan Recovering After \u201cSuccessful\u201d Surgery Following Medical Emergency",
-      "url": "https://deadline.com/2026/11/ian-gillan-deep-purple-medical-emergency-1237210620/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-07T16:38:00+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236878514",
       "title": "Oscar Predictions: Production Design \u2014 Could Something as Innovative and Cool as \u2018Backrooms\u2019 Find Love?",
       "url": "https://variety.com/feature/2027-oscars-best-production-design-predictions-1236878514/",
@@ -129,20 +113,36 @@
       "published_dt": "2026-11-07T17:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236942032",
-      "title": "Box Office: \u2018Godzilla Minus Zero\u2019 Dominates With $14.5 Million on Friday as \u2018Cat in the Hat\u2019 Follows With $6 Million",
-      "url": "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/",
-      "source_name": "Variety",
+      "guid": "https://deadline.com/?p=1237216350",
+      "title": "UFC\u2019s Dana White As White House Press Secretary? Trump Says \u201cPlease Take The Job!\u201d",
+      "url": "https://deadline.com/2026/11/dana-white-donald-trump-1237216350/",
+      "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-11-07T16:42:52+00:00"
+      "published_dt": "2026-11-07T20:40:01+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236750019",
-      "title": "\u2018Godzilla Minus Zero\u2019 Barrels Toward Historic $32M Box Office Launch With \u2018Cat in the Hat\u2019 at No. 2",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236750077",
+      "title": "Bill Skarsgard Says He\u2019s \u201cSpent\u201d Playing Bad Guys but Would Still Play a James Bond Villain",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-skarsgard-james-bond-villain-bad-guy-roles-1236750077/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-11-07T16:43:46+00:00"
+      "published_dt": "2026-11-07T20:28:15+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1762960",
+      "title": "Ratchet & Clank: Rift Apart Sells 250,000 Copies in 2026, Generating $13.5 Million in Revenue",
+      "url": "https://otakukart.com/ratchet-clank-rift-apart-sells-250000-copies-in-2026-generating-13-5-million-in-revenue/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-07T20:29:37+00:00"
+    },
+    {
+      "guid": "t3_1xqg2yr",
+      "title": "Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xqg2yr/data_found_in_zelda_ocarina_of_time_may_hint_at/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-11-07T20:28:14+00:00"
     }
   ]
 }
