@@ -97,12 +97,52 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236941967",
-      "title": "Davika Hoorne Returning for \u2018Inherit\u2019 Sequel, Director Banjong Pisanthanakun Confirms (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/davika-hoorne-inherit-sequel-1236941967/",
+      "guid": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+      "title": "Wardogs Season 3 brings an urban map, Limited Mode, and a 185,000-account ban wave",
+      "url": "https://www.eurogamer.net/wardogs-season-3-release-date-limited-mode-ban-wave",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-07T16:55:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237210620",
+      "title": "Deep Purple\u2019s Ian Gillan Recovering After \u201cSuccessful\u201d Surgery Following Medical Emergency",
+      "url": "https://deadline.com/2026/11/ian-gillan-deep-purple-medical-emergency-1237210620/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-07T16:38:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236878514",
+      "title": "Oscar Predictions: Production Design \u2014 Could Something as Innovative and Cool as \u2018Backrooms\u2019 Find Love?",
+      "url": "https://variety.com/feature/2027-oscars-best-production-design-predictions-1236878514/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-11-07T08:59:03+00:00"
+      "published_dt": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236941466",
+      "title": "Laika\u2019s \u2018Wildwood\u2019 Sets Limited-Edition 4K SteelBook Release",
+      "url": "https://variety.com/2026/shopping/news/laika-wildwood-limited-edition-4k-steelbook-buy-online-1236941466/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-07T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236942032",
+      "title": "Box Office: \u2018Godzilla Minus Zero\u2019 Dominates With $14.5 Million on Friday as \u2018Cat in the Hat\u2019 Follows With $6 Million",
+      "url": "https://variety.com/2026/film/box-office/box-office-godzilla-minus-zero-cat-in-the-hat-1236942032/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-07T16:42:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750019",
+      "title": "\u2018Godzilla Minus Zero\u2019 Barrels Toward Historic $32M Box Office Launch With \u2018Cat in the Hat\u2019 at No. 2",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-07T16:43:46+00:00"
     }
   ]
 }
