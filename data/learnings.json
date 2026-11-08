@@ -1,28 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "id Software Says It's Working More Closely With MachineGames After Xbox Laid Off Half the Doom Studio",
-      "tag": "id software",
-      "posted_at": "2026-10-31T16:22:35.676247+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/"
-      ],
-      "article_titles": [
-        "id Software co-director says the Doom developer is 'working more closely with MachineGames than ever' after Xbox laid off 'about half of our studio'"
-      ]
-    },
-    {
-      "headline": "Activision Apologizes and Will Remove Itaewon Crowd Crush Footage From Call of Duty: Modern Warfare 4",
-      "tag": "call of duty: modern warfare 4",
-      "posted_at": "2026-10-31T16:22:35.812634+00:00",
-      "urls": [
-        "https://www.eurogamer.net/modern-warfare-4-itaewon-footage-removed-activision-apology"
-      ],
-      "article_titles": [
-        "Activision to remove Itaewon crowd crush footage from Call of Duty: Modern Warfare 4 and apologises to victims' families"
-      ]
-    },
-    {
       "headline": "Chronicles: Medieval studio faces imminent closure after losing funding just before Early Access launch",
       "tag": "chronicles: medieval",
       "posted_at": "2026-11-01T17:17:26.727552+00:00",
@@ -91,34 +69,63 @@
       "article_titles": [
         "A Truck Demanding EA \u2018Save Mass Effect\u2019 Is Currently Driving Around The Company\u2019s Headquarters"
       ]
+    },
+    {
+      "headline": "Speedrunners Are Already Snapping Ocarina of Time's Remake in Half",
+      "tag": "the legend of zelda: ocarina of time",
+      "posted_at": "2026-11-08T17:16:44.492917+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
+        "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878"
+      ],
+      "article_titles": [
+        "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+        "Speedrunners Are Already Breaking The Legend Of Zelda: Ocarina Of Time Remake In Absurd Ways"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237216571",
-      "title": "Druski Does Elizabeth Holmes Whiteface In \u2018Dru Can See Everything\u2019 Sketch During \u2018SNL\u2019 Debut",
-      "url": "https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571/",
-      "source_name": "Deadline",
+      "guid": "ca85a760-c5ea-49ca-9211-1513411ef5e9",
+      "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
+      "source_name": "IGN",
       "source_tier": 1,
-      "published_dt": "2026-11-08T05:09:43+00:00"
+      "published_dt": "2026-11-08T17:04:56+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236942289",
-      "title": "\u2018SNL\u2019: Druski Dons Whiteface as Elizabeth Holmes in \u2018You Can See Everything\u2019 Parody",
-      "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289/",
+      "guid": "https://kotaku.com/?p=2000754878",
+      "title": "Speedrunners Are Already Breaking The Legend Of Zelda: Ocarina Of Time Remake In Absurd Ways",
+      "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-08T16:52:15+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236941270",
+      "title": "Cineplex Boards Sanfic Title \u2018La Residencia\u2019 From \u2018Algo Azul\u2019 Director  Mariel Garc\u00eda Spooner",
+      "url": "https://variety.com/2026/film/global/cineplex-la-residencia-mariel-garcia-spooner-algo-azul-1236941270/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-11-08T05:29:04+00:00"
+      "published_dt": "2026-11-08T17:12:50+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236750242",
-      "title": "James Talarico Crashes \u2018SNL\u2019 Cold Open, Apologizes for Texting Us So Much",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/james-talarico-snl-cold-open-appearance-watch-trump-1236750242/",
+      "guid": "https://www.hollywoodreporter.com/?p=1236750395",
+      "title": "THR Visionary: 5 Janusz Kaminski Shots",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/thr-visionary-janusz-kaminski-five-visual-styles-1236750395/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-11-08T05:35:42+00:00"
+      "published_dt": "2026-11-08T17:05:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750019",
+      "title": "\u2018Godzilla Minus Zero\u2019 Powers $31M in Historic Box Office Launch Against Subdued \u2018Cat in the Hat\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-08T16:56:35+00:00"
     }
   ]
 }
