@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Chronicles: Medieval studio faces imminent closure after losing funding just before Early Access launch",
-      "tag": "chronicles: medieval",
-      "posted_at": "2026-11-01T17:17:26.727552+00:00",
-      "urls": [
-        "https://www.pcgamer.com/games/sim/chronicles-medieval-developer-faces-imminent-closure-after-losing-funding-what-makes-it-hurt-is-how-close-we-are-early-access-is-in-reach/"
-      ],
-      "article_titles": [
-        "Chronicles: Medieval developer faces imminent closure after losing funding: 'What makes it hurt is how close we are. Early access is in reach'"
-      ]
-    },
-    {
       "headline": "Ocarina of Time Remake's Director Says Fixing the Water Temple Was \"Overdue Homework\"",
       "tag": "the legend of zelda: ocarina of time",
       "posted_at": "2026-11-03T17:00:54.000529+00:00",
@@ -82,34 +71,53 @@
         "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
         "Speedrunners Are Already Breaking The Legend Of Zelda: Ocarina Of Time Remake In Absurd Ways"
       ]
+    },
+    {
+      "headline": "Warhammer Blood Bowl Delayed to Early 2027",
+      "tag": "blood bowl",
+      "posted_at": "2026-11-09T01:02:33.369848+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/"
+      ],
+      "article_titles": [
+        "Warhammer Blood Bowl has been delayed into early 2027"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "a84b04e5-64cc-4539-9be4-4a05357bf343",
-      "title": "The Best Deals Today: Sony Inzone H9 Gaming Headset, Criterion Collection Sale, Pikmin 4, and More",
-      "url": "https://www.ign.com/articles/best-deals-for-november-8-2026",
-      "source_name": "IGN",
+      "guid": "mQj6SsBKTGjx4oDBHabHDb",
+      "title": "Warhammer Blood Bowl has been delayed into early 2027",
+      "url": "https://www.pcgamer.com/games/sports/warhammer-blood-bowl-has-been-delayed-into-2027/",
+      "source_name": "PC Gamer",
       "source_tier": 1,
-      "published_dt": "2026-11-08T20:55:31+00:00"
+      "published_dt": "2026-11-09T00:45:39+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236942472",
-      "title": "\u2018Avedon\u2019 Review: Ron Howard\u2019s Thrilling Documentary About Richard Avedon, the Great Photographer Who Turned Head-On Portraits Into an Art Form",
-      "url": "https://variety.com/2026/film/reviews/avedon-review-ron-howard-richard-avedon-1236942472/",
-      "source_name": "Variety",
+      "guid": "https://deadline.com/?p=1237216230",
+      "title": "\u2018The Hit List\u2019 From \u2018Gangs Of London\u2019 Director Kim Hong-sun Boarded By Finecut For Sales",
+      "url": "https://deadline.com/2026/11/kim-hong-sun-the-hit-list-gangs-of-london-finecut-1237216230/",
+      "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-11-08T21:02:08+00:00"
+      "published_dt": "2026-11-09T01:00:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236942647",
-      "title": "\u2018Passing Strange\u2019 Comes to Pasadena Playhouse: Creators Stew and Heidi Rodewald on the Rock Musical Reaching L.A. Almost Two Decades After Tony-Winning Broadway Run",
-      "url": "https://variety.com/2026/legit/news/passing-strange-pasadena-playhouse-stew-heidi-interview-1236942647/",
+      "guid": "https://variety.com/?p=1236942090",
+      "title": "K-Pop Concert Film \u2018Twice: This Is For\u2026 You\u2019 Acquired by Bleecker Street\u2019s Crosswalk and Universal Pictures International",
+      "url": "https://variety.com/2026/film/news/twice-this-is-for-you-bleecker-street-crosswalk-upcg-1236942090/",
       "source_name": "Variety",
       "source_tier": 1,
-      "published_dt": "2026-11-08T20:43:24+00:00"
+      "published_dt": "2026-11-09T01:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236942808",
+      "title": "Nicolas Cage Calls \u2018Spider-Noir\u2019 Season 1 \u2018Perfect\u2019 and Says He Felt Relieved When It Was Canceled: \u2018You Never Wanna Get Stuck Repeating a Character\u2019",
+      "url": "https://variety.com/2026/tv/news/nicolas-cage-spider-noir-cancellation-1236942808/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T00:57:48+00:00"
     }
   ]
 }
