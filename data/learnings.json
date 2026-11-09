@@ -331,14 +331,6 @@
       "published_dt": "2026-11-09T17:47:47+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237217399",
-      "title": "\u2018Love Island\u2019 UK Host Maya Jama Strikes Netflix Deal",
-      "url": "https://deadline.com/2026/11/love-island-uk-maya-jama-netflix-deal-1237217399/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T17:33:34+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236942606",
       "title": "\u2018Love Is Blind\u2019 Star Rob Feeley Breaks His Silence on Michaella, the Beekeeper and Why He Nearly Skipped the Reunion",
       "url": "https://variety.com/2026/tv/news/love-is-blind-rob-feeley-reunion-michaella-1236942606/",
@@ -1177,6 +1169,22 @@
       "source_name": "Siliconera",
       "source_tier": 2,
       "published_dt": "2026-11-09T21:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943416",
+      "title": "Skydance Q3 Profit Powered By Studios, Streaming",
+      "url": "https://variety.com/2026/tv/news/skydance-q3-profit-studios-streaming-1236943416/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T21:37:54+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943399",
+      "title": "AMC Global Media Takes $2.1 Million Hit Amid ALLBLK Streamer Sale, Content Licensing Revenue Up 42% in Q3",
+      "url": "https://variety.com/2026/tv/news/amc-networks-allblk-sale-q3-earnings-1236943399/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T21:30:26+00:00"
     }
   ]
 }
