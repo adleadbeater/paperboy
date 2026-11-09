@@ -145,6 +145,30 @@
       "article_titles": [
         "Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating"
       ]
+    },
+    {
+      "headline": "Rockstar Is Throwing a GTA 6 Launch Festival in Miami With Major Musical Acts",
+      "tag": "gta 6",
+      "posted_at": "2026-11-09T16:00:58.621402+00:00",
+      "urls": [
+        "https://www.eurogamer.net/rockstar-gta-6-miami-music-festival"
+      ],
+      "article_titles": [
+        "Rockstar's doing a GTA 6 launch 'festival' in Miami featuring a lot of presumably expensive musical stars"
+      ]
+    },
+    {
+      "headline": "Beloved Mario Fact Blog 'Supper Mario Broth' Reveals Serious Health Issues, Vows to Keep Posting",
+      "tag": "supper mario broth",
+      "posted_at": "2026-11-09T16:00:58.865034+00:00",
+      "urls": [
+        "https://kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083",
+        "https://www.nintendolife.com/news/2026/11/mario-is-my-life-beloved-blogger-supper-mario-broth-reveals-health-issues"
+      ],
+      "article_titles": [
+        "Beloved Mario Content Creator Says His Health Is Failing But \u2018Only Blindness Or Death\u2019 Will Stop Him From Posting Mario Facts",
+        "\"Mario Is My Life\" - Beloved Blogger 'Supper Mario Broth' Reveals Health Issues"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -597,6 +621,94 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-11-09T15:11:38+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/rockstar-gta-6-miami-music-festival",
+      "title": "Rockstar's doing a GTA 6 launch 'festival' in Miami featuring a lot of presumably expensive musical stars",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-miami-music-festival",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T15:48:30+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755083",
+      "title": "Beloved Mario Content Creator Says His Health Is Failing But \u2018Only Blindness Or Death\u2019 Will Stop Him From Posting Mario Facts",
+      "url": "https://kotaku.com/beloved-mario-content-creator-says-his-health-is-failing-but-only-blindness-or-death-will-stop-him-from-posting-mario-facts-2000755083",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T15:30:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237217107",
+      "title": "WETA And DC/DOX Partner On New $250,000 Fund To Support Documentary Filmmaking In DC Area",
+      "url": "https://deadline.com/2026/11/weta-dc-dox-film-fund-announcement-1237217107/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943037",
+      "title": "Russell Brand Victim Says When She Told Channel 4 Managers About Assault \u2018It Was Brushed Under the Carpet\u2019",
+      "url": "https://variety.com/2026/tv/global/russell-brand-channel-4-brushed-under-carpet-1236943037/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T15:35:22+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750796",
+      "title": "Emily Watson Cast in British Drama From Dominic Cooke \u2018John Daniel\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/emily-watson-john-daniel-gorilla-film-dominic-cooke-1236750796/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750743",
+      "title": "\u2018The Other Elliot Sister\u2019 Greenlit at BritBox With Launch of Austen Anthology Franchise (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/the-other-elliot-sister-bennet-britbox-anthology-series-tv-1236750743/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750849",
+      "title": "Prime Video Unveils Trailer for Final Season of \u2018Maxton Hall\u2018",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/maxton-hall-season-three-trailer-prime-video-1236750849/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T15:57:48+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750848",
+      "title": "Toukie Smith, Top Runway Model and \u2018227\u2019 Actress, Dies at 74",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/toukie-smith-227-model-robert-de-niro-1236750848/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T15:48:05+00:00"
+    },
+    {
+      "guid": "czWfhFZ4hL8XJpvwnHuX9H",
+      "title": "There's a reason this Pikachu toy took the world by storm in 2026, and now it's 40% off",
+      "url": "https://www.gamesradar.com/toys-collectibles/theres-a-reason-this-pikachu-toy-took-the-world-by-storm-in-2026-and-now-its-40-percent-off/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T15:51:04+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1126373",
+      "title": "New Dragon Quest RPG Mobile Game Anouncement Dated",
+      "url": "https://www.siliconera.com/new-dragon-quest-rpg-mobile-game-anouncement-dated/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T16:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763071",
+      "title": "The Vermilion Mask Writer Dr. Poro Says He Uses Readers\u2019 Assumptions to Decide When to Reveal Major Manga Story Twists",
+      "url": "https://otakukart.com/the-vermilion-mask-writer-dr-poro-says-he-uses-readers-assumptions-to-decide-when-to-reveal-major-manga-story-twists/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T15:40:38+00:00"
     }
   ]
 }
