@@ -255,118 +255,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
-      "title": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
-      "url": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T14:35:20+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000755086",
-      "title": "I\u2019ve Played Zelda: Ocarina Of Time Way Too Much To Enjoy The Remake As Much As It Deserves",
-      "url": "https://kotaku.com/ive-played-zelda-ocarina-of-time-way-too-much-to-enjoy-the-remake-as-much-as-it-deserves-2000755086",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T14:51:40+00:00"
-    },
-    {
-      "guid": "yDu6icxLdJpLRtJuzW8Fti",
-      "title": "The pillars of AI are shaking beneath our feet",
-      "url": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T14:52:38+00:00"
-    },
-    {
-      "guid": "pD2puf9JsQbLJcZkrhuDgR",
-      "title": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
-      "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T14:51:27+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237215455",
-      "title": "Claes Bang Heinrich Himmler Masseur Drama \u2018I Is Another\u2019 Sells Wide For Beta Cinema \u2013 AFM",
-      "url": "https://deadline.com/2026/11/claes-bang-himmler-masseur-another-deals-beta-1237215455/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237217244",
-      "title": "\u2018Maxton Hall \u2013 The World Between Us\u2019: James Fights For Ruby In Trailer For Final Season Of Prime Video YA Drama",
-      "url": "https://deadline.com/2026/11/maxton-hall-world-between-us-trailer-season-3-1237217244/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T14:40:39+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236941836",
-      "title": "\u2018Heated Rivalry\u2019 Final Episodes to Release in 4DX at Regal Theaters",
-      "url": "https://variety.com/2026/tv/news/heated-rivalry-final-episodes-to-release-in-4dx-1236941836/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T14:50:00+00:00"
-    },
-    {
-      "guid": "zEDF939y5vXKtHpGZzijiD",
-      "title": "Arkham Horror Remastered crowdfunder is so popular the community has kept it going for 108 extra hours",
-      "url": "https://www.gamesradar.com/games/board-games/arkham-horror-remastered-crowdfunder-is-so-popular-the-community-has-kept-it-going-for-108-extra-hours/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:51:56+00:00"
-    },
-    {
-      "guid": "VyjEDzDAUCATWhhnTpUBah",
-      "title": "How to find Princess Ruto in the Ocarina of Time Remake",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-princess-ruto/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:37:55+00:00"
-    },
-    {
-      "guid": "1952655",
-      "title": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists",
-      "url": "https://www.gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:32:17+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763048",
-      "title": "\u201cI\u2019ll Be Careful From Now On\u201d \u2013 Vinland Saga Creator Apologizes for Reposting AI-Generated Thorfinn Fan Art, Says He Cannot Distinguish It From Original Artwork",
-      "url": "https://otakukart.com/ill-be-careful-from-now-on-vinland-saga-creator-apologizes-for-reposting-ai-generated-thorfinn-fan-art-says-he-cannot-distinguish-it-from-original-artwork/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:59:43+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763047",
-      "title": "Mortal Kombat Co-Creator Ed Boon Asks Fans to Vote on the Next Game\u2019s Title, With Mortal Kombat 2 Leading the Poll",
-      "url": "https://otakukart.com/mortal-kombat-co-creator-ed-boon-asks-fans-to-vote-on-the-next-games-title-with-mortal-kombat-2-leading-the-poll/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:40:23+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763044",
-      "title": "Monster Hunter Series Producer Ryozo Tsujimoto Says Capcom\u2019s RE Engine Helps Developers Resolve Technical Issues Faster During Development",
-      "url": "https://otakukart.com/monster-hunter-series-producer-ryozo-tsujimoto-says-capcoms-re-engine-helps-developers-resolve-technical-issues-faster-during-development/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:33:20+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763046",
-      "title": "Embark CEO Patrick S\u00f6derlund Says ARC Raiders\u2019 PvP Encounters Create Essential Tension That a Dedicated PvE Mode Would Remove",
-      "url": "https://otakukart.com/embark-ceo-patrick-soderlund-says-arc-raiders-pvp-encounters-create-essential-tension-that-a-dedicated-pve-mode-would-remove/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:32:56+00:00"
-    },
-    {
       "guid": "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
       "title": "Activision cracking down on popular Call of Duty: Warzone app that basically constituted cheating",
       "url": "https://www.eurogamer.net/call-of-duty-warzone-agent-cheating-software-shutdown",
@@ -375,44 +263,12 @@
       "published_dt": "2026-11-09T15:23:30+00:00"
     },
     {
-      "guid": "https://kotaku.com/?p=2000755101",
-      "title": "Ocarina Of Time Remake Dataminers Find Evidence Of Master Quest DLC And Maybe Majora\u2019s Mask Remake",
-      "url": "https://kotaku.com/zelda-ocarina-of-time-remake-master-quest-dlc-majoras-mask-2000755101",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T15:00:36+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237217250",
       "title": "Ariana Grande Crashes Jimmy Fallon\u2019s Monologue With \u2018Focker-In-Law\u2019s Ben Stiller & Robert De Niro",
       "url": "https://deadline.com/2026/11/ariana-grande-jimmy-fallon-tonight-show-focker-in-law-1237217250/",
       "source_name": "Deadline",
       "source_tier": 1,
       "published_dt": "2026-11-09T15:08:22+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237216681",
-      "title": "Comedian Dyon \u201cMojo\u201d Brooks Expands Outta Pocket Tour With 25 Dates, Multiple Arena Shows For 2027",
-      "url": "https://deadline.com/2026/11/mojo-brookzz-tour-dates-2027-outta-pocket-tour-1237216681/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236942713",
-      "title": "The Blue Wave Could Mean a Rising Tide for Songwriters \u2014 Here\u2019s Why (Guest Post)",
-      "url": "https://variety.com/2026/music/opinion/blue-wave-songwriters-1236942713/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236941992",
-      "title": "David Schwimmer Reunites With His Famous Red Sweater From \u2018Friends\u2019 in Nostalgic Quince Campaign",
-      "url": "https://variety.com/2026/shopping/news/david-schwimmer-red-sweater-quince-campaign-watch-1236941992/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T15:00:00+00:00"
     },
     {
       "guid": "mt6at9hNqVvAQ5bLeWQpFX",
@@ -429,46 +285,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-11-09T15:09:19+00:00"
-    },
-    {
-      "guid": "bnoXWuhh5zUrpcmEvhNG3",
-      "title": "FF7 Revelation's first dungeon is enough to impress me with its tighter combat",
-      "url": "https://www.gamesradar.com/games/final-fantasy/ff7-revelations-first-dungeon-is-enough-to-impress-me-with-its-tighter-combat-cid-and-vincent-are-excellent-additions-to-the-team/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "guid": "CptMitaEqtqhhBWknS66rX",
-      "title": "WoW: Forever devs address dungeon XP backlash with 50% boost \u2013 but fans of the MMO aren't satisfied",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-devs-address-dungeon-xp-backlash-with-50-percent-boost-but-fans-of-the-mmo-arent-satisfied-with-blizzards-solution/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T14:55:48+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208829",
-      "title": "Sony Subsidiary Aniplex Ignores PS5 with Yet Another Game",
-      "url": "https://www.pushsquare.com/news/2026/11/sony-subsidiary-aniplex-ignores-ps5-with-yet-another-game",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1126335",
-      "title": "Metaphor: ReFantazio Dentist Collaboration Starts in Tokyo",
-      "url": "https://www.siliconera.com/metaphor-refantazio-dentist-collaboration-starts-in-tokyo/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T15:00:48+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-208816",
-      "title": "18 Nintendo Game & Watch Classics, inc. Mario Bros. and Donkey Kong, Come to ZX Spectrum via SM510 Emulator",
-      "url": "https://www.timeextension.com/news/2026/11/18-nintendo-game-and-watch-classics-inc-mario-bros-and-donkey-kong-come-to-zx-spectrum-via-sm510-emulator",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T15:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1763070",
@@ -1413,6 +1229,102 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-11-09T18:00:13+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237216710",
+      "title": "ABC Developing Police Procedural From \u2018Government Cheese\u2019 Co-Creator Aeysha Carr and Ram\u00f3n Rodr\u00edguez",
+      "url": "https://deadline.com/2026/11/government-cheese-aeyesha-carr-police-procedural-abc-1237216710/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T19:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1236424017",
+      "title": "\u2018Stick\u2019 Soundtrack: All The Songs You\u2019ll Hear In The Apple TV+ Golf Series",
+      "url": "https://deadline.com/feature/stick-soundtrack-songs-owen-wilson-golf-show-1236424017/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:47:49+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237217006",
+      "title": "\u2018Hope\u2019 Composer Michael Abels Played Even The Gross-Out Comedy Parts Like A Thriller \u2013 Sound & Screen Film",
+      "url": "https://deadline.com/2026/11/hope-composer-michael-abels-interview-1237217006/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237217464",
+      "title": "Daniel Radcliffe Unsure If He\u2019ll Watch HBO\u2019s \u2018Harry Potter\u2019 Series: \u201cEight Hours Is A Lot Of Anything\u201d",
+      "url": "https://deadline.com/2026/11/daniel-radcliffe-unsure-watch-hbo-harry-potter-series-1237217464/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:38:37+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943242",
+      "title": "David Ellison on DC Shakeup: Jeremy Latcham Will \u2018Build the Future of DC,\u2019 Praises James Gunn and Peter Safran\u2019s \u2018Passion\u2019",
+      "url": "https://variety.com/2026/film/news/david-ellison-dc-studios-james-gunn-peter-safran-jeremy-latcham-1236943242/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:53:20+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943217",
+      "title": "Donnie Dunagan, Original Voice of Bambi, Dies at 92",
+      "url": "https://variety.com/2026/film/obituaries-people-news/donnie-dunagan-dead-bambi-voice-1236943217/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:38:38+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750737",
+      "title": "\u2018KPop Demon Hunters\u2019 Directors Board Animated Short \u2018Living With a Visionary\u2019 as Exec Producers (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/kpop-demon-hunters-directors-short-living-with-a-visionary-1236750737/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751005",
+      "title": "James Gunn \u201cIncredibly Relieved\u201d to Leave DC Studios: Job Was \u201cTrying, to Say the Least\u201d",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-relieved-dc-studios-exit-1236751005/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:58:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751022",
+      "title": "Ridley Scott Will Miss Academy\u2019s Governors Awards, Accept Honorary Oscar Remotely (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ridley-scott-academys-governors-awards-honorary-oscar-1236751022/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:56:44+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236746251",
+      "title": "\u201cIt\u2019s All Cinema!\u201d Directors of 2026\u2019s Top Docs on Taking Risks, Interacting With Subjects and the Huge Success of \u2018You Can See Everything\u2019 (Video)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-savannah-film-festival-hollywood-reporter-docs-to-watch-1236746251/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:53:20+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236748177",
+      "title": "\u2018Survivor 51\u2019 Castoff Brady Booker on That \u201cToxicity\u201d Comment, Starving Through Challenges and What It Means to Be a \u201cBrodie\u201d",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/survivor-brady-booker-exit-interview-1236748177/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T18:39:11+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1126395",
+      "title": "New El Shaddai Spin-off Is a Zero Nine Reversi Puzzle Game",
+      "url": "https://www.siliconera.com/new-el-shaddai-spin-off-is-a-zero-nine-reversi-puzzle-game/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T19:00:00+00:00"
     }
   ]
 }
