@@ -93,6 +93,47 @@
       "article_titles": [
         "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features"
       ]
+    },
+    {
+      "headline": "Nier: Automata's Absurd 366 GB Install Size Has Finally Been Fixed",
+      "tag": "nier: automata",
+      "posted_at": "2026-11-09T15:01:01.812815+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/"
+      ],
+      "article_titles": [
+        "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)"
+      ]
+    },
+    {
+      "headline": "Smash Bros. Creator Masahiro Sakurai Says He Doesn't Trust Generative AI \u2014 But Isn't Ready to Reject It Either",
+      "tag": "masahiro sakurai",
+      "posted_at": "2026-11-09T15:01:01.887581+00:00",
+      "urls": [
+        "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu"
+      ],
+      "article_titles": [
+        "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely"
+      ]
+    },
+    {
+      "headline": "A Real-Life GTA 6 Music Festival Is Happening in Miami, Co-Presented by PlayStation",
+      "tag": "gta 6",
+      "posted_at": "2026-11-09T15:01:01.954643+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists/",
+        "https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation",
+        "https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation",
+        "https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation",
+        "https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation"
+      ],
+      "article_titles": [
+        "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists",
+        "GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented by PlayStation",
+        "GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented By PlayStation",
+        "GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented by PlayStation",
+        "GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented By PlayStation"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -321,6 +362,118 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-11-09T14:07:25+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
+      "title": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
+      "url": "https://www.eurogamer.net/masahiro-sakurai-generative-ai-famitsu",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T14:35:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755086",
+      "title": "I\u2019ve Played Zelda: Ocarina Of Time Way Too Much To Enjoy The Remake As Much As It Deserves",
+      "url": "https://kotaku.com/ive-played-zelda-ocarina-of-time-way-too-much-to-enjoy-the-remake-as-much-as-it-deserves-2000755086",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T14:51:40+00:00"
+    },
+    {
+      "guid": "yDu6icxLdJpLRtJuzW8Fti",
+      "title": "The pillars of AI are shaking beneath our feet",
+      "url": "https://www.pcgamer.com/software/ai/the-pillars-of-ai-are-shaking-beneath-our-feet/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T14:52:38+00:00"
+    },
+    {
+      "guid": "pD2puf9JsQbLJcZkrhuDgR",
+      "title": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
+      "url": "https://www.pcgamer.com/games/rpg/great-news-nier-automatas-install-size-is-no-longer-7x-bigger-than-it-should-be-it-was-366-gb/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T14:51:27+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237215455",
+      "title": "Claes Bang Heinrich Himmler Masseur Drama \u2018I Is Another\u2019 Sells Wide For Beta Cinema \u2013 AFM",
+      "url": "https://deadline.com/2026/11/claes-bang-himmler-masseur-another-deals-beta-1237215455/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237217244",
+      "title": "\u2018Maxton Hall \u2013 The World Between Us\u2019: James Fights For Ruby In Trailer For Final Season Of Prime Video YA Drama",
+      "url": "https://deadline.com/2026/11/maxton-hall-world-between-us-trailer-season-3-1237217244/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T14:40:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236941836",
+      "title": "\u2018Heated Rivalry\u2019 Final Episodes to Release in 4DX at Regal Theaters",
+      "url": "https://variety.com/2026/tv/news/heated-rivalry-final-episodes-to-release-in-4dx-1236941836/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T14:50:00+00:00"
+    },
+    {
+      "guid": "zEDF939y5vXKtHpGZzijiD",
+      "title": "Arkham Horror Remastered crowdfunder is so popular the community has kept it going for 108 extra hours",
+      "url": "https://www.gamesradar.com/games/board-games/arkham-horror-remastered-crowdfunder-is-so-popular-the-community-has-kept-it-going-for-108-extra-hours/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T14:51:56+00:00"
+    },
+    {
+      "guid": "VyjEDzDAUCATWhhnTpUBah",
+      "title": "How to find Princess Ruto in the Ocarina of Time Remake",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-princess-ruto/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T14:37:55+00:00"
+    },
+    {
+      "guid": "1952655",
+      "title": "GTA 6 Music Festival Announced For Miami With A Stacked Lineup Of Artists",
+      "url": "https://www.gamespot.com/articles/gta-6-music-festival-announced-for-miami-with-a-stacked-lineup-of-artists/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T14:32:17+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763048",
+      "title": "\u201cI\u2019ll Be Careful From Now On\u201d \u2013 Vinland Saga Creator Apologizes for Reposting AI-Generated Thorfinn Fan Art, Says He Cannot Distinguish It From Original Artwork",
+      "url": "https://otakukart.com/ill-be-careful-from-now-on-vinland-saga-creator-apologizes-for-reposting-ai-generated-thorfinn-fan-art-says-he-cannot-distinguish-it-from-original-artwork/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T14:59:43+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763047",
+      "title": "Mortal Kombat Co-Creator Ed Boon Asks Fans to Vote on the Next Game\u2019s Title, With Mortal Kombat 2 Leading the Poll",
+      "url": "https://otakukart.com/mortal-kombat-co-creator-ed-boon-asks-fans-to-vote-on-the-next-games-title-with-mortal-kombat-2-leading-the-poll/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T14:40:23+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763044",
+      "title": "Monster Hunter Series Producer Ryozo Tsujimoto Says Capcom\u2019s RE Engine Helps Developers Resolve Technical Issues Faster During Development",
+      "url": "https://otakukart.com/monster-hunter-series-producer-ryozo-tsujimoto-says-capcoms-re-engine-helps-developers-resolve-technical-issues-faster-during-development/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T14:33:20+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763046",
+      "title": "Embark CEO Patrick S\u00f6derlund Says ARC Raiders\u2019 PvP Encounters Create Essential Tension That a Dedicated PvE Mode Would Remove",
+      "url": "https://otakukart.com/embark-ceo-patrick-soderlund-says-arc-raiders-pvp-encounters-create-essential-tension-that-a-dedicated-pve-mode-would-remove/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T14:32:56+00:00"
     }
   ]
 }
