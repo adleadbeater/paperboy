@@ -288,110 +288,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg",
-      "title": "Anticipated Warhammer 40K tactical RPG Dark Heresy gets a release date",
-      "url": "https://www.eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:50:00+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-investigation-affair-chinese-spy",
-      "title": "Nvidia CEO Jensen Huang under investigation after admitting affair with alleged Chinese spy in company-wide email",
-      "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-investigation-affair-chinese-spy",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:45:00+00:00"
-    },
-    {
-      "guid": "nbeKbbUtVvuakdKNPA8Xc7",
-      "title": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
-      "url": "https://www.pcgamer.com/hardware/gaming-monitors/cheaper-oleds-may-be-here-even-quicker-than-we-thought-as-tcl-csot-says-its-new-inkjet-printing-facility-could-be-up-and-running-as-soon-as-this-time-next-year/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:58:52+00:00"
-    },
-    {
-      "guid": "pcwcdUEQShJRuT5qPUqSaD",
-      "title": "Jensen Huang\u2019s affair with alleged Chinese spy highlights how the GPU company\u2019s dealings are now everyone\u2019s business",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huangs-affair-with-alleged-chinese-spy-highlights-how-the-gpu-companys-dealings-are-now-everyones-business/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:56:37+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237217010",
-      "title": "\u2018Project Hail Mary\u2019 Composer Daniel Pemberton Built \u201cA Language From The Ground Up\u201d Using New Instruments \u2013 Sound & Screen Film",
-      "url": "https://deadline.com/2026/11/project-hail-mary-composer-daniel-pemberton-interview-1237217010/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:45:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236943088",
-      "title": "Kanye West Breaks His Own Record for Biggest Rap Concert in U.S. History \u2014 Again \u2014 With 83,132 Fans",
-      "url": "https://variety.com/2026/music/news/kanye-west-biggest-rap-concert-1236943088/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:49:24+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236942929",
-      "title": "Muayad Alayan on His Jerusalem-Set Drama \u2018Conversation With the Sea\u2019:\u2019You Cannot Avoid the Almost Two Million Palestinians Living in Israel\u2019",
-      "url": "https://variety.com/2026/film/festivals/muayad-alayan-on-jerusalem-set-conversation-with-the-sea-1236942929/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:49:14+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236943087",
-      "title": "ESPN Snares Rights to Expanded College Football  Playoff",
-      "url": "https://variety.com/2026/tv/news/espn-college-football-playoff-media-rights-expands-1236943087/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:41:18+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236750840",
-      "title": "Think You\u2019d Never Be a Cult Member or Manipulated? \u2018Father\u2019s House\u2019 Wants You to Think Again.",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/fathers-house-film-cult-manipulation-trine-dyrholm-tallinn-1236750840/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T16:55:11+00:00"
-    },
-    {
-      "guid": "mDNhVAs4GHRMoCW6hvwLgF",
-      "title": "WoW: Forever fans say Horde is destroying PvP, beg Blizzard to address the MMO's \"faction imbalance\"",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-fans-say-horde-is-destroying-pvp-beg-blizzard-to-address-the-new-mmos-faction-imbalance/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T16:36:56+00:00"
-    },
-    {
-      "guid": "https://www.nintendolife.com/#article-208286",
-      "title": "Rumour: Samsung's New Chip Process Kicks Off 'Nintendo Switch 2 Lite' Speculation",
-      "url": "https://www.nintendolife.com/news/2026/11/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation",
-      "source_name": "Nintendo Life",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208841",
-      "title": "Capcom Just Sold 5 Million Copies of Resident Evil Games in 3 Months",
-      "url": "https://www.pushsquare.com/news/2026/11/capcom-just-sold-5-million-copies-of-resident-evil-games-in-3-months",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T16:45:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1126376",
-      "title": "Atelier Karia Pre-order Bonus, Digital Deluxe Edition, Ultimate Edition, and Premium Box Revealed",
-      "url": "https://www.siliconera.com/atelier-karia-pre-order-bonus-digital-deluxe-edition-ultimate-edition-and-premium-box-revealed/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T17:00:00+00:00"
-    },
-    {
       "guid": "92d50585-3695-4106-a3a5-515480b4449a",
       "title": "Save Up to 40% Off Samsung Nintendo Switch 2 Memory Cards Ahead of Black Friday",
       "url": "https://www.ign.com/articles/samsung-p9-nintendo-switch-2-memory-card-deal-november-2026",
@@ -406,22 +302,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-11-09T17:05:00+00:00"
-    },
-    {
-      "guid": "4ea4d58d-7da9-46dd-921f-eeba92911b9b",
-      "title": "Former BioWare Executive Producer Mark Darrah Shares Original Vision for a More 'Immersive' Dragon Age 4",
-      "url": "https://www.ign.com/articles/former-bioware-executive-producer-mark-darrah-shares-original-vision-for-a-more-immersive-dragon-age-4",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T17:00:15+00:00"
-    },
-    {
-      "guid": "9f27ff20-1287-417d-979b-dfd32b1ef482",
-      "title": "Get Ready for the First New Scott Pilgrim Comic in 16 Years",
-      "url": "https://www.ign.com/articles/get-ready-for-the-first-new-scott-pilgrim-comic-in-16-years",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T17:00:00+00:00"
     },
     {
       "guid": "https://kotaku.com/?p=2000755133",
@@ -552,30 +432,6 @@
       "published_dt": "2026-11-09T17:07:19+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236941355",
-      "title": "Adobe Unveils 10 Filmmakers Receiving Total of $1 Million in Direct Grants, Forms Film & TV Advisory Board With Lena Waithe, Reggie Hudlin, Kerstin Emhoff and More",
-      "url": "https://variety.com/2026/film/news/adobe-film-tv-fund-filmmakers-direct-grants-advisory-board-1236941355/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236941985",
-      "title": "Maya Jama Strikes Deal With Netflix (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/global/maya-jama-signs-netflix-deal-new-projects-love-island-uk-exit-1236941985/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236940880",
-      "title": "United Talent Agency Signs \u2018Steps\u2019 Filmmaker Alyce Tzue (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/news/united-talent-agency-signs-alyce-tzue-steps-director-1236940880/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-09T17:00:00+00:00"
-    },
-    {
       "guid": "https://www.hollywoodreporter.com/?p=1236750902",
       "title": "DC Studios Shocker: James Gunn, Peter Safran Stepping Down with Marvel Alum Jeremy Latcham to Take Over",
       "url": "https://www.hollywoodreporter.com/movies/movie-news/dc-studios-shocker-james-gunn-peter-safran-stepping-1236750902/",
@@ -606,14 +462,6 @@
       "source_name": "GamesRadar",
       "source_tier": 2,
       "published_dt": "2026-11-09T17:25:22+00:00"
-    },
-    {
-      "guid": "EHrRjf38a47B2GdNWvs6HQ",
-      "title": "\"We don't want that scenario\": Skyrim had to change a major Oblivion problem, says Todd Howard",
-      "url": "https://www.gamesradar.com/games/the-elder-scrolls/we-dont-want-that-scenario-skyrim-had-to-change-a-major-oblivion-problem-but-will-todd-howards-elegant-solution-make-it-to-the-elder-scrolls-6-sentinel/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-09T17:00:00+00:00"
     },
     {
       "guid": "https://www.enworld.org/threads/massive-level-up-pre-holiday-50-sale.721318/",
@@ -1350,6 +1198,86 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-11-09T20:04:10+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237217424",
+      "title": "Aaron And Adam Nee Board Live-Action \u2018Catan\u2019 Movie At Netflix",
+      "url": "https://deadline.com/2026/11/catan-movie-aaron-and-adam-nee-1237217424/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T21:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237217549",
+      "title": "Donnie Dunagan Dies: Voice Of Young Bambi In 1942 Disney Classic Was 92",
+      "url": "https://deadline.com/2026/11/donnie-dunagan-dead-voice-of-young-bambi-1237217549/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T20:56:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237216040",
+      "title": "Druski\u2019s \u2018SNL\u2019 Gig Marks The Start Of The Creator Economy\u2019s Franchise Era \u2013 Guest Column",
+      "url": "https://deadline.com/2026/11/druski-snl-creator-economy-franchise-era-begins-1237216040/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T20:45:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943369",
+      "title": "CNN Sees Some Staff Buyouts Under Skydance Merger Plan",
+      "url": "https://variety.com/2026/tv/news/cnn-staff-buyouts-skydance-merger-1236943369/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T20:48:59+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943336",
+      "title": "\u2018De Gaulle\u2019 Wins Top Prize at American French Film Festival as 30th Anniversary Edition Draws 18,000 Attendees",
+      "url": "https://variety.com/2026/film/global/de-gaulle-american-french-film-festival-30th-anniversary-1236943336/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T20:45:32+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943331",
+      "title": "Daniel Radcliffe Is Unsure If He\u2019ll Watch HBO\u2019s \u2018Harry Potter\u2019 and Says the New Star \u2018Doesn\u2019t Need Any Advice From Me\u2019",
+      "url": "https://variety.com/2026/tv/news/daniel-radcliffe-watch-harry-potter-advice-cast-1236943331/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T20:28:16+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751107",
+      "title": "Nicole Avant to Receive Visionary Producer Award at Bahamas International Film Festival (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/nicole-avant-to-bahamas-international-film-festival-1236751107/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T21:00:02+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236750744",
+      "title": "Alan Ritchson Taps Alex Jackson to Serve as President at Dancing Skeleton Production Company",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/alan-ritchson-dancing-skeleton-company-alex-jackson-1236750744/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-09T20:54:24+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=624734",
+      "title": "RPG: Warhammer Fantasy Roleplay Celebrates 40 Years With Anniversary Humble Bundle",
+      "url": "https://www.belloflostsouls.net/2026/11/rpg-warhammer-fantasy-roleplay-celebrates-40-years-with-anniversary-humble-bundle.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T20:33:48+00:00"
+    },
+    {
+      "guid": "t3_1xs3bin",
+      "title": "Duke Nukem Forevers store page has slowly been changed to use beta footage from 2006 for the gifs present on the page. Aswell having its trailer replaced with a pre release one as opposed to the launch trailer, a 2006 build may be on the horizon",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xs3bin/duke_nukem_forevers_store_page_has_slowly_been/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-11-09T20:49:33+00:00"
     }
   ]
 }
