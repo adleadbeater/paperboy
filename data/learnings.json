@@ -317,6 +317,85 @@
       "article_titles": [
         "Fallout and Elder Scrolls actor Stephen Russell returns as Garrett in Thief: The Tarnished Mirror: 'Great to be back with the old guy'"
       ]
+    },
+    {
+      "headline": "Europe's Leaked Digital Fairness Act Could Bring Major Loot Box Crackdowns Across the Continent",
+      "tag": "gaming industry",
+      "posted_at": "2026-11-10T15:01:35.503725+00:00",
+      "urls": [
+        "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation"
+      ],
+      "article_titles": [
+        "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act"
+      ]
+    },
+    {
+      "headline": "Nintendo Switch 2 Firmware 23.5.0 Patches Jailbreak and Adds Game Gifting",
+      "tag": "nintendo switch 2",
+      "posted_at": "2026-11-10T15:01:35.750223+00:00",
+      "urls": [
+        "https://otakukart.com/nintendo-switch-2-and-switch-get-digital-game-gifting-feature-with-november-23-5-0-update/",
+        "https://otakukart.com/nintendo-switch-2-jailbreak-patched-as-firmware-23-5-0-blocks-game-modding-and-dumping/"
+      ],
+      "article_titles": [
+        "Nintendo Switch 2 and Switch Get Digital Game Gifting Feature With November 23.5.0 Update",
+        "Nintendo Switch 2 Jailbreak Patched as Firmware 23.5.0 Blocks Game Modding and Dumping"
+      ]
+    },
+    {
+      "headline": "Rockstar Confirms GTA 6 Targets 30 FPS, PS5 Pro to Use PSSR Upscaling",
+      "tag": "gta 6",
+      "posted_at": "2026-11-10T15:01:35.977564+00:00",
+      "urls": [
+        "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517"
+      ],
+      "article_titles": [
+        "Rockstar Says GTA VI Is \u2018Targeting\u2019 30 FPS And Will Use PSSR On PS5 Pro"
+      ]
+    },
+    {
+      "headline": "Rockstar Kills GTA 6 Xbox-to-PC Streaming but Confirms Xbox One Cloud Support",
+      "tag": "gta 6",
+      "posted_at": "2026-11-10T15:01:36.232085+00:00",
+      "urls": [
+        "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one"
+      ],
+      "article_titles": [
+        "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like"
+      ]
+    },
+    {
+      "headline": "Big Walk Developer Discloses Minimal AI Code Use, Ignites Industry Debate",
+      "tag": "big walk",
+      "posted_at": "2026-11-10T15:01:36.485918+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/"
+      ],
+      "article_titles": [
+        "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs"
+      ]
+    },
+    {
+      "headline": "Report: James Gunn Ousted From DC Studios Amid Power Struggle Despite Superman's Success",
+      "tag": "dc studios",
+      "posted_at": "2026-11-10T15:01:36.709082+00:00",
+      "urls": [
+        "https://kotaku.com/james-gunn-peter-safran-dc-studios-skydance-what-happened-2000755516"
+      ],
+      "article_titles": [
+        "Report: James Gunn Ousted Amid Messy Power Struggle Despite Superman\u2019s Success"
+      ]
+    },
+    {
+      "headline": "Nintendo's New Game Gifting Feature Comes Loaded With Classic Nintendo Restrictions",
+      "tag": "nintendo switch",
+      "posted_at": "2026-11-10T15:01:36.929294+00:00",
+      "urls": [
+        "https://www.gamespot.com/articles/nintendo-new-gift-giving-feature-comes-with-some-very-nintendo-restrictions/"
+      ],
+      "article_titles": [
+        "Nintendo\u2019s New Gift-Giving Feature Comes With Some Very Nintendo Restrictions"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -593,6 +672,190 @@
       "source_name": "Gematsu",
       "source_tier": 2,
       "published_dt": "2026-11-10T14:05:01+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
+      "title": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
+      "url": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:46:50+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
+      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
+      "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:40:10+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755517",
+      "title": "Rockstar Says GTA VI Is \u2018Targeting\u2019 30 FPS And Will Use PSSR On PS5 Pro",
+      "url": "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:42:54+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755516",
+      "title": "Report: James Gunn Ousted Amid Messy Power Struggle Despite Superman\u2019s Success",
+      "url": "https://kotaku.com/james-gunn-peter-safran-dc-studios-skydance-what-happened-2000755516",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:30:36+00:00"
+    },
+    {
+      "guid": "HHt42KBGtmEBrhbYypEk46",
+      "title": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs",
+      "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:36:16+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237216760",
+      "title": "British Comic Jake Lambert Sets 2027 U.S. Leg Of The Sunshine Kid Tour",
+      "url": "https://deadline.com/2026/11/jake-lambert-tour-dates-2027-us-1237216760/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218465",
+      "title": "BBC Removes \u2018Little Britain\u2019 From iPlayer While It Reviews David Walliams Content",
+      "url": "https://deadline.com/2026/11/bbc-removes-little-britain-iplayer-walliams-allegations-1237218465/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:48:58+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218452",
+      "title": "Canadian Armed Forces Veterans Given Production Experience On \u2018Murdoch Mysteries\u2019",
+      "url": "https://deadline.com/2026/11/canadian-veterans-production-experience-murdoch-mysteries-1237218452/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:43:36+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236942047",
+      "title": "Fantastic Fest Award Winner \u2018Bloody Tennis,\u2019 Starring Sandra Guldberg Kampp and Helena Zengel, Sells to Further Territories (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/bloody-tennis-sandra-guldberg-kampp-helena-zengel-1236942047/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943958",
+      "title": "Adobe Is Adding AI Agent Features Across Its Product Lines, but Execs Emphasize Creators Have Choice of How They Use AI",
+      "url": "https://variety.com/2026/digital/news/adobe-ai-agentic-features-max-2026-1236943958/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:53:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751365",
+      "title": "CBS Unveils Competitors for Drew Barrymore-Hosted \u2018Pillsbury Bake-Off Classic\u2019 Special (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/drew-barrymore-pillsbury-bake-off-classic-cast-bakers-1236751365/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751524",
+      "title": "K-pop Star Wonho Announces 2027 Noche World Tour (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/music/music-news/k-pop-wonho-2027-noche-world-tour-1236751524/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751094",
+      "title": "Brad Pitt, Tarantino and a Bong Full of Hash: The Untold Origin Story of \u2018Inglourious Basterds\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/brad-pitt-quentin-tarantino-hash-inglourious-basterds-book-1236751094/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:45:00+00:00"
+    },
+    {
+      "guid": "etoDQQAKoQyaSJwJXov6TX",
+      "title": "GTA 6 won't run at 60fps on PS5 Pro, but Sony's console still has an exclusive: ray-traced shadows",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:43:07+00:00"
+    },
+    {
+      "guid": "1954438",
+      "title": "GTA 6 PS5 Pro Features, Frame Rates, And Xbox Cloud Gaming Details Confirmed By Rockstar",
+      "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:37:16+00:00"
+    },
+    {
+      "guid": "1954432",
+      "title": "Big Walk\u2019s AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate",
+      "url": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:35:13+00:00"
+    },
+    {
+      "guid": "1954415",
+      "title": "Nintendo\u2019s New Gift-Giving Feature Comes With Some Very Nintendo Restrictions",
+      "url": "https://www.gamespot.com/articles/nintendo-new-gift-giving-feature-comes-with-some-very-nintendo-restrictions/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:27:46+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1126431",
+      "title": "Japan Post Selling New Year 2027 Chiikawa Postcards",
+      "url": "https://www.siliconera.com/japan-post-selling-new-year-2027-chiikawa-postcards/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1087862",
+      "title": "2D action platformer isekizima: Ruins and Tails Journey launches January 19, 2027 for PC, later for Switch",
+      "url": "https://www.gematsu.com/2026/11/2d-action-platformer-isekizima-ruins-and-tails-journey-launches-january-19-2027-for-pc-later-for-switch",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:50:17+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763192",
+      "title": "Monster Hunter Producer Ryozo Tsujimoto Says Ascendance\u2019s Boost Bracer Will Temporarily Speed Up Great Sword and Other Heavy Weapons",
+      "url": "https://otakukart.com/monster-hunter-producer-ryozo-tsujimoto-says-ascendances-boost-bracer-will-temporarily-speed-up-great-sword-and-other-heavy-weapons/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T15:00:16+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763191",
+      "title": "Nintendo Switch 2 and Switch Get Digital Game Gifting Feature With November 23.5.0 Update",
+      "url": "https://otakukart.com/nintendo-switch-2-and-switch-get-digital-game-gifting-feature-with-november-23-5-0-update/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:45:44+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763186",
+      "title": "Nintendo Switch 2 Jailbreak Patched as Firmware 23.5.0 Blocks Game Modding and Dumping",
+      "url": "https://otakukart.com/nintendo-switch-2-jailbreak-patched-as-firmware-23-5-0-blocks-game-modding-and-dumping/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:39:39+00:00"
+    },
+    {
+      "guid": "t3_1xsotfp",
+      "title": "GTA VI PSN ratings have started to show up on the PSN backend (5/5 stars by 11 reviewers)",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xsotfp/gta_vi_psn_ratings_have_started_to_show_up_on_the/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-11-10T14:50:18+00:00"
     }
   ]
 }
