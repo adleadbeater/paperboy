@@ -293,18 +293,135 @@
       "article_titles": [
         "\u2018GTA 6\u2019 Presales \u2018Far in Excess\u2019 of Expectations Ahead of Next Week\u2019s Launch, Take-Two CEO Says"
       ]
+    },
+    {
+      "headline": "Steam Now Shows Real Framerate Data for Steam Deck Games Before You Buy",
+      "tag": "steam deck",
+      "posted_at": "2026-11-10T14:01:03.733170+00:00",
+      "urls": [
+        "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+        "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/"
+      ],
+      "article_titles": [
+        "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+        "Steam now lets you see exactly what frame rate you should get in games using a Steam Deck"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237218315",
-      "title": "Producer Jemima Goldsmith Accuses Russell Brand of \u201cViolence, Coercive Control & Abuse\u201d",
-      "url": "https://deadline.com/2026/11/jemima-goldsmith-accuses-russell-brand-of-violence-abuse-1237218315/",
+      "guid": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+      "title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+      "url": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:53:30+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755505",
+      "title": "Nvidia Hit With Class Action Lawsuit For \u2018Misleading\u2019 Shareholders Following CEO\u2019s Affair With Alleged Chinese Spy",
+      "url": "https://kotaku.com/nvidia-class-action-lawsuit-shareholders-affair-chinese-spy-jensen-huang-2000755505",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:30:12+00:00"
+    },
+    {
+      "guid": "nqSzueMqqKFwg5G9kBqDSe",
+      "title": "Steam now lets you see exactly what frame rate you should get in games using a Steam Deck",
+      "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/steam-now-lets-you-see-exactly-what-frame-rate-you-should-get-in-games-using-a-steam-deck/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:31:56+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218375",
+      "title": "\u2018Art Detectives\u2019: Watch Trailer For Season 2 Special Of Stephen Moyer Series; Premiere Date Revealed",
+      "url": "https://deadline.com/2026/11/art-detectives-trailer-special-premiere-date-season-2-1237218375/",
       "source_name": "Deadline",
       "source_tier": 1,
-      "published_dt": "2026-11-10T07:30:57+00:00"
+      "published_dt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218425",
+      "title": "Pete Hegseth Defends Tenure, Lavishes Praise On Trump & Calls Impeachment Threat \u201cSabotage\u201d In Rare Pentagon Press Conference",
+      "url": "https://deadline.com/2026/11/pete-hegseth-impeachment-trump-1237218425/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:52:09+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218373",
+      "title": "David Walliams Dropped By Independent Talent Group After Sexual Misconduct Allegations",
+      "url": "https://deadline.com/2026/11/david-walliams-dropped-independent-talent-misconduct-claims-1237218373/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:41:12+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218415",
+      "title": "BIFA Nominee \u2018Straight Circle\u2019, Starring Elliott & Luke Tittensor, Gets UK Deal",
+      "url": "https://deadline.com/2026/11/straight-circle-with-elliott-luke-tittensor-gets-uk-deal-1237218415/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:29:46+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236941836",
+      "title": "\u2018Heated Rivalry\u2019 Final Episodes to Release in 4DX at Regal Theaters",
+      "url": "https://variety.com/2026/tv/news/heated-rivalry-final-episodes-to-release-in-4dx-1236941836/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943778",
+      "title": "From \u2018Dil Se\u2019 to \u2018Ramayana\u2019: How Indian Cinema Shattered the U.K., Ireland Box Office Glass Ceiling",
+      "url": "https://variety.com/2026/film/box-office/ramayana-dil-se-indian-cinema-rise-uk-ireland-box-office-1236943778/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943793",
+      "title": "\u2018Later Daters\u2019 Gets Celebrity-Filled Season 2: Christie Brinkley, Margaret Cho, Vivica A. Fox and More Seek Love in Netflix Series (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/later-daters-season-2-1236943793/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943788",
+      "title": "The Team Unveils New Board as Firm Regroups After Rebrand From Wasserman",
+      "url": "https://variety.com/2026/biz/news/the-team-board-members-watts-wasserman-providence-equity-1236943788/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751631",
+      "title": "Webby Awards Launches IMDB-Like Credits Platform to Provide Verified Recognition for Creators Amid AI Growth (Exclusive)",
+      "url": "https://www.hollywoodreporter.com/business/digital/webby-awards-credits-registry-creators-ai-1236751631/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751133",
+      "title": "Skydance Earnings: Wall Street Is Skeptical So Far",
+      "url": "https://www.hollywoodreporter.com/business/business-news/skydance-earnings-wall-street-review-stock-holding-pattern-1236751133/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:45:52+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751251",
+      "title": "Jordan Fisher Takes on Prince\u2019s Role in Broadway Adaptation of \u2018Purple Rain\u2019",
+      "url": "https://www.hollywoodreporter.com/lifestyle/arts/jordan-fisher-prince-role-broadway-adaptation-purple-rain-1236751251/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T13:30:00+00:00"
     }
   ]
 }
