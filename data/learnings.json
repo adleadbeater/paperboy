@@ -439,46 +439,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
-      "title": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
-      "url": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:46:50+00:00"
-    },
-    {
-      "guid": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
-      "title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
-      "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:40:10+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000755517",
-      "title": "Rockstar Says GTA VI Is \u2018Targeting\u2019 30 FPS And Will Use PSSR On PS5 Pro",
-      "url": "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:42:54+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000755516",
-      "title": "Report: James Gunn Ousted Amid Messy Power Struggle Despite Superman\u2019s Success",
-      "url": "https://kotaku.com/james-gunn-peter-safran-dc-studios-skydance-what-happened-2000755516",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:30:36+00:00"
-    },
-    {
-      "guid": "HHt42KBGtmEBrhbYypEk46",
-      "title": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs",
-      "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:36:16+00:00"
-    },
-    {
       "guid": "https://deadline.com/?p=1237216760",
       "title": "British Comic Jake Lambert Sets 2027 U.S. Leg Of The Sunshine Kid Tour",
       "url": "https://deadline.com/2026/11/jake-lambert-tour-dates-2027-us-1237216760/",
@@ -487,36 +447,12 @@
       "published_dt": "2026-11-10T15:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237218465",
-      "title": "BBC Removes \u2018Little Britain\u2019 From iPlayer While It Reviews David Walliams Content",
-      "url": "https://deadline.com/2026/11/bbc-removes-little-britain-iplayer-walliams-allegations-1237218465/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:48:58+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237218452",
-      "title": "Canadian Armed Forces Veterans Given Production Experience On \u2018Murdoch Mysteries\u2019",
-      "url": "https://deadline.com/2026/11/canadian-veterans-production-experience-murdoch-mysteries-1237218452/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:43:36+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236942047",
       "title": "Fantastic Fest Award Winner \u2018Bloody Tennis,\u2019 Starring Sandra Guldberg Kampp and Helena Zengel, Sells to Further Territories (EXCLUSIVE)",
       "url": "https://variety.com/2026/film/global/bloody-tennis-sandra-guldberg-kampp-helena-zengel-1236942047/",
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-11-10T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236943958",
-      "title": "Adobe Is Adding AI Agent Features Across Its Product Lines, but Execs Emphasize Creators Have Choice of How They Use AI",
-      "url": "https://variety.com/2026/digital/news/adobe-ai-agentic-features-max-2026-1236943958/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:53:56+00:00"
     },
     {
       "guid": "https://www.hollywoodreporter.com/?p=1236751365",
@@ -535,38 +471,6 @@
       "published_dt": "2026-11-10T15:00:00+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236751094",
-      "title": "Brad Pitt, Tarantino and a Bong Full of Hash: The Untold Origin Story of \u2018Inglourious Basterds\u2019",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/brad-pitt-quentin-tarantino-hash-inglourious-basterds-book-1236751094/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-10T14:45:00+00:00"
-    },
-    {
-      "guid": "etoDQQAKoQyaSJwJXov6TX",
-      "title": "GTA 6 won't run at 60fps on PS5 Pro, but Sony's console still has an exclusive: ray-traced shadows",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-10T14:43:07+00:00"
-    },
-    {
-      "guid": "1954438",
-      "title": "GTA 6 PS5 Pro Features, Frame Rates, And Xbox Cloud Gaming Details Confirmed By Rockstar",
-      "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-11-10T14:37:16+00:00"
-    },
-    {
-      "guid": "1954432",
-      "title": "Big Walk\u2019s AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate",
-      "url": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-11-10T14:35:13+00:00"
-    },
-    {
       "guid": "https://www.siliconera.com/?p=1126431",
       "title": "Japan Post Selling New Year 2027 Chiikawa Postcards",
       "url": "https://www.siliconera.com/japan-post-selling-new-year-2027-chiikawa-postcards/",
@@ -575,44 +479,12 @@
       "published_dt": "2026-11-10T15:00:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1087862",
-      "title": "2D action platformer isekizima: Ruins and Tails Journey launches January 19, 2027 for PC, later for Switch",
-      "url": "https://www.gematsu.com/2026/11/2d-action-platformer-isekizima-ruins-and-tails-journey-launches-january-19-2027-for-pc-later-for-switch",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-11-10T14:50:17+00:00"
-    },
-    {
       "guid": "https://otakukart.com/?p=1763192",
       "title": "Monster Hunter Producer Ryozo Tsujimoto Says Ascendance\u2019s Boost Bracer Will Temporarily Speed Up Great Sword and Other Heavy Weapons",
       "url": "https://otakukart.com/monster-hunter-producer-ryozo-tsujimoto-says-ascendances-boost-bracer-will-temporarily-speed-up-great-sword-and-other-heavy-weapons/",
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-11-10T15:00:16+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763191",
-      "title": "Nintendo Switch 2 and Switch Get Digital Game Gifting Feature With November 23.5.0 Update",
-      "url": "https://otakukart.com/nintendo-switch-2-and-switch-get-digital-game-gifting-feature-with-november-23-5-0-update/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-10T14:45:44+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763186",
-      "title": "Nintendo Switch 2 Jailbreak Patched as Firmware 23.5.0 Blocks Game Modding and Dumping",
-      "url": "https://otakukart.com/nintendo-switch-2-jailbreak-patched-as-firmware-23-5-0-blocks-game-modding-and-dumping/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-10T14:39:39+00:00"
-    },
-    {
-      "guid": "t3_1xsotfp",
-      "title": "GTA VI PSN ratings have started to show up on the PSN backend (5/5 stars by 11 reviewers)",
-      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xsotfp/gta_vi_psn_ratings_have_started_to_show_up_on_the/",
-      "source_name": "Reddit GamingLeaks",
-      "source_tier": 2,
-      "published_dt": "2026-11-10T14:50:18+00:00"
     },
     {
       "guid": "0bac954f-e0da-4c31-a2dc-cef2b53704b4",
@@ -1797,6 +1669,46 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-11-10T18:00:50+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218949",
+      "title": "Focus Features And Blumhouse Atomic Set April Release For Nicolas Curcio\u2019s Horror Pic \u2018Play House\u2019",
+      "url": "https://deadline.com/2026/11/focus-features-blumhouse-atomic-nicolas-curcio-play-house-1237218949/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T18:53:45+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237218631",
+      "title": "J. Zachary Thurman Signs With WME",
+      "url": "https://deadline.com/2026/11/j-zachary-thurman-wme-1237218631/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T18:30:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236944214",
+      "title": "Garth Brooks Buying Spot on Nashville Radio Dial to Create a New Country Station, With a Promise to Give Female Artists a More Prominent Shot",
+      "url": "https://variety.com/2026/music/news/garth-brooks-buying-nashville-radio-station-country-1236944214/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T18:50:42+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236944210",
+      "title": "\u2018You\u2019ve Got Mail\u2019 Reboot in the Works at Warner Bros.",
+      "url": "https://variety.com/2026/film/news/youve-got-mail-reboot-warner-bros-1236944210/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T18:46:06+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751376",
+      "title": "\u2018Long Long Night\u2019 Director Youm Kyu-bock on Creating Animation That Takes Kids Seriously",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/long-long-night-director-youm-kyu-bock-interview-1236751376/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-10T18:45:38+00:00"
     }
   ]
 }
