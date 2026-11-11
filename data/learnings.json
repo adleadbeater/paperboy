@@ -579,123 +579,33 @@
         "Dark Souls 2 and 3 multiplayer is back: We still don't know what went wrong but at least it didn't take almost a year to fix it",
         "Dark Souls 2 and 3 are back online after 2 weeks as FromSoftware finishes its investigation"
       ]
+    },
+    {
+      "headline": "An Indie Dev Used AI to Fix a Bug \u2014 and Now the Indie Gaming World Is Fighting About It",
+      "tag": "big walk",
+      "posted_at": "2026-11-11T18:01:14.199274+00:00",
+      "urls": [
+        "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
+      ],
+      "article_titles": [
+        "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning."
+      ]
+    },
+    {
+      "headline": "Marvel Rivals' Creative Director Responds to Hate Speech Controversy, Vows Stricter Enforcement",
+      "tag": "marvel rivals",
+      "posted_at": "2026-11-11T18:01:14.325055+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-creative-director-addresses-hate-speech-controversy-and-promises-weve-ramped-up-our-disciplinary-measures/"
+      ],
+      "article_titles": [
+        "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://www.videogameschronicle.com/?p=250622",
-      "title": "\u2018Nintendo absolutely hated this\u2019: Two unrelated games called Piece By Piece are launching together in a Switch bundle",
-      "url": "https://www.videogameschronicle.com/news/nintendo-absolutely-hated-this-two-unrelated-games-called-piece-by-piece-are-launching-together-in-a-switch-bundle/",
-      "source_name": "VGC",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T13:41:07+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237220061",
-      "title": "\u2018Emily In Paris\u2019 Season 6 Trailer Traipses Down Memory Lane From France & Rome To \u201cOne Last Story\u201d In Greece",
-      "url": "https://deadline.com/2026/11/emily-in-paris-season-6-trailer-greece-1237220061/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237220151",
-      "title": "\u2018How To Rob A Bank\u2019 Review: Crony Capitalism Gets Blowback In David Leitch\u2019s Anarchic Heist Tutorial",
-      "url": "https://deadline.com/2026/11/how-to-rob-a-bank-review-david-leitch-nicholas-hoult-john-c-reilly-1237220151/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237220221",
-      "title": "Channel 4 Becomes Latest Network To Delete David Walliams Shows",
-      "url": "https://deadline.com/2026/11/channel-4-deletes-david-walliams-shows-1237220221/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T13:32:40+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236944333",
-      "title": "\u2018SNL UK\u2019 Star Ania Magliano Adds U.S. Tour Dates (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/snl-uk-ania-magliano-tour-dates-1236944333/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236943403",
-      "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
-      "url": "https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236747885",
-      "title": "\u2018How to Rob a Bank\u2019 Review: Nicholas Hoult Delivers Adrenalized Big Finance Payback That Entertains Despite Its Tonal Mishmash",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz-1236747885/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236746669",
-      "title": "\u2018Tangled\u2019 Takes Ciudad de la Luz From Up-and-Coming Studio to Production Must-Stop",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/tangled-studio-ciudad-de-la-luz-production-hub-spain-film-1236746669/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236752835",
-      "title": "Mind the Gap: British Producer-Financier Phil Hunt Is Bringing Head Gear Stateside",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/brit-producer-financier-phil-hunt-bringing-head-gear-to-us-1236752835/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T13:43:55+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1124608",
-      "title": "Studios Shouldn\u2019t Balk at Keeping Friction in \u2018Frustrating\u2019 Games",
-      "url": "https://www.siliconera.com/studios-shouldnt-back-at-keeping-friction-in-games/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763299",
-      "title": "Naruto Live-Action Movie Could Lose Producer Jeremy Latcham Following DC Studios Appointment",
-      "url": "https://otakukart.com/naruto-live-action-movie-could-lose-producer-jeremy-latcham-following-dc-studios-appointment/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T13:52:31+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763298",
-      "title": "Birdlip Primary School Uses Manga and Voice Acting to Encourage Children to Read for Pleasure",
-      "url": "https://otakukart.com/birdlip-primary-school-uses-manga-and-voice-acting-to-encourage-children-to-read-for-pleasure/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T13:42:28+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763297",
-      "title": "Tezuka! God of Manga Documentary Director Says Osamu Tezuka\u2019s Phoenix Deserves More Recognition From Western Manga Readers",
-      "url": "https://otakukart.com/tezuka-god-of-manga-documentary-director-says-osamu-tezukas-phoenix-deserves-more-recognition-from-western-manga-readers/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T13:31:09+00:00"
-    },
-    {
-      "guid": "511349fb-6345-4dbf-af1b-57f74a8dbb27",
-      "title": "Colin Farrell Says 'There's a Conversation to Be Had' About The Penguin Season 2, Having Filmed Just 2 Scenes for The Batman Part II",
-      "url": "https://www.ign.com/articles/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-11T13:58:41+00:00"
-    },
     {
       "guid": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
       "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
@@ -727,30 +637,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-11-11T14:16:29+00:00"
-    },
-    {
-      "guid": "jMo3EyUrqC4cdz6VX8n7ZK",
-      "title": "The Rings of Power season 3's new heroic Orc character offers a fresh perspective on Middle-earth",
-      "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-3s-new-heroic-orc-character-offers-a-fresh-perspective-on-middle-earth/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "yNxbNMoUpEW9a6gP2enCQa",
-      "title": "\"The snowboarding minigame is just essential,\" says FF7 Revelation director \"There really was no other option for us!\"",
-      "url": "https://www.gamesradar.com/games/final-fantasy/the-snowboarding-minigame-is-just-essential-says-ff7-revelation-director-and-queens-blood-also-returns-due-to-fan-demand-there-really-was-no-other-option-for-us/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T14:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-208898",
-      "title": "But Can It Run Doom? - Kickstarter Begins for Book Cataloguing the Many Devices That Can, in Fact, Run Doom",
-      "url": "https://www.timeextension.com/news/2026/11/but-can-it-run-doom-kickstarter-begins-for-book-cataloguing-the-many-devices-that-can-in-fact-run-doom",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T14:00:00+00:00"
     },
     {
       "guid": "https://otakukart.com/?p=1763300",
@@ -1759,6 +1645,166 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-11-11T17:02:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755945",
+      "title": "Danganronpa Lead Says Day-One Patches Help Keep Physical Media Alive: \u2019To Be Frank, We Sometimes Submit Builds Where We Think, \u2018No One Should Ever Play It In This State\u2019",
+      "url": "https://kotaku.com/kazutaka-kodaka-danganronpa-physical-collectors-edition-2000755945",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:30:34+00:00"
+    },
+    {
+      "guid": "xwsKJGhMKbAmUzRNFDeCQh",
+      "title": "Marvel Rivals' creative director addresses hate speech controversy and promises 'we've ramped up our disciplinary measures'",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/marvel-rivals-creative-director-addresses-hate-speech-controversy-and-promises-weve-ramped-up-our-disciplinary-measures/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:34:01+00:00"
+    },
+    {
+      "guid": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "source_name": "Ars Technica Games",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:37:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220529",
+      "title": "Buchwald Launches Live Events Division, Hires Touring Agent Isaiah Jones",
+      "url": "https://deadline.com/2026/11/buchwald-launches-live-events-division-hires-isaiah-jones-1237220529/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:46:02+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220447",
+      "title": "Look Cinemas Takes Over Pasadena\u2019s IPic Theater, Will Reopen In December Amid Resurgence Of LA Area Screens",
+      "url": "https://deadline.com/2026/11/old-pasadena-theater-reopening-as-look-cinemas-1237220447/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:37:30+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236944527",
+      "title": "Anne Hathaway to Receive American Riviera Award at Santa Barbara International Film Festival",
+      "url": "https://variety.com/2026/film/news/anne-hathaway-to-receive-american-riviera-award-1236944527/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T18:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236945231",
+      "title": "Russell Brand\u2019s Pubic Hair Removed From London Museum After Rape Conviction, Curator Says \u2018I Have No Desire to Hear His Name Again\u2019",
+      "url": "https://variety.com/2026/global/news/russell-brands-pubic-hair-london-museum-removed-1236945231/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:48:24+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236944445",
+      "title": "\u2019Unguarded,\u2019 Mario Casas\u2019 Second Movie as a Director, Starring Mario and Oscar Casas, Joins Film Factory\u2019s AFM Slate",
+      "url": "https://variety.com/2026/film/global/unguarded-mario-casas-oscar-casas-film-factory-nostromo-1236944445/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:34:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751150",
+      "title": "Chris Harrison Says Being Fired From \u2018The Bachelor\u2019 Was a \u201cBlessing,\u201d Not a Cancellation",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/chris-harrison-the-bachelor-firing-blessing-not-canceled-1236751150/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:53:36+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236752951",
+      "title": "TV Ratings: \u2018SNL\u2019 Hits Two-Year High With Druski as Host",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/snl-ratings-two-year-high-druski-host-1236752951/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:41:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236752954",
+      "title": "Janelle James Does Not Go to Trader Joe\u2019s Anymore \u2014\u00a0She\u2019s Famous",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/janelle-james-abbott-elementary-how-romantic-interview-1236752954/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:40:42+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236751372",
+      "title": "Kelly Rohrbach Walton Is Embracing a New Chapter in Hollywood \u2014 With Motherhood at the Center",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/kelly-rohrbach-walton-baby-girls-motherhood-baywatch-career-1236751372/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:38:19+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236752968",
+      "title": "\u2018South Park\u2019 Brings Back Tweek for First Time in 5 Years in Craig-Centric Episode",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/south-park-season-29-episode-5-tweek-craig-episode-1236752968/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:33:04+00:00"
+    },
+    {
+      "guid": "iTbCxuKMhpUBLR2mDcx3A5",
+      "title": "Bethesda celebrates Skyrim\u2019s 15th anniversary with new artwork from a \"legendary artist\"",
+      "url": "https://www.gamesradar.com/games/the-elder-scrolls/bethesda-celebrates-skyrims-15th-anniversary-with-new-artwork-from-a-legendary-artist-and-oh-my-god-skyrim-is-15-years-old/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:37:59+00:00"
+    },
+    {
+      "guid": "PhTfkZYjxvPcW8at6fUqtD",
+      "title": "Dumping \"up to $2,000\" a month into Pokemon fan game, vibe coder says Claude is \"starting to refuse\"",
+      "url": "https://www.gamesradar.com/games/pokemon/claude-models-are-starting-to-refuse-work-on-pokemon-fan-projects-says-vibe-coder-spending-up-to-usd2-000-a-month-on-pokemon-fan-game/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:36:11+00:00"
+    },
+    {
+      "guid": "CdSvjnHiryHcMVXiiMjdLU",
+      "title": "How to complete the Triple Threat quest in Phantom Blade Zero",
+      "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-triple-threat/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:33:29+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763379",
+      "title": "Nintendo Highlights 7 Indie Games Coming to Switch 2 and Switch, Including Witchbrook, Sonic Pico Park, and Sword of the Sea",
+      "url": "https://otakukart.com/nintendo-highlights-7-indie-games-coming-to-switch-2-and-switch-including-witchbrook-sonic-pico-park-and-sword-of-the-sea/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:53:51+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763378",
+      "title": "Prime Video Announces Ian Eagle, Stan Van Gundy, John Wall, and Kayla Grey for Duke Basketball Broadcast Team",
+      "url": "https://otakukart.com/prime-video-announces-ian-eagle-stan-van-gundy-john-wall-and-kayla-grey-for-duke-basketball-broadcast-team/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:37:08+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763377",
+      "title": "Blue Archive Launches 5th Anniversary Update With 200 Free Recruitments and a Fest Student Choice Ticket",
+      "url": "https://otakukart.com/blue-archive-launches-5th-anniversary-update-with-200-free-recruitments-and-a-fest-student-choice-ticket/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:35:39+00:00"
+    },
+    {
+      "guid": "https://www.belloflostsouls.net/?p=624837",
+      "title": "Trigun Tabletop RPG Coming Soon \u2013 Get Ready For A World Made Of Love & Peace",
+      "url": "https://www.belloflostsouls.net/2026/11/trigun-tabletop-rpg-coming-soon-get-ready-for-a-world-made-of-love-peace.html",
+      "source_name": "Bell of Lost Souls",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:53:15+00:00"
     }
   ]
 }
