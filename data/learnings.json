@@ -1,30 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "God of War: Laufey Delayed Three Months",
-      "tag": "god of war: laufey",
-      "posted_at": "2026-11-04T17:30:57.602087+00:00",
-      "urls": [
-        "https://www.pushsquare.com/news/2026/11/ps5-exclusive-god-of-war-laufey-has-officially-been-delayed-by-three-months",
-        "https://kotaku.com/god-of-war-laufey-delay-ps5-new-release-date-santa-monica-2000753374"
-      ],
-      "article_titles": [
-        "PS5 Exclusive God of War Laufey Has Officially Been Delayed by Three Months",
-        "God Of War Laufey Hit With Three-Month Delay"
-      ]
-    },
-    {
-      "headline": "Sonic the Hedgehog Is Somehow in the New Angry Birds 3 Trailer",
-      "tag": "angry birds 3",
-      "posted_at": "2026-11-04T17:30:57.761701+00:00",
-      "urls": [
-        "https://www.ign.com/articles/sonic-the-hedgehog-new-angry-birds-3-trailer"
-      ],
-      "article_titles": [
-        "Sonic the Hedgehog Shows Up in New Angry Birds 3 Trailer for Some Reason"
-      ]
-    },
-    {
       "headline": "A Truck Is Circling EA's HQ Demanding the Studio Save Mass Effect",
       "tag": "mass effect",
       "posted_at": "2026-11-06T18:34:04.167737+00:00",
@@ -590,6 +566,19 @@
         "\u2018Rings of Power\u2019 Season 3 Premiere: [SPOILER] Dies in Shocking Murder, Sauron Assembles Ringwraiths and Jamie Campbell Bower Is Galadriel\u2019s Lover Celeborn",
         "The Rings of Power season 3's new heroic Orc character offers a fresh perspective on Middle-earth"
       ]
+    },
+    {
+      "headline": "Dark Souls 2 and 3 Multiplayer Finally Restored After Two-Week Outage",
+      "tag": "dark souls",
+      "posted_at": "2026-11-11T17:31:13.643990+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/dark-souls/dark-souls-2-and-3-multiplayer-is-back-we-still-dont-know-what-went-wrong-but-at-least-it-didnt-take-almost-a-year-to-fix-it/",
+        "https://www.gamesradar.com/games/dark-souls/praise-the-sun-dark-souls-2-and-3-are-back-online-after-2-weeks-as-fromsoftware-finishes-its-investigation-into-vulnerabilities/"
+      ],
+      "article_titles": [
+        "Dark Souls 2 and 3 multiplayer is back: We still don't know what went wrong but at least it didn't take almost a year to fix it",
+        "Dark Souls 2 and 3 are back online after 2 weeks as FromSoftware finishes its investigation"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -666,22 +655,6 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-11-11T13:43:55+00:00"
-    },
-    {
-      "guid": "99ZwjjwGp4djiwHkbFfyBn",
-      "title": "The Voidjoy Elite Extender only makes sense for Pro Controller purists",
-      "url": "https://www.gamesradar.com/hardware/gaming-controllers/voidjoy-elite-extender-review/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T13:30:10+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-208947",
-      "title": "Try Hellraiser: Revival in This New PS5 Demo, Out Now",
-      "url": "https://www.pushsquare.com/news/2026/11/try-hellraiser-revival-in-this-new-ps5-demo-out-now",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T13:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1124608",
@@ -1578,6 +1551,214 @@
       "source_name": "Reddit GamingLeaks",
       "source_tier": 2,
       "published_dt": "2026-11-11T16:45:05+00:00"
+    },
+    {
+      "guid": "bae5a219-d5b4-4bc6-8520-4cea8be68ef9",
+      "title": "The Body Review",
+      "url": "https://www.ign.com/articles/the-body-review-netflix",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:00:43+00:00"
+    },
+    {
+      "guid": "59de8597-0aba-437f-a5a4-e20a6d1a05de",
+      "title": "12 Days of Snoopy Exclusive Clip: Inside the Peanuts Holiday Special",
+      "url": "https://www.ign.com/articles/12-days-snoopy-exclusive-clip-interview-apple-tv",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:00:00+00:00"
+    },
+    {
+      "guid": "6eb57b30-6456-46f9-b422-1d066dd8581d",
+      "title": "The DC Art of Riccardo Federici Highlights the Talented Painter",
+      "url": "https://www.ign.com/articles/the-dc-art-of-riccardo-federici-highlights-the-talented-painter",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755917",
+      "title": "PS5 Sales Just Won\u2019t Quit",
+      "url": "https://kotaku.com/ps5-sales-just-wont-quit-2000755917",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:00:36+00:00"
+    },
+    {
+      "guid": "DkCjy9nhMyze5HZyNGz4eF",
+      "title": "Got a Synology NAS? Time to check your updates, as two high-level vulnerabilities let ne\u2019er-do-wells read and write files and conduct DDOS attacks",
+      "url": "https://www.pcgamer.com/hardware/storage/got-a-synology-nas-time-to-check-your-updates-as-two-high-level-vulnerabilities-let-neer-do-wells-read-and-write-files-and-conduct-ddos-attacks/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:24:05+00:00"
+    },
+    {
+      "guid": "uDWRn4FdLVZZuoHXwTrVUk",
+      "title": "Ex-Tekken director savages Xbox Series S in front of senior Xbox staff: \u2018feels like having to do extra work for a slightly weaker child\u2019",
+      "url": "https://www.pcgamer.com/hardware/ex-tekken-director-savages-xbox-series-s-in-front-of-senior-xbox-staff-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:17:42+00:00"
+    },
+    {
+      "guid": "oFpGDTtcvF3GS9BVjgQtDH",
+      "title": "Dark Souls 2 and 3 multiplayer is back: We still don't know what went wrong but at least it didn't take almost a year to fix it",
+      "url": "https://www.pcgamer.com/games/dark-souls/dark-souls-2-and-3-multiplayer-is-back-we-still-dont-know-what-went-wrong-but-at-least-it-didnt-take-almost-a-year-to-fix-it/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:05:30+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220500",
+      "title": "Jordan Firstman Voiced Animated Pic \u2018Jim Queen\u2019 Acquired By Magnolia Pictures, Sets Summer Release",
+      "url": "https://deadline.com/2026/11/jordan-firstman-jim-queen-1237220500/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:24:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220478",
+      "title": "Pierson Fod\u00e9 & Matteo Lane Join Lucy Hale In Fantasy Rom-Com \u2018Vision Board\u2019 \u2014 AFM",
+      "url": "https://deadline.com/2026/11/pierson-fode-matteo-lane-join-lucy-hale-in-vision-board-1237220478/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:15:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220468",
+      "title": "Sacha Gervasi Pic About Iron Maiden\u2019s Frontman In War-Torn Sarajevo Lands Scribe Arash Amel",
+      "url": "https://deadline.com/2026/11/sacha-gervasi-iron-maiden-movie-1237220468/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:02:20+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220295",
+      "title": "Ellen Burstyn To Be Honored At Gotham Film Awards With Performer Tribute",
+      "url": "https://deadline.com/2026/11/ellen-burstein-gotham-film-awards-performer-tribute-1237220295/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236821013",
+      "title": "\u2018Avengers: Endgame Encore\u2019 Sets Disney+ Streaming Release Date",
+      "url": "https://variety.com/2026/film/news/avengers-endgame-encore-disney-streaming-release-date-1236821013/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:17:18+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236944785",
+      "title": "Judge Refuses to Dismiss Trump\u2019s $10 Billion Defamation Suit Against BBC",
+      "url": "https://variety.com/2026/politics/news/trump-bbc-defamation-suit-dismiss-1236944785/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:15:06+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943247",
+      "title": "Filmax Brings to Market \u2018A Family,\u2019 Star Ricardo G\u00f3mez\u2019s Director Debut \u2018Highlighting the Value of Single Mothers\u2019 (EXCLUSIVE)",
+      "url": "https://variety.com/2026/film/global/filmax-a-family-ricardo-gomez-claudia-traisac-1236943247/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T17:00:31+00:00"
+    },
+    {
+      "guid": "6jahJtA8W6vjGbJMSeqieC",
+      "title": "In a world full of $200 controllers, this $35 Xbox pad manages to afford anti-drift sticks",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/drakong-challenger-review/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:27:36+00:00"
+    },
+    {
+      "guid": "aVUc6Hp7yY4z56x6DmGKj",
+      "title": "The Rings of Power's Dark Wizard reveal was one of the first things the showrunners wanted to do",
+      "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-powers-dark-wizard-reveal-was-one-of-the-first-things-the-showrunners-wanted-to-do-with-the-show/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:25:20+00:00"
+    },
+    {
+      "guid": "gB4nbbTPkCAHxGyoc3RhUX",
+      "title": "I've wanted to play this anime-inspired farming RPG for years, and I might finally get my chance",
+      "url": "https://www.gamesradar.com/games/simulation/ive-wanted-to-play-this-anime-inspired-farming-rpg-for-years-and-i-might-finally-get-my-chance-porting-work-is-actively-happening-behind-the-scenes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:18:51+00:00"
+    },
+    {
+      "guid": "kotdro4tMMLSGHUCHd6drH",
+      "title": "Ex-Tekken boss says developing for Xbox Series S is doing \"extra work for a slightly weaker child\"",
+      "url": "https://www.gamesradar.com/games/in-front-of-xbox-staff-ex-tekken-boss-says-developing-for-xbox-series-s-feels-like-having-to-do-extra-work-for-a-slightly-weaker-child/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:16:19+00:00"
+    },
+    {
+      "guid": "WvE2pYPksW7SkvhRk3KnbY",
+      "title": "World of Stands codes (November 2026) and how to redeem them for Arrows and more",
+      "url": "https://www.gamesradar.com/games/action-rpg/world-of-stands-codes/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:06:11+00:00"
+    },
+    {
+      "guid": "o3PvEJxpVJq9LEtRwTURrV",
+      "title": "The best controllers for GTA 6: The gamepads I'd recommend for PS5 and Xbox players jumping into Vice City",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/the-best-controllers-for-gta-6-the-gamepads-id-recommend-for-ps5-and-xbox-players-jumping-into-vice-city/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:04:09+00:00"
+    },
+    {
+      "guid": "1956310",
+      "title": "Steam\u2019s Growing Review Backlog Has Cost Another Game Its Launch Date",
+      "url": "https://www.gamespot.com/articles/steam-growing-review-backlog-has-cost-another-game-its-launch-date/",
+      "source_name": "GameSpot",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:09:14+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208973",
+      "title": "Skyrim Celebrates 15th Anniversary with Creation Club DLC Bundle, Big Sales, and More",
+      "url": "https://www.pushsquare.com/news/2026/11/skyrim-celebrates-15th-anniversary-with-creation-club-dlc-bundle-big-sales-and-more",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:15:00+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208925",
+      "title": "Feature: What Sony Live Service PS5 Games Are Still Alive?",
+      "url": "https://www.pushsquare.com/features/what-sony-live-service-ps5-games-are-still-alive",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-208941",
+      "title": "Castlevania-Style NES Platformer '8 Eyes' Could Be Getting An Enhanced Release For SNES, Sega Genesis, & GBA",
+      "url": "https://www.timeextension.com/news/2026/11/castlevania-style-nes-platformer-8-eyes-could-be-getting-an-enhanced-release-for-snes-sega-genesis-and-gba",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:00:00+00:00"
+    },
+    {
+      "guid": "https://www.gematsu.com/?p=1088024",
+      "title": "Don\u2019t Fret launches December 8",
+      "url": "https://www.gematsu.com/2026/11/dont-fret-launches-december-8",
+      "source_name": "Gematsu",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:04:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763357",
+      "title": "Annihilated Launches on Steam With 4 Character Routes, Multiple Endings, and 200,000 Words of Story",
+      "url": "https://otakukart.com/annihilated-launches-on-steam-with-4-character-routes-multiple-endings-and-200000-words-of-story/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T17:02:20+00:00"
     }
   ]
 }
