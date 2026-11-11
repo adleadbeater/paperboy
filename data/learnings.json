@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "Ubisoft and Others Are Reportedly Circling Arkane for Acquisition",
-      "tag": "arkane studios",
-      "posted_at": "2026-11-04T09:30:47.258086+00:00",
-      "urls": [
-        "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers"
-      ],
-      "article_titles": [
-        "Ubisoft and at least two other companies are interested in buying Arkane, according to new report"
-      ]
-    },
-    {
       "headline": "God of War: Laufey Delayed Three Months",
       "tag": "god of war: laufey",
       "posted_at": "2026-11-04T17:30:57.602087+00:00",
@@ -522,34 +511,141 @@
       "article_titles": [
         "Sony Kills PlayStation PC App Most People Never Heard Of And Only 0.4 Percent Of Players Used"
       ]
+    },
+    {
+      "headline": "Two Unrelated Switch Games Both Called \"Piece By Piece\" Are Launching as a Bundle \u2014 and Nintendo Hated It",
+      "tag": "nintendo switch",
+      "posted_at": "2026-11-11T14:02:28.512459+00:00",
+      "urls": [
+        "https://www.videogameschronicle.com/news/nintendo-absolutely-hated-this-two-unrelated-games-called-piece-by-piece-are-launching-together-in-a-switch-bundle/"
+      ],
+      "article_titles": [
+        "\u2018Nintendo absolutely hated this\u2019: Two unrelated games called Piece By Piece are launching together in a Switch bundle"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.gematsu.com/?p=1087971",
-      "title": "The Legend of Heroes: Trails beyond the Horizon sequel to launch by September 2027 in Japan",
-      "url": "https://www.gematsu.com/2026/11/the-legend-of-heroes-trails-beyond-the-horizon-sequel-to-launch-by-september-2027-in-japan",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-11-11T05:21:56+00:00"
+      "guid": "https://www.videogameschronicle.com/?p=250622",
+      "title": "\u2018Nintendo absolutely hated this\u2019: Two unrelated games called Piece By Piece are launching together in a Switch bundle",
+      "url": "https://www.videogameschronicle.com/news/nintendo-absolutely-hated-this-two-unrelated-games-called-piece-by-piece-are-launching-together-in-a-switch-bundle/",
+      "source_name": "VGC",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T13:41:07+00:00"
     },
     {
-      "guid": "https://www.hollywoodreporter.com/?p=1236751869",
-      "title": "ITV Unveils \u201cTemporary\u201d Cost Cuts as Q3 Ad Revenue Drops 8 Percent Amid \u201cWeaker\u201d Demand",
-      "url": "https://www.hollywoodreporter.com/business/business-news/itv-q3-trading-update-ad-revenue-weaker-cost-cuts-sky-deal-1236751869/",
+      "guid": "https://deadline.com/?p=1237220061",
+      "title": "\u2018Emily In Paris\u2019 Season 6 Trailer Traipses Down Memory Lane From France & Rome To \u201cOne Last Story\u201d In Greece",
+      "url": "https://deadline.com/2026/11/emily-in-paris-season-6-trailer-greece-1237220061/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220151",
+      "title": "\u2018How To Rob A Bank\u2019 Review: Crony Capitalism Gets Blowback In David Leitch\u2019s Anarchic Heist Tutorial",
+      "url": "https://deadline.com/2026/11/how-to-rob-a-bank-review-david-leitch-nicholas-hoult-john-c-reilly-1237220151/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237220221",
+      "title": "Channel 4 Becomes Latest Network To Delete David Walliams Shows",
+      "url": "https://deadline.com/2026/11/channel-4-deletes-david-walliams-shows-1237220221/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T13:32:40+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236944333",
+      "title": "\u2018SNL UK\u2019 Star Ania Magliano Adds U.S. Tour Dates (EXCLUSIVE)",
+      "url": "https://variety.com/2026/tv/news/snl-uk-ania-magliano-tour-dates-1236944333/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236943403",
+      "title": "Adobe Gives Sneak Peek at Real-Time Generative AI Video Editing Feature",
+      "url": "https://variety.com/2026/digital/news/adobe-project-live-set-real-time-ai-video-editing-feature-1236943403/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236747885",
+      "title": "\u2018How to Rob a Bank\u2019 Review: Nicholas Hoult Delivers Adrenalized Big Finance Payback That Entertains Despite Its Tonal Mishmash",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/how-to-rob-a-bank-review-nicholas-hoult-zoe-kravitz-1236747885/",
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
-      "published_dt": "2026-11-11T07:15:32+00:00"
+      "published_dt": "2026-11-11T14:00:00+00:00"
     },
     {
-      "guid": "https://www.nintendolife.com/#article-208919",
-      "title": "\"It's Terrific\" - Take-Two Boss Acknowledges Zelda Remake's High Score Ahead Of GTA VI Launch",
-      "url": "https://www.nintendolife.com/news/2026/11/its-terrific-take-two-boss-acknowledges-zelda-remakes-high-score-ahead-of-gta-vi-launch",
-      "source_name": "Nintendo Life",
+      "guid": "https://www.hollywoodreporter.com/?p=1236746669",
+      "title": "\u2018Tangled\u2019 Takes Ciudad de la Luz From Up-and-Coming Studio to Production Must-Stop",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tangled-studio-ciudad-de-la-luz-production-hub-spain-film-1236746669/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236752835",
+      "title": "Mind the Gap: British Producer-Financier Phil Hunt Is Bringing Head Gear Stateside",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/brit-producer-financier-phil-hunt-bringing-head-gear-to-us-1236752835/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T13:43:55+00:00"
+    },
+    {
+      "guid": "99ZwjjwGp4djiwHkbFfyBn",
+      "title": "The Voidjoy Elite Extender only makes sense for Pro Controller purists",
+      "url": "https://www.gamesradar.com/hardware/gaming-controllers/voidjoy-elite-extender-review/",
+      "source_name": "GamesRadar",
       "source_tier": 2,
-      "published_dt": "2026-11-11T06:45:00+00:00"
+      "published_dt": "2026-11-11T13:30:10+00:00"
+    },
+    {
+      "guid": "https://www.pushsquare.com/#article-208947",
+      "title": "Try Hellraiser: Revival in This New PS5 Demo, Out Now",
+      "url": "https://www.pushsquare.com/news/2026/11/try-hellraiser-revival-in-this-new-ps5-demo-out-now",
+      "source_name": "Push Square",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T13:30:00+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1124608",
+      "title": "Studios Shouldn\u2019t Balk at Keeping Friction in \u2018Frustrating\u2019 Games",
+      "url": "https://www.siliconera.com/studios-shouldnt-back-at-keeping-friction-in-games/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763299",
+      "title": "Naruto Live-Action Movie Could Lose Producer Jeremy Latcham Following DC Studios Appointment",
+      "url": "https://otakukart.com/naruto-live-action-movie-could-lose-producer-jeremy-latcham-following-dc-studios-appointment/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T13:52:31+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763298",
+      "title": "Birdlip Primary School Uses Manga and Voice Acting to Encourage Children to Read for Pleasure",
+      "url": "https://otakukart.com/birdlip-primary-school-uses-manga-and-voice-acting-to-encourage-children-to-read-for-pleasure/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T13:42:28+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763297",
+      "title": "Tezuka! God of Manga Documentary Director Says Osamu Tezuka\u2019s Phoenix Deserves More Recognition From Western Manga Readers",
+      "url": "https://otakukart.com/tezuka-god-of-manga-documentary-director-says-osamu-tezukas-phoenix-deserves-more-recognition-from-western-manga-readers/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T13:31:09+00:00"
     }
   ]
 }
