@@ -522,6 +522,28 @@
       "article_titles": [
         "\u2018Nintendo absolutely hated this\u2019: Two unrelated games called Piece By Piece are launching together in a Switch bundle"
       ]
+    },
+    {
+      "headline": "Former Tekken Director Harada Blasts Xbox Series S \u2014 to Microsoft's Face",
+      "tag": "xbox series s",
+      "posted_at": "2026-11-11T14:31:15.618255+00:00",
+      "urls": [
+        "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release"
+      ],
+      "article_titles": [
+        "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff"
+      ]
+    },
+    {
+      "headline": "Colin Farrell Says a Penguin Season 2 Conversation Is Happening \u2014 But He's Barely in The Batman Part II",
+      "tag": "the penguin",
+      "posted_at": "2026-11-11T14:31:15.783091+00:00",
+      "urls": [
+        "https://www.ign.com/articles/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii"
+      ],
+      "article_titles": [
+        "Colin Farrell Says 'There's a Conversation to Be Had' About The Penguin Season 2, Having Filmed Just 2 Scenes for The Batman Part II"
+      ]
     }
   ],
   "processed_reactions": [],
@@ -646,6 +668,86 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-11-11T13:31:09+00:00"
+    },
+    {
+      "guid": "511349fb-6345-4dbf-af1b-57f74a8dbb27",
+      "title": "Colin Farrell Says 'There's a Conversation to Be Had' About The Penguin Season 2, Having Filmed Just 2 Scenes for The Batman Part II",
+      "url": "https://www.ign.com/articles/colin-farrell-says-theres-a-conversation-to-be-had-about-the-penguin-season-2-having-filmed-just-2-scenes-for-the-batman-part-ii",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T13:58:41+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
+      "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff",
+      "url": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:09:30+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000755892",
+      "title": "Some Players Are Crashing Out About GTA 6 Only Being 30 FPS: \u2018Starfield Got Assaulted For Being Locked To 30 FPS\u2019",
+      "url": "https://kotaku.com/some-players-are-crashing-out-about-gta-6-only-being-30-fps-starfield-got-assaulted-for-being-locked-to-30-fps-2000755892",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:20:46+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237219225",
+      "title": "\u2018Stupid Never Dies\u2019 Producer Hiroyuki Kobayashi On Unique Development; Teases Potential Sequel",
+      "url": "https://deadline.com/2026/11/stupid-never-dies-hiroyuki-kobayashi-interview-1237219225/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:15:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236752195",
+      "title": "\u2018GTA 6\u2019 vs. Hollywood: Industry Braces for Biggest Entertainment Launch in History",
+      "url": "https://www.hollywoodreporter.com/business/digital/gta-6-hollywood-biggest-entertainment-launch-1236752195/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-11T14:16:29+00:00"
+    },
+    {
+      "guid": "jMo3EyUrqC4cdz6VX8n7ZK",
+      "title": "The Rings of Power season 3's new heroic Orc character offers a fresh perspective on Middle-earth",
+      "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-season-3s-new-heroic-orc-character-offers-a-fresh-perspective-on-middle-earth/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "yNxbNMoUpEW9a6gP2enCQa",
+      "title": "\"The snowboarding minigame is just essential,\" says FF7 Revelation director \"There really was no other option for us!\"",
+      "url": "https://www.gamesradar.com/games/final-fantasy/the-snowboarding-minigame-is-just-essential-says-ff7-revelation-director-and-queens-blood-also-returns-due-to-fan-demand-there-really-was-no-other-option-for-us/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://www.timeextension.com/#article-208898",
+      "title": "But Can It Run Doom? - Kickstarter Begins for Book Cataloguing the Many Devices That Can, in Fact, Run Doom",
+      "url": "https://www.timeextension.com/news/2026/11/but-can-it-run-doom-kickstarter-begins-for-book-cataloguing-the-many-devices-that-can-in-fact-run-doom",
+      "source_name": "Time Extension",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T14:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763300",
+      "title": "My Hero Academia Creator Kohei Horikoshi Reveals He Avoided Romance Because It Would Overshadow the Story\u2019s Focus on Heroism",
+      "url": "https://otakukart.com/my-hero-academia-creator-kohei-horikoshi-reveals-he-avoided-romance-because-it-would-overshadow-the-storys-focus-on-heroism/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T14:12:36+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763317",
+      "title": "Metaphor: ReFantazio Nintendo Switch 2 Review: A Masterful JRPG That Feels Right at Home on a Handheld",
+      "url": "https://otakukart.com/metaphor-refantazio-nintendo-switch-2-review-a-masterful-jrpg-that-feels-right-at-home-on-a-handheld/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-11T14:07:50+00:00"
     }
   ]
 }
