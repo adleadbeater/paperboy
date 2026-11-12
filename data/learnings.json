@@ -879,52 +879,12 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
-      "title": "After days of controversy, Nvidia CEO Jensen Huang has resigned",
-      "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-resigns",
-      "source_name": "Eurogamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T15:07:20+00:00"
-    },
-    {
       "guid": "https://kotaku.com/?p=2000756243",
       "title": "Nintendo Reveals Its Black Friday Sale Plans, With Its Own Games Getting Rare $20 Discounts",
       "url": "https://kotaku.com/nintendo-black-friday-sale-first-party-games-donkey-kong-metroid-prime-2000756243",
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-11-12T15:15:03+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000756275",
-      "title": "Jeff Kaplan Blames Overwatch 2\u2019s Messy Reveal On Blizzard Hubris: \u2018You Guys Are F*cking Idiots\u2019",
-      "url": "https://kotaku.com/overwatch-2-reveal-announcement-blizzcon-2019-jeff-kaplan-2000756275",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T15:00:53+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237220827",
-      "title": "CJ 4DPlex Pacts With B&B Theatres To Equip Single Missouri Site With 3 Premium Large Format Screens",
-      "url": "https://deadline.com/2026/11/screenx-4dx-cj-4dplex-bb-theatres-deal-1237220827/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T15:04:29+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237221568",
-      "title": "Doha Film Festival Cancels \u2018Fing!\u2019 International Premiere",
-      "url": "https://deadline.com/2026/11/doha-film-festival-cancels-fing-pulls-cancels-1237221568/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T15:02:40+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237221196",
-      "title": "International Cinematographers Guild Marks 100 Years Of \u201cProtecting Crafts, Livelihoods & Creative Voices\u201d",
-      "url": "https://deadline.com/2026/11/cinematographers-guild-100-years-anniversary-1237221196/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T15:01:00+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236946048",
@@ -943,36 +903,12 @@
       "published_dt": "2026-11-12T15:16:09+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236945738",
-      "title": "International Cinematographers Guild Celebrates 100 Years of Solidarity and Storytelling",
-      "url": "https://variety.com/2026/artisans/news/international-cinematographers-guild-100-years-1236945738/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T15:01:00+00:00"
-    },
-    {
-      "guid": "8dgQgDmXu3pEDSf6jm7vQD",
-      "title": "How to complete Cui in Phantom Blade Zero and find Cui's grandfather",
-      "url": "https://www.gamesradar.com/games/action-rpg/phantom-blade-zero-cui/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-12T15:06:12+00:00"
-    },
-    {
       "guid": "https://www.nintendolife.com/#article-209032",
       "title": "Nintendo Reveals Switch 2 Black Friday Deals (US)",
       "url": "https://www.nintendolife.com/news/2026/11/nintendo-reveals-switch-2-black-friday-deals-us",
       "source_name": "Nintendo Life",
       "source_tier": 2,
       "published_dt": "2026-11-12T15:15:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1126613",
-      "title": "Jins Will Sell Pokemon Peaceful Place Glasses and Accessories",
-      "url": "https://www.siliconera.com/jins-will-sell-pokemon-peaceful-place-glasses-and-accessories/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-11-12T15:00:47+00:00"
     },
     {
       "guid": "https://www.videogameschronicle.com/?p=250720",
@@ -2380,6 +2316,22 @@
       "url": "https://www.siliconera.com/4-new-hello-kitty-t-shirts-head-to-uniqlo-next-month/",
       "source_name": "Siliconera",
       "source_tier": 2,
+      "published_dt": "2026-11-12T19:00:00+00:00"
+    },
+    {
+      "guid": "mg8EwmCt3K2gDqMQfTiqXj",
+      "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/south-korean-game-rating-board-almost-blocked-gta-6s-release-fearing-its-out-of-context-genital-nudity-would-disrupt-social-order/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-12T19:06:41+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236754111",
+      "title": "\u2018Love Trapped\u2019 Podcast Coming to TV as Peacock Docuseries",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/love-trapped-podcast-tv-docuseries-peacock-1236754111/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
       "published_dt": "2026-11-12T19:00:00+00:00"
     }
   ]
