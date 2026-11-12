@@ -636,50 +636,150 @@
       "article_titles": [
         "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group"
       ]
+    },
+    {
+      "headline": "Nvidia Board Reportedly Weighing Jensen Huang's Ouster Amid Second Affair Allegation",
+      "tag": "nvidia",
+      "posted_at": "2026-11-12T12:01:07.949979+00:00",
+      "urls": [
+        "https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
+        "https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value/",
+        "https://www.gamesradar.com/hardware/nvidia-reportedly-considers-ousting-ceo-jensen-huang-after-33-years-as-reports-of-a-second-affair-surface/"
+      ],
+      "article_titles": [
+        "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
+        "Nvidia stock price plunges amid second Jensen Huang affair allegation \u2014 the AI company could be set to lose hundreds of billions in value",
+        "Nvidia reportedly considers ousting CEO Jensen Huang as reports of a second affair surface"
+      ]
+    },
+    {
+      "headline": "Neil Druckmann Says Intergalactic: The Heretic Prophet Is Fully Playable and in Final Polish",
+      "tag": "intergalactic: the heretic prophet",
+      "posted_at": "2026-11-12T12:01:08.074054+00:00",
+      "urls": [
+        "https://kotaku.com/neil-druckman-intergalactic-the-heretic-prophet-2027-playable-polish-2000756229",
+        "https://www.gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-is-in-the-last-stages-of-production-says-naughty-dogs-neil-druckmann-and-it-combines-uncharted-the-last-of-us-and-jak-and-daxter/"
+      ],
+      "article_titles": [
+        "Neil Druckman Says Intergalactic: The Heretic Prophet Is Fully Playable, Already In Polish",
+        "Intergalactic: The Heretic Prophet is in \"the last stages of production,\" says Neil Druckmann"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://www.nintendolife.com/#article-208995",
-      "title": "Reminder: The Final Kirby Air Riders amiibo Are Now Available",
-      "url": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+      "guid": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
+      "title": "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
+      "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-12T11:37:30+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000756229",
+      "title": "Neil Druckman Says Intergalactic: The Heretic Prophet Is Fully Playable, Already In Polish",
+      "url": "https://kotaku.com/neil-druckman-intergalactic-the-heretic-prophet-2027-playable-polish-2000756229",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-12T11:30:18+00:00"
+    },
+    {
+      "guid": "wdHvxZzYft5hbVkAXxpvPE",
+      "title": "Nvidia stock price plunges amid second Jensen Huang affair allegation \u2014 the AI company could be set to lose hundreds of billions in value",
+      "url": "https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-12T11:46:58+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236945976",
+      "title": "Tom Holland Says Starring in \u2018The Odyssey\u2019 Has Given Him an \u2018Ambition to See What Else is Out There For Me\u2019",
+      "url": "https://variety.com/2026/film/global/tom-holland-the-odyssey-ambition-projects-1236945976/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-12T11:38:59+00:00"
+    },
+    {
+      "guid": "CPSz3JoenvVTLahVLyPyb3",
+      "title": "Bond director Denis Villeneuve says he takes the responsibility of bringing the next 007 to the screen \"very seriously\"",
+      "url": "https://www.gamesradar.com/entertainment/james-bond-movies/bond-director-denis-villeneuve-says-he-takes-the-responsibility-of-bringing-the-next-007-to-the-screen-very-seriously-we-cant-f-it-up/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:53:02+00:00"
+    },
+    {
+      "guid": "36xhmKQKGcy5sW48sfGsUf",
+      "title": "This is your best chance of getting good deals on Pokemon cards and NeeDoh, but you don\u2019t have long",
+      "url": "https://www.gamesradar.com/tabletop-gaming/this-is-your-best-chance-of-getting-good-deals-on-pokemon-cards-and-needoh-but-you-dont-have-long/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:49:34+00:00"
+    },
+    {
+      "guid": "xGZudJYV2eZueELDpD26jC",
+      "title": "Intergalactic: The Heretic Prophet is in \"the last stages of production,\" says Neil Druckmann",
+      "url": "https://www.gamesradar.com/games/adventure/intergalactic-the-heretic-prophet-is-in-the-last-stages-of-production-says-naughty-dogs-neil-druckmann-and-it-combines-uncharted-the-last-of-us-and-jak-and-daxter/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:45:57+00:00"
+    },
+    {
+      "guid": "sQfLkTKd2Cw7M3RPPcX6Xd",
+      "title": "Nvidia reportedly considers ousting CEO Jensen Huang as reports of a second affair surface",
+      "url": "https://www.gamesradar.com/hardware/nvidia-reportedly-considers-ousting-ceo-jensen-huang-after-33-years-as-reports-of-a-second-affair-surface/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:42:36+00:00"
+    },
+    {
+      "guid": "PDxBxPTuuW73G5uHoczvPC",
+      "title": "GTA 6 boss says \"never say never\" when it comes to a new Grand Theft Auto game set outside America",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-boss-says-never-say-never-when-it-comes-to-a-new-grand-theft-auto-game-set-outside-america-but-theres-still-so-much-to-do-with-the-us/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:40:24+00:00"
+    },
+    {
+      "guid": "https://www.nintendolife.com/#article-209010",
+      "title": "Resident Evil Requiem Crowned 'Ultimate Game Of The Year' At The Golden Joysticks Awards",
+      "url": "https://www.nintendolife.com/news/2026/11/resident-evil-requiem-crowned-ultimate-game-of-the-year-at-the-golden-joysticks-awards",
       "source_name": "Nintendo Life",
       "source_tier": 2,
-      "published_dt": "2026-11-12T06:45:00+00:00"
+      "published_dt": "2026-11-12T11:45:00+00:00"
     },
     {
-      "guid": "https://www.gematsu.com/?p=1088123",
-      "title": "Romance visual novel Renai, Hajimemashite coming to PS5, PS4, and Switch on March 25, 2027 in Japan",
-      "url": "https://www.gematsu.com/2026/11/romance-visual-novel-renai-hajimemashite-coming-to-ps5-ps4-and-switch-on-march-25-2027-in-japan",
-      "source_name": "Gematsu",
+      "guid": "https://www.pushsquare.com/#article-209004",
+      "title": "New Witcher 3 DLC Uses AI to Touch Up Geralt's Polish Voice Due to Actor's Health Issues",
+      "url": "https://www.pushsquare.com/news/2026/11/new-witcher-3-dlc-uses-ai-to-touch-up-geralts-polish-voice-due-to-actors-health-issues",
+      "source_name": "Push Square",
       "source_tier": 2,
-      "published_dt": "2026-11-12T06:29:54+00:00"
+      "published_dt": "2026-11-12T12:00:00+00:00"
     },
     {
-      "guid": "https://deadline.com/?p=1237220683",
-      "title": "Skydance Co-CEO Ynon Kreiz Spotlights \u201cMoral Responsibility\u201d + Combating Antisemitism & Injustice  In Simon Wiesenthal Gala Speech",
-      "url": "https://deadline.com/2026/11/ynon-kreiz-simon-wiesenthal-dinner-skydance-1237220683/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T07:29:06+00:00"
+      "guid": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/",
+      "title": "13 Omens gets crossover zine with Pathfinder",
+      "url": "https://www.enworld.org/threads/13-omens-gets-crossover-zine-with-pathfinder.721353/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:56:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236945906",
-      "title": "Berlusconi Family\u2019s ProSiebenSat.1 Earnings Surge on Cost Cuts as TV Advertising Slump Drags Revenue",
-      "url": "https://variety.com/2026/tv/news/berlusconi-family-prosiebensat1-profits-surge-tv-ad-slump-1236945906/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T07:19:26+00:00"
+      "guid": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-vulpera.721352/",
+      "title": "World of Warcraft Deep Dive - Vulpera",
+      "url": "https://www.enworld.org/threads/world-of-warcraft-deep-dive-vulpera.721352/",
+      "source_name": "ENWorld",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:38:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236943902",
-      "title": "EbonyLife Group, Logical African Partners Launch $50 Million Fund to Support African Cinema (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/ebonylife-group-logical-african-partners-50-million-fund-1236943902/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-12T07:15:15+00:00"
+      "guid": "t3_1xuatt7",
+      "title": "GTA VI Collectors Box displayed shows the unreleased map poster with new location names",
+      "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1xuatt7/gta_vi_collectors_box_displayed_shows_the/",
+      "source_name": "Reddit GamingLeaks",
+      "source_tier": 2,
+      "published_dt": "2026-11-12T11:53:26+00:00"
     }
   ]
 }
