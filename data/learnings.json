@@ -1,17 +1,6 @@
 {
   "recently_posted": [
     {
-      "headline": "A Truck Is Circling EA's HQ Demanding the Studio Save Mass Effect",
-      "tag": "mass effect",
-      "posted_at": "2026-11-06T18:34:04.167737+00:00",
-      "urls": [
-        "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705"
-      ],
-      "article_titles": [
-        "A Truck Demanding EA \u2018Save Mass Effect\u2019 Is Currently Driving Around The Company\u2019s Headquarters"
-      ]
-    },
-    {
       "headline": "Speedrunners Are Already Snapping Ocarina of Time's Remake in Half",
       "tag": "the legend of zelda: ocarina of time",
       "posted_at": "2026-11-08T17:16:44.492917+00:00",
@@ -1093,155 +1082,37 @@
         "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
         "Crimson Desert studio Pearl Abyss now implementing AI \"throughout our entire development pipeline\""
       ]
+    },
+    {
+      "headline": "Rainbow Six: Vegas Is Reportedly Returning With a New Installment",
+      "tag": "rainbow six: vegas",
+      "posted_at": "2026-11-13T20:31:16.701751+00:00",
+      "urls": [
+        "https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment"
+      ],
+      "article_titles": [
+        "Rainbow Six: Vegas Reportedly Returning With New Installment"
+      ]
+    },
+    {
+      "headline": "The Game Awards 2026 Nominees Drop Next Week \u2014 and GTA 6 Is Expected to Dominate",
+      "tag": "the game awards",
+      "posted_at": "2026-11-13T20:31:16.892707+00:00",
+      "urls": [
+        "https://www.ign.com/articles/the-game-awards-2026-will-stream-live-on-roblox-for-the-first-time-complete-with-voting-and-virtual-merch",
+        "https://variety.com/2026/awards/news/game-awards-nominees-special-ps5-livestream-winners-1236946910/",
+        "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november"
+      ],
+      "article_titles": [
+        "The Game Awards 2026 Will Stream Live on Roblox for the First Time, Complete With Voting and Virtual Merch",
+        "The Game Awards to Reveal 2026 Nominees Next Week Ahead of \u2018GTA 6\u2019 Debut, PlayStation 5 Joins Livestreamers for December Show (EXCLUSIVE)",
+        "The Game Awards 2026 Nominees to Be Revealed on 17th November"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "93c90d5b-0f71-4486-8bf4-8372290b4318",
-      "title": "God of War Sons of Sparta Coming to PS4 Next Week With New Content",
-      "url": "https://www.ign.com/articles/god-of-war-sons-of-sparta-coming-to-ps4-next-week-with-new-content",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:12:45+00:00"
-    },
-    {
-      "guid": "1e72e16e-2443-427f-a634-389fb76be30e",
-      "title": "Curt Pires and Ryan Quackenbush Announce Sci-Fi Graphic Novel Content",
-      "url": "https://www.ign.com/articles/curt-pires-and-ryan-quackenbush-announce-sci-fi-graphic-novel-content",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:08:46+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000756594",
-      "title": "Spider-Man 2 And A Bunch Of Other Great Games Are About To Look Even Better On Base PS5",
-      "url": "https://kotaku.com/spider-man-2-and-a-bunch-of-other-great-games-are-about-to-look-even-better-on-base-ps5-2000756594",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:11:41+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237222821",
-      "title": "David Walliams Being Investigated By Police",
-      "url": "https://deadline.com/2026/11/david-walliams-being-investigated-police-allegations-1237222821/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:27:49+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237214612",
-      "title": "\u2018Sesame Street\u2019 And Cricket Media To Launch Free Streaming Channel Dedicated To The Series",
-      "url": "https://deadline.com/2026/11/sesame-street-cricket-media-launch-free-streaming-channel-1237214612/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:18:03+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237206429",
-      "title": "Palm Springs Film Awards Honorees: Andrew Garfield Set For Spotlight Award, Actor",
-      "url": "https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:18:00+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237222743",
-      "title": "Christian Cousins Dies: Former Child Actor Of \u2018Kindergarten Cop\u2019, \u2018Knots Landing\u2019 Was 43",
-      "url": "https://deadline.com/2026/11/christian-cousins-dead-kindergarten-cop-1237222743/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:14:15+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236945778",
-      "title": "Asian World Film Festival Sets Honorees Including \u2018Josephine\u2019 Star Mason Reeves, Packed Lineup of Oscar Contenders",
-      "url": "https://variety.com/2026/film/news/asian-world-film-festival-honorees-1236945778/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:30:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236947077",
-      "title": "David Walliams Being Investigated for \u2018Serious Sexual Offences\u2019 by Police",
-      "url": "https://variety.com/2026/tv/global/david-walliams-investigated-police-serious-sexual-offences-1236947077/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:24:26+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236947053",
-      "title": "U2 Gets On Its Boots for First All-New Full-Length Record in Nine Years, \u2018Carnaval de Luz,\u2019 With More Callbacks to Band\u2019s \u201990s Peaks Than \u201980s Glories: Album Review",
-      "url": "https://variety.com/2026/music/album-reviews/u2-carnaval-de-luz-album-review-1236947053/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:01:46+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236753241",
-      "title": "Stephen King Almost Threw \u2018Carrie\u2019 in the Trash. Then It Changed Everything",
-      "url": "https://www.hollywoodreporter.com/movies/movie-features/stephen-king-interview-horror-novel-carrie-1236753241/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:30:00+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754735",
-      "title": "David Walliams Under Investigation by U.K. Police Over Alleged \u201cSerious Sexual Offenses\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/david-walliams-met-police-investigation-sexual-offences-1236754735/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:29:12+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754721",
-      "title": "Savannah Guthrie Extends \u2018Today\u2019 Show Deal",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/savannah-guthrie-extends-today-show-deal-nbc-news-1236754721/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:29:10+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754682",
-      "title": "Johnny Depp\u2019s \u2018Ebenezer\u2019 Unearths $1.5M in Box Office Previews",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-comeback-box-office-previews-rob-bank-1236754682/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:23:58+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754707",
-      "title": "Streaming Ratings: \u2018From\u2019 Dominates an Otherwise Quiet Halloween Week",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-oct-26-nov-1-2026-1236754707/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:20:20+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754701",
-      "title": "Christian Cousins, Young Actor in \u2018Knots Landing\u2019 and \u2018Kindergarten Cop,\u2019 Dies at 43",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/christian-cousins-dead-knots-landing-kindergarten-cop-twin-1236754701/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:18:59+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763590",
-      "title": "\u201cA Privilege Beyond Words\u201d \u2013 The Blood of Dawnwalker Publishing Chief Calls Four Golden Joystick Nominations a \u201cRemarkable Experience\u201d After Debut RPG Finishes Second in Two Categories",
-      "url": "https://otakukart.com/a-privilege-beyond-words-the-blood-of-dawnwalker-publishing-chief-calls-four-golden-joystick-nominations-a-remarkable-experience-after-debut-rpg-finishes-second-in-two/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T16:29:48+00:00"
-    },
-    {
-      "guid": "https://otakukart.com/?p=1763589",
-      "title": "Pearl Abyss Accused of Sending False DMCA Notices as Pirates Add Crimson Desert Developer to Blacklist",
-      "url": "https://otakukart.com/pearl-abyss-accused-of-sending-false-dmca-notices-as-pirates-add-crimson-desert-developer-to-blacklist/",
-      "source_name": "Otakukart",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T16:12:10+00:00"
-    },
     {
       "guid": "https://kotaku.com/?p=2000756631",
       "title": "Overwatch Fans Got The News They Were Afraid Of About The New \u2018Omnic Detective\u2019 Hero",
@@ -1257,14 +1128,6 @@
       "source_name": "Kotaku",
       "source_tier": 1,
       "published_dt": "2026-11-13T16:30:43+00:00"
-    },
-    {
-      "guid": "ArLG6WYeMVk8SytuKQGnK8",
-      "title": "'Season 10 has been a challenging one for us': Marvel Rivals is upgrading Storm's summer skin after favouritism complaints",
-      "url": "https://www.pcgamer.com/games/third-person-shooter/season-10-has-been-a-challenging-one-for-us-marvel-rivals-is-upgrading-storms-summer-skin-after-favouritism-complaints/",
-      "source_name": "PC Gamer",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:28:30+00:00"
     },
     {
       "guid": "https://variety.com/?p=1236947064",
@@ -1323,28 +1186,12 @@
       "published_dt": "2026-11-13T16:33:47+00:00"
     },
     {
-      "guid": "GzkhGsrnCxvY8DeptJGigL",
-      "title": "Gerudo Fortress guide and walkthrough for the Ocarina of Time Remake",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-gerudo-fortress/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T16:25:53+00:00"
-    },
-    {
       "guid": "1958702",
       "title": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
       "url": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-11-13T16:37:29+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-209098",
-      "title": "Play The Blood of Dawnwalker Again in New Game+, Part of PS5 Patch 1.2",
-      "url": "https://www.pushsquare.com/news/2026/11/play-the-blood-of-dawnwalker-again-in-new-gameplus-part-of-ps5-patch-1-2",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T16:30:00+00:00"
     },
     {
       "guid": "https://www.siliconera.com/?p=1126735",
@@ -2017,6 +1864,94 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-11-13T19:43:53+00:00"
+    },
+    {
+      "guid": "c5ae36a5-aaed-4ef9-9339-e68d3253fa66",
+      "title": "Multiple Versions of The Hobbit Illustrated Edition Are on Sale Before Black Friday",
+      "url": "https://www.ign.com/articles/the-hobbit-illustrated-edition-book-sale-black-friday-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:15:00+00:00"
+    },
+    {
+      "guid": "bdf85a35-2f4b-4adf-b080-b2bc5d217033",
+      "title": "Rainbow Six: Vegas Reportedly Returning With New Installment",
+      "url": "https://www.ign.com/articles/rainbow-six-vegas-reportedly-returning-with-new-installment",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:14:03+00:00"
+    },
+    {
+      "guid": "5bf47038-cc05-4e83-bbfa-a48428e2de67",
+      "title": "Robert Pattinson\u2019s James Bond Deal Offers Higher Pay for Fewer Films Than Rivals",
+      "url": "https://www.ign.com/articles/robert-pattinsons-james-bond-deal-offers-higher-pay-for-fewer-films-than-rivals",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:09:08+00:00"
+    },
+    {
+      "guid": "a07ffbfb-54af-4d7c-8e1b-41e5c58b18dd",
+      "title": "The Game Awards 2026 Will Stream Live on Roblox for the First Time, Complete With Voting and Virtual Merch",
+      "url": "https://www.ign.com/articles/the-game-awards-2026-will-stream-live-on-roblox-for-the-first-time-complete-with-voting-and-virtual-merch",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:07:50+00:00"
+    },
+    {
+      "guid": "b6f3fe42-4a5f-462d-ae0a-e6f95ac1d6b5",
+      "title": "The Tiny SanDisk 1TB Portable SSD With Speeds of up to 600MB/s Drops to $120 for Black Friday",
+      "url": "https://www.ign.com/articles/sandisk-portable-ssd-deal-november-2026",
+      "source_name": "IGN",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:05:00+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236947182",
+      "title": "Top Limited Series Writers on the Importance of Episode Titles and Adapting Well-Known Films and True Stories: \u2018You Come Out With Something Familiar and Surprising\u2019",
+      "url": "https://variety.com/2026/tv/news/limited-series-night-in-the-writers-room-2-1236947182/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:10:23+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236754634",
+      "title": "Aaron Pierre Starrer \u2018Fairytale in New York\u2019 Lands at Netflix",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/aaron-pierre-fairytale-in-new-york-netflix-lionsgate-1236754634/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:22:56+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236754966",
+      "title": "Margot Robbie to Star in A24\u2019s \u2018The Week of Pain\u2019 From \u2018The Drama\u2019 Filmmaker Kristoffer Borgli",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/margot-robbie-the-week-of-pain-the-drama-kristoffer-borgli-1236754966/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:22:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763606",
+      "title": "One Piece Could Explore Portgas D. Ace\u2019s Untold Past Through an Anime Spin-Off Based on His Two Prequel Novels",
+      "url": "https://otakukart.com/one-piece-could-explore-portgas-d-aces-untold-past-through-an-anime-spin-off-based-on-his-two-prequel-novels/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-13T20:29:32+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763605",
+      "title": "Star Detective Precure! First Ending Theme Video Becomes Fastest Precure Video to Reach 10 Million YouTube Views",
+      "url": "https://otakukart.com/star-detective-precure-first-ending-theme-video-becomes-fastest-precure-video-to-reach-10-million-youtube-views/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-13T20:16:31+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763604",
+      "title": "Kadokawa Plans to More Than Double Annual Anime Output by 2031 Through New Studio One Base",
+      "url": "https://otakukart.com/kadokawa-plans-to-more-than-double-annual-anime-output-by-2031-through-new-studio-one-base/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-13T20:02:29+00:00"
     }
   ]
 }
