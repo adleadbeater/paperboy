@@ -1099,30 +1099,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://deadline.com/?p=1237222707",
-      "title": "Microsoft \u201cContinuing To See Improvements\u201d As Outlook Email Comes Back Up",
-      "url": "https://deadline.com/2026/11/microsoft-outlook-email-is-back-outage-recovery-1237222707/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T14:48:39+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237222688",
-      "title": "KPop Demon Hunters Announces 2027 Global Arena Tour Dates In North America, U.K. & Europe",
-      "url": "https://deadline.com/2026/11/kpop-demon-hunters-2027-golden-tour-dates-1237222688/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T14:45:55+00:00"
-    },
-    {
-      "guid": "https://deadline.com/?p=1237222700",
-      "title": "Stephanie Fuchs, Arianna Castoldi, Oscar Nominee R\u00e9mi Grellety Launch Autlook Collective, European Documentary Hub",
-      "url": "https://deadline.com/2026/11/autlook-collective-launch-stephanie-fuchs-arianna-castoldi-remi-grellety-interview-1237222700/",
-      "source_name": "Deadline",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T14:41:29+00:00"
-    },
-    {
       "guid": "https://variety.com/?p=1236946592",
       "title": "Zohran Mamdani Launches Two-Day NYC Youth Video Game Design Competition With a Transit Twist Ahead of \u2018GTA 6\u2019 Launch (EXCLUSIVE)",
       "url": "https://variety.com/2026/gaming/news/mamdani-nyc-vide-game-design-competition-1236946592/",
@@ -1145,38 +1121,6 @@
       "source_name": "Variety",
       "source_tier": 1,
       "published_dt": "2026-11-13T14:59:13+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754645",
-      "title": "\u2018Virgin River\u2019 Renewed for Netflix-Record Ninth Season",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/virgin-river-renewed-season-9-netflix-1236754645/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T14:45:26+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754648",
-      "title": "ABC Reveals NFL Quarterback as Next Star of \u2018The Bachelor\u2019",
-      "url": "https://www.hollywoodreporter.com/tv/tv-news/nfl-quarterback-sam-hartman-the-bachelor-1236754648/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T14:41:49+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-209095",
-      "title": "Base PS5's QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now",
-      "url": "https://www.pushsquare.com/news/2026/11/base-ps5s-qssr-enhancer-coming-to-6-more-games-in-spider-man-2-now",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T14:45:00+00:00"
-    },
-    {
-      "guid": "https://www.gematsu.com/?p=1088279",
-      "title": "PS5 QSSR support added to Marvel\u2019s Spider-Man 2, CONTROL Resonant, ARC Raiders, THE FINALS, No Man\u2019s Sky, and Hell Let Loose: Vietnam",
-      "url": "https://www.gematsu.com/2026/11/ps5-qssr-support-added-to-marvels-spider-man-2-control-resonant-arc-raiders-the-finals-no-mans-sky-and-hell-let-loose-vietnam",
-      "source_name": "Gematsu",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T14:43:36+00:00"
     },
     {
       "guid": "1c0edb68-202c-4a47-bb76-b7e88e2b9ead",
@@ -2177,6 +2121,38 @@
       "source_name": "Goonhammer",
       "source_tier": 2,
       "published_dt": "2026-11-13T18:00:15+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000756640",
+      "title": "Phantom Blade Zero: The Kotaku Review",
+      "url": "https://kotaku.com/phantom-blade-zero-the-kotaku-review-2000756640",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T18:45:27+00:00"
+    },
+    {
+      "guid": "E9kDjAqyFdtzm9GzKM5UdS",
+      "title": "Think you know videogame cats? Then name 17 of them",
+      "url": "https://www.pcgamer.com/games/think-you-know-videogame-cats-then-name-17-of-them/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T18:43:11+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236754848",
+      "title": "Darth Vader\u2019s Lightsaber Sets \u2018Star Wars\u2019 Auction Record Selling for Nearly $5 Million",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/darth-vader-lightsaber-star-wars-auction-record-1236754848/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T18:39:05+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236754818",
+      "title": "How the Oscar-Winning Directors of \u2018Free Solo\u2019 Confronted Tragedy \u2014 And Their Own Filmmaking \u2014 in \u2018Everest: The Other Side\u2019",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/everest-other-side-scad-film-festival-docs-to-watch-1236754818/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T18:32:32+00:00"
     }
   ]
 }
