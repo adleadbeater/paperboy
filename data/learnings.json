@@ -1099,30 +1099,6 @@
   "processed_replies": [],
   "article_cache": [
     {
-      "guid": "https://variety.com/?p=1236946592",
-      "title": "Zohran Mamdani Launches Two-Day NYC Youth Video Game Design Competition With a Transit Twist Ahead of \u2018GTA 6\u2019 Launch (EXCLUSIVE)",
-      "url": "https://variety.com/2026/gaming/news/mamdani-nyc-vide-game-design-competition-1236946592/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236946806",
-      "title": "Jon Hamm, Andrew Koji to Star in Takashi Miike\u2019s Tokyo-Set Psychological Thriller \u2018Bullfrog\u2019 as Mk2 Films Boards Sales (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/jon-hamm-andrew-koji-takashi-miike-tokyo-bullfrog-mk2-1236946806/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236946968",
-      "title": "Taylor Swift to Perform at CMAs for the First Time in 13 Years",
-      "url": "https://variety.com/2026/music/news/taylor-swift-to-perform-cma-awards-first-time-13-years-1236946968/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T14:59:13+00:00"
-    },
-    {
       "guid": "1c0edb68-202c-4a47-bb76-b7e88e2b9ead",
       "title": "GTA 6 Has a Whole Animated TV Series You Can Watch In-Game",
       "url": "https://www.ign.com/articles/gta-6-has-a-whole-animated-tv-series-you-can-watch-in-game",
@@ -1203,14 +1179,6 @@
       "published_dt": "2026-11-13T15:18:20+00:00"
     },
     {
-      "guid": "BdF7vnEdzzg92qUUzXJetj",
-      "title": "8 new Final Fantasy 7 Revelation features that make this RPG Square Enix's most ambitious to date",
-      "url": "https://www.gamesradar.com/games/final-fantasy/ff7-revelation-biggest-gameplay-changes-and-new-mechanics/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T15:00:00+00:00"
-    },
-    {
       "guid": "1958673",
       "title": "GTA 6 In-Game TV Show Macca & Friends Looks Ridiculous In The Best Way",
       "url": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/",
@@ -1225,30 +1193,6 @@
       "source_name": "Push Square",
       "source_tier": 2,
       "published_dt": "2026-11-13T15:30:00+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-209096",
-      "title": "GTA 6's In-Game Animated TV Series, Macca & Friends, Hints at the Game's Absurd Scope",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-in-game-animated-tv-series-macca-and-friends-hints-at-the-games-absurd-scope",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T15:00:00+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1126721",
-      "title": "Animate Will Add More Zelda: Ocarina of Time Merchandise",
-      "url": "https://www.siliconera.com/animate-will-add-more-zelda-ocarina-of-time-merchandise/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T15:00:28+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-208998",
-      "title": "'We Haven't Had Any Reports of Damaged Consoles' - Incube8 Games Responds to Criticism over Game Boy Color Title 'Infinity'",
-      "url": "https://www.timeextension.com/news/2026/11/we-havent-had-any-reports-of-damaged-consoles-incube8-games-responds-to-criticism-over-game-boy-color-title-infinity",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T15:00:00+00:00"
     },
     {
       "guid": "https://www.gematsu.com/?p=1087577",
@@ -2153,6 +2097,30 @@
       "source_name": "Hollywood Reporter",
       "source_tier": 1,
       "published_dt": "2026-11-13T18:32:32+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237222859",
+      "title": "Aaron Pierre And \u2018Sisu\u2019 Director Jalmari Helander Team on Action Thriller \u2018Fairytale In New York\u2019 From Netflix And Lionsgate",
+      "url": "https://deadline.com/2026/11/aaron-pierre-sisu-jalmari-helander-fairytale-in-new-york-1237222859/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T19:00:00+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236754774",
+      "title": "Grammys to Air 2027 Premiere Ceremony on Disney+",
+      "url": "https://www.hollywoodreporter.com/music/music-news/grammys-2027-premiere-ceremony-disneyplus-1236754774/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T19:00:04+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1126743",
+      "title": "The Emet-Selch FFXIV Nendoroid Will Appear Next Year",
+      "url": "https://www.siliconera.com/the-emet-selch-ffxiv-nendoroid-will-appear-next-year/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-13T19:00:00+00:00"
     }
   ]
 }
