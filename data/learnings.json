@@ -1108,99 +1108,46 @@
         "The Game Awards to Reveal 2026 Nominees Next Week Ahead of \u2018GTA 6\u2019 Debut, PlayStation 5 Joins Livestreamers for December Show (EXCLUSIVE)",
         "The Game Awards 2026 Nominees to Be Revealed on 17th November"
       ]
+    },
+    {
+      "headline": "The Stalker-Meets-Tarkov Survival Game Marauders Is Shutting Down Less Than a Year After Launch",
+      "tag": "marauders",
+      "posted_at": "2026-11-13T21:01:03.928755+00:00",
+      "urls": [
+        "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/"
+      ],
+      "article_titles": [
+        "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch"
+      ]
+    },
+    {
+      "headline": "Netflix's Magic: The Gathering Animated Series Gets a Title and First Look \u2014 and It Looks Like Arcane",
+      "tag": "magic: the gathering",
+      "posted_at": "2026-11-13T21:01:04.033344+00:00",
+      "urls": [
+        "https://www.gamesradar.com/entertainment/animation-shows/planeswalker-is-netflixs-magic-the-gathering-series-and-the-sneak-peek-sure-looks-like-arcane/",
+        "https://variety.com/2026/tv/news/netflix-magic-the-gathering-series-planeswalker-first-look-1236947203/"
+      ],
+      "article_titles": [
+        "Planeswalker is Netflix's Magic: The Gathering series, and the sneak peek sure looks like Arcane",
+        "Netflix\u2019s \u2018Magic the Gathering\u2019 Animated Series Drops First Look at \u2018Planeswalker,\u2019 Set for 2027"
+      ]
+    },
+    {
+      "headline": "Nintendo Accidentally Teased Something That Got Every Zelda Fan's Hopes Up",
+      "tag": "the legend of zelda",
+      "posted_at": "2026-11-13T21:01:04.141874+00:00",
+      "urls": [
+        "https://kotaku.com/nintendo-official-website-erroneously-suggests-a-link-between-worlds-is-available-on-nso-2000756672"
+      ],
+      "article_titles": [
+        "Nintendo Just Accidentally Got Every Zelda Nerd\u2019s Hopes Up"
+      ]
     }
   ],
   "processed_reactions": [],
   "processed_replies": [],
   "article_cache": [
-    {
-      "guid": "https://kotaku.com/?p=2000756631",
-      "title": "Overwatch Fans Got The News They Were Afraid Of About The New \u2018Omnic Detective\u2019 Hero",
-      "url": "https://kotaku.com/overwatch-hudson-omnic-detective-damage-support-role-2000756631",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T17:00:01+00:00"
-    },
-    {
-      "guid": "https://kotaku.com/?p=2000756596",
-      "title": "Devs Promise To Pay $5,000 To Help Cover Your Divorce If You Can Be The First To Beat Their Lock-Picking Game",
-      "url": "https://kotaku.com/devs-promise-to-pay-5000-to-help-cover-your-divorce-if-you-can-be-the-first-to-beat-their-lock-picking-game-2000756596",
-      "source_name": "Kotaku",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:30:43+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236947064",
-      "title": "Tom Hopper, Rita Ora and Mila Harris to Star in Sci-Fi Thriller \u2018The Signalers,\u2019 WME Independent Launches Sales (EXCLUSIVE)",
-      "url": "https://variety.com/2026/film/global/tom-hopper-rita-ora-mila-harris-sci-fi-movie-the-signalers-1236947064/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236916719",
-      "title": "Evil Moms: From \u2018East of Eden\u2019 to \u2018Carrie,\u2019 TV\u2019s Latest Trope Is Honoring Women Who Choose Themselves",
-      "url": "https://variety.com/2026/tv/columns/evil-moms-east-of-eden-carrie-tv-latest-trope-1236916719/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236946984",
-      "title": "\u2018Russell Brand: Open Secret\u2019 Director Says Finding Contributors Wasn\u2019t Easy: \u2018There\u2019s Been a Landscape of Fear\u2019",
-      "url": "https://variety.com/2026/tv/global/russell-brand-open-secret-netflix-director-1236946984/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:56:51+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754753",
-      "title": "Taylor Swift to Perform at the 2026 CMA Awards",
-      "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-perform-2026-cma-awards-1236754753/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:34:48+00:00"
-    },
-    {
-      "guid": "https://www.hollywoodreporter.com/?p=1236754647",
-      "title": "Russell Brand Accused of Predatory Behavior by Several More Women: \u201cI Begged Him to Stop\u201d",
-      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-sexual-allegations-women-prison-trial-report-1236754647/",
-      "source_name": "Hollywood Reporter",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:31:37+00:00"
-    },
-    {
-      "guid": "fHJba5UWt7bMqbCzBydhBf",
-      "title": "Sony's base PS5 AI upscaling tech is making that $900 PS5 Pro price look worse",
-      "url": "https://www.gamesradar.com/hardware/sonys-base-ps5-ai-upscaling-tech-is-making-that-usd900-ps5-pro-price-look-worse-as-marvels-spider-man-2-no-mans-sky-and-more-get-visual-updates/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T16:48:34+00:00"
-    },
-    {
-      "guid": "Qzb3RtEyfp2g72jjePX4RE",
-      "title": "Crimson Desert studio Pearl Abyss now implementing AI \"throughout our entire development pipeline\"",
-      "url": "https://www.gamesradar.com/games/open-world/despite-crimson-deserts-ai-backlash-pearl-abyss-is-now-implementing-the-tech-throughout-our-entire-development-pipeline-including-for-upcoming-pokemon-like-dokev/",
-      "source_name": "GamesRadar",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T16:33:47+00:00"
-    },
-    {
-      "guid": "1958702",
-      "title": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
-      "url": "https://www.gamespot.com/articles/gta-6-and-these-other-games-can-justify-an-80-price-expert-says/",
-      "source_name": "GameSpot",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T16:37:29+00:00"
-    },
-    {
-      "guid": "https://www.siliconera.com/?p=1126735",
-      "title": "New Stranger Than Heaven Story Trailer Covers Kure",
-      "url": "https://www.siliconera.com/new-stranger-than-heaven-story-trailer-covers-kure/",
-      "source_name": "Siliconera",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
     {
       "guid": "372b350c-5038-4a2d-9a12-a36f963d44b4",
       "title": "Gruv Launches Black Friday Sale With Tons of Excellent 4K Deals",
@@ -1208,30 +1155,6 @@
       "source_name": "IGN",
       "source_tier": 1,
       "published_dt": "2026-11-13T17:10:12+00:00"
-    },
-    {
-      "guid": "e92d1b77-6f6a-47ec-86b6-54390bfc2921",
-      "title": "25 Years Ago, Kojima Made the Perfect Metal Gear Solid for the 2020s",
-      "url": "https://www.ign.com/articles/25-years-ago-kojima-made-the-perfect-metal-gear-solid-for-the-2020s",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "guid": "60cfb801-a28f-4bdc-b260-f67ec7ffaf98",
-      "title": "Pok\u00e9mon Collector Discovers Rare Playable Copy of Pok\u00e9Park Fishing Rally DS 20 Years After the Limited-Time Event It Was Made For",
-      "url": "https://www.ign.com/articles/pokmon-collector-discovers-rare-playable-copy-of-pokpark-fishing-rally-ds-20-years-after-the-limited-time-event-it-was-made-for",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "guid": "bdaa2199-e58b-44c4-be73-a294f89c4353",
-      "title": "WoW Forever Has a Weekly Quest That Can Reward Up to 100 Gold, and Players Don't Love It",
-      "url": "https://www.ign.com/articles/wow-forever-has-a-weekly-quest-that-can-reward-up-to-100-gold-and-players-dont-love-it",
-      "source_name": "IGN",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T16:56:54+00:00"
     },
     {
       "guid": "CDNF8Z8s3XHbo5CgMdqLLQ",
@@ -1282,22 +1205,6 @@
       "published_dt": "2026-11-13T17:30:00+00:00"
     },
     {
-      "guid": "https://variety.com/?p=1236946597",
-      "title": "Unauthorized \u2018Gilmore Girls\u2019 Doc \u2018Drink Coffee, Talk Fast\u2019 Sets Release Date as Series Alum Scott Patterson Joins as Producer (EXCLUSIVE)",
-      "url": "https://variety.com/2026/tv/news/gilmore-girls-documentary-scott-patterson-streaming-1236946597/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "guid": "https://variety.com/?p=1236946759",
-      "title": "\u2018Lilo & Scratch\u2019: Disney Animation Blends 2D and 3D to Bring Back Stitch to the Big Screen in a New Short",
-      "url": "https://variety.com/2026/film/news/lilo-scratch-disney-animation-short-1236946759/",
-      "source_name": "Variety",
-      "source_tier": 1,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
-    {
       "guid": "c6MSSiZwYNfZqXMzetnHbS",
       "title": "The Blood of Dawnwalker is getting New Game+ next week",
       "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-is-getting-new-game-next-week-with-patch-bringing-the-level-cap-for-the-ex-witcher-devs-vampire-rpg-up-to-100/",
@@ -1320,22 +1227,6 @@
       "source_name": "GameSpot",
       "source_tier": 2,
       "published_dt": "2026-11-13T17:13:06+00:00"
-    },
-    {
-      "guid": "https://www.pushsquare.com/#article-209093",
-      "title": "'We Want to Create Franchises That Withstand Decades': Sony Reveals Ambition to Dominate Anime",
-      "url": "https://www.pushsquare.com/news/2026/11/we-want-to-create-franchises-that-withstand-decades-sony-reveals-ambition-to-dominate-anime",
-      "source_name": "Push Square",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "guid": "https://www.timeextension.com/#article-208957",
-      "title": "Interviews: \"Barbie's Fan Base Is Really Broad & Deep\" - Barbie Rewind Devs on the Doll's Gaming History & Why They Aren't Scared of GTA 6",
-      "url": "https://www.timeextension.com/features/interviews-barbies-fan-base-is-really-broad-and-deep-barbie-rewind-devs-on-the-dolls-gaming-history-and-why-they-arent-scared-of-gta-6",
-      "source_name": "Time Extension",
-      "source_tier": 2,
-      "published_dt": "2026-11-13T17:00:00+00:00"
     },
     {
       "guid": "t3_1xvdp13",
@@ -1952,6 +1843,118 @@
       "source_name": "Otakukart",
       "source_tier": 2,
       "published_dt": "2026-11-13T20:02:29+00:00"
+    },
+    {
+      "guid": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
+      "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
+      "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
+      "source_name": "Eurogamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:49:20+00:00"
+    },
+    {
+      "guid": "https://kotaku.com/?p=2000756672",
+      "title": "Nintendo Just Accidentally Got Every Zelda Nerd\u2019s Hopes Up",
+      "url": "https://kotaku.com/nintendo-official-website-erroneously-suggests-a-link-between-worlds-is-available-on-nso-2000756672",
+      "source_name": "Kotaku",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:30:32+00:00"
+    },
+    {
+      "guid": "r8DKexawwBg27emyYWFjDm",
+      "title": "A survival game we once called 'Stalker and Tarkov's alien baby' is closing down less than a year after launch",
+      "url": "https://www.pcgamer.com/games/fps/a-survival-game-we-once-called-stalker-and-tarkovs-alien-baby-is-closing-down-less-than-a-year-after-launch/",
+      "source_name": "PC Gamer",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:37:35+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237223240",
+      "title": "\u2018Victorian Psycho\u2019 Joins New James Gray and Pedro Almod\u00f3var Releases In Indie Weekend Lineup \u2014 Specialty Preview",
+      "url": "https://deadline.com/2026/11/indie-films-opening-victorian-psycho-paper-tiger-almodovar-1237223240/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:45:00+00:00"
+    },
+    {
+      "guid": "https://deadline.com/?p=1237223299",
+      "title": "Xochitl Gomez On Why Joining Marvel\u2019s MCU Was \u201cA Gift & A Curse\u201d & The Possibility Of An \u2018Avengers: Doomsday\u2019 Appearance",
+      "url": "https://deadline.com/2026/11/xochitl-gomez-marvel-mcu-avengers-doomsday-1237223299/",
+      "source_name": "Deadline",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:40:39+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236947231",
+      "title": "Huelva Ibero-American Film Festival: Genre Mashups, a Vibrant Brazil and an Award for the One-Off Paulina Garc\u00eda",
+      "url": "https://variety.com/2026/film/global/huelva-ibero-american-festival-genre-mashups-paulina-garcia-1236947231/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:54:57+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236947234",
+      "title": "\u2018Dept. Q\u2019 Crew Member Dies on Set in Edinburgh After Season 2 Wrapped Filming",
+      "url": "https://variety.com/2026/tv/news/dept-q-crew-member-dies-edinburgh-1236947234/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:52:53+00:00"
+    },
+    {
+      "guid": "https://variety.com/?p=1236947244",
+      "title": "10 Huelva Festival Standouts From \u2018La Bola Negra\u2019 to a Vibrant \u2018Funk\u2019 Musical and the Latest from \u2018Dive\u2019 Director Luc\u00eda Puenzo",
+      "url": "https://variety.com/2026/film/global/huelva-festival-standouts-la-bola-negra-funk-lucia-puenzo-1236947244/",
+      "source_name": "Variety",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:45:55+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?post_type=pmc-gallery&p=1236750052",
+      "title": "Ariana Grande Celebrates \u2018Focker In-Law,\u2019 \u2018How to Rob a Bank\u2019 Hits NYC and This Week\u2019s Best Events",
+      "url": "https://www.hollywoodreporter.com/gallery/focker-in-law-how-to-rob-bank-red-carpet-events-1236750052/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:58:40+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236754931",
+      "title": "Gerry Griffith, Music Executive Who Discovered Whitney Houston, Dies at 87",
+      "url": "https://www.hollywoodreporter.com/music/music-news/gerry-griffith-dead-whitney-houston-discovered-1236754931/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:34:37+00:00"
+    },
+    {
+      "guid": "https://www.hollywoodreporter.com/?p=1236752328",
+      "title": "\u2018Cunk on Cinema\u2019 Review: Michael Bay and Benedict Cumberbatch Join Diane Morgan\u2019s Documentary Presenter for Her Latest Laugh-Filled Netflix Series",
+      "url": "https://www.hollywoodreporter.com/tv/tv-reviews/cunk-on-cinema-review-philomena-cunk-diane-morgan-netflix-1236752328/",
+      "source_name": "Hollywood Reporter",
+      "source_tier": 1,
+      "published_dt": "2026-11-13T20:31:40+00:00"
+    },
+    {
+      "guid": "WhBWeyyHbzgEhtSKhAty3c",
+      "title": "Planeswalker is Netflix's Magic: The Gathering series, and the sneak peek sure looks like Arcane",
+      "url": "https://www.gamesradar.com/entertainment/animation-shows/planeswalker-is-netflixs-magic-the-gathering-series-and-the-sneak-peek-sure-looks-like-arcane/",
+      "source_name": "GamesRadar",
+      "source_tier": 2,
+      "published_dt": "2026-11-13T20:36:37+00:00"
+    },
+    {
+      "guid": "https://www.siliconera.com/?p=1126768",
+      "title": "HoloCozy Turns Hololive Vtubers Into Idle Desktop Companions",
+      "url": "https://www.siliconera.com/holocozy-turns-hololive-vtubers-into-idle-desktop-companions/",
+      "source_name": "Siliconera",
+      "source_tier": 2,
+      "published_dt": "2026-11-13T21:00:00+00:00"
+    },
+    {
+      "guid": "https://otakukart.com/?p=1763615",
+      "title": "Tomb Raider: Legacy of Atlantis Pre-Orders Exceed Embracer Group\u2019s Expectations as Collector\u2019s Edition Sells Out",
+      "url": "https://otakukart.com/tomb-raider-legacy-of-atlantis-pre-orders-exceed-embracer-groups-expectations-as-collectors-edition-sells-out/",
+      "source_name": "Otakukart",
+      "source_tier": 2,
+      "published_dt": "2026-11-13T20:54:40+00:00"
     }
   ]
 }
